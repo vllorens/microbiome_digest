@@ -1,0 +1,952 @@
+timezone: "Europe/London"
+lookback_hours: 24
+
+paths:
+  data_dir: "data"
+  output_dir: "output"
+  state_dir: "state"
+
+limits:
+  max_items_total: 40
+  max_items_microbiome: 30
+  max_items_clinical: 5
+
+excluded_terms:
+  # Cell / molecular biology off-topic
+  # Off-topic physical sciences
+  # Administrative / non-research
+  - "author correction"
+  - "in this issue"
+  - "retraction notice"
+  - "news & views"
+  - "cover"
+  - "editorial board"
+  - "table of contents"
+
+rss_sources:
+  # High-Impact General Journals
+  - name: "Nature - Microbiome Topic"
+    url: "https://www.nature.com/subjects/microbiome.rss"
+    tags: ["microbiome", "nature", "high-impact"]
+    bucket: "microbiome"
+
+  - name: "Nature Medicine"
+    url: "https://www.nature.com/nm.rss"
+    tags: ["microbiome", "clinical", "high-impact"]
+    bucket: "microbiome"
+
+  - name: "Nature Communications - Microbiome"
+    url: "https://www.nature.com/subjects/microbiome.rss?journal=ncomms"
+    tags: ["microbiome", "nature-comms", "broad"]
+    bucket: "microbiome"
+
+  - name: "Cell Host & Microbe"
+    url: "https://www.cell.com/cell-host-microbe/inpress.rss"
+    tags: ["microbiome", "cell", "host-microbe", "high-impact"]
+    bucket: "microbiome"
+
+  - name: "Cell"
+    url: "https://www.cell.com/cell/inpress.rss"
+    tags: ["microbiome", "cell", "high-impact"]
+    bucket: "microbiome"
+
+  - name: "Science"
+    url: "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    tags: ["microbiome", "science", "high-impact", "broad"]
+    bucket: "microbiome"
+
+  - name: "PNAS"
+    url: "https://www.pnas.org/action/showFeed?type=etoc&feed=rss&jc=pnas"
+    tags: ["microbiome", "pnas", "broad"]
+    bucket: "microbiome"
+
+  - name: "eLife - Microbiology"
+    url: "https://elifesciences.org/rss/subject/microbiology-infectious-disease.xml"
+    tags: ["microbiome", "elife", "open-access"]
+    bucket: "microbiome"
+
+# Dedicated Microbiome Journals
+  - name: "Microbiome (BioMed Central)"
+    url: "https://microbiomejournal.biomedcentral.com/articles/most-recent/rss.xml"
+    tags: ["microbiome", "bmc", "dedicated", "open-access"]
+    bucket: "microbiome"
+
+  - name: "npj Biofilms and Microbiomes"
+    url: "https://www.nature.com/npjbiofilms.rss"
+    tags: ["microbiome", "npj", "nature", "biofilms"]
+    bucket: "microbiome"
+
+  - name: "Gut Microbes"
+    url: "https://www.tandfonline.com/feed/rss/kgmi20"
+    tags: ["microbiome", "gut", "dedicated", "taylor-francis"]
+    bucket: "microbiome"
+
+  - name: "mSystems"
+    url: "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=msystems"
+    tags: ["microbiome", "asm", "computational", "systems"]
+    bucket: "microbiome"
+
+  - name: "mBio"
+    url: "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=mbio"
+    tags: ["microbiome", "asm", "microbiology", "open-access"]
+    bucket: "microbiome"
+
+  - name: "ISME Journal"
+    url: "https://www.nature.com/ismej.rss"
+    tags: ["microbiome", "ecology", "isme", "nature"]
+    bucket: "microbiome"
+
+  - name: "ISME Communications"
+    url: "https://www.nature.com/ismecomms.rss"
+    tags: ["microbiome", "ecology", "isme", "open-access"]
+    bucket: "microbiome"
+
+  - name: "Microbiological Spectrum"
+    url: "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=spectrum"
+    tags: ["microbiome", "asm", "broad-microbiology"]
+    bucket: "microbiome"
+
+# CRC / IBS / GI-focused Journals
+  - name: "Gut (BMJ)"
+    url: "https://gut.bmj.com/rss/current.xml"
+    tags: ["microbiome", "CRC", "IBS", "gastroenterology", "bmj", "clinical"]
+    bucket: "clinical"
+
+  - name: "Gastroenterology"
+    url: "https://www.gastrojournal.org/current.rss"
+    tags: ["microbiome", "CRC", "IBS", "gastroenterology", "clinical"]
+    bucket: "clinical"
+
+  - name: "Alimentary Pharmacology & Therapeutics"
+    url: "https://onlinelibrary.wiley.com/feed/13652036/most-recent"
+    tags: ["microbiome", "IBS", "gastroenterology", "clinical", "wiley"]
+    bucket: "clinical"
+
+  - name: "Journal of Crohn's and Colitis"
+    url: "https://academic.oup.com/rss/site_5398/advanceAccess_3259.xml"
+    tags: ["microbiome", "IBD", "CRC", "clinical", "oup"]
+    bucket: "clinical"
+
+  - name: "Journal of the National Cancer Institute"
+    url: "https://academic.oup.com/rss/site_5125/advanceAccess_3071.xml"
+    tags: ["microbiome", "CRC", "cancer", "clinical"]
+    bucket: "clinical"
+
+# Metatranscriptomics / Functional Microbiome
+  - name: "Nucleic Acids Research"
+    url: "https://academic.oup.com/rss/site_5127/3091.xml"
+    tags: ["microbiome", "metatranscriptomics", "genomics", "oup"]
+    bucket: "omics"
+
+  - name: "Nucleic Acids Research (advance access)" 
+    url: "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    tags: ["microbiome", "metatranscriptomics", "genomics", "oup"]
+    bucket: "omics"
+
+  - name: "Genome Research"
+    url: "https://genome.cshlp.org/rss/current.xml"
+    tags: ["microbiome", "metatranscriptomics", "genomics", "cshl"]
+    bucket: "omics"
+
+  - name: "mSphere"
+    url: "https://journals.asm.org/action/showFeed?type=etoc&feed=rss&jc=msphere"
+    tags: ["microbiome", "metatranscriptomics", "asm", "open-access"]
+    bucket: "omics"
+
+# Genetic Engineering of Microbiome / Synthetic Biology
+  - name: "Nature Biotechnology"
+    url: "https://www.nature.com/nbt.rss"
+    tags: ["microbiome", "genetic-engineering", "synthetic-biology", "nature"]
+    bucket: "engineering"
+
+  - name: "ACS Synthetic Biology"
+    url: "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=asbcd6"
+    tags: ["microbiome", "genetic-engineering", "synthetic-biology", "acs"]
+    bucket: "engineering"
+
+# Computational Microbiome / Bioinformatics
+  - name: "Bioinformatics (OUP)"
+    url: "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    tags: ["microbiome", "computational", "bioinformatics", "oup"]
+    bucket: "computational"
+
+  - name: "PLOS Computational Biology"
+    url: "https://journals.plos.org/ploscompbiol/feed/atom"
+    tags: ["microbiome", "computational", "plos", "open-access"]
+    bucket: "computational"
+
+  - name: "Briefings in Bioinformatics"
+    url: "https://academic.oup.com/rss/site_5143/3005.xml"
+    tags: ["microbiome", "computational", "bioinformatics", "oup"]
+    bucket: "computational"
+
+  - name: "Gigascience"
+    url: "https://academic.oup.com/rss/site_5589/advanceAccess_3462.xml"
+    tags: ["microbiome", "computational", "data", "open-access"]
+    bucket: "computational"
+
+# Preprint Servers
+  - name: "bioRxiv - Microbiology"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    tags: ["microbiome", "preprint", "biorxiv", "microbiology"]
+    bucket: "microbiome"
+
+  - name: "bioRxiv - Genomics"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    tags: ["microbiome", "preprint", "biorxiv", "genomics", "metatranscriptomics"]
+    bucket: "omics"
+
+  - name: "bioRxiv - Bioinformatics"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?subject=bioinformatics"
+    tags: ["microbiome", "preprint", "biorxiv", "computational"]
+    bucket: "computational"
+
+  - name: "bioRxiv - Synthetic Biology"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?subject=synthetic_biology"
+    tags: ["microbiome", "preprint", "biorxiv", "genetic-engineering"]
+    bucket: "engineering"
+
+  - name: "medRxiv - Gastroenterology"
+    url: "https://connect.medrxiv.org/medrxiv_xml.php?subject=gastroenterology"
+    tags: ["microbiome", "preprint", "medrxiv", "CRC", "IBS", "clinical"]
+    bucket: "clinical"
+
+  - name: "medRxiv - Oncology"
+    url: "https://connect.medrxiv.org/medrxiv_xml.php?subject=oncology"
+    tags: ["microbiome", "preprint", "medrxiv", "CRC", "cancer"]
+    bucket: "clinical"
+  
+  - name: "Nature Methods"
+    url: "https://www.nature.com/nmeth.rss"
+    tags: ["microbiome", "methods", "nature", "protocols"]
+    bucket: "microbiome"
+
+  - name: "Nature Protocols"
+    url: "https://www.nature.com/nprot.rss"
+    tags: ["microbiome", "protocols", "nature", "methods"]
+    bucket: "microbiome"
+
+  - name: "STAR Protocols (Cell)"
+    url: "https://www.cell.com/star-protocols/inpress.rss"
+    tags: ["microbiome", "protocols", "cell", "methods"]
+    bucket: "microbiome"
+
+  - name: "Nature Microbiology"
+    url: "https://www.nature.com/nmicrobiol.rss"
+    tags: ["microbiome", "microbiology", "nature", "high-impact"]
+    bucket: "microbiome"
+
+# ── Key researchers — gut microbiome ──────────────────────────────────────
+  # Note: bioRxiv API uses author name search; clinical researchers also get medRxiv
+
+  # ── Spain ─────────────────────────────────────────────────────────────────
+  - name: "Mireia Valles-Colomer (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Valles-Colomer"
+    tags: ["microbiome", "author", "spain"]
+    bucket: "microbiome"
+
+  - name: "Amelie Baud (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Baud+Amelie"
+    tags: ["microbiome", "author", "spain"]
+    bucket: "microbiome"
+
+  - name: "Maria Carmen Collado (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Collado+Maria"
+    tags: ["microbiome", "author", "spain"]
+    bucket: "microbiome"
+
+  - name: "Ana Djukovic (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Djukovic"
+    tags: ["microbiome", "author", "spain"]
+    bucket: "microbiome"
+
+  - name: "Yolanda Sanz (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Sanz+Yolanda"
+    tags: ["microbiome", "author", "spain"]
+    bucket: "microbiome"
+
+  - name: "Pilar Francino (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Francino"
+    tags: ["microbiome", "author", "spain"]
+    bucket: "microbiome"
+
+  - name: "Alex Mira (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Mira+Alex"
+    tags: ["microbiome", "author", "spain"]
+    bucket: "microbiome"
+
+  - name: "Carles Ubeda (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Ubeda"
+    tags: ["microbiome", "author", "spain"]
+    bucket: "microbiome"
+
+  - name: "Rosa del Campo (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=del+Campo+Rosa"
+    tags: ["microbiome", "author", "spain"]
+    bucket: "microbiome"
+
+  - name: "Maria Victoria Moreno Arribas (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Moreno-Arribas"
+    tags: ["microbiome", "author", "spain"]
+    bucket: "microbiome"
+
+  - name: "Susana Delgado Palacio (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Delgado-Palacio"
+    tags: ["microbiome", "author", "spain"]
+    bucket: "microbiome"
+
+  - name: "Toni Gabaldon (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Gabaldon"
+    tags: ["microbiome", "author", "spain", "computational"]
+    bucket: "microbiome"
+
+  - name: "Enrique Carrillo de Santa Pau (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Carrillo+de+Santa+Pau"
+    tags: ["microbiome", "author", "spain", "computational"]
+    bucket: "microbiome"
+
+  - name: "Alfonso Benitez-Paez (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Benitez-Paez"
+    tags: ["microbiome", "author", "spain"]
+    bucket: "microbiome"
+
+  - name: "Chaysavanh Manichanh (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Manichanh"
+    tags: ["microbiome", "author", "spain"]
+    bucket: "microbiome"
+
+  - name: "Francisco Guarner (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Guarner+Francisco"
+    tags: ["microbiome", "author", "spain"]
+    bucket: "microbiome"
+
+  - name: "Jaime Huerta-Cepas (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Huerta-Cepas"
+    tags: ["microbiome", "author", "spain", "computational"]
+    bucket: "microbiome"
+
+  # ── USA/Canada ─────────────────────────────────────────────────────────────
+  - name: "Rob Knight (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Knight+Rob"
+    tags: ["microbiome", "author", "usa"]
+    bucket: "microbiome"
+
+  - name: "Curtis Huttenhower (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Huttenhower"
+    tags: ["microbiome", "author", "usa", "computational"]
+    bucket: "microbiome"
+
+  - name: "Dan Knights (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Knights+Dan"
+    tags: ["microbiome", "author", "usa", "computational"]
+    bucket: "microbiome"
+
+  - name: "Michael Snyder (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Snyder+Michael"
+    tags: ["microbiome", "author", "usa"]
+    bucket: "microbiome"
+
+  - name: "Ruth Ley (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Ley+Ruth"
+    tags: ["microbiome", "author", "usa"]
+    bucket: "microbiome"
+
+  - name: "Gregory Gloor (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Gloor+Gregory"
+    tags: ["microbiome", "author", "usa", "computational"]
+    bucket: "microbiome"
+
+  - name: "Cynthia Sears (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Sears+Cynthia"
+    tags: ["microbiome", "author", "usa", "CRC"]
+    bucket: "microbiome"
+
+  - name: "Cynthia Sears (medRxiv)"
+    url: "https://connect.medrxiv.org/medrxiv_xml.php?author=Sears+Cynthia"
+    tags: ["microbiome", "author", "usa", "CRC", "clinical"]
+    bucket: "microbiome"
+
+  - name: "Jennifer Wargo (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Wargo+Jennifer"
+    tags: ["microbiome", "author", "usa", "CRC"]
+    bucket: "microbiome"
+
+  - name: "Jennifer Wargo (medRxiv)"
+    url: "https://connect.medrxiv.org/medrxiv_xml.php?author=Wargo+Jennifer"
+    tags: ["microbiome", "author", "usa", "CRC", "clinical"]
+    bucket: "microbiome"
+
+  - name: "Susan Bullman (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Bullman"
+    tags: ["microbiome", "author", "usa", "CRC"]
+    bucket: "microbiome"
+
+  - name: "Jeffrey Gordon (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Gordon+Jeffrey"
+    tags: ["microbiome", "author", "usa"]
+    bucket: "microbiome"
+
+  # ── Weizmann ───────────────────────────────────────────────────────────────
+  - name: "Eran Segal (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Segal+Eran"
+    tags: ["microbiome", "author", "israel", "computational"]
+    bucket: "microbiome"
+
+  - name: "Eran Elinav (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Elinav+Eran"
+    tags: ["microbiome", "author", "israel"]
+    bucket: "microbiome"
+
+  - name: "Eran Elinav (medRxiv)"
+    url: "https://connect.medrxiv.org/medrxiv_xml.php?author=Elinav+Eran"
+    tags: ["microbiome", "author", "israel", "clinical"]
+    bucket: "microbiome"
+
+  # ── Europe ─────────────────────────────────────────────────────────────────
+  - name: "Peer Bork (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Bork+Peer"
+    tags: ["microbiome", "author", "europe", "computational"]
+    bucket: "microbiome"
+
+  - name: "Nicola Segata (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Segata+Nicola"
+    tags: ["microbiome", "author", "europe", "computational"]
+    bucket: "microbiome"
+
+  - name: "Jeroen Raes (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Raes+Jeroen"
+    tags: ["microbiome", "author", "europe"]
+    bucket: "microbiome"
+
+  - name: "Patrice Cani (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Cani+Patrice"
+    tags: ["microbiome", "author", "europe"]
+    bucket: "microbiome"
+
+  - name: "Clara Belzer (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Belzer+Clara"
+    tags: ["microbiome", "author", "europe"]
+    bucket: "microbiome"
+
+  - name: "Sara Vieira-Silva (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Vieira-Silva"
+    tags: ["microbiome", "author", "europe", "computational"]
+    bucket: "microbiome"
+
+  - name: "Gwen Falony (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Falony"
+    tags: ["microbiome", "author", "europe"]
+    bucket: "microbiome"
+
+  - name: "David Bikard (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Bikard"
+    tags: ["microbiome", "author", "europe", "genetic-engineering"]
+    bucket: "microbiome"
+
+  - name: "Ana Santos Almeida (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Almeida+Ana"
+    tags: ["microbiome", "author", "europe", "computational"]
+    bucket: "microbiome"
+
+  - name: "Isabel Gordo (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Gordo+Isabel"
+    tags: ["microbiome", "author", "europe"]
+    bucket: "microbiome"
+
+  - name: "Kiran Raosaheb Patil (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Patil+Kiran"
+    tags: ["microbiome", "author", "europe", "computational"]
+    bucket: "microbiome"
+
+  - name: "Michael Zimmermann (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Zimmermann+Michael"
+    tags: ["microbiome", "author", "europe"]
+    bucket: "microbiome"
+
+  - name: "Lisa Maier (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Maier+Lisa"
+    tags: ["microbiome", "author", "europe"]
+    bucket: "microbiome"
+
+  - name: "Nassos Typas (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Typas"
+    tags: ["microbiome", "author", "europe"]
+    bucket: "microbiome"
+
+  - name: "Maria Zimmermann-Kogadeeva (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Zimmermann-Kogadeeva"
+    tags: ["microbiome", "author", "europe", "computational"]
+    bucket: "microbiome"
+
+  - name: "John Cryan (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Cryan+John"
+    tags: ["microbiome", "author", "europe", "gut-brain"]
+    bucket: "microbiome"
+
+  - name: "John Cryan (medRxiv)"
+    url: "https://connect.medrxiv.org/medrxiv_xml.php?author=Cryan+John"
+    tags: ["microbiome", "author", "europe", "gut-brain", "clinical"]
+    bucket: "microbiome"
+
+  - name: "Georg Zeller (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Zeller+Georg"
+    tags: ["microbiome", "author", "europe", "computational", "CRC"]
+    bucket: "microbiome"
+
+  # ── Others ─────────────────────────────────────────────────────────────────
+  - name: "Luis Pedro Coelho (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Coelho+Luis"
+    tags: ["microbiome", "author", "computational"]
+    bucket: "microbiome"
+
+  - name: "Takuji Yamada (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Yamada+Takuji"
+    tags: ["microbiome", "author", "japan", "computational"]
+    bucket: "microbiome"
+
+  - name: "Kenya Honda (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Honda+Kenya"
+    tags: ["microbiome", "author", "japan"]
+    bucket: "microbiome"
+
+# ── CRC / tumor microbiome ─────────────────────────────────────────────────
+  - name: "Wendy Garrett (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Garrett+Wendy"
+    tags: ["microbiome", "author", "usa", "CRC"]
+    bucket: "microbiome"
+
+  - name: "Wendy Garrett (medRxiv)"
+    url: "https://connect.medrxiv.org/medrxiv_xml.php?author=Garrett+Wendy"
+    tags: ["microbiome", "author", "usa", "CRC", "clinical"]
+    bucket: "microbiome"
+
+  - name: "Christian Jobin (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Jobin+Christian"
+    tags: ["microbiome", "author", "usa", "CRC"]
+    bucket: "microbiome"
+
+  - name: "Christian Jobin (medRxiv)"
+    url: "https://connect.medrxiv.org/medrxiv_xml.php?author=Jobin+Christian"
+    tags: ["microbiome", "author", "usa", "CRC", "clinical"]
+    bucket: "microbiome"
+
+  - name: "Ravid Straussman (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Straussman+Ravid"
+    tags: ["microbiome", "author", "israel", "CRC", "tumor-microbiome"]
+    bucket: "microbiome"
+
+  - name: "Ravid Straussman (medRxiv)"
+    url: "https://connect.medrxiv.org/medrxiv_xml.php?author=Straussman+Ravid"
+    tags: ["microbiome", "author", "israel", "CRC", "tumor-microbiome", "clinical"]
+    bucket: "microbiome"
+
+  # ── IBS / gut-brain ────────────────────────────────────────────────────────
+  - name: "Emeran Mayer (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Mayer+Emeran"
+    tags: ["microbiome", "author", "usa", "IBS", "gut-brain"]
+    bucket: "microbiome"
+
+  - name: "Emeran Mayer (medRxiv)"
+    url: "https://connect.medrxiv.org/medrxiv_xml.php?author=Mayer+Emeran"
+    tags: ["microbiome", "author", "usa", "IBS", "gut-brain", "clinical"]
+    bucket: "microbiome"
+
+  - name: "Giovanni Barbara (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Barbara+Giovanni"
+    tags: ["microbiome", "author", "europe", "IBS"]
+    bucket: "microbiome"
+
+  - name: "Giovanni Barbara (medRxiv)"
+    url: "https://connect.medrxiv.org/medrxiv_xml.php?author=Barbara+Giovanni"
+    tags: ["microbiome", "author", "europe", "IBS", "clinical"]
+    bucket: "microbiome"
+
+  # ── Metatranscriptomics / functional ───────────────────────────────────────
+  - name: "Shinichi Sunagawa (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Sunagawa+Shinichi"
+    tags: ["microbiome", "author", "europe", "computational", "metatranscriptomics"]
+    bucket: "microbiome"
+
+  - name: "Alexandre Almeida (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Almeida+Alexandre"
+    tags: ["microbiome", "author", "europe", "computational"]
+    bucket: "microbiome"
+
+  - name: "Trevor Lawley (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Lawley+Trevor"
+    tags: ["microbiome", "author", "europe", "functional"]
+    bucket: "microbiome"
+
+  # ── Genetic engineering / phage ────────────────────────────────────────────
+  - name: "Ami Bhatt (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Bhatt+Ami"
+    tags: ["microbiome", "author", "usa", "genetic-engineering"]
+    bucket: "microbiome"
+
+  - name: "Frederic Bushman (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Bushman+Frederic"
+    tags: ["microbiome", "author", "usa", "phage", "genetic-engineering"]
+    bucket: "microbiome"
+
+  - name: "Rotem Sorek (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Sorek+Rotem"
+    tags: ["microbiome", "author", "israel", "genetic-engineering", "phage"]
+    bucket: "microbiome"
+
+  # ── Computational ──────────────────────────────────────────────────────────
+  - name: "Thomas SB Schmidt (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Schmidt+Thomas"
+    tags: ["microbiome", "author", "europe", "computational"]
+    bucket: "microbiome"
+
+  - name: "Aleksandar Kostic (bioRxiv)"
+    url: "https://connect.biorxiv.org/biorxiv_xml.php?author=Kostic+Aleksandar"
+    tags: ["microbiome", "author", "usa", "computational", "CRC"]
+    bucket: "microbiome"
+
+pubmed:
+  enabled: true
+  email: "vllorens9@gmail.com"
+  lookback_days: 2
+  max_results_per_term: 30
+  bucket: "microbiome"
+  tags: ["pubmed", "journal", "biology"]
+  search_terms:
+    # Cat 1 — general microbiome and host-microbiome interactionterms
+    - "human gut microbiota"
+    - "human gut microbiome"
+    - "host-microbiome interaction"
+    - "host-microbiota interaction"
+    - "gut microbiome disease"
+    # Cat 2 — functionality and multiomics
+    - "gut microbiome functionality"
+    - "gut microbiota function"
+    - "gut microbiome function"
+    - "gut metatranscriptomics"
+    - "fecal metatranscriptomics"
+    - "stool metatranscriptomics"
+    # Cat 3 — computational papers
+    - "microbiome analysis"
+    - "metatranscriptome analysis"
+    - "microbiome analysis tool"
+    - "microbiome analysis pipeline"
+    - "benchmark microbiome"
+    - "microbiome bioinformatics"
+    - "multiomics microbiome"
+    - "multiomic integration microbiome"
+    # Cat 4 — Gut microbiome in cancer
+    - "microbiome colorectal cancer"
+    - "microbiome CRC"
+    - "gut microbiome CRC"
+    - "cancer gut microbiome"
+    - "fusobacterium nucleatum cancer"
+    # Cat 5 — Gut microbiome other disorders
+    - "gut microbiome IBS"
+    - "gut microbiome irritable bowel syndrome"
+    - "gut microbiome IBD"
+    # Cat 6 — Genetic engineering and microbiome modulation
+    - "CRISPR gut microbiome"
+    - "CRISPRi gut microbiome"
+    - "genetic engineering microbiome"
+    - "gut microbiome modulation"
+    - "CRISPR microbiome"
+    # Cat 7 — LGG
+    - "lacticaseibacillus rhamnosus GG"
+    - "probiotic lactobacilli"
+
+biorxiv_keywords:
+  enabled: true
+  lookback_days: 2
+  bucket: "microbiome"
+  tags: ["biorxiv", "preprint", "biology"]
+
+daily_knowledge:
+  enabled: false
+
+wiki_context:
+  enabled: false
+
+podcast:
+  enabled: true
+  target_minutes: 60
+  voice: "en-GB-RyanNeural"
+  voice_rate: "+0%"
+  tts_chunk_chars: 2800
+  chunking:
+    fulltext_threshold_chars: 2500
+    tierA_max: 999
+    tierB_max: 999
+    tierB_batch_size: 1
+    deep_dive_max_tokens: 1800
+    roundup_max_tokens: 1200
+    use_merge_llm: false
+
+biorxiv_authors:
+  enabled: true
+  lookback_days: 3
+  bucket: "microbiome"
+  tags: ["biorxiv", "author"]
+  authors:
+    # ── Spain  ───────────────────────────────────────────────
+    - name: "Mireia Valles-Colomer"
+      match: "Valles-Colomer, M"
+    - name: "Amelie Baud"
+      match: "Baud, A"
+    - name: "Maria Carmen Collado"
+      match: "Collado, MC"
+    - name: "Ana Djukovic"
+      match: "Djukovic, A"
+    - name: "Yolanda Sanz"
+      match: "Sanz, Y"
+    - name: "Pilar Francino"
+      match: "Francino, P"
+    - name: "Alex Mira"
+      match: "Mira, A"
+    - name: "Carles Ubeda"
+      match: "Ubeda, C"
+    - name: "Rosa del Campo"
+      match: "del Campo, R"
+    - name: "Maria Victoria Moreno Arribas"
+      match: "Moreno Arribas, MV"
+    - name: "Susana Delgado Palacio"
+      match: "Delgado-Palacio, S"
+    - name: "Toni Gabaldon"
+      match: "Gabaldon, T"
+    - name: "Enrique Carrillo"
+      match: "Carrilo de Santa Pau, E"
+    - name: "Ricardo Ramos Ruiz"
+      match: "Ramos Ruiz, R"
+    - name: "Alfonso Benitez-Paez"
+      match: "Benitez-Paez, A"
+    - name: "Chaysavanh Manichanh"
+      match: "Manichan, C"
+    - name: "Francisco Guarner"
+      match: "Guarner, F"
+    - name: "Jaime Huerta-Cepas"
+      match: "Huerta-Cepas, J"
+    # ── USA/Canada ─────────────────────────────────────────────────────
+    - name: "Rob Knight"
+      match: "Knight, R"
+    - name: "Curtis Huttenhower"
+      match: "Huttenhower, C"
+    - name: "Dan Knights"
+      match: "Knights, D"
+    - name: "Michael Snyder"
+      match: "Snyder, M"
+    - name: "Ruth Ley"
+      match: "Ley, R"
+    - name: "Gregory Gloor"
+      match: "Gloor, G"
+    - name: "Cynthia Sears"
+      match: "Sears, C"
+    - name: "Jennifer Wargo"
+      match: "Wargo, J"
+    - name: "Susan Bullman"
+      match: "Bullman, S"
+    - name: "Jeffrey Gordon"  
+      match: "Gordon, J"
+    # ── Weizmann / Fleishman ─────────────────────────────────────────────────
+    - name: "Eran Segal"
+      match: "Segal, E"
+    - name: "Eran Elinav"
+      match: "Elinav, E"
+    # ── Europe ───────────────────────────────────────────────────────
+    - name: "Peer Bork"
+      match: "Bork, P"
+      institution: "EMBL"
+    - name: "Nicola Segata"
+      match: "Segata, N"
+    - name: "Jeroen Raes"
+      match: "Raes, J"
+      institution: "KU Leuven"
+    - name: "Patrice Cani"
+      match: "Cani, P"
+    - name: "Clara Belzer"
+      match: "Belzer, C"
+    - name: "Sara Vieira-Silva"
+      match: "Vieira-Silva, S"
+    - name: "Gwen Falony"
+      match: "Falony, G"
+    - name: "David Bikard"
+      match: "Bikard, D"
+      institution: "Pasteur"
+    - name: "Ana Santos Almeida"
+      match: "Almeida, AS"
+    - name: "Isabel Gordo"
+      match: "Gordo, I"
+    - name: "Kiran Raosaheb Patil"
+      match: "Patil, KR"
+    - name: "Michael Zimmermann"
+      match: "Zimmermann, M"
+      institution: "EMBL"
+    - name: "Lisa Maier"
+      match: "Maier, L"
+    - name: "Nassos Typas"
+      match: "Typas, A"
+    - name: "Maria Zimmermann-Kogadeeva"
+      match: "Zimmermann-Kogadeeva, M"
+      institution: "EMBL"
+    - name: "John Cryan"
+      match: "Cryan, J"
+    - name: "Georg Zeller"
+      match: "Zeller, G"
+    # ── Others ─────────────────────────────────────────────────
+    - name: "Luis Pedro Coelho"
+      match: "Coelho, LP"
+    - name: "Takuji Yamada"
+      match: "Yamada, T"
+    - name: "Kenya Honda"
+      match: "Honda, K"
+    - name: "Wendy Garrett"
+      match: "Garrett, WS"
+    - name: "Christian Jobin"
+      match: "Jobin, C"
+    - name: "Ravid Straussman"
+      match: "Straussman, R"
+    - name: "Emeran Mayer"
+      match: "Mayer, E"
+    - name: "Giovanni Barbara"
+      match: "Barbara, G"
+    - name: "Shinichi Sunagawa"
+      match: "Sunagawa, S"
+    - name: "Alexandre Almeida"
+      match: "Almeida, A"
+    - name: "Trevor Lawley"
+      match: "Lawley, TD"
+    - name: "Ami Bhatt"
+      match: "Bhatt, AS"
+    - name: "Frederic Bushman"
+      match: "Bushman, FD"
+    - name: "Rotem Sorek"
+      match: "Sorek, R"
+    - name: "Thomas SB Schmidt"
+      match: "Schmidt, TSB"
+      institution: "EMBL"
+    - name: "Aleksandar Kostic"
+      match: "Kostic, AD"
+
+publish:
+  enabled: true
+  github_release_repo: "vllorens/microbiome_digest"
+  cleanup_intermediate: true
+
+llm:
+  enabled: true
+  provider: "openrouter"
+  model: "arcee-ai/trinity-large-preview:free"
+  analysis_model: "stepfun/step-3.5-flash:free"
+  api_key_env: "OPENROUTER_API_KEY"
+  temperature: 0.25
+  max_output_tokens: 8192
+
+ranking:
+  # Papers whose titles contain any of these are treated as absolute priority
+  # (same tier as tracked author feeds). Use for landmark tools / model families.
+  absolute_title_keywords:
+    - "gut microbiota"
+    - "gut microbiome"
+    - "microbiome"
+    - "metatranscriptomics"
+    - "multiomics"
+    - "host-microbiome"
+
+  absolute_source_substrings:
+    # Original
+    - "jeroen raes"
+    - "nicola segata"
+    - "curtis huttenhower"
+    - "dan knights"
+    - "peer bork"
+    - "ruth ley"
+    - "cynthia sears"
+    - "jennifer wargo"
+    - "susan bullman"
+    - "jeffrey gordon"
+    - "georg zeller"
+  
+
+  source_priority_rules:
+    # Priority 1 - Absolute essentials: top-tier journals, core to the field
+    - {contains: "Cell Host & Microbe", priority: 1}
+    - {contains: "Nature Microbiology", priority: 1}
+    - {contains: "Nature Biotechnology", priority: 1}
+    - {contains: "Nature Medicine", priority: 1}
+    - {contains: "Nature Methods", priority: 1}
+    - {contains: "Cell", priority: 1}
+    - {contains: "Science", priority: 1}
+    - {contains: "Gut (BMJ)", priority: 1}
+    - {contains: "Microbiome (BioMed Central)", priority: 1}
+    - {contains: "bioRxiv - Microbiology", priority: 1}
+    - {contains: "bioRxiv - Genomics", priority: 1}
+
+    # Priority 2 - High-impact, broad journals with strong microbiome content
+    - {contains: "Nature - Microbiome Topic", priority: 2}
+    - {contains: "Nature Communications", priority: 2}
+    - {contains: "PNAS", priority: 2}
+    - {contains: "ISME Journal", priority: 2}
+    - {contains: "Gastroenterology", priority: 2}
+    - {contains: "medRxiv - Gastroenterology", priority: 2}
+    - {contains: "medRxiv - Oncology", priority: 2}
+
+    # Priority 3 - Strong field-specific journals
+    - {contains: "eLife - Microbiology", priority: 3}
+    - {contains: "mBio", priority: 3}
+    - {contains: "mSystems", priority: 3}
+    - {contains: "Gut Microbes", priority: 3}
+    - {contains: "npj Biofilms and Microbiomes", priority: 3}
+    - {contains: "Nucleic Acids Research", priority: 3}
+    - {contains: "Journal of the National Cancer Institute", priority: 3}
+    - {contains: "bioRxiv - Bioinformatics", priority: 3}
+    - {contains: "bioRxiv - Synthetic Biology", priority: 3}
+
+    # Priority 4 - Good journals, more specialized or slightly lower impact
+    - {contains: "ACS Synthetic Biology", priority: 4}
+    - {contains: "Bioinformatics (OUP)", priority: 4}
+    - {contains: "Briefings in Bioinformatics", priority: 4}
+    - {contains: "Genome Research", priority: 4}
+    - {contains: "ISME Communications", priority: 4}
+    - {contains: "Journal of Crohn's and Colitis", priority: 4}
+    - {contains: "Nature Protocols", priority: 4}
+    - {contains: "STAR Protocols (Cell)", priority: 4}
+
+    # Priority 5 - Useful but more peripheral or methodological
+    - {contains: "mSphere", priority: 5}
+    - {contains: "Microbiological Spectrum", priority: 5}
+    - {contains: "PLOS Computational Biology", priority: 5}
+    - {contains: "Alimentary Pharmacology & Therapeutics", priority: 5}
+
+    # Priority 6 - Lower signal-to-noise for this specific use case
+    - {contains: "Gigascience", priority: 6}
+
+    # Priority 7 - Broad/noisy, rely heavily on keyword filtering
+    - {contains: "Gigascience", priority: 7}
+
+    # Items whose title or snippet contain any of these keywords are ranked
+    # above other items of equal source quality.
+  
+  topic_boost_keywords:
+      # Cat 1 — general/computational
+      - "metatranscriptomics"
+      - "multi-omics microbiome"
+      - "multiomics microbiome"
+      - "multiomics microbiota"
+      - "multi-omics microbiota"
+      - "gut metatranscriptomics"
+      - "low biomass microbiome"
+      - "computational pipeline"
+      # Cat 2 - CRC or IBS
+      - "CRC microbiome"
+      - "colorectal cancer microbiome"
+      - "IBS microbiome"
+      - "irritable bowel syndrome"
+      # Cat 3 - specific bacteria
+      - "brachyspira"
+      - "fusobacterium nucleatum"
+      - "lacticaseibacillus rhamnosus"
+      - "lactobacillus rhamnosus"
+      # Cat 4 — CRISPR - synthetic biology
+      - "CRISPR"
+      - "CRISPRi"
+      - "synthetic biology"
+      - "genetic engineering microbiomme"
+    

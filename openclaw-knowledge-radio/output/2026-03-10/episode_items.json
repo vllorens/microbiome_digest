@@ -1,0 +1,366 @@
+{
+  "timestamps": [
+    0.0,
+    46.96,
+    94.24,
+    150.73,
+    200.31,
+    247.01,
+    292.73,
+    343.32,
+    452.37,
+    503.92,
+    652.47,
+    809.57,
+    1049.64,
+    1174.08,
+    1334.92,
+    1466.87,
+    1650.51,
+    1688.81,
+    1869.1,
+    2101.44,
+    2226.42,
+    2386.84,
+    2518.57,
+    2649.36,
+    2693.78,
+    2845.41,
+    2984.08,
+    3025.79,
+    3044.29,
+    3088.59,
+    3137.64,
+    3192.98,
+    3321.62,
+    3479.27,
+    3607.16,
+    3649.9,
+    3689.52,
+    3736.65,
+    3869.99,
+    3924.97
+  ],
+  "items": [
+    {
+      "title": "Blood biomarkers and breed genetics of aging in pet dogs",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.07.710297",
+      "source": "Michael Snyder (bioRxiv)",
+      "one_liner": "Pet dogs share human-like environments while aging on a compressed timescale, making them a powerful translational model for aging research. Using genomic and phenotypic data from 7,627 dogs in the Dog Aging Project, including 976 profiled for 159 blood metabolites and clinical analytes, we generated the first GWAS catalog in dogs. Blood traits map to orthologous loci in dogs and humans, indicatin",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Microbiome modulation in cancer immunotherapy.",
+      "url": "https://doi.org/10.1038/s41591-026-04285-x",
+      "source": "PubMed — Nature medicine",
+      "one_liner": "Not stated in source text.\nMETHOD / APPROACH: Not stated in source text.",
+      "segment": 1,
+      "timestamp": 46.96
+    },
+    {
+      "title": "Fasting primes small intestinal regeneration after damage via a microbiome metabolite chromatin axis",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.06.710208",
+      "source": "bioRxiv — cell biology",
+      "one_liner": "Fasting enhances small intestinal regeneration after radiation but the contribution of the gut microbiome to this process remains uncharacterized. We identify Akkermansia muciniphila (AKK) as a key mediator of this response. AKK was enriched in fasted mice and its antibiotic depletion abrogated radioprotection whereas reintroduction restored both organism...",
+      "segment": 2,
+      "timestamp": 94.24
+    },
+    {
+      "title": "Microbiome-produced nicotinic acid controls colon regional identity and injury susceptibility",
+      "url": "https://www.cell.com/cell/fulltext/S0092-8674(26)00172-8?rss=yes",
+      "source": "Cell",
+      "one_liner": "The gut epithelium is regionally patterned to support digestive functions. In the colon, this regionalization, which is extrinsically dictated by microbiome-derived signals rather than through intrinsic stem cell programs, impacts tissue susceptibility to injury.",
+      "segment": 3,
+      "timestamp": 150.73
+    },
+    {
+      "title": "Unravelling the role of the gut microbiome in antipsychotic-induced weight gain and metabolic dysfunction in humans and rodents: A systematic review.",
+      "url": "https://doi.org/10.1080/19585969.2026.2637716",
+      "source": "PubMed — Dialogues in clinical neuroscience",
+      "one_liner": "Second-generation antipsychotics are frequently linked to weight gain and metabolic dysfunction, yet the mechanisms driving these effects remain elusive. The gut microbiome has been proposed as a potential mediator of these adverse outcomes. This study aimed to investigate the role of the gut microbiota in antipsychotic-induced weight gain. A systematic s...",
+      "segment": 4,
+      "timestamp": 200.31
+    },
+    {
+      "title": "Integration of human microbiota (SIHUMIx) and zebrafish models reveals microbiome-mediated host responses to azoxystrobin.",
+      "url": "https://doi.org/10.1093/toxsci/kfag022",
+      "source": "PubMed — Toxicological sciences : an official journal of the Society of Toxicology",
+      "one_liner": "The gut microbiome is essential for neurodevelopment via bidirectional gut-brain axis signaling, yet environmental chemicals can potentially disrupt this communication by altering community structure and xenobiotic metabolism. In this study, we investigated whether the fungicide azoxystrobin, a known metabolic disruptor, modulates microbiome composition a...",
+      "segment": 5,
+      "timestamp": 247.01
+    },
+    {
+      "title": "Spatial Organization of Microbiome Stability and Nitrogen Removal Resilience in a Full-Scale Plug-Flow PN/A System.",
+      "url": "https://doi.org/10.1021/acs.est.5c15228",
+      "source": "PubMed — Environmental science & technology",
+      "one_liner": "Partial nitritation/anammox (PN/A) enables energy-efficient nitrogen removal, yet the ecological drivers of stability and resilience in full-scale systems remain insufficiently characterized. Here, this study integrated 13-month performance monitoring with multiomics analyses to characterize spatial heterogeneity and recovery patterns following a dissolve...",
+      "segment": 6,
+      "timestamp": 292.73
+    },
+    {
+      "title": "Water mass specific genes dominate the Southern Ocean microbiome.",
+      "url": "https://doi.org/10.1038/s41467-026-69584-w",
+      "source": "PubMed — Nature communications",
+      "one_liner": "The Southern Ocean (SO) plays a key role in regulating global biogeochemical cycles and climate, yet microbial genes sustaining its biological activity remain poorly characterized. We introduce a microbial genes collection from 218 metagenomes sampled during the Antarctic Circumnavigation Expedition, the majority of which are missing from functional datab...",
+      "segment": 7,
+      "timestamp": 343.32
+    },
+    {
+      "title": "Playgrounds as microbial interfaces: strategies to enhance soil microbiomes and support healthy childhoods.",
+      "url": "https://doi.org/10.1128/msystems.01662-25",
+      "source": "PubMed — mSystems",
+      "one_liner": "Emerging evidence suggests that reduced exposure to biodiversity, including rich environmental microbiota, is associated with negative outcomes in the health and well-being of children. Biodiversity loss not only impacts individual health but also poses significant threats to planetary health. It destabilizes systems that regulate climate, purify air and ...",
+      "segment": 8,
+      "timestamp": 452.37
+    },
+    {
+      "title": "Placozoan microbiomes reveal evolutionary trajectories towards mutualism among the largely parasitic Rickettsiales",
+      "url": "https://www.biorxiv.org/content/10.1101/2025.02.27.640636",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Rickettsiales are an enigmatic clade of strictly host-associated bacteria with some very common phylotypes in aquatic habitats. Despite amplicon- and metagenomic sequencing-based observations, the roles of these aquatic Rickettsiales are still unknown, as their genomes feature both beneficial and parasitic traits. In placozoans, microscopy-based observati...",
+      "segment": 9,
+      "timestamp": 503.92
+    },
+    {
+      "title": "Bacillus subtilis reprograms host transcriptome and rhizosphere microbiome via systemic signaling to confer alkaline stress tolerance in garden pea",
+      "url": "https://www.biorxiv.org/content/10.1101/2025.09.13.676035",
+      "source": "bioRxiv — plant biology",
+      "one_liner": "Soil alkalinity severely limits legume growth, but the role of Bacillus subtilis in alkaline stress tolerance remains unclear in garden pea. We found that multiple garden pea genotypes inoculated with B. subtilis under alkaline stress showed host-specific improvements in growth parameters. Mechanistic analysis conducted on Sugar Snap showed improved nodul...",
+      "segment": 10,
+      "timestamp": 652.47
+    },
+    {
+      "title": "Ingestible active capsule for gastrointestinal microbiome sampling.",
+      "url": "https://doi.org/10.1007/s10544-026-00802-4",
+      "source": "PubMed — Biomedical microdevices",
+      "one_liner": "UNLABELLED: Various gastrointestinal disorders have been linked to gut microbiome dysbiosis, as it plays a critical role in immune regulation, metabolism, nutrient digestion, and pathogen suppression. However, the microbiome’s spatial variability across gastrointestinal segments and its intra- and interindividual differences complicate its study and clini...",
+      "segment": 11,
+      "timestamp": 809.57
+    },
+    {
+      "title": "Based on the gut-heart axis: Polygonum capitatum improves atherosclerosis by modulating gut microbiota and TMAO, supporting MCPIP1/p53-associated endothelial protection.",
+      "url": "https://doi.org/10.1186/s13020-026-01355-7",
+      "source": "PubMed — Chinese medicine",
+      "one_liner": "Polygonum capitatum (PC), known as \"Tou Hua Liao\" (Chinese name), is an essential source of Hmong medicinal plants, which has been used for treating various human diseases. This study examined whether PC has lipid-lowering and anti-atherosclerotic effects and explored the underlying mechanisms. We focused on PC's influence on gut microbiota-derived metabo...",
+      "segment": 12,
+      "timestamp": 1049.64
+    },
+    {
+      "title": "[The gut microbiome in obesity: new horizons in personalized medicine].",
+      "url": "https://doi.org/10.26442/00403660.2026.02.203596",
+      "source": "PubMed — Terapevticheskii arkhiv",
+      "one_liner": "Currently, disturbances in the composition and metabolic activity of the intestinal microbiota are considered a key modifiable factor in obesity and associated metabolic disorders. This review summarizes data on the characteristics and variability of the microbiota composition in individuals with obesity. The main mechanisms linking dysbiosis to metabolic...",
+      "segment": 13,
+      "timestamp": 1174.08
+    },
+    {
+      "title": "Earthworm gut microbiome promotes biodegradation of albendazole in soil.",
+      "url": "https://doi.org/10.1007/s44297-026-00068-5",
+      "source": "PubMed — Crop health",
+      "one_liner": "The excretion of the anthelmintic drug albendazole (ALB) from treated animals into the soil, as well as its widespread application as a fungicide, poses a serious ecological risk to the soil environment. In this study, we investigated the degradation of ALB in soil and its bioaccumulation in earthworms, changes in the microbiome and degradation genes, and...",
+      "segment": 14,
+      "timestamp": 1334.92
+    },
+    {
+      "title": "Impact of proton pump inhibitors on immunotherapy is modulated by prior chemotherapy and linked to gut microbiome-immune cell signatures.",
+      "url": "https://doi.org/10.1007/s00262-026-04346-7",
+      "source": "PubMed — Cancer immunology, immunotherapy : CII",
+      "one_liner": "Proton pump inhibitors (PPIs) are one of the most widely used medications in the world. They have been associated with an altered microbiome, which is demonstrated to be important for immune checkpoint inhibitor (ICI) response. We sought to determine whether PPI use was associated with shorter overall survival (OS) in patients treated with ICIs, and wheth...",
+      "segment": 15,
+      "timestamp": 1466.87
+    },
+    {
+      "title": "The antimicrobial gut resistome of the Wayampi reveals a shared background of antibiotic and metal resistance genes with industrialized populations, underscoring the \"robust-yet-fragile\" architecture of human gut microbiomes.",
+      "url": "https://doi.org/10.1186/s40168-026-02345-5",
+      "source": "PubMed — Microbiome",
+      "one_liner": "BACKGROUND: Metagenomics enables detailed profiling of genes encoding antimicrobial resistance. However, most studies focus exclusively on antibiotic resistance genes (ARGs), excluding those associated with non-antibiotic antimicrobials (metals, biocides), and often rely on methods with low-sensitivity and low-specificity. Furthermore, they rarely examine...",
+      "segment": 16,
+      "timestamp": 1650.51
+    },
+    {
+      "title": "Temporal dynamics and functional maturation of the infant gut microbiota during the first year of life.",
+      "url": "https://doi.org/10.1186/s12866-026-04930-y",
+      "source": "PubMed — BMC microbiology",
+      "one_liner": "",
+      "segment": 17,
+      "timestamp": 1688.81
+    },
+    {
+      "title": "Large-scale distribution of cestode infections in wild gentoo penguins and their impact on the host microbiome.",
+      "url": "https://doi.org/10.1038/s41598-026-39642-w",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "Antarctic penguins host a diverse community of gastrointestinal helminth parasites, with infection patterns influenced by host species, geographic location, and environmental factors including climate change; these parasite-host dynamics have implications for penguin health and serve as indicators of ecosystem change.\n\nMETHOD / APPROACH:\nThe collective body of work employs a multi-method approach: traditional parasitological necropsy and identification of helminths from gastrointestinal tracts; fecal sample analysis for parasite eggs/cysts; molecular techniques (16S/23S rRNA sequencing, metabarcoding) to characterize bacterial gut microbiota and its interaction with parasites; spatial and statistical modeling (e.g., GLMMs, PERMANOVA) to analyze patterns of infection and microbiota composition relative to biotic (host species, age) and abiotic (location, climate) factors; and literature synthesis/reviews to compile parasitic fauna lists and assess broader ecological impacts.",
+      "segment": 18,
+      "timestamp": 1869.1
+    },
+    {
+      "title": "Fructooligosaccharide ameliorates estrogen-gut-microbiome-brain axis dysfunction in estrogen-deficient rats.",
+      "url": "https://doi.org/10.1039/d5fo03823e",
+      "source": "PubMed — Food & function",
+      "one_liner": "Reduced levels of circulating gonadal hormones in post-menopausal women can negatively affect various physiological functions, including brain and gut deficits. There is an urgent need to find novel strategies to mitigate estrogen-gut-microbiome-brain axis (EGMBA) dysfunction. This study aimed to investigate the effect of fructooligosaccharide (FOS), a no...",
+      "segment": 19,
+      "timestamp": 2101.44
+    },
+    {
+      "title": "Sea cucumber sulfated fucan protects against acute liver injury in mice: insights from inflammatory responses, gut microbiota and hepatic metabolic profile analyses.",
+      "url": "https://doi.org/10.1039/d5fo04947d",
+      "source": "PubMed — Food & function",
+      "one_liner": "As a natural polysaccharide, sulfated fucan from sea cucumber possesses multiple biological activities, but its protective effect on acute liver injury (ALI) is still unclear. The aim of this study was to clarify the protective effects of sulfated fucan from sea cucumber on lipopolysaccharide (LPS)-induced ALI in mice. After administering sulfated fucan f...",
+      "segment": 20,
+      "timestamp": 2226.42
+    },
+    {
+      "title": "Fu brick tea extracts attenuate HFD induced lipid deposition by regulating the glycerolipid metabolism of gut microbiota and adipose tissue.",
+      "url": "https://doi.org/10.1039/d5fo05239d",
+      "source": "PubMed — Food & function",
+      "one_liner": "Fu brick tea (FT), known for regulating lipid metabolism, was studied to explore its lipid-lowering mechanism by analyzing its effects on gut microbes and adipose tissue. Mice were given chow, high-fat diet (HFD), or HFD + FT aqueous extract (FTE, 400 mg per kg BW). FTE reduced HFD-induced fat deposition, altered gut microbiota (enriched the \"glycerolipid...",
+      "segment": 21,
+      "timestamp": 2386.84
+    },
+    {
+      "title": "Theaflavins ameliorate obesity through enhanced antioxidant capacity, a suppressed hepatic BCAA degradation pathway, and gut microbiota modulation.",
+      "url": "https://doi.org/10.1039/d5fo04941e",
+      "source": "PubMed — Food & function",
+      "one_liner": "Obesity and its associated metabolic disorders pose a major global health challenge. Theaflavins (TFs), bioactive polyphenols derived from black tea, have demonstrated potential in alleviating metabolic diseases. This study aimed to investigate the ameliorative effects and underlying mechanisms of TFs on high-fat diet (HFD)-induced obesity from the perspe...",
+      "segment": 22,
+      "timestamp": 2518.57
+    },
+    {
+      "title": "Soybean diacylglycerol oil-based diet impacts lipid levels by altering the gut microbiota in C57BL/6J mice.",
+      "url": "https://doi.org/10.1039/d5fo01634g",
+      "source": "PubMed — Food & function",
+      "one_liner": "Gut microbiota-derived metabolites can affect host lipid levels in the blood and liver, and a diacylglycerol (DAG)-rich diet prevents obesity-induced lipid abnormality in animals and humans, while the impact of a DAG-rich diet on host gut ecology and microbial metabolites remains unknown. Therefore, a soybean oil-based diet and soybean DAG oil-based diet ...",
+      "segment": 23,
+      "timestamp": 2649.36
+    },
+    {
+      "title": "Integrated multiomics profiling predicts anti-tuberculosis drug-induced liver injury.",
+      "url": "https://doi.org/10.1186/s12931-026-03608-3",
+      "source": "PubMed — Respiratory research",
+      "one_liner": "Pretreatment alterations in serum proteins, host metabolism, and gut microbiota can predict the risk of anti-tuberculosis drug-induced liver injury (ATB-DILI), and an integrated multiomics model enables early prediction for personalized TB therapy.\n\nMETHOD / APPROACH:\nProspective multicenter study enrolling 72 adults initiating HRZ (isoniazid, rifampicin, pyrazinamide) therapy.",
+      "segment": 24,
+      "timestamp": 2693.78
+    },
+    {
+      "title": "An adaptive weight self-distillation deep learning framework for phenotype prediction from longitudinal gut microbiome data.",
+      "url": "https://doi.org/10.1186/s12866-026-04922-y",
+      "source": "PubMed — BMC microbiology",
+      "one_liner": "A novel deep learning framework (AWSD-CNN-LSTM) that classifies host phenotypes from longitudinal metagenomic data by modeling sequential samples as a whole, outperforming methods that treat time points as independent.\n\nMETHOD / APPROACH:\nIntegrates a convolutional neural network (CNN) to extract spatial features from microbiome data and a long short-term memory network (LSTM) to capture temporal dependencies across sequential samples.",
+      "segment": 25,
+      "timestamp": 2845.41
+    },
+    {
+      "title": "Prevention of colorectal cancer and modulation of murine gut microbiota using functional meats.",
+      "url": "https://doi.org/10.1039/d5fo04442a",
+      "source": "PubMed — Food & function",
+      "one_liner": "Extensive studies associate processed meat products with a higher risk of colorectal cancer, while consumption of plant nutraceuticals has the opposite effect,",
+      "segment": 26,
+      "timestamp": 2984.08
+    },
+    {
+      "title": "Diet, Gut Microbiota, and Intestinal Permeability: Emerging Mechanisms in Hypertension Pathogenesis.",
+      "url": "https://doi.org/10.1016/j.cjca.2026.03.005",
+      "source": "PubMed — The Canadian journal of cardiology",
+      "one_liner": "Hypertension is a leading contributor to global morbidity and mortality, arising from the interplay of genetic and environmental risk factors together with the dysregulation of multiple physiological systems involved in blood pressure control. Recent advances have established the gut as a central regulator, implicating the intestinal microbiota and barrie...",
+      "segment": 27,
+      "timestamp": 3025.79
+    },
+    {
+      "title": "Wulingsan Alleviates Metabolic dysfunction-associated Steatotic Liver Disease through Regulating Gut Microbiota-Bile Acid axis.",
+      "url": "https://doi.org/10.1016/j.prostaglandins.2026.107067",
+      "source": "PubMed — Prostaglandins & other lipid mediators",
+      "one_liner": "BACKGROUND: Metabolic dysfunction-associated Steatotic Liver Disease (MASLD) is closely linked to gut microbiota disorders and bile acid imbalance. Wulingsan (WLS) have shown promise in regulating these pathways, but its mechanism of action unclear. This study aimed to evaluate the therapeutic effect of WLS on the rat MASLD model from the perspectives of ...",
+      "segment": 28,
+      "timestamp": 3044.29
+    },
+    {
+      "title": "Dietary Fiber Alleviates Gut Microbiota Dysbiosis Caused by High Bile Acids.",
+      "url": "https://doi.org/10.1021/acs.jafc.5c16816",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "Abnormal bile acid (BA) levels often accompany rising nutritional chronic metabolic diseases (hyperlipidemia, diabetes, and obesity). BAs regulate glucose, lipid, and energy metabolism, and gut microbiota mediate their metabolism, so aberrant BAs disrupt microbiota and impair health. To avoid time-consuming and complex animal/human trials, this study used...",
+      "segment": 29,
+      "timestamp": 3088.59
+    },
+    {
+      "title": "Off to a good start: Current gaps and priorities in early-life microbiome research.",
+      "url": "https://doi.org/10.1093/femsre/fuag010",
+      "source": "PubMed — FEMS microbiology reviews",
+      "one_liner": "Early-life microbial exposures are essential for optimal development of human physiology. Yet, understanding of the human microbiome during pregnancy and childhood is still far from being complete. To identify knowledge gaps and establish research priorities, a multidisciplinary expert panel used the Delphi method for consensus development and conducted a...",
+      "segment": 30,
+      "timestamp": 3137.64
+    },
+    {
+      "title": "Associations between spatial distribution of immune cell subsets and clinical outcomes in patients with advanced melanoma treated with immune checkpoint inhibitors: results from the PUMA challenge",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.03.09.26347935v1?rss=1",
+      "source": "medRxiv - Oncology",
+      "one_liner": "Patients with advanced melanoma are treated with immune checkpoint inhibitors (ICIs), yet less than 50% of patients achieve a durable response while all patients are exposed to the risk of severe side effects. Tumor-infiltrating lymphocytes (TILs) in pathology images are associated with ICI outcomes, but manual assessment is subjective. In addition, the p...",
+      "segment": 31,
+      "timestamp": 3192.98
+    },
+    {
+      "title": "Risk Factor-Based Metabolomic Profiling Reveals Plasma Biomarkers of Hepatobiliary Cancer",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.03.09.26347912v1?rss=1",
+      "source": "medRxiv - Gastroenterology",
+      "one_liner": "Background and Aims: Highly aggressive hepatobiliary tumours include gallbladder cancer (GBC), hepatocellular carcinoma (HCC), intrahepatic and extrahepatic cholangiocarcinoma (iCCA, eCCA) and ampulla of Vater cancer (AoV). We aimed to identify plasma biomarkers for the early diagnosis of hepatobiliary cancer by leveraging the metabolomic signatures of es...",
+      "segment": 32,
+      "timestamp": 3321.62
+    },
+    {
+      "title": "Beyond Binary MRD: Quantitative ctDNA Interpretation After Curative-Intent Surgery for Colorectal Cancer",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.03.09.26347910v1?rss=1",
+      "source": "medRxiv - Oncology",
+      "one_liner": "Background: Circulating tumor DNA (ctDNA) detection after curative-intent surgery is being used to identify minimal residual disease (MRD) in colorectal cancer (CRC). However, MRD classification is dependent on analytical sensitivity, and the impact of detection threshold on observed post-operative positivity remains incompletely characterized. We evaluat...",
+      "segment": 33,
+      "timestamp": 3479.27
+    },
+    {
+      "title": "When the Gut Tells a Different Story: A Case of Persistent Enteropathy in a Teenager",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)00234-9/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 34,
+      "timestamp": 3607.16
+    },
+    {
+      "title": "From Nociception to Gut Immunity: Neuro-epithelial TRPV1-Tuft Cell Circuit Orchestrates Type 2 Inflammation",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)00207-6/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 35,
+      "timestamp": 3649.9
+    },
+    {
+      "title": "Orn-mediated c-di-GMP regulates the CRISPR-Cas system to confer stress response in Mycobacterium tuberculosis",
+      "url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag214/8512704?rss=1",
+      "source": "Nucleic Acids Research",
+      "one_liner": "Abstract Mycobacterium tuberculosis ( Mtb ) possesses a type III-A CRISPR-Cas system and has anti-plasmid immune activity. However, whether this system exerts other additional functions remains to be characterized. Here...",
+      "segment": 36,
+      "timestamp": 3689.52
+    },
+    {
+      "title": "Stage-dependent chromatin accessibility remodeling defines an architectural state in facioscapulohumeral muscular dystrophy myoblasts",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.06.710110v1?rss=1",
+      "source": "bioRxiv - Genomics",
+      "one_liner": "Facioscapulohumeral muscular dystrophy (FSHD) has been linked to alterations in higher-order genome organization, yet how these structural perturbations shape chromatin accessibility across muscle developmental stages remains unclear. Here, we identify a stage-specific architectural chromatin accessibility state that defines proliferating FSHD myoblasts. ...",
+      "segment": 37,
+      "timestamp": 3736.65
+    },
+    {
+      "title": "Breath to genome: Whole genome sequencing of large whales from blow sampling",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.08.710374v1?rss=1",
+      "source": "bioRxiv - Genomics",
+      "one_liner": "Preserving biodiversity requires the genetic monitoring of wild populations, but traditional invasive sampling techniques can impact animal welfare. For cetaceans, a promising non-invasive approach is the collection of exhaled respiratory vapour, or 'blow', to generate individual genetic profiles. Here, we demonstrate the feasibility of generating whole g...",
+      "segment": 38,
+      "timestamp": 3869.99
+    },
+    {
+      "title": "Biobank-scale genotyping of Robertsonian translocations reveals hidden structural variation on the human acrocentric chromosomes",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.08.710242v1?rss=1",
+      "source": "bioRxiv - Genomics",
+      "one_liner": "Balanced Robertsonian translocation (ROB) is the most common chromosomal rearrangement, with an estimated occurrence of 1:800 in newborns. Carriers are at increased risk of cancer and often diagnosed after facing recurrent miscarriages, infertility, or aneuploid offspring. Genotyping carriers with DNA sequencing has been challenging due to incomplete sequ...",
+      "segment": 39,
+      "timestamp": 3924.97
+    }
+  ]
+}
