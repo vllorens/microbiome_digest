@@ -1,0 +1,14 @@
+name = "visitor-message-worker"
+main = "src/index.js"
+compatibility_date = "2026-03-03"
+workers_dev = true
+preview_urls = false
+
+[vars]
+ALLOWED_ORIGIN = "https://vllorens.github.io"
+NOTION_TITLE_PROPERTY = "Name"
+
+[[kv_namespaces]]
+binding = "VISIT_STATS"
+id = "5abc80f964d94bbbb33cd7c99f701bce"
+preview_id = "5abc80f964d94bbbb33cd7c99f701bce"

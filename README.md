@@ -2,6 +2,12 @@
 
 A fully automated daily podcast for microbiome researchers. Every morning at **03:00 UTC**, a GitHub Actions workflow wakes up on GitHub's servers, runs the entire pipeline without any computer needing to be on, and publishes a fresh episode to GitHub Pages.
 
+Please consider the first podcasts as experimental, as I polish the sources and paper rakings. 
+
+Also please consider giving credit to https://github.com/WenyueDai/protein_design_podcast, which is the original podcast from where I took all the info. This is just my adaptation to the microbiome field. 
+
+
+
 **Live site:** [vllorens.github.io/microbiome_digest](https://vllorens.github.io/microbiome_digest)
 **Paper collection (Notion):** *(set up after first run)*
 **Deep dive notes (Notion):** *(set up after first run)*
@@ -290,8 +296,7 @@ OPENROUTER_API_KEY=sk-or-v1-...
 GITHUB_TOKEN=ghp_...
 SLACK_WEBHOOK_URL=https://hooks.slack.com/services/...   # optional
 NOTION_TOKEN=ntn_...
-NOTION_DATABASE_ID=<your-paper-collection-db-id>
-NOTION_API_KEY=<your-deep-dive-db-token>
+NOTION_DATABASE_ID=<your-daily-digest-db-id>
 ```
 
 ### 3. Run manually

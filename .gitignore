@@ -1,0 +1,49 @@
+.env
+openclaw-knowledge-radio/.env
+*__pycache__/
+*openclaw_env
+*mp3
+*log
+*txt
+.DS_Store
+CLAUDE.md
+
+# Keep website assets in docs published to GitHub Pages
+!docs/
+!docs/**
+!docs/audio/*.mp3
+!docs/*.txt
+!docs/index.html
+!docs/feed.xml
+!docs/episodes.json
+
+# Un-ignore critical config files caught by *txt
+!requirements.txt
+!openclaw-knowledge-radio/requirements.txt
+
+# Raw collected data — regenerated each run, not needed in git
+openclaw-knowledge-radio/data/20*/
+
+# Staging site directory (duplicate of docs/, not published)
+openclaw-knowledge-radio/public_site/
+
+# Stray nested directory from original project
+openclaw-knowledge-radio/openclaw-knowledge-radio/
+
+# Historical dev notes
+openclaw-knowledge-radio/common_command.md
+
+# Local TTS model/runtime files
+openclaw-knowledge-radio/models/
+openclaw-knowledge-radio/state/kokoro_api.log
+openclaw-knowledge-radio/state/kokoro_api.pid
+
+# ignore the .venv directory if it exists
+.venv/
+
+# Cloudflare Worker local state and secrets
+visitor-message-worker/.wrangler/
+visitor-message-worker/.dev.vars
+visitor-message-worker/.env
+
+visitor-message-worker/node_modules/
