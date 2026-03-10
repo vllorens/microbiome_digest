@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0'
+     xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd'
+     xmlns:atom='http://www.w3.org/2005/Atom'>
+  <channel>
+    <title>Microbiome digest podcast</title>
+    <link>https://vllorens.github.io/microbiome_digest</link>
+    <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Daily automated digest of microbiome research</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 10 Mar 2026 15:36:00 GMT</lastBuildDate>
+    <itunes:author>Veronica Llorens</itunes:author>
+    <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Veronica Llorens</itunes:name>
+      <itunes:email>vllorens9@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    <itunes:explicit>false</itunes:explicit>
+    
+    <item>
+      <title>Daily Podcast 2026-03-10</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-10/podcast_2026-03-10.mp3</guid>
+      <pubDate>Tue, 10 Mar 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-10/podcast_2026-03-10.mp3" length="27418844" type="audio/mpeg" />
+      <description>New research on pine needles reveals that specialized transfusion parenchyma cells actively regulate water and sugar transport through a starch-driven osmotic mechanism. | A new review in Nature Medicine explores how the gut microbiome influences the effectiveness of cancer immunotherapy. | New research from bioRxiv reveals that fasting boosts small intestinal regeneration after radiation damage through a microbiome-driven mechanism.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>New research on pine needles reveals that specialized transfusion parenchyma cells actively regulate water and sugar transport through a starch-driven osmotic mechanism. | A new review in Nature Medicine explores how the gut microbiome influences the effectiveness of cancer immunotherapy. | New research from bioRxiv reveals that fasting boosts small intestinal regeneration after radiation damage through a microbiome-driven mechanism.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+  </channel>
+</rss>
