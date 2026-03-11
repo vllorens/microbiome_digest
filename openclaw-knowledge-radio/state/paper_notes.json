@@ -1,1 +1,9 @@
-{}
+{
+  "2026-03-11": {
+    "https://www.biorxiv.org/content/10.64898/2026.03.09.710644": {
+      "note": "Really large cohort, although the at-home collection is tricky especially for metatranscriptomics, as RNA half-life is very short in bacteria. Would love a more detailed description of the collection methodologies, they just refer to a previous paper.\nRegarding analysis, they have a custom collection of genomes of diverse sources, including NCBI and UHGG (are these genomes or pan genomes?)",
+      "title": "The human gut microbiome activity is resilient and stable for up to six months: a large stool metatranscriptomic study",
+      "source": "bioRxiv — microbiology"
+    }
+  }
+}
