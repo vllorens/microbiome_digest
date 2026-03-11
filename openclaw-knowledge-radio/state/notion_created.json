@@ -6,5 +6,9 @@
   "2026-03-11|https://www.biorxiv.org/content/10.64898/2026.03.09.710596": {
     "page_id": "320f516b-e8ec-8171-8a48-ff9230ae70d3",
     "note": "Multiple cohorts. seems that in the human data no association between microbiota at first months of life and cognitive outcomes, and most of the observed associations are in mice after fecal transplantation experiments from the human samples"
+  },
+  "2026-03-11|https://doi.org/10.1186/s12967-026-07968-8": {
+    "page_id": "320f516b-e8ec-8162-9bfc-ec395090b598",
+    "note": "Fusobacterium + lactate metabolism. I think I've seen this before, either as a preprint or as \"advance access\"."
   }
 }
