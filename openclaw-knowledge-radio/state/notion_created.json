@@ -1,1 +1,10 @@
-{}
+{
+  "2026-03-11|https://www.biorxiv.org/content/10.64898/2026.03.09.710644": {
+    "page_id": "320f516b-e8ec-8117-942b-ebdee2b6f53c",
+    "note": "Really large cohort, although the at-home collection is tricky especially for metatranscriptomics, as RNA half-life is very short in bacteria. Would love a more detailed description of the collection methodologies, they just refer to a previous paper.\nRegarding analysis, they have a custom collection of genomes of diverse sources, including NCBI and UHGG (are these genomes or pan genomes?)"
+  },
+  "2026-03-11|https://www.biorxiv.org/content/10.64898/2026.03.09.710596": {
+    "page_id": "320f516b-e8ec-8171-8a48-ff9230ae70d3",
+    "note": "Multiple cohorts. seems that in the human data no association between microbiota at first months of life and cognitive outcomes, and most of the observed associations are in mice after fecal transplantation experiments from the human samples"
+  }
+}
