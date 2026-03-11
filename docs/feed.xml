@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Mar 2026 15:52:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 04:44:06 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,13 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
-      <title>Daily Podcast 2026-03-10</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-10/podcast_2026-03-10.mp3</guid>
-      <pubDate>Tue, 10 Mar 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-10/podcast_2026-03-10.mp3" length="27418844" type="audio/mpeg" />
-      <description>New research on pine needles reveals that specialized transfusion parenchyma cells actively regulate water and sugar transport through a starch-driven osmotic mechanism. | A new review in Nature Medicine explores how the gut microbiome influences the effectiveness of cancer immunotherapy. | New research from bioRxiv reveals that fasting boosts small intestinal regeneration after radiation damage through a microbiome-driven mechanism.</description>
+      <title>Daily Podcast 2026-03-11</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-11/podcast_2026-03-11.mp3</guid>
+      <pubDate>Wed, 11 Mar 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-11/podcast_2026-03-11.mp3" length="20930061" type="audio/mpeg" />
+      <description>The human gut microbiome, as measured by stool metatranscriptomics, shows remarkable stability and resilience across multiple time scales. | The study analyzed over 6,000 stool samples collected at various intervals, from hours to years apart. | One of the most striking findings was the microbiome&#x27;s resilience to major perturbations.</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>New research on pine needles reveals that specialized transfusion parenchyma cells actively regulate water and sugar transport through a starch-driven osmotic mechanism. | A new review in Nature Medicine explores how the gut microbiome influences the effectiveness of cancer immunotherapy. | New research from bioRxiv reveals that fasting boosts small intestinal regeneration after radiation damage through a microbiome-driven mechanism.</itunes:summary>
+      <itunes:summary>The human gut microbiome, as measured by stool metatranscriptomics, shows remarkable stability and resilience across multiple time scales. | The study analyzed over 6,000 stool samples collected at various intervals, from hours to years apart. | One of the most striking findings was the microbiome&#x27;s resilience to major perturbations.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>

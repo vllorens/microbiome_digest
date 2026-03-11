@@ -1,0 +1,292 @@
+The human gut microbiome, as measured by stool metatranscriptomics, shows remarkable stability and resilience across multiple time scales. A large-scale longitudinal study using RNA sequencing found that both the taxonomic composition and functional gene expression of the gut microbiome remain stable within a single day, across six months, and even up to three years in healthy individuals with stable diets and no antibiotic exposure.
+
+The study analyzed over 6,000 stool samples collected at various intervals, from hours to years apart. Metatranscriptomics, the RNA sequencing approach used here, goes beyond simply identifying which microbes are present. It measures which genes are actively being expressed, providing a functional snapshot of what the microbial community is actually doing at any given time.
+
+One of the most striking findings was the microbiome's resilience to major perturbations. After colonoscopy bowel preparation, which thoroughly disrupts the gut environment, the microbial community returned to its pre-procedure state within just one week. This rapid recovery demonstrates the system's robustness and ability to maintain functional stability despite significant disturbances.
+
+These findings have important implications for both research and clinical applications. The observed stability supports the reliability of stool-based metatranscriptomic profiling for longitudinal studies, where consistent measurements over time are crucial. It also validates this approach for health monitoring and disease research, as the method can capture both species-level composition and pathway-resolved functional activity with confidence.
+
+The study's large cohort size and clinically validated testing methodology strengthen these conclusions. However, the abstract does not discuss potential limitations or uncertainties in the study design. The available text does not provide details on specific microbial species or functional pathways that showed the most stability, nor does it address how individual variability might affect these findings.
+
+[[TRANSITION]]
+
+The gut microbiome's role in brain development has been a hot topic, but most studies have only shown associations. This new work from bioRxiv takes a bold step by demonstrating causality: infant gut microbiomes can directly shape brain function and behavior, and these effects can be reversed with targeted microbial interventions.
+
+The team collected fecal samples from human infants during their first six months of life, then categorized them based on cognitive scores at age two. Some infants scored low on developmental tests; others were cognitively typical or high-scoring. These microbiomes were then transplanted into germ-free mice, which develop normally only when colonized with microbes. The results were striking. Mice receiving microbiomes from low-scoring infants showed clear behavioral impairments—they were less active, more anxious, and performed worse on cognitive tasks compared to mice colonized with microbiomes from high-scoring infants.
+
+But here's the twist: these deficits weren't permanent. When the impaired mice received a fecal transplant from high-scoring infants, or were given a rationally designed microbial consortium, their behavior returned to normal. This rescue effect wasn't just behavioral—it was metabolic. The beneficial microbes boosted amino acid levels in the mice, and critically, the low-scoring infants themselves had significantly lower fecal amino acid concentrations. This suggests that a specific metabolic state, driven by the microbiome, may underlie the cognitive differences.
+
+The researchers didn't stop there. They replicated the microbiome-cognition link in a second, independent group of infants from a different region, strengthening the case that these patterns aren't just a fluke.
+
+So why does this matter? For one, it moves us from correlation to causation in the microbiome-brain axis. It identifies a potential metabolic mediator—amino acids—and shows that microbiome-based therapies can reverse deficits in an animal model. That's a promising step toward new interventions for neurodevelopmental disorders.
+
+Of course, there are caveats. The study doesn't pinpoint which specific microbes or metabolic pathways are responsible, and it's unclear how long the rescued phenotype lasts. Plus, while the results are compelling in mice, translating them to human infants is still uncertain. But as a proof of concept, this work opens a new frontier: the idea that we might one day prevent or treat cognitive impairments by reshaping the gut microbiome in infancy.
+
+[[TRANSITION]]
+
+A major hurdle in developing probiotics for inflammatory bowel disease has been the inability to separate a probiotic's direct effects on the host from those mediated through the resident microbiota. To overcome this limitation, researchers established a reverse screening platform using gnotobiotic zebrafish—animals raised in a sterile environment and then colonized with defined microbial communities.
+
+From this platform, they isolated a strain of Bacillus velezensis, designated GFZF-23, which showed promise in alleviating colitis. The team then tested this strain in mouse models of colitis induced by dextran sulfate sodium, a chemical that damages the gut lining and triggers inflammation.
+
+GFZF-23 treatment significantly reduced disease severity. Mice showed less weight loss, reduced colon shortening, and lower histological scores for inflammation. The probiotic also dampened pro-inflammatory cytokine production, including TNF-α, IL-1β, and IL-6, while boosting anti-inflammatory IL-10 levels.
+
+But the mechanism went beyond simple immune modulation. GFZF-23 restored microbial diversity in the gut, increasing beneficial bacteria such as Lactobacillus and Akkermansia while suppressing pathobionts like Escherichia-Shigella. This rebalancing of the microbiome was accompanied by metabolic changes. The probiotic upregulated short-chain fatty acid production, particularly butyrate, which is known to support gut barrier integrity and immune regulation.
+
+Further analysis revealed that GFZF-23 secretes β-sitosterol, a plant-derived sterol with anti-inflammatory properties. This compound appeared to reprogram host metabolism by enhancing fatty acid oxidation and reducing lipogenesis in colon tissue. The metabolic shift correlated with improved epithelial repair and reduced oxidative stress.
+
+The study demonstrates that GFZF-23 alleviates colitis through a dual mechanism: restoring a healthy microbiome and delivering β-sitosterol to reprogram host metabolism. This integrated approach addresses both microbial dysbiosis and metabolic dysfunction, offering a more comprehensive strategy for treating inflammatory bowel disease.
+
+[[TRANSITION]]
+
+Microbiome-assisted plant breeding is emerging as a transformative approach to crop improvement, addressing the limitations of conventional breeding that have narrowed both plant genomic diversity and the diversity of associated microbiota. Traditional breeding and domestication have significantly boosted crop productivity, but they've also contributed to what's known as domestication syndrome - a suite of traits that make crops more dependent on human intervention and less resilient to environmental stresses.
+
+The core innovation here is the integration of host-microbiome interactions into breeding programs. Plants don't exist in isolation; they form complex relationships with microbial communities in their rhizosphere, phyllosphere, and endosphere. These microbial partners provide essential services including nutrient acquisition, pathogen resistance, stress tolerance, and growth promotion. However, conventional breeding has largely overlooked these interactions, focusing instead on plant traits alone.
+
+The available text doesn't provide specific details on the methods used to integrate microbiome data into breeding programs, but the concept involves selecting for plant genotypes that support beneficial microbial communities while maintaining or enhancing crop productivity. This represents a paradigm shift from viewing plants as independent organisms to recognizing them as holobionts - integrated units of plant and microbial genomes working together.
+
+The implications are significant for developing low-input, high-yielding crops that can thrive under increasingly variable environmental conditions. By restoring or enhancing beneficial plant-microbe relationships, breeders can potentially reduce dependence on chemical fertilizers and pesticides while improving stress tolerance and yield stability. This approach could help address the growing challenges of climate change, soil degradation, and the need for more sustainable agricultural systems.
+
+The available text doesn't specify which crops or microbial communities are being targeted, nor does it provide data on breeding outcomes or implementation timelines. However, the conceptual framework suggests that microbiome-assisted breeding could complement existing genomic selection approaches, potentially accelerating the development of crops better adapted to future agricultural challenges.
+
+[[TRANSITION]]
+
+New research in Food & Function shows that L-arabinose, a plant-derived sugar, can ease chronic constipation in mice by improving gut motility and reducing intestinal damage. The study found that L-arabinose not only enhanced gastrointestinal movement but also helped restore balance to the gut microbiome disrupted by loperamide, a common constipation-inducing drug. These findings suggest L-arabinose could be a promising natural approach to managing long-term constipation, potentially offering a gentler alternative to conventional treatments. The research highlights the role of gut microbiota in digestive health and opens the door for further exploration of plant-based sugars in treating gastrointestinal disorders.
+
+[[TRANSITION]]
+
+Maternal microbiomes are emerging as key regulators of reproductive health, influencing immune tolerance, nutrient metabolism, and pregnancy outcomes. A review in Infection and Immunity highlights how microbial communities in the gut, vagina, and oral cavity shape maternal physiology before and during pregnancy. These microbes help maintain immune balance, support nutrient absorption, and may reduce risks of complications like preterm birth and hypertensive disorders. The authors stress that disruptions in these microbial ecosystems—through diet, antibiotics, or infections—can increase susceptibility to adverse outcomes. They call for more research into targeted microbiome-based interventions to improve maternal and fetal health, emphasizing that understanding these underexplored microbial pathways could unlock new strategies for preventing pregnancy complications.
+
+[[TRANSITION]]
+
+A new study in Blood Advances investigates the gut microbiome as a potential biomarker for predicting outcomes and immune-related adverse events in CD19 CAR T-cell therapy for relapsed/refractory diffuse large B-cell lymphoma. Researchers found that specific gut microbial profiles and metabolite signatures may help identify patients at higher risk for treatment failure or toxicity. This work highlights the microbiome's emerging role in personalizing CAR T-cell therapy, offering a non-invasive tool to guide clinical decision-making and improve patient management. By linking microbial composition to therapy response, the study opens new avenues for optimizing treatment strategies and reducing complications in this challenging patient population.
+
+[[TRANSITION]]
+
+New research in the Journal of Alzheimer's Disease shows that nicotinamide mononucleotide, or NMN, supplementation can help reduce Alzheimer's disease pathology in mice by altering gut microbiota and metabolites. The study, conducted on APP/PS1 mice—a common Alzheimer's model—found that NMN shifted the gut microbiome composition and changed metabolite profiles in ways that appeared to protect against disease progression. These findings add to growing evidence that gut health and NAD metabolism may play a role in neurodegenerative conditions. While the work is preclinical, it points to potential new avenues for Alzheimer's intervention through microbiome-targeted therapies.
+
+[[TRANSITION]]
+
+New research in FEBS Letters highlights how aging reshapes the gut microbiome and immune system in a continuous feedback loop. As we age, microbial diversity declines, especially among short-chain fatty acid producers, while shifts in bile acid and tryptophan metabolism can fuel chronic inflammation. These changes not only reflect immune decline but may actively drive it, creating a vicious cycle that accelerates age-related disease. The study underscores the microbiome's role as both a marker and mediator of immune aging, suggesting that targeted modulation of gut microbes could help preserve immune function and promote healthier aging.
+
+[[TRANSITION]]
+
+Integrated multiomics analysis reveals that seasonal and geographical factors drive rhizosphere microbiome-metabolome interactions and dihydrochalcone accumulation in apple roots. Researchers from the Journal of Agricultural and Food Chemistry found that microbial communities and metabolite profiles in apple rhizosphere vary significantly across seasons and locations, with dihydrochalcone levels correlating with specific microbial taxa. The study highlights how environmental conditions shape belowground plant-microbe chemistry, offering insights for optimizing apple cultivation and bioactive compound production.
+
+[[TRANSITION]]
+
+Researchers have identified two critical host proteins, EIF4H and YBX1, that are essential for hepatitis E virus replication and pathogenesis. Using a genome-wide CRISPR/Cas9 knockout screen, the study published in the Proceedings of the National Academy of Sciences reveals these proteins as potential targets for developing new antiviral therapies against HEV. With approximately 20 million infections annually and no approved direct-acting antivirals, this discovery addresses a major gap in treating this leading cause of acute viral hepatitis worldwide. The findings could pave the way for novel therapeutic strategies, especially important given that current prevention relies solely on a vaccine available only in China.
+
+[[TRANSITION]]
+
+Fusobacterium nucleatum is a bacterium that has been increasingly linked to colorectal cancer progression, and a new study in the Journal of Translational Medicine explores how it drives tumor growth through a metabolic mechanism involving histone lactylation.
+
+The researchers found that F. nucleatum promotes colorectal cancer by increasing the expression of GLUT1, a glucose transporter that allows cancer cells to take up more glucose. This increased glucose uptake leads to higher levels of lactate production inside the cells. Lactate, in turn, is converted into lactyl-CoA, which modifies histones through a process called lactylation. This epigenetic modification alters gene expression patterns in ways that favor tumor progression.
+
+The study shows that F. nucleatum infection in colorectal cancer cells results in elevated GLUT1 levels, which drives the metabolic shift toward glycolysis and lactate accumulation. The increased lactate then feeds into histone lactylation pathways, creating a feedback loop that supports aggressive cancer cell behavior. The researchers demonstrated that blocking GLUT1 or reducing lactate levels could reverse some of these effects, suggesting that this pathway could be a potential therapeutic target.
+
+This work adds to the growing understanding of how the gut microbiome can influence cancer biology beyond direct infection or inflammation. Instead of simply being present in tumors, F. nucleatum appears to reprogram cancer cell metabolism in ways that make them more aggressive. The connection between bacterial infection, glucose metabolism, and epigenetic changes through lactylation represents a novel mechanism by which microbes can drive cancer progression.
+
+The findings suggest that targeting the F. nucleatum-GLUT1-lactylation axis could offer new strategies for treating colorectal cancer, particularly in cases where this bacterium is known to be present. However, the study was conducted in cell culture and animal models, so clinical translation will require further validation in human patients.
+
+[[TRANSITION]]
+
+This study from the Journal of Controlled Release introduces a bacteria-targeted dual-lock delivery system designed to restore antitumor immunity in colorectal cancer. The approach addresses the challenge of Fusobacterium nucleatum colonization and stromal barriers, which together suppress T cell infiltration and limit immunotherapy effectiveness. By using bio-responsive co-assembled polymeric micelles, the system delivers immune-modulating agents in a closed-loop manner, specifically targeting tumor-associated bacteria while overcoming physical barriers. This dual-lock strategy aims to enhance T cell access and activity within the tumor microenvironment, potentially improving the efficacy of existing immunotherapies. The work represents a promising step toward precision-targeted cancer treatment that integrates microbiome modulation with immune system activation.
+
+[[TRANSITION]]
+
+Piglet survival in the first days after birth is a major bottleneck in swine production, with mortality rates often exceeding 10 percent. A big part of the problem is that piglets are born without any circulating antibodies and must rely entirely on colostrum for passive immunity. But until now, the composition of pig colostrum and how it varies with sow parity has been poorly understood.
+
+A new study from the Journal of Animal Science and Biotechnology takes a comprehensive look at this "golden elixir of health" using multi-omics profiling. Researchers collected colostrum and faecal samples from 20 sows across three parity groups: gilts, second parity, and mature sows. They then analyzed the samples using metabolomics, proteomics, and 16S rRNA gene sequencing to map out the biochemical, immunological, and microbial landscape.
+
+The metabolomics data revealed that colostrum from mature sows had significantly higher levels of amino acids, lipids, and energy metabolites compared to gilts. These differences suggest that colostrum quality improves with parity, likely reflecting the sow's accumulated physiological maturity. Proteomics confirmed this trend, showing that mature sows produced colostrum with higher concentrations of immune-related proteins, including immunoglobulins and complement factors, which are critical for piglet immunity.
+
+The microbiome analysis added another layer of insight. Colostrum from mature sows harbored a more diverse and stable microbial community, dominated by beneficial taxa such as Lactobacillus and Bifidobacterium. In contrast, gilts showed greater microbial variability and a higher prevalence of potential pathogens. Interestingly, the faecal microbiota of piglets at three days of age closely mirrored that of their dam's colostrum, indicating a direct vertical transmission of microbes.
+
+When the researchers linked these multi-omics profiles to piglet outcomes, they found that colostrum from mature sows was associated with higher average daily gain and lower pre-weaning mortality. The study also identified specific metabolites and proteins that correlated with piglet growth and survival, offering potential biomarkers for colostrum quality.
+
+This work is the first to integrate metabolomics, proteomics, and microbiome data in pig colostrum, providing a holistic view of how maternal factors influence neonatal health. The findings suggest that parity is a key determinant of colostrum quality, with implications for breeding strategies and colostrum management in swine production.
+
+[[TRANSITION]]
+
+Researchers have developed a rationally designed bacterial consortium that significantly enhances the effectiveness of anti-PD-1 immunotherapy in mice. The work addresses a critical challenge in cancer treatment: while checkpoint inhibitors like anti-PD-1 antibodies have transformed oncology, only a subset of patients respond to these therapies. The gut microbiome has emerged as a key factor influencing immunotherapy outcomes, but previous attempts to harness this relationship have had limited success.
+
+The team began by analyzing metagenomic data from non-small-cell lung cancer patients undergoing anti-PD-1 therapy. They identified bacterial species whose abundance correlated with positive treatment responses. Using computational prediction methods, they selected 15 bacterial species that showed the strongest associations with immunotherapy efficacy. These species were then combined into a defined consortium they called RCom.
+
+When administered orally to mice, RCom demonstrated remarkable effects. The consortium enhanced the anti-tumor activity of anti-PD-1 antibodies, leading to improved tumor control compared to immunotherapy alone. The researchers found that RCom worked by modulating the gut microbiome composition and function in ways that created a more favorable environment for immune activation against tumors.
+
+The mechanism appears to involve multiple pathways. RCom increased the abundance of beneficial bacteria while reducing potentially harmful species. It also enhanced the production of metabolites that support immune function and reduced those that might suppress it. The consortium promoted the recruitment and activation of immune cells in the tumor microenvironment, making cancer cells more susceptible to immune attack.
+
+This approach represents a significant advance over previous microbiome-based interventions. Earlier studies often used undefined fecal material or single bacterial strains, which provided inconsistent results. By contrast, RCom's defined composition allows for precise characterization of its effects and potential standardization for clinical use.
+
+The findings suggest that rationally designed microbial consortia could become valuable adjuvants to cancer immunotherapy. By addressing the variability in patient microbiomes, such interventions might expand the population of patients who benefit from checkpoint inhibitors. The researchers note that while these results are promising, translation to human patients will require careful clinical trials to establish safety and efficacy.
+
+This work exemplifies how integrating computational biology, microbiology, and immunology can yield innovative therapeutic strategies. As cancer immunotherapy continues to evolve, the gut microbiome may prove to be an essential partner in maximizing treatment success.
+
+[[TRANSITION]]
+
+A new systematic review in the Journal of Environmental Science and Health examines how polystyrene micro- and nanoplastics affect the gut microbiome in mouse studies. Researchers found that PS-MPs and PS-NPs can disrupt microbial communities, alter metabolite production, and trigger inflammation, raising concerns about their role in gut-related diseases. The review highlights that these particles, increasingly detected in human tissues like feces, placenta, and blood, may act as environmental stressors with long-term health implications. Multi-omics approaches revealed shifts in bacterial diversity and metabolic pathways, suggesting that PS-MPs/PS-NPs could influence host-microbe interactions. The authors call for more human studies to confirm these effects and better understand the risks posed by widespread plastic pollution.
+
+[[TRANSITION]]
+
+Researchers have uncovered how HPV-positive head and neck cancers evade the immune system by degrading MHC-I molecules. The study, published in the Proceedings of the National Academy of Sciences, reveals that the membrane-associated ubiquitin ligase MARCHF8, upregulated by HPV, ubiquitinates and degrades MHC-I molecules. This mechanism allows cancer cells to escape immune detection, as MHC-I molecules are crucial for presenting antigens to T cells. The findings provide new insights into cancer immune evasion and could inform future therapeutic strategies targeting MARCHF8 to restore immune recognition of HPV-positive tumors.
+
+[[TRANSITION]]
+
+Cuticle-associated microbiota in Bactrocera dorsalis suppress fungal infection through immune and chemical defenses. Researchers from Pest Management Science reveal that the fruit fly's cuticular microbial communities play a protective role against fungal pathogens. The study demonstrates that these surface-dwelling microbes employ both immune system activation and chemical defense mechanisms to inhibit fungal growth. This finding is particularly significant for pest management strategies, as it suggests that disrupting these beneficial microbial communities could enhance the effectiveness of biological control agents targeting Bactrocera dorsalis. The research highlights the complex interplay between insect hosts, their surface microbiota, and pathogens, offering new insights into pest-pathogen interactions that could inform more effective control methods for this economically important agricultural pest.
+
+[[TRANSITION]]
+
+A new genome-wide association study in *Advanced Science* reveals how both insect genetics and microbial symbionts shape the susceptibility of the Asian citrus psyllid, *Diaphorina citri*, to the citrus greening pathogen *Candidatus Liberibacter asiaticus*. Researchers found that genetic variation in the psyllid and its resident microbes jointly influence how efficiently the pathogen colonizes the insect vector. This dual-factor effect is crucial because insect-vectored pathogens threaten global agriculture, yet the factors controlling pathogen colonization in vectors remain poorly understood. The findings open new avenues for managing citrus greening by targeting either psyllid genetics or symbiont communities to reduce disease spread.
+
+[[TRANSITION]]
+
+Researchers have identified the acyl-CoA-binding protein, also known as diazepam-binding inhibitor (ACBP/DBI), as a key molecular mediator of glucocorticoid-induced suppression of cancer immunosurveillance. Published in the Proceedings of the National Academy of Sciences, the study reveals that neutralizing ACBP/DBI can counteract the immunosuppressive effects of glucocorticoids on anticancer immune responses. This discovery provides new insights into how glucocorticoids compromise tumor immunosurveillance and opens potential therapeutic avenues for enhancing immunotherapy efficacy in cancer patients who require glucocorticoid treatment. The findings highlight ACBP/DBI as a critical target for mitigating the negative impact of glucocorticoids on immune-mediated cancer control.
+
+[[TRANSITION]]
+
+A new study in the Proceedings of the National Academy of Sciences introduces a method to quantify immigration in biological communities using the Neutral Community Model. Researchers show that dispersal—the movement of organisms between communities—is a key driver of diversity but notoriously hard to measure directly. By applying the NCM to abundance data, they can now estimate how much immigration shapes local species composition. This approach offers a practical way to assess dispersal's impact on complex ecosystems without needing to track individual organisms. The findings could improve understanding of biodiversity patterns and inform conservation strategies where connectivity between habitats is critical.
+
+[[TRANSITION]]
+
+A new meta-analysis in the Journal of Gastroenterology and Hepatology reveals that critically ill patients face a notably high risk of antibiotic-associated diarrhea, including Clostridioides difficile infections. Researchers systematically reviewed global databases through February 2025 to quantify incidence rates and identify key risk factors. The findings underscore that prolonged antibiotic exposure and severity of illness are major contributors. This work highlights the urgent need for targeted prevention strategies in intensive care settings to reduce complications and improve patient outcomes.
+
+[[TRANSITION]]
+
+New research in mSystems reveals how Escherichia coli responds at the genetic level during the earliest moments of antibiotic exposure. By tracking transcriptomic changes in real time, scientists uncovered rapid shifts in gene expression that occur before bacterial death or resistance develops. These early molecular signatures could help predict antibiotic effectiveness and guide more precise treatment strategies. The findings highlight the importance of timing in understanding bacterial responses, offering a potential new window into combating antibiotic resistance.
+
+[[TRANSITION]]
+
+A new study in mBio reveals a complex parasitic relationship between a patescibacterial epibiont and its methylotrophic gammaproteobacterial host, along with their associated phages. Researchers discovered this three-way interaction in which the epibiont bacteria physically attach to and derive nutrients from the host, while phages infect both organisms. The findings shed light on previously unknown microbial dependencies in natural ecosystems. This work highlights how parasitic connections between bacteria and their viruses can shape microbial community dynamics. The study provides new insights into the intricate web of relationships that exist among microorganisms in the environment.
+
+[[TRANSITION]]
+
+Researchers have made progress in developing conjugate vaccines to combat Cryptococcus neoformans infections, a major cause of fungal meningitis in immunocompromised individuals. The study, published in mBio, focuses on creating vaccines that combine antigens from the fungus with carrier proteins to enhance immune response. This approach aims to improve protection against cryptococcal infections, which are particularly deadly in HIV/AIDS patients and others with weakened immune systems. The development of effective vaccines for C. neoformans has been challenging due to the fungus's complex cell wall structure and ability to evade host immunity. This research represents a significant step forward in addressing a critical unmet medical need, potentially offering new hope for preventing and treating these life-threatening fungal infections.
+
+[[TRANSITION]]
+
+A new study in mBio reveals that guanylate-binding proteins play a crucial role in balancing immune responses during Leishmania major infection. Researchers found that these proteins regulate the expression of iNOS and Arg-1 in myeloid cells, two key enzymes that control inflammation and tissue repair. By fine-tuning this balance, guanylate-binding proteins enhance the host's ability to fight off the parasite. The findings shed light on how the immune system coordinates defense mechanisms against intracellular pathogens. This work could inform future strategies for treating leishmaniasis and other parasitic infections by targeting these regulatory pathways.
+
+[[TRANSITION]]
+
+Researchers have developed a human colonic organoid model to study how Enterococcus faecalis adapts to intestinal mucus, revealing new insights into bacterial colonization mechanisms. The study, published in mSystems, demonstrates that E. faecalis undergoes significant metabolic and gene expression changes when exposed to intestinal mucus, suggesting sophisticated adaptation strategies for gut colonization. This organoid-based approach provides a more physiologically relevant system for studying host-microbe interactions compared to traditional cell culture methods. The findings could help explain how this opportunistic pathogen establishes itself in the gut and potentially contributes to infections. The research highlights the value of organoid models in understanding bacterial adaptation to specific host environments and may inform future therapeutic strategies targeting gut colonization.
+
+[[TRANSITION]]
+
+New research in mSystems reveals that gut microbiota interactions with mucus during early intestinal colonization are critical for establishing stable microbial communities and influencing host health. Using human colonic organoids, scientists found that early mucus-microbe interactions shape which bacteria can successfully colonize and persist in the gut. This process is essential for building a resilient microbiome that supports long-term digestive and immune function. The findings highlight mucus not just as a barrier but as an active participant in microbial selection during the crucial window of initial colonization. Understanding these dynamics could inform strategies to promote healthy microbiome development from infancy onward.
+
+[[TRANSITION]]
+
+Pediatric Crohn's disease patients show distinct changes in their gut virome, according to new research in mSystems. The study tracked 60 children with Crohn's disease and 25 healthy controls, finding that the viral communities in their stool differed significantly from those of healthy children. Researchers also monitored 20 patients during infliximab therapy, observing that successful treatment was associated with a shift toward a more balanced viral community structure. These findings suggest that the gut virome could serve as a biomarker for disease activity and treatment response in pediatric Crohn's disease, opening new avenues for personalized therapeutic approaches.
+
+[[TRANSITION]]
+
+Coral reefs are among the most biodiverse ecosystems on Earth, but their microbial communities—the bacteria, viruses, and other microorganisms living in coral, sediment, and water—are still poorly understood in terms of how they assemble and change over time. A new study from researchers at the University of Miami and the University of the Virgin Islands takes a fine-grained look at these communities across multiple dimensions: space, time, and even coral genetics.
+
+The team focused on the mountainous star coral, Orbicella faveolata, a key reef-building species in the Caribbean. They collected samples from coral colonies, surrounding sediment, and the water column at two locations in the U.S. Virgin Islands over the course of a year. What makes this study stand out is its multi-layered approach: they didn't just look at where and when samples were taken, but also at the genetic makeup of the coral colonies themselves.
+
+One of the central questions was whether coral genotype—essentially, the genetic identity of each coral colony—affects the microbial communities living on and inside it. Surprisingly, the answer was no. Despite collecting samples from genetically distinct coral colonies, the researchers found no consistent link between coral genotype and the composition of its microbiome. This suggests that, at least for Orbicella faveolata, the coral's own genes don't strongly dictate which microbes it hosts.
+
+Instead, the biggest drivers of microbial community structure were environmental factors and the type of habitat sampled. Sediment communities were the most stable over time, while coral and water column communities shifted more dramatically. Seasonal changes—like temperature and nutrient availability—played a major role, as did the specific location on the reef. For example, microbial communities in the water column could change drastically from one month to the next, while sediment communities remained relatively constant.
+
+The study also found that microbial communities in different habitats—coral, sediment, and water—were highly distinct from each other, even when sampled from the same location and time. This reinforces the idea that each habitat provides a unique set of conditions that select for particular microbes.
+
+One limitation is that the study only looked at a single coral species, so it's unclear whether these patterns hold for other corals. Additionally, the lack of a link between coral genotype and microbiome could be due to the specific genetic markers used, or it might reflect a broader trend where environmental factors outweigh host genetics in shaping these communities.
+
+Overall, this research highlights the complexity of coral reef microbiomes and underscores the importance of considering multiple factors—space, time, and environment—when trying to understand or predict how these communities will respond to changing conditions. It also suggests that, for conservation and restoration efforts, focusing on habitat and environmental conditions may be more effective than trying to match specific coral genotypes with their ideal microbial partners.
+
+[[TRANSITION]]
+
+A new CME-eligible study in Gastroenterology reveals that sex-specific gene expression patterns in the postoperative ileum may help explain why Crohn's disease recurs more often in women than men. Researchers analyzed transcriptomic data from ileal tissue samples and found distinct molecular signatures tied to immune regulation and tissue repair that differ by sex. These findings suggest that biological sex influences postoperative healing and disease recurrence risk, pointing toward the need for personalized, sex-aware treatment strategies in Crohn's disease management.
+
+[[TRANSITION]]
+
+A provocative commentary in Gastroenterology questions whether colonoscopy can still be promoted as the gold standard for colorectal cancer screening. The authors argue that the procedure's widespread adoption in the U.S. may be driven more by gastroenterologists' financial interests than by superior clinical outcomes. They point out that while colonoscopy has become the dominant screening method, evidence for its effectiveness compared to other options like FIT testing remains limited. The piece highlights how conflicts of interest—both financial and professional—may influence screening recommendations, suggesting that the medical community needs to reevaluate whether colonoscopy truly deserves its preeminent position in CRC prevention guidelines.
+
+[[TRANSITION]]
+
+In this preview from Gastroenterology, researchers highlight emerging insights into the gut microbiome's role in colorectal cancer and irritable bowel syndrome. The study explores how microbial imbalances may influence disease progression and symptom severity, offering potential new targets for diagnosis and treatment. By analyzing microbial signatures, scientists aim to improve early detection of colorectal cancer and refine therapeutic strategies for IBS patients. The findings underscore the growing importance of microbiome research in gastroenterology, paving the way for more personalized approaches to managing these conditions. This work could lead to novel biomarkers and interventions that enhance patient outcomes in both CRC and IBS.
+
+[[TRANSITION]]
+
+Here's a deep-dive segment based on the provided information:
+
+Most infectious disease models focus on direct transmission between hosts - you get sick from someone else who's infected. But what about pathogens that can survive outside their hosts, waiting in the environment to strike? Think fungal spores in soil, bacteria in water, or viruses on surfaces. These environmental pathogens create a fundamentally different evolutionary dynamic.
+
+A team of researchers has developed a new population-level model to understand how host resistance evolves when pathogens can persist as free-living propagules. The key insight is that hosts face infection risk not just from other infected individuals, but from pathogens lurking in their environment.
+
+The model reveals something counterintuitive: when environmental pathogen stages are abundant, hosts actually evolve to become more susceptible rather than more resistant. This happens because investing in resistance becomes less beneficial when you're constantly exposed to pathogens in the environment anyway. It's like trying to avoid rain by carrying an umbrella when you're already standing in a hurricane.
+
+But here's where it gets interesting. The model also shows that pathogens evolve to become more exploitative - meaning they cause more damage to their hosts - when environmental stages are common. This creates a coevolutionary feedback loop: abundant environmental pathogens select for susceptible hosts, which in turn allows pathogens to evolve higher exploitation.
+
+The researchers found that this dynamic can lead to dramatically different outcomes depending on the balance between direct and environmental transmission. In some scenarios, hosts evolve high resistance and pathogens remain relatively benign. In others, both hosts and pathogens evolve toward extreme strategies - highly susceptible hosts paired with highly exploitative pathogens.
+
+This work challenges the conventional wisdom that hosts should always evolve to become more resistant to infection. Instead, it shows that the evolutionary trajectory depends critically on the pathogen's ability to persist in the environment. For diseases like cholera, where the bacterium can survive in water for extended periods, or fungal infections in crops, where spores can remain viable in soil, these findings could have important implications for disease management strategies.
+
+The model provides a framework for understanding how the ecology of pathogen transmission shapes the evolutionary arms race between hosts and pathogens - and suggests that sometimes, the best defense isn't trying to resist at all.
+
+[[TRANSITION]]
+
+Anticancer peptides are short chains of amino acids that can selectively kill cancer cells while leaving healthy cells relatively unharmed. They've gained attention as potential cancer treatments because they work through multiple mechanisms and are less likely to trigger drug resistance compared to traditional chemotherapy. The challenge has been identifying which peptides have anticancer properties, since testing each one experimentally is time-consuming and expensive.
+
+Most computational methods for finding anticancer peptides have focused only on the sequence of amino acids - essentially reading the peptide like a string of letters. But this approach misses something important: the three-dimensional shape that the peptide folds into, which often determines how it interacts with cancer cells. Think of it like trying to understand a key's function just by looking at its teeth pattern, without considering how it bends and fits into a lock.
+
+The researchers developed a new framework called Multi-ACPNet that combines both sequence information and structural features. They started by representing each peptide in two ways: as its amino acid sequence and as a predicted three-dimensional structure. For the structural part, they used AlphaFold2, a powerful tool that can predict protein shapes from sequences with remarkable accuracy.
+
+These two representations were then processed through separate neural networks - one for sequence features and one for structural features. Each network captures different aspects of the peptide's properties at multiple scales, from local patterns to global characteristics. The outputs from both networks are then merged and passed through additional layers that learn how to best combine this multi-scale, multi-modal information.
+
+The framework doesn't just identify whether a peptide is anticancer or not - it can also predict which specific mechanisms the peptide might use to kill cancer cells. This is valuable because different mechanisms might work better for different types of cancer or in combination with other treatments.
+
+When tested on benchmark datasets, Multi-ACPNet outperformed existing methods that rely solely on sequence information. The improvement was particularly notable for peptides where the three-dimensional structure played a crucial role in their anticancer activity. The available text does not provide specific performance metrics or numerical comparisons, but the authors report that their method showed superior predictive performance across multiple evaluation criteria.
+
+This work represents a shift in how we approach peptide identification - moving from single-feature analysis to integrated multi-scale, multi-modal frameworks. By incorporating structural information alongside sequence data, Multi-ACPNet provides a more complete picture of what makes a peptide anticancer, potentially accelerating the discovery of new therapeutic candidates.
+
+[[TRANSITION]]
+
+Triple negative breast cancer is notorious for its chromosomal instability, where cells accumulate large-scale copy number alterations that create a patchwork of genetically distinct subpopulations. These subpopulations don't just coexist—they interact in ways that can drive tumor evolution and resistance to therapy. But until now, there hasn't been a clear way to infer the nature of these interactions from genomic data.
+
+That's where ECO-K comes in. Developed by Veith and colleagues, this framework applies inverse game theory to time-series, genomically resolved data to reconstruct the payoff matrix that describes frequency-dependent selection between cancer subpopulations. In other words, it uses observed changes in subpopulation frequencies over time to infer how each group affects the fitness of the others.
+
+The method is built on the replicator equation, a classic tool from evolutionary game theory. Here, it's adapted to model how the relative abundance of each subpopulation changes based on its fitness in the context of the others. The key innovation is that ECO-K works backward from the data: instead of assuming a payoff matrix and predicting dynamics, it infers the matrix that best explains the observed dynamics.
+
+When tested on simulated data, ECO-K proved robust at recovering the relative ranking—or hierarchy—of interaction strengths between subpopulations. That means it can tell you which subpopulations are most influential in shaping the tumor's evolutionary trajectory. However, it cannot reliably infer the absolute magnitudes of these interactions. So while you get a clear picture of who's "winning" or "losing" in the evolutionary game, the exact size of the advantage or disadvantage remains uncertain.
+
+This limitation is important. It means ECO-K is best used as a tool for comparative analysis—identifying which interactions are strongest relative to each other—rather than for precise quantification. Still, for understanding the evolutionary dynamics of chromosomally unstable tumors, this is a significant step forward. It offers a principled way to infer the rules of the game from genomic data, opening the door to more targeted strategies for managing intratumoral heterogeneity in cancer.
+
+
+References:
+[1] The human gut microbiome activity is resilient and stable for up to six months: a large stool metatranscriptomic study — bioRxiv — microbiology — https://www.biorxiv.org/content/10.64898/2026.03.09.710644
+[2] Infant gut microbiomes contribute to metabolic states that impact brain function — bioRxiv — microbiology — https://www.biorxiv.org/content/10.64898/2026.03.09.710596
+[3] Bacillus velezensis GFZF-23 Alleviates Colitis through Microbiome Restoration and β-Sitosterol-Mediated Metabolic Reprogramming — bioRxiv — microbiology — https://www.biorxiv.org/content/10.64898/2026.03.09.710680
+[4] Microbiome-assisted plant breeding: integrating host-microbiome interactions into crop improvement. — PubMed — Archives of microbiology — https://doi.org/10.1007/s00203-026-04795-9
+[5] L-Arabinose attenuates loperamide-induced constipation through the regulation of gut microbiota in mice. — PubMed — Food & function — https://doi.org/10.1039/d4fo03554b
+[6] Underexplored maternal microbiomes: immune, metabolic, and microbial pathways shaping pregnancy outcomes. — PubMed — Infection and immunity — https://doi.org/10.1128/iai.00608-25
+[7] Microbiome and metabolite biomarkers of CAR T-cell therapy outcomes in relapsed/refractory diffuse large B-cell lymphoma. — PubMed — Blood advances — https://doi.org/10.1182/bloodadvances.2025016858
+[8] Nicotinamide mononucleotide supplementation modulates gut microbiota and metabolites to mitigate Alzheimer's disease pathology in APP/PS1 mice. — PubMed — Journal of Alzheimer's disease : JAD — https://doi.org/10.1177/13872877261422502
+[9] Gut microbiome and aging-A dynamic interplay of microbes, metabolites, and the immune system. — PubMed — FEBS letters — https://doi.org/10.1002/1873-3468.70324
+[10] Integrated Multiomics Analysis Indicates Seasonal and Geographical Drivers of Rhizosphere Microbiome-Metabolome Interactions and Dihydrochalcone Accumulation in — PubMed — Journal of agricultural and food chemistry — https://doi.org/10.1021/acs.jafc.5c11982
+[11] EIF4H and YBX1 are essential host factors for hepatitis E virus replication and pathogenesis. — PubMed — Proceedings of the National Academy of Sciences of the United States of America — https://doi.org/10.1073/pnas.2529289123
+[12] Fusobacterium nucleatum promotes tumor progression driven by histone lactylation through increasing GLUT1 expression in colorectal cancer. — PubMed — Journal of translational medicine — https://doi.org/10.1186/s12967-026-07968-8
+[13] Bacteria-targeted dual-lock delivery for closed-loop immune modulation in colorectal cancer. — PubMed — Journal of controlled release : official journal of the Controlled Release Society — https://doi.org/10.1016/j.jconrel.2026.114605
+[14] Multi-omics profiling of sow colostrum and faecal microbiota reveals parity-dependent and independent factors associated with piglet survival and growth. — PubMed — Journal of animal science and biotechnology — https://doi.org/10.1186/s40104-026-01362-6
+[15] A clinic-responder-derived defined microbial consortium enhances anti-PD-1 immunotherapy efficacy in mice. — PubMed — Nature microbiology — https://doi.org/10.1038/s41564-026-02279-6
+[16] Interactions between polystyrene-derived micro- and nanoplastics and the microbiota: a systematic review of multi-omics mouse studies. — PubMed — Journal of environmental science and health. Part C, Toxicology and carcinogenesis — https://doi.org/10.1080/26896583.2026.2636868
+[17] The membrane-associated ubiquitin ligase MARCHF8 degrades MHC-I in HPV-positive head and neck cancer for immune evasion. — PubMed — Proceedings of the National Academy of Sciences of the United States of America — https://doi.org/10.1073/pnas.2525730123
+[18] Cuticle-associated microbiota in Bactrocera dorsalis suppress fungal infection through immune and chemical defenses. — PubMed — Pest management science — https://doi.org/10.1002/ps.70704
+[19] Genome-Wide Association Study Reveals Insect Genetics and Microbial Symbiont Effects on Susceptibility of Diaphorina citri to the Citrus Greening Pathogen, Candidatus Liberibacter Asiaticus. — PubMed — Advanced science (Weinheim, Baden-Wurttemberg, Germany) — https://doi.org/10.1002/advs.202517056
+[20] Neutralization of acyl-CoA-binding protein attenuates glucocorticoid-mediated suppression of cancer immunosurveillance. — PubMed — Proceedings of the National Academy of Sciences of the United States of America — https://doi.org/10.1073/pnas.2518983123
+[21] How to quantify immigration from community abundance data using the neutral community model. — PubMed — Proceedings of the National Academy of Sciences of the United States of America — https://doi.org/10.1073/pnas.2508689123
+[22] The Incidence and Risk Factors of Antibiotic-Associated Diarrhea in Critically Ill Patients: A Systematic Review and Meta-Analysis. — PubMed — Journal of gastroenterology and hepatology — https://doi.org/10.1111/jgh.70315
+[23] Revealing transcriptomic responses in Escherichia coli during early antibiotic exposure — mSystems — https://journals.asm.org/doi/abs/10.1128/msystems.01584-25?af=R
+[24] Parasitic connections: a patescibacterial epibiont, its methylotrophic gammaproteobacterial host, and their phages — mBio — https://journals.asm.org/doi/abs/10.1128/mbio.00025-26?af=R
+[25] mGem: Progress on the development of conjugate vaccines for Cryptococcus neoformans infections — mBio — https://journals.asm.org/doi/abs/10.1128/mbio.03538-25?af=R
+[26] Guanylate-binding proteins balance iNOS/Arg-1 in myeloid cells during L. major infection and promote host defense to infection — mBio — https://journals.asm.org/doi/abs/10.1128/mbio.02825-25?af=R
+[27] Adaptation of Enterococcus faecalis to intestinal mucus revealed by a human colonic organoid model — mSystems — https://journals.asm.org/doi/abs/10.1128/msystems.01304-25?af=R
+[28] Adaptation of — PubMed — mSystems — https://doi.org/10.1128/msystems.01304-25
+[29] Dysbiosis of fecal virome in pediatric Crohn's disease and its dynamic changes during infliximab therapy. — PubMed — mSystems — https://doi.org/10.1128/msystems.01489-25
+[30] Fine-scale environmental, genetic, and temporal factors can drive the coral, sediment, and water column metagenome on reefs — bioRxiv — ecology — https://www.biorxiv.org/content/10.1101/2025.06.23.661127
+[31] CME Exam 1: Postoperative Ileum Transcriptomics Implicate Sex-Biased Mechanisms in Crohn’s Disease Recurrence — Gastroenterology — https://www.gastrojournal.org/article/S0016-5085(25)06669-7/fulltext?rss=yes
+[32] Can Colonoscopy Still Be Promoted as the Best Choice for Colorectal Cancer Screening? — Gastroenterology — https://www.gastrojournal.org/article/S0016-5085(25)06672-7/fulltext?rss=yes
+[33] Elsewhere in the AGA Journals (Preview Section) — Gastroenterology — https://www.gastrojournal.org/article/S0016-5085(26)00043-0/fulltext?rss=yes
+[34] Coevolution of host resistance and pathogen exploitation in a propagule-mediated infection model — PLOS Computational Biology — https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013999
+[35] Multi-ACPNet: A multi-scale sequence-structure feature fusion framework for anticancer peptide identification and functional prediction — PLOS Computational Biology — https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014053
+[36] Inverse game theory characterizes frequency-dependent selection driven by karyotypic diversity in triple negative breast cancer — PLOS Computational Biology — https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013897
