@@ -11,7 +11,6 @@ CLAUDE.md
 # Keep website assets in docs published to GitHub Pages
 !docs/
 !docs/**
-!docs/audio/*.mp3
 !docs/*.txt
 !docs/index.html
 !docs/feed.xml

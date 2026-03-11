@@ -1,16 +1,26 @@
-# microbiome_digest
+# Microbiome digest
 
 A fully automated daily podcast for microbiome researchers. Every morning at **03:00 UTC**, a GitHub Actions workflow wakes up on GitHub's servers, runs the entire pipeline without any computer needing to be on, and publishes a fresh episode to GitHub Pages.
 
-Please consider the first podcasts as experimental, as I polish the sources and paper rakings. 
+Please consider the first podcasts as *experimental*, as I polish and fine-tune the sources and paper rakings. 
 
-Also please consider giving credit to https://github.com/WenyueDai/protein_design_podcast, which is the original podcast from where I took all the info. This is just my adaptation to the microbiome field. 
+
+## Credit
+
+All credit goes to: 
+
+* https://github.com/WenyueDai/protein_design_podcast, which is the original podcast from where I took all the code and info. This is just my adaptation to the microbiome field, tailored to the interests of our lab. 
+
+* Claude code, for getting this up and running fast!
 
 
 
 **Live site:** [vllorens.github.io/microbiome_digest](https://vllorens.github.io/microbiome_digest)
-**Paper collection (Notion):** *(set up after first run)*
-**Deep dive notes (Notion):** *(set up after first run)*
+
+**Paper collection (Notion):** [click here](https://www.notion.so/31ff516be8ec807fb949ecadf0aab40c?v=31ff516be8ec8053aa74000cee39b8e9&source=copy_link)
+
+**Deep dive notes (Notion):** [click here](https://www.notion.so/31ff516be8ec806aaf20fe60adf931b0?v=31ff516be8ec80569172000c737f8643&source=copy_link)
+
 
 ---
 
@@ -28,7 +38,7 @@ Fetches RSS/Atom feeds simultaneously, grouped into:
 - **Core microbiome** — Cell Host & Microbe, Nature Microbiology, Microbiome (BioMed Central), Gut (BMJ), ISME Journal, Gut Microbes, mBio, mSystems, and related journals
 - **Top journals** — Nature Communications, Nature Medicine, Nature Methods, PNAS, Genome Biology, Gastroenterology
 - **Computational / omics** — bioRxiv Microbiology, bioRxiv Genomics, bioRxiv Bioinformatics, medRxiv Gastroenterology, medRxiv Oncology
-- **Key researchers (absolute priority, tier 0)** — bioRxiv author feeds for tracked researchers including Mireia Valles-Colomer, Nicola Segata, Curtis Huttenhower, Peer Bork, Ruth Ley, Jeffrey Gordon, Jennifer Wargo, Georg Zeller, and others
+- **Key researchers (absolute priority, tier 0)** — bioRxiv author feeds for tracked researchers including Nicola Segata, Curtis Huttenhower, Peer Bork, Ruth Ley, Jeffrey Gordon, Jennifer Wargo, Georg Zeller, and others
 - **Blogs (absolute priority, tier 1)** — sources tagged `author` without a preprint-server source name
 
 Each item gets a `bucket` tag: `microbiome`, `omics`, `computational`, `engineering`, or `clinical`.
