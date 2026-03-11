@@ -12,16 +12,26 @@ limits:
   max_items_clinical: 5
 
 excluded_terms:
-  # Cell / molecular biology off-topic
-  # Off-topic physical sciences
+  # off-topic: microbiomes from other ecosystems
+  - "plant microbiome"
+  - "crop microbiome"
+  - "insect microbiome"
+  - "ocean microbiome"
+  - "soil microbiome"
+  - "rhizosphere microbiome"
+  - "pig microbiome"
+  # journals to exclude
+  - "Pest management science"
   # Administrative / non-research
   - "author correction"
   - "in this issue"
   - "retraction notice"
   - "news & views"
+  - "news and views"
   - "cover"
   - "editorial board"
   - "table of contents"
+  - "elsewhere in the aga journals"
 
 rss_sources:
   # High-Impact General Journals
@@ -66,10 +76,6 @@ rss_sources:
     bucket: "microbiome"
 
 # Dedicated Microbiome Journals
-  - name: "Microbiome (BioMed Central)"
-    url: "https://microbiomejournal.biomedcentral.com/articles/most-recent/rss.xml"
-    tags: ["microbiome", "bmc", "dedicated", "open-access"]
-    bucket: "microbiome"
 
   - name: "npj Biofilms and Microbiomes"
     url: "https://www.nature.com/npjbiofilms.rss"

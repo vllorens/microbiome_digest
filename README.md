@@ -4,6 +4,17 @@ A fully automated daily podcast for microbiome researchers. Every morning at **0
 
 Please consider the first podcasts as *experimental*, as I polish and fine-tune the sources and paper rakings. 
 
+---
+
+## Live site
+
+**Live site:** [vllorens.github.io/microbiome_digest](https://vllorens.github.io/microbiome_digest)
+
+**Paper collection (Notion):** [click here](https://www.notion.so/31ff516be8ec807fb949ecadf0aab40c?v=31ff516be8ec8053aa74000cee39b8e9&source=copy_link)
+
+**Deep dive notes (Notion):** [click here](https://www.notion.so/31ff516be8ec806aaf20fe60adf931b0?v=31ff516be8ec80569172000c737f8643&source=copy_link)
+
+---
 
 ## Credit
 
@@ -12,14 +23,6 @@ All credit goes to:
 * https://github.com/WenyueDai/protein_design_podcast, which is the original podcast from where I took all the code and info. This is just my adaptation to the microbiome field, tailored to the interests of our lab. 
 
 * Claude code, for getting this up and running fast!
-
-
-
-**Live site:** [vllorens.github.io/microbiome_digest](https://vllorens.github.io/microbiome_digest)
-
-**Paper collection (Notion):** [click here](https://www.notion.so/31ff516be8ec807fb949ecadf0aab40c?v=31ff516be8ec8053aa74000cee39b8e9&source=copy_link)
-
-**Deep dive notes (Notion):** [click here](https://www.notion.so/31ff516be8ec806aaf20fe60adf931b0?v=31ff516be8ec80569172000c737f8643&source=copy_link)
 
 
 ---
