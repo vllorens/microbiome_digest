@@ -34,6 +34,30 @@ excluded_terms:
   - "table of contents"
   - "elsewhere in the aga journals"
 
+# Items must match at least one of these terms (checked against title + abstract).
+# Applies to all sources. Leave empty ([]) to disable.
+required_terms:
+  - "microbiome"
+  - "microbiota"
+  - "gut microbes"
+  - "gut bacteria"
+  - "gut microbial"
+  - "intestinal microbi"
+  - "microbial community"
+  - "microbial ecology"
+  - "microbial diversity"
+  - "host-microbe"
+  - "host-microbial"
+  - "dysbiosis"
+  - "probiotics"
+  - "prebiotics"
+  - "fecal microbiota"
+  - "fecal transplant"
+  - "16s rrna"
+  - "metagenom"
+  - "metatranscriptom"
+  - "metaproteom"
+
 rss_sources:
   # High-Impact General Journals
   - name: "Nature - Microbiome Topic"

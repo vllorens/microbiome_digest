@@ -353,6 +353,7 @@ def main() -> int:
             "cell biology", "single-cell", "single cell", "animal model", "murine",
             "mouse", "mice", "rat", "zebrafish", "drosophila", "in vivo"
         ]))
+        required_terms = [t.lower() for t in cfg.get("required_terms", [])]
 
         # First pass: filter and mark which items need fetch/analysis
         # Use a local set for within-run URL dedup (prevents processing the same
@@ -373,6 +374,10 @@ def main() -> int:
                 continue
             if any(t in hay for t in excluded_terms):
                 continue
+            if required_terms:
+                content_hay = f"{title} {it.get('one_liner', '')} {it.get('snippet', '')} {it.get('abstract', '')}".lower()
+                if not any(t in content_hay for t in required_terms):
+                    continue
             if url in _run_seen_urls:
                 continue
             _run_seen_urls.add(url)
