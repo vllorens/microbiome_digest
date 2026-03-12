@@ -15,5 +15,12 @@
       "title": "Fusobacterium nucleatum promotes tumor progression driven by histone lactylation through increasing GLUT1 expression in ",
       "source": "PubMed — Journal of translational medicine"
     }
+  },
+  "2026-03-12": {
+    "https://doi.org/10.1007/s10552-026-02144-1": {
+      "note": "Very interesting, related to association != causation between microbiome and CRC. From the discussion: \"we did not observe significant associations with the species most consistently linked to CRC, such as Fusobacterium nucleatum and enterotoxigenic Bacteroides fragilis [4, 5]. This may be due to variation in microbial composition over the progression of carcinogenesis. For example, in a study of 616 Japanese adults, F. nucleatum was linked particularly with advanced CRC stages [72]. In a study of 500 German adults, F. nucleatum was associated with CRC but neither with pre-cancerous lesions in the gut nor with diet or other lifestyle factors [77].\"",
+      "title": "Interplay between colorectal cancer-related lifestyles and the gut microbiome: an exploratory analysis of metagenomic da",
+      "source": "PubMed — Cancer causes & control : CCC"
+    }
   }
 }
