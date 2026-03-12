@@ -20,6 +20,7 @@ excluded_terms:
   - "soil microbiome"
   - "rhizosphere microbiome"
   - "pig microbiome"
+  - "crop microbiome"
   # journals to exclude
   - "Pest management science"
   # Administrative / non-research
