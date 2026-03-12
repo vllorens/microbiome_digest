@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2026 09:31:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 05:09:54 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,6 +19,17 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-03-12</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-12/podcast_2026-03-12.mp3</guid>
+      <pubDate>Thu, 12 Mar 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-12/podcast_2026-03-12.mp3" length="22844253" type="audio/mpeg" />
+      <description>Amelie Baud&#x27;s team at the European Molecular Biology Laboratory has developed a phenome-wide genetic framework to uncover the mechanisms behind indirect genetic effects, or IGE. | Recurrent kidney stone disease is not just a matter of mineral imbalance in the urine. | The researchers collected stool samples from 114 people: 37 with recurrent calcium oxalate stones, 38 with a single stone episode, and 39 healthy controls.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Amelie Baud&#x27;s team at the European Molecular Biology Laboratory has developed a phenome-wide genetic framework to uncover the mechanisms behind indirect genetic effects, or IGE. | Recurrent kidney stone disease is not just a matter of mineral imbalance in the urine. | The researchers collected stool samples from 114 people: 37 with recurrent calcium oxalate stones, 38 with a single stone episode, and 39 healthy controls.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-03-11</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-11/podcast_2026-03-11.mp3</guid>
       <pubDate>Wed, 11 Mar 2026 08:00:00 GMT</pubDate>
@@ -26,17 +37,6 @@
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-03-10</title>
-      <guid isPermaLink="false">https://vllorens.github.io/microbiome_digest/audio/podcast_2026-03-10.mp3</guid>
-      <pubDate>Tue, 10 Mar 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://vllorens.github.io/microbiome_digest/audio/podcast_2026-03-10.mp3" length="29595956" type="audio/mpeg" />
-      <description>Michael Snyder&#x27;s team at bioRxiv has unveiled the first GWAS catalog for dogs, analyzing blood biomarkers and breed genetics in 7,627 pet dogs from the Dog Aging Project. | A new study in Nature Medicine explores how the gut microbiome can be harnessed to enhance cancer immunotherapy. | New research from bioRxiv reveals that fasting boosts small intestinal regeneration after radiation damage through a microbiome-driven mechanism.</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Michael Snyder&#x27;s team at bioRxiv has unveiled the first GWAS catalog for dogs, analyzing blood biomarkers and breed genetics in 7,627 pet dogs from the Dog Aging Project. | A new study in Nature Medicine explores how the gut microbiome can be harnessed to enhance cancer immunotherapy. | New research from bioRxiv reveals that fasting boosts small intestinal regeneration after radiation damage through a microbiome-driven mechanism.</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
