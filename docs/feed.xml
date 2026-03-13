@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Mar 2026 05:09:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 04:59:19 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-03-13</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-13/podcast_2026-03-13.mp3</guid>
+      <pubDate>Fri, 13 Mar 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-13/podcast_2026-03-13.mp3" length="20591085" type="audio/mpeg" />
+      <description>Here&#x27;s a deep-dive segment based on the provided information: | A massive new study from Sweden has uncovered how antibiotic use leaves lasting fingerprints on our gut microbiome. | The findings paint a clear picture: oral antibiotic use within the past eight years is consistently associated with reduced diversity of gut microbiome species.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Here&#x27;s a deep-dive segment based on the provided information: | A massive new study from Sweden has uncovered how antibiotic use leaves lasting fingerprints on our gut microbiome. | The findings paint a clear picture: oral antibiotic use within the past eight years is consistently associated with reduced diversity of gut microbiome species.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-03-12</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-12/podcast_2026-03-12.mp3</guid>
       <pubDate>Thu, 12 Mar 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-12/podcast_2026-03-12.mp3" length="22844253" type="audio/mpeg" />
-      <description>Amelie Baud&#x27;s team at the European Molecular Biology Laboratory has developed a phenome-wide genetic framework to uncover the mechanisms behind indirect genetic effects, or IGE. | Recurrent kidney stone disease is not just a matter of mineral imbalance in the urine. | The researchers collected stool samples from 114 people: 37 with recurrent calcium oxalate stones, 38 with a single stone episode, and 39 healthy controls.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-12/podcast_2026-03-12.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Amelie Baud&#x27;s team at the European Molecular Biology Laboratory has developed a phenome-wide genetic framework to uncover the mechanisms behind indirect genetic effects, or IGE. | Recurrent kidney stone disease is not just a matter of mineral imbalance in the urine. | The researchers collected stool samples from 114 people: 37 with recurrent calcium oxalate stones, 38 with a single stone episode, and 39 healthy controls.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
