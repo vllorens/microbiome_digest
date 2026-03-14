@@ -1,0 +1,276 @@
+{
+  "timestamps": [
+    0.0,
+    129.0,
+    176.73,
+    223.91,
+    380.36,
+    526.23,
+    651.17,
+    712.24,
+    872.56,
+    1022.48,
+    1558.59,
+    1694.62,
+    1833.31,
+    1963.72,
+    2111.49,
+    2159.12,
+    2191.69,
+    2242.88,
+    2292.94,
+    2340.04,
+    2382.95,
+    2426.99,
+    2473.71,
+    2532.32,
+    2580.74,
+    2624.95,
+    2743.02,
+    2796.97,
+    2934.32,
+    3117.72
+  ],
+  "items": [
+    {
+      "title": "The influence and mechanism of gut microbiota on spermatogenesis.",
+      "url": "https://doi.org/10.1007/s10565-026-10168-1",
+      "source": "PubMed — Cell biology and toxicology",
+      "one_liner": "Gut microbiota (GM) serves several functions in host, including immunological modulation, maintaining intestinal epithelial cell barrier and defending against pathogen invasion. Previous research has demonstrated that GM could regulate distal organs such as gut-brain and gut-liver axis. Recently, a rising number of researchers have discovered the substant...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Strain-level genetic heterogeneity and colonization dynamics drive microbiome therapeutic efficacy.",
+      "url": "https://doi.org/10.1016/j.chom.2026.02.002",
+      "source": "PubMed — Cell host & microbe",
+      "one_liner": "Fecal microbiota transplantation (FMT) has shown immunotherapeutic promise, yet its efficacy in non-small-cell lung cancer (NSCLC) remains unclear. We demonstrate that FMT improves anti-PD-1 efficacy and progression-free survival in a single-arm trial of advanced PD-L1-negative NSCLC. Analyzing over 2,000 metagenomes from diverse disease cohorts and healt...",
+      "segment": 1,
+      "timestamp": 129.0
+    },
+    {
+      "title": "Meta-analysis of the uncultured gut microbiome across 11,115 global metagenomes reveals a candidate signature of health.",
+      "url": "https://doi.org/10.1016/j.chom.2026.01.013",
+      "source": "PubMed — Cell host & microbe",
+      "one_liner": "The human gut microbiome is important for host health, yet over 60% of gut species remain uncultured and inaccessible to experimental manipulation. Here, we analyze 11,115 human gut metagenomes from 39 countries, 13 noncommunicable diseases, and healthy individuals to understand the clinical relevance of the uncultured microbiome worldwide. We identify 31...",
+      "segment": 2,
+      "timestamp": 176.73
+    },
+    {
+      "title": "Identification of Human Gut Microbiome Derived Peptides Targeting Biofilm Specific Lectin Proteins of Pseudomonas aeruginosa",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.02.10.704983",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "The carbohydrate-binding proteins (LecA and LecB) present within the extracellular polymeric substance (EPS) matrix of Pseudomonas aeruginosa play an essential role in maintaining the structural integrity of the biofilms through interactions with the EPS polysaccharides. Therefore, targeting the above lectins can turn out to be one of the promising strate...",
+      "segment": 3,
+      "timestamp": 223.91
+    },
+    {
+      "title": "MetaResNet: Enhancing Microbiome-Based Disease Classification through Colormap Optimization and Imbalance Handling",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.11.708118",
+      "source": "bioRxiv — bioinformatics",
+      "one_liner": "Image-based representations of metagenomic data enable convolutional neural network (CNN) applications for microbiome disease classification. However, the impact of colormap selection on model performance remains unexplored. Current approaches arbitrarily select visualization parameters despite evidence that colormap choices can suppress minority-class fe...",
+      "segment": 4,
+      "timestamp": 380.36
+    },
+    {
+      "title": "Phoronids and their tubes harbor distinct microbiomes compared to surrounding sediment",
+      "url": "https://www.biorxiv.org/content/10.1101/2024.05.28.596327",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Phoronids are a phylum of animals with only ~12 described species, all of which are marine filter feeders that build external tubes for shelter and produce chemical deterrents against predators. Many tube-building invertebrates host distinct microbial communities and even have obligate symbionts for survival in sulfur-rich marine sediments. However, the m...",
+      "segment": 5,
+      "timestamp": 526.23
+    },
+    {
+      "title": "StrainVis: interactive visual strain-level analysis of microbiome data",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.11.711087",
+      "source": "bioRxiv — bioinformatics",
+      "one_liner": "Background: Microbiomes contain multiple conspecific strains whose genomic differences arise from both single nucleotide variants (SNVs) and structural variation (insertions, deletions, recombination). Recently, computational tools to assess strain-level differences became available, based either on average nucleotide identity (ANI) or on the average pair...",
+      "segment": 6,
+      "timestamp": 651.17
+    },
+    {
+      "title": "Comparative analysis of stress markers, metabolic health, and gut microbiota in healthy and disabled dogs in long-term shelters in Thailand.",
+      "url": "https://doi.org/10.1371/journal.pone.0344383",
+      "source": "PubMed — PloS one",
+      "one_liner": "Regular welfare assessments are essential for identifying and addressing the physical, behavioral, and emotional needs of shelter dogs, thereby ensuring their well-being and improving chances for adoption or long-term stability within the shelter environment. This study compared biomarkers of physiological stress [fecal glucocorticoid metabolites (fGCM)],...",
+      "segment": 7,
+      "timestamp": 712.24
+    },
+    {
+      "title": "Gut microbiota-associated metabolite N-acetyl-D-glucosamine alleviates systemic inflammatory responses induced by acute Toxoplasma gondii infection.",
+      "url": "https://doi.org/10.1371/journal.pntd.0014108",
+      "source": "PubMed — PLoS neglected tropical diseases",
+      "one_liner": "Toxoplasma gondii (T. gondii) is an opportunistic protozoan parasite capable of infecting nearly all warm-blooded animals, including humans. Infection with T. gondii often triggers potent inflammatory responses that can lead to severe and potentially life-threatening tissue damage. Based on the mechanistic relationship between the gut microbiota and the h...",
+      "segment": 8,
+      "timestamp": 872.56
+    },
+    {
+      "title": "Characterising the gut microbiomes of two baleen whales with different feeding and migratory strategies.",
+      "url": "https://doi.org/10.1186/s42523-026-00538-9",
+      "source": "PubMed — Animal microbiome",
+      "one_liner": "BACKGROUND: Mammalian gut microbiomes are essential for supporting digestion, nutrient absorption and overall host health. While diet and phylogeny are the two main influences on gut microbial composition, other factors, including life history and environment also contribute. Here, we characterised and compared the gut (faecal) bacterial microbiomes of tw...",
+      "segment": 9,
+      "timestamp": 1022.48
+    },
+    {
+      "title": "Host genome regulation of the porcine gut microbiota and its impact on feed conversion efficiency.",
+      "url": "https://doi.org/10.1186/s42523-026-00527-y",
+      "source": "PubMed — Animal microbiome",
+      "one_liner": "The gut microbiota composition in pigs shows a weak but statistically significant association with host genetic background, and specific microbial taxa (e.g., Faecalibacter.",
+      "segment": 10,
+      "timestamp": 1558.59
+    },
+    {
+      "title": "Multi-omics analysis of gut microbiota and metabolome reveals potential biomarkers in pediatric snoring.",
+      "url": "https://doi.org/10.1186/s12866-026-04952-6",
+      "source": "PubMed — BMC microbiology",
+      "one_liner": "Obstructive sleep apnea (OSA) in children is associated with significant alterations (dysbiosis) in the gut microbiota composition, and this dysbiosis is linked to the development of metabolic comorbidities such as hypertension, obesity, and systemic inflammation.",
+      "segment": 11,
+      "timestamp": 1694.62
+    },
+    {
+      "title": "Association between bone marrow donor origin and gut microbiota composition following fecal microbiota transplantation in mice.",
+      "url": "https://doi.org/10.1038/s41598-026-36933-0",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "Fecal microbiota transplantation (FMT) has been reported as a method to directly alter the recipient's gut microbiota in order to normalize its composition and confer therapeutic benefits. It is essential to maintain a consistent gut microbiota in FMT donors. However, various environmental factors influence the maintenance of gut microbiota composition. W...",
+      "segment": 12,
+      "timestamp": 1833.31
+    },
+    {
+      "title": "Effects of combined dietary fiber and probiotic supplementation on gut microbiota, immune function, and clinical outcomes in patients with advanced colorectal cancer: a retrospective cohort study.",
+      "url": "https://doi.org/10.1007/s00520-026-10396-5",
+      "source": "PubMed — Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+      "one_liner": "OBJECTIVE: To evaluate the efficacy of a combined intervention of dietary fiber and probiotics on gut microbiota composition, systemic immune response, nutritional status, and long-term prognosis in patients with advanced colorectal cancer (CRC) undergoing conventional therapy. METHODS: This retrospective cohort study included 80 patients with advanced CR...",
+      "segment": 13,
+      "timestamp": 1963.72
+    },
+    {
+      "title": "Gut Microbiota-Derived Extracellular Vesicles in Patients With Obesity Undergoing Gastric Bypass Surgery.",
+      "url": "https://doi.org/10.1111/mmi.70064",
+      "source": "PubMed — Molecular microbiology",
+      "one_liner": "Human gut microbiota is associated with obesity. Gut microbiota-derived extracellular vesicles (EVs), lipid coated nanoparticles secreted by bacteria, have been suggested as a communication mechanism between gut microbiota and the host. This study characterized the effect of Roux-en-Y gastric bypass (RYGB) on gut microbiota and gut microbiota-derived EVs ...",
+      "segment": 14,
+      "timestamp": 2111.49
+    },
+    {
+      "title": "A Comparison of Endodontic Microbiomes Associated With Symptomatic and Asymptomatic Apical Periodontitis by Next-Generation Sequencing.",
+      "url": "https://doi.org/10.1111/iej.70140",
+      "source": "PubMed — International endodontic journal",
+      "one_liner": "AIM: This cross-sectional study aimed to compare the endodontic microbiome assessed from root canals of teeth associated with either symptomatic or asymptomatic apical periodontitis and analysed by 16S rDNA gene sequencing. METHODOLOGY: 60 teeth presenting clinical and radiographic signs of symptomatic or asymptomatic apical periodontitis (n = 30) were in...",
+      "segment": 15,
+      "timestamp": 2159.12
+    },
+    {
+      "title": "Microbiome and",
+      "url": "https://doi.org/10.1080/1744666X.2026.2645844",
+      "source": "PubMed — Expert review of clinical immunology",
+      "one_liner": "INTRODUCTION: Epidermal growth factor receptor ( AREAS COVERED: This review summarizes the main microbiome characteristics of EXPERT OPINION: Despite its emerging role, microbiome research in",
+      "segment": 16,
+      "timestamp": 2191.69
+    },
+    {
+      "title": "Intratumoral microbiota and host genotype cooperatively shape neutrophil cytotoxic functions in colorectal cancer.",
+      "url": "https://doi.org/10.1016/j.chom.2026.02.006",
+      "source": "PubMed — Cell host & microbe",
+      "one_liner": "The role of tumor-associated neutrophils (TANs) infiltrating colorectal cancers (CRCs) is still debated. Here, we unravel that TAN recruitment and functions are modulated by intratumoral microbiota and only defined bacterial species can unleash neutrophil cytotoxic potential. Fusobacterium nucleatum promotes the production of neutrophil-recruiting chemoki...",
+      "segment": 17,
+      "timestamp": 2242.88
+    },
+    {
+      "title": "When phages fuel gut inflammation.",
+      "url": "https://doi.org/10.1016/j.chom.2026.02.014",
+      "source": "PubMed — Cell host & microbe",
+      "one_liner": "Inflammatory bowel disease is associated with the gut microbiome, with many of its mechanistic underpinnings yet to be unraveled. In this issue of Cell Host & Microbe, Wen and colleagues show that Crohn's disease pathology is amplified by phage-bacteria interactions and that the gut virome might be a driver of disease severity.",
+      "segment": 18,
+      "timestamp": 2292.94
+    },
+    {
+      "title": "Intratumoral bacterium Enterocloster bolteae promotes hepatocellular carcinoma progression by directly binding tumor cells.",
+      "url": "https://doi.org/10.1016/j.chom.2026.01.020",
+      "source": "PubMed — Cell host & microbe",
+      "one_liner": "The gut microbiota regulates systemic metabolism, inflammation, and immunity, with evidence linking microbiota translocation through the gut-liver axis to hepatocellular carcinoma (HCC) progression. However, the specific bacteria and underlying mechanisms driving tumor progression remain unexplored. We identify that E. bolteae is enriched in the feces of ...",
+      "segment": 19,
+      "timestamp": 2340.04
+    },
+    {
+      "title": "Commensal enteric virome regulates intestinal carbohydrate digestion and absorption.",
+      "url": "https://doi.org/10.1016/j.chom.2026.01.019",
+      "source": "PubMed — Cell host & microbe",
+      "one_liner": "The enteric microbiome and nutrient sensing within the small intestine play critical roles in maintaining host metabolic homeostasis. Although various bacteria and some fungi have established functions in nutrient metabolism, the role of the enteric virome remains poorly understood. Here, we demonstrate that the enteric virome significantly influences car...",
+      "segment": 20,
+      "timestamp": 2382.95
+    },
+    {
+      "title": "An image-based transcriptomics atlas reveals the regional and microbiota-dependent molecular, cellular, and spatial structure of the murine gut.",
+      "url": "https://doi.org/10.1016/j.chom.2026.01.018",
+      "source": "PubMed — Cell host & microbe",
+      "one_liner": "The gastrointestinal environment is home to a massive diversity of diet-, host-, and microbiota-derived small molecules, collectively sensed by a remarkable variety of cells. To explore the cellular and spatial organization of sensation, we use MERFISH to profile receptor expression across 2.1 million cells in multiple regions of the murine gut under spec...",
+      "segment": 21,
+      "timestamp": 2426.99
+    },
+    {
+      "title": "Protection and Delivery of Phytochemicals from Passive Encapsulation to Guaranteed Self-Assembly Induced by Amyloid Template for Chronic Disease Prevention via Modulating Microbial-Host Crosstalk.",
+      "url": "https://doi.org/10.1002/advs.202516566",
+      "source": "PubMed — Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "one_liner": "The rising incidence of chronic diseases globally has drawn widespread attention to phytochemicals, which exert targeted preventive and alleviating effect by modulating gut microbiota; thus, a potential strategy for precision nutritional interventions is offered. However, many phytochemicals may exhibit relative instability during processing and gastroint...",
+      "segment": 22,
+      "timestamp": 2473.71
+    },
+    {
+      "title": "Gut bacterial and fungal signatures in relation to human leukocyte antigen-DQ2/DQ8 in children with celiac disease and siblings.",
+      "url": "https://doi.org/10.3748/wjg.v32.i10.116128",
+      "source": "PubMed — World journal of gastroenterology",
+      "one_liner": "BACKGROUND: The presence of human leukocyte antigen (HLA)-DQ2 and/or HLA-DQ8 alleles is necessary but not sufficient for the development of celiac disease (CeD). This suggests that additional environmental and biological factors, including bacteria and, above all, the still rarely studied fungal gut microbiota, play key roles in disease onset and progress...",
+      "segment": 23,
+      "timestamp": 2532.32
+    },
+    {
+      "title": "Cellular membrane protein MipA from E.coli Nissle 1917 protects against Salmonella infection.",
+      "url": "https://doi.org/10.1093/ismejo/wrag054",
+      "source": "PubMed — The ISME journal",
+      "one_liner": "Intestinal microbiota resists pathogenic bacterial infections through colonization resistance, largely attributed to direct microbial competition. However, whether commensals can provide colonization resistance by remodeling the host epithelial niche remains underexplored. Here, by combining in vivo mouse models and a gut-on-chip model, this study demonst...",
+      "segment": 24,
+      "timestamp": 2580.74
+    },
+    {
+      "title": "Tumor-induced species-specific dysbiosis drives renal innate immunity and nephrogenic ascites",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.10.710910",
+      "source": "bioRxiv — cancer biology",
+      "one_liner": "Ascites is a life-threatening complication of advanced malignancies, yet how tumors disrupt systemic fluid homeostasis remains poorly understood. Here, using a Drosophila tumor allograft model that recapitulates key features of cancer-associated ascites, we identify a tumor-microbiome-renal axis that controls host fluid balance. Tumor-bearing hosts develo...",
+      "segment": 25,
+      "timestamp": 2624.95
+    },
+    {
+      "title": "Species-specific prophage induction by ciprofloxacin in human gut metagenomes",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.11.711154",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Antibiotics are known to trigger prophage induction in controlled laboratory settings, but it remains unclear whether this also occurs within microbiomes in nature. Current methods investigating the link between antibiotics and prophage induction within the human gut rely on in vitro culturing of human gut bacterial isolates. Using a metagenomic approach,...",
+      "segment": 26,
+      "timestamp": 2743.02
+    },
+    {
+      "title": "Prebiotics attenuate depressive-like behavior, neuroinflammation and synaptic plasticity in Parkinson's disease by modulating butyrate-producing gut bacteria.",
+      "url": "https://doi.org/10.1007/s10787-026-02152-2",
+      "source": "PubMed — Inflammopharmacology",
+      "one_liner": "Parkinson's disease (PD) remains a challenging disease for treatment, which is usually polypharmacological. In addition to motor symptoms, non-motor symptoms such as depression are present in approximately 40% of patients, contributing to the loss of quality of life. In the last two decades, a growing body of evidence has emerged regarding the involvement...",
+      "segment": 27,
+      "timestamp": 2796.97
+    },
+    {
+      "title": "A multi-omics analysis of gut bacteriome, virome, and serum metabolome in bipolar depression.",
+      "url": "https://doi.org/10.1038/s44184-026-00197-3",
+      "source": "PubMed — Npj mental health research",
+      "one_liner": "The involvement of microbiota-gut-brain axis in bipolar disorder (BD) has been uncovered, yet the specific tripartite interplay between the gut bacteriome, virome, and serum metabolome remains to be elucidated. We conducted a cross-sectional multi-omics analysis on 90 drug-free patients with bipolar depression and 30 healthy controls. A significant betwee...",
+      "segment": 28,
+      "timestamp": 2934.32
+    },
+    {
+      "title": "Dietary patterns influence the in silico GABA production capacity of Bifidobacterium adolescentis HD17T2H and other human gut bacteria.",
+      "url": "https://doi.org/10.1038/s41598-026-43006-9",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "",
+      "segment": 29,
+      "timestamp": 3117.72
+    }
+  ]
+}
