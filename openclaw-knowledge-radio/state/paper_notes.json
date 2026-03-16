@@ -22,5 +22,12 @@
       "title": "Interplay between colorectal cancer-related lifestyles and the gut microbiome: an exploratory analysis of metagenomic da",
       "source": "PubMed — Cancer causes & control : CCC"
     }
+  },
+  "2026-03-16": {
+    "https://doi.org/10.1016/j.cmet.2026.02.012": {
+      "note": "Large cohort and deep phenotyping, with a lot of metadata available. Interesting to see how composition and function may be associated to similar or different host features",
+      "title": "Large-scale metaproteomics of human gut microbiota reveals microbial functions in metabolic diseases and aging.",
+      "source": "PubMed — Cell metabolism"
+    }
   }
 }
