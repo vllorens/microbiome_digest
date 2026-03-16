@@ -4,8 +4,13 @@
     "title": "Spatial transcriptomics maps host–gut microbiome biogeography at high resolution",
     "url": "https://www.nature.com/articles/s41564-026-02286-7",
     "date_submitted": "2026-03-16",
-    "processed": false,
-    "diagnosis": null,
-    "keywords_added": []
+    "processed": true,
+    "diagnosis": "low_ranking",
+    "keywords_added": [
+      "spatial transcriptomics",
+      "host-gut microbiome",
+      "biogeography mapping"
+    ],
+    "rss_feed_found": ""
   }
 ]
