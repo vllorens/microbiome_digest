@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Mar 2026 05:15:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 05:28:47 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-03-16</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-16/podcast_2026-03-16.mp3</guid>
+      <pubDate>Mon, 16 Mar 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-16/podcast_2026-03-16.mp3" length="19379229" type="audio/mpeg" />
+      <description>A large-scale metaproteomic study of 1,967 fecal samples from 1,399 middle-aged and elderly Chinese individuals has mapped the protein-level functions of the human gut microbiome at unprecedented scale. | A new review in Gut Microbes highlights how gut microbiota metabolic reprogramming is a key driver of metabolic diseases in the host. | Let me take you into the Hakefjorden and Askerofjorden on Sweden&#x27;s west coast, where researchers have uncovered how wastewater treatment plant effluent reshapes the invisible microbial life in coastal waters.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>A large-scale metaproteomic study of 1,967 fecal samples from 1,399 middle-aged and elderly Chinese individuals has mapped the protein-level functions of the human gut microbiome at unprecedented scale. | A new review in Gut Microbes highlights how gut microbiota metabolic reprogramming is a key driver of metabolic diseases in the host. | Let me take you into the Hakefjorden and Askerofjorden on Sweden&#x27;s west coast, where researchers have uncovered how wastewater treatment plant effluent reshapes the invisible microbial life in coastal waters.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-03-15</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-15/podcast_2026-03-15.mp3</guid>
       <pubDate>Sun, 15 Mar 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-15/podcast_2026-03-15.mp3" length="20126469" type="audio/mpeg" />
-      <description>Metatranscriptomics reveals system-specific viral adaptive strategies and prokaryotic defense trade-offs across anaerobic digestion systems. | This study from Water Research used metatranscriptomics to investigate viral ecology in three full-scale food waste anaerobic digestion systems. | A new study in The Science of the Total Environment used whole-genome shotgun metagenomics to examine the gut microbiome and resistome of wild raccoon dogs rescued at a wildlife center.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-15/podcast_2026-03-15.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Metatranscriptomics reveals system-specific viral adaptive strategies and prokaryotic defense trade-offs across anaerobic digestion systems. | This study from Water Research used metatranscriptomics to investigate viral ecology in three full-scale food waste anaerobic digestion systems. | A new study in The Science of the Total Environment used whole-genome shotgun metagenomics to examine the gut microbiome and resistome of wild raccoon dogs rescued at a wildlife center.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
