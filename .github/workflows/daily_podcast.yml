@@ -4,6 +4,7 @@ on:
   schedule:
     # Runs at 03:00 UTC every day (= 3am London winter / 11am Beijing+8)
     - cron: "0 3 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
