@@ -138,11 +138,13 @@ async def _save_one(text: str, voice: str, rate: str, out_path: Path) -> str:
             try:
                 communicate = edge_tts.Communicate(text, v, rate=edge_rate)
                 await asyncio.wait_for(communicate.save(str(out_path)), timeout=25)
-                return "edge"
+                if out_path.exists() and out_path.stat().st_size > _MIN_VALID_MP3_BYTES:
+                    return "edge"
+                edge_errs.append(f"{v}#{attempt}: empty output ({out_path.stat().st_size if out_path.exists() else 0} bytes)")
             except Exception as e:
                 last_err = e
                 edge_errs.append(f"{v}#{attempt}: {_short_err(e)}")
-                await asyncio.sleep(0.8 * attempt)
+            await asyncio.sleep(0.8 * attempt)
 
     # Fallback 1: local Kokoro API (if running and not already tried)
     if not PREFER_KOKORO and _save_with_kokoro_api(text, out_path):
@@ -172,7 +174,7 @@ async def _save_one(text: str, voice: str, rate: str, out_path: Path) -> str:
             )
             pass
 
-    raise last_err
+    raise last_err or RuntimeError(f"Edge TTS produced empty output after {edge_attempts} attempts: {edge_errs[-1] if edge_errs else 'unknown'}")
 
 
 def _pick_split_point(text: str) -> int:
