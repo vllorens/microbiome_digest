@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Mar 2026 07:39:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 06:53:47 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -18,6 +18,17 @@
     <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     <itunes:explicit>false</itunes:explicit>
     
+    <item>
+      <title>Daily Podcast 2026-03-17</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-17/podcast_2026-03-17.mp3</guid>
+      <pubDate>Tue, 17 Mar 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-17/podcast_2026-03-17.mp3" length="4828101" type="audio/mpeg" />
+      <description>A new study in Neuroscience suggests gut microbiota may mediate the link between heart failure and Alzheimer&#x27;s disease through BAFF-R signaling. | New research in the Proceedings of the National Academy of Sciences reveals that eastern oysters coordinate gene activity between their own cells and their resident microbes to control the chemistry of their internal calcifying fluids. | Lactiplantibacillus plantarum 082 shows promise in protecting against heat-induced testicular injury by modulating gut microbiota, according to a study in mSystems.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>A new study in Neuroscience suggests gut microbiota may mediate the link between heart failure and Alzheimer&#x27;s disease through BAFF-R signaling. | New research in the Proceedings of the National Academy of Sciences reveals that eastern oysters coordinate gene activity between their own cells and their resident microbes to control the chemistry of their internal calcifying fluids. | Lactiplantibacillus plantarum 082 shows promise in protecting against heat-induced testicular injury by modulating gut microbiota, according to a study in mSystems.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
     <item>
       <title>Daily Podcast 2026-03-16</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-16/podcast_2026-03-16.mp3</guid>
