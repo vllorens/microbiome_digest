@@ -1,0 +1,312 @@
+{
+  "timestamps": [
+    0.0,
+    55.56,
+    98.73,
+    148.07,
+    188.6,
+    236.57,
+    288.65,
+    341.71,
+    389.66,
+    518.68,
+    661.54,
+    803.64,
+    958.18,
+    1101.38,
+    1154.85,
+    1313.7,
+    1439.26,
+    1569.32,
+    1706.86,
+    1862.56,
+    2053.55,
+    2094.52,
+    2231.67,
+    2358.94,
+    2484.38,
+    2598.98,
+    2758.43,
+    2890.43,
+    3038.19,
+    3087.75,
+    3140.95,
+    3188.83,
+    3319.77,
+    3428.65
+  ],
+  "items": [
+    {
+      "title": "MATRIX: Rapid Quantification of Total and Active Microbial Cells with Single Cell Phenotypes for Environmental Microbiomes",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.16.712149v1?rss=1",
+      "source": "bioRxiv - Microbiology",
+      "one_liner": "Quantifying the abundance and activity of bacteria within populations and communities is fundamental to systems microbiology and microbiome research. Yet direct microscopic cell counting remains low-throughput, labor-intensive, and prone to user variability, leading many researchers to rely on indirect proxies such as optical density or multicopy marker-g...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Comprehensive profiling of skin microbiome diversity and major determinants in a multi-regional Chinese population.",
+      "url": "https://doi.org/10.1016/j.celrep.2026.117097",
+      "source": "PubMed — Cell reports",
+      "one_liner": "The human skin microbiome is essential for health and is shaped by both host and environmental factors. To establish a nationwide baseline, we profile the skin microbiome of 1,029 Chinese individuals across three body sites (hand, axilla, and foot), four geographic regions, and four ethnic groups using 16S rRNA gene sequencing. Within each skin site, we i...",
+      "segment": 1,
+      "timestamp": 55.56
+    },
+    {
+      "title": "Mechanism by which Qingre Lishi formula regulates Behçet's disease through gut microbiota-derived metabolites.",
+      "url": "https://doi.org/10.1080/21691401.2026.2640825",
+      "source": "PubMed — Artificial cells, nanomedicine, and biotechnology",
+      "one_liner": "This research employs an integrated approach combining network pharmacology and molecular docking to assess the therapeutic potential of a Heat-Clearing and Dampness-Eliminating Formula alongside gut microbiota (GM) metabolites in the management of Behçet's disease (BD). Active constituents of the formula and GM-derived metabolites were sourced from speci...",
+      "segment": 2,
+      "timestamp": 98.73
+    },
+    {
+      "title": "Group B Streptococcus and Vaginal Microbiome Dynamics in Pregnancy.",
+      "url": "https://doi.org/10.1159/000551477",
+      "source": "PubMed — Medical principles and practice : international journal of the Kuwait University, Health Science Centre",
+      "one_liner": "OBJECTIVE: This study aims to compare the vaginal microbiome of Group B Streptococcus (GBS) positive and negative pregnant women in selected tertiary care hospitals in Sri Lanka. METHOD: Fifteen GBS-positive and fifteen GBS-negative women were included in the study. The composition of vaginal microbiome was profiled by sequencing 16S rRNA V3-V4 region. Mi...",
+      "segment": 3,
+      "timestamp": 148.07
+    },
+    {
+      "title": "Gut Microbiome Composition and Function, Diet and Clinical Factors in Relation to Fermentable Carbohydrate-Induced Bloating: A Double-Blind, Randomized, Crossover Trial.",
+      "url": "https://doi.org/10.14309/ajg.0000000000003997",
+      "source": "PubMed — The American journal of gastroenterology",
+      "one_liner": "BACKGROUND: Specific foods are associated with abdominal bloating, which can significantly impact quality of life. OBJECTIVE: To identify responders to fiber-induced bloating and the mechanisms underpinning clinical and microbial responses. DESIGN: Double-blind, placebo-controlled, randomized, 2-period, 2-challenge crossover trial in 41 individuals with f...",
+      "segment": 4,
+      "timestamp": 188.6
+    },
+    {
+      "title": "Gut microbiome in type 2 diabetes: insights from metagenomics, multi-omics, and diet–microbe interactions",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/19490976.2026.2644682?af=R",
+      "source": "Gut Microbes",
+      "one_liner": "Volume 18, Issue 1, December 2026 .",
+      "segment": 5,
+      "timestamp": 236.57
+    },
+    {
+      "title": "Gut microbiome in type 2 diabetes: insights from metagenomics, multi-omics, and diet-microbe interactions.",
+      "url": "https://doi.org/10.1080/19490976.2026.2644682",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Type 2 diabetes (T2D) is a heterogeneous metabolic disorder in which environmental exposures interact with host biology to drive insulin resistance and progressive",
+      "segment": 6,
+      "timestamp": 288.65
+    },
+    {
+      "title": "Impact of chronic low-dose external gamma- and internal tritium beta-irradiation on the gut microbiome in the context of intestinal tumorigenesis in",
+      "url": "https://doi.org/10.1128/msystems.01156-25",
+      "source": "PubMed — mSystems",
+      "one_liner": "UNLABELLED: The gut microbiome (GM) plays an essential role in health, and its dysbiosis can increase the risk of colon cancer. While the detrimental effects of high-dose ionizing radiation on GM have been documented, little is known about the effects of low doses, including from internal exposure to tritium, which is produced by nuclear power generation ...",
+      "segment": 7,
+      "timestamp": 341.71
+    },
+    {
+      "title": "Conserved protein sequence-structure signatures identify antibiotic resistance genes from the human microbiome",
+      "url": "https://www.biorxiv.org/content/10.1101/2025.10.01.679039",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Bacteria exhibiting antimicrobial resistance (AMR) is a problem that has grown to become a significant public health challenge worldwide. Antibiotic resistance genes (ARGs), determinants of AMR, mostly emerge from non-clinical settings. Identifying previously undetected ARGs in the human microbiome which confer resistance to clinical concentrations of ant...",
+      "segment": 8,
+      "timestamp": 389.66
+    },
+    {
+      "title": "A Permutation-Based Framework for Evaluating Bias in Microbiome Differential Abundance Analysis",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.14.711836",
+      "source": "bioRxiv — bioinformatics",
+      "one_liner": "Background: In microbiome research, differential abundance analysis aids in identifying significant differences in microbial taxa across two or more conditions. Statistical approaches used for this purpose include classical tests such as the t-test and Wilcoxon test, as well as methods designed to account for the compositional nature of microbiome data, i...",
+      "segment": 9,
+      "timestamp": 518.68
+    },
+    {
+      "title": "TracePheno Enables Function-First Inference of Trace-ElementPhenotypes from Microbiome Profiles",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.15.711888",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Microbiome phenotype analysis usually captures broad organism-level traits, yet clinically and ecologically important programmes for trace-element acquisition, storage, detoxification, and cofactor biosynthesis remain difficult to summarize because the underlying loci are often strain-variable and only partly reflected by taxonomy. We present TracePheno, ...",
+      "segment": 10,
+      "timestamp": 661.54
+    },
+    {
+      "title": "Eco-tank Housing Maintains Wild-Type Microbiota and Rewilds the Laboratory Mouse Gut Microbiome to Restore Natural Immune Tone",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.16.712136",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Laboratory mice housed under individually ventilated cage (IVC) conditions harbor simplified gut microbiota and immune phenotypes that diverge substantially from those shaped by environmental exposure, limiting translational relevance. To reintroduce controlled ecological complexity while maintaining biosafety and reproducibility, we developed the Eco-tan...",
+      "segment": 11,
+      "timestamp": 803.64
+    },
+    {
+      "title": "Iron limitation alters diatom carbon flow through shifts in microbiome exometabolite consumption",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.16.711593",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Iron is required for photosynthesis, and thus affects biogeochemical cycling in widespread regions where its availability is limited. Turnover of aquatic photosynthetically-derived carbon is largely constrained by bacterial activity, but we lack a mechanistic understanding of how iron limitation influences this activity. We examined a bacterial enrichment...",
+      "segment": 12,
+      "timestamp": 958.18
+    },
+    {
+      "title": "MATRIX: Rapid Quantification of Total and Active Microbial Cells with Single Cell Phenotypes for Environmental Microbiomes",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.16.712149",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Quantifying the abundance and activity of bacteria within populations and communities is fundamental to systems microbiology and microbiome research. Yet direct microscopic cell counting remains low-throughput, labor-intensive, and prone to user variability, leading many researchers to rely on indirect proxies such as optical density or multicopy marker-g...",
+      "segment": 13,
+      "timestamp": 1101.38
+    },
+    {
+      "title": "Gut Microbiota Resilience and Environmental Stressors: A Hidden Key to Lifespan Optimization?",
+      "url": "https://doi.org/10.1007/s12602-026-10976-1",
+      "source": "PubMed — Probiotics and antimicrobial proteins",
+      "one_liner": "Gut microbiota resilience, the capacity of intestinal microbial communities to resist, adapt, and recover from perturbations has emerged as a critical determinant of human health and longevity. Environmental stressors such as antibiotics, pollutants, poor diet, infections, and psychosocial stress challenge this resilience, often leading to dysbiosis (a su...",
+      "segment": 14,
+      "timestamp": 1154.85
+    },
+    {
+      "title": "Ellagic acid can improve stroke by regulating gut microbiota.",
+      "url": "https://doi.org/10.1007/s11011-026-01819-7",
+      "source": "PubMed — Metabolic brain disease",
+      "one_liner": "Stroke is a condition characterized by high rates of morbidity, mortality, and disability. Developing new and effective treatments is critical for improving stroke rehabilitation outcomes. Microbiota-gut-brain axis has garnered significant attention as a bidirectional communication network linking gut microbiota with their host organisms. A considerable n...",
+      "segment": 15,
+      "timestamp": 1313.7
+    },
+    {
+      "title": "Daikenchuto ameliorates dextran sulfate sodium-induced acute and chronic ulcerative colitis by regulating gut microbiota-derived indoles to activate AhR signaling.",
+      "url": "https://doi.org/10.1186/s13020-026-01358-4",
+      "source": "PubMed — Chinese medicine",
+      "one_liner": "BACKGROUND: Ulcerative colitis (UC), a chronic-relapsing inflammatory disease with rising prevalence worldwide, is primarily driven by intestinal epithelial barrier dysfunction resulting from gut microbial dysbiosis and metabolic disturbances. Daikenchuto (DKT), a traditional Chinese medicine formulation, is commonly used for digestive disorders. Although...",
+      "segment": 16,
+      "timestamp": 1439.26
+    },
+    {
+      "title": "Harnessing the early-life gut microbiome for sustainable ruminant production.",
+      "url": "https://doi.org/10.1186/s42523-026-00549-6",
+      "source": "PubMed — Animal microbiome",
+      "one_liner": "",
+      "segment": 17,
+      "timestamp": 1569.32
+    },
+    {
+      "title": "Impact of microbiome-modulating strategies in cancer patients receiving immunotherapy (MSIT): A systematic review and meta-analysis.",
+      "url": "https://doi.org/10.1038/s41598-026-44743-7",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "The gut microbiota influences immune checkpoint inhibitors (ICIs) efficacy. Microbiome-modulating strategies (MMSs), including probiotics, synbiotics, and faecal microbiota transplantation (FMT), have emerged as promising adjuncts, but their clinical impact remains uncertain. We systematically reviewed PubMed, Embase, and CENTRAL to February 2025 for clin...",
+      "segment": 18,
+      "timestamp": 1706.86
+    },
+    {
+      "title": "Dental caries beyond eradication: microbiome centered and equilibrium driven therapeutic strategies.",
+      "url": "https://doi.org/10.1007/s00203-026-04811-y",
+      "source": "PubMed — Archives of microbiology",
+      "one_liner": "",
+      "segment": 19,
+      "timestamp": 1862.56
+    },
+    {
+      "title": "Multi-omics analysis reveals the critical role of gut microbiota related tryptophan and glutathione metabolism in sepsis-associated encephalopathy.",
+      "url": "https://doi.org/10.1186/s12866-026-04929-5",
+      "source": "PubMed — BMC microbiology",
+      "one_liner": "",
+      "segment": 20,
+      "timestamp": 2053.55
+    },
+    {
+      "title": "Characterization of age-related changes in the gut microbiome and metabolome of Kunming dogs and their associations with police performance.",
+      "url": "https://doi.org/10.1186/s40168-026-02388-8",
+      "source": "PubMed — Microbiome",
+      "one_liner": "BACKGROUND: Gut microbiota plays a pivotal role in regulating the host's central nervous system (CNS) activity and behavior. However, its influence on the police performance of Kunming dogs and the underlying mechanisms remain largely unexplored. This study was the first to apply multi-omics technologies to investigate the dynamic variations in gut microb...",
+      "segment": 21,
+      "timestamp": 2094.52
+    },
+    {
+      "title": "Mapping 25 years of research on gut microbiota and antibiotic resistance: bibliometric insights and future directions.",
+      "url": "https://doi.org/10.1007/s10096-026-05455-y",
+      "source": "PubMed — European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology",
+      "one_liner": "OBJECTIVE: Antibiotic resistance poses a major global public health threat. It compromises human health and increases healthcare burdens. The gut microbiota serves as a critical reservoir for antibiotic resistance genes (ARGs). It plays a pivotal role in the spread and evolution of antibiotic resistance. This study systematically analyzes the literature r...",
+      "segment": 22,
+      "timestamp": 2231.67
+    },
+    {
+      "title": "Modulating gut microbiota in type 2 diabetes mellitus: advances and challenges in precision medicine.",
+      "url": "https://doi.org/10.1007/s00592-026-02650-3",
+      "source": "PubMed — Acta diabetologica",
+      "one_liner": "Gut microbiota dysbiosis (an imbalance in microbial communities) is a significant factor in the pathogenesis and progression of type 2 diabetes mellitus (T2DM), with specific microbial signatures and metabolites (like short-chain fatty acids) influencing host metabolism, inflammation, and glycemic control.\n\nMETHOD / APPROACH:\nThe source text is a bibliography/reference list, not a single primary research article.",
+      "segment": 23,
+      "timestamp": 2358.94
+    },
+    {
+      "title": "Dysbiosis of the nasal microbiome is associated with prospective acute exacerbation of COPD.",
+      "url": "https://doi.org/10.1186/s40168-026-02357-1",
+      "source": "PubMed — Microbiome",
+      "one_liner": "BACKGROUND: Acute exacerbation of chronic obstructive pulmonary disease (AECOPD) is often associated with respiratory viral infection and the need for increased medical intervention. The nasal mucosa plays a critical role in infection susceptibility and severity, with the nasal microbiome shaping mucosal immunity. This study investigated the association b...",
+      "segment": 24,
+      "timestamp": 2484.38
+    },
+    {
+      "title": "INulin-type β-fructans supplementation to modulate gut microbiota and assessment of its effects on health status and GUT-SKIN axis parameters in patients with psoriasis (INGUTSKIN): the 8-week, randomised, double-blind, placebo-controlled clinical study protocol.",
+      "url": "https://doi.org/10.1186/s12937-026-01316-8",
+      "source": "PubMed — Nutrition journal",
+      "one_liner": "Restoring gut microbiome homeostasis and intestinal barrier function using chicory-derived inulin-type β-fructans (ITFs) will alleviate inflammatory symptoms and reduce the severity of skin lesions in patients with mild psoriasis (PS) by modulating the gut-skin axis.\n\nMETHOD / APPROACH:\nA randomized, double-blind, placebo-controlled clinical trial (RCT).",
+      "segment": 25,
+      "timestamp": 2598.98
+    },
+    {
+      "title": "Microbiome Datahub: an open-access platform integrating environmental metadata, taxonomy, and functional annotation for comprehensive metagenome-assembled genome datasets.",
+      "url": "https://doi.org/10.1186/s40168-026-02385-x",
+      "source": "PubMed — Microbiome",
+      "one_liner": "BACKGROUND: Metagenome-assembled genomes (MAGs) provide crucial insights into the genomic diversity of uncultured microbes. However, MAG datasets deposited in public repositories such as INSDC are often difficult to reuse due to heterogeneous quality, inconsistent taxonomic and functional annotations, and insufficiently curated environmental metadata. Whi...",
+      "segment": 26,
+      "timestamp": 2758.43
+    },
+    {
+      "title": "Enterococcus faecalis KU-EF-004 enhances efficacy of anti-CTLA-4 immunotherapy for colorectal cancer via dendritic cell activation and gut microbiota modulation.",
+      "url": "https://doi.org/10.1186/s12865-026-00827-7",
+      "source": "PubMed — BMC immunology",
+      "one_liner": "The probiotic Enterococcus faecalis strain KU-EF-004 can significantly enhance the efficacy of anti-CTLA-4 immune checkpoint inhibitor therapy in a mouse model of colorectal cancer.\n\nMETHOD / APPROACH:\nThe study used MC38 tumor-bearing C57BL/6J mice.",
+      "segment": 27,
+      "timestamp": 2890.43
+    },
+    {
+      "title": "Sibelium exerts anti-migraine effects by remodeling the gut microbiota and regulating metabolic and immune pathways of the brain-gut axis.",
+      "url": "https://doi.org/10.1016/j.intimp.2026.116486",
+      "source": "PubMed — International immunopharmacology",
+      "one_liner": "BACKGROUND/OBJECTIVES: Migraine is a highly disabling neurological disorder closely associated with the brain-gut axis. The mechanism of action of sibelium (flunarizine), a commonly used prophylactic medication, is unclear but may act through modulation of the gut microbiota. Based on the \"brain-gut-microbiota axis\" theory, the effects of sibelium on gut ...",
+      "segment": 28,
+      "timestamp": 3038.19
+    },
+    {
+      "title": "A sulfated polysaccharide from Laminaria japonica alleviated colitis via remodeling gut microbiota and promoting butyrate-mediated barrier repair.",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2026.151462",
+      "source": "PubMed — International journal of biological macromolecules",
+      "one_liner": "Ulcerative colitis (UC) is a chronic inflammatory bowel disease characterized by dysregulated immunity, gut barrier dysfunction, and microbial dysbiosis. Polysaccharides from Laminaria japonica have shown anti-inflammatory properties and microbial-modulating potential, but their precise protective mechanisms, particularly through an integrated \"microbiota...",
+      "segment": 29,
+      "timestamp": 3087.75
+    },
+    {
+      "title": "Letter: Dose and Donor Matter—Determining the Optimal Strategy for Faecal Microbiota Transplantation in Clostridioides difficile Infection",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/apt.70625?af=R",
+      "source": "Alimentary Pharmacology & Therapeutics",
+      "one_liner": "Alimentary Pharmacology &Therapeutics, EarlyView.",
+      "segment": 30,
+      "timestamp": 3140.95
+    },
+    {
+      "title": "A Permutation-Based Framework for Evaluating Bias in Microbiome Differential Abundance Analysis",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.14.711836v1?rss=1",
+      "source": "bioRxiv - Bioinformatics",
+      "one_liner": "Background: In microbiome research, differential abundance analysis aids in identifying significant differences in microbial taxa across two or more conditions. Statistical approaches used for this purpose include classical tests such as the t-test and Wilcoxon test, as well as methods designed to account for the compositional nature of microbiome data, i...",
+      "segment": 31,
+      "timestamp": 3188.83
+    },
+    {
+      "title": "Hierarchical genomic feature annotation with variable-length queries",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.15.711907v1?rss=1",
+      "source": "bioRxiv - Bioinformatics",
+      "one_liner": "K-mer-based methods are widely used for sequence classification in metagenomics, pangenomics, and RNA-seq analysis, but existing tools face important limitations: they typically require a fixed k-mer length chosen at index construction time, handle multi-matching k-mers (whose origin in the indexed data is ambiguous) in ad-hoc ways, and some resort to los...",
+      "segment": 32,
+      "timestamp": 3319.77
+    },
+    {
+      "title": "PREMISE: A Quality-Aware Probabilistic Framework for Pathogen Resolution and Source Assignment in Viral mNGS",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.15.711921v1?rss=1",
+      "source": "bioRxiv - Bioinformatics",
+      "one_liner": "The circulation of Influenza A viruses (IAVs) in wildlife and livestock presents a significant public health threat due to their zoonotic potential and rapid genomic diversification. Accurate classification of viral subtypes and characterization of within-host diversity are crucial for risk assessment and vaccine development. Although metagenomic sequenci...",
+      "segment": 33,
+      "timestamp": 3428.65
+    }
+  ]
+}

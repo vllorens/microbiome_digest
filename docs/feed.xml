@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Mar 2026 06:53:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 18:48:02 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-03-18</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-18/podcast_2026-03-18.mp3</guid>
+      <pubDate>Wed, 18 Mar 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-18/podcast_2026-03-18.mp3" length="26675228" type="audio/mpeg" />
+      <description>MATRIX is a new workflow that directly quantifies both total and metabolically active bacterial cells in microbial populations and communities. | Researchers have mapped the skin microbiome of over 1,000 Chinese individuals across three body sites, four geographic regions, and four ethnic groups. | A new study in *Artificial Cells, Nanomedicine, and Biotechnology* explores how the Qingre Lishi formula may help treat Behçet&#x27;s disease by targeting gut microbiota-derived metabolites.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>MATRIX is a new workflow that directly quantifies both total and metabolically active bacterial cells in microbial populations and communities. | Researchers have mapped the skin microbiome of over 1,000 Chinese individuals across three body sites, four geographic regions, and four ethnic groups. | A new study in *Artificial Cells, Nanomedicine, and Biotechnology* explores how the Qingre Lishi formula may help treat Behçet&#x27;s disease by targeting gut microbiota-derived metabolites.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-03-17</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-17/podcast_2026-03-17.mp3</guid>
       <pubDate>Tue, 17 Mar 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-17/podcast_2026-03-17.mp3" length="4828101" type="audio/mpeg" />
-      <description>A new study in Neuroscience suggests gut microbiota may mediate the link between heart failure and Alzheimer&#x27;s disease through BAFF-R signaling. | New research in the Proceedings of the National Academy of Sciences reveals that eastern oysters coordinate gene activity between their own cells and their resident microbes to control the chemistry of their internal calcifying fluids. | Lactiplantibacillus plantarum 082 shows promise in protecting against heat-induced testicular injury by modulating gut microbiota, according to a study in mSystems.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-17/podcast_2026-03-17.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>A new study in Neuroscience suggests gut microbiota may mediate the link between heart failure and Alzheimer&#x27;s disease through BAFF-R signaling. | New research in the Proceedings of the National Academy of Sciences reveals that eastern oysters coordinate gene activity between their own cells and their resident microbes to control the chemistry of their internal calcifying fluids. | Lactiplantibacillus plantarum 082 shows promise in protecting against heat-induced testicular injury by modulating gut microbiota, according to a study in mSystems.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
