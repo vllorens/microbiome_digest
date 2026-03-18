@@ -26,7 +26,12 @@ excluded_terms:
   - "coastal"
   - "rumen"
   - "ruminal"
+  - "fish"
   - "ocean"
+  - "marine"
+  - "oyster"
+  - "soil"
+  - "worm"
   # journals to exclude
   - "Pest management science"
   # Administrative / non-research
