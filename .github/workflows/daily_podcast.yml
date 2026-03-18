@@ -32,7 +32,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Install ffmpeg
-        run: sudo apt-get install -y --fix-missing ffmpeg
+        run: which ffmpeg || sudo apt-get install -y --fix-missing ffmpeg
 
       - name: Run daily pipeline
         env:
