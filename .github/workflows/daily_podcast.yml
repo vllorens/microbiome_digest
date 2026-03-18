@@ -32,9 +32,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Install ffmpeg
-        run: |
-          sudo apt-mark hold libssh-4 libssh-gcrypt-4
-          sudo apt-get install -y ffmpeg
+        uses: FedericoCarboni/setup-ffmpeg@v3
 
       - name: Run daily pipeline
         env:
