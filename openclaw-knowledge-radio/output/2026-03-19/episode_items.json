@@ -1,0 +1,276 @@
+{
+  "timestamps": [
+    0.0,
+    172.53,
+    312.95,
+    458.0,
+    508.21,
+    555.12,
+    603.62,
+    653.35,
+    697.17,
+    740.82,
+    786.8,
+    829.25,
+    878.26,
+    920.9,
+    974.61,
+    1124.17,
+    1163.72,
+    1270.42,
+    1406.52,
+    1538.76,
+    1588.58,
+    1640.72,
+    1699.09,
+    1836.87,
+    1887.36,
+    2019.04,
+    2182.38,
+    2322.3,
+    2485.66,
+    2623.11
+  ],
+  "items": [
+    {
+      "title": "Development of a continuous bioreactor to maintain stable nasal microbiomes from swab specimens and synthetic communities",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.16.712028",
+      "source": "bioRxiv — bioengineering",
+      "one_liner": "Background: The nasal microbiome is a collection of diverse microbial populations that inhabit the nose. Staphylococcus aureus is the most common opportunistic pathogen that colonizes the nasal mucosa, increasing the risk of invasive infections in immunocompromised and hospitalized patients. Clinicians usually prescribe antibiotics to decolonize the nasal...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Fmr1 mutation reshapes gut microbiome structure, diversity, intestinal barrier integrity, and function in a sex and genotype-dependent manner",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.17.712468",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Fragile X Syndrome (FXS) is the leading monogenic cause of autism spectrum disorder (ASD), caused by mutation in the Fmr1 gene. In addition to cognitive and behavioral challenges, FXS patients often experience altered gut microbiome-induced gastrointestinal (GI) problems. Evidence suggests that an altered gut microbiome can disrupt mucosal barrier and pro...",
+      "segment": 1,
+      "timestamp": 172.53
+    },
+    {
+      "title": "Cooperative siderophore use stabilizes a protective leaf microbiome",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.18.712463",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Plant-associated microbial communities provide crucial protection against pathogens. Specialized metabolites play key roles in plant-microbe and microbe-microbe interactions and, ultimately, in plant health; however, the molecular mechanisms underlying their plant-protecting properties remain largely unknown. Nutrient deficiency (e.g., iron) on leaf surfa...",
+      "segment": 2,
+      "timestamp": 312.95
+    },
+    {
+      "title": "Sleep deprivation exacerbates hepatic steatosis by promoting hepatic inflammation and oxidative stress through gut microbiota dysbiosis in metabolic dysfunction-associated fatty liver disease rat.",
+      "url": "https://doi.org/10.1016/j.bbrc.2026.153588",
+      "source": "PubMed — Biochemical and biophysical research communications",
+      "one_liner": "OBJECTIVE: The study aimed to explore the impact of sleep deprivation on hepatic steatosis in metabolic dysfunction-associated fatty liver disease (MASLD) and its possible mechanisms. METHODS: Forced exercise was used to establish sleep deprivation(SD) models in Sprague-Dawley rats. After 8 weeks of modeling, lipid profile, liver function, pathological fe...",
+      "segment": 3,
+      "timestamp": 458.0
+    },
+    {
+      "title": "From microbiome to sperm motility traits: an inside-out perspective.",
+      "url": "https://doi.org/10.1098/rsbl.2025.0759",
+      "source": "PubMed — Biology letters",
+      "one_liner": "Growing interest in the relationship between microbiome composition and host biology has revealed the many ways host-associated microbes influence physiology, ecology and evolution. However, microbial communities associated with reproductive organs-and their roles in reproduction-remain poorly understood. Here, we characterized the skin- and ejaculate-ass...",
+      "segment": 4,
+      "timestamp": 508.21
+    },
+    {
+      "title": "The Gut Microbiome and Butyrate Differentiate Clostridioides difficile Colonization and Infection in Children.",
+      "url": "https://doi.org/10.1093/infdis/jiaf631",
+      "source": "PubMed — The Journal of infectious diseases",
+      "one_liner": "BACKGROUND: Symptomatic Clostridioides difficile infection (CDI) can cause significant morbidity and mortality. Conversely, patients can be colonized with toxigenic C. difficile in the absence of symptoms, termed asymptomatic colonization. We previously demonstrated that the presence and function of C. difficile toxins do not differentiate between asympto...",
+      "segment": 5,
+      "timestamp": 555.12
+    },
+    {
+      "title": "Oral Microbiome Diversity Matters on Nucleos(t)ide Analogue Cessation in Chronic Hepatitis B.",
+      "url": "https://doi.org/10.1093/infdis/jiaf591",
+      "source": "PubMed — The Journal of infectious diseases",
+      "one_liner": "BACKGROUND: Withdrawal of nucleos(t)ide analogue (NUC) therapy in hepatitis B e antigen (HbeAg)-negative chronic hepatitis B (CHB) may lead to functional cure in a subset of patients. Although gut microbiota is known to influence both CHB progression and treatment outcomes, the oral microbiome in NUC cessation remains unexplored. METHODS: This longitudina...",
+      "segment": 6,
+      "timestamp": 603.62
+    },
+    {
+      "title": "Gut Microbiota Predicts the Risk of Future COVID-19 Hospitalization and Mortality: Insights From the Population-Based HELIUS Study.",
+      "url": "https://doi.org/10.1093/infdis/jiaf541",
+      "source": "PubMed — The Journal of infectious diseases",
+      "one_liner": "Gut microbiota are disrupted in patients hospitalized for COVID-19, with a loss of anaerobic bacteria-producing butyrate. Yet, these disruptions could either be a consequence of the infection itself or increase susceptibility from the outset. Here, we investigated whether gut microbiota influence the risk of future COVID-19 hospitalization and mortality. ...",
+      "segment": 7,
+      "timestamp": 653.35
+    },
+    {
+      "title": "Gut Microbiota Regulates Brain-Bone Axis to Influence Osteoporosis Pathogenesis and Treatment.",
+      "url": "https://doi.org/10.34133/research.1178",
+      "source": "PubMed — Research (Washington, D.C.)",
+      "one_liner": "Osteoporosis is a systemic skeletal disorder characterized by reduced bone mass, impaired microarchitecture, and increased fracture risk, primarily resulting from dysregulated bone remodeling. Increasing evidence highlights a close interaction between bone metabolism and the gut microbiota. Alterations in bone mineral density can influence gut microbial c...",
+      "segment": 8,
+      "timestamp": 697.17
+    },
+    {
+      "title": "Okra Flower Polysaccharides Ameliorate Dextran Sulfate Sodium-Induced Ulcerative Colitis by Modulating ABC Transporters Via the Gut Microbiota.",
+      "url": "https://doi.org/10.1021/acs.jafc.5c15819",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "Current treatments for ulcerative colitis (UC) are limited by insufficient efficacy and potential side effects. This study aimed to investigate the prophylactic efficacy of",
+      "segment": 9,
+      "timestamp": 740.82
+    },
+    {
+      "title": "Dissecting the interplay between estrogen and diet-induced obesity on the gut microbiota.",
+      "url": "https://doi.org/10.1152/physiolgenomics.00338.2025",
+      "source": "PubMed — Physiological genomics",
+      "one_liner": "",
+      "segment": 10,
+      "timestamp": 786.8
+    },
+    {
+      "title": "Fisetin alleviates lipopolysaccharide-induced mastitis by inhibiting ferroptosis and modulating the gut microbiota.",
+      "url": "https://doi.org/10.1080/01652176.2026.2642789",
+      "source": "PubMed — The veterinary quarterly",
+      "one_liner": "Bovine mastitis poses an enormous challenge to the dairy industry. At present, dependence on antibiotic therapy has led to problems such as antibiotic-resistant bacteria and drug residues. Therefore, it is very important to seek alternative therapies for the treatment of bovine mastitis. Fisetin (FIS) with antioxidant and anti-inflammatory properties is f...",
+      "segment": 11,
+      "timestamp": 829.25
+    },
+    {
+      "title": "Pseudomonas aeruginosa adaptation and persistence in the aspergilloma microbiome revealed by integrated multi-omics.",
+      "url": "https://doi.org/10.1093/g3journal/jkag063",
+      "source": "PubMed — G3 (Bethesda, Md.)",
+      "one_liner": "Chronic pulmonary aspergillosis involves the formation of a fungal ball (aspergilloma) in lung cavities. Pseudomonas aeruginosa commonly co-colonizes these lesions; however, the in vivo mechanisms underlying its persistence are unknown. Using a multi-omics approach on resected aspergillomas, we defined the genomic, transcriptional, and metabolic adaptatio...",
+      "segment": 12,
+      "timestamp": 878.26
+    },
+    {
+      "title": "Trends in the Application of Multiomics Based on Machine Learning in the Development of Probiotics.",
+      "url": "https://doi.org/10.1021/acs.jafc.5c15387",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "With the rapid development of computational methods and high-throughput multiomics technologies, machine learning (ML) has emerged as an important analytical approach in probiotic research. This review summarizes recent ML-assisted applications across genomics, transcriptomics, metabolomics, microbiome profiling, and culturomics, and organizes current stu...",
+      "segment": 13,
+      "timestamp": 920.9
+    },
+    {
+      "title": "CRISPR-Cas immune repertoires as an ecological record of bacterial interactions with mobile genetic elements in the human gut",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.18.712547",
+      "source": "bioRxiv — molecular biology",
+      "one_liner": "Bacteria in the human gut influence host physiology and disease risk, but their ecology is strongly shaped by mobile genetic elements (MGEs) such as phages and plasmids. Past interactions between bacteria and MGEs can be inferred from CRISPR-Cas cassettes, which contain short DNA fragments derived from invading elements. To lay the groundwork for research...",
+      "segment": 14,
+      "timestamp": 974.61
+    },
+    {
+      "title": "Probiotic Lactobacillus rhamnosus mitigates PBC-like features in Mcpip1-deficient mice via modulation of gut-liver crosstalk.",
+      "url": "https://doi.org/10.1016/j.bbadis.2026.168216",
+      "source": "PubMed — Biochimica et biophysica acta. Molecular basis of disease",
+      "one_liner": "BACKGROUND: Primary biliary cholangitis (PBC) is a chronic autoimmune liver disease characterized by progressive biliary destruction and cholestasis. Current therapies, including ursodeoxycholic acid (UDCA), exhibit limited efficacy in advanced disease. In this study, we investigate the therapeutic potential of microbial intervention using Lactobacillus r...",
+      "segment": 15,
+      "timestamp": 1124.17
+    },
+    {
+      "title": "Clostridia from preterm infants metabolize human milk oligosaccharides to suppress pathobionts and modulate intestinal function in organoids.",
+      "url": "https://doi.org/10.1038/s41564-026-02297-4",
+      "source": "PubMed — Nature microbiology",
+      "one_liner": "Infant gut microbiome development is strongly impacted by breastmilk and human milk oligosaccharides (HMOs), which can protect preterm infants against pathologies including necrotizing enterocolitis. HMO metabolism in bifidobacteria is well characterized and linked to health outcomes, but the scope of HMO-utilizing species remains unclear. Here, using a c...",
+      "segment": 16,
+      "timestamp": 1163.72
+    },
+    {
+      "title": "Romboutsia ilealis related metabolite OAA controls obesity and lipid metabolism through PSMD3-mediated degradation of YTHDF2.",
+      "url": "https://doi.org/10.1038/s41418-026-01708-7",
+      "source": "PubMed — Cell death and differentiation",
+      "one_liner": "Specific gut microbes are critically involved in the development of metabolic diseases, particularly obesity. Here, through analyses of diabetic patients and animal models, we identified Romboutsia ilealis as a novel gut bacterium that alleviates obesity and associated metabolic disorders by suppressing intestinal lipid absorption rather than altering ene...",
+      "segment": 17,
+      "timestamp": 1270.42
+    },
+    {
+      "title": "Gut Dysbiosis and Carbamazepine Differentially Impact Hippocampal Glial Response and Neurodegeneration in a Viral Infection-Induced Seizure Model",
+      "url": "https://www.biorxiv.org/content/10.1101/2025.05.23.655804",
+      "source": "bioRxiv — neuroscience",
+      "one_liner": "Objective: Brain infection is an underrecognized global cause of epilepsy due to the ensuing neuroinflammation and neurological damage. Immune system response, including underlying neuroinflammation, is dynamically shaped by the intestinal microbiome. In experimental rodent epilepsy models, seizure burden and antiseizure medication (ASM) activity can be d...",
+      "segment": 18,
+      "timestamp": 1406.52
+    },
+    {
+      "title": "Serum Element-Driven Gut Microbial Disturbances and Their Predictive Implications for Gestational Dyslipidemia: A Prospective Birth Cohort Study.",
+      "url": "https://doi.org/10.1021/acs.est.5c14364",
+      "source": "PubMed — Environmental science & technology",
+      "one_liner": "Pregnancy-triggered shifts in maternal serum elements and gut microbiota may disrupt metabolic balance; yet, their interplay in lipid regulation remains elusive. This study aimed to decode how metal elements and gut microbiota across mid-to-late pregnancy contribute to dyslipidemia and enable early risk prediction. In 689 pregnant women, we measured serum...",
+      "segment": 19,
+      "timestamp": 1538.76
+    },
+    {
+      "title": "Density-dependent feedback and higher-order interactions enable coexistence in phage-bacteria community dynamics.",
+      "url": "https://doi.org/10.1093/ismejo/wrag041",
+      "source": "PubMed — The ISME journal",
+      "one_liner": "Diverse phage-bacteria communities coexist at high densities in environmental, agricultural, and human-associated microbiomes. Phage-bacteria coexistence is often attributed to coevolutionary processes mediated by complex, pairwise infection networks. Here, using in vitro experiments and mathematical models, we explore how higher-order interactions functi...",
+      "segment": 20,
+      "timestamp": 1588.58
+    },
+    {
+      "title": "Phylum-wide propionate degradation and its potential connection to poly-gamma-glutamate biosynthesis in Candidatus Cloacimonadota phylum.",
+      "url": "https://doi.org/10.1093/ismejo/wrag055",
+      "source": "PubMed — The ISME journal",
+      "one_liner": "The candidate phylum Cloacimonadota is frequently detected in anoxic environments such as anaerobic digestion (AD) reactors, hydrothermal vents, and deep-sea sediments, yet its metabolism remains poorly understood. Metagenomic evidence suggests capacities for amino acid fermentation, carbohydrate degradation, as well as a potential role in syntrophic prop...",
+      "segment": 21,
+      "timestamp": 1640.72
+    },
+    {
+      "title": "A microbiota-host axis mediates prostaglandin sensitivity: Lactobacillus crispatus as a biomarker and regulator of human labor induction.",
+      "url": "https://doi.org/10.1038/s41522-026-00960-6",
+      "source": "PubMed — NPJ biofilms and microbiomes",
+      "one_liner": "Labor induction failure increases the risk of unplanned cesarean delivery and maternal-neonatal complications. However, the determinants of induction sensitivity remain poorly understood. In this prospective cohort of 85 term pregnant women undergoing labor induction with Propess® (prostaglandin E2), we combined full-length 16S rRNA sequencing of the vagi...",
+      "segment": 22,
+      "timestamp": 1699.09
+    },
+    {
+      "title": "The putative role of the microbiota in the development of neuropsychiatric disorders following early childhood malnutrition.",
+      "url": "https://doi.org/10.1080/19490976.2026.2643373",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Early childhood malnutrition (ECM) is robustly associated with increased risk of cognitive impairment and neuropsychiatric disorders across the lifespan, yet the biological mechanisms underlying this vulnerability remain incompletely defined. Accumulating clinical evidence indicates that ECM is associated with delayed maturation and reduced diversity of t...",
+      "segment": 23,
+      "timestamp": 1836.87
+    },
+    {
+      "title": "Co-targeting an AMPK--MAPK axis reprograms CAFs and suppresses PDAC",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.16.711738",
+      "source": "bioRxiv — cancer biology",
+      "one_liner": "Pancreatic ductal adenocarcinoma (PDAC) is a fatal cancer characterized by limited therapeutic options and a highly treatment-resistant tumor microenvironment. Beyond tumor-intrinsic genetic alterations, growing evidence indicates that host--microbiome interactions influence cancer progression through microbial metabolites. However, how microbiome-derived...",
+      "segment": 24,
+      "timestamp": 1887.36
+    },
+    {
+      "title": "Validation of shoe sole dust as a microbial sampler reveals distinct fungal and bacterial responses to nearby vegetation",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.17.712241",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Urbanization-driven environmental change has significant implications for human health and well-being. However, studies have found differing patterns in microbial diversity along urbanization gradients; and it remains unknown whether this reflects methodological limitations or genuine ecological complexities. Resolving these inconsistencies requires innov...",
+      "segment": 25,
+      "timestamp": 2019.04
+    },
+    {
+      "title": "Mapping Glycan Binding Profiles of the Gut Bacteria using Liquid Glycan Array (LiGA)",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.17.712435",
+      "source": "bioRxiv — biochemistry",
+      "one_liner": "Interactions between glycans and glycan binding protein (GBP) in the surface of bacteria are central to gut colonization and host-microbiota communication. Here, we apply a DNA-encoded Liquid Glycan Array (LiGA) to quantify interactions between live gut bacteria and multivalent natural or mirror glycans. LiGA comprises glycosylated M13 bacteriophage beari...",
+      "segment": 26,
+      "timestamp": 2182.38
+    },
+    {
+      "title": "Probiotic and immune-modulatory capacities of three human gut-derived strains of Parabacteroides distasonis.",
+      "url": "https://doi.org/10.1007/s00203-026-04804-x",
+      "source": "PubMed — Archives of microbiology",
+      "one_liner": "The human gut microbiome harbors diverse beneficial bacteria with potential roles in supporting host health. Parabacteroides distasonis has recently attracted interest as a next-generation probiotic (NGP) candidate; however, functional evidence for human-derived strains remains limited. Here, three human gut-derived P. distasonis strains (B2-S-102, B2-Q-1...",
+      "segment": 27,
+      "timestamp": 2322.3
+    },
+    {
+      "title": "Lactose intolerance and probiotics: from pathophysiological mechanisms to clinical applications.",
+      "url": "https://doi.org/10.1007/s10482-026-02278-x",
+      "source": "PubMed — Antonie van Leeuwenhoek",
+      "one_liner": "Lactose is a disaccharide found in dairy products, which provide energy and essential nutrients. Digestion of lactose relies on the intestinal enzyme lactase, or lactase-phlorizin hydrolase, located on the brush border of the small bowel mucosa. This enzyme splits lactose into two absorbable monosaccharides: glucose and galactose. When lactase activity is...",
+      "segment": 28,
+      "timestamp": 2485.66
+    },
+    {
+      "title": "The role of microbiota derived metabolites in modulating diabetic inflammation: a systematic review.",
+      "url": "https://doi.org/10.1007/s10735-026-10775-6",
+      "source": "PubMed — Journal of molecular histology",
+      "one_liner": "Emerging evidence indicates that gut microbiota-derived metabolites (MDMs) modulate immune and metabolic pathways relevant to type 2 diabetes mellitus (T2DM) inflammation. Short-chain fatty acids (SCFA) primarily acetate, propionate and butyrate from dietary fiber fermentation, which signal through GPR41 (G-protein-coupled receptor 41) and GPR43 (G-protei...",
+      "segment": 29,
+      "timestamp": 2623.11
+    }
+  ]
+}
