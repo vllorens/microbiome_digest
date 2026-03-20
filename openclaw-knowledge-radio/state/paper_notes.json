@@ -29,5 +29,12 @@
       "title": "Large-scale metaproteomics of human gut microbiota reveals microbial functions in metabolic diseases and aging.",
       "source": "PubMed — Cell metabolism"
     }
+  },
+  "2026-03-20": {
+    "https://doi.org/10.1186/s40168-026-02378-w": {
+      "note": "I'm starting to see more papers and preprints on \"bacterial consortia\" and how they interact to contribute to CRC development",
+      "title": "The interplay between Peptostreptococcus and Fusobacterium as novel signatures in colorectal cancer recurrence.",
+      "source": "PubMed — Microbiome"
+    }
   }
 }
