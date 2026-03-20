@@ -18,5 +18,9 @@
   "2026-03-16|https://doi.org/10.1016/j.cmet.2026.02.012": {
     "page_id": "325f516b-e8ec-817f-805b-f96e442a2362",
     "note": "Large cohort and deep phenotyping, with a lot of metadata available. Interesting to see how composition and function may be associated to similar or different host features"
+  },
+  "2026-03-20|https://doi.org/10.1186/s40168-026-02378-w": {
+    "page_id": "329f516b-e8ec-81bf-9f69-f7254df9ec2e",
+    "note": "I'm starting to see more papers and preprints on \"bacterial consortia\" and how they interact to contribute to CRC development"
   }
 }
