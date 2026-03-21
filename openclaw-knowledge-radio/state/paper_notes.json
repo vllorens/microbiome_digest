@@ -42,6 +42,11 @@
       "note": "Interesting paper on engineered probiotics in CRC",
       "title": "Engineered",
       "source": "PubMed — ACS synthetic biology"
+    },
+    "https://doi.org/10.1016/j.cels.2025.101516": {
+      "note": "To read",
+      "title": "Competition and compromise between exogenous probiotics and native microbiota.",
+      "source": "PubMed — Cell systems"
     }
   }
 }
