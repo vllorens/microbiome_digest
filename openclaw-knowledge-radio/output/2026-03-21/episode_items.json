@@ -1,0 +1,276 @@
+{
+  "timestamps": [
+    0.0,
+    44.56,
+    171.06,
+    218.34,
+    262.88,
+    316.42,
+    494.54,
+    640.15,
+    753.86,
+    826.14,
+    996.27,
+    1141.3,
+    1284.38,
+    1337.37,
+    1383.35,
+    1429.84,
+    1477.52,
+    1527.39,
+    1572.79,
+    1629.74,
+    1680.47,
+    1730.36,
+    1784.38,
+    1833.41,
+    1877.59,
+    1929.36,
+    1957.1,
+    2006.1,
+    2040.56,
+    2094.03
+  ],
+  "items": [
+    {
+      "title": "Metatranscriptomics-based investigation of bacterial community dynamics across a dissolved organic matter gradient in southern Lake Michigan.",
+      "url": "https://doi.org/10.1128/aem.00263-26",
+      "source": "PubMed — Applied and environmental microbiology",
+      "one_liner": "Bacterial communities in freshwater ecosystems play a critical role in biogeochemical and food web dynamics. However, our understanding of environmental controls on bacterial community function, particularly in large lakes, is limited. We characterized Lake Michigan water chemistry, bacterial community function, and substrate preferences to better underst...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Weaning drives microbiome-mediated epigenetic regulation to shape immune memory in mice.",
+      "url": "https://doi.org/10.1038/s41564-026-02295-6",
+      "source": "PubMed — Nature microbiology",
+      "one_liner": "During weaning, the transition to solid food diversifies the gut microbiome, triggering a programmed immune response critical for long-lasting mucosal immunity. Previous work showed that the gut microbiome mediates epigenetic development in intestinal stem cells (ISCs) during suckling, but what happens during weaning is unclear. Here, genome-wide profilin...",
+      "segment": 1,
+      "timestamp": 44.56
+    },
+    {
+      "title": "Gut microbiome disparities reflect type 2 diabetes progression and medication status.",
+      "url": "https://doi.org/10.1016/j.isci.2026.115156",
+      "source": "PubMed — iScience",
+      "one_liner": "Type 2 diabetes mellitus (T2D) prevalence is rapidly increasing in India, yet microbiome signatures linked to disease progression and oral antidiabetic therapy remain underexplored. We performed full-length 16S rRNA sequencing of fecal samples from prediabetics (PDs), untreated newly diagnosed T2D (UKT2D), and clinically diagnosed T2D patients (KT2D), alo...",
+      "segment": 2,
+      "timestamp": 171.06
+    },
+    {
+      "title": "Oral microbiome and Frailty: Insights from NHANES 2009-2012 and Mendelian Randomization Analysis.",
+      "url": "https://doi.org/10.1093/gerona/glag079",
+      "source": "PubMed — The journals of gerontology. Series A, Biological sciences and medical sciences",
+      "one_liner": "BACKGROUND: Frailty is associated with increased risks of disability, hospitalization, and mortality. Emerging evidence suggests that the oral microbiome may influence frailty development, but population-based evidence is limited and causal relationships remain unclear. This study explored the link between oral bacteria and frailty, using genetic analysis...",
+      "segment": 3,
+      "timestamp": 218.34
+    },
+    {
+      "title": "Establishing and analyzing the Simplified Human Intestinal Microbiota (SIHUMI) as a versatile in vitro gut microbiome model with qPCR-based strain-level tracking.",
+      "url": "https://doi.org/10.1038/s41596-026-01336-y",
+      "source": "PubMed — Nature protocols",
+      "one_liner": "A major challenge in microbiome research is the inherent complexity and inter-individual variability of the human gut microbiota. To address this, we have developed a detailed protocol for establishing and analyzing a Simplified Human Intestinal Microbiota (SIHUMI)-a defined, in vitro bacterial consortium composed of seven fully sequenced and anaerobicall...",
+      "segment": 4,
+      "timestamp": 262.88
+    },
+    {
+      "title": "Shotgun metagenomic analysis of the oral microbiomes of children with noma.",
+      "url": "https://doi.org/10.1371/journal.pntd.0014118",
+      "source": "PubMed — PLoS neglected tropical diseases",
+      "one_liner": "Noma is a rapidly progressive orofacial gangrene that predominantly affects children living in extreme poverty. Despite its documentation since antiquity and its designation as a World Health Organisation Neglected Tropical Disease in 2023, the microbiological cause of noma remains poorly understood, with no specific organisms confidently identified as de...",
+      "segment": 5,
+      "timestamp": 316.42
+    },
+    {
+      "title": "Exploring the role of metabolic disorders and gut microbiome in immune checkpoint regulation in cancer: PI3K/AKT/mTOR focus.",
+      "url": "https://doi.org/10.1007/s13105-026-01171-5",
+      "source": "PubMed — Journal of physiology and biochemistry",
+      "one_liner": "This article highlights that obesity, high blood sugar (hyperglycemia), and high blood lipids (dyslipidemia), collectively referred to as metabolic disorders, can activate specific signaling pathways such as PI3K/AKT/mTOR, leading to abnormal cell growth, prolonged survival, and uncontrolled proliferation, all of which contribute to cancer development. Mo...",
+      "segment": 6,
+      "timestamp": 494.54
+    },
+    {
+      "title": "Effects of fermented versus unfermented red cabbage on symptoms, immune response, inflammatory markers and the gut microbiome in young adults with allergic rhinoconjunctivitis: a randomised controlled trial protocol.",
+      "url": "https://doi.org/10.1136/bmjopen-2025-115290",
+      "source": "PubMed — BMJ open",
+      "one_liner": "INTRODUCTION: Allergic rhinoconjunctivitis (ARC) is a highly prevalent immune-mediated condition associated with substantial symptom burden, impaired quality of life and increased healthcare use. Emerging evidence highlights the role of the gut microbiome in immune regulation and allergic disease. Fermented foods may contain live microbes (when unpasteuri...",
+      "segment": 7,
+      "timestamp": 640.15
+    },
+    {
+      "title": "Characterising the gut microbiome of six Australian marsupials reveals captivity constrains microbiome.",
+      "url": "https://doi.org/10.1186/s42523-026-00545-w",
+      "source": "PubMed — Animal microbiome",
+      "one_liner": "BACKGROUND: The gut microbiome is an ecosystem of microbes that live within the host's digestive tract and are a vital component of host health. An increasing number of studies are investigating microbiome differences in wild and captive-managed populations to assist in species conservation and improve captive welfare. The gut microbiota of Australian mar...",
+      "segment": 8,
+      "timestamp": 753.86
+    },
+    {
+      "title": "The microbiome of host saliva, gastric fluid, and gastric mucosa as accurate diagnostic tools for gastric cancer detection.",
+      "url": "https://doi.org/10.1186/s12967-026-07953-1",
+      "source": "PubMed — Journal of translational medicine",
+      "one_liner": "The human microbiome, particularly in the oral cavity and gastric mucosa, is significantly dysbiotic in gastric cancer and precancerous states, with specific microbial signatures serving as potential non-invasive biomarkers for detection and playing a direct role in promoting gastric inflammation, atrophy, and tumorigenesis.\n\nMETHOD / APPROACH:\nThe collective body of research employs a multi-modal approach including:\n1.",
+      "segment": 9,
+      "timestamp": 826.14
+    },
+    {
+      "title": "Behavioral smearing and physiological secretions drive divergent microbiome assembly during breeding in the crested ibis.",
+      "url": "https://doi.org/10.24272/j.issn.2095-8137.2025.407",
+      "source": "PubMed — Zoological research",
+      "one_liner": "Host-microbiota interactions represent a key axis in animal adaptation, especially in species displaying pronounced seasonal variation in behavior and physiology. In avian species, behavioral processes associated with reproduction may influence symbiotic microbial communities, yet the underlying mechanisms remain poorly resolved. The endangered crested ib...",
+      "segment": 10,
+      "timestamp": 996.27
+    },
+    {
+      "title": "Prune (dried plum) consumption does not reduce colonic tumor formation but drives beneficial changes in the gut microbiome of rats.",
+      "url": "https://doi.org/10.1039/d5fo03398e",
+      "source": "PubMed — Food & function",
+      "one_liner": "Previous research has highlighted the potential benefits of prune consumption, including a changed gut microbiome composition and a reduction in colon cancer risk factors. This study investigated whether prune consumption reduced colon tumor development and led to positive changes in the large intestinal microbiome in a chemically induced colon cancer mod...",
+      "segment": 11,
+      "timestamp": 1141.3
+    },
+    {
+      "title": "Microbiome Modulation in Veterinary Medicine: From Diet to Fecal Microbiota Transplantation.",
+      "url": "https://doi.org/10.1016/j.cvsm.2026.01.009",
+      "source": "PubMed — The Veterinary clinics of North America. Small animal practice",
+      "one_liner": "The intestinal microbiome plays a crucial role in host health. As intestinal dysbiosis can have different underlying causes, multimodal therapeutic approaches are often necessary. Dietary modulation potentially combined with fibers should be the first-line approaches in all patients with acute or chronic enteropathy and help modulate the microbiome. A sub...",
+      "segment": 12,
+      "timestamp": 1284.38
+    },
+    {
+      "title": "Role of gut microbiota in the anti-rheumatoid arthritis activity of xylopic acid.",
+      "url": "https://doi.org/10.1080/14786419.2026.2647368",
+      "source": "PubMed — Natural product research",
+      "one_liner": "The anti-rheumatoid arthritis (RA) activity of Xylopic acid (XA) was assessed in collagen-induced arthritic (CIA) mice and the role of gut microbiota was determined. Oral administration of XA resulted in decreased systemic levels of pro-inflammatory cytokines, TNF-α and NF-κB and improvement in the pathology of joints in RA mice. The 16S rRNA gene sequenc...",
+      "segment": 13,
+      "timestamp": 1337.37
+    },
+    {
+      "title": "Circulating cytokines mediate the risk of COPD: A mediation analysis based on 473 gut microbiota and 91 circulating cytokines.",
+      "url": "https://doi.org/10.1097/MD.0000000000048149",
+      "source": "PubMed — Medicine",
+      "one_liner": "In recent years, the roles of gut microbiota and circulating cytokines in chronic obstructive pulmonary disease (COPD) have gradually attracted attention. However, it remains unclear whether cytokines act as mediators from gut microbiota to COPD. This study utilized the mediation Mendelian randomization analysis method to explore the potential causal effe...",
+      "segment": 14,
+      "timestamp": 1383.35
+    },
+    {
+      "title": "Dietary index for gut microbiota and its protective role against osteoporosis: Evidence from NHANES 2007 to 2018.",
+      "url": "https://doi.org/10.1097/MD.0000000000048045",
+      "source": "PubMed — Medicine",
+      "one_liner": "Distortions in gut microbiota homeostasis may contribute to abnormal bone metabolism and osteoporosis. This study aimed to examine the association between the dietary index for gut microbiota (DI-GM) and osteoporosis among U.S. adults, identify key dietary components, and develop a clinically applicable risk prediction model incorporating dietary and clin...",
+      "segment": 15,
+      "timestamp": 1429.84
+    },
+    {
+      "title": "Human Milk Oligosaccharide Synbiotic Alleviates Food Allergy in Mice by Modulating Gut Microbiota and Increasing Indole-3-lactic Acid Levels.",
+      "url": "https://doi.org/10.1021/acs.jafc.5c16113",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "While synbiotic interventions show promise in alleviating food allergy (FA), targeted optimization of probiotic-prebiotic combinations for enhanced immunomodulatory metabolite production remains insufficiently explored. This study constructed a novel synbiotic containing five human milk oligosaccharides (5-HMOs),",
+      "segment": 16,
+      "timestamp": 1477.52
+    },
+    {
+      "title": "Host genetic variation and gut microbiome in pediatric diseases.",
+      "url": "https://doi.org/10.1097/CM9.0000000000003959",
+      "source": "PubMed — Chinese medical journal",
+      "one_liner": "Pediatric health is the foundation for people's lifelong health. The co-evolution of host genetics and the gut microbiome fosters a symbiotic relationship that is important for pediatric growth and the pathogenesis of various diseases. However, a comprehensive overview of the human genetics-gut microbiome axis in pediatric diseases remains unavailable. Th...",
+      "segment": 17,
+      "timestamp": 1527.39
+    },
+    {
+      "title": "Natural Products from the Oral Microbiome.",
+      "url": "https://doi.org/10.1146/annurev-biochem-051024-050248",
+      "source": "PubMed — Annual review of biochemistry",
+      "one_liner": "The human oral microbiome is a densely populated and chemically dynamic ecosystem where interspecies competition and cooperation shape community structure and influence host health. Metagenomic analyses reveal the immense biosynthetic potential of oral microbes to encode biosynthetic gene clusters (BGCs) and produce natural products. These metabolites are...",
+      "segment": 18,
+      "timestamp": 1572.79
+    },
+    {
+      "title": "Exposure to known and emerging groundwater contaminants significantly alters poultry microbiome and metabolome.",
+      "url": "https://doi.org/10.1128/aem.02469-25",
+      "source": "PubMed — Applied and environmental microbiology",
+      "one_liner": "UNLABELLED: The exposome encompasses all lifetime environmental exposures affecting health. Its complexity and high data dimensionality make it challenging to link specific exposure combinations to adverse health outcomes. Establishing relevant exposome criteria is key to addressing current knowledge gaps. This study evaluated contaminant levels in Wiscon...",
+      "segment": 19,
+      "timestamp": 1629.74
+    },
+    {
+      "title": "Precision modulation of the gut microbiota-immune axis by natural products: a structure-activity relationship perspective in cancer immunotherapy.",
+      "url": "https://doi.org/10.1080/10286020.2026.2644307",
+      "source": "PubMed — Journal of Asian natural products research",
+      "one_liner": "Natural products (NPs) provide a chemically precise strategy to overcome gut dysbiosis-driven resistance in cancer immunotherapy. This review deconstructs how distinct structural determinants of polysaccharides, terpenoids, polyphenols, and alkaloids dictate specific microbial remodeling and immunomodulatory outcomes. These structure-activity relationship...",
+      "segment": 20,
+      "timestamp": 1680.47
+    },
+    {
+      "title": "Antibiotic use during gastrointestinal infections increases the risk of developing irritable bowel syndrome: a Systematic Review and Meta-Analysis.",
+      "url": "https://doi.org/10.14309/ajg.0000000000004001",
+      "source": "PubMed — The American journal of gastroenterology",
+      "one_liner": "INTRODUCTION: Irritable bowel syndrome (IBS) is a disorder of gut-brain interaction which negatively affects patients' quality of life. It has been hypothesized that changes in gut microbiota composition and function evoked by antibiotic use represent a trigger for IBS development. This systematic review and meta-analysis aims to assess the incidence of I...",
+      "segment": 21,
+      "timestamp": 1730.36
+    },
+    {
+      "title": "Engineered",
+      "url": "https://doi.org/10.1021/acssynbio.5c00804",
+      "source": "PubMed — ACS synthetic biology",
+      "one_liner": "Colorectal cancer (CRC) is heavily influenced by gut microbiota and metabolites such as branched-chain amino acids (BCAAs), which provides essential growth materials for tumors and activates related cancer-promoting pathways. We engineered two",
+      "segment": 22,
+      "timestamp": 1784.38
+    },
+    {
+      "title": "An Engineered Variant of",
+      "url": "https://doi.org/10.1021/acssynbio.5c00852",
+      "source": "PubMed — ACS synthetic biology",
+      "one_liner": "The gut microbiome and its effects on human health have generated considerable scientific, veterinary, and medical interest in recent years. Several gut bacterial species have emerged as potential chassis organisms for the delivery of therapeutics in this milieu. Among these,",
+      "segment": 23,
+      "timestamp": 1833.41
+    },
+    {
+      "title": "Gut-derived bacterial membrane vesicles in prediabetes: Vesicle composition dictates inflammatory properties.",
+      "url": "https://doi.org/10.1016/j.isci.2026.115088",
+      "source": "PubMed — iScience",
+      "one_liner": "Systemic inflammation relates to the pathophysiology of metabolic diseases such as obesity or type 2 diabetes. Understanding aberrant microbiota-host interactions is essential for comprehending their pathogenesis. Gut bacteria produce bacterial membrane vesicles (bMVs) reflecting bacterial metabolism and activity. Importantly, in animal models, these vesi...",
+      "segment": 24,
+      "timestamp": 1877.59
+    },
+    {
+      "title": "Identifying microbial protease allergens through protein language model-guided homology.",
+      "url": "https://doi.org/10.1016/j.cels.2025.101510",
+      "source": "PubMed — Cell systems",
+      "one_liner": "Emerging research links the gut, skin, and oral microbiomes to allergies, with serine proteases (SPs) identified as potential allergens. This study leverages deep learning and pre-trained protein language models (pLMs) to uncover allergenic SPs in metagenomic data. First, we develop a model to identify the catalytic serine residue in serine hydrolases, de...",
+      "segment": 25,
+      "timestamp": 1929.36
+    },
+    {
+      "title": "Competition and compromise between exogenous probiotics and native microbiota.",
+      "url": "https://doi.org/10.1016/j.cels.2025.101516",
+      "source": "PubMed — Cell systems",
+      "one_liner": "Probiotic interventions are effective strategies to modulate the gut microbiome, but how exogenous probiotics compete with native gut microbiota remains elusive. Here, we use a mouse model and a well-documented probiotic, Bifidobacterium animalis subsp. lactis V9 (BV9), to mechanistically investigate its competitive strategies. We perform metagenomic and ...",
+      "segment": 26,
+      "timestamp": 1957.1
+    },
+    {
+      "title": "VIBRANT: A phase 1 randomized trial of multi-strain vaginal L. crispatus live biotherapeutic products in people with bacterial vaginosis.",
+      "url": "https://doi.org/10.1016/j.chom.2026.02.016",
+      "source": "PubMed — Cell host & microbe",
+      "one_liner": "Bacterial vaginosis (BV) is characterized by high microbial diversity. High recurrence rates following antibiotics may stem from poor recolonization by protective Lactobacillus species. This phase 1 randomized trial in the United States and South Africa evaluated two vaginally delivered live biotherapeutic products (LBPs) containing multiple Lactobacillus...",
+      "segment": 27,
+      "timestamp": 2006.1
+    },
+    {
+      "title": "Integrating exposomics and multi-omics with dysbiosis biomarkers for clinical and environmental connections implicated in neuropathology. Cause and cure cluses.",
+      "url": "https://doi.org/10.1093/toxsci/kfag034",
+      "source": "PubMed — Toxicological sciences : an official journal of the Society of Toxicology",
+      "one_liner": "Multi-omic investigations into environmental effects on health and disease are aided by inclusion of microbial microbiomes with assessment of mirobes producing metabolites that differentially modulate host organ functions. The gut microbiome is key because many environmental toxicants enter the body orally and may disrupt gut microbes that help digest foo...",
+      "segment": 28,
+      "timestamp": 2040.56
+    },
+    {
+      "title": "Iron oxide minerals: promising materials for sustainable rice production via stimulating iron-reducing diazotrophs.",
+      "url": "https://doi.org/10.1093/bbb/zbaf156",
+      "source": "PubMed — Bioscience, biotechnology, and biochemistry",
+      "one_liner": "This mini-review highlights the emerging agricultural applications of iron oxides, the primary form of iron and one of the most abundant elements on Earth. Rice yield is strongly influenced by soil nitrogen fertility, which is supported by biological nitrogen fixation. Using soil metatranscriptomic analysis and isolation-cultivation experiments, we recent...",
+      "segment": 29,
+      "timestamp": 2094.03
+    }
+  ]
+}
