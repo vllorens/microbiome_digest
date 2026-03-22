@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Mar 2026 04:46:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 05:00:35 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-03-22</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-22/podcast_2026-03-22.mp3</guid>
+      <pubDate>Sun, 22 Mar 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-22/podcast_2026-03-22.mp3" length="12559364" type="audio/mpeg" />
+      <description>Centrohelid heliozoans are a group of predatory protists that use stiff radiating arms to capture bacteria, algae, and other small organisms in aquatic and soil environments. | A new study has used full-length 16S rRNA gene amplicon sequencing with Pacific Biosciences technology to characterize the bacterial communities associated with seven isolates of centrohelid heliozoans from freshwater habitats. | The sequencing revealed a remarkably diverse bacterial microbiome spanning five phyla, six classes, and 58 genera.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Centrohelid heliozoans are a group of predatory protists that use stiff radiating arms to capture bacteria, algae, and other small organisms in aquatic and soil environments. | A new study has used full-length 16S rRNA gene amplicon sequencing with Pacific Biosciences technology to characterize the bacterial communities associated with seven isolates of centrohelid heliozoans from freshwater habitats. | The sequencing revealed a remarkably diverse bacterial microbiome spanning five phyla, six classes, and 58 genera.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-03-21</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-21/podcast_2026-03-21.mp3</guid>
       <pubDate>Sat, 21 Mar 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-21/podcast_2026-03-21.mp3" length="15966716" type="audio/mpeg" />
-      <description>Researchers used metatranscriptomics to track how bacterial communities in southern Lake Michigan shift along a dissolved organic matter gradient. | Weaning is a critical developmental window when young mammals transition from milk to solid food, and new research shows this dietary shift triggers a profound rewiring of the gut microbiome that shapes immune memory for life. | Previous work had established that the gut microbiome influences epigenetic development in intestinal stem cells during the suckling period.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-21/podcast_2026-03-21.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Researchers used metatranscriptomics to track how bacterial communities in southern Lake Michigan shift along a dissolved organic matter gradient. | Weaning is a critical developmental window when young mammals transition from milk to solid food, and new research shows this dietary shift triggers a profound rewiring of the gut microbiome that shapes immune memory for life. | Previous work had established that the gut microbiome influences epigenetic development in intestinal stem cells during the suckling period.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>

@@ -1,0 +1,204 @@
+{
+  "timestamps": [
+    0.0,
+    144.04,
+    191.92,
+    330.97,
+    376.88,
+    496.49,
+    591.67,
+    737.11,
+    838.79,
+    988.14,
+    1106.05,
+    1161.44,
+    1211.78,
+    1255.58,
+    1302.38,
+    1352.08,
+    1391.17,
+    1439.55,
+    1490.14,
+    1541.83,
+    1593.5,
+    1646.63
+  ],
+  "items": [
+    {
+      "title": "Characterization of the bacterial microbiome associated with centrohelid heliozoans from aquatic environments using full-length 16S rRNA PacBio sequencing",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.19.712920",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Centrohelid heliozoans are a monophyletic group of free-living, ubiquitous, predatory protists widely distributed in aquatic and soil ecosystems. Centrohelids are known as cytotrophic protists that feed on bacteria, algae, and small unicellular eukaryotes. While algal and chloroplast symbioses have been documented in this group, their bacterial associatio...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Gut check: converging evidence links microbiome to malaria risk.",
+      "url": "https://doi.org/10.1016/j.pt.2026.03.004",
+      "source": "PubMed — Trends in parasitology",
+      "one_liner": "Beyond genetics and immunity, the gut microbiome may be an underappreciated determinant of malaria parasite burden. Gustin et al. demonstrated that pre-infection microbiome composition predicts the level of Plasmodium parasitemia in both rhesus macaques and human volunteers, with convergent evidence pointing to Bifidobacterium as a potentially protective ...",
+      "segment": 1,
+      "timestamp": 144.04
+    },
+    {
+      "title": "Substrate transport limits phenylalanine ammonia-lyase activity in engineered Lacticaseibacillus rhamnosus GG",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.19.713057",
+      "source": "bioRxiv — synthetic biology",
+      "one_liner": "Probiotic-based encapsulation offers unique advantages over purified enzymes, such as increased protection from thermal-, pH-, and protease-mediated degradation, for oral therapeutic delivery applications. However, one of the major disadvantages of whole-cell systems is lower reaction rate due to substrate-product transport limitations imposed by the cell...",
+      "segment": 2,
+      "timestamp": 191.92
+    },
+    {
+      "title": "Genomic atlas of Bifidobacterium infantis and B. longum informs infant probiotic design.",
+      "url": "https://doi.org/10.1016/j.cell.2026.01.007",
+      "source": "PubMed — Cell",
+      "one_liner": "Bifidobacterium longum and B. infantis are pioneer colonizers of the neonatal gut and are widely used as probiotics to support infant growth, development, and disease resistance. However, commercial strains derived largely from high-income countries (HICs) may be suboptimal for infants in low- and middle-income countries (LMICs). We assembled a global gen...",
+      "segment": 3,
+      "timestamp": 330.97
+    },
+    {
+      "title": "Voluntary wheel running exercise attenuates VPA-induced ASD-like behaviors in male rats: implication of the vagal pathway of the gut-brain axis.",
+      "url": "https://doi.org/10.1038/s41522-026-00962-4",
+      "source": "PubMed — NPJ biofilms and microbiomes",
+      "one_liner": "Autism spectrum disorder (ASD) is a prevalent neurodevelopmental disorder with elusive pathogenesis and lack of targeted therapies. While exercise can ameliorate ASD-like behaviors, its underlying mechanisms remain unclear. Recent studies have identified dysbiosis of gut microbiota and altered levels of short-chain fatty acids (SCFAs), as critical contrib...",
+      "segment": 4,
+      "timestamp": 376.88
+    },
+    {
+      "title": "Widespread effects of catecholamines on growth of human gut bacteria.",
+      "url": "https://doi.org/10.1038/s41522-026-00948-2",
+      "source": "PubMed — NPJ biofilms and microbiomes",
+      "one_liner": "The interactions between hosts and their microbiomes are driven in part by chemical communication, which influences immune responses, metabolism, and microbial community structure. Neuroendocrine signals are central to this bidirectional communication, forming the basis of microbial endocrinology. Although host-derived hormones, including catecholamines, ...",
+      "segment": 5,
+      "timestamp": 496.49
+    },
+    {
+      "title": "Gene Expansion and Regulatory Rewiring Shape Sex-Biased Evolution of the Mouse Submandibular Gland Secretome",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.18.712472",
+      "source": "bioRxiv — evolutionary biology",
+      "one_liner": "Mammalian saliva plays essential roles in digestion, immunity, and host-microbiome interactions, yet its protein composition varies across species and sexes. The evolutionary mechanisms underlying this molecular diversity remain poorly understood. Here, we compared mouse and human salivary gland secretomes at genomic, transcriptomic, and proteomic levels ...",
+      "segment": 6,
+      "timestamp": 591.67
+    },
+    {
+      "title": "Determination of GLP-1 Secretion Potential of Dead and Live Akkermansia muciniphila Using Human L-cells",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.18.708496",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Abstract Background/Objectives: Glucagon-Like Peptide-1 (GLP-1) is a key incretin hormone that regulates glucose homeostasis and energy metabolism. Impaired GLP-1 signaling contributes to the development of obesity, metabolic syndrome, and type 2 diabetes. Emerging evidence indicates that gut microbiota-derived components can influence GLP-1 secretion, hi...",
+      "segment": 7,
+      "timestamp": 737.11
+    },
+    {
+      "title": "Microbiota in Chronic Suppurative Otitis media: association with Postoperative Tympanic membrane outcomes.",
+      "url": "https://doi.org/10.1007/s00253-026-13770-9",
+      "source": "PubMed — Applied microbiology and biotechnology",
+      "one_liner": "Chronic suppurative otitis media (CSOM) is a prevalent condition with global health implications due to its impact on hearing and quality of life. Conventional treatments often fail because of bacterial biofilms and antimicrobial resistance. Effective treatment of CSOM depends on the precise determination of the middle ear microbiota; however, current mic...",
+      "segment": 8,
+      "timestamp": 838.79
+    },
+    {
+      "title": "Oral sodium butyrate supplementation acts on intestinal dysbiosis and resolves spinal cord neuroinflammation and nociceptive neuron sensitization.",
+      "url": "https://doi.org/10.1186/s12950-026-00496-8",
+      "source": "PubMed — Journal of inflammation (London, England)",
+      "one_liner": "Oral sodium butyrate administration therapeutically reduces gut inflammation and spinal neuroinflammation while partially restoring the abundance of specific butyrate-producing bacterial species in a mouse model of antibiotic-induced gut dysbiosis.\n\nMETHOD / APPROACH:\nA mouse model of antibiotic-induced gut dysbiosis was used.",
+      "segment": 9,
+      "timestamp": 988.14
+    },
+    {
+      "title": "Phage therapy in oncology: opportunities for cancer prevention and treatment.",
+      "url": "https://doi.org/10.1016/j.molmed.2026.02.001",
+      "source": "PubMed — Trends in molecular medicine",
+      "one_liner": "Bacteriophages (phages) are emerging as programmable biological therapeutics in oncology, extending beyond their traditional antimicrobial applications. This review proposes a phage-microbiome-immune-oncology axis that links microbial dynamics, immune modulation, and engineered phages to guide precision cancer prevention and therapy. Phages can eliminate ...",
+      "segment": 10,
+      "timestamp": 1106.05
+    },
+    {
+      "title": "An immunometabolic signature of major depressive disorder in systemic lupus erythematosus.",
+      "url": "https://doi.org/10.1016/j.ard.2026.02.019",
+      "source": "PubMed — Annals of the rheumatic diseases",
+      "one_liner": "OBJECTIVES: Systemic lupus erythematosus (SLE) frequently affects the central nervous system, leading to neuropsychiatric SLE (NPSLE). Major depressive disorder in SLE (SLE METHODS: We analysed deep flow cytometry immune phenotyping, gut microbiota profiling, and targeted mass spectrometry-based metabolomics from 99 patients from the LUPIL-2 study (NCT029...",
+      "segment": 11,
+      "timestamp": 1161.44
+    },
+    {
+      "title": "Cellobiose as a candidate prebiotic: Enhanced butyrate production in an in vitro human gut fermentation model.",
+      "url": "https://doi.org/10.1093/jambio/lxag075",
+      "source": "PubMed — Journal of applied microbiology",
+      "one_liner": "AIMS: While the prebiotic potential of cellobiose has been suggested previously, this study extends current knowledge by including more microbial responses in a controlled human gut model. The fermentation profile of cellobiose was comparted with OF P95 and a negative control using faecal samples from healthy donors (n = 3). METHODS AND RESULTS: Fluoresce...",
+      "segment": 12,
+      "timestamp": 1211.78
+    },
+    {
+      "title": "Fecal microbiota transplantation in chronic liver disease: Current and future state of the art.",
+      "url": "https://doi.org/10.1097/HC9.0000000000000927",
+      "source": "PubMed — Hepatology communications",
+      "one_liner": "Chronic liver diseases are associated with changes in gut microbiome composition and function. Early data suggest that fecal microbiota transplantation (FMT) may treat several chronic liver diseases, especially cirrhosis, hepatic encephalopathy, and alcohol-associated liver disease. Well-powered and multisite studies are needed to better understand which ...",
+      "segment": 13,
+      "timestamp": 1255.58
+    },
+    {
+      "title": "Gut-brain axis in health and brain disease.",
+      "url": "https://doi.org/10.1097/CM9.0000000000003920",
+      "source": "PubMed — Chinese medical journal",
+      "one_liner": "The gut-brain axis is a complex, bidirectional network of communication systems that integrates neural, endocrine, and immune pathways, as well as metabolic processes, to regulate homeostasis and maintain physiological and cognitive equilibrium. Central to this axis is the gut microbiota, which exerts a profound influence on brain function through microbi...",
+      "segment": 14,
+      "timestamp": 1302.38
+    },
+    {
+      "title": "Gut and oral microbiota characterized in systemic lupus erythematosus patients from India: A pilot study.",
+      "url": "https://doi.org/10.1177/09612033261432163",
+      "source": "PubMed — Lupus",
+      "one_liner": "",
+      "segment": 15,
+      "timestamp": 1352.08
+    },
+    {
+      "title": "Nutrition and gut-brain axis: opposing effects of dietary fiber and Western-style diets on Alzheimer's disease.",
+      "url": "https://doi.org/10.1097/MCO.0000000000001223",
+      "source": "PubMed — Current opinion in clinical nutrition and metabolic care",
+      "one_liner": "PURPOSE OF REVIEW: This review summarizes how diet shapes the gut-brain axis and contributes to Alzheimer's disease (AD) pathology, emphasizing the contrasting effects of Western-style diets and dietary fiber. RECENT FINDINGS: Western diets rich in sugar and saturated fat disrupt gut microbial balance, increase intestinal permeability, and promote systemi...",
+      "segment": 16,
+      "timestamp": 1391.17
+    },
+    {
+      "title": "Methodological insights into fecal microbiota transplantation: Dissecting key approaches for success.",
+      "url": "https://doi.org/10.5662/wjm.v16.i1.108875",
+      "source": "PubMed — World journal of methodology",
+      "one_liner": "Fecal microbiota transplantation (FMT) has emerged as a revolutionary treatment strategy for restoring gut microbiota in recurrent",
+      "segment": 17,
+      "timestamp": 1439.55
+    },
+    {
+      "title": "Klebsiella Enrichment Is Associated with Disease Severity in Ulcerative Colitis.",
+      "url": "https://doi.org/10.1093/jambio/lxag079",
+      "source": "PubMed — Journal of applied microbiology",
+      "one_liner": "BACKGROUND AND OBJECTIVE: Ulcerative colitis (UC), a chronic inflammatory bowel disease. This study uniquely undertook a parallel, severity-stratified comparison of both fecal and mucosal microbiota and metabolites in UC patients. Our objective was to identify niche-specific (fecal vs. mucosal) and severity-associated microbial and metabolic signatures, c...",
+      "segment": 18,
+      "timestamp": 1490.14
+    },
+    {
+      "title": "CD138 expression in the endometrium associates with endometrial timing and inflammatory status but not microbiota composition.",
+      "url": "https://doi.org/10.1093/humrep/deag032",
+      "source": "PubMed — Human reproduction (Oxford, England)",
+      "one_liner": "STUDY QUESTION: What is the relationship between constitutive CD138 expression in the endometrium and the reproductive tract microbiota composition? SUMMARY ANSWER: The presence of CD138+ cells in endometrial stroma is cycle-dependent and associated with impaired luteal phase endometrial timing but not altered vaginal or endometrial microbial composition....",
+      "segment": 19,
+      "timestamp": 1541.83
+    },
+    {
+      "title": "Methane-fed microbial communities enriched from field-grown rice support diverse heterotrophic bacteria.",
+      "url": "https://doi.org/10.1093/femsec/fiag023",
+      "source": "PubMed — FEMS microbiology ecology",
+      "one_liner": "Rice paddies naturally host methane-oxidizing bacteria known as methanotrophs, due to the production of methane in flooded soils. Enhancing the activity of native methanotrophs could improve the sustainability of rice cultivation, but knowledge of how this could impact other members of the rice microbiome remains incomplete. To gain insight into which mem...",
+      "segment": 20,
+      "timestamp": 1593.5
+    },
+    {
+      "title": "Distinct bacterial facial cutaneous microbiota composition in adolescents with acne vulgaris: a population-based cross-sectional observational study.",
+      "url": "https://doi.org/10.1093/bjd/ljaf508",
+      "source": "PubMed — The British journal of dermatology",
+      "one_liner": "BACKGROUND: Acne vulgaris (acne) is a prevalent dermatological condition associated with distinct facial cutaneous microbiota compositions. However, existing research often has methodological limitations such as insufficient statistical power and the under-representation of diverse adolescent populations, which are highly relevant for understanding acne p...",
+      "segment": 21,
+      "timestamp": 1646.63
+    }
+  ]
+}
