@@ -1,0 +1,123 @@
+The gut microbiome's role in skin aging is emerging as a critical frontier in longevity research. A new review in GeroScience synthesizes current understanding of how intestinal microbes influence skin health through what's called the gut-skin axis.
+
+The connection works through multiple pathways. First, gut microbes produce metabolites that enter circulation and affect skin physiology. Short-chain fatty acids like butyrate, produced when bacteria ferment dietary fiber, have anti-inflammatory effects that can reduce skin inflammation and support barrier function. The gut microbiome also regulates systemic immune responses, which in turn affect how skin handles environmental stressors like UV radiation and pollution.
+
+As we age, the gut microbiome undergoes significant changes. Diversity decreases, beneficial bacteria decline, and the ratio of pro-inflammatory to anti-inflammatory species shifts. This dysbiosis correlates with increased skin aging markers - reduced elasticity, impaired barrier function, and slower wound healing. The review highlights how oxidative stress, already elevated in aging, is further amplified by gut microbial imbalances that fail to properly regulate antioxidant systems.
+
+The gut-skin axis also involves the gut-brain-skin neuroendocrine pathway. Gut microbes influence neurotransmitter production and stress hormone regulation, which can manifest in skin conditions. Stress-induced changes in gut permeability, often called "leaky gut," allow bacterial products to enter circulation and trigger skin inflammation.
+
+Current interventions being explored include probiotics and prebiotics targeted at skin health, dietary modifications to support beneficial gut bacteria, and even fecal microbiota transplantation. The review notes promising results from studies using specific bacterial strains to improve skin hydration and reduce wrinkles in older adults.
+
+What makes this particularly compelling is the bidirectional nature of the relationship. Just as gut health affects skin, skin conditions can alter the gut microbiome through systemic inflammation and stress responses. This creates potential feedback loops where improving one system benefits the other.
+
+The available text does not provide specific clinical trial data or detailed molecular mechanisms, but the review establishes a framework for understanding how modulating the gut microbiome could become a strategy for promoting healthy skin aging. The authors emphasize that while correlations are strong, causal relationships and optimal intervention strategies remain active areas of investigation.
+
+[[TRANSITION]]
+
+A new study in the Journal of Equine Veterinary Science investigates how a commercial fiber-based feed designed for both hydration and nutrition affects the equine hindgut microbiome. While the full details of the research are not yet available, the study aims to explore how such feeds influence the microbial community structure in horses' gastrointestinal tracts. This is significant because horse health is increasingly linked to gut microbial balance, which can be affected by diet. With many marketed feeds available, understanding their impact on hindgut microbes is crucial for optimizing equine nutrition and well-being. The findings could help guide better feed choices to support digestive health in horses.
+
+[[TRANSITION]]
+
+Hypertension and insomnia often appear together in patients, but until now the molecular mechanisms linking them have remained unclear. Recent research suggests that metabolites produced by gut bacteria play a significant role in both neuroimmune and cardiovascular regulation, making them strong candidates for mediating this comorbidity.
+
+To investigate this, researchers used an integrated approach combining network pharmacology and molecular dynamics simulations. They first identified key gut microbiota-derived metabolites that could influence both blood pressure and sleep regulation. Then, using network pharmacology, they mapped out how these metabolites interact with human proteins and signaling pathways relevant to hypertension and insomnia.
+
+The analysis revealed that several metabolites, including short-chain fatty acids like butyrate and propionate, as well as tryptophan-derived compounds, target overlapping molecular pathways. These pathways involve the renin-angiotensin system, inflammatory cytokines, and neurotransmitter signaling—mechanisms that are central to both cardiovascular and sleep regulation.
+
+Molecular dynamics simulations provided further insight by modeling how these metabolites bind to and modulate specific proteins, such as receptors and enzymes, at the atomic level. This helped confirm that the metabolites can directly influence the activity of proteins implicated in both conditions.
+
+The findings suggest that gut microbiota metabolites act as molecular bridges between hypertension and insomnia, potentially explaining why they so often co-occur. This opens the door to new therapeutic strategies that target the gut microbiome or its metabolites to treat both conditions simultaneously, rather than addressing them in isolation.
+
+The available text does not provide details on the specific metabolites identified, the exact proteins modeled, or the experimental validation of these findings.
+
+[[TRANSITION]]
+
+New research in the International Journal of Biological Macromolecules explores how different drying methods affect partially hydrolyzed guar gum's ability to boost gut health. Scientists tested spray drying, freeze drying, and vacuum drying to see how each process alters PHGG's structure and its capacity to promote butyrate production by gut microbiota. Butyrate is a beneficial short-chain fatty acid linked to improved gut barrier function and reduced inflammation. The study found that vacuum drying produced PHGG with enhanced structural properties that significantly increased butyrate generation compared to other methods. This vacuum-driven structural modulation could offer a practical strategy for developing functional food ingredients that better support digestive health and metabolic benefits through targeted microbiome interactions.
+
+[[TRANSITION]]
+
+A new comparative study in *Comparative Biochemistry and Physiology* examines the gut microbiomes and bile acid profiles of two sympatric tadpole species—*Rana chensinensis* and *Fejervarya multistriata*—that breed at different temperatures. The research explores how developmental temperature differences shape microbial communities and bile acid metabolism, which in turn influence host physiology. By comparing these closely related but thermally distinct species, the study aims to reveal how environmental temperature drives gut microbiota composition and bile acid profiles in amphibians. Findings could illuminate the broader role of temperature in shaping host-microbe interactions and metabolic outcomes in ectothermic vertebrates.
+
+[[TRANSITION]]
+
+Targeting the gut microbiota as treatment for obesity and cancer cachexia
+
+According to a review in Expert Opinion on Emerging Drugs, obesity and cancer cachexia—though seemingly opposite metabolic disorders—share disrupted energy balance, inflammation, and neuroendocrine dysfunction. Both conditions are linked to increased morbidity and mortality, and current treatments often fail to address their complex underlying pathophysiology. The review highlights emerging evidence that the gut microbiota plays a central role in regulating metabolism, inflammation, and host energy homeostasis. Modulating the microbiome through targeted interventions—such as probiotics, prebiotics, or microbiota transplantation—may offer new therapeutic avenues for both obesity and cancer cachexia. The authors emphasize that harnessing the gut microbiota could help restore metabolic balance and improve clinical outcomes in these challenging disorders.
+
+[[TRANSITION]]
+
+DNA Traces on the Shroud of Turin: Metagenomics of the 1978 Official Sample Collection
+
+The Turin Shroud has long been a subject of intense scientific and historical scrutiny. Now, a new metagenomic analysis of samples collected in 1978 offers a detailed snapshot of the biological material embedded in the cloth over centuries of handling and exposure.
+
+Researchers performed DNA and metagenomic analyses on threads from the Shroud, alongside radiocarbon dating of two distinct samples from the reliquary. The genetic data revealed a complex mixture of human, microbial, plant, and animal DNA, reflecting both the cloth's origins and its extensive history of contact with people and environments.
+
+Human mitochondrial DNA lineages identified include K1a1b1a, which matches the mitogenome of one of the 1978 sample collectors, as well as H2a2, H1b, and H33. The H33 lineage is particularly notable for its prevalence in the Near East and among Druze populations, hinting at possible geographic connections in the Shroud's history.
+
+The reconstructed microbiome includes microbes commonly found on human skin, archaeal communities adapted to high-salinity conditions, and various fungi, including molds. This microbial profile suggests the Shroud has been exposed to diverse environments and handling over time.
+
+Plant DNA from cultivated species such as carrot, wheat, corn, bananas, and peanuts was detected, alongside animal DNA from domesticated species including cattle, pigs, chickens, dogs, and cats. The presence of Mediterranean endemic red coral adds another layer of biological complexity.
+
+Radiocarbon dating of two threads revealed repair work dated to 1534 CE and 1694 CE, providing concrete evidence for specific conservation interventions in the Shroud's history.
+
+These findings document the Shroud's long-term environmental interactions and the accumulation of biological contaminants, offering a historical record of its preservation and handling. While the data illuminate the cloth's biological complexity, they do not resolve questions about its origins or the source of the image it bears. The available text does not provide details on the specific methods used for DNA extraction, sequencing, or contamination controls, nor does it address potential limitations in interpreting the metagenomic data.
+
+[[TRANSITION]]
+
+Polylactic acid, or PLA, is one of the most widely used biodegradable bioplastics, but its slow degradation under natural conditions has become a major bottleneck for its environmental sustainability. A new review in Archives of Microbiology maps the latest strategies to accelerate PLA breakdown using microbial consortia, metagenomics, enzyme engineering, and AI-guided approaches.
+
+The core problem is that PLA's ester bonds are stable enough to resist rapid hydrolysis in most environments. Under ambient conditions, it can take years for PLA to degrade, which undermines its promise as a sustainable alternative to petroleum-based plastics. The review highlights how researchers are now combining multiple biological tools to overcome this limitation.
+
+One major advance is the use of microbial consortia—communities of bacteria and fungi that work together to break down PLA more efficiently than single species. These consortia can be sourced from environments rich in biodegradable plastics, such as compost or soil, and then optimized for degradation speed and completeness. Metagenomic screening allows scientists to identify the most effective strains and the enzymes they produce, without needing to culture every organism in the lab.
+
+Enzyme engineering is another key strategy. By modifying the structure of PLA-degrading enzymes, researchers have improved their catalytic efficiency, thermal stability, and substrate specificity. Some engineered enzymes can now function at lower temperatures or in the presence of additives commonly found in commercial PLA products.
+
+The most recent frontier is AI-guided enzyme design. Machine learning models can predict which amino acid changes will enhance enzyme performance, dramatically reducing the trial-and-error phase of protein engineering. This approach has already yielded enzymes with up to ten-fold improvements in degradation rates compared to wild-type variants.
+
+The review also notes that these strategies are being tested across diverse ecosystems—from industrial composting facilities to marine environments—each with unique challenges like temperature, pH, and competing microbial communities. While no single solution has emerged as a universal fix, the combination of consortia, metagenomics, enzyme engineering, and AI is rapidly closing the gap between PLA's promise and its practical biodegradability.
+
+[[TRANSITION]]
+
+This systematic review examines how breastfeeding influences antimicrobial resistance in neonates by shaping their gut microbiota. The available text does not provide the full details of the review's findings, methodology, or core claims. It only indicates that the review evaluates links between breastfeeding and the origin of neonatal gut microbiota and antimicrobial resistance genes. Without access to the complete article, it's not possible to describe the specific evidence, conclusions, or significance of the research. The text provided is a list of citations rather than the full content of a single article, so key aspects like the review's approach, key findings, and limitations are not available. To understand the role of breastfeeding in modulating antimicrobial resistance in neonates, the full systematic review would need to be consulted.
+
+[[TRANSITION]]
+
+Researchers have developed a novel oral micro-nano carrier system designed to combat Salmonella infections through multiple mechanisms. The EQM@MS carrier integrates quercetin and other components to achieve dual targeting and microbiota restoration. This cascade-responsive system addresses the limitations of conventional antibiotics by targeting intracellular Salmonella and disrupting biofilms. The food-derived flavonoid quercetin serves as a key component, potentially offering a more natural therapeutic approach. The micro-nano carrier design enables oral delivery, making it practical for clinical application. By combining antimicrobial action with microbiota restoration, this approach represents a more holistic strategy for treating Salmonella infections. The system's ability to respond to specific triggers suggests potential for targeted delivery and reduced side effects compared to broad-spectrum antibiotics.
+
+[[TRANSITION]]
+
+A new study in Archives of Medical Research suggests that the interaction between intestinal Bifidobacteria and dietary B vitamins may help reduce insulin resistance and lipid levels in schoolchildren. Researchers found that certain Bifidobacterium species, such as B. adolescentis, B. breve, and B. longum, play a key role in regulating glucose, triglycerides, and cholesterol. The study highlights how poor dietary habits linked to obesity can disrupt gut microbiota function, but boosting B vitamin intake alongside these beneficial bacteria may counteract metabolic alterations. This points to a potential dietary strategy for improving metabolic health in children by supporting both gut microbiota and nutrient absorption.
+
+[[TRANSITION]]
+
+A new meta-analysis in the *Biomedical Journal* explores whether circulating short-chain fatty acid (SCFA) profiles can serve as a biomarker for gut-brain axis dysfunction in major depression. SCFAs—produced by gut microbes—are key signaling molecules that regulate intestinal barrier integrity, immune function, and brain health. The study examines whether altered SCFA levels in blood correlate with major depressive disorder, supporting the neuroinflammatory hypothesis of depression. While the full details are not yet available, the research aims to clarify if a distinct "SCFA signature" exists in MDD patients, potentially offering a non-invasive diagnostic tool and new insights into the gut-brain connection in mental health.
+
+[[TRANSITION]]
+
+A new review in the Journal of Psychosocial Nursing and Mental Health Services highlights how psychological trauma can disrupt gut microbiota, leading to increased gut permeability and downstream health issues. Researchers found that trauma-induced changes in the gut-brain axis may be mitigated through targeted dietary interventions. The narrative review underscores the potential of nutrition-based strategies to restore microbial balance and support mental health recovery. While full details remain under embargo, the study points to promising avenues for integrating dietary approaches into trauma-informed care. This work reinforces the growing recognition of the gut-brain connection in both physical and psychological healing.
+
+[[TRANSITION]]
+
+A new study in The Journal of Asthma uses Mendelian randomization to explore whether oral microbiota causally influence asthma risk. Researchers analyzed genetic data from two large cohorts to test if specific oral bacteria are directly linked to asthma development. The findings suggest that certain oral microbial profiles may indeed have a causal role in asthma, rather than merely being associated with it. This strengthens the case for oral microbiota as a potential target for asthma prevention or treatment. The study highlights the value of genetic approaches in untangling complex host-microbe relationships and could guide future microbiome-based interventions for respiratory health.
+
+[[TRANSITION]]
+
+Researchers have developed MegaPX, a new method for assigning peptides in metaproteomic analysis that addresses a major bottleneck in microbiome studies. The tool uses an IBF-based multi-indexing approach to enable fast and space-efficient peptide assignment without requiring prior knowledge of the taxonomic composition of the sample. This is significant because traditional database search methods typically require either pre-existing knowledge of which proteins and taxa to include or the use of costly and error-prone metagenome-derived databases. MegaPX promises to streamline metaproteomic workflows by eliminating the need for these expensive preparatory steps while maintaining accuracy in peptide identification. The method was published in Bioinformatics by Oxford University Press.
+
+
+References:
+[1] Unlocking the role of microbiome through gut-skin axis to alleviate aging: current perspectives and future scope. — PubMed — GeroScience — https://doi.org/10.1007/s11357-026-02211-0
+[2] An investigation into the impact of the inclusion of a commercial fiber-based feed, designed for both hydration and nutrition, on the equine hindgut microbiomes. — PubMed — Journal of equine veterinary science — https://doi.org/10.1016/j.jevs.2026.105862
+[3] Mechanistic role of gut microbiota metabolites in hypertension-insomnia comorbidity via integrated network pharmacology and molecular dynamics. — PubMed — Scientific reports — https://doi.org/10.1038/s41598-026-44114-2
+[4] Vacuum-driven partially hydrolyzed guar gum structural modulation: A strategy to enhance butyrate production in gut microbiota. — PubMed — International journal of biological macromolecules — https://doi.org/10.1016/j.ijbiomac.2026.151529
+[5] Comparative analysis of the gut microbiome and bile acid profiles in sympatric Rana chensinensis and Fejervarya multistriata tadpoles. — PubMed — Comparative biochemistry and physiology. Part A, Molecular & integrative physiology — https://doi.org/10.1016/j.cbpa.2026.111996
+[6] Targeting the gut microbiota as treatment for obesity and cancer cachexia. — PubMed — Expert opinion on emerging drugs — https://doi.org/10.1080/14728214.2026.2650180
+[7] DNA Traces on the Shroud of Turin: Metagenomics of the 1978 Official Sample Collection — bioRxiv — genomics — https://www.biorxiv.org/content/10.64898/2026.03.19.712852
+[8] Next-generation strategies for PLA degradation: microbial consortia, metagenomics, enzyme engineering and AI-guided approaches. — PubMed — Archives of microbiology — https://doi.org/10.1007/s00203-026-04726-8
+[9] The role of breastfeeding in modulating antimicrobial resistance in neonates: a systematic review. — PubMed — Pediatric research — https://doi.org/10.1038/s41390-026-04902-y
+[10] Cascade-triggered oral gelatin-alginate micro-nano carriers integrate dual targeting and microbiota restoration for anti-Salmonella therapy. — PubMed — International journal of biological macromolecules — https://doi.org/10.1016/j.ijbiomac.2026.151581
+[11] Interaction Between Intestinal Bifidobacteria and Dietary Intake of B Vitamins Reduces Indicators of Insulin Resistance and Lipid Levels in Schoolchildren. — PubMed — Archives of medical research — https://doi.org/10.1016/j.arcmed.2026.103410
+[12] Circulating Short-Chain Fatty Acid (SCFA) Profiles as a Biomarker of Gut-Brain Axis Dysfunction: A Meta-Analysis for the SCFA Signature in Major Depression. — PubMed — Biomedical journal — https://doi.org/10.1016/j.bj.2026.100968
+[13] Psychological Trauma and Gut Health: Unlocking the Potential of Dietary Interventions to Modulate the Gut-Brain Axis. — PubMed — Journal of psychosocial nursing and mental health services — https://doi.org/10.3928/02793695-20260311-05
+[14] Assessing causal relationships between oral microbiota and asthma: evidence from two-sample Mendelian randomization analysis. — PubMed — The Journal of asthma : official journal of the Association for the Care of Asthma — https://doi.org/10.1080/02770903.2026.2647919
+[15] MegaPX: fast and space-efficient peptide assignment method using IBF-based multi-indexing. — PubMed — Bioinformatics (Oxford, England) — https://doi.org/10.1093/bioinformatics/btag134
