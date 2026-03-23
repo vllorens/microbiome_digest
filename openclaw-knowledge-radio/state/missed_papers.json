@@ -18,8 +18,13 @@
     "title": "Metabolic specialization structures gut bacterial niches and drives colorectal cancer progression",
     "url": "https://www.biorxiv.org/content/10.64898/2026.03.21.712571v1",
     "date_submitted": "2026-03-23",
-    "processed": false,
-    "diagnosis": null,
-    "keywords_added": []
+    "processed": true,
+    "diagnosis": "source_not_in_rss",
+    "keywords_added": [
+      "gut bacterial niches",
+      "metabolic specialization",
+      "colorectal cancer progression"
+    ],
+    "rss_feed_found": ""
   }
 ]

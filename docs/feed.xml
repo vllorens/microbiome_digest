@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Mar 2026 05:06:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 10:51:41 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -22,10 +22,10 @@
       <title>Daily Podcast 2026-03-23</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-23/podcast_2026-03-23.mp3</guid>
       <pubDate>Mon, 23 Mar 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-23/podcast_2026-03-23.mp3" length="8380484" type="audio/mpeg" />
-      <description>The gut microbiome&#x27;s role in skin aging is emerging as a critical frontier in longevity research. | The connection works through multiple pathways. | As we age, the gut microbiome undergoes significant changes.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-23/podcast_2026-03-23.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>The gut microbiome&#x27;s role in skin aging is emerging as a critical frontier in longevity research. | The connection works through multiple pathways. | As we age, the gut microbiome undergoes significant changes.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
