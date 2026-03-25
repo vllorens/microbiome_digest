@@ -8,7 +8,7 @@ paths:
 
 limits:
   max_items_total: 40
-  max_items_microbiome: 30
+  max_items_microbiome: 40
   max_items_clinical: 5
 
 excluded_terms:
@@ -18,12 +18,15 @@ excluded_terms:
   - "ruminant"
   - "rumen"
   - "ruminal"
+  - "cattle"
+  - "bovine"
   - "broiler"
   - "poultry"
   - "chicken meat"
   - "chickens"
   - "honeybee"
   - "honey bee"
+  - "bee"
   - "avian"
   - "tadpole"
   - "amphibian"
@@ -37,9 +40,11 @@ excluded_terms:
   - "fish"
   # off-topic: plant microbiomes
   - "plant microbiome"
+  - "plant health"
   - "crop microbiome"
   - "rhizosphere"
   - "phyllosphere"
+  - "phylloplane"
   - "leaf microbiome"
   - "plant colonization"
   - "plant-microbe"
