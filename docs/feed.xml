@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Mar 2026 05:08:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 05:25:06 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-03-26</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-26/podcast_2026-03-26.mp3</guid>
+      <pubDate>Thu, 26 Mar 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-26/podcast_2026-03-26.mp3" length="34041188" type="audio/mpeg" />
+      <description>Sucralose, the zero-calorie artificial sweetener found in thousands of diet foods and beverages, may be accelerating ovarian aging through gut microbiome disruption, according to a new study published in NPJ Science of Food. | The study found that long-term sucralose exposure triggers ovarian aging in animal models, leading to diminished ovarian function. | What makes this particularly concerning is the context.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Sucralose, the zero-calorie artificial sweetener found in thousands of diet foods and beverages, may be accelerating ovarian aging through gut microbiome disruption, according to a new study published in NPJ Science of Food. | The study found that long-term sucralose exposure triggers ovarian aging in animal models, leading to diminished ovarian function. | What makes this particularly concerning is the context.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-03-25</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-25/podcast_2026-03-25.mp3</guid>
       <pubDate>Wed, 25 Mar 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-25/podcast_2026-03-25.mp3" length="16836836" type="audio/mpeg" />
-      <description>Here&#x27;s a deep-dive segment based on the provided information: | The gut microbiome has long been recognized as a key player in human health, with diet serving as one of its primary environmental influences. | A new study from the Human Phenotype Project has now provided unprecedented insight into these diet-microbiome relationships.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-25/podcast_2026-03-25.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Here&#x27;s a deep-dive segment based on the provided information: | The gut microbiome has long been recognized as a key player in human health, with diet serving as one of its primary environmental influences. | A new study from the Human Phenotype Project has now provided unprecedented insight into these diet-microbiome relationships.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>

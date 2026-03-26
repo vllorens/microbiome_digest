@@ -1,0 +1,366 @@
+{
+  "timestamps": [
+    0.0,
+    127.94,
+    179.97,
+    236.05,
+    286.76,
+    334.71,
+    384.1,
+    489.14,
+    604.29,
+    731.84,
+    854.34,
+    1432.56,
+    1580.81,
+    1707.02,
+    1760.8,
+    1808.15,
+    1858.11,
+    1905.89,
+    1953.62,
+    2006.92,
+    2151.62,
+    2244.76,
+    2295.25,
+    2345.24,
+    2511.62,
+    2637.84,
+    2781.3,
+    2919.97,
+    3036.06,
+    3171.51,
+    3310.49,
+    3365.49,
+    3469.1,
+    3619.19,
+    3750.54,
+    3934.06,
+    4078.2,
+    4213.99,
+    4337.46,
+    4479.76
+  ],
+  "items": [
+    {
+      "title": "Long-term sucralose exposure accelerates ovarian aging via gut microbiota dysbiosis.",
+      "url": "https://doi.org/10.1038/s41538-026-00775-x",
+      "source": "PubMed — NPJ science of food",
+      "one_liner": "The increasing prevalence of obesity, diabetes, and other metabolic disorders is driving the application of sucralose in the food industry. However, its direct effects on the reproductive function have not been sufficiently investigated. Chronic sucralose consumption may induce ovarian aging, leading to ovarian dysfunction. This occurs in association with...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Alterations in the Gut Microbiota of Cirrhosis Patients with Sarcopenia and PH after TIPS.",
+      "url": "https://doi.org/10.14309/ctg.0000000000001021",
+      "source": "PubMed — Clinical and translational gastroenterology",
+      "one_liner": "BACKGROUND AIMS: TIPS can effectively reduce PH and may associated with improvement in muscle status; however, its impact on the gut microbiota and muscle condition remains unclear. Therefore, this prospective study aimed to evaluate gut microbiota alterations in patients with sarcopenia and PH following TIPS treatment. METHODS: Gut microbiota analysis wa...",
+      "segment": 1,
+      "timestamp": 127.94
+    },
+    {
+      "title": "Identifying candidate gut microbiota indicators for Alzheimer’s disease through integrated data",
+      "url": "https://journals.asm.org/doi/abs/10.1128/msystems.01754-25?af=R",
+      "source": "mSystems",
+      "one_liner": "",
+      "segment": 2,
+      "timestamp": 179.97
+    },
+    {
+      "title": "The respiratory microbiome in pulmonary tuberculosis: a meta-analysis reveals niche-specific microbial and functional signatures",
+      "url": "https://journals.asm.org/doi/abs/10.1128/msystems.01563-25?af=R",
+      "source": "mSystems",
+      "one_liner": "",
+      "segment": 3,
+      "timestamp": 236.05
+    },
+    {
+      "title": "The respiratory microbiome in pulmonary tuberculosis: a meta-analysis reveals niche-specific microbial and functional signatures.",
+      "url": "https://doi.org/10.1128/msystems.01563-25",
+      "source": "PubMed — mSystems",
+      "one_liner": "UNLABELLED: Tuberculosis (TB) remains a major global health challenge. The close relationship between the microbiome and the host is becoming increasingly notable. While studies on the respiratory microbiome in pulmonary tuberculosis (PTB) exist, a comprehensive understanding of microbial characteristics across the entire respiratory tract is still lackin...",
+      "segment": 4,
+      "timestamp": 286.76
+    },
+    {
+      "title": "Metagenomic profiling and predictive modeling of the gut microbiome reveal signatures of gestational disease",
+      "url": "https://journals.asm.org/doi/abs/10.1128/spectrum.03155-25?af=R",
+      "source": "Microbiological Spectrum",
+      "one_liner": "Microbiology Spectrum, Ahead of Print.",
+      "segment": 5,
+      "timestamp": 334.71
+    },
+    {
+      "title": "Enhancing the microbiome in the maternal-infant dyad: Perspectives from maternal and infant nutrition.",
+      "url": "https://doi.org/10.5546/aap.2025-10860.eng",
+      "source": "PubMed — Archivos argentinos de pediatria",
+      "one_liner": "Establishing the microbiome is an important milestone for infant health. The type of delivery, gestational age, antibiotic use, and infant feeding practices significantly impact this process. However, interest in the effects of maternal diet and nutrition has grown. The objective of this review is to present an update on the microbiota in the mother-child...",
+      "segment": 6,
+      "timestamp": 384.1
+    },
+    {
+      "title": "Multi-omics analysis reveals gut microbiota remodeling and lipid metabolism regulation during the treatment of nonalcoholic fatty liver disease with Yindan Pinggan capsule.",
+      "url": "https://doi.org/10.1186/s13020-026-01351-x",
+      "source": "PubMed — Chinese medicine",
+      "one_liner": "BACKGROUND: Nonalcoholic fatty liver disease (NAFLD) is a common chronic liver disorder with limited treatment options. Yindan Pinggan capsule (YDPG), a traditional Chinese medicine, has demonstrated potential in managing liver diseases, yet its efficacy and mechanisms in NAFLD remain unclear. METHODS: A high-fat diet (HFD)-induced NAFLD mouse model was e...",
+      "segment": 7,
+      "timestamp": 489.14
+    },
+    {
+      "title": "Exploratory characterization of gut microbiota and cognitive profiles in adolescents with subthreshold depression: a shotgun metagenomics sequencing study.",
+      "url": "https://doi.org/10.1038/s44184-026-00202-9",
+      "source": "PubMed — Npj mental health research",
+      "one_liner": "Subthreshold depression (SD) in adolescents is a prevalent condition associated with significant functional impairment and an increased risk of developing major depressive disorder. Currently, the lack of reliable objective markers complicates its accurate identification. Investigating the gut microbiome may offer novel insights into its underlying mechan...",
+      "segment": 8,
+      "timestamp": 604.29
+    },
+    {
+      "title": "Causal links between gut microbiota, metabolites, and diffuse large B-cell lymphoma: Evidence from a Mendelian randomization study.",
+      "url": "https://doi.org/10.17219/acem/208704",
+      "source": "PubMed — Advances in clinical and experimental medicine : official organ Wroclaw Medical University",
+      "one_liner": "BACKGROUND: The precise causal relationship between alterations in the gut microbiota, microbiota-derived metabolites, and the development of diffuse large B-cell lymphoma (DLBCL) remains unclear. OBJECTIVES: To investigate the potential causal relationships between gut microbiota, microbiota-derived metabolites, and DLBCL. MATERIAL AND METHODS: Genetic d...",
+      "segment": 9,
+      "timestamp": 731.84
+    },
+    {
+      "title": "Gut Microbiota Divergence Drives Aeromonas Hydrophila Resistance in Common Carp (Cyprinus carpio): Probiotic Role of Cetobacterium.",
+      "url": "https://doi.org/10.1007/s12602-026-10995-y",
+      "source": "PubMed — Probiotics and antimicrobial proteins",
+      "one_liner": "Bacterial diseases pose significant constraints on the sustainability of aquaculture, with Aeromonas hydrophila (A. hydrophila) emerging as a critical threat to freshwater fish populations. The gut microbiota significantly influences host health and disease resistance, however, the specific mechanisms by which the gut microbiota enhances pathogen defense ...",
+      "segment": 10,
+      "timestamp": 854.34
+    },
+    {
+      "title": "Analysis of pharyngeal microbiome characteristics in HIV-infected individuals: correlation between the degree of immunosuppression and microbial dysbiosis.",
+      "url": "https://doi.org/10.1186/s12879-026-13075-2",
+      "source": "PubMed — BMC infectious diseases",
+      "one_liner": "The pharyngeal microbiome in HIV-infected individuals shows distinct changes: bacterial community disruption is specifically associated with the degree of immunosuppression (measured by CD4⁺ T-cell count), while fungal community alterations are more broadly associated with HIV infection status itself.",
+      "segment": 11,
+      "timestamp": 1432.56
+    },
+    {
+      "title": "The red cell distribution width-to-albumin ratio mediates the association between the dietary index for gut microbiota and chronic obstructive pulmonary disease.",
+      "url": "https://doi.org/10.1186/s12890-026-04250-x",
+      "source": "PubMed — BMC pulmonary medicine",
+      "one_liner": "Higher adherence to a gut microbiota-beneficial diet (as measured by the Dietary Index for Gut Microbiota, DI-GM) is associated with a lower prevalence of chronic obstructive pulmonary disease (COPD) in U.S.",
+      "segment": 12,
+      "timestamp": 1580.81
+    },
+    {
+      "title": "EXPLORING THE IMPACT OF GUT MICROBIOTA MODULATION ON COLORECTAL CANCER THERAPY: A BIBLIOMETRIC ANALYSIS OF PROBIOTIC AND PREBIOTIC INTERVENTIONS.",
+      "url": "https://doi.org/10.1590/S0004-2803.24612025-087",
+      "source": "PubMed — Arquivos de gastroenterologia",
+      "one_liner": "OBJECTIVE: This study is a bibliometric analysis of scientific publications reporting the beneficial effects of gut microbiota modulation by probiotics and/or prebiotics on colorectal cancer. METHODS: This study adhered to the PRISMA guidelines and focused on English peer-reviewed research articles published between 2020 and 2025, as indexed in Google Sch...",
+      "segment": 13,
+      "timestamp": 1707.02
+    },
+    {
+      "title": "Oral microbiome perturbations link periodontal health to cognitive ageing in a large community cohort.",
+      "url": "https://doi.org/10.1016/j.ebiom.2026.106231",
+      "source": "PubMed — EBioMedicine",
+      "one_liner": "BACKGROUND: Emerging evidence implicates the oral-brain axis in neurodegeneration, yet large community-based studies remain limited. This study aimed to examine associations between periodontal health, oral microbiome, and cognitive performance, and to explore potential biological pathways underlying these relationships. METHODS: We conducted a cross-sect...",
+      "segment": 14,
+      "timestamp": 1760.8
+    },
+    {
+      "title": "Impact of gut microbiota on hepatocellular carcinoma: Pathogenesis, diagnosis, prognosis, and therapeutic prospective.",
+      "url": "https://doi.org/10.1016/j.ejca.2026.116581",
+      "source": "PubMed — European journal of cancer (Oxford, England : 1990)",
+      "one_liner": "Advances in sequencing technology have elucidated the complex role of the gut microbiota in hepatocellular carcinoma (HCC). Communication between the gut and the liver occurs via the gut-liver axis, and dysbiosis of the gut microbiota has been implicated in both the promotion and suppression of HCC. Furthermore, through interactions with host metabolism a...",
+      "segment": 15,
+      "timestamp": 1808.15
+    },
+    {
+      "title": "Taraxasterol ameliorates bone loss of ovariectomized mice via suppressing the NLRP3 inflammasome and modulating the gut microbiota.",
+      "url": "https://doi.org/10.1016/j.bbrc.2026.153404",
+      "source": "PubMed — Biochemical and biophysical research communications",
+      "one_liner": "Postmenopausal osteoporosis (PMOP) is a common disease linked to aging, and estrogen deficiency is considered to be the primary cause of PMOP. Inflammation and the gut microbiota (GM) have emerged as promising therapeutic targets for treating PMOP. Taraxasterol (Tara), a pentacyclic triterpenoid primarily derived from Taraxacum officinale, demonstrates br...",
+      "segment": 16,
+      "timestamp": 1858.11
+    },
+    {
+      "title": "Metagenomic profiling and predictive modeling of the gut microbiome reveal signatures of gestational disease.",
+      "url": "https://doi.org/10.1128/spectrum.03155-25",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "The gut microbiome plays a vital role in maternal health and pregnancy outcomes, yet its impact on conditions like gestational hypertension (GH) and gestational diabetes mellitus (GDM) remains poorly understood. This study explores how the gut microbiome differs between pregnant women with these conditions and healthy controls, using metagenomic sequencin...",
+      "segment": 17,
+      "timestamp": 1905.89
+    },
+    {
+      "title": "Multiomics Perspective to Analyze the Mechanism by Which Dietary Sugar Aggravates Tropomyosin-Induced Allergic Reactions: The Key Role of Intestinal Microbiota Imbalance and Metabolic Disorders.",
+      "url": "https://doi.org/10.1021/acs.jafc.6c01144",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "High sugar intake is associated with an increased allergic disease risk, though the mechanisms are unclear. This study used a tropomyosin-sensitized mouse model to compare the effects of sucrose, fructose, glucose, and mixed sugars. All sugars exacerbated allergic reactions, with sucrose having the most pronounced effect, characterized by elevated histami...",
+      "segment": 18,
+      "timestamp": 1953.62
+    },
+    {
+      "title": "Modulating Innate Immune Responses to Curli Fibers Through Protein Engineering",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.23.713613",
+      "source": "bioRxiv — synthetic biology",
+      "one_liner": "Curli fibers produced by Escherichia coli are functional amyloids that activate Toll-like receptor 2 (TLR2), initiating innate immune responses at mucosal surfaces. While microbiome-derived curli contribute to host-microbe interactions, their intrinsic immunostimulatory activity limits their utility as programmable scaffolds for engineered probiotic syste...",
+      "segment": 19,
+      "timestamp": 2006.92
+    },
+    {
+      "title": "Fusobacterium nucleatum promotes tumor extravasation and metastasis in head and neck cancer via TLR4/MYB/ESPN axis.",
+      "url": "https://doi.org/10.1038/s42003-026-09913-3",
+      "source": "PubMed — Communications biology",
+      "one_liner": "Patients with metastasis have an extremely poor prognosis in head and neck squamous cell carcinoma (HNSCC). Emerging studies have illuminated the impact of intratumor microbiota on cancer metastasis, though the specific role of Fusobacterium nucleatum (F. nucleatum) in HNSCC metastasis remains unresolved. This research found that intratumoral F. nucleatum...",
+      "segment": 20,
+      "timestamp": 2151.62
+    },
+    {
+      "title": "The dual roles of microorganisms in inflammatory diseases: initiators and regulators.",
+      "url": "https://doi.org/10.1080/10408363.2026.2637106",
+      "source": "PubMed — Critical reviews in clinical laboratory sciences",
+      "one_liner": "Research on the microbiome is reshaping the conceptual foundations of inflammatory diseases. As a dynamic component of the host ecosystem, microbial communities collectively influence inflammatory responses and homeostatic balance through their metabolites, structural signals, and interactions with immune pathways. Dysbiosis can amplify immune activation ...",
+      "segment": 21,
+      "timestamp": 2244.76
+    },
+    {
+      "title": "HighALPS: ultra-high-throughput marker-gene amplicon library preparation and sequencing on the Illumina NextSeq and NovaSeq Platforms.",
+      "url": "https://doi.org/10.1128/msystems.00023-26",
+      "source": "PubMed — mSystems",
+      "one_liner": "Microbiome research using amplicon sequencing of microbial marker genes has surged over the past decade, propelled by protocols for highly multiplexed sequencing with barcoded primer constructs. Newer Illumina platforms like the NovaSeq and NextSeq series significantly outperform older sequencers in terms of reads, output, and runtime. However, these plat...",
+      "segment": 22,
+      "timestamp": 2295.25
+    },
+    {
+      "title": "Complete Genomes of Cultivated Gut Bacteria Reveal Mobile Genetic Element-Driven Functional Diversity with Therapeutic Implications",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.25.714112",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Cultivated bacterial isolates are essential for elucidating gut microbiota functions, yet reliance on fragmented draft genomes and limited mobile genetic element (MGE) annotation has constrained high-resolution analyses. Here, we present the Cultivated Complete Genome Reference (CCGR), a comprehensive compendium of 1,150 fully circularized human gut bacte...",
+      "segment": 23,
+      "timestamp": 2345.24
+    },
+    {
+      "title": "Metagenomics analysis for microbial ecology investigation on historical samples: negligible effect of host DNA and optimal analysis strategies",
+      "url": "https://www.biorxiv.org/content/10.1101/2025.04.05.647358",
+      "source": "bioRxiv — plant biology",
+      "one_liner": "Microbiome composition and function are strongly influenced by environmental factors, with major shifts driven by intensified anthropogenic pressures over the past centuries. This timeframe extends beyond the scope of traditional experimental or longitudinal studies commonly used to investigate microbiome dynamics. The historical samples might provide imp...",
+      "segment": 24,
+      "timestamp": 2511.62
+    },
+    {
+      "title": "Cervicovaginal Dysbiosis in HPV-Negative Women: Metagenomic Evidence Implicates Achromobacter in Female Infertility",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.23.713732",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "The cervicovaginal microbiome is pivotal to reproductive health, yet its dynamics in HPV-negative women with gynaecological disorders remain underexplored. We investigated microbial diversity and taxonomic shifts in HPV-negative women from Bangladesh using 16S rRNA gene sequencing and shotgun metagenomics. Of 224 women screened, 136 were HPV-negative; 29 ...",
+      "segment": 25,
+      "timestamp": 2637.84
+    },
+    {
+      "title": "β-hydroxybutyrate modulates enteric pathogen susceptibility through regulation of commensal bacteria and intestinal Th17 responses",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.20.713262",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "T helper 17 (Th17) cells are a critical T lymphocyte subset involved in mucosal immunity and host defense against enteric pathogens. Although ketogenic diets (KD) and the major ketone body {beta}-hydroxybutyrate (BHB) reshape gut microbiota and suppress Th17 responses under defined diet conditions, it remains unclear whether elevation of BHB alone, indepe...",
+      "segment": 26,
+      "timestamp": 2781.3
+    },
+    {
+      "title": "ZeaMiC: a Publicly Available Culture Collection of Maize Root-Associated Bacteria",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.23.713778",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Plant-associated microbiota are composed of hundreds of microbial species. For many of them, little is known about their individual functions and even less is known about their emergent community-level traits. While culture-independent methods provide valuable insights into the composition, diversity, and functional potential of plant-associated microbiot...",
+      "segment": 27,
+      "timestamp": 2919.97
+    },
+    {
+      "title": "Beyond dairy: Identification of dental enamel proteins in ancient human dental calculus",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.21.713223",
+      "source": "bioRxiv — evolutionary biology",
+      "one_liner": "Ancient human dental calculus is one of the richest archives of archaeological biomolecular information, providing direct evidence of diet, oral health, and the oral microbiome. Proteomic analyses of this biological matrix have so far focused mainly on oral microbes and dietary proteins, with milk proteins such as beta-lactoglobulin (BLG) providing the la...",
+      "segment": 28,
+      "timestamp": 3036.06
+    },
+    {
+      "title": "Systematic detection of abnormal samples reveals widespread mislabeling in metagenomic studies",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.22.713545",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "The human microbiome plays a critical role in health and disease, and its dynamic nature has made longitudinal sampling a key strategy for elucidating microbiome disease relationships. Although the gut microbiome generally stabilizes over time, a subset of samples frequently shows marked deviations from an individual baseline profile. We refer to these as...",
+      "segment": 29,
+      "timestamp": 3171.51
+    },
+    {
+      "title": "Structural Complementarity Maximizes Feasibility and Stability in Microbial Community Coalescence",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.24.713896",
+      "source": "bioRxiv — ecology",
+      "one_liner": "Microbial communities frequently coalesce through dispersal, disturbance, or deliberate transplantation, yet the dynamical consequences of such coalescence remain poorly understood. Here, we show that coalescence can function as a structural design mechanism to enhance microbial community robustness. Using a mechanistic consumer-resource model in which th...",
+      "segment": 30,
+      "timestamp": 3310.49
+    },
+    {
+      "title": "Protective holobiome promotes strawberry tolerance of biotic stresses.",
+      "url": "https://doi.org/10.1007/s44154-026-00294-5",
+      "source": "PubMed — Stress biology",
+      "one_liner": "The commercial cultivation of strawberry (Fragaria × ananassa) is increasingly challenged by biotic stresses such as plant pathogens and insect pests, while climate change exacerbates abiotic stresses. Reliance on chemical fumigants and broad-spectrum pesticides presents risks to human health, environmental quality, and microbial diversity. The strawberry...",
+      "segment": 31,
+      "timestamp": 3365.49
+    },
+    {
+      "title": "Diet-microbiota-kidney axis reprogramming: mechanistic insights into microbial metabolite-driven precision nutrition for chronic kidney disease.",
+      "url": "https://doi.org/10.23876/j.krcp.25.312",
+      "source": "PubMed — Kidney research and clinical practice",
+      "one_liner": "Medical nutrition therapy serves as the cornerstone in the management of chronic kidney disease (CKD). While conventional approaches emphasize macronutrient restriction and meal timing adjustments, research highlights the critical mediating role of gut microbiota in translating dietary patterns into physiological effects through metabolite production. Mea...",
+      "segment": 32,
+      "timestamp": 3469.1
+    },
+    {
+      "title": "Fecal microbiota transplantation combined with anti-PD-1 therapy in refractory microsatellite-stable gastric cancer: a phase I feasibility and safety study.",
+      "url": "https://doi.org/10.1136/jitc-2025-013823",
+      "source": "PubMed — Journal for immunotherapy of cancer",
+      "one_liner": "BACKGROUND: The discovery and therapeutic application of immune checkpoint inhibitors (ICIs) have significantly improved clinical outcomes in cancer treatment. However, the response rate is still low in gastrointestinal (GI) cancers. The gut microbiome's impact on immune modulation is a promising area for overcoming resistance to immunotherapy. METHODS: T...",
+      "segment": 33,
+      "timestamp": 3619.19
+    },
+    {
+      "title": "The Gut-Brain-Cardiac Axis: How Microbiota Influence Cognitive and Cardiovascular Health.",
+      "url": "https://doi.org/10.1007/s00284-026-04857-7",
+      "source": "PubMed — Current microbiology",
+      "one_liner": "The gut microbiome exerts systemic influence on human health, particularly through microbial metabolites and immune modulation, playing a critical role in the pathogenesis and potential treatment of neurological disorders (e.g., Alzheimer's disease), metabolic diseases (e.g., hypertension, obesity), and inflammatory conditions via the gut-brain, gut-heart, and gut-immune axes.\n\nMETHOD / APPROACH:\nThe sources employ a variety of methods: comprehensive narrative reviews (Sorboni et al., 2022; Sasso et al., 2023; Chakraborty et al., 2024), systematic reviews with meta-analysis (Ge et al., 2020), animal model studies (e.g., APPPS1 transgenic mice in Harach et al., 2017; murine IBS model in Song et al., 2025), human observational studies (e.g., Lv et al., 2024 on carotid plaques), and mechanistic molecular/cellular studies exploring metabolite-host interactions (e.g., Wang et al., 2011 on TMAO; Teng et al., 2022 on isoamylamine).",
+      "segment": 34,
+      "timestamp": 3750.54
+    },
+    {
+      "title": "The Gut Metabolite Phenylacetylglutamine Inhibits the Angiogenic Potential of Human Umbilical Vein Endothelial Cells Via the β-Adrenergic Receptor-LDHA Axis.",
+      "url": "https://doi.org/10.1007/s12265-026-10764-w",
+      "source": "PubMed — Journal of cardiovascular translational research",
+      "one_liner": "Phenylacetylglutamine (PAGln), a gut microbiota-derived metabolite, is associated with enhanced thrombosis. However, its impact on endothelial function and angiogenesis remains unclear. A murine hindlimb ischemia model was used to assess perfusion recovery. Human umbilical vein endothelial cell (HUVEC) proliferation, migration, and tube formation were eva...",
+      "segment": 35,
+      "timestamp": 3934.06
+    },
+    {
+      "title": "Sex-specific differences in salivary microbiota composition and their associations with metabolic health in adults with excess body weight: a secondary cross-sectional analysis.",
+      "url": "https://doi.org/10.1007/s00784-026-06826-7",
+      "source": "PubMed — Clinical oral investigations",
+      "one_liner": "OBJECTIVES: Growing evidence links the oral microbiome to obesity-related outcomes, yet the influence of sex-related biological differences on salivary microbial profiles remains insufficiently explored. This exploratory study aimed to characterize the composition, abundance, and diversity of the salivary microbiota in Brazilian men and women with excess ...",
+      "segment": 36,
+      "timestamp": 4078.2
+    },
+    {
+      "title": "Nfil3 integrates circadian rhythm and microbial metabolite signaling to maintain gut-liver immune-metabolic homeostasis under high-fat diet stress.",
+      "url": "https://doi.org/10.1186/s12967-026-08000-9",
+      "source": "PubMed — Journal of translational medicine",
+      "one_liner": "BACKGROUND: Disruption of circadian regulation and gut microbial homeostasis is a hallmark of metabolic dysfunction associated with steatotic liver disease (MASLD). Nuclear factor interleukin 3 (Nfil3) integrates circadian and immune signaling; however, how Nfil3 interfaces with microbiota-associated metabolic cues in MASLD remains incompletely understood...",
+      "segment": 37,
+      "timestamp": 4213.99
+    },
+    {
+      "title": "Process optimization of compound fermented traditional Chinese medicine and its feeding effect on dairy cows.",
+      "url": "https://doi.org/10.1186/s13568-026-02038-0",
+      "source": "PubMed — AMB Express",
+      "one_liner": "This study evaluated the efficacy of a compound fermented traditional Chinese medicine (TCM) preparation in dairy cows. Five TCMs and three probiotics were selected from 25 candidate herbs and six probiotics based on in vitro antibacterial activity against Staphylococcus aureus and Escherichia coli using agar well diffusion and paper disc diffusion method...",
+      "segment": 38,
+      "timestamp": 4337.46
+    },
+    {
+      "title": "Signed, sealed, delivered: a generalizable model for living biotherapeutic dosing and metabolism.",
+      "url": "https://doi.org/10.1038/s41540-026-00685-4",
+      "source": "PubMed — NPJ systems biology and applications",
+      "one_liner": "Living Biotherapeutic Products (LBPs) offer a promising therapeutic strategy for metabolic disorders rooted in gut microbiome dysfunction, yet quantitative frameworks for predicting their efficacy remain underdeveloped. We introduce the Bacterial Compartment Absorption and Transit (BCAT) model, a pharmacokinetic-pharmacodynamic framework that couples prob...",
+      "segment": 39,
+      "timestamp": 4479.76
+    }
+  ]
+}
