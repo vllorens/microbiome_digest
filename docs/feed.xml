@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Mar 2026 05:25:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 05:33:36 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-03-27</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-27/podcast_2026-03-27.mp3</guid>
+      <pubDate>Fri, 27 Mar 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-27/podcast_2026-03-27.mp3" length="29035364" type="audio/mpeg" />
+      <description>Researchers in China have uncovered new molecular links between the gut microbiome and depression, revealing distinct microbial and metabolic signatures in people with unipolar versus bipolar depression. | The study analyzed stool samples from 30 people with major depressive disorder, 30 with bipolar disorder, and 30 healthy controls. | But the differences went beyond just having fewer beneficial bacteria.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Researchers in China have uncovered new molecular links between the gut microbiome and depression, revealing distinct microbial and metabolic signatures in people with unipolar versus bipolar depression. | The study analyzed stool samples from 30 people with major depressive disorder, 30 with bipolar disorder, and 30 healthy controls. | But the differences went beyond just having fewer beneficial bacteria.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-03-26</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-26/podcast_2026-03-26.mp3</guid>
       <pubDate>Thu, 26 Mar 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-26/podcast_2026-03-26.mp3" length="34041188" type="audio/mpeg" />
-      <description>Sucralose, the zero-calorie artificial sweetener found in thousands of diet foods and beverages, may be accelerating ovarian aging through gut microbiome disruption, according to a new study published in NPJ Science of Food. | The study found that long-term sucralose exposure triggers ovarian aging in animal models, leading to diminished ovarian function. | What makes this particularly concerning is the context.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-26/podcast_2026-03-26.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Sucralose, the zero-calorie artificial sweetener found in thousands of diet foods and beverages, may be accelerating ovarian aging through gut microbiome disruption, according to a new study published in NPJ Science of Food. | The study found that long-term sucralose exposure triggers ovarian aging in animal models, leading to diminished ovarian function. | What makes this particularly concerning is the context.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
