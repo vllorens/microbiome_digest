@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Mar 2026 05:33:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 05:16:32 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-03-28</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-28/podcast_2026-03-28.mp3</guid>
+      <pubDate>Sat, 28 Mar 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-28/podcast_2026-03-28.mp3" length="24233852" type="audio/mpeg" />
+      <description>High-altitude exposure is increasingly common as more people travel to or live in mountainous regions, and this brings significant physiological challenges. | The gut microbiome, the community of microorganisms living in our intestines, plays a crucial role in digestion, immunity, and even mental health. | Why does this matter?</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>High-altitude exposure is increasingly common as more people travel to or live in mountainous regions, and this brings significant physiological challenges. | The gut microbiome, the community of microorganisms living in our intestines, plays a crucial role in digestion, immunity, and even mental health. | Why does this matter?</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-03-27</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-27/podcast_2026-03-27.mp3</guid>
       <pubDate>Fri, 27 Mar 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-27/podcast_2026-03-27.mp3" length="29035364" type="audio/mpeg" />
-      <description>Researchers in China have uncovered new molecular links between the gut microbiome and depression, revealing distinct microbial and metabolic signatures in people with unipolar versus bipolar depression. | The study analyzed stool samples from 30 people with major depressive disorder, 30 with bipolar disorder, and 30 healthy controls. | But the differences went beyond just having fewer beneficial bacteria.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-27/podcast_2026-03-27.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Researchers in China have uncovered new molecular links between the gut microbiome and depression, revealing distinct microbial and metabolic signatures in people with unipolar versus bipolar depression. | The study analyzed stool samples from 30 people with major depressive disorder, 30 with bipolar disorder, and 30 healthy controls. | But the differences went beyond just having fewer beneficial bacteria.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>

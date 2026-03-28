@@ -1,0 +1,366 @@
+{
+  "timestamps": [
+    0.0,
+    124.58,
+    176.27,
+    225.56,
+    363.25,
+    528.27,
+    586.37,
+    723.33,
+    855.66,
+    901.02,
+    950.43,
+    1004.55,
+    1059.29,
+    1105.68,
+    1156.17,
+    1208.44,
+    1253.05,
+    1304.16,
+    1348.22,
+    1394.37,
+    1440.35,
+    1490.65,
+    1541.6,
+    1594.59,
+    1651.92,
+    1727.76,
+    1844.58,
+    1982.8,
+    2143.71,
+    2286.92,
+    2431.27,
+    2592.38,
+    2747.51,
+    2899.81,
+    2951.05,
+    2999.52,
+    3052.56,
+    3103.05,
+    3148.41,
+    3203.89
+  ],
+  "items": [
+    {
+      "title": "High-altitude exposure remodels the gut microbiota: health and disease.",
+      "url": "https://doi.org/10.1007/s11684-026-1206-2",
+      "source": "PubMed — MedScience",
+      "one_liner": "With the increasing number of individuals travelling to or residing in high-altitude regions, understanding the physiological and pathological consequences of such environments has become increasingly important. High-altitude exposure poses significant challenges to human health, primarily due to hypobaric hypoxia, which triggers a cascade of responses, i...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Multi-omics reveal vitamin D regulation of immune-gut microbiome interactions and tolerogenic pathways in inflammatory bowel disease.",
+      "url": "https://doi.org/10.1016/j.xcrm.2026.102703",
+      "source": "PubMed — Cell reports. Medicine",
+      "one_liner": "Loss of immune tolerance to the gut microbiome plays a pathogenic role in inflammatory bowel disease (IBD). How dietary factors alter host immune-gut microbiome interactions in IBD is unclear. Here, we apply multi-omics (immunoglobulin A or G and 16S rRNA sequencing [IgA-seq, IgG-seq], blood single-cell RNA sequencing [scRNA-seq], and immune repertoire se...",
+      "segment": 1,
+      "timestamp": 124.58
+    },
+    {
+      "title": "Decoding the HMO‒microbiome axis: bridging maternal milk to infant health outcomes.",
+      "url": "https://doi.org/10.1080/19490976.2026.2649456",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Human milk oligosaccharides (HMO) are unique glycans in breast milk that critically mediate interactions between the microbiome and infant health. This review synthesizes recent advances in understanding HMOs as key connectors of maternal and neonatal microbiomes with health outcomes. HMO composition, shaped by genetic factors (e.g., Secretor/Lewis status...",
+      "segment": 2,
+      "timestamp": 176.27
+    },
+    {
+      "title": "Environmental Gradients Shape the Hydrocarbon-Degrading Microbiome in Two Mid Atlantic Bays.",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.25.714183",
+      "source": "bioRxiv — genomics",
+      "one_liner": "Hydrocarbons are recalcitrant organic matter that are released into the environment via natural and anthropogenic activities. We hypothesized that abiotic and biotic factors, including salinity, temperature, seasonality, microbial interactions, and functional redundancy, influence the abundance and activity of potential hydrocarbon degraders in the Delawa...",
+      "segment": 3,
+      "timestamp": 225.56
+    },
+    {
+      "title": "Sarbecovirus-associated gut microbiome instability in a natural bat reservoir",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.26.714368",
+      "source": "bioRxiv — ecology",
+      "one_liner": "Sarbecoviruses, a subgenus of Betacoronavirus, display both respiratory and gastrointestinal tropism, suggesting potential interactions with host gut microbial communities. However, ecological signatures of infection in wild bats remain poorly understood. We investigated associations between Sarbecovirus infection status, gut microbiome structure, and die...",
+      "segment": 4,
+      "timestamp": 363.25
+    },
+    {
+      "title": "The role of IgE patterns and their link to the gut microbiome in allergic sensitization",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.25.714318",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Allergic diseases are heterogeneous conditions shaped by immune pathways and environmental influences, including the gut microbiome. Using cross-sectional data from 508 adults in the KORA FF4 cohort (275 with IgE sensitization, 233 without), we provide a multimodal statistical analysis of deep IgE profiles and concomitant gut microbial amplicon sequencing...",
+      "segment": 5,
+      "timestamp": 528.27
+    },
+    {
+      "title": "Community heterogeneity scaling of gut microbiomes across Chinese ethnicities and lifestyles appears invariant.",
+      "url": "https://doi.org/10.1007/s10123-026-00795-3",
+      "source": "PubMed — International microbiology : the official journal of the Spanish Society for Microbiology",
+      "one_liner": "",
+      "segment": 6,
+      "timestamp": 586.37
+    },
+    {
+      "title": "Modulating microbial intake helps to maintain the gut microbiome diversity.",
+      "url": "https://doi.org/10.1038/s42003-026-09867-6",
+      "source": "PubMed — Communications biology",
+      "one_liner": "The animal gut is home to a myriad of microbes whose diversity has a proven impact on the host's health. Indeed, lower values of this metric often correlate with pathological status. In this context, processes involved in the gut microbiome assembly have been studied in the search for optimal nutritional habits and medical interventions. While the nutriti...",
+      "segment": 7,
+      "timestamp": 723.33
+    },
+    {
+      "title": "Gut Microbiota May Predict the Short-Term Recurrence of Symptomatic Uncomplicated Diverticular Disease.",
+      "url": "https://doi.org/10.15403/jgld-6535",
+      "source": "PubMed — Journal of gastrointestinal and liver diseases : JGLD",
+      "one_liner": "BACKGROUND AND AIMS: Symptomatic Uncomplicated Diverticular Disease (SUDD) may recur, but it is still unknown whether the gut microbiota (GM) may play a role. We aimed to analyze whether GM plays a role in short-term (6 months) relapse in SUDD patients for whom GM data were retrospectively available. METHODS: GM was profiled using 16S rRNA amplicon sequen...",
+      "segment": 8,
+      "timestamp": 855.66
+    },
+    {
+      "title": "Diet-induced death: microbiome-mediated lipid stress reduces intestinal ILC3s.",
+      "url": "https://doi.org/10.1016/j.it.2026.03.002",
+      "source": "PubMed — Trends in immunology",
+      "one_liner": "Group 3 innate lymphoid cells (ILC3s) promote gastrointestinal health, dynamically interface with diet and microbes, and become impaired during chronic inflammation or metabolic syndrome. Torrico and colleagues uncover a key pathway rapidly disrupting ILC3 homeostasis in the intestines of humans and mice following the consumption of a high-fat diet.",
+      "segment": 9,
+      "timestamp": 901.02
+    },
+    {
+      "title": "Understanding gut microbiota dysbiosis as a plausible link between Obstructive Sleep Apnea (OSA), viral infections, and lifestyle diseases.",
+      "url": "https://doi.org/10.1016/j.micpath.2026.108466",
+      "source": "PubMed — Microbial pathogenesis",
+      "one_liner": "Obstructive sleep apnea (OSA) is a multifactorial disorder which is influenced by intermittent hypoxia, sleep fragmentation, and systemic inflammation. Recent evidence suggests that lifestyle diseases and viral infections further exacerbate OSA severity through common inflammatory and metabolic pathways. Parallelly, gut dysbiosis has gained recognition as...",
+      "segment": 10,
+      "timestamp": 950.43
+    },
+    {
+      "title": "Gut microbiome disruption impairs arsenic biotransformation and exacerbates toxicity in the water flea Daphnia magna.",
+      "url": "https://doi.org/10.1016/j.cbpc.2026.110522",
+      "source": "PubMed — Comparative biochemistry and physiology. Toxicology & pharmacology : CBP",
+      "one_liner": "Arsenic risk in waters depends on chemical speciation, yet studies on host-associated microbiota to the in vivo detoxification mechanisms remain unclear. We exposed Daphnia magna for 21 days to inorganic arsenic at 2 mg/L with/without a broad-spectrum antibiotic cocktail that disrupts the gut microbiome. We assessed life-history traits, whole-body arsenic...",
+      "segment": 11,
+      "timestamp": 1004.55
+    },
+    {
+      "title": "Salinity modulates the toxicity of Benzotriazole UV stabilizer in sediment to gut microbiota of Corbicula fluminea.",
+      "url": "https://doi.org/10.1016/j.envpol.2026.128023",
+      "source": "PubMed — Environmental pollution (Barking, Essex : 1987)",
+      "one_liner": "Benzotriazole ultraviolet stabilizers (BUVSs) are widespread emerging pollutants in sediments. However, studies on the effects of BUVSs on benthic gut microbiota, particularly under co-exposure with salinity fluctuations, remain underexplored. This is significant as salinity is a contributing factor to saline intrusion attributed to climate change. Theref...",
+      "segment": 12,
+      "timestamp": 1059.29
+    },
+    {
+      "title": "Gut microbiota-derived eicosapentaenoic acid alleviates kidney fibrosis in diabetic nephropathy following acute kidney injury.",
+      "url": "https://doi.org/10.1016/j.ejphar.2026.178741",
+      "source": "PubMed — European journal of pharmacology",
+      "one_liner": "Acute kidney injury (AKI) superimposed on diabetic nephropathy (DN) accelerates fibrosis progression to end-stage renal disease, but the underlying mechanisms remain poorly understood. Since gut microbiota and their metabolites are pivotal contributors to diabetic pathogenesis and fibrotic development, we examined the role of gut microbiota-derived metabo...",
+      "segment": 13,
+      "timestamp": 1105.68
+    },
+    {
+      "title": "Isoalantolactone Ameliorates Ulcerative Colitis via Gut Microbiota-Mediated Modulation of Intestinal Barrier, T Cell Homeostasis, and Metabolite Reprogramming.",
+      "url": "https://doi.org/10.1016/j.ejphar.2026.178798",
+      "source": "PubMed — European journal of pharmacology",
+      "one_liner": "Ulcerative colitis (UC) is a chronic inflammatory bowel disease characterized by immune dysregulation, epithelial barrier dysfunction, and gut microbiota imbalance. This study examined the therapeutic potential of isoalantolactone (IAL), a bioactive sesquiterpene lactone naturally occurring in Inula helenium L., using a dextran sulfate sodium-induced muri...",
+      "segment": 14,
+      "timestamp": 1156.17
+    },
+    {
+      "title": "Revisiting ultrasound and high-pressure homogenization modification of pea protein isolate: insights into gut microbiota modulation and anti-inflammatory activity.",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2026.151638",
+      "source": "PubMed — International journal of biological macromolecules",
+      "one_liner": "Ultrasound (US) and high-pressure homogenization (HPH) have been reported to enhance the techno-functionality of pea protein isolate (PPI); however, their impacts on the nutritional attributes of PPI remain unclear. This study investigated whether US- and HPH-induced structural modifications of PPI could influence its digestibility, gut microbiota modulat...",
+      "segment": 15,
+      "timestamp": 1208.44
+    },
+    {
+      "title": "The causal relationship between brown rice, gut microbiota, and blood lipid levels: Insights from Mendelian randomization study.",
+      "url": "https://doi.org/10.1016/j.micpath.2026.108468",
+      "source": "PubMed — Microbial pathogenesis",
+      "one_liner": "BACKGROUND: There exists a certain correlation between brown rice preference, gut microbiota, and blood lipid levels, but the causal relationship among them remains unclear. METHODS: Mendelian randomization (MR) analysis was conducted to investigate the causal relationships between brown rice preference, gut microbiota and blood lipid level. Further media...",
+      "segment": 16,
+      "timestamp": 1253.05
+    },
+    {
+      "title": "Trans-generational effect of sodium benzoate on development and gut microbiota of Drosophila melanogaster.",
+      "url": "https://doi.org/10.1016/j.ecoenv.2026.120046",
+      "source": "PubMed — Ecotoxicology and environmental safety",
+      "one_liner": "Sodium benzoate (SB) is a widely used synthetic food preservative with broad-spectrum antimicrobial activity. Although generally recognized as safe at regulated levels, concerns persist regarding its potential toxicity at high concentrations. Our previous study demonstrated that chronic exposure to high-dose SB (2000 ppm) significantly delayed pupation an...",
+      "segment": 17,
+      "timestamp": 1304.16
+    },
+    {
+      "title": "Integrated analysis of gut microbiota and transcriptional responses reveals thermotolerance mechanisms in Arma chinensis.",
+      "url": "https://doi.org/10.1016/j.ecoenv.2026.120069",
+      "source": "PubMed — Ecotoxicology and environmental safety",
+      "one_liner": "Heat stress profoundly affects insect physiology and fitness, yet the adaptive mechanisms in predatory insects remain poorly understood. In this study, we examined the responses of Arma chinensis-an ecologically important predatory natural enemy-to heat stress (38 ℃ and 44 ℃ for 1 h daily over five consecutive days) using integrated physiological, microbi...",
+      "segment": 18,
+      "timestamp": 1348.22
+    },
+    {
+      "title": "Xiaochaihu decoction alleviates chronic stress-induced depressive-like behavior in mice by modulating the gut microbiota-brain axis.",
+      "url": "https://doi.org/10.1016/j.bbr.2026.116046",
+      "source": "PubMed — Behavioural brain research",
+      "one_liner": "BACKGROUND: Xiaochaihu Decoction (XCHD) has shown potential in treating neurological disorders, but its mechanisms in alleviating depression remain unclear. AIM OF THE STUDY: The aim of this study was to examine if the XCHD was able to alleviate depressive-like impairment in a mouse model of chronic mild stress. MATERIALS AND METHODS: Fifty male C57BL/6 m...",
+      "segment": 19,
+      "timestamp": 1394.37
+    },
+    {
+      "title": "Fucoxanthin: A Comprehensive Review on Digestion, Biotransformation, Microbiome Interaction, and Targeted Delivery.",
+      "url": "https://doi.org/10.1021/acs.jafc.5c12697",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "Fucoxanthin, a marine carotenoid with diverse bioactivities, has attracted increasing attention for its health-promoting potential. However, its gastrointestinal fate and targeted delivery remain insufficiently understood, limiting its translation into effective applications. This review summarizes current knowledge on fucoxanthin's digestion, biotransfor...",
+      "segment": 20,
+      "timestamp": 1440.35
+    },
+    {
+      "title": "Comparative Analysis of Gut Microbiota Diversity, Composition, and Metabolic Functions in Wild and Farmed Conomurex luhuanus.",
+      "url": "https://doi.org/10.1093/jambio/lxag068",
+      "source": "PubMed — Journal of applied microbiology",
+      "one_liner": "AIMS: Conomurex luhuanus is an economically important Indo-Pacific gastropod supporting shellcraft industries and coastal food security. This study aimed to compare gut microbiota diversity, composition, and functional potential between wild and farmed C. luhuanus to assess environmental effects and inform sustainable aquaculture. METHODS AND RESULTS: Gut...",
+      "segment": 21,
+      "timestamp": 1490.65
+    },
+    {
+      "title": "Systemic rhythmicity of host and bacterial bile acid amidates in the mouse.",
+      "url": "https://doi.org/10.1016/j.cels.2026.101541",
+      "source": "PubMed — Cell systems",
+      "one_liner": "Bacterial bile acid amidates (BBAAs) represent an emerging class of host-microbe co-metabolites formed when gut bacteria conjugate bile acids with amino acids beyond taurine and glycine. Although these conjugates have been shown to modulate immune signaling and epithelial integrity, their spatial and temporal distribution across host tissues remains poorl...",
+      "segment": 22,
+      "timestamp": 1541.6
+    },
+    {
+      "title": "Intestinal epithelial MHC class II induces encephalitogenic CD4 T cells and initiates central nervous system autoimmunity.",
+      "url": "https://doi.org/10.1126/sciimmunol.aec1627",
+      "source": "PubMed — Science immunology",
+      "one_liner": "The intestinal epithelium plays a critical role in immune-microbiota interactions, yet its contribution to systemic autoimmunity remains unclear. Here, we identify intestinal epithelial cells (IECs) as initiators of experimental autoimmune encephalomyelitis (EAE), a murine model of multiple sclerosis (MS). In both EAE mice and patients with MS, IECs up-re...",
+      "segment": 23,
+      "timestamp": 1594.59
+    },
+    {
+      "title": "A global metagenomic atlas of aging identifies a microbiota phase transition associated with disease risk.",
+      "url": "https://doi.org/10.1038/s41522-026-00970-4",
+      "source": "PubMed — NPJ biofilms and microbiomes",
+      "one_liner": "Biological aging has been associated with altered risk of aging-related diseases, but the contribution of the gut microbiota to this process remains poorly understood. Here, we constructed an interpretable gut microbiota age clock using metagenomic data from 8115 fecal samples across five continents. We discovered a key microbial perturbation occurring at...",
+      "segment": 24,
+      "timestamp": 1651.92
+    },
+    {
+      "title": "Vitamin D3 attenuates nitrogen mustard-induced dermal toxicity by enhancing microbial butyrate production via the intestinal VDR-α-defensin signaling pathway",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.24.713897",
+      "source": "bioRxiv — molecular biology",
+      "one_liner": "Nitrogen mustard (NM)-caused severe cutaneous damage lacks effective targeted therapies. Vitamin D3 (VD3) shows promise as a therapy for NM-induced dermal toxicity; however, the underlying mechanisms remain elusive. Herein, we initially confirmed that NM induced gut flora dysbiosis, characterized by a decrease of Akkermansia muciniphila (AKK) abundance, t...",
+      "segment": 25,
+      "timestamp": 1727.76
+    },
+    {
+      "title": "Diet-conditioned microbiota enhances fecal microbiota transplantation efficacy in alcoholic liver disease through caproic acid-PPARα signaling",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.25.714243",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Background and Aim: Fecal microbiota transplantation (FMT) in Alcohol-related liver disease (ALD) has shown therapeutic potential, with variable efficacy and unclear mechanism. Because dietary protein influences gut microbiota composition, we hypothesized that donor dietary preconditioning could enhance FMT efficacy. We therefore examined in a murine ALD ...",
+      "segment": 26,
+      "timestamp": 1844.58
+    },
+    {
+      "title": "Host-Candida auris interactions in the skin.",
+      "url": "https://doi.org/10.1371/journal.ppat.1014075",
+      "source": "PubMed — PLoS pathogens",
+      "one_liner": "Candida auris is an emerging, multidrug-resistant fungal pathogen that causes healthcare-associated outbreaks and life-threatening systemic infections. Unlike other Candida species, C. auris exhibits a distinct capacity for persistent skin colonization. In this review, we summarize our current understanding of clinical risk factors and host-microbe intera...",
+      "segment": 27,
+      "timestamp": 1982.8
+    },
+    {
+      "title": "Mechanism of arbutin in metabolic dysfunction-associated fatty liver disease based on multi-omics research.",
+      "url": "https://doi.org/10.1186/s40643-026-01032-5",
+      "source": "PubMed — Bioresources and bioprocessing",
+      "one_liner": "INTRODUCTION: Gut microbiota regulation is a key strategy for treating metabolic dysfunction-associated fatty liver disease (MAFLD). Arbutin (ARB) is a natural hydroquinone active agent with anti-inflammatory and antioxidant effects, as well as regulatory effects on the gut microbiota. However, its therapeutic effect on MAFLD and the responsible mechanism...",
+      "segment": 28,
+      "timestamp": 2143.71
+    },
+    {
+      "title": "Multi-omics reveals the involvement of endophytes in the growth of Moso bamboo (Phyllostachys edulis) shoots.",
+      "url": "https://doi.org/10.1038/s42003-025-09436-3",
+      "source": "PubMed — Communications biology",
+      "one_liner": "Moso bamboo (Phyllostachys edulis) exhibits extraordinary speed of growth. While its anatomical and hormonal features have been well studied, the contribution of microbial interactions to its rapid growth remains largely unknown. Here, we integrated 16S rRNA and ITS amplicon sequencing, phytohormone measurements, and root transcriptome analysis across fou...",
+      "segment": 29,
+      "timestamp": 2286.92
+    },
+    {
+      "title": "MiGPC: a comprehensive catalog of enzybiotics from environmental metagenomes.",
+      "url": "https://doi.org/10.1038/s41598-026-44250-9",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "Antimicrobial agents play a vital role in human and environmental health, with applications spanning medicine, food preservation, agriculture, and biotechnology. Among them, enzybiotics enzyme-based antimicrobials have emerged as powerful alternatives to conventional antibiotics due to their targeted mechanisms and lower propensity for resistance. Beyond ...",
+      "segment": 30,
+      "timestamp": 2431.27
+    },
+    {
+      "title": "Microbiota-Driven microglia reprogramming reverses depressive-like behaviors through Peripheral-to-Central immune crosstalk.",
+      "url": "https://doi.org/10.1038/s41380-026-03545-z",
+      "source": "PubMed — Molecular psychiatry",
+      "one_liner": "Major depressive disorder (MDD) is a major psychiatric condition associated with neuroimmune dysregulation. Microglia, the principal innate immune cells of the central nervous system, have been implicated in MDD. Nevertheless, the specific subpopulations involved and the mechanisms that govern their responses are still elusive. Here, we found that gut mic...",
+      "segment": 31,
+      "timestamp": 2592.38
+    },
+    {
+      "title": "Lactobacillus paragasseri LPG-9 reduces placental inflammation in intrahepatic cholestasis of pregnancy by regulating TGR5 in mice.",
+      "url": "https://doi.org/10.1038/s42003-026-09869-4",
+      "source": "PubMed — Communications biology",
+      "one_liner": "Intrahepatic cholestasis of pregnancy (ICP), a liver disorder associated with adverse fetal outcomes, is characterized by elevated bile acid levels and placental inflammation by the TGR5. However, the interplay among the gut microbiome, bile acid metabolism, and ICP-associated placental inflammation remains unexplored. We aimed to investigate the role of ...",
+      "segment": 32,
+      "timestamp": 2747.51
+    },
+    {
+      "title": "Microecological Interventions against Antibiotic-Induced Dysbiosis and Related Resistome Expansion.",
+      "url": "https://doi.org/10.4014/jmb.2601.01009",
+      "source": "PubMed — Journal of microbiology and biotechnology",
+      "one_liner": "Antibiotic exposure and the emergence of antimicrobial resistance are critical global health threats, with antibiotic-induced gut dysbiosis contributing to increased mortality, prolonged illness, and significant economic burden. This review introduces the complex interplay between antibiotic exposure, gut microbiota dysbiosis, and the dissemination of ant...",
+      "segment": 33,
+      "timestamp": 2899.81
+    },
+    {
+      "title": "Exploring the role of gut methanogenic archaea in childhood stunting in Aceh Province, Indonesia.",
+      "url": "https://doi.org/10.1016/j.anaerobe.2026.103040",
+      "source": "PubMed — Anaerobe",
+      "one_liner": "BACKGROUND: Emerging evidence highlights the critical role of gut microbiota in childhood growth; however, the contribution of methanogenic archaea remains underexplored. In this study, we investigated the involvement of gut methanogens in linear growth impairment by analyzing their abundance, diversity, methanogenesis, and interactions with bacterial sho...",
+      "segment": 34,
+      "timestamp": 2951.05
+    },
+    {
+      "title": "Targeting P2X7 receptor/NLRP1 inflammasome axis and gut dysbiosis: A mechanistic review of pyroptosis in metabolic inflammation.",
+      "url": "https://doi.org/10.1016/j.yexmp.2026.105041",
+      "source": "PubMed — Experimental and molecular pathology",
+      "one_liner": "BACKGROUND: Obesity and type 2 diabetes (T2D) are chronic metabolic disorders characterized by persistent low-grade systemic inflammation. While the NLRP3 inflammasome is well-documented, the NLRP1 inflammasome has recently emerged as a proximal molecular \"\"tripwre\" that initiates pyroptotic cell death and cytokine maturation, driving metabolic decline. M...",
+      "segment": 35,
+      "timestamp": 2999.52
+    },
+    {
+      "title": "A next-generation probiotic strain for gut health: Bacteroides cellulosilyticus LYH2 variant with anti-inflammatory and metabolic advantages.",
+      "url": "https://doi.org/10.1016/j.ebiom.2026.106232",
+      "source": "PubMed — EBioMedicine",
+      "one_liner": "BACKGROUND: The rising global incidence of inflammatory bowel disease (IBD) underscores the pressing demand for effective therapeutic approaches. Among promising next-generation probiotics (NGPs), certain Bacteroides species, notably Bacteroides cellulosilyticus, have attracted increasing interests. However, their mechanisms of action remain incompletely ...",
+      "segment": 36,
+      "timestamp": 3052.56
+    },
+    {
+      "title": "Altered serum 3β-hydroxy bile acids in major depressive disorder and associations with symptom dimensions.",
+      "url": "https://doi.org/10.1016/j.jad.2026.121688",
+      "source": "PubMed — Journal of affective disorders",
+      "one_liner": "Bile acids are gut microbiota-derived signaling molecules that participate in gut-brain axis communication, and mounting evidence implicates altered bile acid metabolism and associated gut-brain axis dysfunction in major depressive disorder (MDD). Here we investigated if serum 3β-hydroxy bile acid profiles are abnormal in MDD and associated with symptom d...",
+      "segment": 37,
+      "timestamp": 3103.05
+    },
+    {
+      "title": "The role of Lactobacillus in dibutyl phthalate-induced gut and liver injury: Probiotic intervention and multi-omics evidence.",
+      "url": "https://doi.org/10.1016/j.ecoenv.2026.120051",
+      "source": "PubMed — Ecotoxicology and environmental safety",
+      "one_liner": "BACKGROUND: Dibutyl phthalate (DBP), a widespread environmental contaminant, induces hepatotoxicity. While the gut-liver axis is implicated, the specific role of gut microbiota, particularly key beneficial genera, remains obscure. OBJECTIVE: This study aimed to elucidate whether Lactobacillus depletion is a central event in DBP-induced gut-liver axis disr...",
+      "segment": 38,
+      "timestamp": 3148.41
+    },
+    {
+      "title": "Proline Alleviates Low-Protein Diet-Induced Adverse Pregnancy Outcomes by Enriching",
+      "url": "https://doi.org/10.1021/acs.jafc.5c12788",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "Alterations in gut microbiota and its metabolites are associated with placental and fetal development. Although proline has been shown to enhance placental function and improve pregnancy outcomes, its interaction with the gut microbiota remains poorly understood. In this study, a gestational low-protein diet (LPD) leads to decreased fetal birth weight and...",
+      "segment": 39,
+      "timestamp": 3203.89
+    }
+  ]
+}
