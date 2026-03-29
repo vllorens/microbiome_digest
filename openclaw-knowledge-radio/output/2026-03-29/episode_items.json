@@ -1,0 +1,195 @@
+{
+  "timestamps": [
+    0.0,
+    47.85,
+    220.12,
+    359.2,
+    491.05,
+    616.56,
+    756.89,
+    876.4,
+    1040.13,
+    1087.48,
+    1134.22,
+    1205.5,
+    1252.08,
+    1390.39,
+    1510.67,
+    1574.99,
+    1622.36,
+    1779.29,
+    1902.5,
+    1950.0,
+    1993.5
+  ],
+  "items": [
+    {
+      "title": "Proton FLASH Exposure Preserves Gut Commensal Microbiomes and Spares Intestinal Stem Cells.",
+      "url": "https://doi.org/10.1002/advs.202519249",
+      "source": "PubMed — Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "one_liner": "Emerging evidence shows that Proton FLASH radiotherapy can spare normal tissues while maintaining anti-tumor efficacy. However, its impact on intestinal stem cells (ISCs) and the gut microbiome remains unclear. Gut microbiome influences ISC's radiosensitivity. In a mouse model of abdominal irradiation, Proton FLASH exposure exhibited improved survival and...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Short communication: Oral microbiome as a potential proxy for grazing livestock methane emissions",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.26.714587",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Enteric methane emissions from ruminant livestock contribute to global warming, creating an urgent need for effective mitigation strategies that do not compromise animal productivity and welfare. Methanogenic archaea within the rumen microbiome drive enteric methane emissions. However, large-scale rumen-fluid sampling in commercial production systems is i...",
+      "segment": 1,
+      "timestamp": 47.85
+    },
+    {
+      "title": "Gut microbiota within-host evolution enforces colonization resistance against enteric infection",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.27.714693",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Limited resource availability in the gut promotes competitive interactions between bacteria, which drive adaptive within-host evolution. While adaptive evolution of bacterial communities has been increasingly studied in the recent years, its functional implications for host physiology remain unknown. Here, we show that within-host evolution of the human c...",
+      "segment": 2,
+      "timestamp": 220.12
+    },
+    {
+      "title": "Gut microbiota and metabolomic alterations underlying the therapeutic effects of SQJZ capsules in a rat model of chronic renal failure.",
+      "url": "https://doi.org/10.1007/s00210-026-05210-2",
+      "source": "PubMed — Naunyn-Schmiedeberg's archives of pharmacology",
+      "one_liner": "The objective of this study is to investigate the therapeutic effects of Shengqing Jiangzhuo (SQJZ) Capsules on chronic renal failure (CRF) by examining their influence on intestinal microbiota and metabolomic profiles. SQJZ's active ingredients were identified using UPLC-Q-Exactive-Orbitrap-MS. A chronic renal failure model was induced in rats via 16 wee...",
+      "segment": 3,
+      "timestamp": 359.2
+    },
+    {
+      "title": "Gut microbiome community structure correlates with different behavioral phenotypes in the Belyaev Farm-Fox Experiment.",
+      "url": "https://doi.org/10.1038/s42003-026-09717-5",
+      "source": "PubMed — Communications biology",
+      "one_liner": "Domestication represents one of the largest biological shifts of life on Earth, and for many animal species, behavioral selection is thought to facilitate early stages of the process. The gut microbiome of animals can respond to environmental changes and have diverse and powerful effects on host behavior. As such, we hypothesize that selection for tame be...",
+      "segment": 4,
+      "timestamp": 491.05
+    },
+    {
+      "title": "Microbiome and metabolomics analysis of different bryophytes under cadmium stress.",
+      "url": "https://doi.org/10.1186/s12870-026-08651-2",
+      "source": "PubMed — BMC plant biology",
+      "one_liner": "",
+      "segment": 5,
+      "timestamp": 616.56
+    },
+    {
+      "title": "Impact of ileostomy reversal on gut microbiome and metabolome in rectal cancer: a review of mechanisms and clinical consequences.",
+      "url": "https://doi.org/10.1007/s00423-026-04031-4",
+      "source": "PubMed — Langenbeck's archives of surgery",
+      "one_liner": "",
+      "segment": 6,
+      "timestamp": 756.89
+    },
+    {
+      "title": "A Segatella Copri-centered Gut Microbiota-mediated Metabolic Dysregulation Associated with Transition from Asymptomatic to Symptomatic Intracranial Atherosclerosis.",
+      "url": "https://doi.org/10.1007/s12975-026-01428-7",
+      "source": "PubMed — Translational stroke research",
+      "one_liner": "The mechanisms underlying the continuum from asymptomatic intracranial atherosclerotic stenosis (aICAS) to symptomatic intracranial large-artery atherosclerotic ischemic stroke (iLAA-IS) remain unclear. We investigated the gut microbiota-metabolite axis in this transition to identify predictive biomarkers and clarify key functional pathways. In a case-con...",
+      "segment": 7,
+      "timestamp": 876.4
+    },
+    {
+      "title": "Interactions of vitamins and gut microbiota in neurodevelopmental disorders.",
+      "url": "https://doi.org/10.1016/j.bbr.2026.116028",
+      "source": "PubMed — Behavioural brain research",
+      "one_liner": "Good nutritional status in early life is vital for neurodevelopment, but eating disorders like picky eating heighten risks of nutritional imbalance and dysbiosis. Dysregulated gut microbiomes are increasingly linked to gastrointestinal issues and neurodevelopmental disorders. Vitamin deficiency may aggravate these conditions, emphasizing the need for focu...",
+      "segment": 8,
+      "timestamp": 1040.13
+    },
+    {
+      "title": "Gut microbiota-derived indole metabolites in depression: mechanisms and therapeutic potential.",
+      "url": "https://doi.org/10.1016/j.ejphar.2026.178720",
+      "source": "PubMed — European journal of pharmacology",
+      "one_liner": "Depression, a prevalent neuropsychiatric disorder with complex pathophysiology and often insufficient treatment efficacy, is increasingly associated with disruptions in the gut-brain axis. This review focuses on the underappreciated role of the microbial indole pathway, a key route in tryptophan metabolism orchestrated by the gut microbiota. We synthesize...",
+      "segment": 9,
+      "timestamp": 1087.48
+    },
+    {
+      "title": "Mining of food metagenomes reveals an unexplored diversity of dsDNA bacteriophages.",
+      "url": "https://doi.org/10.1038/s41522-026-00941-9",
+      "source": "PubMed — NPJ biofilms and microbiomes",
+      "one_liner": "Bacteriophages are key drivers of microbial ecology, co-existing and co-evolving with bacteria across diverse environments. Limitations in culturing, alongside advances in sequencing and bioinformatics, have driven the use of metagenomics to explore viral diversity. Viral-specific analysis of >3000 food metagenomes from cFMD produced the FVGC, comprising ...",
+      "segment": 10,
+      "timestamp": 1134.22
+    },
+    {
+      "title": "Circulatory dietary and gut-derived metabolites predict early cognitive decline.",
+      "url": "https://doi.org/10.1080/19490976.2026.2649487",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "INTRODUCTION: A key component of disease prevention is the identification of at-risk individuals. Microbial dysbiosis in the early stages of cognitive decline and Alzheimer's disease (AD) and can modulate the levels of microbe-derived metabolites (MDM), thought to contribute to neuroinflammation, blood‒brain barrier dysfunction, and neuronal degeneration....",
+      "segment": 11,
+      "timestamp": 1205.5
+    },
+    {
+      "title": "Unexplored Yeast diversity in Seed Microbiota",
+      "url": "https://www.biorxiv.org/content/10.1101/2024.11.27.625647",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Yeasts are known to be fantastic biotechnological resources for medical, food, and industrial applications, but their potential remains untapped in agriculture, especially for plant biostimulation and biocontrol. In particular, yeasts have been reported as part of the core microbiome of seeds using next generation sequencing methods, but their diversity a...",
+      "segment": 12,
+      "timestamp": 1252.08
+    },
+    {
+      "title": "A metagenomic exploration of the bacterial community composition of two deep-sea Pheronema carpenteri sponge aggregations from the North Atlantic; insights into ecosystem services",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.27.714666",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Aims Sponge microbiomes have been extensively studied, in part due to their potential as sources of novel antimicrobials and other biologics, with most research focusing on Demosponges. Here, we investigate the Hexactinellid sponge Pheronema carpenteri, previously identified as a promising source of antibiotic-producing bacteria. Methods Using next-genera...",
+      "segment": 13,
+      "timestamp": 1390.39
+    },
+    {
+      "title": "Metagenomic strain-resolved DNA modification patterns link extrachromosomal genetic elements to host strains",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.27.714056",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "DNA modification is central to microbial defense against extrachromosomal genetic elements (ECEs), consequently ECEs tend to adopt their host's modification patterns. Shared ECE-host modification patterns enable linking ECEs to their hosts, but modification detection tools are designed for single genomes and are ineffective at metagenome scale. Here, we p...",
+      "segment": 14,
+      "timestamp": 1510.67
+    },
+    {
+      "title": "Atg2 coordinates microbial metabolite signaling and epigenetic remodeling to maintain intestinal lipid homeostasis in Drosophila.",
+      "url": "https://doi.org/10.1186/s40168-026-02356-2",
+      "source": "PubMed — Microbiome",
+      "one_liner": "BACKGROUND: The autophagy-related protein Atg2 maintains intestinal homeostasis by preventing lipid accumulation and microbial dysbiosis; however, the mechanisms by which these pathologies interconnect remain unknown. RESULTS: We identify a microbiota‒metabolite‒epigenome axis through which Atg2 deficiency triggers metabolic‒immune cascades in the Drosoph...",
+      "segment": 15,
+      "timestamp": 1574.99
+    },
+    {
+      "title": "Multi-omics and network pharmacology reveal the mechanisms of Scutellaria barbata D.Don and Scleromitrion diffusum (Willd.) R.J.Wang against pancreatic cancer.",
+      "url": "https://doi.org/10.1038/s41598-026-45676-x",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "Pancreatic cancer (PC) is a common gastrointestinal malignancy whose initiation and progression may be closely linked to the gut microbiota. Previous research indicates that Scutellaria barbata D. Don and Scleromitrion diffusum (Willd.) R.J. Wang (SB-SD) exhibit diverse biological activities, such as anti-inflammatory, antioxidant, and antitumor effects, ...",
+      "segment": 16,
+      "timestamp": 1622.36
+    },
+    {
+      "title": "Self-actuated probiotic-nanozyme hybrid system with mucus penetration, biofilm eradication and microbiota regulation for Helicobacter pylori infection.",
+      "url": "https://doi.org/10.1186/s12951-026-04316-2",
+      "source": "PubMed — Journal of nanobiotechnology",
+      "one_liner": "Helicobacter pylori (H. pylori) infection has emerged as a serious risk factor for global human health. Current antibiotic-based clinical eradication therapies still have many challenges, including inadequate drug permeability across the gastric mucus barrier, H. pylori biofilm-induced antibiotic resistance and recurrent infections, as well as gut dysbact...",
+      "segment": 17,
+      "timestamp": 1779.29
+    },
+    {
+      "title": "High-Throughput Centrifugal Microfluidic Nucleic Acid Diagnostic System Based on an Integrated Spatial Encoding Strategy for Simultaneous Detection of Gut Bacteria and Gut Virome.",
+      "url": "https://doi.org/10.1021/acssensors.5c03991",
+      "source": "PubMed — ACS sensors",
+      "one_liner": "Infectious intestinal disease (IID) poses a significant threat to human health and development due to its high morbidity and mortality rates. However, current diagnostics are challenged by diverse human enteropathogens and difficulties in simultaneously detecting gut bacteria and the virome. Herein, we propose a high-throughput centrifugal microfluidic nu...",
+      "segment": 18,
+      "timestamp": 1902.5
+    },
+    {
+      "title": "Platelet-rich plasma ameliorates knee osteoarthritis in rats by modulating the abundance of gut",
+      "url": "https://doi.org/10.1080/1061186X.2026.2648088",
+      "source": "PubMed — Journal of drug targeting",
+      "one_liner": "BACKGROUND: Knee osteoarthritis (KOA) involves gut-joint axis dysfunction. Platelet-rich plasma (PRP) shows efficacy, but mechanisms remain unclear. METHOD: 16S rRNA sequencing identified RESULT: In rats, CONCLUSION: Combining",
+      "segment": 19,
+      "timestamp": 1950.0
+    },
+    {
+      "title": "Plant Coumarins Modulate Natural Product Biosynthesis in a",
+      "url": "https://doi.org/10.1021/acs.jnatprod.5c01626",
+      "source": "PubMed — Journal of natural products",
+      "one_liner": "The plant microbiome plays a central role in regulating plant health and resilience, providing eco-friendly alternatives to agrochemicals. Plant-associated",
+      "segment": 20,
+      "timestamp": 1993.5
+    }
+  ]
+}
