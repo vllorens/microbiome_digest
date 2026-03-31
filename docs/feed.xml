@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Mar 2026 05:28:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 05:18:00 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-03-31</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-31/podcast_2026-03-31.mp3</guid>
+      <pubDate>Tue, 31 Mar 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-31/podcast_2026-03-31.mp3" length="20893340" type="audio/mpeg" />
+      <description>deluxpore is a Nextflow pipeline that enables reliable, automated demultiplexing of Nanopore sequencing reads derived from Illumina dual-indexed library preparations, specifically NEBNext and Nextera, thereby facilitating a hybrid target capture metagenomics and long-read sequencing workflow. | The pipeline uses BLAST alignment to identify adapter fragments containing the dual-index sequences from Illumina libraries. | deluxpore automates the entire demultiplexing process, making it possible to combine the high specificity of Illumina dual-indexing with the long-read advantages of Nanopore sequencing.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>deluxpore is a Nextflow pipeline that enables reliable, automated demultiplexing of Nanopore sequencing reads derived from Illumina dual-indexed library preparations, specifically NEBNext and Nextera, thereby facilitating a hybrid target capture metagenomics and long-read sequencing workflow. | The pipeline uses BLAST alignment to identify adapter fragments containing the dual-index sequences from Illumina libraries. | deluxpore automates the entire demultiplexing process, making it possible to combine the high specificity of Illumina dual-indexing with the long-read advantages of Nanopore sequencing.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-03-30</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-30/podcast_2026-03-30.mp3</guid>
       <pubDate>Mon, 30 Mar 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-30/podcast_2026-03-30.mp3" length="14027660" type="audio/mpeg" />
-      <description>A new study in the Journal of the Science of Food and Agriculture explores how polysaccharides from Schisandra chinensis (SPJ) may combat Alzheimer&#x27;s disease by modulating gut microbiota and metabolism. | A new study in Insect Science reveals that the gut microbiome&#x27;s influence on pathogen susceptibility varies significantly across four Drosophilidae species. | This item from *The Journal of Gastroenterology* is currently unavailable in full text.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-30/podcast_2026-03-30.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>A new study in the Journal of the Science of Food and Agriculture explores how polysaccharides from Schisandra chinensis (SPJ) may combat Alzheimer&#x27;s disease by modulating gut microbiota and metabolism. | A new study in Insect Science reveals that the gut microbiome&#x27;s influence on pathogen susceptibility varies significantly across four Drosophilidae species. | This item from *The Journal of Gastroenterology* is currently unavailable in full text.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>

@@ -1,0 +1,366 @@
+{
+  "timestamps": [
+    0.0,
+    118.8,
+    265.31,
+    316.43,
+    371.91,
+    533.93,
+    651.05,
+    771.81,
+    821.42,
+    869.46,
+    916.16,
+    964.66,
+    1006.56,
+    1057.32,
+    1104.88,
+    1156.6,
+    1207.78,
+    1320.48,
+    1370.5,
+    1414.03,
+    1469.25,
+    1521.52,
+    1577.38,
+    1705.25,
+    1891.03,
+    2042.68,
+    2090.54,
+    2147.12,
+    2189.72,
+    2236.23,
+    2281.46,
+    2403.96,
+    2453.39,
+    2501.87,
+    2545.5,
+    2584.04,
+    2631.41,
+    2680.39,
+    2732.92,
+    2783.53
+  ],
+  "items": [
+    {
+      "title": "deluxpore: a Nextflow pipeline for demultiplexing Illumina dual-indexed Nanopore libraries",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.27.714410",
+      "source": "Jaime Huerta-Cepas (bioRxiv)",
+      "one_liner": "The combination of target capture metagenomics and long-read sequencing represents a powerful approach for the characterisation of rare microbial taxa and their functional genes. However, standard Nanopore library preparations are incompatible with established capture protocols. A possible workaround is the preparation of Illumina libraries prior to ONT sequencing. Currently, this hybrid approach",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Early life bacteria and sibling exposure associate with restoration of the infant gut microbiome after cesarean section.",
+      "url": "https://doi.org/10.1038/s41467-026-71185-6",
+      "source": "PubMed — Nature communications",
+      "one_liner": "Long-term gut microbiome perturbation following Cesarean section (CS) delivery has been associated with an increased risk of developing childhood asthma. Whether such CS-associated microbiome composition can be modulated by environmental exposures or ecological interactions, and thereby mitigate disease risk, is unclear. In the COPSAC",
+      "segment": 1,
+      "timestamp": 118.8
+    },
+    {
+      "title": "Sialic acid exacerbates polycystic ovary syndrome in mice by modulating gut microbiota-mediated bile acid metabolism and FXR activation",
+      "url": "https://www.nature.com/articles/s41467-026-71365-4",
+      "source": "Nature - Microbiome Topic",
+      "one_liner": "",
+      "segment": 2,
+      "timestamp": 265.31
+    },
+    {
+      "title": "Gut Microbiome Signatures Differ in Cirrhosis With and Without Hepatocellular Carcinoma in a Southeast Asian Cohort.",
+      "url": "https://doi.org/10.1111/jgh.70358",
+      "source": "PubMed — Journal of gastroenterology and hepatology",
+      "one_liner": "BACKGROUND: Gut microbiota, microbial metabolites, and inflammatory cytokines play key roles in the pathogenesis of cirrhosis and hepatocellular carcinoma (HCC); however, data from Southeast Asia are limited. This study examined microbial composition, intestinal permeability, butyrate-related gene expression, and cytokine profiles in Thai patients with ci...",
+      "segment": 3,
+      "timestamp": 316.43
+    },
+    {
+      "title": "Multi-cohort Analysis Reveals Microbiome Signatures Associated with Drug Response in New-Onset Rheumatoid Arthritis",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.30.715090",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "The human gut microbiome influences treatment outcomes, but whether microbiome signatures of drug response generalize across cohorts remains unclear. Here, we perform a multi-cohort analysis (3 cohorts, N=100 patients) to determine whether cross-cohort microbial signatures are associated with methotrexate (MTX) response in new-onset rheumatoid arthritis (...",
+      "segment": 4,
+      "timestamp": 371.91
+    },
+    {
+      "title": "Characterisation of vaginal Lactobacillus isolates from South African women towards the development of a biotherapeutic to optimise the vaginal microbiome",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.26.714511",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "HIV remains among the worlds most serious healthcare challenges, with adolescent girls and young women in sub-Saharan Africa at particularly high risk of infection. Bacterial vaginosis (BV) is a key risk factor for HIV acquisition, however current treatment strategies are limited. Optimal vaginal Lactobacillus spp. protect against BV and HIV, largely thro...",
+      "segment": 5,
+      "timestamp": 533.93
+    },
+    {
+      "title": "Oral supplementation of sodium butyrate prevents lipid metabolism disorders and intestinal injury by modulating immunity, intestinal barrier functions, and gut microbiota in a corticosterone-induced chronic stress model in mice.",
+      "url": "https://doi.org/10.1007/s44154-026-00289-2",
+      "source": "PubMed — Stress biology",
+      "one_liner": "In intensive livestock and poultry farming, chronic stress poses a significant threat to animal health, primarily through its impact on butyric acid levels and intestinal microbiota balance. In our previous study, we found that the intestinal butyric acid level was significantly reduced in chronic stress models, suggesting that butyrate supplementation sh...",
+      "segment": 6,
+      "timestamp": 651.05
+    },
+    {
+      "title": "Positive effects of highland barley β-glucan intervention on lactose fermentation efficiency and metabolites: unveiling the responses of the gut microbiota through an in vitro fermentation model.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.118386",
+      "source": "PubMed — Food research international (Ottawa, Ont.)",
+      "one_liner": "The fermentation of gut microbiota represents a critical metabolic pathway for lactose-intolerant individuals to process dietary lactose. Using an in vitro fermentation model with patient-derived fecal samples, this study innovatively employed highland barley water-soluble β-glucan (WHBG) as an intervention to modulate lactose metabolism. After 48 h of fe...",
+      "segment": 7,
+      "timestamp": 771.81
+    },
+    {
+      "title": "Phenolic compounds' impact on gut microbiota: Insights from in vitro batch fecal fermentation for composition modulation.",
+      "url": "https://doi.org/10.1016/j.foodres.2025.118167",
+      "source": "PubMed — Food research international (Ottawa, Ont.)",
+      "one_liner": "The relationship between phenolic compounds and gut microbiota (has been widely studied to explore the health benefits of these bioactive dietary compounds. Phenolic compounds are metabolized by gut microbiota, while also modulating its composition. However, the individual effects of these compounds on human gut microbiota remain underexplored. To address...",
+      "segment": 8,
+      "timestamp": 821.42
+    },
+    {
+      "title": "Comparative in vitro digestibility of human milk and infant formulas: In-depth simulation of macronutrient breakdown and gut microbiota response.",
+      "url": "https://doi.org/10.1016/j.foodres.2025.118285",
+      "source": "PubMed — Food research international (Ottawa, Ont.)",
+      "one_liner": "Breastfeeding practices are often impeded by multifactorial circumstances, leading to the need for infant formulas. Previous studies have determined the differences in performance between human milk (HM) and infant formulas (IFs) in terms of macronutrient digestibility, impact on colonic microbiota, and immunomodulatory effects. However, few have adopted ...",
+      "segment": 9,
+      "timestamp": 869.46
+    },
+    {
+      "title": "Ophiopogon japonicus Polysaccharide Ameliorates Pulmonary Fibrosis via Gut Microbiota-Metabolite Crosstalk.",
+      "url": "https://doi.org/10.1016/j.micpath.2026.108464",
+      "source": "PubMed — Microbial pathogenesis",
+      "one_liner": "Despite the clinical application of Ophiopogon japonicus in idiopathic pulmonary fibrosis (PF), its key anti-fibrotic components and underlying mechanisms remain poorly defined. Using a bleomycin-induced murine PF model, we systematically compared the efficacy of the total extract (OJTE), polysaccharides (OJTP), saponins (OJTS), and flavonoids (OJTF). The...",
+      "segment": 10,
+      "timestamp": 916.16
+    },
+    {
+      "title": "Vinegar-processed Paeonia lactiflora Pall. ameliorates alcoholic liver disease through the modulation of gut microbiota and FXR-FGF15 gut-liver axis.",
+      "url": "https://doi.org/10.1016/j.jep.2026.121593",
+      "source": "PubMed — Journal of ethnopharmacology",
+      "one_liner": "ETHNOPHARMACOLOGICAL RELEVANCE: Paeonia lactiflora Pall. (PR) is a traditional Chinese medicine (TCM) renowned for its actions in nourishing blood and soothing liver. Guided by the theory of \"vinegar processing into the liver meridian\", vinegar-processed PR (PRV) is clinically preferred for liver diseases owing to its enhanced properties in soothing liver...",
+      "segment": 11,
+      "timestamp": 964.66
+    },
+    {
+      "title": "Gut Microbiome Dysbiosis Promotes Gallstone Formation via Bile Acid Metabolic Disorder: A Multiomics Study.",
+      "url": "https://doi.org/10.1096/fj.202503254RRRRRR",
+      "source": "PubMed — FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "one_liner": "Gallstone disease is a common global digestive disorder. This study intends to analyze gut microbiota-gallstone disease interactions, to inform disease mechanism and microbiota-targeted prevention and treatment strategies. Participants were recruited from health check-up populations, outpatients, and inpatients. Basic information and biological samples we...",
+      "segment": 12,
+      "timestamp": 1006.56
+    },
+    {
+      "title": "Effect of Diosmetin on Gut Microbiota and Serum Metabolites in Acute Pancreatitis Mice: A Metagenomic and Metabolomic Study.",
+      "url": "https://doi.org/10.1096/fj.202503650RRR",
+      "source": "PubMed — FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "one_liner": "Diosmetin is a bioactive flavonoid that exhibits well-documented antioxidant, anti-inflammatory, and anti-tumor properties. However, its potential to attenuate acute pancreatitis (AP) progression through gut microbiota modulation has not yet been elucidated. In this study, mice were pretreated with varying oral doses of diosmetin for 1 week before AP indu...",
+      "segment": 13,
+      "timestamp": 1057.32
+    },
+    {
+      "title": "Aging-Dependent Hepatic YAP1 Reduction Promotes Metabolic Dysfunction-Associated Steatotic Liver Disease via Gut Microbiota Dysbiosis With Akkermansia muciniphila Downregulation.",
+      "url": "https://doi.org/10.1096/fj.202504071R",
+      "source": "PubMed — FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "one_liner": "Aging is associated with progressive liver dysfunction and increased risk of metabolic dysfunction-associated steatotic liver disease (MASLD), although the underlying molecular mechanisms remain incompletely understood. In this study, we explored the role of Yes-associated protein 1 (YAP1) in liver aging by using adeno-associated virus serotype 8 (AAV8) b...",
+      "segment": 14,
+      "timestamp": 1104.88
+    },
+    {
+      "title": "Aerobic Exercise Mitigates Perimenopausal Dysfunction and Is Associated With Gut Microbiota Remodeling and Multi-Organ Crosstalk.",
+      "url": "https://doi.org/10.1096/fj.202504419R",
+      "source": "PubMed — FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "one_liner": "Perimenopause represents a multifactorial physiological transition characterized by metabolic disruption, inflammation, oxidative stress, bone loss, reproductive decline, and heightened anxiety risk. This study establishes a letrozole-induced perimenopausal zebrafish model to evaluate whether aerobic exercise (AE) is associated with restored systemic home...",
+      "segment": 15,
+      "timestamp": 1156.6
+    },
+    {
+      "title": "Fusobacterium nucleatum drives colorectal cancer progression through the circPTBP3/miR-760/PUM1 axis.",
+      "url": "https://doi.org/10.1038/s41388-026-03746-4",
+      "source": "PubMed — Oncogene",
+      "one_liner": "Circular RNAs (circRNAs) perform critical functions in cancer biology, commonly serving as microRNA (miRNA) sponges to modulate gene expression. Nevertheless, their participation in gut microbiota-driven colorectal cancer (CRC) has yet to be substantially investigated. Fusobacterium nucleatum (F. nucleatum), a well-recognized oncogenic bacterium in the hu...",
+      "segment": 16,
+      "timestamp": 1207.78
+    },
+    {
+      "title": "Multi-meta-omics reveal distinct microbial genomic profiles and metabolic dysregulation in non-celiac gluten sensitivity.",
+      "url": "https://doi.org/10.1128/msphere.00856-25",
+      "source": "PubMed — mSphere",
+      "one_liner": "UNLABELLED: Non-celiac gluten sensitivity (NCGS) is an emerging diagnosis, and its symptoms overlap with irritable bowel syndrome (IBS). The gut microbiome is likely to play a role in the pathogenesis of NCGS. We analyzed the gut microbiome in patients with NCGS and in patients with IBS, using shotgun metagenomics and metabolomics of fecal samples. Analys...",
+      "segment": 17,
+      "timestamp": 1320.48
+    },
+    {
+      "title": "Biological activities and bioactive constituents of Flammulina velutipes: An updated systematic review.",
+      "url": "https://doi.org/10.1002/jsfa.70609",
+      "source": "PubMed — Journal of the science of food and agriculture",
+      "one_liner": "Flammulina velutipes (enokitake) is an edible mushroom recognized for both its nutritional and medicinal properties. It exhibits a broad spectrum of biological activities, including antioxidant, anti-inflammatory, antitumor, immunomodulatory, and gut microbiota-regulating effects. These effects are primarily attributed to bioactive compounds such as polys...",
+      "segment": 18,
+      "timestamp": 1370.5
+    },
+    {
+      "title": "Dysregulated eating behaviour and microbiota-based interventions targeting eating disorders and food addiction",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/19490976.2026.2647535?af=R",
+      "source": "Gut Microbes",
+      "one_liner": "Volume 18, Issue 1, December 2026 .",
+      "segment": 19,
+      "timestamp": 1414.03
+    },
+    {
+      "title": "Dysregulated eating behaviour and microbiota-based interventions targeting eating disorders and food addiction.",
+      "url": "https://doi.org/10.1080/19490976.2026.2647535",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "The consumption of highly processed, hyperpalatable food in Western societies increases the risk of developing obesity and compulsive eating behaviors, which include food addiction (FA) and eating disorders (EDs), such as bulimia nervosa (BN) and binge eating disorder (BED). These behaviors can lead to a range of health consequences, including cardiovascu...",
+      "segment": 20,
+      "timestamp": 1469.25
+    },
+    {
+      "title": "The chicken gut virome: spatial structuring and extensive diversity of 19,778 viral populations.",
+      "url": "https://doi.org/10.1128/msystems.00191-26",
+      "source": "PubMed — mSystems",
+      "one_liner": "UNLABELLED: Viral communities, especially phages, affect prokaryotic diversity and thus influence the host's metabolic processes. However, the makeup and role of the chicken gut virome remain poorly understood. To address this gap, we mined 1,458 chicken gut metagenomes and 56 viral-enriched samples to recover viral sequences and assemble a comprehensive ...",
+      "segment": 21,
+      "timestamp": 1521.52
+    },
+    {
+      "title": "A Droplet Digital PCR Assay for Quantification of Bacteriophage Viral Vector Titer and Purity.",
+      "url": "https://www.biorxiv.org/content/10.1101/2024.11.20.624577",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Purpose: Bacteriophage (phage) based vectors offer considerable promise as tools for tuning the microbiome with molecular and genetic precision. However, standardized methods to rigorously characterize phage vectors remain lacking. Here, we present an optimized digital droplet PCR (ddPCR)-based assay for quantifying both the purity and potency of phage ve...",
+      "segment": 22,
+      "timestamp": 1577.38
+    },
+    {
+      "title": "Personalized microbiotas (counter-)select for antibiotic resistant strains",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.29.715108",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Antibiotic resistant pathogens are an increasing public health threat, as development of novel therapeutics is outpaced by resistance emergence and dissemination. Approaches to slow down or even revert antibiotic resistance are necessary to maintain efficacy of both existing and new antibiotics. Such approaches exploit the fitness cost of resistance eleme...",
+      "segment": 23,
+      "timestamp": 1705.25
+    },
+    {
+      "title": "Probiotic Lactiplantibacillus plantarum VB165 improves metabolic disorders in Insulin-Resistant Mice",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.29.715178",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "This study investigated the effects of Lactiplantibacillus plantarum VB165, a probiotic strain with intrinsic -glucosidase inhibitor (AGI) activity, on metabolic disorders in high-fat diet (HFD)-induced insulin-resistant (IR) mice. Male C57BL/6 mice were divided into four groups: normal control diet (NCD), NCD supplemented with VB165, HFD, and HFD supplem...",
+      "segment": 24,
+      "timestamp": 1891.03
+    },
+    {
+      "title": "A host-directed virulence factor of Clostridium perfringens is modulated by gut commensal strains",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.28.714987",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "In a healthy host, the residential microbes help regulate the growth of pathobionts, which are common members of the human gut microbiome, preventing them from causing diseases, including infections, under certain conditions. In cases of dysbiosis, this protection may be compromised. Targeted microbiome modulation offers a promising approach to restore he...",
+      "segment": 25,
+      "timestamp": 2042.68
+    },
+    {
+      "title": "methbiome: reference-based DNA methylation profiling of long-read metagenomic data",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.28.714822",
+      "source": "bioRxiv — bioinformatics",
+      "one_liner": "Summary: Long-read DNA sequencing technologies collect base modification information, but their capacity to profile epigenetic signals has not been widely explored within metagenomic context. Here, we present a novel pipeline consolidating key steps of meta-epigenomic profiling. methbiome can process both Oxford Nanopore and PacBio long-reads within a ref...",
+      "segment": 26,
+      "timestamp": 2090.54
+    },
+    {
+      "title": "Investigating the resistome, taxonomic composition, and mobilome of bacterial communities in hospital wastewaters of Metro Manila using a shotgun metagenomics approach",
+      "url": "https://journals.asm.org/doi/abs/10.1128/spectrum.03963-25?af=R",
+      "source": "Microbiological Spectrum",
+      "one_liner": "Microbiology Spectrum, Ahead of Print.",
+      "segment": 27,
+      "timestamp": 2147.12
+    },
+    {
+      "title": "Lung microbiota analysis in early-stage lung adenocarcinoma",
+      "url": "https://journals.asm.org/doi/abs/10.1128/spectrum.01987-25?af=R",
+      "source": "Microbiological Spectrum",
+      "one_liner": "Microbiology Spectrum, Ahead of Print.",
+      "segment": 28,
+      "timestamp": 2189.72
+    },
+    {
+      "title": "Shotgun metagenome sequencing and informatics can accurately form a metagenome-assembled genome (MAG) of the bacterial tier 1 select agent Burkholderia pseudomallei for rapid public health response events",
+      "url": "https://journals.asm.org/doi/abs/10.1128/spectrum.02926-25?af=R",
+      "source": "Microbiological Spectrum",
+      "one_liner": "Microbiology Spectrum, Ahead of Print.",
+      "segment": 29,
+      "timestamp": 2236.23
+    },
+    {
+      "title": "Characterising oral microbial signatures for periodontal disease in the NHANES population.",
+      "url": "https://doi.org/10.2340/aos.v85.45662",
+      "source": "PubMed — Acta odontologica Scandinavica",
+      "one_liner": "OBJECTIVE: This study aims to characterise the relationship between the oral microbiota and periodontal disease (PD) by leveraging the latest and largest oral microbiota database from the US National Health and Nutrition Examination Survey (NHANES). METHODS: This study represented a secondary analysis of publicly available data from the NHANES 2009-2012 c...",
+      "segment": 30,
+      "timestamp": 2281.46
+    },
+    {
+      "title": "Lactiplantibacillus pentosus JWN01 and Lactiplantibacillus plantarum JWN02 attenuate renal fibrosis and pathological autophagy in hyperuricemic nephropathy via gut-kidney axis.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.118376",
+      "source": "PubMed — Food research international (Ottawa, Ont.)",
+      "one_liner": "Hyperuricemic nephropathy (HN) is a worldwide metabolic disorder marked by uric acid (UA) imbalance and renal tubulointerstitial fibrosis, yet therapies that both lower UA and prevent fibrosis remain limited. Targeting the gut-kidney axis with probiotics is a promising strategy, but most candidates are food-derived and not human-adapted. We isolated two L...",
+      "segment": 31,
+      "timestamp": 2403.96
+    },
+    {
+      "title": "Lacto-N-triose II alleviates metabolic dysfunction-associated Steatotic liver disease via microbiota-dependent citrulline biosynthesis.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.118448",
+      "source": "PubMed — Food research international (Ottawa, Ont.)",
+      "one_liner": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is an increasingly recognized global metabolic disease with limited treatment options. Lacto-N-Triose II (LNT II) is an important member of the human milk oligosaccharides (HMOs) and exhibits various prebiotic properties beyond infant nutrition. In this study, we demonstrate that supplementa...",
+      "segment": 32,
+      "timestamp": 2453.39
+    },
+    {
+      "title": "Bioactivity and prebiotic potential of insoluble dietary fiber from discarded Chinese cabbage outer leaves and the metabolomic dynamics of bound polyphenols during alkaline extraction, in vitro gastrointestinal digestion and colonic fermentation.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.118345",
+      "source": "PubMed — Food research international (Ottawa, Ont.)",
+      "one_liner": "Insoluble dietary fiber from Chinese cabbage outer leaves (CIF) is abundant in bound polyphenols (BPs), while the release of BPs and their influence on the function of CIF remain unclear. This study compared the changes in CIF before and after the removal of BPs and characterized the BPs profiles during gastrointestinal and colonic fermentation. CIF exhib...",
+      "segment": 33,
+      "timestamp": 2501.87
+    },
+    {
+      "title": "Altered microbiota drive prelimbic cortex suppression and lower pain thresholds after sleep deprivation.",
+      "url": "https://doi.org/10.1016/j.neuint.2026.106151",
+      "source": "PubMed — Neurochemistry international",
+      "one_liner": "Sleep disturbances are increasingly recognized as a lifestyle factor for abnormal pain perception. Recent studies highlight the critical role of gut microbiota in maintaining physiological balance and reveal a bidirectional relationship between microbiota alterations, sleep disorders, and pathological pain. This study investigates the potential role of mi...",
+      "segment": 34,
+      "timestamp": 2545.5
+    },
+    {
+      "title": "The immunomodulatory metabolite butyrate ameliorates renal fibrosis by restoring gut barrier integrity and suppressing the TGF-β1/Smad3 pathway.",
+      "url": "https://doi.org/10.1016/j.intimp.2026.116557",
+      "source": "PubMed — International immunopharmacology",
+      "one_liner": "Chronic kidney disease (CKD) is characterized by progressive renal fibrosis, with the gut-kidney axis implicated in its pathophysiology. This study investigated the role of the gut microbiota-derived metabolite, butyrate, in renal fibrosis. We analyzed the gut microbiota in CKD patients and a unilateral ureteral obstruction (UUO) mouse model, performed ta...",
+      "segment": 35,
+      "timestamp": 2584.04
+    },
+    {
+      "title": "Microbiota-Derived Butyrate Preserves Epithelial Integrity Through SIRT1-Mediated Metabolic-Epigenetic Crosstalk in Vulvar Lichen Sclerosus.",
+      "url": "https://doi.org/10.1096/fj.202502946RR",
+      "source": "PubMed — FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "one_liner": "Vulvar lichen sclerosus (VLS) is increasingly understood as a disorder shaped by systemic immune-metabolic disturbances and microbiome dysregulation. This study investigated how temporal changes in the gut and reproductive tract microbiota influence gene expression, metabolic status, and therapeutic responses in VLS. Fecal and vaginal samples from 20 VLS ...",
+      "segment": 36,
+      "timestamp": 2631.41
+    },
+    {
+      "title": "Metagenomics in Obstructive Lung Diseases: Insights into Microbial Dysbiosis, Host-Microbe Interactions, and the Gut-Lung Axis.",
+      "url": "https://doi.org/10.1177/15578100261419483",
+      "source": "PubMed — Omics : a journal of integrative biology",
+      "one_liner": "Obstructive lung diseases (OLDs), including asthma and chronic obstructive pulmonary disease (COPD), arise from complex interactions among microbial ecosystems, host immunity, metabolic regulation, and environmental exposures. Metagenomic approaches have substantially advanced understanding of these interactions by enabling comprehensive profiling of resp...",
+      "segment": 37,
+      "timestamp": 2680.39
+    },
+    {
+      "title": "Whole Metagenomic Profiling Identifies a Gut Microbial Signature for Chronic Pancreatitis via Machine Learning.",
+      "url": "https://doi.org/10.1097/MPA.0000000000002618",
+      "source": "PubMed — Pancreas",
+      "one_liner": "BACKGROUND: Pancreatitis significantly alters the microbial composition of the oral and intestinal compartments, causing dysbiosis that may contribute to disease mechanisms and potentially serve as a basis for diagnosis or treatment. OBJECTIVE: To determine whether the oral or gut microbial signature can classify chronic pancreatitis (CP). METHODS: Stool ...",
+      "segment": 38,
+      "timestamp": 2732.92
+    },
+    {
+      "title": "Dysbiosis in the Gut-Liver Axis Is Associated With Low Bone Mass During Murine Cholestasis.",
+      "url": "https://doi.org/10.1096/fj.202502976R",
+      "source": "PubMed — FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "one_liner": "The gut-liver axis is the bidirectional relationship between the gut microbiota and the liver. Dysbiosis in the gut-liver axis and disrupted bile acid homeostasis contribute to cholestatic liver disease pathogenesis. Patients afflicted with cholestasis have accelerated bone loss, a higher incidence of fractures, and are at risk of developing osteoporosis....",
+      "segment": 39,
+      "timestamp": 2783.53
+    }
+  ]
+}
