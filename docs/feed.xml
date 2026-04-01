@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Mar 2026 05:18:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 06:17:10 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-04-01</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-01/podcast_2026-04-01.mp3</guid>
+      <pubDate>Wed, 01 Apr 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-01/podcast_2026-04-01.mp3" length="23140268" type="audio/mpeg" />
+      <description>A new study in CNS Neuroscience &amp; Therapeutics reveals that polysaccharides from American ginseng root can ease depression-like behaviors in mice by targeting the brain&#x27;s immune system and gut bacteria. | New research from the Journal of the Science of Food and Agriculture reveals that fucoidan from the sea cucumber Apostichopus japonicus may slow intestinal aging by acting through the gut microbiota and intestinal stem cells. | A new study in Gut Microbes reveals how aligning meal timing with the body&#x27;s circadian rhythms can optimize gut microbiota function and improve overall health.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>A new study in CNS Neuroscience &amp; Therapeutics reveals that polysaccharides from American ginseng root can ease depression-like behaviors in mice by targeting the brain&#x27;s immune system and gut bacteria. | New research from the Journal of the Science of Food and Agriculture reveals that fucoidan from the sea cucumber Apostichopus japonicus may slow intestinal aging by acting through the gut microbiota and intestinal stem cells. | A new study in Gut Microbes reveals how aligning meal timing with the body&#x27;s circadian rhythms can optimize gut microbiota function and improve overall health.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-03-31</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-31/podcast_2026-03-31.mp3</guid>
       <pubDate>Tue, 31 Mar 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-31/podcast_2026-03-31.mp3" length="20893340" type="audio/mpeg" />
-      <description>deluxpore is a Nextflow pipeline that enables reliable, automated demultiplexing of Nanopore sequencing reads derived from Illumina dual-indexed library preparations, specifically NEBNext and Nextera, thereby facilitating a hybrid target capture metagenomics and long-read sequencing workflow. | The pipeline uses BLAST alignment to identify adapter fragments containing the dual-index sequences from Illumina libraries. | deluxpore automates the entire demultiplexing process, making it possible to combine the high specificity of Illumina dual-indexing with the long-read advantages of Nanopore sequencing.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-31/podcast_2026-03-31.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>deluxpore is a Nextflow pipeline that enables reliable, automated demultiplexing of Nanopore sequencing reads derived from Illumina dual-indexed library preparations, specifically NEBNext and Nextera, thereby facilitating a hybrid target capture metagenomics and long-read sequencing workflow. | The pipeline uses BLAST alignment to identify adapter fragments containing the dual-index sequences from Illumina libraries. | deluxpore automates the entire demultiplexing process, making it possible to combine the high specificity of Illumina dual-indexing with the long-read advantages of Nanopore sequencing.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>

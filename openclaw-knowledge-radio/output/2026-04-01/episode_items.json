@@ -1,0 +1,366 @@
+{
+  "timestamps": [
+    0.0,
+    43.41,
+    92.66,
+    137.72,
+    183.08,
+    395.38,
+    524.93,
+    673.96,
+    867.95,
+    1045.07,
+    1096.3,
+    1236.48,
+    1333.32,
+    1491.48,
+    1629.93,
+    1773.11,
+    1903.81,
+    2043.24,
+    2089.85,
+    2138.4,
+    2179.12,
+    2220.54,
+    2269.98,
+    2309.98,
+    2350.66,
+    2403.52,
+    2444.78,
+    2497.86,
+    2545.74,
+    2597.21,
+    2622.74,
+    2668.65,
+    2711.99,
+    2761.04,
+    2815.38,
+    2864.67,
+    2899.78,
+    2939.01,
+    2992.86,
+    3049.07
+  ],
+  "items": [
+    {
+      "title": "Panacis Quinquefolii Radix Polysaccharides Alleviate Depressive-Like Behaviors in Chronic Unpredictable Mild Stress-Induced Mice by Suppressing Complement C1Q/C3-Mediated Microglial Synaptic Pruning and Modulating Gut Microbiota.",
+      "url": "https://doi.org/10.1002/cns.70859",
+      "source": "PubMed — CNS neuroscience & therapeutics",
+      "one_liner": "AIMS: Panax quinquefolius Radix (American ginseng) is a medicinal herb used for its neuroprotective and tonic effects. However, the antidepressant potential of its polysaccharide components is not well studied. This research aimed to investigate the antidepressant effects of XYS1, a polysaccharide from American ginseng, focusing on mechanisms related to t...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "A gut microbiota-stem cell axis mediates the anti-intestinal aging effect of fucoidan from Apostichopus japonicus.",
+      "url": "https://doi.org/10.1002/jsfa.70471",
+      "source": "PubMed — Journal of the science of food and agriculture",
+      "one_liner": "BACKGROUND: Apostichopus japonicus is a traditional medicinal and culinary species, with existing anti-aging research primarily focusing on its bioactive peptides. In contrast, the anti-aging potential of its major polysaccharide, fucoidan (Aj-FUC), remains largely unexplored. Since the intestine is a central target in the aging process and the primary si...",
+      "segment": 1,
+      "timestamp": 43.41
+    },
+    {
+      "title": "Circadian synchronization between diet and gut microbiota in modulating host's health",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/19490976.2026.2647602?af=R",
+      "source": "Gut Microbes",
+      "one_liner": "Volume 18, Issue 1, December 2026 .",
+      "segment": 2,
+      "timestamp": 92.66
+    },
+    {
+      "title": "Circadian synchronization between diet and gut microbiota in modulating host's health.",
+      "url": "https://doi.org/10.1080/19490976.2026.2647602",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Extensive research has established a complex relationship between the host, diet, and gut microbiota. Recent studies highlight the critical role of the host circadian clock in maintaining health. Notably, diet and gut microbiota composition have been shown to modulate circadian clock gene expression. Here, we summarize the influences of diet, gut microbio...",
+      "segment": 3,
+      "timestamp": 137.72
+    },
+    {
+      "title": "Gardnerella fastidiominuta sp. nov. isolated from the female urinary microbiome",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.30.715431",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "The genus Gardnerella comprises a group of fastidious bacteria associated with the female urogenital tract and has undergone extensive taxonomic revision in recent years. In this study, a bacterial strain, designated CCPDSM, was isolated from the female urinary microbiome and subjected to a comprehensive polyphasic taxonomic characterization. The 16S rRNA...",
+      "segment": 4,
+      "timestamp": 183.08
+    },
+    {
+      "title": "MetaGEAR Explorer: Rapid interactive searches and cross-cohort analyses of microbiome gene associations in disease",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.30.715271",
+      "source": "bioRxiv — bioinformatics",
+      "one_liner": "The human gut microbiome has been linked to inflammatory bowel disease (IBD) and colorectal cancer (CRC), yet identifying disease-associated microbial genes across diverse human cohort studies remains challenging due to inconsistent data processing and the high dimensionality of gene-level abundance profiles. Here we present MetaGEAR Explorer, a web platf...",
+      "segment": 5,
+      "timestamp": 395.38
+    },
+    {
+      "title": "The Celiac Microbiome Repository (CMR): A Curated Collection of Celiac Disease Gut Microbiome Sequencing Data",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.28.715053",
+      "source": "bioRxiv — bioinformatics",
+      "one_liner": "Celiac disease is an autoimmune condition where the gut microbiome is increasingly recognised as a key environmental factor. While high-throughput sequencing has led to a surge in celiac-related gut microbiome profiling data, these datasets remain fragmented, heterogeneous, and often lack the metadata required for large-scale integration into pooled, cros...",
+      "segment": 6,
+      "timestamp": 524.93
+    },
+    {
+      "title": "Peripheral microbial metabolites as indicators of gut microbiome disruption: systematic review and meta-analysis",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.31.715561",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Background: Gut microbiome disruption is often characterized by loss of obligate anaerobic bacteria, which may lead to altered production of microbial metabolites that can be detected peripherally. The application of widely used sequencing-based microbiome analyses to clinical settings is limited by cost, turnaround time, and challenges with patients with...",
+      "segment": 7,
+      "timestamp": 673.96
+    },
+    {
+      "title": "Scalable Microbiome Network Inference: Mitigating Sparsity and Computational Bottlenecks in Random Effects Models",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.27.714858",
+      "source": "bioRxiv — bioinformatics",
+      "one_liner": "The application of Large Language Models (LLMs) and Transformers to biological and healthcare datasets requires the extraction of highly accurate, noise-filtered ecological networks. The Random Effects Model (REM) is a powerful statistical method for inferring microbial interaction networks and identifying keystone species across heterogeneous studies. Ho...",
+      "segment": 8,
+      "timestamp": 867.95
+    },
+    {
+      "title": "Spatiotemporal variation in the microbiome of Aedes vexans from Korea reveals regional markers linked to environmental risk factors",
+      "url": "https://journals.asm.org/doi/abs/10.1128/spectrum.02587-25?af=R",
+      "source": "Microbiological Spectrum",
+      "one_liner": "Microbiology Spectrum, Ahead of Print.",
+      "segment": 9,
+      "timestamp": 1045.07
+    },
+    {
+      "title": "Gut microbiota-metabolism axis in digestive tumors: Emerging targets for novel therapies (Review).",
+      "url": "https://doi.org/10.3892/etm.2026.13108",
+      "source": "PubMed — Experimental and therapeutic medicine",
+      "one_liner": "Digestive tumors, including malignancies associated with the gastrointestinal tract, represent a notable global health burden. Advances in microbiome research have highlighted that the gut microbiota-metabolism axis and its associated metabolic derivatives are key modulators of tumorigenesis, immune evasion and treatment responses. The present review aime...",
+      "segment": 10,
+      "timestamp": 1096.3
+    },
+    {
+      "title": "Novel insights into diarrhea mechanism from gut-kidney axis perspective: correlations among intestinal mucosal injury, AQP4 water transport disorder and gut microbiota dysbiosis.",
+      "url": "https://doi.org/10.1007/s13205-026-04774-3",
+      "source": "PubMed — 3 Biotech",
+      "one_liner": "The kidney-yang deficiency syndrome diarrhea (KDSD) is related to gut microbiota dysbiosis. The mechanism of the gut-kidney axis participating in regulating water metabolism in diarrhea remains to be studied. 30 male KM mice with SPF grade were randomly allocated into three groups: normal (NC), kidney-yang deficiency diarrhea (MD), and kidney-yang deficie...",
+      "segment": 11,
+      "timestamp": 1236.48
+    },
+    {
+      "title": "Linking gut microbiome to HIV-1 reservoir size in people living with HIV.",
+      "url": "https://doi.org/10.1186/s13099-026-00828-2",
+      "source": "PubMed — Gut pathogens",
+      "one_liner": "The gut microbiome is altered during HIV-1 infection and contributes to immune dysfunction and inflammation in people living with HIV (PLWH), these changes may persist despite effective antiretroviral therapy (ART). We explored the associations between the fecal gut microbiome and blood HIV-1 reservoir size in PLWH (n = 30) on long-term ART. The intact pr...",
+      "segment": 12,
+      "timestamp": 1333.32
+    },
+    {
+      "title": "Odevixibat ameliorates high-fat diet-induced MASLD in mice by targeting the gut microbiota-metabolite axis and enhancing gut-liver crosstalk.",
+      "url": "https://doi.org/10.1007/s13105-026-01165-3",
+      "source": "PubMed — Journal of physiology and biochemistry",
+      "one_liner": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is a prevalent metabolic disorder with limited therapeutic options. This study aimed to investigate the therapeutic effects and underlying mechanisms of Bylvay (odevixibat) on high-fat diet (HFD)-induced MASLD in mice, focusing on liver pathology, gut barrier integrity, and the gut-liver axi...",
+      "segment": 13,
+      "timestamp": 1491.48
+    },
+    {
+      "title": "A composite protein enriched with threonine, lysine, and tryptophan improves osteoporosis by modulating the composition and metabolism of the gut microbiota.",
+      "url": "https://doi.org/10.1039/d5fo04652a",
+      "source": "PubMed — Food & function",
+      "one_liner": "Osteoporosis is a metabolic bone disorder characterised by impaired bone metabolism and increased fracture risk. Protein constitutes a vital source of skeletal nutrition, and the appropriate supplementation of high-quality protein plays a significant role in improving osteoporosis. The global dietary trend is shifting towards sustainable, non-animal prote...",
+      "segment": 14,
+      "timestamp": 1629.93
+    },
+    {
+      "title": "Blueberry anthocyanin supplementation shows favorable trends in glycemic control and alters the gut microbiota in type 2 diabetes patients: a pilot study.",
+      "url": "https://doi.org/10.1039/d5fo05613f",
+      "source": "PubMed — Food & function",
+      "one_liner": "Growing evidence supports the hypoglycemic potential of blueberry anthocyanins, though clinical data remain limited. This study aimed to evaluate the effects of blueberry anthocyanin extract (BAE) supplementation on glycemic control and gut microbiota composition in patients with type 2 diabetes mellitus (T2DM). This 6-month pilot study included 15 elderl...",
+      "segment": 15,
+      "timestamp": 1773.11
+    },
+    {
+      "title": "Association of the newly proposed dietary index for gut microbiota and chronic kidney disease.",
+      "url": "https://doi.org/10.1007/s11255-025-04808-4",
+      "source": "PubMed — International urology and nephrology",
+      "one_liner": "BACKGROUND: Alterations of the gut microbiota play a key role in the pathogenesis and progression of chronic kidney disease (CKD), and their importance is becoming more widely recognized. However, the relationship between the Dietary Index for Gut Microbiota (DI-GM) and the prevalence of CKD has not been fully investigated. METHODS: This study employed da...",
+      "segment": 16,
+      "timestamp": 1903.81
+    },
+    {
+      "title": "The association between polyunsaturated fatty acids in breast milk and infant eczema and its relationship with infant gut microbiota.",
+      "url": "https://doi.org/10.6133/apjcn.202604_35(2).0012",
+      "source": "PubMed — Asia Pacific journal of clinical nutrition",
+      "one_liner": "BACKGROUND AND OBJECTIVES: Current evidence on the relationship between breast milk fatty acids and infant eczema is limited. The present study aimed to investigate the association between polyunsaturated fatty acids (PUFAs) in breast milk and the incidence of infant eczema and its relationship with infant gut microbiota. METHODS AND STUDY DESIGN: Twenty-...",
+      "segment": 17,
+      "timestamp": 2043.24
+    },
+    {
+      "title": "Digestion properties of Alismatis Rhizoma crude polysaccharide derived from aqueous two-phase extraction and their influence on gut microbiota with obesity.",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2026.151360",
+      "source": "PubMed — International journal of biological macromolecules",
+      "one_liner": "While Alismatis Rhizoma polysaccharides demonstrated promising anti-obesity potential, several research gaps remain, including extraction methods, chemical composition, and gut microbiota interactions. Herein, a new method termed the salt concentration saturation Oil Red O staining method (SCS-ORO) was developed to screen 7 salts capable of forming biphas...",
+      "segment": 18,
+      "timestamp": 2089.85
+    },
+    {
+      "title": "β-Glucan-rich Hericium erinaceus hot-water extract ameliorates acute colitis by suppressing inflammation, preserving the epithelial barrier, and modulating gut microbiota ecosystem.",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2026.151368",
+      "source": "PubMed — International journal of biological macromolecules",
+      "one_liner": "Inflammatory bowel disease (IBD) is a chronic disorder marked by mucosal barrier disruption, immune imbalance, and gut dysbiosis. Polysaccharide-enriched extracts of Hericium erinaceus (HE) have shown anti-colitic effects, but the role of its β-glucan-rich water extract (HE-HW) remains unclear. By investigating a commercially relevant β-glucan-rich extrac...",
+      "segment": 19,
+      "timestamp": 2138.4
+    },
+    {
+      "title": "Involvement of gut microbiota in sub-chronic chlorantraniliprole-induced metabolic alteration in chironomid larvae (Propsilocerus akamusi): Evidence from multi-omics, histopathological and biochemical analysis.",
+      "url": "https://doi.org/10.1016/j.pestbp.2026.106999",
+      "source": "PubMed — Pesticide biochemistry and physiology",
+      "one_liner": "The widespread use and persistence of the insecticide chlorantraniliprole (CAP) in aquatic ecosystems poses a significant risk to non-target organisms. As gut microbiomes are increasingly considered as a critical mediator of host fitness, we investigated its role in the physiological response of chironomid larvae (Propsilocerus akamusi) to sub-chronic CAP...",
+      "segment": 20,
+      "timestamp": 2179.12
+    },
+    {
+      "title": "Urinary Microbiome Dysbiosis in Children With Congenital Uropathies at Varying Risk for Urinary Tract Infections.",
+      "url": "https://doi.org/10.1016/j.ekir.2026.103799",
+      "source": "PubMed — Kidney international reports",
+      "one_liner": "INTRODUCTION: Febrile urinary tract infections (UTIs) may occur in 30% to 50% of children with vesicoureteral reflux (VUR) or posterior urethral valves (PUVs), frequently leading to renal scarring despite chemoprophylaxis. Approximately 15% of children with uretero-pelvic junction obstruction (UPJO) may develop UTIs. However, investigations that can ident...",
+      "segment": 21,
+      "timestamp": 2220.54
+    },
+    {
+      "title": "A preliminary investigation on the influence of sample storage on the low-abundant ocular surface microbiome.",
+      "url": "https://doi.org/10.1016/j.mimet.2026.107437",
+      "source": "PubMed — Journal of microbiological methods",
+      "one_liner": "In this study, the impact of sample freezing prior to DNA extraction was investigated on a small sample set (n = 6) to determine whether this affects the composition of the ocular surface microbiome - a low biomass environment. Frozen samples exhibited a reduced detection of Gram-negative bacteria compared to directly processed samples.",
+      "segment": 22,
+      "timestamp": 2269.98
+    },
+    {
+      "title": "Breastfed infants receiving formula supplementation show altered lipid and gut microbiota profiles at 3 months of age.",
+      "url": "https://doi.org/10.1016/j.clnu.2026.106602",
+      "source": "PubMed — Clinical nutrition (Edinburgh, Scotland)",
+      "one_liner": "BACKGROUND & AIMS: Exclusive breastfeeding offers numerous health benefits. Despite advancements in formula, significant differences compared with breast milk remain. We aimed to assess how milk feeding type and volume at 3 months affect the infant plasma lipidome and gut microbiota. METHODS: Infants were classified into exclusive breastfeeding (EBF), mix...",
+      "segment": 23,
+      "timestamp": 2309.98
+    },
+    {
+      "title": "Mechanisms of phenolic conversion in anaerobic fermentation of tea leaves revealed by integrating microbiome and metabolome analysis.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.118381",
+      "source": "PubMed — Food research international (Ottawa, Ont.)",
+      "one_liner": "To systematically investigate the phenolic transformation mechanisms during tea anaerobic fermentation, the changes in phenolics and microbial communities of pickled teas under varying extrusion degrees were analyzed by combining metabolomics and microbiomics. The changes in 118 differential phenolics (p < 0.05, variable importance in projection >1.0, and...",
+      "segment": 24,
+      "timestamp": 2350.66
+    },
+    {
+      "title": "Multi-omics reveal the key role of gut microbiota metabolism in adenine-induced chronic kidney disease.",
+      "url": "https://doi.org/10.1016/j.taap.2026.117754",
+      "source": "PubMed — Toxicology and applied pharmacology",
+      "one_liner": "The gut microbiota plays a crucial role in the progression of chronic kidney disease (CKD). The adenine-induced CKD mouse model is widely employed in preclinical research, yet the effects of adenine on the composition and metabolic function of the gut microbiota remain to be elucidated. This study aimed to test the hypothesis that adenine-induced alterati...",
+      "segment": 25,
+      "timestamp": 2403.52
+    },
+    {
+      "title": "Urinary microbiome and metabolomic profiling reveal propionic acid as an enhancer of BCG immunotherapy in bladder cancer.",
+      "url": "https://doi.org/10.1016/j.bbadis.2026.168192",
+      "source": "PubMed — Biochimica et biophysica acta. Molecular basis of disease",
+      "one_liner": "Bladder cancer (BC) is the tenth most common malignancy worldwide, with non-muscle invasive bladder cancer (NMIBC) accounting for approximately 75% of cases, and Bacillus Calmette-Guérin (BCG) remaining the standard intravesical therapy. In light of global BCG shortages, this study aimed to identify potential strategies to enhance BCG efficacy by integrat...",
+      "segment": 26,
+      "timestamp": 2444.78
+    },
+    {
+      "title": "The gut microbiota in Salmonella Typhi infection and translocation: Mechanisms of colonization resistance, pathogen subversion, and prospects for microecological intervention.",
+      "url": "https://doi.org/10.1016/j.micpath.2026.108381",
+      "source": "PubMed — Microbial pathogenesis",
+      "one_liner": "The systemic establishment of the strictly human-adapted pathogen Salmonella Typhi critically depends on functional interplay between its virulence effectors and the host gut microbiome. Organized within a \"colonization-toxicity-immunity- microecological intervention\" framework, this review synthesizes recent molecular and multi-omics evidence to delineat...",
+      "segment": 27,
+      "timestamp": 2497.86
+    },
+    {
+      "title": "Plant-derived bioactive compounds modulate the gut microbiota in Alzheimer's disease: Metabolite signaling, neuroimmune circuits, and systems-level regulation.",
+      "url": "https://doi.org/10.1016/j.phymed.2026.157919",
+      "source": "PubMed — Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "one_liner": "BACKGROUND: Alzheimer's disease (AD) is increasingly recognized as a multisystem disorder shaped not only by central neurodegeneration but also by peripheral metabolic and immune dysregulation. Growing evidence highlights the gut microbiota and its metabolites as key modulators of amyloid accumulation, tau phosphorylation, neuroinflammation, and microglia...",
+      "segment": 28,
+      "timestamp": 2545.74
+    },
+    {
+      "title": "The role of the gut microbiome in childhood obesity: Mechanistic insights and community-based interventions.",
+      "url": "https://doi.org/10.1016/j.clnesp.2026.102911",
+      "source": "PubMed — Clinical nutrition ESPEN",
+      "one_liner": "Childhood obesity remains a critical issue, yet traditional efforts focusing on diet and exercise have failed. This review proposes that gut microbiota dysbiosis is not an association, but rather a potentially causal and actionable mechanism underlying childhood obesity. An altered gut microbiome, defined by diminished diversity and specific changes, such...",
+      "segment": 29,
+      "timestamp": 2597.21
+    },
+    {
+      "title": "From 16S rRNA to deep learning: Evolution of computational approaches in human microbiome studies.",
+      "url": "https://doi.org/10.1016/j.compbiolchem.2025.108852",
+      "source": "PubMed — Computational biology and chemistry",
+      "one_liner": "The human microbiome plays a vital role in maintaining physiological balance and influencing immunity, metabolism, and disease development. Over the past decade, the field has witnessed a remarkable transition from traditional 16S rRNA sequencing and culture-based assays to advanced computational frameworks that integrate multiomics datasets. Modern compu...",
+      "segment": 30,
+      "timestamp": 2622.74
+    },
+    {
+      "title": "Dark side of nocturnal eating: Unraveling the emerging axis between meal timing, gut microbiota, and early-onset cancer risk.",
+      "url": "https://doi.org/10.1016/j.nutres.2026.01.007",
+      "source": "PubMed — Nutrition research (New York, N.Y.)",
+      "one_liner": "The worldwide increase in early-onset metabolic disorders and digestive system cancers has elicited serious concern about lifestyle and diet as contributors to chronic disease risk. Disruption of circadian rhythms, particularly through nocturnal eating, is implicated in the development of various malignancies. This narrative review explored the emerging i...",
+      "segment": 31,
+      "timestamp": 2668.65
+    },
+    {
+      "title": "Modulation of gut microbiota by tangerine peel polysaccharide: A promising strategy for obesity management via acetic acid production.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.118460",
+      "source": "PubMed — Food research international (Ottawa, Ont.)",
+      "one_liner": "Obesity is a major global health concern associated with metabolic disorders. This study investigated the anti-obesity effects of tangerine peel polysaccharide, a citrus-derived prebiotic, and elucidated its microbiota-dependent mechanisms. In high-fat diet (HFD)-induced obese mice, tangerine peel polysaccharide supplementation markedly reduced body weigh...",
+      "segment": 32,
+      "timestamp": 2711.99
+    },
+    {
+      "title": "The effects of different forms of vitamin E on gut microbiota, mechanisms, and implications in disease prevention.",
+      "url": "https://doi.org/10.1016/j.jnutbio.2025.110235",
+      "source": "PubMed — The Journal of nutritional biochemistry",
+      "one_liner": "The gut microbiota plays an important role in host health and dysbiosis contributes to disease development. Natural forms of vitamin E consist of eight lipophilic antioxidants, i.e., alpha-, beta-. gamma- and delta-tocopherol (αT, βT, γT and δT) and alpha-, beta-. gamma- and delta-tocotrienol (αTE, βTE, γTE and δTE). Vitamin E forms and their metabolites ...",
+      "segment": 33,
+      "timestamp": 2761.04
+    },
+    {
+      "title": "Intestinal epithelial protection and gut microbiota modulation by Ganoderma lucidum proteoglycan are associated with its hypoglycemic potential in type 2 diabetes.",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2026.151441",
+      "source": "PubMed — International journal of biological macromolecules",
+      "one_liner": "The interplay between gut microbiota, oxidative stress, and intestinal barrier integrity is increasingly recognized as a driving force in the progression of type 2 diabetes mellitus. This work focuses on FYGL, a novel proteoglycan derived from Ganoderma lucidum, to evaluate its intestinal safety and modulation of gut microbiota, and to explore the associa...",
+      "segment": 34,
+      "timestamp": 2815.38
+    },
+    {
+      "title": "Amelioration on the glycolipid metabolism by short-chain inulin-fortified rice flour is mediated via gut microbiota remodeling with enhanced colonic fermentation and SCFA production.",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2026.151395",
+      "source": "PubMed — International journal of biological macromolecules",
+      "one_liner": "The high glycemic index and rapid digestibility of refined rice flour pose challenges for blood glucose management, particularly for individuals with diabetes. This study investigated the efficacy of inulin-fortified rice flour in improving glycolipid metabolism in diabetic mice and elucidated the underlying mechanisms. Inulin with varying degrees of poly...",
+      "segment": 35,
+      "timestamp": 2864.67
+    },
+    {
+      "title": "Triple-emulsion microfluidic Core-Shell hydrogel microcapsules for oral pentoxifylline Delivery: Ameliorating colitis and rebalancing gut microbiome.",
+      "url": "https://doi.org/10.1016/j.mtbio.2026.102881",
+      "source": "PubMed — Materials today. Bio",
+      "one_liner": "",
+      "segment": 36,
+      "timestamp": 2899.78
+    },
+    {
+      "title": "Gut microbiota-mediated therapeutic mechanisms of Dendrobium officinale polysaccharide: A review.",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2026.151361",
+      "source": "PubMed — International journal of biological macromolecules",
+      "one_liner": "Dendrobium officinale polysaccharide (DOP) functions as a prebiotic that ameliorates multiple diseases through selective modulation of the gut microbiota. Its structural features-including molecular weight profile, mannose/glucose ratio, and β-(1 → 4)-glucomannan backbone-program a dual-mode ecological action: serving as a broad fermentable substrate to p...",
+      "segment": 37,
+      "timestamp": 2939.01
+    },
+    {
+      "title": "Microbiome Guided Precision Pharmacology in Pregnancy: Organ Crosstalk, Maternal-Fetal Drug Disposition, and PBPK-Informed Dosing.",
+      "url": "https://doi.org/10.1002/cph4.70138",
+      "source": "PubMed — Comprehensive Physiology",
+      "one_liner": "Drug therapy during pregnancy poses unique challenges, requiring a balance between maternal benefit and fetal safety. Profound physiological changes, including altered plasma volume, protein binding, hepatic metabolism, renal clearance, and placental transfer, transform pregnancy pharmacology into a dynamic process. Classical concepts such as initiation, ...",
+      "segment": 38,
+      "timestamp": 2992.86
+    },
+    {
+      "title": "Influence of Gut Microbiota on Response to Immune Check Point Inhibitors in MASLD Patients With HCC: Unraveling the Connection.",
+      "url": "https://doi.org/10.1002/cam4.71738",
+      "source": "PubMed — Cancer medicine",
+      "one_liner": "Immune checkpoint inhibitors (ICIs) have emerged as a promising treatment for various cancers, including advanced hepatocellular carcinoma (HCC). However, a significant proportion of patients with HCC, particularly those with metabolic dysfunction-associated liver disease (MASLD), exhibit resistance to ICI therapy. Studies have revealed that the presence ...",
+      "segment": 39,
+      "timestamp": 3049.07
+    }
+  ]
+}
