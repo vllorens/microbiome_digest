@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2026 05:29:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 05:36:12 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-04-03</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-03/podcast_2026-04-03.mp3</guid>
+      <pubDate>Fri, 03 Apr 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-03/podcast_2026-04-03.mp3" length="23414324" type="audio/mpeg" />
+      <description>Coal dust nanoparticles are a growing occupational hazard as mining technologies advance, producing finer particles that can penetrate deeper into the body. | Researchers exposed rats to coal dust nanoparticles via inhalation and observed clear signs of colitis-like damage in the colon. | The team then traced the mechanism further and discovered that the epithelial cells lining the colon were undergoing ferroptosis—a form of programmed cell death driven by iron-dependent lipid peroxidation.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Coal dust nanoparticles are a growing occupational hazard as mining technologies advance, producing finer particles that can penetrate deeper into the body. | Researchers exposed rats to coal dust nanoparticles via inhalation and observed clear signs of colitis-like damage in the colon. | The team then traced the mechanism further and discovered that the epithelial cells lining the colon were undergoing ferroptosis—a form of programmed cell death driven by iron-dependent lipid peroxidation.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-04-02</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-02/podcast_2026-04-02.mp3</guid>
       <pubDate>Thu, 02 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-02/podcast_2026-04-02.mp3" length="19480724" type="audio/mpeg" />
-      <description>A new framework in neuroscience suggests the gut microbiome plays a key role in eating disorders by influencing brain and behavior through the microbiota-gut-brain axis. | A new study in the Journal of Animal Science shows that dietary lycopene boosts growth, antioxidant capacity, and immune health in geese. | Multidimensional scaling, or MDS, is a staple in microbial ecology for reducing the complexity of high-dimensional microbiome data into interpretable two- or three-dimensional plots.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-02/podcast_2026-04-02.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>A new framework in neuroscience suggests the gut microbiome plays a key role in eating disorders by influencing brain and behavior through the microbiota-gut-brain axis. | A new study in the Journal of Animal Science shows that dietary lycopene boosts growth, antioxidant capacity, and immune health in geese. | Multidimensional scaling, or MDS, is a staple in microbial ecology for reducing the complexity of high-dimensional microbiome data into interpretable two- or three-dimensional plots.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>

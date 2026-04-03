@@ -1,0 +1,366 @@
+{
+  "timestamps": [
+    0.0,
+    132.96,
+    181.48,
+    416.56,
+    548.86,
+    580.08,
+    756.02,
+    905.61,
+    1067.9,
+    1116.76,
+    1153.23,
+    1197.1,
+    1250.9,
+    1303.41,
+    1474.43,
+    1518.88,
+    1569.56,
+    1620.12,
+    1667.11,
+    1712.13,
+    1820.9,
+    1898.63,
+    2039.7,
+    2172.44,
+    2325.17,
+    2376.74,
+    2425.31,
+    2480.48,
+    2533.33,
+    2580.17,
+    2631.65,
+    2684.3,
+    2742.66,
+    2788.04,
+    2841.82,
+    2894.38,
+    2938.56,
+    2983.82,
+    3041.51,
+    3089.15
+  ],
+  "items": [
+    {
+      "title": "Coal Dust Nanoparticles Induce Colitis-Like Lesions in Rats via Gut Microbiota Dysbiosis and P53/SCO2/SLC7A11-Mediated Epithelial Ferroptosis.",
+      "url": "https://doi.org/10.1007/s10620-026-09867-w",
+      "source": "PubMed — Digestive diseases and sciences",
+      "one_liner": "PURPOSE: Advanced mining technologies have increased the generation and exposure risk of coal dust nanoparticles (CD-NPs). While CD-NPs are known to cause lung damage, their effects on intestinal tissues following respiratory exposure remain unclear. Here, we investigated the damaging effects of CD-NPs on colonic tissues and the underlying mechanisms. MET...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "The gut microbiota alleviates depression by remodeling gut-brain energy metabolism.",
+      "url": "https://doi.org/10.1016/j.cmet.2026.03.002",
+      "source": "PubMed — Cell metabolism",
+      "one_liner": "Although peripheral-brain crosstalk regulates energy metabolism, its role in depression remains unclear. Here, we used metabolic profiling to reveal elevated fecal creatine alongside reduced plasma and cerebrospinal fluid creatine in both patients with depression and mouse depression models. Exogenous creatine produced antidepressant-like effects mediated...",
+      "segment": 1,
+      "timestamp": 132.96
+    },
+    {
+      "title": "The Gut Microbiome in Amyotrophic Lateral Sclerosis: Emerging Mechanisms and Therapeutic Potential.",
+      "url": "https://doi.org/10.1007/s12035-026-05826-8",
+      "source": "PubMed — Molecular neurobiology",
+      "one_liner": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder marked by progressive loss of motor neurons and a median survival of 2 to 3 years after symptom onset. Despite advances in genetics, particularly the identification of mutations in C9ORF72, SOD1, and TDP 43, substantial variability in disease onset and progression remains unexplaine...",
+      "segment": 2,
+      "timestamp": 181.48
+    },
+    {
+      "title": "Oxycodone self-administration and genetic background exert community-specific effects in the gut microbiome.",
+      "url": "https://doi.org/10.1038/s41598-026-41666-1",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "",
+      "segment": 3,
+      "timestamp": 416.56
+    },
+    {
+      "title": "Porphyromonas gingivalis induces intestinal inflammation through gingipain-dependent gut microbiome dysbiosis.",
+      "url": "https://doi.org/10.1186/s40168-026-02389-7",
+      "source": "PubMed — Microbiome",
+      "one_liner": "BACKGROUND: Porphyromonas gingivalis (Pg), a key pathogen in periodontitis, is implicated in various systemic diseases such as pancreatic cancer and Alzheimer's disease. However, as a periodontal pathogen that can directly enter the lower gastrointestinal tract via saliva, its potential impact on the gut microbiome, intestinal inflammation, and its underl...",
+      "segment": 4,
+      "timestamp": 548.86
+    },
+    {
+      "title": "Retraction Note: Predictable regulation of gut microbiome in immunotherapeutic efficacy of gastric cancer.",
+      "url": "https://doi.org/10.1038/s41435-026-00397-z",
+      "source": "PubMed — Genes and immunity",
+      "one_liner": "The original article claimed that the gut microbiome could be predictably regulated to influence the efficacy of immunotherapy in gastric cancer patients.\n\nMETHOD / APPROACH:\nThe original study involved analysis of gut microbiome data from gastric cancer patients undergoing immunotherapy.",
+      "segment": 5,
+      "timestamp": 580.08
+    },
+    {
+      "title": "Distinct difference of pancreatic tissue-specific microbiome in autoimmune pancreatitis and pancreatic ductal adenocarcinoma.",
+      "url": "https://doi.org/10.1038/s41598-026-44821-w",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "Autoimmune pancreatitis (AIP) is a form of chronic pancreatitis that may be difficult to distinguish from pancreatic ductal adenocarcinoma (PDAC). Emerging evidence suggests the substantial involvement of gut microbiome dysbiosis in various disorders, including pancreatic diseases. This study investigates the differences in pancreatic tissue-specific micr...",
+      "segment": 6,
+      "timestamp": 756.02
+    },
+    {
+      "title": "Multi-cohort analysis of metagenome for type 2 diabetes identified universal gut microbiota signatures across populations.",
+      "url": "https://doi.org/10.1038/s41387-026-00418-w",
+      "source": "PubMed — Nutrition & diabetes",
+      "one_liner": "BACKGROUND: Several studies have investigated the association between the gut microbiota and type 2 diabetes mellitus (T2D) in various populations. Nonetheless, noises specific to individual cohorts might distort the microbial dysbiosis characteristics and result in inconsistent findings across studies. Thus, we aimed to identify the universal features of...",
+      "segment": 7,
+      "timestamp": 905.61
+    },
+    {
+      "title": "A review on molecular crosstalk: Bioactive polysaccharides and gut microbiota in type 2 diabetes-Pathways, signaling, and therapeutic translation.",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2026.151459",
+      "source": "PubMed — International journal of biological macromolecules",
+      "one_liner": "Type 2 diabetes mellitus (T2D) is a chronic metabolic disorder characterized by insulin resistance, impaired glucose homeostasis, and low-grade inflammation, in which gut microbiota dysbiosis plays a pivotal role in disease progression. Natural bioactive polysaccharides (NBPs) from diverse sources have emerged as effective microbiota-targeted agents with ...",
+      "segment": 8,
+      "timestamp": 1067.9
+    },
+    {
+      "title": "Harnessing the lung microbiome for precision management of fibrotic lung disease.",
+      "url": "https://doi.org/10.1016/j.molmed.2026.02.002",
+      "source": "PubMed — Trends in molecular medicine",
+      "one_liner": "Interstitial lung diseases, particularly idiopathic pulmonary fibrosis (IPF), have dismal prognoses, with a median survival of 3-5 years, owing to a lack of early biomarkers or effective treatments. This review highlights the lung microbiome as a key biological factor in IPF pathogenesis and a promising therapeutic target. Elevated burdens of pathogenic b...",
+      "segment": 9,
+      "timestamp": 1116.76
+    },
+    {
+      "title": "The Role of Gut Microbiota and Their Derived Metabolites in Chemotherapy-Induced Nausea and Vomiting in Ovarian Cancer.",
+      "url": "https://doi.org/10.1002/cam4.71752",
+      "source": "PubMed — Cancer medicine",
+      "one_liner": "OBJECTIVE: This study aimed to investigate the relationship between gut microbiota and chemotherapy-induced nausea and vomiting (CINV) in patients with ovarian cancer undergoing platinum-based chemotherapy (carboplatin or cisplatin combined with paclitaxel). METHODS: Clinical data and fecal samples were collected from patients with ovarian cancer after ad...",
+      "segment": 10,
+      "timestamp": 1153.23
+    },
+    {
+      "title": "Regulation of Starch-Lauric Acid Complex Properties by Amylose Molecular Weight: Structure, Digestibility, and Gut Microbiota Fermentation.",
+      "url": "https://doi.org/10.1021/acs.jafc.5c14062",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "The molecular weight (MW) of amylose is a critical determinant of the structure and functionality of amylose-lipid complexes (RS5). This study investigated complexes constructed from high-MW (HCK) and low-MW (CGK) amylose with lauric acid by using an in vitro digestion-fermentation model. A distinct paradox emerged: while CGK-based complexes exhibited a h...",
+      "segment": 11,
+      "timestamp": 1197.1
+    },
+    {
+      "title": "Data Mining of Sediment Microbiomes of the Tibetan Plateau Revealed a Genomic Repository of Ancient Lineages and Adaptive Evolution of Asgardarchaeota.",
+      "url": "https://doi.org/10.34133/research.1213",
+      "source": "PubMed — Research (Washington, D.C.)",
+      "one_liner": "The extreme climatic conditions of the Tibetan Plateau foster unique microbial communities, especially in the sediment ecosystem. A thorough understanding of these communities could facilitate revealing their microbial diversity, biological resources, and response to climate change. Here, we have constructed the Tibetan Plateau Microbial Catalog of Sedime...",
+      "segment": 12,
+      "timestamp": 1250.9
+    },
+    {
+      "title": "S-equol promotes ferroptosis in triple negative breast cancer by coordinating NCOA4-mediated ferritinophagy and PPARγ-mediated lipid metabolism.",
+      "url": "https://doi.org/10.1007/s11010-026-05524-y",
+      "source": "PubMed — Molecular and cellular biochemistry",
+      "one_liner": "Triple negative breast cancer (TNBC) is a diverse and highly aggressive cancer characterized by a strong tendency to metastasize, poor prognosis, and a lack of effective therapeutic targets. S-equol, an active metabolinte produced by gut microbiota through the conversion of daidzein, has been proven to possess anticancer activity. This study aims to inves...",
+      "segment": 13,
+      "timestamp": 1303.41
+    },
+    {
+      "title": "Bacteroides acidifaciens exacerbates cardiac ischemia/reperfusion injury via the microbial-host isozyme DPP4.",
+      "url": "https://doi.org/10.1016/j.chom.2026.03.012",
+      "source": "PubMed — Cell host & microbe",
+      "one_liner": "Ischemia/reperfusion (I/R) injury is a key driver in cardiomyocyte loss and cardiac dysfunction in ischemic heart disease. Here, we uncover a previously unrecognized gut microbiota-mediated mechanism that contributes to myocardial I/R injury. Using murine I/R models and fecal microbiota transplantation, we demonstrate that the gut microbiota mediates card...",
+      "segment": 14,
+      "timestamp": 1474.43
+    },
+    {
+      "title": "Maternal Preconception Antibiotic Exposure Disrupts Microbial Succession: A Transgenerational Risk for Offspring Gut Mucosal Immaturity and Colitis Susceptibility.",
+      "url": "https://doi.org/10.1002/advs.202516931",
+      "source": "PubMed — Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "one_liner": "The early-life microbiome plays a pivotal role in host development and lifelong health. Maternal factors are increasingly recognized as crucial in shaping offspring microbiome. However, how maternal preconception perturbations affects offspring health remain unclear. Thus, we combined animal and clinical data to elucidate whether preconception microbial p...",
+      "segment": 15,
+      "timestamp": 1518.88
+    },
+    {
+      "title": "Living Hydrogels: Harnessing Microorganism-Material Synergy for Next-Generation Therapeutics.",
+      "url": "https://doi.org/10.1002/advs.202521766",
+      "source": "PubMed — Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "one_liner": "Microorganism-based therapies, particularly those utilizing probiotics, have emerged as a powerful biomedical strategy owing to their inherent living functionalities. These living systems can dynamically interact with host environments and self-regulate their activity, offering superior adaptability, prolonged functionality, and microenvironmental respons...",
+      "segment": 16,
+      "timestamp": 1569.56
+    },
+    {
+      "title": "Unique microbial communities and phylosymbiosis signals in herpetofauna.",
+      "url": "https://doi.org/10.1093/ismejo/wrag076",
+      "source": "PubMed — The ISME journal",
+      "one_liner": "Microbial symbionts are closely related to the internal and external factors of their host. However, the prevalence of phylosymbiosis (the presence of host phylogenetic signal in microbial community composition) remains controversial, especially in animals collectively referred to as herpetofauna. To expand our understanding of host-microbiota interaction...",
+      "segment": 17,
+      "timestamp": 1620.12
+    },
+    {
+      "title": "Geographical diet variations and microbial diversity: insights into François' langur's adaptive strategies.",
+      "url": "https://doi.org/10.1128/msphere.00594-25",
+      "source": "PubMed — mSphere",
+      "one_liner": "The diversity in foraging behavior observed among species is indicative of their ability to adapt to specific environmental conditions, with dietary differences playing a crucial role in shaping the composition of gut microbiota. However, there are limited reports on the dietary habits and gut microbiota of François' langur (",
+      "segment": 18,
+      "timestamp": 1667.11
+    },
+    {
+      "title": "Non-gene-edited neural stem cells reverse neuroinflammation and microbiota dysbiosis in a sprague-dawley rat model of autism spectrum disorder.",
+      "url": "https://doi.org/10.1038/s41398-026-03841-w",
+      "source": "PubMed — Translational psychiatry",
+      "one_liner": "Autism spectrum disorder (ASD) is a complex neurodevelopmental condition with limited treatment options, where neuroinflammation and gut microbiota dysbiosis are emerging as interconnected therapeutic targets. This study evaluated the therapeutic potential of non-gene-edited human chemically induced pluripotent stem cell-derived neural stem cells (hCiPSC-...",
+      "segment": 19,
+      "timestamp": 1712.13
+    },
+    {
+      "title": "Patient-derived intestinal organoids as a model for site-specific mucosal bacterial interactions in paediatric inflammatory bowel disease.",
+      "url": "https://doi.org/10.1038/s41598-026-46184-8",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "Inflammatory bowel disease (IBD) is secondary to an abnormal immune response to the microbiota. To study this, models of host-microbe interactions that represent mucosal bacterial communities and inter-patient diversity are required. Human intestinal organoids (HIOs) are an established model to investigate epithelial responses. Here, we describe a techniq...",
+      "segment": 20,
+      "timestamp": 1820.9
+    },
+    {
+      "title": "Context-dependent indirect effects mediate ecological transitions between parasitism and mutualism.",
+      "url": "https://doi.org/10.1038/s42003-026-09945-9",
+      "source": "PubMed — Communications biology",
+      "one_liner": "Symbiotic interactions frequently shift along a mutualism-parasitism continuum, altering host fitness, population dynamics, and microbial community structure with ecological context. Here, we integrate field surveys, reciprocal breeding experiments, feeding assays, and microbiome profiling to dissect interactions between phoretic mite (Poecilochirus carab...",
+      "segment": 21,
+      "timestamp": 1898.63
+    },
+    {
+      "title": "LPS-induced endometrial cell-derived exosomes suppress probiotic Lactobacillus growth.",
+      "url": "https://doi.org/10.1038/s41598-026-44830-9",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "",
+      "segment": 22,
+      "timestamp": 2039.7
+    },
+    {
+      "title": "Cold environment is associated with worse outcomes in ischemic stroke patients and the underlying gut microbial mechanism.",
+      "url": "https://doi.org/10.1186/s12866-026-05013-8",
+      "source": "PubMed — BMC microbiology",
+      "one_liner": "Cold-season-related gut dysbiosis (an imbalance in gut microbiota) is associated with more severe brain damage and a poorer 3-month prognosis in patients with acute ischemic stroke (AIS), and transplanting this dysbiotic microbiota into mice causally aggravates stroke injury.\n\nMETHOD / APPROACH:\n1.",
+      "segment": 23,
+      "timestamp": 2172.44
+    },
+    {
+      "title": "Towards Digital Periodontology in Space Medicine.",
+      "url": "https://doi.org/10.3357/AMHP.6830.2026",
+      "source": "PubMed — Aerospace medicine and human performance",
+      "one_liner": "During spaceflight, microgravity, radiation, and altered immune function can disrupt balance, increasing susceptibility to both oral and systemic inflammation. We propose a periodontal digital twin, a computational model that integrates oral microbiome, immune, and metabolic data to simulate individual health in real time. The proposed framework conceptua...",
+      "segment": 24,
+      "timestamp": 2325.17
+    },
+    {
+      "title": "Metagenomic and metatranscriptomic analysis of sulfur-driven autotrophic denitrification coupled with carbon assimilation: roles of sulfur-to-nitrogen ratio and hydraulic retention time.",
+      "url": "https://doi.org/10.1016/j.biortech.2026.134153",
+      "source": "PubMed — Bioresource technology",
+      "one_liner": "The sulfur autotrophic denitrification (SAD) process is a promising technology for nitrogen-containing wastewater treatment, with research predominantly focused on nitrate and sulfide transformations, while the potential for inorganic carbon assimilation remains underexplored. In this study, a long-term stable SAD system was maintained in an airlift biore...",
+      "segment": 25,
+      "timestamp": 2376.74
+    },
+    {
+      "title": "A synthetic microbial community enhances flavor and safety in reduced-salt soy sauce fermentation: Multi-omics insights into microbial stabilization and metabolic regulation.",
+      "url": "https://doi.org/10.1016/j.fm.2025.104974",
+      "source": "PubMed — Food microbiology",
+      "one_liner": "Reducing sodium in soy sauce fermentation while preserving flavor and safety presents significant technical challenges. To address this, we constructed a synthetic microbial community (SynMC) comprising Tetragenococcus halophilus T10, Zygosaccharomyces rouxii QH-25, and Wickerhamiella versatilis CGMCC 3790 for reduced-salt fermentation (13 %NaCl). Multi-o...",
+      "segment": 26,
+      "timestamp": 2425.31
+    },
+    {
+      "title": "3-D printed aseptic injection system for capillary electrophoresis.",
+      "url": "https://doi.org/10.1016/j.talanta.2025.129153",
+      "source": "PubMed — Talanta",
+      "one_liner": "Capillary electrophoresis (CE) is a powerful tool to separate complex mixtures which includes mixtures of intact and viable organisms, a promising new area to improve analysis of microbiomes. CE requires an injection block or autosampler to load samples for separation. Neither of these sample introduction systems offer ease-of-use and cost efficiency with...",
+      "segment": 27,
+      "timestamp": 2480.48
+    },
+    {
+      "title": "Assessment of probiotic and prebiotic use in gynecologic cancer patients: a systematic review.",
+      "url": "https://doi.org/10.1016/j.ajog.2025.09.042",
+      "source": "PubMed — American journal of obstetrics and gynecology",
+      "one_liner": "OBJECTIVE: To evaluate evidence on the impact of probiotics and prebiotics on clinical outcomes, treatment efficacy, quality of life, safety, and translational endpoints in patients with gynecologic cancers. DATA SOURCES: A systematic search of PubMed, Embase, and Scopus was conducted in March 2023 and updated through September 2025. Gray literature sourc...",
+      "segment": 28,
+      "timestamp": 2533.33
+    },
+    {
+      "title": "Multigram-scale stereoselective synthesis of neurosteroid isomers by gut microbial isolates using plant biomass-derived medium.",
+      "url": "https://doi.org/10.1016/j.tibtech.2026.02.013",
+      "source": "PubMed — Trends in biotechnology",
+      "one_liner": "We present a sustainable microbial platform utilizing gut bacteria and a plant-based medium for stereoselective neurosteroid biosynthesis. Through bioinformatics- and structural biology-guided screening of over 3000 bacterial isolates, we identified three gut strains exhibiting distinct stereospecificities: Holdemania filiformis produces isopregnanolone, ...",
+      "segment": 29,
+      "timestamp": 2580.17
+    },
+    {
+      "title": "Gut-liver axis drives the triple mechanism of liver inflammation-carcinogenesis: Microbial-immune-metabolic network.",
+      "url": "https://doi.org/10.1016/j.bbcan.2026.189563",
+      "source": "PubMed — Biochimica et biophysica acta. Reviews on cancer",
+      "one_liner": "The gut-liver axis, through intricate microbial-immune-metabolic networks, plays a pivotal role in driving hepatic fibrosis. Chronic liver injury activates hepatic stellate cells, resulting in pathological extracellular matrix deposition. Gut dysbiosis, characterized by altered microbial metabolites and bacterial translocation, significantly modulates thi...",
+      "segment": 30,
+      "timestamp": 2631.65
+    },
+    {
+      "title": "The role of the microbiota in cancer drug resistance and emerging therapeutic strategies.",
+      "url": "https://doi.org/10.1016/j.canlet.2026.218305",
+      "source": "PubMed — Cancer letters",
+      "one_liner": "Drug resistance remains a significant obstacle in cancer therapy, severely compromising therapeutic efficacy and patient survival outcomes. Targeted therapy is now a central strategy for cancers with defined molecular abnormalities, employing agents that interact with specific genetic or molecular targets. Immunotherapy has emerged as a transformative app...",
+      "segment": 31,
+      "timestamp": 2684.3
+    },
+    {
+      "title": "Supplementation of Angelica sinensis improves the growth performance, hepatic antioxidant function, and composition of intestinal microbiota in Tan sheep.",
+      "url": "https://doi.org/10.1016/j.dci.2026.105568",
+      "source": "PubMed — Developmental and comparative immunology",
+      "one_liner": "Angelica sinensis, a traditional Chinese medicinal herb and a potential natural feed ingredient, contains a variety of bioactive components. This study employed multi-omics technologies to investigate the mechanism by which Angelica sinensis improves the hepatic antioxidant function of Tan sheep through a multi-organ interaction network. Three-month-old T...",
+      "segment": 32,
+      "timestamp": 2742.66
+    },
+    {
+      "title": "What is the nature of sleep and circadian rhythm health on gastrointestinal microbiota? A systematic review of studies in humans.",
+      "url": "https://doi.org/10.1016/j.smrv.2026.102256",
+      "source": "PubMed — Sleep medicine reviews",
+      "one_liner": "This systematic review synthesized findings from 41 human studies across the lifespan published between 2016 and 2025 examining associations of multidimensional sleep and circadian rhythm health with the gut microbiome (GM). The studies include experimental and observational designs of generally healthy participants, measuring sleep and circadian dimensio...",
+      "segment": 33,
+      "timestamp": 2788.04
+    },
+    {
+      "title": "Targeted depletion of intratumoral bacteria using PEGylated metronidazole to augment cancer treatment efficacy.",
+      "url": "https://doi.org/10.1016/j.biomaterials.2025.123772",
+      "source": "PubMed — Biomaterials",
+      "one_liner": "Since the infiltration of intratumoral microbiota is associated with aggressive phenotypes of cancer, eliminating bacteria within tumors has become an attractive approach to cancer treatment. By self-assembly of PEGylated metronidazole (MTI-PEG), we developed a nanosized antibiotic that effectively eliminates intratumoral bacteria without causing gut micr...",
+      "segment": 34,
+      "timestamp": 2841.82
+    },
+    {
+      "title": "Metagenomics insights into bacterial community, viral diversity and community-scale functions in fermented red pepper.",
+      "url": "https://doi.org/10.1016/j.fm.2025.104986",
+      "source": "PubMed — Food microbiology",
+      "one_liner": "Fermented red peppers (FRPs) provide distinct flavor and possible health benefits, but understanding of their microbial functions, viral diversity, pathogenicity, and horizontal gene transfer (HGT) patterns remains limited. Integrated multi-method analysis revealed FRP's bacterial community was dominated by Bacillus (21.52 %), Lactobacillus sensu lato (14...",
+      "segment": 35,
+      "timestamp": 2894.38
+    },
+    {
+      "title": "Mobile genetic elements drive the assembly of high-risk resistance and virulence configurations at the riverine water-sediment interface.",
+      "url": "https://doi.org/10.1016/j.envres.2026.124055",
+      "source": "PubMed — Environmental research",
+      "one_liner": "Riverine ecosystems are major conduits and repositories for microplastics, heavy metals and antibiotics yet how these co-occurring stressors jointly shape resistance and virulence risks across water and sediments remains unclear. Here we combined shotgun metagenomics with pollutant profiling along a representative rural-to-urban gradient during the dry se...",
+      "segment": 36,
+      "timestamp": 2938.56
+    },
+    {
+      "title": "Association Between Clostridioides difficile Test Positivity and Colorectal Cancer Incidence in a Multisite Hospital-Based Retrospective Cohort Analysis.",
+      "url": "https://doi.org/10.1158/2767-9764.CRC-25-0606",
+      "source": "PubMed — Cancer research communications",
+      "one_liner": "Sporadic colorectal cancer (CRC) remains a significant driver of worldwide morbidity and mortality. Environmental factors associated with CRC are increasingly well-described and now include generalized colonic dysbiosis and individual enteric bacteria. Clostridioides difficile is one such species, with recent mouse model work suggesting prolonged exposure...",
+      "segment": 37,
+      "timestamp": 2983.82
+    },
+    {
+      "title": "The Importance of Liver-Lung Communication in Pulmonary Vascular Diseases.",
+      "url": "https://doi.org/10.1002/cph4.70140",
+      "source": "PubMed — Comprehensive Physiology",
+      "one_liner": "In normal health, the liver and lungs enjoy a close anatomic, physiologic, and functional relationship. In the context of pulmonary vascular disease, however, there is accumulating evidence that the interplay between the gut microbiome, hepatic system, and pulmonary vasculature (so-called \"gut-liver-lung\" axis) plays an important role in driving disease p...",
+      "segment": 38,
+      "timestamp": 3041.51
+    },
+    {
+      "title": "Frontiers in Gut Health: The Emerging Role of Berries in Microbiota Modulation and Gastrointestinal Diseases.",
+      "url": "https://doi.org/10.1093/nutrit/nuaf294",
+      "source": "PubMed — Nutrition reviews",
+      "one_liner": "Berries are rich in bioactive compounds, including polyphenols, dietary fiber, and micronutrients, that have been linked to antioxidant, anti-inflammatory, and microbiota-modulating effects. This review examines how berry intake relates to gut health, which is considered here across 4 domains: (1) gut microbiota composition and function, (2) intestinal ba...",
+      "segment": 39,
+      "timestamp": 3089.15
+    }
+  ]
+}
