@@ -1,0 +1,366 @@
+{
+  "timestamps": [
+    0.0,
+    53.3,
+    182.03,
+    304.12,
+    357.66,
+    403.42,
+    549.31,
+    596.59,
+    644.66,
+    799.04,
+    845.0,
+    893.24,
+    940.37,
+    979.72,
+    1079.34,
+    1125.56,
+    1172.1,
+    1312.66,
+    1451.47,
+    1578.84,
+    1771.62,
+    1909.86,
+    1960.02,
+    2003.57,
+    2056.22,
+    2110.77,
+    2164.65,
+    2209.57,
+    2248.76,
+    2297.96,
+    2342.02,
+    2390.4,
+    2440.82,
+    2492.63,
+    2542.78,
+    2597.67,
+    2651.26,
+    2701.22,
+    2751.66,
+    2802.61
+  ],
+  "items": [
+    {
+      "title": "Metatranscriptomic Insights into Bacterial Activity, Virulence, and Antimicrobial Resistance in the Root Canal Microbiome of Acute Apical Abscesses.",
+      "url": "https://doi.org/10.1016/j.joen.2026.01.002",
+      "source": "PubMed — Journal of endodontics",
+      "one_liner": "INTRODUCTION: This study employed metatranscriptomics to investigate the endodontic microbiome and resistome in acute apical abscesses (AAA) and asymptomatic apical periodontitis (AAP). METHODS: Root canal samples were collected from 20 patients, including 10 cases of AAA and 10 cases of AAP. RNA sequencing was conducted using the NovaSeq 6000 system. Tax...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Unbinned contigs expand known diversity in the global microbiome.",
+      "url": "https://doi.org/10.1038/s41564-026-02314-6",
+      "source": "PubMed — Nature microbiology",
+      "one_liner": "The ongoing census of microbial life is hampered by disparate sampling across Earth's habitats, challenges in isolating uncultivated organisms, limited resolution in taxonomic marker gene amplicons and incomplete recovery of metagenome-assembled genomes. Here we quantify discoverable Bacterial and Archaeal diversity in a comprehensive, curated cross-habit...",
+      "segment": 1,
+      "timestamp": 53.3
+    },
+    {
+      "title": "Gut microbiota-driven IL-17/PPAR axis mediates epigallocatechin-induced intestinal repair in weaned lambs.",
+      "url": "https://doi.org/10.1186/s40104-026-01371-5",
+      "source": "PubMed — Journal of animal science and biotechnology",
+      "one_liner": "BACKGROUND: Early weaning is a key strategy to improve lamb production efficiency; however, it inevitably compromises intestinal barrier integrity and function. This study aimed to investigate the effects of epigallocatechin (EGC) on growth performance and intestinal barrier function in weaned lambs, using metagenomics, metabolomics, and intestinal transc...",
+      "segment": 2,
+      "timestamp": 182.03
+    },
+    {
+      "title": "Planetary microbiome structure and generalist-driven gene flow across disparate habitats.",
+      "url": "https://doi.org/10.1016/j.cell.2025.12.051",
+      "source": "PubMed — Cell",
+      "one_liner": "Microbes are ubiquitous on Earth, forming microbiomes that sustain macroscopic life and biogeochemical cycles. Microbial dispersal, driven by natural processes and human activities, interconnects microbiomes across habitats, yet most comparative studies focus on specific ecosystems. To study planetary microbiome structure, function, and inter-habitat inte...",
+      "segment": 3,
+      "timestamp": 304.12
+    },
+    {
+      "title": "Gut microbiota-associated nutritional-immune status predicts prognosis in postoperative NSCLC patients.",
+      "url": "https://doi.org/10.1080/19490976.2026.2652460",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "BACKGROUND: Surgical resection is the primary treatment for non-small cell lung cancer (NSCLC) patients with stages I and II; however, the postoperative prognosis varies among individuals. The prognostic nutritional index (PNI) reflects the nutritional-immune status of patients, but its microbial determinants remain unclear. METHODS: PNI was analyzed in a...",
+      "segment": 4,
+      "timestamp": 357.66
+    },
+    {
+      "title": "Gut microbiota shifts in spaceflight: a case study evidence and countermeasures for microbial homeostasis.",
+      "url": "https://doi.org/10.1007/s13205-026-04760-9",
+      "source": "PubMed — 3 Biotech",
+      "one_liner": "The gut microbiota is a crucial component in maintaining overall human health since it has been found to influence not only metabolism but also neurobehavioral function and immunity. The extreme conditions of space, for example, cosmic radiation, microgravity, and confinement, can severely disrupt the functioning and alter the composition of gut microbiot...",
+      "segment": 5,
+      "timestamp": 403.42
+    },
+    {
+      "title": "Metagenomic insights into the global wild boar faecal microbiome reveal novel taxa and carbohydrate degraders distinguishing wild and domesticated Sus.",
+      "url": "https://doi.org/10.1186/s40168-026-02392-y",
+      "source": "PubMed — Microbiome",
+      "one_liner": "BACKGROUND: The inclusion of fibre in domestic pig diets is favourable from a digestive health, environmental, and socio-economic perspective. Unlike the highly optimized formulated diets of domestic pigs, wild boars feed opportunistically, consuming a broad range of foods that consist predominantly of plant materials. Consequently, the intestinal microbi...",
+      "segment": 6,
+      "timestamp": 549.31
+    },
+    {
+      "title": "Microbiome-Based Clustering Identifies Glycemic Control-Related Subtypes in Youth With Recent-Onset Type 1 Diabetes.",
+      "url": "https://doi.org/10.1002/mco2.70705",
+      "source": "PubMed — MedComm",
+      "one_liner": "Type 1 diabetes (T1D) in children exhibits substantial heterogeneity in glycemic control, yet the biological mechanisms underlying this variation remain unclear. We aimed to explore endotype heterogeneity in youth with recent-onset T1D using unsupervised clustering based on multi-omics data, and to identify associated molecular signatures and underlying m...",
+      "segment": 7,
+      "timestamp": 596.59
+    },
+    {
+      "title": "Gordonibacter-associated regulatory T cell dysfunction and S100A11-mediated neural impairment in Hirschsprung's disease: a microbiota-immune-neural axis.",
+      "url": "https://doi.org/10.1186/s13578-026-01562-7",
+      "source": "PubMed — Cell & bioscience",
+      "one_liner": "BACKGROUND: Hirschsprung's disease (HSCR) is a congenital disorder characterized by intestinal aganglionosis. Despite evidence linking gut microbiota and immune cells to various gastrointestinal diseases, their role in HSCR pathogenesis remains poorly understood. We investigated associations between gut microbiota composition, immune cell phenotypes, and ...",
+      "segment": 8,
+      "timestamp": 644.66
+    },
+    {
+      "title": "The MicrobeAtlas database: Global trends and insights into Earth's microbial ecosystems.",
+      "url": "https://doi.org/10.1016/j.cell.2026.01.021",
+      "source": "PubMed — Cell",
+      "one_liner": "Environmental DNA sequencing has revolutionized our understanding of microbial diversity and ecology. Microbiomes have now been sequenced across the entire planet-from the deep subsurface to the mountaintops-covering a myriad of hosts, biomes, and conditions. Yet, the diversity of sequencing and processing strategies hampers universal insights. MicrobeAtl...",
+      "segment": 9,
+      "timestamp": 799.04
+    },
+    {
+      "title": "Serum Sodium and Gut Klebsiella Are Positively Related to Osteoporosis.",
+      "url": "https://doi.org/10.1002/cbf.70207",
+      "source": "PubMed — Cell biochemistry and function",
+      "one_liner": "Emerging evidence suggests a link between gut microbiota dysbiosis and osteoporosis. However, specific bacterial taxa and metabolic correlates in human osteoporosis remain poorly characterized. This study explored gut microbial profiles and serum biochemical markers in osteoporosis patients compared to non-osteoporosis individuals in Hainan, China. Fecal ...",
+      "segment": 10,
+      "timestamp": 845.0
+    },
+    {
+      "title": "From Field Metagenomes to Mutant Genomes: Coevolution of Cyanophages and",
+      "url": "https://doi.org/10.1021/acs.est.5c12277",
+      "source": "PubMed — Environmental science & technology",
+      "one_liner": "Picocyanobacteria, represented by",
+      "segment": 11,
+      "timestamp": 893.24
+    },
+    {
+      "title": "Short-Chain Fatty Acids Activate Myenteric Neurons and Delay Colonic Motility via Free Fatty Acid Receptors 2 and 3 in the Mouse.",
+      "url": "https://doi.org/10.1111/nmo.70299",
+      "source": "PubMed — Neurogastroenterology and motility",
+      "one_liner": "BACKGROUND: Short-chain fatty acids (SCFAs), metabolic products of the gut microbiota, are important regulators of intestinal homeostasis. SCFAs exert their effects through free fatty acid receptors (FFAR), which are located on enteroendocrine cells and enteric nerves. The actions of SCFAs include the regulation of motility. How SCFAs affect enteric neuro...",
+      "segment": 12,
+      "timestamp": 940.37
+    },
+    {
+      "title": "Microbial regulation of intestinal stem cell function: implications for alleviating intestinal injury of weaned piglets.",
+      "url": "https://doi.org/10.1038/s41522-026-00973-1",
+      "source": "PubMed — NPJ biofilms and microbiomes",
+      "one_liner": "This review highlights how gut microbiota regulates intestinal stem cell function. Weaning stress disrupts this balance, causing intestinal injury in piglets. However, targeted nutritional interventions can modulate the gut microbiota to restore ISC function and repair tissue damage. Understanding this microbe-ISC interaction provides new, effective strat...",
+      "segment": 13,
+      "timestamp": 979.72
+    },
+    {
+      "title": "Human fecal transplantation from stunted children promotes metabolic dysfunction in mice fed with a high-fat and high-fructose corn syrup diet.",
+      "url": "https://doi.org/10.1080/19490976.2026.2651984",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Stunting, or impaired child growth due to poor nutrition and infections, is characterized by a low height-for-age and affects 48%-56% of school-aged children worldwide. It is associated with later weight gain and chronic diseases. The gut microbiome in undernourished children may increase obesity risk if they are exposed to high-calorie environments. To i...",
+      "segment": 14,
+      "timestamp": 1079.34
+    },
+    {
+      "title": "Neglected kingdoms: the gut virome, mycobiome and their role in inflammatory bowel disease.",
+      "url": "https://doi.org/10.1080/19490976.2026.2653288",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Inflammatory bowel disease (IBD) is a chronic relapsing-remitting disorder of the gastrointestinal tract characterized by immune dysregulation, epithelial barrier dysfunction, and microbial imbalance. While bacterial dysbiosis, including depletion of short-chain fatty acid (SCFA) producers and enrichment of pathobionts, is well characterized, the gut viro...",
+      "segment": 15,
+      "timestamp": 1125.56
+    },
+    {
+      "title": "Integrated analysis reveals strong reproducible signals within and across studies of the built environment",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.03.716326",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Background: Built environment microbiome studies have identified numerous factors that shape indoor microbiomes, yet the reproducibility of these findings across buildings, timepoints, and research groups remains unclear. Differences in sequencing protocols, sampling design, and environments pose major challenges for cross-study comparisons, particularly ...",
+      "segment": 16,
+      "timestamp": 1172.1
+    },
+    {
+      "title": "StrataBionn: a neural network supervised classification method for microbial communities",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.31.715659",
+      "source": "bioRxiv — genomics",
+      "one_liner": "The classification of microbial communities into discrete states or community state types (CSTs) is fundamental to understanding host-microbiome interactions and their clinical implications. Traditional methods, such as the nearest-neighbor approaches, often struggle with the inherent noise, high dimensionality, and non-linear signatures of taxonomic prof...",
+      "segment": 17,
+      "timestamp": 1312.66
+    },
+    {
+      "title": "Changes in dysbiosis and gene expression in the gut of wharf roach (Ligia Spp.) fed with expanded polystyrene",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.31.715705",
+      "source": "bioRxiv — pharmacology and toxicology",
+      "one_liner": "The East Asian region, known for its high levels of human and fishery activities, experiences serious plastic pollution in the marine environment, especially in seawater and along coastlines. Wharf roaches (Ligia spp.) collected from the coast of western Japan frequently ingest expanded polystyrene (EPS), which is then excreted microplastics through their...",
+      "segment": 18,
+      "timestamp": 1451.47
+    },
+    {
+      "title": "Microbiota-driven mechanisms in multisystem diseases: integrative evidence across cardiovascular, metabolic, neurological and autoimmune disorders.",
+      "url": "https://doi.org/10.1007/s10482-026-02296-9",
+      "source": "PubMed — Antonie van Leeuwenhoek",
+      "one_liner": "The human microbiota represents one of the body's most influential biological systems, engaging in constant metabolic, immunological, and neuroendocrine communication with the host. Disruption of this intricate ecosystem, or dysbiosis, has emerged as a fundamental determinant in the onset and progression of numerous chronic diseases. This review consolida...",
+      "segment": 19,
+      "timestamp": 1578.84
+    },
+    {
+      "title": "Machine learning-based assessment of the healthy human gut mycobiota landscape using ITS1 DNA metabarcoding data.",
+      "url": "https://doi.org/10.1186/s13040-026-00532-6",
+      "source": "PubMed — BioData mining",
+      "one_liner": "The human gut microbiome plays a critical role in maintaining host health and homeostasis, and current literature suggests a bidirectional relationship between microbiome ecology and host well-being. DNA metabarcoding has emerged as a powerful tool for investigating microbiome imbalances (i.e., dysbiosis). While the prokaryotic microbiome has been extensi...",
+      "segment": 20,
+      "timestamp": 1771.62
+    },
+    {
+      "title": "A diagnostic model based on pulmonary microbiota and host gene expression to distinguish colonization from pneumonia.",
+      "url": "https://doi.org/10.1038/s41598-026-44972-w",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "Pneumonia remains a leading cause of global mortality. Conventional diagnostic approaches frequently fail to distinguish microbial colonization from true infection in the lower respiratory tract, complicating clinical decision-making and contributing to antibiotic overuse. Improved diagnostic strategies are urgently needed. In this prospective, single-cen...",
+      "segment": 21,
+      "timestamp": 1909.86
+    },
+    {
+      "title": "Probiotic novel strain Lactobacillus reuteri MRD01 alleviates dextran sulfate sodium-induced colitis in male mice by promoting intestinal barrier integrity.",
+      "url": "https://doi.org/10.1007/s10482-026-02291-0",
+      "source": "PubMed — Antonie van Leeuwenhoek",
+      "one_liner": "Intestinal barrier dysfunction contributes to the progression of inflammatory bowel disease (IBD), yet current therapies provide limited symptom relief, are associated with substantial long-term adverse effects, and exhibit high recurrence rates. Lactobacillus reuteri (L. reuteri), a probiotic with strong colonisation capacity in the gastrointestinal trac...",
+      "segment": 22,
+      "timestamp": 1960.02
+    },
+    {
+      "title": "Sheng Jiangsan alleviated influenza-induced acute lung injury by regulating Lactobacillus murinus.",
+      "url": "https://doi.org/10.1016/j.jep.2026.121524",
+      "source": "PubMed — Journal of ethnopharmacology",
+      "one_liner": "ETHNOPHARMACOLOGICAL RELEVANCE: Sheng Jiangsan (SJS) authorized by the Chinese Food and Drug Administration for treating wind-heat common cold, exhibits broad-spectrum antiviral activity. However, its specific antiviral and anti-inflammatory mechanisms require clarification. Gut microbiota and their metabolites play significant roles in lung disease progr...",
+      "segment": 23,
+      "timestamp": 2003.57
+    },
+    {
+      "title": "Microcystin-LR disrupts gut metabolic homeostasis through microbiota-metabolite axis remodeling in grass carp.",
+      "url": "https://doi.org/10.1016/j.cbpc.2026.110524",
+      "source": "PubMed — Comparative biochemistry and physiology. Toxicology & pharmacology : CBP",
+      "one_liner": "Microcystin-LR (MC-LR) exerts detrimental effects on gut mucosal integrity and functional homeostasis in aquatic organisms. This study investigated the gut toxicity of MC-LR in grass carp exposed to 5 and 10 μg/L MC-LR through integrated histological, biochemical, molecular, microbiomics, metabolomic, and cellular analyses. MC-LR exposure caused pronounce...",
+      "segment": 24,
+      "timestamp": 2056.22
+    },
+    {
+      "title": "Disrupted Salivary Fungal Community in Patients With Oral Lichen Planus.",
+      "url": "https://doi.org/10.1016/j.identj.2026.109546",
+      "source": "PubMed — International dental journal",
+      "one_liner": "INTRODUCTION AND AIMS: Oral lichen planus (OLP), a chronic inflammatory oral mucosal disorder with malignant potential, has been associated with oral microbial dysbiosis. While bacterial community alterations in OLP are well-documented, the fungal community architecture and ecological dynamics, particularly within salivary microbiota, remain poorly charac...",
+      "segment": 25,
+      "timestamp": 2110.77
+    },
+    {
+      "title": "Atractylodes macrocephala polysaccharide AMP1-1 ameliorates weightless-induced cognitive dysfunction via the microbiota-gut-brain axis.",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2026.151754",
+      "source": "PubMed — International journal of biological macromolecules",
+      "one_liner": "Atractylodes macrocephala Koidz., a traditional Chinese medicine known for \"strengthening the spleen and replenishing qi\", has been recognized for its gastrointestinal protective and immunomodulatory properties, suggesting a potential role in gut-brain axis regulation. This study investigated the protective effect and underlying mechanism of a purified in...",
+      "segment": 26,
+      "timestamp": 2164.65
+    },
+    {
+      "title": "Probiotic potential of Parabacteroides johnsonii in mitigating age-related ovarian functional decline.",
+      "url": "https://doi.org/10.1016/j.jgg.2026.03.023",
+      "source": "PubMed — Journal of genetics and genomics = Yi chuan xue bao",
+      "one_liner": "The gut microbiota is increasingly recognized as a regulator of reproductive health, yet its role in ovarian aging remains unclear. Here, we combine Mendelian randomization (MR) analysis with experimental validation to investigate the causal relationship between gut microbiota and ovarian aging. MR analysis identifies four microbial taxa significantly ass...",
+      "segment": 27,
+      "timestamp": 2209.57
+    },
+    {
+      "title": "Exercise training induces mitochondrial biogenesis, while high-fat diet increases the ability of mitochondria to use long and short-chain fatty acids.",
+      "url": "https://doi.org/10.1113/JP289545",
+      "source": "PubMed — The Journal of physiology",
+      "one_liner": "Short-chain fatty acids (SCFAs), derived from peroxisomal metabolism and the gut microbiota, have been proposed as key substrates to support mitochondrial oxidative phosphorylation (OXPHOS) in extrahepatic tissues such as skeletal muscle. However, the extent to which mitochondria can oxidize SCFAs (acetate, propionate and butyrate) and the ability of exer...",
+      "segment": 28,
+      "timestamp": 2248.76
+    },
+    {
+      "title": "Prevotella-Derived Butyrate Inhibits CD8",
+      "url": "https://doi.org/10.1111/liv.70613",
+      "source": "PubMed — Liver international : official journal of the International Association for the Study of the Liver",
+      "one_liner": "BACKGROUND AND AIMS: Metabolic associated steatohepatitis (MASH) is a critical stage of MAFLD, lacking effective therapies. Gut microbiota and their metabolites, particularly short-chain fatty acids (SCFAs), are increasingly recognised as modulators of hepatic metabolism and immune responses. We investigated whether Prevotella could ameliorate MASH by reg...",
+      "segment": 29,
+      "timestamp": 2297.96
+    },
+    {
+      "title": "The Metabolic Dialogue Between the Gut and Distant Organs: From Microbial Products to Host Responses.",
+      "url": "https://doi.org/10.1002/cph4.70127",
+      "source": "PubMed — Comprehensive Physiology",
+      "one_liner": "The gut microbiota, through its extensive metabolic repertoire, plays a pivotal role in regulating systemic physiological processes and contributing to the pathogenesis of extraintestinal diseases. Key microbial metabolites, including short-chain fatty acids (SCFAs), tryptophan derivatives, bile acids, and trimethylamine N-oxide (TMAO), act as molecular m...",
+      "segment": 30,
+      "timestamp": 2342.02
+    },
+    {
+      "title": "Hi-C Links Reveal Viral Activity and Infection Within the Free-Living Microbial Community of a Secondary Chlorophyll Maximum in the Eastern Tropical North Pacific.",
+      "url": "https://doi.org/10.1111/1462-2920.70274",
+      "source": "PubMed — Environmental microbiology",
+      "one_liner": "Oxygen-deficient zones (ODZs) influence global nitrogen cycling as key sites for the removal of bioavailable nitrogen through denitrification and anammox. Despite their importance, many microbes and viruses in ODZs remain uncultivated, limiting our understanding of their ecological roles. This study employed Hi-C proximity linkages, combined with long and...",
+      "segment": 31,
+      "timestamp": 2390.4
+    },
+    {
+      "title": "Inhibition of the NLRP3 Inflammasome With MCC950 Improves Gut Health in Huntington's Disease Mice.",
+      "url": "https://doi.org/10.1111/jnc.70419",
+      "source": "PubMed — Journal of neurochemistry",
+      "one_liner": "Huntington's disease (HD) is an autosomal dominant neurodegenerative disorder featuring abnormal cognition, psychiatric symptoms, movement, and gastrointestinal function. It is caused by a tandem-repeat gene mutation encoding an expanded polyglutamine tract in the huntingtin protein. Our group was the first to demonstrate gut microbial disruption in both ...",
+      "segment": 32,
+      "timestamp": 2440.82
+    },
+    {
+      "title": "The role of the gut-spinal axis in immune-metabolic coupling after spinal cord injury.",
+      "url": "https://doi.org/10.1016/j.intimp.2026.116581",
+      "source": "PubMed — International immunopharmacology",
+      "one_liner": "Spinal cord injury (SCI), representing a devastating trauma to the central nervous system (CNS), is often accompanied by complex immune responses and metabolic dysregulation, significantly affecting patients' functional recovery and quality of life. In recent years, the gut-spinal axis, as an important pathway connecting the gut microbiome and the CNS, ha...",
+      "segment": 33,
+      "timestamp": 2492.63
+    },
+    {
+      "title": "Bioreactors on the Move: How Animals Contribute to Microbial Community Coalescence and Shape Ecosystem Function.",
+      "url": "https://doi.org/10.1111/1462-2920.70291",
+      "source": "PubMed — Environmental microbiology",
+      "one_liner": "Microbiome community coalescence-the mixing of separate microbial communities and their environments resulting in a novel community-represents an important but understudied ecological process at the animal-environment interface. Here, we propose that animals function as \"mobile bioreactors\" across landscapes, ingesting environmental microbes that undergo ...",
+      "segment": 34,
+      "timestamp": 2542.78
+    },
+    {
+      "title": "Activity-Informed Network Analysis Reveals Keystone Microbes Shaping Freshwater Ecosystem Function.",
+      "url": "https://doi.org/10.1111/1758-2229.70245",
+      "source": "PubMed — Environmental microbiology reports",
+      "one_liner": "Freshwater lakes are dynamic ecosystems, with varying oxygen dynamics that influence microbiome structure, composition, and transcriptomic activity. In many freshwater studies, ecological function and abundance metrics are used to discover keystone species; however, it is well established that abundance does not equal activity. Despite the existence of lo...",
+      "segment": 35,
+      "timestamp": 2597.67
+    },
+    {
+      "title": "Resistance of Microbial Community in Activated Sludge to Nano-Ag Stress Through Regulation of N-Acyl Homoserine Lactones-Mediated Quorum Sensing.",
+      "url": "https://doi.org/10.1002/bit.70155",
+      "source": "PubMed — Biotechnology and bioengineering",
+      "one_liner": "Nano-Ag is increasingly detected in WWTP due to its widespread application, posing a significant threat to microbial communities responsible for wastewater treatment efficiency. Prior studies have demonstrated that quorum sensing (QS) can modulate bacterial tolerance to various environmental stressors in sludge systems. However, the feasibility and mechan...",
+      "segment": 36,
+      "timestamp": 2651.26
+    },
+    {
+      "title": "The Peptonizer2000: Bringing Confidence to Metaproteomics.",
+      "url": "https://doi.org/10.1021/acs.jproteome.5c00567",
+      "source": "PubMed — Journal of proteome research",
+      "one_liner": "Metaproteomics, the large-scale study of proteins from microbial communities, faces challenges in identifying species due to similarities in protein sequences across different organisms. Current methods often rely on simple counting of matches between proteins and taxa, which can lead to low accuracy. We introduce the Peptonizer2000, a new tool that uses ...",
+      "segment": 37,
+      "timestamp": 2701.22
+    },
+    {
+      "title": "Antibiotic-Mediated Microbiota Depletion Suggests an Association Between Gastric Juice Dysbacteriosis and Abnormal Bile Acid Metabolism in Chronic Atrophic Gastritis Rats.",
+      "url": "https://doi.org/10.1002/bmc.70404",
+      "source": "PubMed — Biomedical chromatography : BMC",
+      "one_liner": "Current research on chronic atrophic gastritis (CAG) has primarily focused on intestinal flora, while the role of gastric juice microecology remains poorly understood. This study investigated whether alterations in gastric juice microbiota and bile acid (BA) profiles are associated with CAG under microbiota perturbation. A CAG rat model was designed by a ...",
+      "segment": 38,
+      "timestamp": 2751.66
+    },
+    {
+      "title": "Bacterial Extracellular Vesicles Mediate Microbiota-Host Communication to Regulate Blood Pressure in Male Rats.",
+      "url": "https://doi.org/10.1161/HYPERTENSIONAHA.125.25962",
+      "source": "PubMed — Hypertension (Dallas, Tex. : 1979)",
+      "one_liner": "BACKGROUND: Altered gut microbiota composition has been implicated in the development of hypertension. Evidence suggests bacterial products and metabolites can enter circulation, act on peripheral tissues, and modulate blood pressure (BP). We identified extracellular vesicles (EVs) of bacterial origin (bacterial extracellular vesicles [bEVs]) in the circu...",
+      "segment": 39,
+      "timestamp": 2802.61
+    }
+  ]
+}
