@@ -1,0 +1,51 @@
+{
+  "timestamps": [
+    0.0,
+    154.8,
+    287.7,
+    336.16,
+    384.73
+  ],
+  "items": [
+    {
+      "title": "Increased S. epidermidis in the airway-gut microbiome of infants with bronchopulmonary dysplasia",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.03.715941",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Rationale: Bronchopulmonary dysplasia (BPD), the lung disease associated with premature birth, is a significant health problem, often with long-term respiratory consequences. Recent research has highlighted the potential role of the lung and gut microbiome in the development and progression of BPD, yet it is unclear what aspects of the microbiome may cont...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "DETECTION OF BIOSYNTHETIC GENE CLUSTERS FROM METAGENOME OF NATURAL HONEY COLLECTED IN VIETNAM",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.03.716293",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "The antimicrobial properties of natural honey are partly attributed to bioactive secondary metabolites produced by its associated microbial communities, yet the biosynthetic capacity of these communities remains poorly characterized. Here, we applied a metagenomic approach to investigate the biosynthetic gene cluster (BGC) diversity of bacteria associated...",
+      "segment": 1,
+      "timestamp": 154.8
+    },
+    {
+      "title": "Strain-specific impacts of Pichia kudriavzevii on metabolite profiles and microbial community dynamics in Chinese Baijiu fermentation: Integrated metabolomics and metagenomics analysis.",
+      "url": "https://doi.org/10.1016/j.ijfoodmicro.2026.111660",
+      "source": "PubMed — International journal of food microbiology",
+      "one_liner": "Pichia kudriavzevii is a dominant yeast species in Chinese baijiu fermentation, yet its intraspecific diversity remains underexplored. This study used metabolomics and metagenomics analysis to investigate the impact of four distinct P. kudriavzevii strains (PK12, PK25, PK97, and PK360) on the metabolite profiles and microbial community structure in a cont...",
+      "segment": 2,
+      "timestamp": 287.7
+    },
+    {
+      "title": "Rethinking probiotic delivery: new hope for preventing necrotizing enterocolitis.",
+      "url": "https://doi.org/10.1080/17425247.2026.2648748",
+      "source": "PubMed — Expert opinion on drug delivery",
+      "one_liner": "INTRODUCTION: Necrotizing enterocolitis (NEC) is a devastating disease of the gastrointestinal tract that mainly affects premature newborns, with mortality rates exceeding 50% in the most severe cases. Despite decades of research the disease persists, there is no known cure, and treatment consists of supportive care only. Dysbiosis of the gut microbiome h...",
+      "segment": 3,
+      "timestamp": 336.16
+    },
+    {
+      "title": "Prebiotic modulation of FMT donor microbiota enhances MASLD-relevant taxa and functions in an in vitro gut model.",
+      "url": "https://doi.org/10.1093/jambio/lxag074",
+      "source": "PubMed — Journal of applied microbiology",
+      "one_liner": "AIMS: Metabolic dysfunction-associated steatotic liver disease (MASLD, formerly non-alcoholic fatty liver disease) is a prevalent and progressive condition closely linked to gut microbiota composition. Fecal microbiota transplantation (FMT) may help restore a health-associated microbiome, but its efficacy is often limited by inconsistent engraftment of be...",
+      "segment": 4,
+      "timestamp": 384.73
+    }
+  ]
+}

@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Apr 2026 05:24:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 05:16:33 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-04-05</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-05/podcast_2026-04-05.mp3</guid>
+      <pubDate>Sun, 05 Apr 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-05/podcast_2026-04-05.mp3" length="3289628" type="audio/mpeg" />
+      <description>Bronchopulmonary dysplasia, or BPD, is a chronic lung disease that affects many premature infants, often leading to long-term respiratory problems. | The researchers conducted a longitudinal cohort study, collecting tracheal aspirate samples from the lungs and stool samples from the gut of 39 premature infants during their first month of life. | The key finding was that infants who developed BPD had significantly different microbial communities in both their lungs and guts compared to those who did not develop the disease.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Bronchopulmonary dysplasia, or BPD, is a chronic lung disease that affects many premature infants, often leading to long-term respiratory problems. | The researchers conducted a longitudinal cohort study, collecting tracheal aspirate samples from the lungs and stool samples from the gut of 39 premature infants during their first month of life. | The key finding was that infants who developed BPD had significantly different microbial communities in both their lungs and guts compared to those who did not develop the disease.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-04-04</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-04/podcast_2026-04-04.mp3</guid>
       <pubDate>Sat, 04 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-04/podcast_2026-04-04.mp3" length="21181436" type="audio/mpeg" />
-      <description>Researchers used metatranscriptomics to compare bacterial activity, virulence, and antimicrobial resistance in acute apical abscesses versus asymptomatic apical periodontitis. | The global microbiome census has a blind spot—and it&#x27;s bigger than anyone realized. | The problem stems from how we&#x27;ve been cataloging microbial life.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-04/podcast_2026-04-04.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Researchers used metatranscriptomics to compare bacterial activity, virulence, and antimicrobial resistance in acute apical abscesses versus asymptomatic apical periodontitis. | The global microbiome census has a blind spot—and it&#x27;s bigger than anyone realized. | The problem stems from how we&#x27;ve been cataloging microbial life.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
