@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Apr 2026 05:16:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 05:54:28 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-04-06</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-06/podcast_2026-04-06.mp3</guid>
+      <pubDate>Mon, 06 Apr 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-06/podcast_2026-04-06.mp3" length="17819636" type="audio/mpeg" />
+      <description>The lung microbiome is increasingly recognized as a key contributor to the development and progression of chronic airway diseases. | To address this, researchers conducted a systematic review and meta-analysis of 38 studies involving over 2,000 participants with chronic airway diseases such as asthma, COPD, cystic fibrosis, and bronchiectasis. | The analysis revealed that several bacterial species were consistently linked to worse outcomes.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>The lung microbiome is increasingly recognized as a key contributor to the development and progression of chronic airway diseases. | To address this, researchers conducted a systematic review and meta-analysis of 38 studies involving over 2,000 participants with chronic airway diseases such as asthma, COPD, cystic fibrosis, and bronchiectasis. | The analysis revealed that several bacterial species were consistently linked to worse outcomes.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-04-05</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-05/podcast_2026-04-05.mp3</guid>
       <pubDate>Sun, 05 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-05/podcast_2026-04-05.mp3" length="3289628" type="audio/mpeg" />
-      <description>Bronchopulmonary dysplasia, or BPD, is a chronic lung disease that affects many premature infants, often leading to long-term respiratory problems. | The researchers conducted a longitudinal cohort study, collecting tracheal aspirate samples from the lungs and stool samples from the gut of 39 premature infants during their first month of life. | The key finding was that infants who developed BPD had significantly different microbial communities in both their lungs and guts compared to those who did not develop the disease.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-05/podcast_2026-04-05.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Bronchopulmonary dysplasia, or BPD, is a chronic lung disease that affects many premature infants, often leading to long-term respiratory problems. | The researchers conducted a longitudinal cohort study, collecting tracheal aspirate samples from the lungs and stool samples from the gut of 39 premature infants during their first month of life. | The key finding was that infants who developed BPD had significantly different microbial communities in both their lungs and guts compared to those who did not develop the disease.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
