@@ -1,0 +1,150 @@
+{
+  "timestamps": [
+    0.0,
+    48.21,
+    190.31,
+    238.67,
+    322.83,
+    372.27,
+    417.19,
+    460.27,
+    506.34,
+    672.56,
+    843.01,
+    998.19,
+    1137.34,
+    1255.08,
+    1475.08,
+    1525.36
+  ],
+  "items": [
+    {
+      "title": "A previously unappreciated class of metal-dependent bile salt hydrolases from the human gut microbiome",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.05.716592",
+      "source": "bioRxiv — biochemistry",
+      "one_liner": "Bile salt hydrolases (BSHs) are gut microbial enzymes that catalyze the deconjugation of glycine- or taurine-conjugated bile acids (BAs), a key step in shaping the BA pool in the human gastrointestinal tract and modulating host-gut microbiome interactions. All known BSHs are members of the N-terminal nucleophile (Ntn) hydrolase superfamily and share a con...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "A drug-microbiome-drug interaction impacts co-prescribed medications for Parkinson's disease.",
+      "url": "https://doi.org/10.1038/s41564-026-02299-2",
+      "source": "PubMed — Nature microbiology",
+      "one_liner": "Simultaneous prescription of multiple drugs is widespread in medicine. Although the gut microbiome is implicated in drug responses, its role in mediating drug-drug interactions is unexplored. Catechol-O-methyltransferase inhibitors (COMT-I), a class of drugs used alongside levodopa (L-DOPA) to treat Parkinson's disease symptoms, can alter microbiome compo...",
+      "segment": 1,
+      "timestamp": 48.21
+    },
+    {
+      "title": "Diabetes affects the composition of the respiratory tract microbiome and transcriptome in patients with viral pneumonia",
+      "url": "https://journals.asm.org/doi/abs/10.1128/spectrum.01911-25?af=R",
+      "source": "Microbiological Spectrum",
+      "one_liner": "Microbiology Spectrum, Ahead of Print.",
+      "segment": 2,
+      "timestamp": 190.31
+    },
+    {
+      "title": "Exploring the impact of collagen-I genetic variants on intestinal structure and gut microbiota in mouse models of osteogenesis imperfecta.",
+      "url": "https://doi.org/10.1038/s41598-026-47221-2",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "",
+      "segment": 3,
+      "timestamp": 238.67
+    },
+    {
+      "title": "Primary Infection with Cystoisospora suis Modulates Systemic Immunity and the Gut Microbiota During Secondary Infection in Piglets.",
+      "url": "https://doi.org/10.1016/j.ijpara.2026.104847",
+      "source": "PubMed — International journal for parasitology",
+      "one_liner": "Cystoisospora suis is a highly pathogenic porcine coccidian species that causes severe enteric disease in neonatal piglets. This study investigated how primary infection with C. suis modulates the gut microbiota and systemic immunity and shapes the host's response to a secondary challenge. Piglets were assigned to four groups: uninfected control (NC), ear...",
+      "segment": 4,
+      "timestamp": 322.83
+    },
+    {
+      "title": "Diabetes affects the composition of the respiratory tract microbiome and transcriptome in patients with viral pneumonia.",
+      "url": "https://doi.org/10.1128/spectrum.01911-25",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "UNLABELLED: Research shows that patients with viral pneumonia complicated by diabetes have a worse prognosis and higher mortality. Our study aimed to assess the effect of diabetes on respiratory tract microbes and the transcriptome in patients with viral pneumonia. We included 76 subjects from China-Japan Friendship Hospital, including 16 healthy people, ...",
+      "segment": 5,
+      "timestamp": 372.27
+    },
+    {
+      "title": "Isoquercetin Ameliorates Obesity-Associated Muscle Atrophy and Modulates the Gut Microbiota-Bile Acid Axis.",
+      "url": "https://doi.org/10.1021/acs.jafc.5c16221",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "Obesity-associated muscle atrophy poses a significant health challenge. Isoquercetin (IQ) exhibits potent anti-inflammatory, antioxidant, and metabolic regulatory effects; however, whether IQ can attenuate this condition remains elusive. Thus, we employed a mouse model of HFD-induced obesity-associated muscle atrophy to assess its therapeutic potential. C...",
+      "segment": 6,
+      "timestamp": 417.19
+    },
+    {
+      "title": "Screening and dynamic change study of microbial and metabolite markers for calf diarrhea based on multi-omics and machine learning.",
+      "url": "https://doi.org/10.1128/msystems.00005-26",
+      "source": "PubMed — mSystems",
+      "one_liner": "UNLABELLED: Neonatal calf diarrhea is a leading cause of calf mortality and substantial economic loss in the livestock industry, yet the dynamic microbial and metabolic signatures accompanying disease onset remain poorly defined. Here, we integrated 16S rRNA high-throughput sequencing, untargeted metabolomics, and machine learning approaches to longitudin...",
+      "segment": 7,
+      "timestamp": 460.27
+    },
+    {
+      "title": "Dietary tryptophan mitigates lung ischemia-reperfusion injury via microbiota-derived indole-3-propionate and aryl hydrocarbon receptor signaling",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.02.714281",
+      "source": "bioRxiv — immunology",
+      "one_liner": "Background: Lung ischemia-reperfusion (IR) injury drives early morbidity after lung transplantation and cardiothoracic surgery, yet targeted preventive therapies are lacking. The gut-lung axis and microbiota-derived tryptophan metabolites, including indole-3-propionate (IPA), may regulate pulmonary immunity and inflammation. We investigated whether a tryp...",
+      "segment": 8,
+      "timestamp": 506.34
+    },
+    {
+      "title": "Area under the curve quantification outperforms spectral counting in metaproteomics, but matching between runs is detrimental",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.05.716595",
+      "source": "bioRxiv — molecular biology",
+      "one_liner": "Metaproteomics enables the functional characterization of microbiomes and host-microbe interactions by detecting and quantifying thousands of proteins. In data-dependent acquisition metaproteomics, protein quantification is commonly performed using either MS1-based area under the curve (AUC) or MS2-based peptide spectral counts (SpC). In AUC quantificatio...",
+      "segment": 9,
+      "timestamp": 672.56
+    },
+    {
+      "title": "Metagenomic and Culture-Based Insights into Salinity-Driven Bacterial Community Dynamics throughout Crude Oil-Degrading Enrichment Cultivation.",
+      "url": "https://doi.org/10.4014/jmb.2508.08050",
+      "source": "PubMed — Journal of microbiology and biotechnology",
+      "one_liner": "Soil salinization and crude oil contamination are critical global threats to ecosystems, agriculture, and human health. Bioremediation is widely recognized as a cost-effective and eco-friendly strategy for removing petroleum pollutants from soil. In this study, we investigated salinity-driven bacterial community dynamics collected from crude oil-contamina...",
+      "segment": 10,
+      "timestamp": 843.01
+    },
+    {
+      "title": "Dynamics of the microbiota in patients with Clostridioides difficile: Recurrence, treatment, sex, and immunosuppression.",
+      "url": "https://doi.org/10.1371/journal.ppat.1014063",
+      "source": "PubMed — PLoS pathogens",
+      "one_liner": "BACKGROUND: Alterations in the gut microbiome are central to the pathogenesis and recurrence of Clostridioides difficile infection (CDI). OBJECTIVE: To evaluate intestinal microbiome changes during CDI and their association with recurrence, sex, age, and immunosuppression. METHODS: Patients from the CDI-ANCRAID-SEICV cohort were consecutively enrolled. St...",
+      "segment": 11,
+      "timestamp": 998.19
+    },
+    {
+      "title": "The effect of the probiotic supplement-ASTARTE™-on the reduction of recurrent urinary tract infection in women aged 18-40 years: protocol for a randomized, double-blind, placebo-controlled study.",
+      "url": "https://doi.org/10.1186/s13063-026-09679-3",
+      "source": "PubMed — Trials",
+      "one_liner": "BACKGROUND: Urinary tract infection (UTI) is one of the most common bacterial infections, contributing to increased antibiotic consumption and high healthcare costs. Clinical studies suggest that probiotics can be effective dietary supplements reducing the risk factors for the development of infections in the intestine and vagina. In this study, we invest...",
+      "segment": 12,
+      "timestamp": 1137.34
+    },
+    {
+      "title": "Metagenomic analysis of intestinal microbiota characteristic differences between patients with ankylosing spondylitis and healthy individuals.",
+      "url": "https://doi.org/10.1186/s12866-026-04996-8",
+      "source": "PubMed — BMC microbiology",
+      "one_liner": "Specific alterations in intestinal microbiota genetic composition, species abundance, and functional pathways—rather than overall diversity—are associated with ankylosing spondylitis (AS) and may contribute to its pathogenesis.\n\nMETHOD / APPROACH:\nA case-control study comparing 17 AS patients and 17 healthy controls (HC).",
+      "segment": 13,
+      "timestamp": 1255.08
+    },
+    {
+      "title": "Enhanced microbiota-derived mucinases in colorectal cancer patients revealed by gut metagenome probing coupled with functional validation.",
+      "url": "https://doi.org/10.1128/aem.01903-25",
+      "source": "PubMed — Applied and environmental microbiology",
+      "one_liner": "Mucinases produced by the gut microbiota play a dual role in regulating the integrity and renewal of the mucus layer, which is essential for maintaining gut homeostasis and human health. In this study, we constructed protein hidden Markov models based on 11 known mucinases and used them to systematically identify mucinase sequences from gut metagenome-ass...",
+      "segment": 14,
+      "timestamp": 1475.08
+    },
+    {
+      "title": "From periodontitis to neurodegeneration: Can probiotics modulate the",
+      "url": "https://doi.org/10.1177/13872877261432686",
+      "source": "PubMed — Journal of Alzheimer's disease : JAD",
+      "one_liner": "Alzheimer's disease (AD) is a neurodegenerative disorder characterized by the gradual destruction of cognitive and behavioral functions. Despite the continuous research efforts, there is still no cure for this disease. In recent years, researchers have investigated",
+      "segment": 15,
+      "timestamp": 1525.36
+    }
+  ]
+}
