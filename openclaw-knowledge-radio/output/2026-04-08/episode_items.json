@@ -1,0 +1,222 @@
+{
+  "timestamps": [
+    0.0,
+    157.84,
+    293.37,
+    470.32,
+    511.06,
+    656.72,
+    835.75,
+    880.6,
+    933.09,
+    989.29,
+    1035.78,
+    1081.78,
+    1132.82,
+    1183.05,
+    1307.25,
+    1504.93,
+    1560.85,
+    1603.3,
+    1650.86,
+    1705.08,
+    1754.87,
+    1791.08,
+    1839.01,
+    1893.82
+  ],
+  "items": [
+    {
+      "title": "The microbiome regulates host metabolic health and diseases through microbial enzymes.",
+      "url": "https://doi.org/10.1038/s41575-026-01195-8",
+      "source": "PubMed — Nature reviews. Gastroenterology & hepatology",
+      "one_liner": "The microbiome is widely involved in host metabolism, with many omics studies suggesting that it is important for metabolic health. Although studies in this area have made great strides in furthering our understanding of the role of the microbiome in health and disease, key challenges still hinder the safe clinical application of gut microbiota-targeted t...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Metagenomic Evidence for Horizontal Gene Transfer and Functional Convergence in the Oral Microbiome of Cohabiting Dogs and Owners",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.06.716839",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "The intimate cohabitation between humans and their pets facilitates bidirectional microbial exchange, yet the extent and functional consequences of this transfer within the oral niche remain underexplored. Here, we employed metagenomic sequencing to characterize the oral microbiome of dogs and their owners across distinct geographic regions in China, inte...",
+      "segment": 1,
+      "timestamp": 157.84
+    },
+    {
+      "title": "Genotype and environmental effects shape the house fly microbiome (Musca domestica)",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.06.716741",
+      "source": "bioRxiv — ecology",
+      "one_liner": "Animal-associated bacteria (microbiomes) can have important effects on host phenotypes and fitness. Microbiomes can also vary across individuals in ways that depend on host genotype and environment. Temperature is an especially important environmental factor that can affect the microbiome in a way that depends on host genotype and affects organismal fitne...",
+      "segment": 2,
+      "timestamp": 293.37
+    },
+    {
+      "title": "Expanding vaginal microbiome pangenomes via a custom MIDAS database reveals Lactobacillus crispatus accessory genes associated with cervical dysplasia",
+      "url": "https://www.biorxiv.org/content/10.1101/2025.09.11.675634",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "The vaginal microbiome plays a central role in reproductive health. Vaginal microbiome dysbiosis is associated with many adverse reproductive health outcomes, but most studies have focused on associations at the species level. The potential contribution of intraspecies microbial variation, especially gene content differences across bacterial strains, rema...",
+      "segment": 3,
+      "timestamp": 470.32
+    },
+    {
+      "title": "FAVABEAN and FALAPhyl: Open-source pipelines for scalable 16s rRNA microbiome data processing and visualization.",
+      "url": "https://doi.org/10.1371/journal.pone.0331145",
+      "source": "PubMed — PloS one",
+      "one_liner": "Reproducible and scalable analysis of 16S rRNA amplicon sequencing data remains a persistent challenge in microbiome research due to the complexity of available tools, incompatibilities between platforms, and the need for extensive bioinformatics expertise. We developed two containerized workflows-FAVABEAN (Fast Amplicon Variant Annotation, Binning, Error...",
+      "segment": 4,
+      "timestamp": 511.06
+    },
+    {
+      "title": "[Modulation of the gut microbiome for the eradication of multidrug-resistant pathogens: current approaches and perspectives].",
+      "url": "https://doi.org/10.1007/s00103-026-04229-3",
+      "source": "PubMed — Bundesgesundheitsblatt, Gesundheitsforschung, Gesundheitsschutz",
+      "one_liner": "The global rise in antibiotic resistance represents one of the greatest threats facing modern medicine. Colonization of the gastrointestinal tract with multidrug-resistant organisms is considered a critical risk factor for nosocomial infections across various patient populations. In this context, targeted decolonization strategies are moving into the focu...",
+      "segment": 5,
+      "timestamp": 656.72
+    },
+    {
+      "title": "Effects of diet-modulated gut microbiota and microbial metabolites in atherosclerosis.",
+      "url": "https://doi.org/10.1016/j.biopha.2026.119328",
+      "source": "PubMed — Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "one_liner": "Diet is a key regulatory factor for the gut microbiota, profoundly influencing its composition and metabolic activities, and is of great significance to the occurrence and development of atherosclerosis. Dysregulation of the gut microbiota can alter the production of key microbial metabolites. These metabolites play a crucial role in regulating host lipid...",
+      "segment": 6,
+      "timestamp": 835.75
+    },
+    {
+      "title": "Gut microbiota and atherosclerosis.",
+      "url": "https://doi.org/10.1136/gutjnl-2025-335610",
+      "source": "PubMed — Gut",
+      "one_liner": "Atherosclerosis reflects a chronic inflammatory process of arteries. The origin of chronic vascular inflammation has been associated over a long time primarily with lipid disorders, but evidence from the past years has suggested that lipid-independent pathways are also involved. Recent research has demonstrated that the gastrointestinal microbiota has an ...",
+      "segment": 7,
+      "timestamp": 880.6
+    },
+    {
+      "title": "Screening metatranscriptomes for ultrastable RNA secondary structures reveals hidden bacteriophages and novel capsid nanomaterials",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.05.716407",
+      "source": "bioRxiv — biochemistry",
+      "one_liner": "Metatranscriptomics has transformed our view of RNA bacteriophage diversity, revealing vast numbers of single-stranded RNA (ssRNA) phages whose protein capsids can be engineered for biotechnology applications. However, many ssRNA phages remain hidden from current detection methods, which require protein-level similarity to known phages. Here we show that ...",
+      "segment": 8,
+      "timestamp": 933.09
+    },
+    {
+      "title": "Gemella morbillorum Promotes Colorectal Carcinogenesis: LPBDCP-Mediated Invasion Activates Ras Signaling and Destabilizes p53.",
+      "url": "https://doi.org/10.1002/advs.202517245",
+      "source": "PubMed — Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "one_liner": "Gut microbiota dysbiosis promotes colorectal cancer (CRC) tumorigenesis. A global fecal metagenomic analysis identified Gemella morbillorum as a key contributor to the CRC-associated microbiota. Fluorescence in situ hybridization revealed that Gemella morbillorum is enriched in CRC tumor tissues compared to adjacent normal tissues. In vitro and in vivo ex...",
+      "segment": 9,
+      "timestamp": 989.29
+    },
+    {
+      "title": "Gut Lactate Boosts Ruminococcus via Histone Lactylation to Mediate Time-Restricted Feeding Protection in Crohn's Disease.",
+      "url": "https://doi.org/10.1002/advs.202518419",
+      "source": "PubMed — Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "one_liner": "BACKGROUND: Crohn's disease (CD) is characterized by impaired epithelial barrier function and dysregulated gut microbiota, particularly characterized by a reduced abundance of short-chain fatty acid (SCFA)-producing bacteria such as Ruminococcus. Time-restricted feeding (TRF), which limits daily food intake to specific feeding windows, has been demonstrat...",
+      "segment": 10,
+      "timestamp": 1035.78
+    },
+    {
+      "title": "The distinct roles of",
+      "url": "https://doi.org/10.1080/19490976.2026.2655193",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Despite the emerging role of the gut microbiome in colorectal cancer (CRC), its significance in early-onset CRC (EOCRC, < 50 y) versus late-onset CRC (LOCRC) and the molecular differences between proximal and distal CRC remain poorly understood. To circumvent the logistical and patient compliance challenges of stool collection, we explored the utility of ...",
+      "segment": 11,
+      "timestamp": 1081.78
+    },
+    {
+      "title": "Manipulation of regulators of morphogenesis is not sufficient to render a",
+      "url": "https://doi.org/10.1128/mbio.00415-26",
+      "source": "PubMed — mBio",
+      "one_liner": "",
+      "segment": 12,
+      "timestamp": 1132.82
+    },
+    {
+      "title": "Gadolinium Neutron Capture Therapy Influences Colon Microbiota in Experimental Breast Cancer.",
+      "url": "https://doi.org/10.1007/s10517-026-06638-5",
+      "source": "PubMed — Bulletin of experimental biology and medicine",
+      "one_liner": "Quantitative differences in isolated microorganisms were determined using the culture-based analysis of fecal microbiota. In female rats with untreated breast cancer, the abundance of typical Escherichia coli, Bifidobacterium spp., and Lactobacillus spp. decreased in comparison with the group intact of animals and no opportunistic enterobacteria Enterobac...",
+      "segment": 13,
+      "timestamp": 1183.05
+    },
+    {
+      "title": "Comparative Effectiveness and Safety of Fecal Microbiota Transplantation in Ulcerative Colitis: An Updated Systematic Review and Meta-Analysis.",
+      "url": "https://doi.org/10.1007/s12325-025-03431-0",
+      "source": "PubMed — Advances in therapy",
+      "one_liner": "INTRODUCTION: Fecal microbiota transplantation (FMT) is a potential therapy for ulcerative colitis (UC). Evidence has expanded, but the impact of delivery route on efficacy and safety remains uncertain. METHODS: We systematically searched PubMed, Embase, Cochrane Library, Web of Science and China National Knowledge Infrastructure (CNKI) from inception to ...",
+      "segment": 14,
+      "timestamp": 1307.25
+    },
+    {
+      "title": "Integrative proteogenomics maps multifactorial aetiology, progression and therapeutic vulnerabilities in gastric cancer.",
+      "url": "https://doi.org/10.1136/gutjnl-2025-337247",
+      "source": "PubMed — Gut",
+      "one_liner": "BACKGROUND: Gastric cancer, with disproportionately higher incidence in East Asia, arises from complex host-microbiome-environment interactions beyond OBJECTIVE: To delineate multifactorial aetiologies and clinically actionable subtypes/biomarkers of gastric cancer through integrative proteogenomic, microbial and environmental exposure profiling. DESIGN: ...",
+      "segment": 15,
+      "timestamp": 1504.93
+    },
+    {
+      "title": "Gut microbe alleviates stress-related cancer metastasis by oleic acid degradation.",
+      "url": "https://doi.org/10.1136/gutjnl-2025-335627",
+      "source": "PubMed — Gut",
+      "one_liner": "BACKGROUND: Chronic stress is a known risk factor for cancer metastasis. However, the underlying mechanisms, particularly those involving the gut microbiota and their metabolites, remain unclear. OBJECTIVE: To investigate whether gut microbiota dysbiosis and metabolic alterations mediate the sustained pro-metastatic effects of chronic stress, even after n...",
+      "segment": 16,
+      "timestamp": 1560.85
+    },
+    {
+      "title": "Urologic Bacteriome: The Hero or the Villain in Prostate Cancer Onset, Progression, and Treatment?",
+      "url": "https://doi.org/10.1002/med.70042",
+      "source": "PubMed — Medicinal research reviews",
+      "one_liner": "Prostate cancer (PCa) is the second most frequently diagnosed cancer in men worldwide and the fifth leading cause of cancer-related mortality, presenting urgent unmet clinical needs in diagnosis and treatment. The recognition of the microbiome as a key factor in human health has prompted numerous studies, revealing an exciting new approach to cancer diagn...",
+      "segment": 17,
+      "timestamp": 1603.3
+    },
+    {
+      "title": "Bacterial genomic structural variations in children with autism serve as diagnostic biomarkers.",
+      "url": "https://doi.org/10.1136/gutjnl-2025-337280",
+      "source": "PubMed — Gut",
+      "one_liner": "BACKGROUND: Gut microbiota dysbiosis is linked to autism spectrum disorder (ASD) in children. However, the role of bacterial genomic structural variations (SVs) in ASD remains largely unexplored. OBJECTIVE: We aimed to identify bacterial SVs associated with ASD and explore their mechanistic role and clinical application. DESIGN: We collected faecal metage...",
+      "segment": 18,
+      "timestamp": 1650.86
+    },
+    {
+      "title": "Toxic microbiome and progression of chronic kidney disease: insights from a longitudinal CKD-microbiome study",
+      "url": "http://gut.bmj.com/cgi/content/short/75/5/847?rss=1",
+      "source": "Gut (BMJ)",
+      "one_liner": "The gut microbiome is essential for human health and disease, acting in a symbiotic relationship with its host. In chronic kidney disease (CKD), this relationship is commonly disrupted, leading to an overgrowth of dysbiotic bacteria and the production of potentially harmful compounds.1 Key drivers of dysbiosis in CKD include slow intestinal transit, im...",
+      "segment": 19,
+      "timestamp": 1705.08
+    },
+    {
+      "title": "Gut microbiota and atherosclerosis",
+      "url": "http://gut.bmj.com/cgi/content/short/75/5/1067?rss=1",
+      "source": "Gut (BMJ)",
+      "one_liner": "Atherosclerosis reflects a chronic inflammatory process of arteries. The origin of chronic vascular inflammation has been associated over a long time primarily with lipid disorders, but evidence from the past years has suggested that lipid-independent pathways are also involved. Recent research has demonstrated that the gastrointestinal microbiota has ...",
+      "segment": 20,
+      "timestamp": 1754.87
+    },
+    {
+      "title": "Retraction: IDDF2024-ABS-0152 Effects of wasabi intake on gut microbial diversity changes and cardiometabolic health in rats model",
+      "url": "http://gut.bmj.com/cgi/content/short/75/5/e1?rss=1",
+      "source": "Gut (BMJ)",
+      "one_liner": "This conference abstract1 is retracted by the journal. What happened after publication Concerns were raised with BMJ about the accuracy of the authorship of the work including that the listed authors had not conducted the work described in the abstract, which was published in 2024. The abstract describes work which is based on a full research pa...",
+      "segment": 21,
+      "timestamp": 1791.08
+    },
+    {
+      "title": "Integrative proteogenomics maps multifactorial aetiology, progression and therapeutic vulnerabilities in gastric cancer",
+      "url": "http://gut.bmj.com/cgi/content/short/75/5/886?rss=1",
+      "source": "Gut (BMJ)",
+      "one_liner": "Background Gastric cancer, with disproportionately higher incidence in East Asia, arises from complex host–microbiome–environment interactions beyond Helicobacter pylori (HP) infection. However, the molecular architecture linking environmental carcinogens, microbial succession and host response remains unclear. Objective To d...",
+      "segment": 22,
+      "timestamp": 1839.01
+    },
+    {
+      "title": "Gut microbe alleviates stress-related cancer metastasis by oleic acid degradation",
+      "url": "http://gut.bmj.com/cgi/content/short/75/5/968?rss=1",
+      "source": "Gut (BMJ)",
+      "one_liner": "Background Chronic stress is a known risk factor for cancer metastasis. However, the underlying mechanisms, particularly those involving the gut microbiota and their metabolites, remain unclear. Objective To investigate whether gut microbiota dysbiosis and metabolic alterations mediate the sustained pro-metastatic effects of chronic stress, eve...",
+      "segment": 23,
+      "timestamp": 1893.82
+    }
+  ]
+}

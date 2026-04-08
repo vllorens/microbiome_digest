@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Apr 2026 05:21:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 05:40:50 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-04-08</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-08/podcast_2026-04-08.mp3</guid>
+      <pubDate>Wed, 08 Apr 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-08/podcast_2026-04-08.mp3" length="14486684" type="audio/mpeg" />
+      <description>The microbiome regulates host metabolic health and diseases through microbial enzymes. | The review highlights that microbial enzymes are key mediators between the microbiome and host physiology. | The authors emphasize that while omics studies have mapped associations between microbial composition and metabolic diseases like obesity, type 2 diabetes, and non-alcoholic fatty liver disease, the mechanistic role of specific microbial enzymes is only now being uncovered.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>The microbiome regulates host metabolic health and diseases through microbial enzymes. | The review highlights that microbial enzymes are key mediators between the microbiome and host physiology. | The authors emphasize that while omics studies have mapped associations between microbial composition and metabolic diseases like obesity, type 2 diabetes, and non-alcoholic fatty liver disease, the mechanistic role of specific microbial enzymes is only now being uncovered.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-04-07</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-07/podcast_2026-04-07.mp3</guid>
       <pubDate>Tue, 07 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-07/podcast_2026-04-07.mp3" length="11809652" type="audio/mpeg" />
-      <description>A new type of bile salt hydrolase has been discovered in the human gut microbe *Bilophila wadsworthia*, and it works in a completely different way than all previously known versions. | A new study published in Nature Microbiology reveals that a common Parkinson&#x27;s disease drug can alter the gut microbiome in ways that affect the metabolism of other medications. | COMT-I drugs work by blocking an enzyme that breaks down levodopa, allowing more of the drug to reach the brain and improving motor function.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-07/podcast_2026-04-07.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>A new type of bile salt hydrolase has been discovered in the human gut microbe *Bilophila wadsworthia*, and it works in a completely different way than all previously known versions. | A new study published in Nature Microbiology reveals that a common Parkinson&#x27;s disease drug can alter the gut microbiome in ways that affect the metabolism of other medications. | COMT-I drugs work by blocking an enzyme that breaks down levodopa, allowing more of the drug to reach the brain and improving motor function.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
