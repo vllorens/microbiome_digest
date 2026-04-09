@@ -32,8 +32,13 @@
     "title": "Personalized microbiotas (counter-) select for antibiotic resistant strains",
     "url": "https://www.biorxiv.org/content/10.64898/2026.03.29.715108v2.full.pdf",
     "date_submitted": "2026-04-09",
-    "processed": false,
-    "diagnosis": null,
-    "keywords_added": []
+    "processed": true,
+    "diagnosis": "source_not_in_rss",
+    "keywords_added": [
+      "microbiota selection",
+      "antibiotic resistance",
+      "resistant strains"
+    ],
+    "rss_feed_found": ""
   }
 ]
