@@ -1,0 +1,344 @@
+Premature ovarian insufficiency, or POI, is a condition where the ovaries stop functioning normally before age 40, leading to infertility, hormonal imbalances, and increased risks for osteoporosis and cardiovascular disease. While the exact causes are often unclear, recent research has pointed to the gut microbiome as a key player in ovarian health through what's called the gut-ovary axis.
+
+In a new study published in NPJ Science of Food, researchers investigated whether a specific probiotic strain, Lactobacillus salivarius Li01, could help treat POI. They used a mouse model where POI was induced by a compound called Tripterygium wilfordii glycosides, which is known to damage ovarian tissue.
+
+The probiotic Li01 was administered to these mice, and the results were striking. Li01 not only improved ovarian function but also restored hormone levels, particularly estrogen and anti-Müllerian hormone, both of which are typically low in POI. The probiotic also reduced ovarian inflammation and oxidative stress, two major drivers of ovarian damage.
+
+But the real surprise came when the team looked at the gut microbiome. Li01 treatment shifted the gut bacterial community, increasing beneficial bacteria like Lactobacillus and Akkermansia, while reducing harmful species. This microbial shift had downstream effects on metabolism, especially tryptophan metabolism. Tryptophan is an essential amino acid that, when broken down by gut bacteria, produces metabolites that can influence inflammation and immune responses. In the treated mice, tryptophan metabolism was restored to healthier patterns, which correlated with improved ovarian function.
+
+This study is significant because it's one of the first to show a direct link between gut microbiota modulation, tryptophan metabolism, and ovarian health. It suggests that targeting the gut microbiome with specific probiotics could be a novel, non-hormonal approach to treating POI. While these findings are in mice, they open the door for future clinical trials in women with POI, potentially offering a new avenue for preserving fertility and hormonal balance.
+
+[[TRANSITION]]
+
+A new study in Cell Metabolism reveals that breath analysis can serve as a non-invasive window into gut microbiome-driven health and disease. Researchers led by Hernandez-Leyva et al. developed a breath collection platform in gnotobiotic mice, integrating multi-omics data to map the "breath volatilome"—the unique chemical fingerprint in exhaled air. Their findings show that specific volatile organic compounds in breath directly reflect changes in gut microbial composition and metabolic activity, offering a real-time, non-invasive biomarker for gut health. This approach could revolutionize diagnostics by enabling rapid, painless monitoring of microbiome-related conditions without the need for invasive sampling. The study highlights the potential of breath volatilome profiling as a powerful tool for early detection and personalized treatment of gut microbiome-linked disorders.
+
+[[TRANSITION]]
+
+A new study in Cell Metabolism reveals that the gut microbiota leaves a chemical fingerprint in human breath, offering a potential rapid diagnostic tool. Researchers found that breath volatile organic compounds (VOCs) reflect the composition and metabolic activity of gut microbes in healthy children. This breath volatilome could serve as a non-invasive biomarker for microbiota health, addressing a major gap in current microbiota-based therapeutics. The findings suggest that analyzing breath VOCs may allow clinicians to quickly assess gut microbial status without invasive sampling. This approach could accelerate personalized treatments targeting the microbiome. The study highlights the promise of breath analysis as a practical, real-time window into gut health, potentially transforming how we monitor and manage microbiota-related conditions.
+
+[[TRANSITION]]
+
+Here's a deep dive segment based on the provided information:
+
+The human gut microbiome is a complex ecosystem that plays a critical role in health and disease, but current methods for profiling it are expensive, time-consuming, and require specialized equipment. A new approach called GUT-SCAN aims to change that.
+
+GUT-SCAN stands for Gut Unique Typing via Spectral and Chemical Analysis using Boronic acid-based sensors. The system uses a sensor array that leverages boronic acid chemistry to create a unique "fingerprint" of the gut microbiome. This approach is designed to be faster, cheaper, and more accessible than traditional sequencing-based methods.
+
+The key innovation here is the use of boronic acid-based sensors. Boronic acids can form reversible covalent bonds with certain biomolecules, particularly those containing diols like sugars. This property allows the sensors to interact with various components of the microbiome in a way that produces a distinctive pattern or fingerprint.
+
+While the available text doesn't provide specific details on how the sensor array works or what exactly it measures, the goal is clearly to create a rapid, cost-effective method for microbiome profiling. This could have significant implications for both research and clinical applications, particularly in areas like colorectal cancer classification where microbiome analysis is increasingly important.
+
+The potential applications mentioned include using GUT-SCAN for colorectal cancer classification, suggesting the system can distinguish between healthy and diseased states based on microbiome signatures. This could lead to earlier detection and more personalized treatment approaches.
+
+However, it's important to note that the available text doesn't provide information on the system's accuracy, validation results, or how it compares to existing methods. These are crucial factors that would determine the real-world utility of GUT-SCAN.
+
+The development of more accessible microbiome profiling tools like GUT-SCAN could democratize access to this important area of health research and potentially lead to new diagnostic and therapeutic approaches. As the field progresses, it will be interesting to see how this technology develops and what impact it might have on our understanding and treatment of microbiome-related diseases.
+
+[[TRANSITION]]
+
+A new study in Gut Microbes reveals that the JNK2-microbiome axis plays a key role in maintaining gut barrier integrity through microbial production of acetate. Researchers found that during the weaning transition—when diets shift from fat-rich milk to carbohydrate-based solids—this pathway helps regulate gut epithelial homeostasis. The study highlights how continued milk supplementation beyond weaning may influence this process, though the exact mechanisms remain unclear. Using mouse models, the team demonstrated that microbial acetate, produced by gut bacteria, is critical for preserving the intestinal barrier. This discovery sheds light on the complex interplay between diet, microbiota, and gut health, offering potential insights into managing gut-related disorders. The findings underscore the importance of the JNK2-microbiome axis in early-life nutrition and gut immunity.
+
+[[TRANSITION]]
+
+A new review in mBio challenges the traditional view of immunity as purely defensive, arguing that tolerating the gut microbiome is just as vital as fighting pathogens. The authors explain that multicellular life evolved in a microbe-dominated world, creating constant selective pressure. While the immune system is known for pathogen clearance through resistance, it also uses tolerance mechanisms to coexist with beneficial microbes. This dual strategy—resistance and tolerance—is essential for health, shaping how organisms interact with their microbial partners. The piece reframes immunity as a balance between defense and accommodation, highlighting the microbiome's role in maintaining this equilibrium. This perspective could reshape how we understand immune function and its relationship with the gut ecosystem.
+
+[[TRANSITION]]
+
+Fibrodysplasia ossificans progressiva, or FOP, is a rare genetic disorder where soft tissues progressively turn into bone. The culprit is a mutation in the ACVR1 gene, specifically the R206H variant, which causes the body's repair mechanisms to go haywire. Instead of healing injuries with normal tissue, the body lays down bone in places it shouldn't—muscles, tendons, ligaments—leading to severe mobility loss and, eventually, life-threatening complications.
+
+For years, researchers have known that flare-ups in FOP often follow injury or inflammation, but the exact triggers remained murky. This new study from bioRxiv takes a fresh approach by looking at the gut microbiome as a potential driver of these inflammatory episodes.
+
+The team used mouse models carrying the human ACVR1R206H mutation and found something striking: when they wiped out the gut microbiome with antibiotics, the mice developed far less heterotopic ossification after injury. That pointed to the microbiome as a key player. Digging deeper, they discovered that the protective effect of antibiotics was tied to a specific immune pathway—IL-1 signaling. In normal mice, IL-1 is part of the body's inflammatory response, but in these FOP mice, it was fueling the abnormal bone formation.
+
+Here's where it gets interesting: the microbiome wasn't just present; it was actively shaping the immune environment. Certain gut bacteria seemed to ramp up IL-1 signaling, which in turn activated the mutated ACVR1 receptor and pushed cells toward bone formation. When the microbiome was disrupted, IL-1 signaling dropped, and so did the heterotopic ossification.
+
+This work is significant because it identifies a concrete, modifiable factor—gut bacteria—in a disease long thought to be driven almost entirely by genetics. It also opens the door to new treatments: if you can shift the microbiome or block IL-1 signaling, you might be able to slow or even prevent the progression of FOP.
+
+Of course, this is still early-stage research in mice, and the exact bacterial culprits or the best way to intervene aren't yet clear. But the link between gut microbes, inflammation, and abnormal bone growth is now firmly established, offering a new target for future therapies.
+
+[[TRANSITION]]
+
+Most people think of legume root nodules as a simple two-player game: the plant trades sugars for nitrogen fixed by rhizobia. But that picture misses a whole cast of microbial characters living inside those nodules. This study looked at Calicotome villosa, a wild Mediterranean shrub, and found that nodules are actually bustling ecosystems with dozens of bacterial species, many of which are not rhizobia at all.
+
+The researchers used shotgun metagenomics to sequence the entire microbial community inside field-collected nodules. That's a step up from earlier work that relied on culturing or 16S rRNA gene surveys, which can miss rare or unculturable microbes. By sequencing everything, they could see not just who was there, but what they were capable of doing.
+
+They identified a core microbiome shared across individual plants, dominated by Ensifer meliloti, the main rhizobial symbiont, but also including consistent non-rhizobial taxa like Phyllobacterium and Rhizobium species. These non-rhizobia weren't just passive hitchhikers—they carried genes for processes like denitrification, sulfate reduction, and aromatic compound degradation. Some even had the genetic toolkit for nitrogen fixation themselves, though at lower abundance than the primary rhizobia.
+
+The big surprise was functional redundancy. Multiple taxa could perform similar metabolic roles, suggesting the nodule microbiome has built-in resilience. When the team experimentally reduced nodule diversity by inoculating plants with only E. meliloti, plant growth and nitrogen fixation dropped compared to plants hosting the full microbial community. That implies these accessory microbes contribute something measurable to host fitness.
+
+This matters because most legume-rhizobia research has been done on crop species in fertilized soils, where microbial diversity is often suppressed. Wild legumes in natural soils maintain richer, more functionally diverse nodule communities. If we want to harness legumes for sustainable agriculture or ecological restoration, we may need to think beyond the rhizobium and consider the entire nodule microbiome as a functional unit.
+
+[[TRANSITION]]
+
+Myrmecocystus honeypot ants have evolved a remarkable survival strategy that hinges on specialized workers called repletes. These ants store dissolved carbohydrates in their crops for months without spoilage, acting as living food reserves for their colonies. When resources run low, repletes redistribute the stored nutrients through trophallaxis, a mouth-to-mouth feeding behavior.
+
+What makes this system particularly intriguing is the apparent role of the gut microbiome in preserving the stored liquid. The available text suggests that researchers suspect the resident gut microbes may be responsible for preventing spoilage, but the preprint does not provide experimental evidence or specific microbial taxa involved. This leaves open questions about whether the microbiome actively inhibits pathogens, produces antimicrobial compounds, or simply outcompetes spoilage organisms.
+
+The study appears to focus on species-specific differences in the gut microbiome across Myrmecocystus species. However, the available text does not detail the methods used to characterize these microbiomes, such as sequencing approaches or comparative analyses. It also does not specify how many species were examined or what functional differences were observed.
+
+This research sits at the intersection of symbiosis, nutrition, and social insect biology. If the microbiome is indeed responsible for preserving the repletes' crop contents, it would represent a sophisticated example of microbial management in social insects. The system could offer insights into natural food preservation mechanisms and the evolution of specialized gut communities.
+
+The available text does not provide information on whether the study examined the microbiome dynamics over time, how the repletes' gut communities differ from those of non-replete workers, or whether the stored liquid's composition changes during storage. These would be critical questions for understanding the mechanism behind this natural preservation system.
+
+The preprint's focus on species-specific microbiomes suggests that different Myrmecocystus species may have evolved distinct microbial partnerships to support their repletes' function. This could reflect adaptations to different diets, environments, or storage durations across species. However, without details on the comparative analyses performed, the specific patterns and their implications remain unclear.
+
+This work highlights the potential for gut microbiomes to enable extreme physiological adaptations in social insects. The repletes' ability to store liquid food for months without refrigeration or preservatives is a natural marvel that could inspire biomimetic approaches to food preservation. Understanding the microbial basis of this system could reveal new strategies for preventing food spoilage or managing beneficial gut communities in other contexts.
+
+[[TRANSITION]]
+
+Si-Ni-San, or SNS, is a traditional Chinese herbal formula with roots going back to the Han Dynasty text "Treatise on Cold Damage Diseases." It's been used for centuries to treat depression by addressing what traditional medicine calls "liver qi stagnation." But until now, the actual biological mechanism behind its effects has remained unclear.
+
+A new study published in Chinese Medicine set out to uncover how SNS works at the molecular level. The researchers used a mouse model of chronic unpredictable mild stress, a well-established method for inducing depression-like behaviors in animals. They divided the mice into groups: a control group, a stress-only group, and groups receiving either fluoxetine—a standard antidepressant—or different doses of SNS.
+
+The behavioral tests showed that SNS significantly reduced depression-like behaviors in the stressed mice. But the real insight came from looking at what was happening in the gut. The team found that SNS treatment altered the composition of the gut microbiota. Specifically, it increased the abundance of beneficial bacteria like Lactobacillus and reduced levels of potentially harmful species.
+
+This shift in gut bacteria had downstream effects on tryptophan metabolism. Tryptophan is an essential amino acid that serves as a precursor for serotonin, a key neurotransmitter involved in mood regulation. The researchers discovered that SNS modulated the kynurenine pathway, which is one of the main routes for tryptophan breakdown. By influencing this pathway, SNS appeared to preserve more tryptophan for serotonin synthesis rather than its conversion to other metabolites.
+
+The study also identified a critical signaling axis: the aryl hydrocarbon receptor (AhR) and nuclear factor kappa B (NF-κB) pathway. AhR is a receptor that responds to various metabolites, including those from tryptophan. NF-κB is a protein complex that controls inflammation and immune responses. The researchers found that SNS treatment suppressed the activation of this AhR/NF-κB pathway, which is often overactive in depression and contributes to neuroinflammation.
+
+In essence, SNS seems to work by reshaping the gut microbiome, which then influences tryptophan metabolism and dampens inflammatory signaling through the AhR/NF-κB axis. This multi-step mechanism offers a plausible explanation for how a traditional herbal remedy can have antidepressant effects.
+
+The available text does not provide details on the specific herbal components of SNS, the exact dosages used, or the statistical significance of the findings. It also does not mention whether these results have been replicated in human studies or what the long-term effects of SNS treatment might be.
+
+[[TRANSITION]]
+
+Kidney diseases, including acute kidney injury and chronic kidney disease, are increasingly recognized as conditions deeply intertwined with the gut microbiome. Recent research published in Acta Pharmacologica Sinica reveals that both AKI and CKD are associated with significant microbial dysbiosis, which in turn impairs the intestinal epithelial barrier. This breakdown allows bacterial metabolites and endotoxins to translocate into the bloodstream, triggering systemic inflammation and accelerating kidney damage.
+
+The gut-kidney axis is now understood to be a two-way street: kidney dysfunction alters the gut environment, while gut dysbiosis worsens renal outcomes. In AKI, the sudden loss of kidney function disrupts the normal filtration of uremic toxins, which accumulate and damage the intestinal lining. In CKD, the chronic buildup of these toxins creates a persistent inflammatory state that further destabilizes the gut barrier. This cycle of damage is mediated by shifts in microbial populations—specifically, a decrease in beneficial bacteria that produce short-chain fatty acids and an increase in pathobionts that promote inflammation.
+
+Mechanistically, the loss of butyrate-producing bacteria is particularly significant. Butyrate is a key metabolite that nourishes colonocytes and maintains barrier integrity. Its depletion leads to increased intestinal permeability, or "leaky gut," which allows bacterial lipopolysaccharide to enter circulation and activate renal immune cells. This process drives fibrosis, the hallmark of progressive kidney scarring.
+
+Therapeutically, these insights open new avenues. Probiotics, prebiotics, and dietary interventions aimed at restoring microbial balance are being explored. Fecal microbiota transplantation has shown promise in preclinical models, and targeted metabolite supplementation—such as butyrate or other short-chain fatty acids—could directly support barrier function. The available text does not provide details on specific clinical trials, but the mechanistic clarity suggests that modulating the gut microbiome could become a standard adjunct therapy for kidney disease.
+
+This research reframes kidney disease not just as a renal problem, but as a systemic disorder rooted in the gut-kidney axis. By targeting microbial dysbiosis, we may be able to slow or even prevent the progression of both AKI and CKD, offering hope for millions affected by these conditions.
+
+[[TRANSITION]]
+
+Wild boars are the ancestors of domestic pigs, and their gut microbiomes could hold the key to reducing antibiotic use in pig farming. That's the premise behind a new study that has assembled one of the most comprehensive catalogues of wild boar gut microbes to date.
+
+The research team collected fecal samples from wild boars across multiple locations and used metagenomic sequencing to reconstruct 3,288 metagenome-assembled genomes, or MAGs. These MAGs represent distinct microbial species or strains that were previously uncultured and largely unknown. Alongside the genomes, the team built a gene catalogue containing over 20 million unique genes and a protein catalogue with millions of predicted protein sequences.
+
+Why does this matter? Pigs raised for meat are often given antibiotics prophylactically to prevent disease and promote growth. This practice has fueled the spread of antimicrobial resistance, a major public health concern. If beneficial microbes from wild boars can be identified and harnessed as probiotics, they might help improve gut health and immunity in domestic pigs without relying on antibiotics.
+
+The study's scale is significant. Previous work on wild boar microbiomes has been limited in scope, often focusing on a handful of samples or specific geographic regions. Here, the researchers cast a much wider net, capturing microbial diversity across different populations. This breadth increases the chances of finding novel microbes with probiotic potential.
+
+However, the available text doesn't specify which wild boar populations were sampled, what sequencing technologies were used, or how the MAGs were validated. It also doesn't detail which microbes might be most promising for probiotic development. Those are critical next steps.
+
+Still, the dataset created here is a valuable resource. By making the MAGs, gene catalogue, and protein catalogue publicly available, the team has provided a foundation for future research into sustainable pig farming and the fight against antimicrobial resistance.
+
+[[TRANSITION]]
+
+This study compared two widely used osteoporosis treatments—teriparatide and denosumab—in patients with osteoporotic fractures, focusing on how each drug affects bone metabolism and the gut microbiome.
+
+Both drugs successfully increased bone mineral density, but they did so through different mechanisms and with distinct effects on the body's microbial ecosystem. Teriparatide, a parathyroid hormone analog, stimulates bone formation by activating osteoblasts. Denosumab, a monoclonal antibody, works by inhibiting osteoclast activity, thereby reducing bone resorption.
+
+The researchers tracked changes in bone metabolism markers and gut microbial profiles over the course of treatment. They found that while both therapies improved bone density, the patterns of change in bone turnover markers differed. Teriparatide tended to increase markers of bone formation, while denosumab decreased markers of bone resorption.
+
+More intriguingly, the study revealed that each treatment also induced distinct shifts in the gut microbiome. Certain bacterial taxa changed in abundance depending on which drug was administered. These microbial shifts were not random—they correlated with changes in bone metabolism markers, suggesting a potential link between gut microbiota composition and bone health.
+
+This is significant because it hints at a gut-bone axis in osteoporosis treatment, where the gut microbiome may influence or reflect the body's response to therapy. The fact that two drugs with different mechanisms of action also produced different microbial signatures opens the door to personalized treatment strategies based not just on bone density, but on an individual's gut microbiome profile.
+
+The available text does not provide details on the specific bacterial taxa involved, the duration of the study, or the sample size. It also does not specify whether these microbial changes persisted after treatment ended or how they might impact long-term outcomes. Still, the findings suggest that monitoring gut microbiota could become a useful tool in managing osteoporosis, alongside traditional bone density scans.
+
+[[TRANSITION]]
+
+A new study in the Journal of Invertebrate Pathology reveals that gut dysbiosis in the hornet Vespa magnifica is closely linked to immune activation. Researchers used integrative microbiome and transcriptome analysis to compare diseased and healthy hornets, finding that shifts in gut microbial communities correlate with altered host immune gene expression. This suggests that microbial imbalance may play a key role in hornet disease susceptibility. The findings highlight the importance of the gut microbiota in insect health, nutrition, and environmental adaptation, offering new insights into disease mechanisms in social wasps. Understanding these host-microbe interactions could inform strategies for managing hornet populations and protecting ecosystems from invasive species.
+
+[[TRANSITION]]
+
+A new study in the Journal of Advanced Research reveals that both host genetics and gut microbiota jointly influence apparent fiber digestibility in pigs. Researchers found that genetic factors regulate the composition of fiber-degrading bacteria in the pig gut, but the precise mechanisms remain unclear. The study also explores the potential of integrating host genetic and microbiota data into genomic selection models to improve fiber digestibility traits in pigs. This work highlights the complex interplay between host genes and gut microbes, offering new insights for breeding strategies aimed at enhancing fiber utilization in swine production.
+
+[[TRANSITION]]
+
+A new study in Surgery reveals that the microbiome within colorectal tumors differs depending on where the cancer spreads. Researchers found distinct microbial signatures in metastases to different organs, suggesting that the tumor microenvironment and metastatic site influence the intratumoral bacterial community. This site-specific variation could impact how colorectal cancer progresses and responds to treatment. The findings highlight the potential for microbiome profiling to inform personalized therapies and improve outcomes for patients with metastatic disease.
+
+[[TRANSITION]]
+
+Human milk oligosaccharides, or HMOs, are complex sugars in breast milk that babies can't digest but that play a crucial role in shaping the infant gut microbiome. These molecules survive the acidic stomach and small intestine to reach the large intestine intact, where they selectively feed beneficial bacteria. This process helps establish a healthy microbial community that supports infant growth and immune development. The review from the Annual Review of Biochemistry highlights how HMOs act as prebiotics, fostering the growth of beneficial microbes while inhibiting pathogens. This unique function of HMOs underscores their importance beyond nutrition, influencing long-term health outcomes by guiding the early development of the gut microbiome.
+
+[[TRANSITION]]
+
+A new study in Microbiology Spectrum reveals that simply adding grass to a pellet-based diet does not restore wild-like gut microbiome functions in captive-bred hares. Researchers used genome-resolved metagenomics to compare the gut microbiomes of captive and wild hares, finding that despite dietary supplementation, captive animals retained functionally distinct microbial communities. The findings suggest that long-term captivity fundamentally alters gut microbiota in ways that simple dietary changes cannot reverse. This has important implications for conservation efforts involving captive breeding and reintroduction programs, as maladapted gut microbiomes may contribute to the limited success of releasing captive-bred animals into the wild. The study highlights the need for more comprehensive strategies to prepare animals for life in natural habitats.
+
+[[TRANSITION]]
+
+A new study in Microbiology Spectrum compares normobaric hypoxia (NH) and hypobaric hypoxia (HH) as methods for simulating high-altitude conditions in lab mice. Researchers found that while both approaches induce physiological stress, HH more closely mimics the tissue damage and gut microbiota shifts seen at real high altitudes. NH, though easier to implement in lowland labs, produced milder effects on intestinal barrier integrity and microbial diversity. The findings suggest HH may be the more accurate model for studying acute mountain sickness and related gut changes, though NH remains useful for certain controlled experiments. This comparative analysis helps clarify which hypoxia model best suits different research goals in altitude physiology.
+
+[[TRANSITION]]
+
+Researchers at the Journal of Agricultural and Food Chemistry have found that arabinoxylan hydrolyzates produced by glycosidase enzymes can reduce intestinal inflammation by reshaping the gut microbiota-metabolite axis. The study focused on arabinoxylan, a dietary fiber with a complex branched structure that limits its anti-inflammatory effects. By using xylanase and α-l-arabinofuranosidase enzymes, the team created smaller, debranched hydrolyzates that were more effective in a mouse model of colitis. These enzymatically treated arabinoxylan fragments not only reduced inflammation but also restructured the gut microbiome and its metabolic outputs. The findings suggest that targeted enzymatic processing of dietary fibers could enhance their therapeutic potential for inflammatory bowel diseases.
+
+[[TRANSITION]]
+
+A new study in Microbiology Spectrum explores how tuberculosis and COVID-19 co-infection affects the respiratory microbiome. While previous research has focused on immune responses, this work examines microbial dysbiosis in sputum samples. The findings reveal that co-infection leads to distinct shifts in microbial communities compared to single infections, potentially influencing disease severity and treatment outcomes. Understanding these microbiome changes could help clinicians better manage patients with dual TB and COVID-19 infections. The research highlights the importance of considering microbial ecology alongside immune factors when treating respiratory co-infections.
+
+[[TRANSITION]]
+
+A new study in Microbiology Spectrum explores the bacterial microbiome of vaginal, cervical, and endometrial samples from patients with adenomyosis during the implantation window. Researchers found distinct microbial profiles in adenomyosis patients compared to controls, suggesting that dysbiosis may play a role in the condition's association with infertility and poor reproductive outcomes. The findings highlight the potential for microbiome-targeted therapies to improve treatment for this chronic gynecological disorder, which affects many women of reproductive age and is often resistant to conventional therapies.
+
+[[TRANSITION]]
+
+The gut microbiome is a chemical factory, constantly transforming dietary molecules into metabolites that can influence host health. But most of these microbial products remain unidentified, and even fewer are linked to specific host receptors. A new study in Nature Microbiology changes that by identifying a microbial metabolite called 10-oxostearic acid, or 10-oxoSA, as a potent activator of the nuclear receptor PPARα, with real therapeutic potential for inflammatory bowel disease.
+
+10-oxoSA is derived from oleic acid, the most abundant fatty acid in nature, found in olive oil, nuts, and many plant-based foods. The twist is that this metabolite isn't made by human cells—it's produced by gut bacteria. The researchers discovered that certain microbes in the intestinal tract can oxidize oleic acid at the tenth carbon position, creating 10-oxoSA. This small chemical change turns a common dietary fat into a bioactive compound with the ability to bind and activate PPARα, a nuclear receptor known to regulate lipid metabolism and inflammation.
+
+PPARα activation is already a target for treating metabolic disorders, but this is the first time a microbial metabolite has been shown to selectively activate it in the context of gut immunity. In mouse models of colitis, oral administration of 10-oxoSA reduced intestinal inflammation, improved barrier function, and decreased pro-inflammatory cytokine production. The effects were dependent on PPARα, as they were absent in mice lacking this receptor.
+
+What makes this discovery particularly compelling is the intersection of diet, microbiota, and host biology. Oleic acid is already part of the human diet, and many people carry gut bacteria capable of producing 10-oxoSA. This suggests that variations in microbial metabolism could explain why some individuals benefit more from diets rich in olive oil or other oleic acid sources. It also opens the door to microbiome-targeted therapies: rather than delivering drugs, we might one day modulate the gut microbiota to produce beneficial metabolites like 10-oxoSA.
+
+The study doesn't yet identify which specific bacterial species produce 10-oxoSA, nor does it explore whether this metabolite has effects beyond the gut. But it does establish a clear mechanism: microbial metabolism of a dietary fatty acid produces a compound that activates a host receptor to suppress inflammation. That's a rare and valuable link in the chain from diet to microbiome to health outcome.
+
+If these findings hold in humans, 10-oxoSA could become a new class of microbiome-derived therapeutics—one that leverages the chemical ingenuity of gut bacteria to treat inflammatory diseases from within.
+
+[[TRANSITION]]
+
+A new review in Cell Metabolism highlights a critical flaw in rodent nutrition studies: purified diets, while compositionally consistent, strip out bioactive compounds found in whole foods that profoundly influence gut microbiota and host physiology. This absence can lead to contradictory or misleading results across studies. The authors argue that prioritizing biological relevance over strict compositional reproducibility is essential for improving scientific rigor. They call for a reassessment of dietary models to better reflect the complexity of whole-food nutrition and its effects on metabolism and health.
+
+[[TRANSITION]]
+
+Butyrate is a short-chain fatty acid produced by gut bacteria when they ferment dietary fiber. It's long been known to influence metabolism, but most of that research focused on its effects in the gut. What's new here is that butyrate also acts in the brain—specifically in a group of neurons in the hypothalamus called AgRP neurons, which are key regulators of appetite and energy balance.
+
+The big discovery is that these neurons have tiny antenna-like structures called primary cilia. These cilia act like cellular sensors, and in this case, they're the entry point for butyrate's metabolic effects. When butyrate binds to receptors on these cilia, it triggers a signaling cascade that ultimately reduces appetite and increases energy expenditure.
+
+To prove this, the researchers used genetic tools to knock out the receptor for butyrate specifically in the cilia of AgRP neurons. Mice without this receptor didn't respond to butyrate's appetite-suppressing effects, even though their gut bacteria were still producing it normally. That tells us the cilia are essential for butyrate's central metabolic actions.
+
+This is important because it identifies a previously unknown mechanism by which the gut microbiome can influence brain function and whole-body metabolism. It also opens up new possibilities for treating metabolic disorders like obesity or diabetes by targeting these ciliary pathways.
+
+The available text does not provide details on the specific receptor involved, the exact signaling pathway, or whether these findings translate to humans. But the core insight is clear: primary cilia on AgRP neurons are the missing link between gut-derived butyrate and central metabolic control.
+
+[[TRANSITION]]
+
+Rheumatoid arthritis is a chronic autoimmune disease where the immune system attacks the joints, causing inflammation, pain, and long-term damage. While the gut microbiome has been linked to immune regulation in RA, the role of the gut virome—the community of viruses in the gut—has remained largely unexplored. A new study published in NPJ Biofilms and Microbiomes investigates whether fecal virome transplantation, or FVT, can influence arthritis severity in mice.
+
+The researchers used the K/BxN serum-transfer arthritis model, a well-established system for studying inflammatory arthritis without relying on genetic predisposition. They collected fecal viromes from healthy donor mice and transplanted them into recipient mice before inducing arthritis. The results were striking: mice that received the virome transplant showed significantly reduced arthritis severity compared to controls. This protection was linked to changes in the gut bacterial community, suggesting that the virome can reshape the microbiome in ways that dampen inflammation.
+
+But the effects went beyond the gut. The team found that FVT altered systemic tryptophan metabolism—a key pathway involved in immune regulation. Tryptophan metabolites, such as kynurenines, are known to influence immune cell function and inflammation. In the transplanted mice, these metabolic changes correlated with reduced inflammatory markers and a shift in innate immune responses, particularly in macrophages and dendritic cells.
+
+This study is among the first to demonstrate that the gut virome can be harnessed to modulate both local and systemic immune processes in autoimmune disease. It suggests that viruses in the gut, often overlooked in microbiome research, may play a crucial role in maintaining immune balance. While the exact viral species responsible for these effects remain to be identified, the findings open new avenues for exploring virome-based therapies in inflammatory diseases like RA. The available text does not provide details on the specific viral taxa involved or the long-term durability of the protective effects.
+
+[[TRANSITION]]
+
+Soybean red crown rot is a devastating soil-borne disease caused by the fungus Calonectria ilicicola, and it's responsible for major yield losses in soybean crops worldwide. While the fungal pathogen has been well studied, surprisingly little was known about how the root-associated bacterial microbiome responds to infection. That's the gap this new study set out to fill.
+
+The researchers used a multi-pronged approach, combining 16S rRNA gene sequencing, shotgun metagenomics, and single-cell genomics to get a detailed picture of bacterial communities in the rhizoplane—the root surface—of infected soybean plants. What they found was striking: the bacterial community composition shifted significantly in diseased roots compared to healthy ones. Specifically, there was a notable increase in the relative abundance of Enterobacterales, a bacterial order that includes several opportunistic pathogens.
+
+But the real novelty came from the single-cell genomics. By isolating and sequencing individual bacterial cells, the team could identify specific resistance genes that might help these bacteria survive in the hostile environment of an infected root. They discovered that some of the Enterobacterales carried putative cationic antimicrobial peptide resistance genes. These genes are thought to help bacteria evade plant immune responses, which often involve antimicrobial peptides as a defense mechanism.
+
+This is important because it suggests that the bacterial community isn't just passively affected by the disease—it's actively adapting, potentially even facilitating the pathogen's success. The presence of these resistance genes in opportunistic bacteria could mean they're exploiting the compromised plant defenses to proliferate, possibly exacerbating the disease's impact.
+
+The study's use of single-cell genomics is particularly noteworthy. Traditional metagenomics gives you a community-level view, but single-cell approaches let you pinpoint which specific bacteria carry which genes. This level of resolution is crucial for understanding microbial ecology in complex environments like the rhizosphere.
+
+However, the available text doesn't provide details on the exact mechanisms by which these resistance genes function, or whether they directly interact with the fungal pathogen. It also doesn't specify if these bacterial shifts are a cause or a consequence of the disease. Those are important questions for future research.
+
+In summary, this work reveals that soybean red crown rot isn't just a fungal problem—it's a whole-microbiome problem. The opportunistic Enterobacterales, armed with antimicrobial peptide resistance genes, may be opportunistic allies of the pathogen, complicating disease management. Understanding these microbial dynamics could open new avenues for protecting soybean crops, perhaps by targeting these bacterial accomplices as well as the fungus itself.
+
+[[TRANSITION]]
+
+A new study from bioRxiv reveals that a previously unrecognized class of metallohydrolases can expand bile salt hydrolase activity in the gut microbiome. These enzymes break down bile acid amidates—steroid metabolites produced by both host and microbes—that play a key role in shaping gut ecology and host physiology. The findings suggest that gut microbes possess a broader enzymatic toolkit for bile acid modification than previously thought, potentially influencing bile acid diversity and downstream metabolic effects. This discovery could have implications for understanding host-microbe interactions and developing microbiome-targeted therapies.
+
+[[TRANSITION]]
+
+Ulcerative colitis is a chronic inflammatory bowel disease where the gut's immune system goes into overdrive, damaging the intestinal lining. While remission is often linked to shifts in the gut microbiome, the exact mechanisms by which microbial metabolites influence immune-mediated tissue repair have remained unclear—until now.
+
+In a recent study published in JCI Insight, researchers uncovered a surprising role for vancomycin, a common antibiotic, in alleviating colitis symptoms. They found that oral vancomycin not only reduced inflammation in mouse models of ulcerative colitis but also mirrored its clinical efficacy in inducing remission in human patients. The key wasn't just killing off harmful bacteria—it was about restoring balance to a specific immune cell type called group 2 innate lymphoid cells, or ILC2s.
+
+ILC2s are crucial for tissue repair and maintaining gut homeostasis. In colitis, these cells become dysfunctional, partly due to endoplasmic reticulum (ER) stress—a condition where the cell's protein-folding machinery gets overwhelmed. The researchers discovered that vancomycin's therapeutic effect hinged on eliminating a microbial metabolite called deoxycholic acid (DCA) from the gut. DCA, produced by certain gut bacteria, was found to exacerbate ER stress in ILC2s, impairing their ability to repair the intestinal lining.
+
+By wiping out DCA-producing bacteria, vancomycin relieved ER stress in ILC2s, allowing them to function properly and promote tissue repair. This mechanism was confirmed through experiments showing that reintroducing DCA reversed the benefits of vancomycin, while blocking ER stress restored ILC2 function even in the presence of DCA.
+
+This study not only sheds light on how microbial metabolites can directly influence immune cell function but also suggests a potential therapeutic strategy for ulcerative colitis: targeting specific bacterial metabolites to restore immune balance. It's a compelling example of how understanding the microbiome's chemical language could lead to more precise treatments for inflammatory diseases.
+
+[[TRANSITION]]
+
+Inflammatory bowel disease is a chronic condition marked by persistent intestinal inflammation, a compromised gut barrier, and an imbalanced microbiome. At the heart of these problems is an excess of reactive oxygen species, which drive tissue damage and immune dysfunction. Traditional antioxidant therapies often fall short because they can't reach the inflamed gut in sufficient concentrations or stay active long enough to make a difference.
+
+To address this, researchers developed a new oral delivery system using liposomes—tiny spherical vesicles made from phospholipids—to carry two key ingredients: ultrasmort ceria nanoparticles and 5-aminosalicylic acid. Ceria, or cerium oxide, is a rare earth metal oxide with unique redox properties. Its small size, just 2.5 nanometers, gives it a high surface area and allows it to mimic antioxidant enzymes like superoxide dismutase and catalase. 5-aminosalicylic acid, or 5-ASA, is a well-known anti-inflammatory drug used to treat IBD, but it's rapidly metabolized in the body, limiting its effectiveness.
+
+By encapsulating both agents together in liposomes, the team created a system that could protect the cargo from degradation, improve its stability in the gut, and deliver it directly to inflamed tissue. The liposomes were designed to be small enough to penetrate the intestinal lining and release their contents where they're needed most.
+
+In tests using a mouse model of colitis induced by dextran sulfate sodium, the liposomal formulation significantly reduced inflammation markers, restored the gut barrier, and improved the balance of gut bacteria. The combination therapy outperformed either agent alone, suggesting that the antioxidant and anti-inflammatory effects work synergistically.
+
+This approach represents a promising new strategy for treating IBD, offering a way to deliver potent, targeted therapy directly to the site of inflammation while minimizing systemic side effects.
+
+[[TRANSITION]]
+
+A new review in The Journal of Nutritional Biochemistry maps how ulcerative colitis can trigger liver damage through the gut-liver axis, highlighting a cascade of barrier breakdown, inflammation, and microbiome shifts. Researchers outline how natural bioactive compounds can intervene at multiple points—repairing intestinal barriers, suppressing inflammation, and reshaping gut microbes—to protect the liver. The study emphasizes a "barrier repair - inflammation suppression - microbiota remodeling" therapeutic strategy, offering a roadmap for targeted treatments. This integrative approach could lead to more effective therapies for UC patients at risk of secondary liver injury. The findings underscore the importance of addressing gut-liver crosstalk in managing complex inflammatory diseases. Source: PubMed, The Journal of Nutritional Biochemistry.
+
+[[TRANSITION]]
+
+A new study in the Journal of Agricultural and Food Chemistry shows that wheat bran arabinoxylan can boost the liver-protective effects of postbiotics. Researchers found that this dietary fiber acts as an ideal substrate for tryptophan-metabolizing probiotics, enhancing the production of beneficial postbiotic compounds. The work highlights how postbiotics—stable, safe byproducts of probiotic activity—may offer advantages over live probiotics in functional foods. By pairing wheat bran arabinoxylan with specific probiotic strains, the team observed improved hepatoprotective outcomes, suggesting a promising strategy for gut-liver axis support. This approach could lead to more effective, shelf-stable supplements targeting liver health.
+
+[[TRANSITION]]
+
+New research in *Microbiology Spectrum* explores how gut microbial communities, metabolic signatures, and antibiotic resistance genes—collectively known as the resistome—differ in people with dyslipidemia, a condition marked by abnormal blood lipid levels and a major risk factor for cardiovascular disease. The cross-sectional study analyzed gut microbiota composition and associated metabolic profiles, aiming to clarify inconsistent findings from earlier work. By linking microbial structure and function to lipid metabolism, the research suggests potential new pathways for managing cardiovascular risk through microbiome-targeted interventions. The findings highlight the gut's role not just in digestion but in broader metabolic health, offering clues for future therapies that could modulate the microbiome to improve lipid profiles and reduce heart disease risk.
+
+[[TRANSITION]]
+
+New research from Microbiology Spectrum reveals that children with allergic rhinitis show distinct changes in their gut virome, with an enrichment of pro-inflammatory bacteriophages and a depletion of fungal viruses compared to healthy peers. The study, which analyzed fecal samples from 16 AR patients and 17 healthy controls, used metagenomic sequencing to identify and classify viral genes. These virome alterations may contribute to the inflammatory processes underlying allergic rhinitis, suggesting that the gut viral community plays a role in immune regulation and allergy development. The findings highlight the potential for targeting the gut virome in future therapies for allergic rhinitis.
+
+[[TRANSITION]]
+
+New research in *Microbiology Spectrum* reveals that free-range pigs harbor a diverse reservoir of antibiotic resistance genes in their gut microbiomes. Using metagenome-assembled genomes, scientists mapped the resistome of these pigs, which frequently interact with humans and the environment. The findings highlight the pig gut as a significant source of antibiotic resistance genes, raising concerns for public health and environmental safety. This study underscores the need for monitoring and managing antibiotic resistance in livestock to mitigate potential risks to human health and ecosystems.
+
+[[TRANSITION]]
+
+A new metagenomic study in Microbiology Spectrum reveals how gut bacteria communities shift across developmental stages in an insect species. Researchers tracked bacterial diversity and abundance from early larval instars through adulthood, finding distinct microbial signatures at each phase. Early stages showed high Proteobacteria dominance, while later instars and adults harbored more diverse Firmicutes and Bacteroidetes. These shifts suggest gut microbiota adapt to changing host physiology and diet during metamorphosis. The findings highlight the dynamic interplay between host development and microbial ecology, offering insights into how insect-microbe relationships evolve over a life cycle. This work could inform pest management strategies and deepen understanding of host-microbiome co-evolution in holometabolous insects.
+
+[[TRANSITION]]
+
+A new study in Nutrition and Health explores how traditional legumes and fruits like mung beans, horse gram, and figs can serve as rich prebiotic sources. Researchers found these foods not only stimulate probiotic growth but also enhance short-chain fatty acid production, which is crucial for gut health. The work highlights the potential of combining these natural prebiotics to create synergistic effects, offering a promising avenue for functional foods and dietary interventions. This research underscores the value of traditional, plant-based ingredients in modern nutrition science.
+
+[[TRANSITION]]
+
+A new study in *Phytotherapy Research* reveals that astragaloside IV, a compound from the traditional Chinese herb Astragali Radix, shows promise in treating type 2 diabetes by targeting multiple pathways. In db/db mice—a common model for diabetes research—AS-IV improved glucose metabolism, repaired damaged gut barriers, and regulated gut microbiota. These findings suggest that AS-IV's antidiabetic effects are not limited to blood sugar control but also involve restoring intestinal health and microbial balance. The study highlights the potential of natural compounds in addressing complex metabolic disorders through holistic mechanisms. While further research is needed to confirm these effects in humans, the results offer a compelling case for exploring AS-IV as a therapeutic option for T2DM.
+
+[[TRANSITION]]
+
+A recent author response in Future Microbiology addresses critiques of a study on oral microbiota in HPV-infected individuals, emphasizing the need for larger, longitudinal cohorts and standardized sequencing protocols. The authors acknowledge limitations in sample size and microbial profiling depth, proposing future work to integrate metagenomics and metabolomics for deeper mechanistic insights. They also stress the importance of controlling for confounding factors like smoking and oral hygiene. The response underscores that while preliminary findings suggest distinct microbial signatures in HPV-positive patients, robust validation is essential before clinical translation. This exchange highlights ongoing methodological challenges in linking oral microbiome shifts to viral infection outcomes.
+
+[[TRANSITION]]
+
+A new longitudinal study in Microbiology Spectrum explores how the nasopharyngeal microbiome differs among COVID-19 patients with varying disease severity and how it evolves during recovery. Researchers tracked microbiome composition in patients across different COVID-19 phenotypes, with a focus on post-acute sequelae of SARS-CoV-2 (PASC). The study aims to uncover potential microbiome-related mechanisms underlying lingering symptoms after infection. By analyzing microbial shifts during acute illness and convalescence, the team hopes to identify microbial signatures linked to PASC risk or severity. This work could help clarify whether microbiome alterations contribute to long COVID and inform future therapeutic strategies targeting the respiratory microbiome.
+
+
+References:
+[1] Lactobacillus salivarius li01 alleviates premature ovarian insufficiency via gut microbiota-mediated modulation of tryptophan metabolism. — PubMed — NPJ science of food — https://doi.org/10.1038/s41538-026-00823-6
+[2] Breath volatilome as a non-invasive reflection of gut microbiota-driven health and disease. — PubMed — Cell metabolism — https://doi.org/10.1016/j.cmet.2026.03.007
+[3] The gut microbiota shapes the human and murine breath volatilome. — PubMed — Cell metabolism — https://doi.org/10.1016/j.cmet.2025.12.013
+[4] Fingerprint profiling human gut microbiota through boronic acid-based sensor array and its application on colorectal cancer classification. — PubMed — Nature communications — https://doi.org/10.1038/s41467-026-71350-x
+[5] The JNK2-microbiome axis modulates gut barrier integrity through microbial acetate. — PubMed — Gut microbes — https://doi.org/10.1080/19490976.2026.2651962
+[6] The different meanings of tolerating the gut microbiome. — PubMed — mBio — https://doi.org/10.1128/mbio.01736-24
+[7] Gut microbiome-dependent IL-1 signaling is a mediator of ACVR1R206H-driven heterotopic ossification — bioRxiv — immunology — https://www.biorxiv.org/content/10.64898/2026.04.05.716562
+[8] Nodule microbiome functions shape the performance of a wild perennial legume — bioRxiv — ecology — https://www.biorxiv.org/content/10.64898/2026.04.06.716301
+[9] Myrmecocystus honeypot ants have species specific resident gut microbiome — bioRxiv — microbiology — https://www.biorxiv.org/content/10.64898/2026.04.07.717087
+[10] Si-Ni-San alleviates depression-like behavior via regulating the gut microbiota-tryptophan metabolism-AhR/NF-κB pathway axis. — PubMed — Chinese medicine — https://doi.org/10.1186/s13020-026-01390-4
+[11] Gut microbiota and renal fibrosis: novel mechanistic insights and therapeutic potential. — PubMed — Acta pharmacologica Sinica — https://doi.org/10.1038/s41401-026-01801-0
+[12] Metagenome-assembled genomes, and gene and protein catalogues from the global wild boar faecal microbiome. — PubMed — Scientific data — https://doi.org/10.1038/s41597-026-07154-x
+[13] A clinical study on the effects of teriparatide and denosumab on bone metabolism and gut microbiota in osteoporotic fracture patients. — PubMed — Archives of osteoporosis — https://doi.org/10.1007/s11657-026-01697-7
+[14] Integrative microbiome-transcriptome analysis reveals immune activation linked to gut dysbiosis in Vespa magnifica. — PubMed — Journal of invertebrate pathology — https://doi.org/10.1016/j.jip.2026.108618
+[15] Host genetics and the gut microbiota jointly shape apparent fiber digestibility in pigs. — PubMed — Journal of advanced research — https://doi.org/10.1016/j.jare.2026.04.001
+[16] Intratumoral microbiome varies by site of metastatic spread in colorectal cancer. — PubMed — Surgery — https://doi.org/10.1016/j.surg.2026.110167
+[17] Shaping of the Infant Gut Microbiome by Milk Oligosaccharides. — PubMed — Annual review of biochemistry — https://doi.org/10.1146/annurev-biochem-051024-062915
+[18] Grass supplementation to a pellet-based diet fails to enrich gut microbiomes with wild-like functions in captive-bred hares. — PubMed — Microbiology spectrum — https://doi.org/10.1128/spectrum.03691-25
+[19] Comparative impacts of normobaric vs. hypobaric hypoxia on tissue integrity and gut microbiota in acute high-altitude murine models. — PubMed — Microbiology spectrum — https://doi.org/10.1128/spectrum.02214-25
+[20] Glycosidase-Derived Arabinoxylan Hydrolyzates Attenuate Intestinal Inflammation via Restructuring the Gut Microbiota-Metabolite Axis. — PubMed — Journal of agricultural and food chemistry — https://doi.org/10.1021/acs.jafc.6c00126
+[21] Dissecting the effect of single- and co-infection of TB and COVID-19 pathogens on the sputum microbiome. — PubMed — Microbiology spectrum — https://doi.org/10.1128/spectrum.02220-25
+[22] Bacterial microbiome analysis of vaginal, cervical, and endometrial samples in patients with adenomyosis during the window of implantation. — PubMed — Microbiology spectrum — https://doi.org/10.1128/spectrum.02791-25
+[23] Microbial 10-oxostearic acid protects mice against colitis via the nuclear receptor PPARα. — PubMed — Nature microbiology — https://doi.org/10.1038/s41564-026-02321-7
+[24] Scientific value and limitations of purified diets in animal research. — PubMed — Cell metabolism — https://doi.org/10.1016/j.cmet.2026.01.004
+[25] Primary cilia in the hypothalamic AgRP neurons mediate metabolic effects of butyrate. — PubMed — Nature communications — https://doi.org/10.1038/s41467-026-71745-w
+[26] Fecal virome transplantation attenuates arthritis in mice by remodeling gut ecology, systemic tryptophan metabolism, and innate immune responses. — PubMed — NPJ biofilms and microbiomes — https://doi.org/10.1038/s41522-026-00980-2
+[27] Single-cell genomics reveals opportunistic Enterobacterales carrying putative cationic antimicrobial peptide resistance genes in red crown rot-affected soybean rhizoplanes — bioRxiv — microbiology — https://www.biorxiv.org/content/10.64898/2026.04.07.716964
+[28] A class of metallohydrolases expands bile salt hydrolase activity in the gut — bioRxiv — biochemistry — https://www.biorxiv.org/content/10.64898/2026.04.05.716488
+[29] Vancomycin eliminates gut deoxycholic acid, restoring ER proteostasis in ILC2s and relieving colitis. — PubMed — JCI insight — https://doi.org/10.1172/jci.insight.197470
+[30] Oral liposomal co-delivery of ultrasmall ceria and 5-aminosalicylic acid alleviates DSS colitis — PubMed — Journal of materials chemistry. B — https://doi.org/10.1039/d6tb00173d
+[31] From Intestine to Liver: A Review of the Pathological Mechanisms of Ulcerative Colitis-Induced Secondary Liver Injury and Targeted Therapies with Medicinal. — PubMed — The Journal of nutritional biochemistry — https://doi.org/10.1016/j.jnutbio.2026.110361
+[32] Wheat Bran Arabinoxylan Potentiates Hepatoprotective Efficacy of Postbiotic — PubMed — Journal of agricultural and food chemistry — https://doi.org/10.1021/acs.jafc.5c11722
+[33] Gut microbial community structure, metabolic signature, and resistome in dyslipidemia: implications for cardiovascular disease management. — PubMed — Microbiology spectrum — https://doi.org/10.1128/spectrum.00971-25
+[34] Alterations in the gut virome of children with allergic rhinitis: enrichment of pro-inflammatory bacteriophages and depletion of fungal viruses. — PubMed — Microbiology spectrum — https://doi.org/10.1128/spectrum.03276-25
+[35] Insights into antibiotic resistomes from gut metagenome-assembled genomes of the free-range pigs. — PubMed — Microbiology spectrum — https://doi.org/10.1128/spectrum.02407-25
+[36] Metagenomic analysis of gut bacteria in different developmental instars of — PubMed — Microbiology spectrum — https://doi.org/10.1128/spectrum.02081-25
+[37] Prebiotics characterization from traditional legumes and fruits sources and their synergistic effects on probiotic growth and short-chain fatty acid (SCFA) production. — PubMed — Nutrition and health — https://doi.org/10.1177/02601060261436306
+[38] Astragaloside IV Exhibited Antidiabetic Effects by Improving Glucose Metabolism, Repairing Damaged Gut Barrier and Regulating Intestinal Microbiota. — PubMed — Phytotherapy research : PTR — https://doi.org/10.1002/ptr.70205
+[39] Author response to commentary on oral microbiota analysis in HPV-infected individuals: considerations for future research. — PubMed — Future microbiology — https://doi.org/10.1080/17460913.2026.2656107
+[40] Association of nasopharyngeal — PubMed — Microbiology spectrum — https://doi.org/10.1128/spectrum.02313-25

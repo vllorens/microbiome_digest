@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Apr 2026 05:40:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 06:24:54 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-04-09</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-09/podcast_2026-04-09.mp3</guid>
+      <pubDate>Thu, 09 Apr 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-09/podcast_2026-04-09.mp3" length="24698660" type="audio/mpeg" />
+      <description>Premature ovarian insufficiency, or POI, is a condition where the ovaries stop functioning normally before age 40, leading to infertility, hormonal imbalances, and increased risks for osteoporosis and cardiovascular disease. | In a new study published in NPJ Science of Food, researchers investigated whether a specific probiotic strain, Lactobacillus salivarius Li01, could help treat POI. | The probiotic Li01 was administered to these mice, and the results were striking.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Premature ovarian insufficiency, or POI, is a condition where the ovaries stop functioning normally before age 40, leading to infertility, hormonal imbalances, and increased risks for osteoporosis and cardiovascular disease. | In a new study published in NPJ Science of Food, researchers investigated whether a specific probiotic strain, Lactobacillus salivarius Li01, could help treat POI. | The probiotic Li01 was administered to these mice, and the results were striking.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-04-08</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-08/podcast_2026-04-08.mp3</guid>
       <pubDate>Wed, 08 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-08/podcast_2026-04-08.mp3" length="14486684" type="audio/mpeg" />
-      <description>The microbiome regulates host metabolic health and diseases through microbial enzymes. | The review highlights that microbial enzymes are key mediators between the microbiome and host physiology. | The authors emphasize that while omics studies have mapped associations between microbial composition and metabolic diseases like obesity, type 2 diabetes, and non-alcoholic fatty liver disease, the mechanistic role of specific microbial enzymes is only now being uncovered.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-08/podcast_2026-04-08.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>The microbiome regulates host metabolic health and diseases through microbial enzymes. | The review highlights that microbial enzymes are key mediators between the microbiome and host physiology. | The authors emphasize that while omics studies have mapped associations between microbial composition and metabolic diseases like obesity, type 2 diabetes, and non-alcoholic fatty liver disease, the mechanistic role of specific microbial enzymes is only now being uncovered.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
