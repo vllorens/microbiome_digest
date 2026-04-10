@@ -1,0 +1,339 @@
+{
+  "timestamps": [
+    0.0,
+    42.33,
+    165.93,
+    214.14,
+    367.57,
+    503.12,
+    556.92,
+    608.71,
+    645.45,
+    681.16,
+    729.18,
+    777.77,
+    904.61,
+    1023.14,
+    1169.01,
+    1336.93,
+    1444.54,
+    1606.9,
+    1699.58,
+    1884.84,
+    1930.43,
+    1987.86,
+    2033.48,
+    2073.58,
+    2113.1,
+    2154.52,
+    2202.4,
+    2259.13,
+    2902.71,
+    2951.91,
+    3105.22,
+    3255.45,
+    3420.21,
+    3595.14,
+    3645.18,
+    3692.0,
+    3727.75
+  ],
+  "items": [
+    {
+      "title": "Western diet suppresses canonical intestinal stem cells and reprograms c-Kit+ reserve stem cells via proinflammatory dysbiosis",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.06.716383",
+      "source": "Wendy Garrett (bioRxiv)",
+      "one_liner": "Dietary patterns are major determinants of colorectal cancer risk, yet how nutritional cues are molecularly integrated to reprogram intestinal stem cell identity and fuel tumor initiation is not well understood. Here, we demonstrate that a Western-style diet (WSD) rapidly and reversibly reprograms intestinal stem cell identity. WSD suppresses canonical Lgr5 stem cells while enhancing epithelial pr",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Fecal metatranscriptomics and virus isolation reveal picornavirus diversity and evolution in Japanese wild boars and pigs.",
+      "url": "https://doi.org/10.1038/s41598-026-45835-0",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "",
+      "segment": 1,
+      "timestamp": 42.33
+    },
+    {
+      "title": "Microbial medicines: Unlocking the therapeutic potential of the microbiome in cancer treatment.",
+      "url": "https://doi.org/10.1016/j.jconrel.2026.114720",
+      "source": "PubMed — Journal of controlled release : official journal of the Controlled Release Society",
+      "one_liner": "Microorganisms have had an established relationship with the maintenance of human health, and recent advancements in genetic engineering and synthetic biology have allowed the development of engineered microbes as targeted disease treatment. This review evaluates the rising use of microorganisms as therapeutic agents, particularly in the treatment of canc...",
+      "segment": 2,
+      "timestamp": 165.93
+    },
+    {
+      "title": "Response of gut microbiome and metabolomic profiles to POLYCAN, a β-glucan derived from Aureobasidium pullulans SM-2001 in beagles.",
+      "url": "https://doi.org/10.1186/s40104-026-01381-3",
+      "source": "PubMed — Journal of animal science and biotechnology",
+      "one_liner": "BACKGROUND: The importance of glucan additives has been widely recognized in farm animals. Yet the precise role of POLYCAN, a β-glucan derived from the black yeast Aureobasidium pullulans SM-2001, remains limited in companion animals. Therefore, this study aims to evaluate its effect on performance, nutrient digestibility, hematology, and the gut microbio...",
+      "segment": 3,
+      "timestamp": 214.14
+    },
+    {
+      "title": "Cinnamaldehyde mitigates MASLD through SIRT1/FOXO1-induced autophagy and synergistic gut microbiota modulation.",
+      "url": "https://doi.org/10.1038/s41538-026-00815-6",
+      "source": "PubMed — NPJ science of food",
+      "one_liner": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is a global health burden with limited therapeutic options. Cinnamomum cassia, a medicinal-food homologous plant, contains principal bioactive cinnamaldehyde (CA), whose anti-MASLD mechanisms require clarification. ‌This study employed both a high-fat diet (HFD)-induced MASLD model and a fre...",
+      "segment": 4,
+      "timestamp": 367.57
+    },
+    {
+      "title": "Rethinking microbiome health through functional dynamics.",
+      "url": "https://doi.org/10.1016/j.chom.2026.03.005",
+      "source": "PubMed — Cell host & microbe",
+      "one_liner": "Translation in microbiome science is limited by static concepts of health that obscure dynamic host-microbe processes. We propose adaptive coherence: the capacity of host-microbiome systems to sustain integrated function through reorganization. This reframes health as emergent and relational, directing measurement toward system adaptability, functional in...",
+      "segment": 5,
+      "timestamp": 503.12
+    },
+    {
+      "title": "The female urogenital microbiome: Ecological insights, therapeutic strategies, and molecular mechanisms.",
+      "url": "https://doi.org/10.1016/j.chom.2026.03.015",
+      "source": "PubMed — Cell host & microbe",
+      "one_liner": "Microbiome-based interventions for female urogenital health have gained attention, particularly in strategies aimed at restoring lactobacilli dominance to reduce infection and improve reproductive outcomes. These approaches include defined probiotic strains, engineered microbial consortia, and vaginal microbiota transfer. Observational studies have provid...",
+      "segment": 6,
+      "timestamp": 556.92
+    },
+    {
+      "title": "The interplay of plant polysaccharide structure, gut microbiota metabolism, and host health: Mechanisms and perspectives.",
+      "url": "https://doi.org/10.1016/j.lfs.2026.124383",
+      "source": "PubMed — Life sciences",
+      "one_liner": "Plant polysaccharides, as natural biomolecules, possess the capability to modulate the structure and function of gut microbiota, subsequently influencing host health. Nevertheless, the molecular mechanisms underlying their interactions remain insufficiently understood. This article presents a systematic review of the impact of the chemical structure of pl...",
+      "segment": 7,
+      "timestamp": 608.71
+    },
+    {
+      "title": "Impacts of inhaled exposures on the upper respiratory tract microbiome: a systematic review.",
+      "url": "https://doi.org/10.1016/j.scitotenv.2026.181776",
+      "source": "PubMed — The Science of the total environment",
+      "one_liner": "BACKGROUND: Inhaled exposures can substantially affect human health. The upper respiratory tract (URT) microbiome forms a critical first point of interaction with inhaled agents (e.g. air pollutants and chemicals), yet its response to most inhaled exposures remains poorly characterised beyond the well-studied effects of tobacco smoking. METHODS: We system...",
+      "segment": 8,
+      "timestamp": 645.45
+    },
+    {
+      "title": "Pesticides may wreak havoc on the gut microbiome",
+      "url": "https://www.science.org/doi/abs/10.1126/science.aeh8589?af=R",
+      "source": "Science",
+      "one_liner": "Science, Volume 392, Issue 6794, Page 134-135, April 2026.",
+      "segment": 9,
+      "timestamp": 681.16
+    },
+    {
+      "title": "Pesticides may wreak havoc on the gut microbiome.",
+      "url": "https://doi.org/10.1126/science.aeh8589",
+      "source": "PubMed — Science (New York, N.Y.)",
+      "one_liner": "Disruption of complex intestinal ecosystem could contribute to diabetes and other health issues, scientists say.",
+      "segment": 10,
+      "timestamp": 729.18
+    },
+    {
+      "title": "Engineered Lactate Catabolizing Probiotics Reveal Timescale Dependent Microbiome-Host Metabolic Coupling",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.07.716956",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "The exchange of lactate, a metabolic substrate and regulator, between the gut lumen and systemic circulation for use in host and microbial processes is well documented, but tools capable of uncovering whether this process influences host metabolic status across acute and chronic contexts are lacking. In our prior work, we engineered probiotic Bacillus sub...",
+      "segment": 11,
+      "timestamp": 777.77
+    },
+    {
+      "title": "LOCOM2: Robust Differential Abundance Analysis for Microbiome Data",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.07.716976",
+      "source": "bioRxiv — bioinformatics",
+      "one_liner": "Background: Numerous methods have been developed for differential abundance analysis of microbiome data; however, many fail to adequately control error rates, contributing to the reproducibility crisis in microbiome research. Moreover, new challenges have emerged, including large-scale studies, differential library size distributions, unbalanced case-cont...",
+      "segment": 12,
+      "timestamp": 904.61
+    },
+    {
+      "title": "Molecular identification and microbiome profiling of household casebearer, Phereoeca sp. (Lepidoptera: Tineidae) from Malaysia: Potential implications for human skin irritation.",
+      "url": "https://doi.org/10.1371/journal.pone.0346590",
+      "source": "PubMed — PloS one",
+      "one_liner": "In Malaysia, anecdotal accounts have linked the household casebearer (Lepidoptera: Tineidae) to skin lesions and localized inflammation; however, scientific evidence is lacking, and the species' taxonomic identity remains unclear. This study aimed to confirm the species identity and examine the bacteria associated with larvae that may be linked to skin ir...",
+      "segment": 13,
+      "timestamp": 1023.14
+    },
+    {
+      "title": "The Cognitive benefits of nitrate in patients with alcohol use disorder: unraveling the oral microbiome ectopic colonization pathway.",
+      "url": "https://doi.org/10.1038/s41380-026-03597-1",
+      "source": "PubMed — Molecular psychiatry",
+      "one_liner": "Our prior research revealed that dietary nitrate (NO₃⁻) may mitigate alcohol-induced cognitive impairment through oral microbiota modulation and attenuation of inflammatory responses in mice. While alcohol use disorder (AUD) is known to associate with cognitive decline and gut dysbiosis, the therapeutic potential of nitrate supplementation in ameliorating...",
+      "segment": 14,
+      "timestamp": 1169.01
+    },
+    {
+      "title": "Plasma acetic acid mediates the relationship between gut microbiome and various health measures in older adults.",
+      "url": "https://doi.org/10.1038/s43856-026-01566-x",
+      "source": "PubMed — Communications medicine",
+      "one_liner": "BACKGROUND: Short-chain fatty acids are believed to mediate microbiome-host interactions. Acetic acid is the most abundant systemic short-chain fatty acid, but knowledge about its physiological functions comes mainly from rodent experiments, with limited human research particularly in the aging population. METHODS: In this cross-sectional observational st...",
+      "segment": 15,
+      "timestamp": 1336.93
+    },
+    {
+      "title": "Exploring the predominant factors associated with shaping the cultivable swine gut microbiota of Wuzhishan piglets under in vitro cultivation conditions.",
+      "url": "https://doi.org/10.1186/s12866-026-04955-3",
+      "source": "PubMed — BMC microbiology",
+      "one_liner": "BACKGROUND: Recent advances in swine gut culturomics have substantially expanded our understanding of the cultivable repertoire and revealed the compositional complexity of the porcine gut microbiota. Nevertheless, how multiple environmental and cultivation-related factors interact to shape cultured communities under controlled nutrient conditions remains...",
+      "segment": 16,
+      "timestamp": 1444.54
+    },
+    {
+      "title": "Phellinus pini Polysaccharides Regulate Gut Microbiota-Host Metabolism to Attenuate Influenza-Driven Lung Injury.",
+      "url": "https://doi.org/10.1007/s00284-026-04886-2",
+      "source": "PubMed — Current microbiology",
+      "one_liner": "Phellinus pini is a large fungus with significant medicinal value. Building on the previously discovered inhibitory activity of Phellinus pini polysaccharides (PPP) against influenza viruses, this study established an influenza A mouse model through the intranasal instillation of an H1N1/PR8 virus solution. Using a combination of metabolomics and gut micr...",
+      "segment": 17,
+      "timestamp": 1606.9
+    },
+    {
+      "title": "Gut microbiota dysfunction mediates stress-exacerbated aortic dissection via the bacteroides vulgatus-outer membrane vesicles-stearic acid-JNK/MAPK axis.",
+      "url": "https://doi.org/10.1186/s12951-026-04369-3",
+      "source": "PubMed — Journal of nanobiotechnology",
+      "one_liner": "BACKGROUND: Aortic dissection (AD) is a lethal condition involving vascular smooth muscle cell (VSMC) transformation and extracellular matrix degradation. While gut microbiota dysbiosis is implicated in cardiovascular diseases, its role in stress-exacerbated AD pathogenesis is unknown. This study investigates the mechanism linking chronic restraint stress...",
+      "segment": 18,
+      "timestamp": 1699.58
+    },
+    {
+      "title": "Comment on: \"Exploring the gut microbiome in systemic lupus erythematosus: metagenomic and metabolomic insights into a new pro-inflammatory bacteria Clostridium scindens\"-a call to disentangle clostridium scindens' bile acid metabolism from glucocorticoid modulation in SLE pathogenesis.",
+      "url": "https://doi.org/10.1007/s10067-026-08060-8",
+      "source": "PubMed — Clinical rheumatology",
+      "one_liner": "",
+      "segment": 19,
+      "timestamp": 1884.84
+    },
+    {
+      "title": "Integrating WGCNA and network pharmacology to unravel the multi-target mechanisms of Ludangshen Oral liquid against nephrotic syndrome: Involvement of TGF-β1/Smad3 and gut microbiota.",
+      "url": "https://doi.org/10.1016/j.fitote.2026.107239",
+      "source": "PubMed — Fitoterapia",
+      "one_liner": "Ludangshen oral liquid (LDSKFY, abbreviated from the pinyin initials of \"Ludangshen Koufuye\") is a traditional Chinese medicinal product clinically used to treat chronic nephritis. This study aimed to investigate the therapeutic effects of LDSKFY on nephrotic syndrome (NS) and its underlying mechanisms. UPLC-MS was used to analyze the chemical composition...",
+      "segment": 20,
+      "timestamp": 1930.43
+    },
+    {
+      "title": "Minimal Disruption of the Rectal Microbiome in Acute and Early Untreated HIV Infection.",
+      "url": "https://doi.org/10.1097/QAI.0000000000003883",
+      "source": "PubMed — Journal of acquired immune deficiency syndromes (1999)",
+      "one_liner": "BACKGROUND: Alterations in the gut microbiome have been linked to chronic HIV infection, yet less is known about microbiome dynamics during the earliest phases of HIV acquisition. It remains unclear whether microbial changes precede or follow HIV infection, and whether specific taxa could serve as early biomarkers or modulators of disease progression. SET...",
+      "segment": 21,
+      "timestamp": 1987.86
+    },
+    {
+      "title": "Don't keep this endopeptidase on the DL.",
+      "url": "https://doi.org/10.1016/j.chom.2026.03.007",
+      "source": "PubMed — Cell host & microbe",
+      "one_liner": "Gut-derived bacterial DL-endopeptidase may confer protection from late onset sepsis (LOS) in preterm infants. In this issue of Cell Host & Microbe, Shen et al. identified delayed gut microbiome development in preterm infants as a risk factor for LOS and proposed a protective regulatory response by NOD2.",
+      "segment": 22,
+      "timestamp": 2033.48
+    },
+    {
+      "title": "Microbes as architects of colonic patterning.",
+      "url": "https://doi.org/10.1016/j.chom.2026.03.010",
+      "source": "PubMed — Cell host & microbe",
+      "one_liner": "The colonic epithelium is organized in functional regions and interacts with an abundant microbial community. In Cell, Rispal et al. discover that regionalization depends on microbes, with proximal identity regulated by microbial nicotinic acid-induced PPARα activation in the epithelium. Changes in tissue identity reshape zones of tissue injury.",
+      "segment": 23,
+      "timestamp": 2073.58
+    },
+    {
+      "title": "Microbial metabolism of food allergens determines the severity of IgE-mediated anaphylaxis.",
+      "url": "https://doi.org/10.1016/j.chom.2026.02.013",
+      "source": "PubMed — Cell host & microbe",
+      "one_liner": "Anaphylaxis is an acute, potentially life-threatening reaction, often triggered by foods and largely mediated by immunoglobulin (Ig)E. The human microbiota is known to influence oral tolerance, but the microbial mechanisms directly involved in IgE-mediated anaphylaxis remain unknown. Here, we demonstrate that human saliva and jejunum harbor peanut (PN)-de...",
+      "segment": 24,
+      "timestamp": 2113.1
+    },
+    {
+      "title": "Microbial single-cell omics in situ.",
+      "url": "https://doi.org/10.1016/j.xgen.2025.101128",
+      "source": "PubMed — Cell genomics",
+      "one_liner": "Metagenomics has enabled the understanding of the microbial composition and functional potential in various environments. Using laser-induced forward transfer (LIFT) technology, we report high-quality microbial single-cell genomes or transcriptomes in complex samples such as mouse gut, human saliva, and tumor sections. Bacterial cells in close proximity t...",
+      "segment": 25,
+      "timestamp": 2154.52
+    },
+    {
+      "title": "Emergent predictability in microbial ecosystems.",
+      "url": "https://doi.org/10.1126/science.adr1440",
+      "source": "PubMed — Science (New York, N.Y.)",
+      "one_liner": "A long-standing hypothesis of microbial ecology is that simple patterns might persist despite community complexity or even emerge because of it. However, the concept of \"emergent simplicity\" remains partly intuitive. Here, we defined emergent predictability of microbial ecosystems based on the predictive power of coarsened descriptions that group individu...",
+      "segment": 26,
+      "timestamp": 2202.4
+    },
+    {
+      "title": "End-to-end evaluation of pipelines for metagenome-assembled genomes reveals hidden performance gaps",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.06.712906",
+      "source": "bioRxiv — bioinformatics",
+      "one_liner": "The generation of Metagenome Assembled Genomes (MAGs) has become a standard and basic step in the analysis of metagenomic data. This multi-step process, which includes assembly, binning, refinement, and quality control, has many alternative approaches, algorithms, and parameters. Determining the ideal approach for a given ecosystem and study, or highlight...",
+      "segment": 27,
+      "timestamp": 2259.13
+    },
+    {
+      "title": "From hepatitis misdiagnosis to zoonotic false alarms: a metagenomic blacklist framework for the parvo-like hybrid viral group",
+      "url": "https://journals.asm.org/doi/abs/10.1128/spectrum.00157-26?af=R",
+      "source": "Microbiological Spectrum",
+      "one_liner": "Microbiology Spectrum, Ahead of Print.",
+      "segment": 28,
+      "timestamp": 2902.71
+    },
+    {
+      "title": "Cross-body site microbial interactions influence the human plasma metabolome.",
+      "url": "https://doi.org/10.1186/s40168-026-02405-w",
+      "source": "PubMed — Microbiome",
+      "one_liner": "BACKGROUND: The human microbiome profoundly influences the host plasma metabolome and health, but most studies have focused on the gut microbiome in isolation. A comprehensive assessment of how microbiomes from multiple body sites jointly shape host metabolism has been lacking. RESULTS: Using data from three independent human cohorts (n = 435), we systema...",
+      "segment": 29,
+      "timestamp": 2951.91
+    },
+    {
+      "title": "Trimethylamine N-Oxide Aggravates Neuro-inflammation in Spinal Cord Injury Through NLRP3 Inflammasome Activation in Microglia.",
+      "url": "https://doi.org/10.1007/s12035-026-05833-9",
+      "source": "PubMed — Molecular neurobiology",
+      "one_liner": "Trimethylamine oxide (TMAO), a gut microbiota metabolite, has been shown to be associated with neurological diseases, but its role in spinal cord injury (SCI) remains unclear. This study investigated the contribution of TMAO in the pathogenesis of SCI. A combination of in vivo and in vitro approaches was employed to investigate the role of TMAO in SCI. Mo...",
+      "segment": 30,
+      "timestamp": 3105.22
+    },
+    {
+      "title": "Plant-based enteral nutrition outperforms ultra-processed formulas in mitigating consequences of antibiotic-induced dysbiosis.",
+      "url": "https://doi.org/10.1172/jci.insight.199827",
+      "source": "PubMed — JCI insight",
+      "one_liner": "Malnutrition, gut inflammation, and antibiotic-induced dysbiosis (AID) are well-recognized risk factors for poor clinical outcomes among critically ill patients. We previously showed that commercially available plant-based enteral nutrition (PBEN) preserves a commensal microbiome compared with commonly used artificial enteral nutrition (AEN). In this stud...",
+      "segment": 31,
+      "timestamp": 3255.45
+    },
+    {
+      "title": "Beyond nutrition: a comprehensive review of the multifaceted benefits of HMOs and",
+      "url": "https://doi.org/10.1039/d6fo00335d",
+      "source": "PubMed — Food & function",
+      "one_liner": "Early in life, gut, immunity, growth, and brain development occur rapidly and vary considerably. Growing evidence suggests that probiotics, prebiotics, and synbiotics effectively support host health during early life.",
+      "segment": 32,
+      "timestamp": 3420.21
+    },
+    {
+      "title": "The Therapeutic Landscape and Underlying Mechanisms of Taurine in Colorectal Cancer.",
+      "url": "https://doi.org/10.1016/j.canlet.2026.218480",
+      "source": "PubMed — Cancer letters",
+      "one_liner": "Colorectal cancer (CRC) is a common malignancy and a leading cause of morbidity and mortality worldwide. Taurine, a sulfur-containing amino acid derivative, has gained attention for its potential regulatory role in CRC. In addition, active metabolites, such as hydrogen sulfide produced by the interaction between taurine and intestinal microbiota, may infl...",
+      "segment": 33,
+      "timestamp": 3595.14
+    },
+    {
+      "title": "Slug-mucus-inspired single-cell coating enhances the treatment of inflammatory bowel disease by improving probiotic colonization efficiency.",
+      "url": "https://doi.org/10.1016/j.jconrel.2026.114714",
+      "source": "PubMed — Journal of controlled release : official journal of the Controlled Release Society",
+      "one_liner": "Probiotics alleviate symptoms of inflammatory bowel disease (IBD), metabolic disorders, and cardiovascular disorders by modulating the gut microbiota. However, oral probiotics face significant survival challenges due to the protective environment of the gastrointestinal tract. Inspired by the strong reparative properties and adhesive features of slug mucu...",
+      "segment": 34,
+      "timestamp": 3645.18
+    },
+    {
+      "title": "Clinical evaluation of probe capture based targeted next generation sequencing for pulmonary infection in immunocompromised patients: a cross-sectional diagnostic accuracy study.",
+      "url": "https://doi.org/10.1080/23744235.2026.2654559",
+      "source": "PubMed — Infectious diseases (London, England)",
+      "one_liner": "BACKGROUND: Timely aetiological diagnosis of pulmonary infection in immunocompromised patients (ICPs) remains challenging because clinical presentations may be atypical and conventional microbiological tests (CMTs) have limited sensitivity. Probe capture based targeted next generation sequencing (ptNGS) has emerged as a potential alternative to metagenomi...",
+      "segment": 35,
+      "timestamp": 3692.0
+    },
+    {
+      "title": "The regional landscape of the human colon culturome in health and cystic fibrosis.",
+      "url": "https://doi.org/10.1128/spectrum.03126-25",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "UNLABELLED: Cystic fibrosis (CF) alters gut physiology, yet its impact on microbial communities across colonic regions (ascending, transverse, descending colon) and microhabitats (lumen, mucosa) remains incompletely understood. Here, we applied culturomics to characterize gut microbiota in a small cohort of 32 individuals (22 non-CF, 10 CF). Persons with ...",
+      "segment": 36,
+      "timestamp": 3727.75
+    }
+  ]
+}
