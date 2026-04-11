@@ -1,0 +1,294 @@
+{
+  "timestamps": [
+    0.0,
+    144.88,
+    273.45,
+    323.72,
+    374.89,
+    514.47,
+    570.36,
+    724.51,
+    874.67,
+    1065.4,
+    1122.63,
+    1169.88,
+    1218.38,
+    1271.35,
+    1324.34,
+    1371.25,
+    1419.58,
+    1460.31,
+    1513.66,
+    1560.91,
+    1677.02,
+    1809.37,
+    1947.61,
+    1995.96,
+    2144.33,
+    2288.11,
+    2488.89,
+    2536.43,
+    2585.12,
+    2632.32,
+    2678.59,
+    2729.54
+  ],
+  "items": [
+    {
+      "title": "Pre-treatment with baicalein alleviates the diquat-induced microglial pyroptosis through gut microbiota-derived indole-3-propionic acid and DDX3X/G3BP1 pathway.",
+      "url": "https://doi.org/10.1007/s10565-026-10189-w",
+      "source": "PubMed — Cell biology and toxicology",
+      "one_liner": "Baicalein, a naturally occurring flavonoid with well-documented anti-inflammatory and neuroprotective effects, has shown therapeutic promise in multiple models of neurological disorders. However, whether baicalein can counteract diquat-induced neurotoxicity remains uncertain. This study reveals that baicalein alleviates diquat-induced neuroinflammation an...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "The gut microbiota of hepato-pancreatico-biliary and gastric cancer patients is altered in composition and functionality.",
+      "url": "https://doi.org/10.1007/s11845-025-04166-1",
+      "source": "PubMed — Irish journal of medical science",
+      "one_liner": "",
+      "segment": 1,
+      "timestamp": 144.88
+    },
+    {
+      "title": "Environmentally mediated interactions predict community assembly and invasion success in a gut microbiota synthetic community.",
+      "url": "https://doi.org/10.1128/msystems.00113-26",
+      "source": "PubMed — mSystems",
+      "one_liner": "The gut microbiome plays a crucial role in host homeostasis, with implications for nutrition, immune development, metabolism, and protection against pathogens. Disturbance of the microbiome by microbial invasion can be negative or positive: invasions of opportunistic pathogens can cause disease while dysbiotic states need invasions to recover. However, th...",
+      "segment": 2,
+      "timestamp": 273.45
+    },
+    {
+      "title": "Gut microbiota signatures in primary aldosteronism and functional identification of an aldosterone-degrading gut bacterium.",
+      "url": "https://doi.org/10.1080/19490976.2026.2657047",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Primary aldosteronism (PA), a major cause of secondary hypertension, is characterized by autonomous aldosterone overproduction. Although the gut microbiota is closely linked to blood pressure regulation, its role in PA remains unclear. We performed metagenomic sequencing on fecal samples from 13 patients with essential hypertension (EH), 57 with unilatera...",
+      "segment": 3,
+      "timestamp": 323.72
+    },
+    {
+      "title": "Reconstructing plant beneficial bacterial consortia by integrating dilution-to-extinction microbiome perturbation with genome-resolved synthetic ecology",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.09.717421",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Across the biosphere, microbiomes play essential roles in shaping the health of their host. One notable example of such a microbiome-associated phenotype is disease-suppressive soils, where susceptible plant hosts enrich and activate specific rhizosphere microbial consortia for protection against fungal root pathogens. However, identifying and reconstruct...",
+      "segment": 4,
+      "timestamp": 374.89
+    },
+    {
+      "title": "LGTM: Gaussian Process Modulated Neural Topic Modeling for Longitudinal Microbiome",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.10.717451",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Longitudinal microbiome data are key to understanding the dynamics of microbial communities and their relationships with the host and environment. However, analysis of such data is challenging due to high dimensionality, compositionality, irregular sampling and temporal dependencies on external covariates. Existing analytical approaches typically address ...",
+      "segment": 5,
+      "timestamp": 514.47
+    },
+    {
+      "title": "Predicted meta-omics: A potential solution to multi-omics data scarcity in microbiome studies.",
+      "url": "https://doi.org/10.1371/journal.pone.0345919",
+      "source": "PubMed — PloS one",
+      "one_liner": "Imbalances in the gut microbiome have been linked to conditions such as inflammatory bowel disease, diabetes, and cancer. While metagenomics and amplicon sequencing are commonly used to study the microbiome, they do not capture all layers of microbial functions. Other meta-omics data can provide more insights, but these are more costly and laborious to pr...",
+      "segment": 6,
+      "timestamp": 570.36
+    },
+    {
+      "title": "The identification of metabolites from gut microbiota in HPV infection via network pharmacology.",
+      "url": "https://doi.org/10.1371/journal.pone.0346716",
+      "source": "PubMed — PloS one",
+      "one_liner": "Human papillomavirus (HPV) infection continues to pose a significant global health challenge. Although gut microbial metabolites have been associated with HPV infection, the mechanisms underlying this relationship remain inadequately understood. A network pharmacology approach was utilized to comprehensively explore the connections between gut microbial m...",
+      "segment": 7,
+      "timestamp": 724.51
+    },
+    {
+      "title": "Loss of salivary agglutinin induces changes in the salivary microbiome and accelerates development of oral cancer.",
+      "url": "https://doi.org/10.1186/s40168-026-02337-5",
+      "source": "PubMed — Microbiome",
+      "one_liner": "BACKGROUND: Salivary agglutinin, also known as deleted in malignant brain tumors 1 (DMBT1), is an anti-microbial protein. DMBT1 is low in saliva from patients with oral squamous cell carcinoma (OSCC) and dramatically increases after treatment, with accompanying microbial changes. While this suggests an association between DMBT1 suppression and changes in ...",
+      "segment": 8,
+      "timestamp": 874.67
+    },
+    {
+      "title": "Metabolic and functional pathways of gut microbiota in patients with gastric cancer.",
+      "url": "https://doi.org/10.1038/s41598-026-47830-x",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "We analysed the differences in bacterial composition between 475 Japanese patients with advanced gastric cancer (median age, 70 years; median BMI 20.0) and 106 healthy individuals using a comprehensive metagenome shotgun analysis. Among the patients with advanced gastric cancer, 71% were male, 37% had relapsed, and 55.5% previously underwent gastrectomy. ...",
+      "segment": 9,
+      "timestamp": 1065.4
+    },
+    {
+      "title": "Phosphorylated Cyclocarya paliurus polysaccharide alleviates DSS-induced ulcerative colitis by improving intestinal barrier function, inhibiting inflammation and regulating gut microbiota.",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2026.151927",
+      "source": "PubMed — International journal of biological macromolecules",
+      "one_liner": "Ulcerative colitis (UC) is a chronic and idiopathic inflammatory bowel disease with limited therapeutic options, high relapse rates, and potential adverse effects. Although natural polysaccharides have shown promise in alleviating colitis-associated inflammation, the impact of structural modification on their bioactivity and underlying mechanisms remains ...",
+      "segment": 10,
+      "timestamp": 1122.63
+    },
+    {
+      "title": "Association between gut microbiota and chronic diseases in East Asian ethnicity: A two-sample Mendelian randomization study.",
+      "url": "https://doi.org/10.1097/MD.0000000000048291",
+      "source": "PubMed — Medicine",
+      "one_liner": "The etiology and pathogenesis of chronic diseases (CDs) are complex and may result in a variety of symptoms that negatively affect patients' daily lives. There is growing evidence that changes in the composition and function of the gut microbiota (GM) are linked to the onset and progression of CDs, but a causal relationship between them has not yet been d...",
+      "segment": 11,
+      "timestamp": 1169.88
+    },
+    {
+      "title": "Causal relationship between gut microbiome, plasma metabolites, inflammation, and aortic stenosis: A multi-omics Mendelian randomization analysis.",
+      "url": "https://doi.org/10.1097/MD.0000000000048238",
+      "source": "PubMed — Medicine",
+      "one_liner": "As life expectancy increases and the population ages, aortic stenosis (AS) is the most common heart valve disease. Despite rapid improvements in interventional treatment options in recent years, morbidity and mortality from asymptomatic AS remain high. To date, there is no pharmacological therapy to prevent AS. In this study, we used multi-omics to system...",
+      "segment": 12,
+      "timestamp": 1218.38
+    },
+    {
+      "title": "The Microbiome-Gut-Liver Axis Drives Post-Kasai Fibrosis in Biliary Atresia: From Mechanism to Precision Intervention.",
+      "url": "https://doi.org/10.1111/hepr.70184",
+      "source": "PubMed — Hepatology research : the official journal of the Japan Society of Hepatology",
+      "one_liner": "Biliary atresia (BA) remains the most devastating fibro-inflammatory cholangiopathy of infancy. Even after successful Kasai portoenterostomy (KPE), progressive liver fibrosis ultimately dictates long-term outcomes. The \"microbiome-gut-liver axis\" has fundamentally reshaped our understanding of liver disease pathogenesis, yet critical questions persist reg...",
+      "segment": 13,
+      "timestamp": 1271.35
+    },
+    {
+      "title": "Weight loss and metabolic improvements dominate the microbiome response in the MIND diet intervention: a randomized controlled trial.",
+      "url": "https://doi.org/10.1002/trc2.70239",
+      "source": "PubMed — Alzheimer's & dementia (New York, N. Y.)",
+      "one_liner": "INTRODUCTION: Observational studies link the MIND diet to reduced risk of Alzheimer's disease (AD) and slower cognitive decline. However, a recent randomized controlled trial found no differential cognitive benefit of the MIND diet over a control diet in the context of shared caloric restriction. Given that both groups achieved significant weight loss and...",
+      "segment": 14,
+      "timestamp": 1324.34
+    },
+    {
+      "title": "The gut-brain axis and inflammatory mediators in suicide and mental disorders with high suicide rates: a review of current evidence.",
+      "url": "https://doi.org/10.1080/19585969.2026.2636468",
+      "source": "PubMed — Dialogues in clinical neuroscience",
+      "one_liner": "The interplay between gastrointestinal microbiota and mental disorders has recently been spotlighted. This review investigated discrete evidence suggesting associations between the gastrointestinal microbiome and inflammation with suicide. Fusicatenibavter, Hungatella, Veillonella, and Megasphaera have positive associations, but Clostridium, Butyricicoccu...",
+      "segment": 15,
+      "timestamp": 1371.25
+    },
+    {
+      "title": "Microbiota as a modulator of drug response: targeting microbial-drug crosstalk in cancer therapy.",
+      "url": "https://doi.org/10.1080/19490976.2026.2651930",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "In recent years, accumulating evidence has established mechanistic connections between the microbiota and the efficacy of anticancer treatments, encompassing microbial communities residing in the gut, within tumors, and across other tissue sites. Across diverse malignancies, distinct compositional and functional profiles of these microbial ecosystems have...",
+      "segment": 16,
+      "timestamp": 1419.58
+    },
+    {
+      "title": "Full-length 16S rRNA nanopore sequencing enables species resolution of",
+      "url": "https://doi.org/10.1080/19490976.2026.2656004",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Recent studies have revealed that the long-recognized link between the historically defined",
+      "segment": 17,
+      "timestamp": 1460.31
+    },
+    {
+      "title": "Dietary conjugated linoleic acid enhances resistance to",
+      "url": "https://doi.org/10.1080/19490976.2026.2657625",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Conjugated linoleic acid (CLA) is a dietary lipid that modulates host-microbiota-immune interactions, yet its mechanistic impact on mucosal defense remains unclear. Here, we show that oral CLA supplementation enhances resistance to",
+      "segment": 18,
+      "timestamp": 1513.66
+    },
+    {
+      "title": "Continental-scale multi-omics reveals a distinct microbial-viral biome in sandy beach ecosystems structured by tidal zonation",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.10.717577",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Sandy beaches are dynamic coastal interfaces shaped by strong physical forcing and intense exchange between marine and terrestrial environments, yet their microbiomes remain poorly resolved at the genomic scale. Here we present a genome-resolved survey of microbial and viral communities across sandy beaches spanning a continental-scale latitudinal gradien...",
+      "segment": 19,
+      "timestamp": 1560.91
+    },
+    {
+      "title": "Nitrogen fertilization outweighs plant species loss in shaping bacterial belowground diversity in an alpine meadow on the central Tibetan Plateau",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.08.717155",
+      "source": "bioRxiv — ecology",
+      "one_liner": "Plant species loss and nitrogen fertilization affect grassland biodiversity. However, their interactive effects on plant communities, soil properties, and the soil microbiome remain insufficiently understood. We analyzed how the removal of plant species, with and without urea addition, influenced plant diversity, soil properties, and soil bacterial commun...",
+      "segment": 20,
+      "timestamp": 1677.02
+    },
+    {
+      "title": "Inhibitors of gut bacterial L-dopa decarboxylation with reduced susceptibility to host metabolism",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.08.717077",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Microorganisms in the human gut influence the efficacy and metabolism of host-targeted small molecule therapeutics, including the frontline Parkinson's disease drug levodopa (L-dopa). Previous work has identified a mechanism-based inhibitor of gut bacterial decarboxylases that degrade L-dopa, -fluoromethyltyrosine (AFMT). However, early experiments with A...",
+      "segment": 21,
+      "timestamp": 1809.37
+    },
+    {
+      "title": "A Syntenic Pangenome of Gardnerella Reveals Novel Plasmids and Phage, Taxonomic Boundaries, and Species-Level Stratification of Metabolic and Virulence Potential",
+      "url": "https://www.biorxiv.org/content/10.1101/2025.02.19.636902",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Bacterial vaginosis (BV) is a prevalent condition characterized by an imbalance in the vaginal microbiota, often involving the presence of Gardnerella species. The taxonomic complexity and inconsistent nomenclature of Gardnerella have impeded progress in understanding the role of this genus in health and disease. In this study, we obtained genomes from 39...",
+      "segment": 22,
+      "timestamp": 1947.61
+    },
+    {
+      "title": "Spermidine Attenuates Neuroimmune Dysfunction in Gulf War Illness via Modulation of the Gut- Brain Axis.",
+      "url": "https://doi.org/10.1007/s12035-026-05763-6",
+      "source": "PubMed — Molecular neurobiology",
+      "one_liner": "Gulf War illness (GWI) affects nearly one-third of US veterans deployed during the 1990-1991 Gulf War (GW) and is characterized by chronic fatigue, neuroinflammation, and gut dysbiosis. Through comprehensive fecal metabolomics sequencing, our lab previously reported the depletion of beneficial metabolites including spermidine in the preclinical GWI mouse ...",
+      "segment": 23,
+      "timestamp": 1995.96
+    },
+    {
+      "title": "Prospecting and characterization of potential probiotic lactobacilli from animal gut and food sources.",
+      "url": "https://doi.org/10.1038/s41598-026-47302-2",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "Indigenous Lactobacillus species from African environments remain insufficiently characterised, despite their potential to serve as locally adapted, cost-effective probiotic candidates. This study explored plant- and poultry-derived lactobacilli to identify strains with functional traits relevant to gastrointestinal survival, host interaction, and food-re...",
+      "segment": 24,
+      "timestamp": 2144.33
+    },
+    {
+      "title": "Life-Stage-Dependent Variation in Gastrointestinal Microbial Communities of Drosophila melanogaster.",
+      "url": "https://doi.org/10.1007/s00248-026-02757-8",
+      "source": "PubMed — Microbial ecology",
+      "one_liner": "Drosophila melanogaster has been a useful biological model since its first use, more than 100 years ago. Mainly due to its genetic similarity with humans, as it allowed it to be an accurate representation of how different biological systems work, such as immune function, illness related pathways, gene inheritance, egg development and, in this case, the mi...",
+      "segment": 25,
+      "timestamp": 2288.11
+    },
+    {
+      "title": "Epigenetic Modulation of the Gut-Muscle Axis in Pompe Disease: Microbiota Fingerprints to Cellular and Molecular Pathomechanisms.",
+      "url": "https://doi.org/10.1016/j.molmet.2026.102364",
+      "source": "PubMed — Molecular metabolism",
+      "one_liner": "Inter-organ cross-talk is increasingly recognised as a fundamental determinant in the pathogenesis of neurodegenerative and neuromuscular disorders, modulating neuroinflammation, protein misfolding, and cellular dysfunction through systemic mediators such as cytokines, adipokines, and growth factors. In neuromuscular diseases, particularly Pompe disease, ...",
+      "segment": 26,
+      "timestamp": 2488.89
+    },
+    {
+      "title": "The gut-joint axis in osteoarthritis: integrating microbiota-driven metaflammation and immunosenescence.",
+      "url": "https://doi.org/10.1016/j.intimp.2026.116612",
+      "source": "PubMed — International immunopharmacology",
+      "one_liner": "Osteoarthritis (OA) has traditionally been viewed as a mechanical degenerative disease, but in recent years, the paradigm has gradually shifted from \"mechanical wear and tear degenerative disease\" to a complex condition driven by systemic low-grade inflammation and Immunosenescence. As a key linking pathway between gut microbiota, metaflammation, and Immu...",
+      "segment": 27,
+      "timestamp": 2536.43
+    },
+    {
+      "title": "Exposure to a High-Fat Diet Compromises Gut Health, Behavior, and HPA Axis Function, with Partial Reversal When Limited to Adolescence.",
+      "url": "https://doi.org/10.1016/j.brainresbull.2026.111883",
+      "source": "PubMed — Brain research bulletin",
+      "one_liner": "High-fat diet (HFD) consumption contributes to obesity, yet its impact on females of (pre)reproductive age and the effects of dietary modification after adolescence remain underexplored. This study examined how continuous HFD exposure or an adolescent switch from HFD to a standard diet (SD) shapes the gut microbiome, behavior, neurochemistry, metabolism, ...",
+      "segment": 28,
+      "timestamp": 2585.12
+    },
+    {
+      "title": "Effect of TU-100 on Colorectal Liver Metastasis in Mouse Model of MASH.",
+      "url": "https://doi.org/10.1016/j.jss.2026.03.073",
+      "source": "PubMed — The Journal of surgical research",
+      "one_liner": "INTRODUCTION: The incidence of metabolic dysfunction-associated steatohepatitis (MASH) is rapidly increasing, and colorectal liver metastasis (CLM) has been reported to be enhanced in MASH. We previously reported that the herbal medicine Daikenchuto (TU-100) regulates the intestinal microbiome and MASH in a mouse model. This study was performed to examine...",
+      "segment": 29,
+      "timestamp": 2632.32
+    },
+    {
+      "title": "Draft genome sequences of 109 gut bacteria isolated from colonoscopy samples of individuals with and without cystic fibrosis.",
+      "url": "https://doi.org/10.1128/mra.01114-25",
+      "source": "PubMed — Microbiology resource announcements",
+      "one_liner": "We report draft genome sequences of gut bacterial isolates recovered from colonoscopy samples obtained from individuals with and without cystic fibrosis. These genomes expand the representation of cultured gut microbes from distinct colonic regions and provide a resource for studying microbial diversity, adaptation, and host-microbe interactions in health...",
+      "segment": 30,
+      "timestamp": 2678.59
+    },
+    {
+      "title": "Complete genomes of",
+      "url": "https://doi.org/10.1128/mra.00994-25",
+      "source": "PubMed — Microbiology resource announcements",
+      "one_liner": "Four different bacteria were isolated from cheese rinds, identified using genetic sequencing, and analyzed using various bioinformatic tools. The results provide perspective into the microbial diversity of cheese rinds, which contributes to our knowledge and understanding of cheese microbiomes and their role in food microbiology.",
+      "segment": 31,
+      "timestamp": 2729.54
+    }
+  ]
+}

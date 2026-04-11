@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Apr 2026 06:31:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 05:30:51 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-04-11</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-11/podcast_2026-04-11.mp3</guid>
+      <pubDate>Sat, 11 Apr 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-11/podcast_2026-04-11.mp3" length="20643308" type="audio/mpeg" />
+      <description>Baicalein is a naturally occurring flavonoid found in plants like Scutellaria baicalensis, commonly known as Chinese skullcap. | Diquat is a widely used herbicide that, when it enters the body, generates reactive oxygen species and triggers neuroinflammation. | In this study, researchers investigated whether baicalein could mitigate diquat-induced microglial pyroptosis.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Baicalein is a naturally occurring flavonoid found in plants like Scutellaria baicalensis, commonly known as Chinese skullcap. | Diquat is a widely used herbicide that, when it enters the body, generates reactive oxygen species and triggers neuroinflammation. | In this study, researchers investigated whether baicalein could mitigate diquat-induced microglial pyroptosis.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-04-10</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-10/podcast_2026-04-10.mp3</guid>
       <pubDate>Fri, 10 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-10/podcast_2026-04-10.mp3" length="27935732" type="audio/mpeg" />
-      <description>A new study from Wendy Garrett&#x27;s lab reveals that a Western-style diet rapidly reprograms intestinal stem cell identity, suppressing canonical Lgr5+ stem cells while enhancing c-Kit+ reserve stem cells through proinflammatory gut dysbiosis. | Japanese researchers have uncovered a surprising diversity of picornaviruses in wild boars and domestic pigs using a combination of fecal metatranscriptomics and virus isolation. | The team used next-generation sequencing to identify viral RNA sequences, then confirmed findings through cell culture isolation.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-10/podcast_2026-04-10.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>A new study from Wendy Garrett&#x27;s lab reveals that a Western-style diet rapidly reprograms intestinal stem cell identity, suppressing canonical Lgr5+ stem cells while enhancing c-Kit+ reserve stem cells through proinflammatory gut dysbiosis. | Japanese researchers have uncovered a surprising diversity of picornaviruses in wild boars and domestic pigs using a combination of fecal metatranscriptomics and virus isolation. | The team used next-generation sequencing to identify viral RNA sequences, then confirmed findings through cell culture isolation.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
