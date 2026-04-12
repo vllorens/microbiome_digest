@@ -1,0 +1,51 @@
+{
+  "timestamps": [
+    0.0,
+    132.96,
+    179.18,
+    232.24,
+    284.79
+  ],
+  "items": [
+    {
+      "title": "Gut Microbiota Mediates the Association between Diet Quality and Ectopic Adiposity: The Multiethnic Cohort Adiposity Phenotype Study",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.10.717245",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Background: Higher-quality diets have been associated with lower levels of ectopic fat deposited in the viscera and liver, which is hypothesized to be mediated in part by the gut microbiota. Objectives: We tested this hypothesis in a multi-ethnic imaging study using global (microbiome-wide) testing as well as a high-dimensional multiple-mediators regressi...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Honey microbiome as a source of bioactive metabolites: the role of the microorganisms and the influence of physicochemical parameters.",
+      "url": "https://doi.org/10.1016/j.chroma.2026.466820",
+      "source": "PubMed — Journal of chromatography. A",
+      "one_liner": "Beyond its nutritional and therapeutic properties, honey contains a unique microbiome that may also function as an additional active component. The composition and activity of the microbiome depend on physicochemical parameters such as sugar profile, pH, and water activity, which reflect the origin and authenticity of honey. Microorganisms present in hone...",
+      "segment": 1,
+      "timestamp": 132.96
+    },
+    {
+      "title": "DIANA: Deep Learning Identification and Assessment of Ancient DNA",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.09.717429",
+      "source": "bioRxiv — bioinformatics",
+      "one_liner": "The field of ancient metagenomics provides insights into past microbiomes, but with a growing dataset size, methods that rely on reference databases have limited scope. Here, we introduce DIANA, a multi-task neural network that predicts key metadata categories from unitig abundances. Trained on 2,597 run accessions (1.72~Tbp of assembled unitig sequences)...",
+      "segment": 2,
+      "timestamp": 179.18
+    },
+    {
+      "title": "Commentary on oral microbiota analysis in HPV-infected individuals: considerations for future research.",
+      "url": "https://doi.org/10.1080/17460913.2026.2656108",
+      "source": "PubMed — Future microbiology",
+      "one_liner": "",
+      "segment": 3,
+      "timestamp": 232.24
+    },
+    {
+      "title": "Friend and Foe: Microbes in Orchestrating Immunity and Shaping Infection Dynamics.",
+      "url": "https://doi.org/10.1021/acsinfecdis.5c00709",
+      "source": "PubMed — ACS infectious diseases",
+      "one_liner": "Microbial communities, or microbiota, are fundamental regulators of host immunity and infection outcomes across diverse body sites, including the gut, skin, respiratory tract, and vagina. Despite advances, infectious diseases remain a global challenge, exacerbated by antimicrobial resistance and emerging pathogens. This review explores the dynamic interpl...",
+      "segment": 4,
+      "timestamp": 284.79
+    }
+  ]
+}
