@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Apr 2026 05:26:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 06:11:11 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-04-13</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-13/podcast_2026-04-13.mp3</guid>
+      <pubDate>Mon, 13 Apr 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-13/podcast_2026-04-13.mp3" length="14577068" type="audio/mpeg" />
+      <description>A new systematic review in Comparative Biochemistry and Physiology highlights how the aquaculture microbiome is central to sustainable fish farming. | A new review in The ISME Journal highlights how statistical approaches to microbiome assembly can unlock ecosystem-scale insights, forecasting, and management. | A new study in Gut Microbes reveals that common breast cancer chemotherapeutics disrupt the gut microbiome and trigger gut inflammation in female mice, potentially explaining why 50-80% of patients suffer gastrointestinal side effects like diarrhea and vomiting.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>A new systematic review in Comparative Biochemistry and Physiology highlights how the aquaculture microbiome is central to sustainable fish farming. | A new review in The ISME Journal highlights how statistical approaches to microbiome assembly can unlock ecosystem-scale insights, forecasting, and management. | A new study in Gut Microbes reveals that common breast cancer chemotherapeutics disrupt the gut microbiome and trigger gut inflammation in female mice, potentially explaining why 50-80% of patients suffer gastrointestinal side effects like diarrhea and vomiting.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-04-12</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-12/podcast_2026-04-12.mp3</guid>
       <pubDate>Sun, 12 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-12/podcast_2026-04-12.mp3" length="2428940" type="audio/mpeg" />
-      <description>This study explores how the gut microbiome might explain the link between diet quality and fat accumulation in the liver and abdomen. | The team first measured diet quality using the Healthy Eating Index, a standard score based on adherence to dietary guidelines. | To test whether the microbiome mediates the diet-fat relationship, the researchers applied a high-dimensional mediation analysis.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-12/podcast_2026-04-12.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>This study explores how the gut microbiome might explain the link between diet quality and fat accumulation in the liver and abdomen. | The team first measured diet quality using the Healthy Eating Index, a standard score based on adherence to dietary guidelines. | To test whether the microbiome mediates the diet-fat relationship, the researchers applied a high-dimensional mediation analysis.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>

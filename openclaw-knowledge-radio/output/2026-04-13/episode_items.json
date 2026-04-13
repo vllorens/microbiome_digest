@@ -1,0 +1,177 @@
+{
+  "timestamps": [
+    0.0,
+    48.48,
+    106.86,
+    153.9,
+    331.78,
+    487.11,
+    625.97,
+    812.78,
+    962.78,
+    1178.08,
+    1226.84,
+    1272.0,
+    1311.29,
+    1478.13,
+    1522.84,
+    1570.24,
+    1702.5,
+    1855.78,
+    1904.57
+  ],
+  "items": [
+    {
+      "title": "Microbiome and multi-omics insights into sustainable aquaculture: A triennial systematic review.",
+      "url": "https://doi.org/10.1016/j.cbd.2026.101830",
+      "source": "PubMed — Comparative biochemistry and physiology. Part D, Genomics & proteomics",
+      "one_liner": "Aquaculture is the fastest-growing food production sector, yet intensive practices drive disease outbreaks, antibiotic resistance, and environmental degradation, threatening long-term sustainability. The aquaculture microbiome, encompassing host-associated and environmental microbial communities, regulates nutrient cycling, pathogen suppression, immunity,...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Microbiome assembly statistics toward ecosystem-scale insights, forecasting, and management.",
+      "url": "https://doi.org/10.1093/ismejo/wrag085",
+      "source": "PubMed — The ISME journal",
+      "one_liner": "Microbiomes are increasingly recognized as key to addressing global challenges in health and sustainability, as they can provide emergent biological functions unattainable with single microbial species. However, microbial communities occasionally undergo abrupt shifts in species composition despite their intrinsic steadiness, making it difficult to mainta...",
+      "segment": 1,
+      "timestamp": 48.48
+    },
+    {
+      "title": "A systematic assessment of the short- and long-term effects of commonly used breast cancer chemotherapeutics on the gut microbiome‒blood‒brain axis of female mice.",
+      "url": "https://doi.org/10.1080/19490976.2026.2655149",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Chemotherapy affects over 300,000 U.S. breast cancer patients, which disrupts the gut microbiome and induces gut inflammation-an effect hypothesized to drive gastrointestinal side effects (e.g., diarrhea, vomiting) experienced by 50%-80% of patients. Preclinical studies have found causal links amongst chemotherapy-induced gut microbiome disruption, system...",
+      "segment": 2,
+      "timestamp": 106.86
+    },
+    {
+      "title": "Characterization of household microbiomes from three unique cities around the world",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.11.717928",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Characterizing the household bacterial microbiome allows for a stronger understanding of the various microbes that a person is exposed to everyday in their home. Exploring household microbiomes in different countries around the world increases - our understanding of the impact cultural differences might have on niche microbial communities in the house. Th...",
+      "segment": 3,
+      "timestamp": 153.9
+    },
+    {
+      "title": "Microbiome-Dependent Protection Against Corynebacterium bovis-Associated Hyperkeratosis in Nude Mice (Mus musculus)",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.11.716586",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Corynebacterium bovis, the cause of Corynebacterium-associated hyperkeratosis (CAH), is an important pathogen in immunocompromised mice that is difficult to eliminate and can confound research outcomes. We recently observed that CAH severity varies among outbred athymic nude mouse stocks, but the relative contributions of host genetics and the microbiome ...",
+      "segment": 4,
+      "timestamp": 331.78
+    },
+    {
+      "title": "Dietary iron and metal-based growth differentially modulate growth and gut microbiome of weaned piglets.",
+      "url": "https://doi.org/10.1186/s42523-026-00561-w",
+      "source": "PubMed — Animal microbiome",
+      "one_liner": "",
+      "segment": 5,
+      "timestamp": 487.11
+    },
+    {
+      "title": "Gut microbiome impact on systemic therapy outcomes in metastatic renal cell carcinoma: a systematic review.",
+      "url": "https://doi.org/10.1007/s00345-026-06386-1",
+      "source": "PubMed — World journal of urology",
+      "one_liner": "",
+      "segment": 6,
+      "timestamp": 625.97
+    },
+    {
+      "title": "Dietary inulin modulates pork quality and systemic health via gut microbiome and metabolome changes in finishing pigs.",
+      "url": "https://doi.org/10.1186/s42523-026-00566-5",
+      "source": "PubMed — Animal microbiome",
+      "one_liner": "",
+      "segment": 7,
+      "timestamp": 812.78
+    },
+    {
+      "title": "Prebiotic xylooligosaccharides ameliorate metabolic dysfunction-associated steatotic liver disease via modulating gut microbiota and metabolites.",
+      "url": "https://doi.org/10.1038/s41598-026-48643-8",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "The study investigated the dose-dependent protective effects of xylooligosaccharides (XOS) against metabolic dysfunction-associated steatotic liver disease (MASLD) in mice, focusing on gut microbiota and microbial metabolites. Male C57BL/6 mice were fed either a low-fat diet(LFD), a high-fat diet (HFD), HFD supplemented with low-dose XOS (0.38 g/kg), or H...",
+      "segment": 8,
+      "timestamp": 962.78
+    },
+    {
+      "title": "Protocol for the assessment of the impact of mycotoxins and glyphosate residues on the gut microbiome and resistome of European fallow deer.",
+      "url": "https://doi.org/10.1016/j.xpro.2026.104498",
+      "source": "PubMed — STAR protocols",
+      "one_liner": "Here, we present a protocol to describe the bacteriome of the intestinal content of toxin-exposed fallow deer. We describe steps for measuring fecal mycotoxin (deoxynivalenol, zearalenone, fumonisin B1, and aflatoxin B1) levels using liquid chromatography-mass spectrometry, as well as serum glyphosate. We then detail a short-read shotgun DNA sequencing-ba...",
+      "segment": 9,
+      "timestamp": 1178.08
+    },
+    {
+      "title": "Gut microbiota perturbation and systemic inflammation are associated with salcaprozate sodium (SNAC)-enabled oral semaglutide delivery.",
+      "url": "https://doi.org/10.1016/j.jconrel.2026.114711",
+      "source": "PubMed — Journal of controlled release : official journal of the Controlled Release Society",
+      "one_liner": "Semaglutide (SEM) is a glucagon-like peptide-1 (GLP-1) receptor agonist formulated for oral delivery with the absorption enhancer salcaprozate sodium (SNAC). Although oral SEM achieves 0.4-1% bioavailability through gastric epithelial uptake, gastrointestinal (GI) adverse events remain a major cause of therapy discontinuation. This study examined the effe...",
+      "segment": 10,
+      "timestamp": 1226.84
+    },
+    {
+      "title": "Small intestinal microbiome, the underrated maestro of SIMO disease.",
+      "url": "https://doi.org/10.1093/femsre/fuag016",
+      "source": "PubMed — FEMS microbiology reviews",
+      "one_liner": "Small intestinal microbial overgrowth (SIMO) results from a breakdown in the delicate equilibrium between luminal environment, gut motility, and microbial ecology. Despite extensive research, these factors have largely been investigated as separate entities, with limited integrative insights into their interplay. This review is the first comprehensive syn...",
+      "segment": 11,
+      "timestamp": 1272.0
+    },
+    {
+      "title": "Bacterial taxa associated with lung cancer cases in Southeast Asians: a pilot case-control study.",
+      "url": "https://doi.org/10.1007/s13402-026-01193-7",
+      "source": "PubMed — Cellular oncology (Dordrecht, Netherlands)",
+      "one_liner": "PURPOSE: Lung cancer is the leading cause of cancer-related mortality worldwide, yet its underlying mechanisms remain unclear. Disruptions in the respiratory microbiome may promote inflammation and carcinogenesis. This study aimed to comprehensively compare genus-level sputum microbiota between lung cancer patients and healthy controls in a multiethnic So...",
+      "segment": 12,
+      "timestamp": 1311.29
+    },
+    {
+      "title": "Unveiling the impact of colonic pH and pH-sensing receptors in blood pressure regulation.",
+      "url": "https://doi.org/10.1080/19490976.2026.2656346",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Colonic luminal pH is a fundamental feature of the gut environment, shaped largely by the composition and activity of the gut microbiota. Diets rich in fermentable fiber lower the colonic pH primarily through their microbial fermentation, which produces short-chain fatty acids (SCFAs) as metabolic by-products. While the local effects of colonic pH on micr...",
+      "segment": 13,
+      "timestamp": 1478.13
+    },
+    {
+      "title": "A plant single nucleotide polymorphism impacts nectar sugar composition, microbial diversity and pollinator visits",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.09.717461",
+      "source": "bioRxiv — genetics",
+      "one_liner": "Nectar is a hub for plant-pollinator interactions, yet gene-level causal links between plant genetic variation, pollinator foraging and nectar microbial assembly remain poorly resolved. Using near-isogenic lines, innovative field time-lapse monitoring of pollinator visits and long-read amplicon sequencing of nectar microbiota, we show that a natural singl...",
+      "segment": 14,
+      "timestamp": 1522.84
+    },
+    {
+      "title": "Intestinal dysbiosis associates with silica-induced pulmonary fibrosis in mice via arginine and tryptophan pathways.",
+      "url": "https://doi.org/10.1186/s12866-026-05023-6",
+      "source": "PubMed — BMC microbiology",
+      "one_liner": "BACKGROUND: Pulmonary fibrosis (PF) is a life-threatening interstitial lung disease with a lack of effective therapeutic approaches. Silicosis is a subtype of PF that is specifically caused by the inhalation of crystalline silica particles. In recent years, the gut-lung axis has been shown to be involved in the occurrence and progression of various respir...",
+      "segment": 15,
+      "timestamp": 1570.24
+    },
+    {
+      "title": "Artificial intelligence in microbiology: implications for metagenomics, diagnostics, and AMR surveillance.",
+      "url": "https://doi.org/10.1186/s12938-026-01568-9",
+      "source": "PubMed — Biomedical engineering online",
+      "one_liner": "Artificial intelligence (AI) is now a key player in modern microbiology, as it enables high-resolution analyses of genomic, metagenomic, and clinical data for the monitoring of infectious disease and antimicrobial resistance (AMR). Considerable advancements in deep learning, transformer-based sequence models, graph neural networks, and multimodal architec...",
+      "segment": 16,
+      "timestamp": 1702.5
+    },
+    {
+      "title": "Salivary pathobiont Klebsiella pneumoniae exacerbating periodontitis-related intestinal dyshomeostasis and accelerated metabolic syndrome.",
+      "url": "https://doi.org/10.1016/j.molimm.2026.04.002",
+      "source": "PubMed — Molecular immunology",
+      "one_liner": "OBJECTIVE: The relationship between periodontitis and diabetes is well-established, yet the underlying mechanisms are incompletely understood. This study aimed to investigate the role of Klebsiella pneumoniae (Kp94), isolated from the salivary microbiota of periodontitis patients, in exacerbating diabetes by disrupting intestinal immunity and metabolic ho...",
+      "segment": 17,
+      "timestamp": 1855.78
+    },
+    {
+      "title": "High-dose carboxylated cellulose nanocrystals exacerbate gut dysbiosis and intestinal infection.",
+      "url": "https://doi.org/10.1016/j.ecoenv.2026.120119",
+      "source": "PubMed — Ecotoxicology and environmental safety",
+      "one_liner": "Surface functionalization of cellulose nanocrystals (CNCs) is commonly used to improve their dispersibility, functionality, and performance across diverse applications. However, the potential biosafety risks of these modified nanomaterials, particularly within the gastrointestinal tract, remain insufficiently understood. Here, we systematically investigat...",
+      "segment": 18,
+      "timestamp": 1904.57
+    }
+  ]
+}

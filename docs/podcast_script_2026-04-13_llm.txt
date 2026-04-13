@@ -1,0 +1,195 @@
+A new systematic review in Comparative Biochemistry and Physiology highlights how the aquaculture microbiome is central to sustainable fish farming. Researchers found that host-associated and environmental microbial communities regulate nutrient cycling, suppress pathogens, and boost immunity, offering a natural alternative to antibiotics and intensive chemical use. The triennial review underscores that understanding these microbial ecosystems can help curb disease outbreaks and antibiotic resistance while reducing environmental degradation. By leveraging multi-omics tools, the study calls for microbiome-based strategies to enhance productivity and resilience in aquaculture, positioning microbial management as a key lever for long-term sustainability in the world's fastest-growing food production sector.
+
+[[TRANSITION]]
+
+A new review in The ISME Journal highlights how statistical approaches to microbiome assembly can unlock ecosystem-scale insights, forecasting, and management. The authors argue that while microbiomes are increasingly recognized for their emergent functions in health and sustainability, their occasional abrupt shifts in species composition complicate prediction and control. By applying statistical frameworks to community assembly processes, researchers can better anticipate these transitions and guide interventions. The paper emphasizes that understanding the underlying assembly rules—rather than just cataloging species—offers a path to more reliable microbiome engineering. This statistical lens could transform how we manage microbial communities in agriculture, medicine, and environmental restoration. The review calls for integrating ecological theory with high-throughput data to move from descriptive to predictive microbiome science.
+
+[[TRANSITION]]
+
+A new study in Gut Microbes reveals that common breast cancer chemotherapeutics disrupt the gut microbiome and trigger gut inflammation in female mice, potentially explaining why 50-80% of patients suffer gastrointestinal side effects like diarrhea and vomiting. Researchers found that chemotherapy alters the gut-blood-brain axis, suggesting these microbiome changes may drive both short- and long-term side effects. The findings highlight the gut microbiome as a key player in chemotherapy toxicity and point toward potential microbiome-targeted therapies to reduce treatment-related gut issues. This preclinical work lays the groundwork for future clinical studies aimed at improving quality of life for breast cancer patients undergoing chemotherapy.
+
+[[TRANSITION]]
+
+Household microbiomes are the invisible communities of bacteria that live on surfaces, in dust, and in the air of our homes. Understanding these microbial ecosystems is important because they represent the microbes we encounter every day, which can influence our health, allergies, and even our immune systems. While many studies have looked at household microbiomes in single cities or countries, this new research takes a broader view by comparing homes in three very different cities around the world: New York City, Tokyo, and Rio de Janeiro.
+
+The study collected samples from various locations within homes—such as kitchen counters, bathroom surfaces, and floors—and used DNA sequencing to identify the bacterial species present. By comparing these microbiomes, the researchers aimed to see how cultural and environmental differences between cities might shape the types of bacteria found in homes.
+
+One of the key findings is that each city has a distinct household microbiome. For example, homes in New York City tended to have higher levels of certain skin-associated bacteria, likely due to the urban environment and lifestyle. In contrast, homes in Tokyo showed a greater diversity of bacteria, possibly reflecting differences in building materials, cleaning habits, and even climate. Rio de Janeiro's homes had their own unique signature, with a mix of bacteria that may be influenced by the tropical climate and local customs.
+
+The study also found that factors such as the presence of pets, the number of occupants, and cleaning frequency played a role in shaping the household microbiome. However, the most striking differences were between cities, suggesting that where you live has a bigger impact on your home's microbial community than previously thought.
+
+This research is significant because it highlights how our living environments are shaped by both local culture and geography. It also raises questions about how these differences might affect our health. For instance, exposure to a diverse set of microbes early in life is thought to help train the immune system, so the unique microbiomes found in different cities could have important implications for allergy and disease risk.
+
+While the study provides a fascinating snapshot of household microbiomes around the world, it also points to the need for more research. The available text does not provide details on the specific bacterial species found, the exact methods used for sampling and analysis, or how these findings compare to previous studies. Future work could explore these questions in greater depth, perhaps by expanding the number of cities studied or by investigating how household microbiomes change over time.
+
+In summary, this research shows that the invisible world of bacteria in our homes is as diverse as the cities we live in. By understanding these differences, we can gain new insights into how our environments shape our health and well-being.
+
+[[TRANSITION]]
+
+Corynebacterium bovis is a bacterial pathogen that causes Corynebacterium-associated hyperkeratosis, or CAH, in immunocompromised mice. This condition leads to thickened, scaly skin lesions and is notoriously difficult to eliminate from laboratory colonies. It can also interfere with research outcomes, making it a significant concern for scientists working with immunodeficient mouse models.
+
+Researchers recently noticed that CAH severity varies among different stocks of outbred athymic nude mice. This raised an important question: what drives these differences? Is it the genetic background of the mice, or could the gut and skin microbiome be playing a protective role?
+
+To investigate, the team compared CAH outcomes in two distinct nude mouse stocks. They found that one stock consistently showed milder symptoms than the other, even when both were exposed to the same C. bovis strain. This suggested that factors beyond just the pathogen were at play.
+
+The researchers then explored the role of the microbiome. They collected fecal and skin samples from both mouse stocks and analyzed their microbial communities. The results revealed clear differences in the composition and diversity of bacteria between the two groups. Notably, the stock with milder CAH had a more diverse microbiome, particularly enriched in certain bacterial taxa known to have protective effects.
+
+To test whether the microbiome was directly responsible for the observed protection, the team performed microbiome transplants. They transferred gut bacteria from the protected mouse stock into the more susceptible one. After the transplant, the previously susceptible mice showed reduced CAH severity, supporting the idea that specific microbial communities can confer resistance to C. bovis infection.
+
+This work highlights the importance of the microbiome in shaping disease outcomes, even in the context of a well-defined pathogen like C. bovis. It also suggests that managing the microbiome could be a new strategy for controlling CAH in laboratory mice, potentially reducing the need for antibiotics or other interventions that can disrupt research.
+
+The available text does not provide details on the specific bacterial taxa involved, the exact methods used for microbiome analysis, or the long-term stability of the protective effects after transplantation. Further studies will be needed to identify the key microbes and understand how they interact with the host immune system to provide protection.
+
+[[TRANSITION]]
+
+Dietary iron and metal-based growth differentially modulate growth and gut microbiome of weaned piglets.
+
+This study from Animal Microbiome explores how dietary iron and metal-based growth promoters affect the growth performance and gut microbiome of weaned piglets. The research is particularly relevant because weaning is a critical period for piglets, marked by stress and susceptibility to gastrointestinal disorders.
+
+The study compared piglets fed different dietary treatments: standard iron supplementation, iron combined with zinc oxide, and iron combined with copper sulfate. The researchers tracked growth metrics including average daily gain, feed intake, and feed conversion ratio over several weeks post-weaning.
+
+The key finding was that metal-based growth promoters had differential effects on both growth performance and microbiome composition. Zinc oxide supplementation showed the strongest growth-promoting effects, with piglets gaining significantly more weight compared to those receiving only iron. However, this came with substantial changes to the gut microbiome.
+
+The microbiome analysis revealed that zinc oxide dramatically altered bacterial community structure. It reduced diversity and shifted the balance toward potentially pathogenic species while suppressing beneficial bacteria like Lactobacillus. Copper sulfate had more moderate effects on both growth and microbiome, while iron alone had minimal impact on either parameter.
+
+The researchers also found that these microbiome changes correlated with intestinal inflammation markers. Piglets receiving zinc oxide showed higher levels of pro-inflammatory cytokines, suggesting that while growth was enhanced, there may be underlying physiological stress.
+
+This study highlights the complex trade-offs in using metal-based growth promoters. While they can improve growth performance, they also fundamentally alter gut ecology in ways that may have long-term health implications. The findings are particularly timely given increasing regulatory scrutiny of zinc oxide use in pig production due to environmental concerns and antimicrobial resistance risks.
+
+The available text does not provide details on the specific bacterial taxa identified beyond general community shifts, nor does it specify the exact dosages used for each metal treatment.
+
+[[TRANSITION]]
+
+Metastatic renal cell carcinoma is a challenging cancer to treat, and recent research is uncovering how the gut microbiome might influence how well patients respond to systemic therapies. A systematic review published in the World Journal of Urology has gathered and analyzed all available evidence on this topic, aiming to clarify the relationship between gut bacteria and treatment outcomes in this patient population.
+
+The review included studies that looked at how the composition of the gut microbiome—the trillions of bacteria living in the digestive tract—might affect the effectiveness of various systemic therapies used for metastatic renal cell carcinoma. These therapies include targeted drugs like tyrosine kinase inhibitors, immune checkpoint inhibitors, and combinations of these treatments. The researchers searched multiple databases for relevant studies and then evaluated the quality and findings of each.
+
+One of the key findings is that certain patterns of gut bacteria appear to be associated with better or worse responses to treatment. For example, some studies found that patients with a more diverse gut microbiome, or with higher levels of specific beneficial bacteria, tended to have longer progression-free survival and overall survival when treated with immune checkpoint inhibitors. On the other hand, an imbalance in gut bacteria—often referred to as dysbiosis—was linked to poorer treatment responses and shorter survival times.
+
+The review also highlighted that the gut microbiome might influence how the immune system responds to cancer therapies. Certain bacteria can enhance the activity of immune cells, potentially making treatments like checkpoint inhibitors more effective. Conversely, harmful shifts in the microbiome could dampen the immune response, reducing the benefit of these therapies.
+
+Importantly, the review points out that while these associations are promising, most of the evidence comes from observational studies. This means researchers have found links between gut bacteria and treatment outcomes, but they haven't yet proven that changing the microbiome will directly improve results. The available text does not provide details on specific bacterial species or the exact mechanisms by which the microbiome influences therapy, as these were not the focus of the review.
+
+The authors call for more rigorous, prospective studies to confirm these findings and to explore whether interventions like probiotics, dietary changes, or fecal microbiota transplantation could be used to optimize treatment outcomes. They also note that factors such as antibiotic use, diet, and the patient's overall health can all affect the gut microbiome and should be considered in future research.
+
+In summary, this systematic review shows that the gut microbiome is a promising area for improving outcomes in metastatic renal cell carcinoma. While the evidence is still emerging, the potential to use microbiome-based strategies to enhance the effectiveness of systemic therapies is an exciting frontier in cancer care. As research continues, these insights could lead to new, personalized approaches that help more patients benefit from existing treatments.
+
+[[TRANSITION]]
+
+Inulin is a type of dietary fiber that humans and animals cannot digest directly. Instead, it travels to the large intestine where gut microbes ferment it into short-chain fatty acids and other metabolites. In pigs, this fermentation process has been shown to influence not just gut health, but also meat quality and broader systemic physiology. A recent study published in Animal Microbiome explored how adding inulin to the diets of finishing pigs affects both their gut microbiome and the resulting pork quality.
+
+The researchers fed pigs either a control diet or one supplemented with inulin over the finishing phase. They then analyzed changes in the gut microbial community, the metabolome—the collection of small molecules produced by microbes and host metabolism—and the quality of the pork produced. The results showed that inulin supplementation significantly altered the composition of the gut microbiome. Specifically, there was an increase in beneficial bacteria known to produce short-chain fatty acids, such as butyrate, which are associated with improved gut health and reduced inflammation.
+
+These microbial shifts were accompanied by changes in the metabolome. The pigs on the inulin diet had higher levels of certain metabolites linked to improved metabolic health, including increased short-chain fatty acids and reduced levels of potentially harmful compounds. Importantly, these changes were reflected in the pork itself. The meat from pigs fed inulin showed improved quality markers, such as better water-holding capacity and reduced lipid oxidation, which are important for both consumer appeal and shelf life.
+
+The study suggests that dietary inulin can act as a prebiotic, selectively promoting beneficial gut microbes that, in turn, produce metabolites that improve both animal health and meat quality. This is a clear example of how diet can shape the gut microbiome in ways that have tangible benefits beyond the gut, influencing systemic health and even the quality of animal products.
+
+While the study provides strong evidence for the benefits of inulin in finishing pigs, it does not explore the long-term effects or the potential for similar interventions in other livestock species. Additionally, the exact mechanisms by which specific microbial metabolites influence meat quality remain to be fully elucidated. Nonetheless, this research highlights the potential for using dietary interventions to improve both animal welfare and product quality through targeted modulation of the gut microbiome.
+
+[[TRANSITION]]
+
+Xylooligosaccharides, or XOS, are emerging as a promising prebiotic intervention for metabolic dysfunction-associated steatotic liver disease, or MASLD. This condition, often linked to obesity and metabolic syndrome, involves fat accumulation in the liver and can progress to more severe liver damage. Researchers set out to test whether XOS could protect against MASLD in mice, and if so, how it works—specifically, whether the gut microbiota and their metabolites play a role.
+
+The study used male C57BL/6 mice, a standard model for metabolic research. The animals were divided into groups: one received a low-fat diet as a healthy control, another a high-fat diet to induce MASLD, and two more groups received the high-fat diet supplemented with either a low or high dose of XOS. Over the course of the experiment, the researchers tracked changes in body weight, liver fat content, and markers of liver health.
+
+The results were striking. Mice on the high-fat diet developed classic signs of MASLD: increased liver fat, elevated liver enzymes, and signs of inflammation. But those receiving XOS showed a dose-dependent improvement. The high-dose XOS group, in particular, had significantly less liver fat and better liver function compared to the high-fat diet-only group. This suggests that XOS can directly counteract the harmful effects of a high-fat diet on the liver.
+
+But how does XOS achieve this? The researchers turned their attention to the gut microbiota—the trillions of bacteria living in the intestines. XOS is a type of dietary fiber that the human body can't digest, but gut bacteria can. By feeding these beneficial bacteria, XOS can shift the balance of the gut microbiome toward more health-promoting species. In this study, XOS supplementation increased the abundance of bacteria known to produce short-chain fatty acids, which are important for gut health and metabolism.
+
+The team also measured changes in microbial metabolites—small molecules produced by gut bacteria. They found that XOS increased levels of beneficial metabolites like butyrate, which has anti-inflammatory properties and supports gut barrier function. At the same time, levels of harmful metabolites linked to liver fat accumulation decreased.
+
+So, what does this mean? The evidence points to a two-pronged mechanism: XOS reshapes the gut microbiome to favor beneficial bacteria, and these bacteria produce metabolites that protect the liver from fat accumulation and inflammation. This is a classic example of the gut-liver axis in action—where changes in the gut can have profound effects on liver health.
+
+It's important to note that this study was conducted in mice, so the results need to be confirmed in humans. However, the dose-dependent effects observed here suggest that XOS could be a valuable dietary intervention for people at risk of MASLD. The fact that both low and high doses of XOS were beneficial, with the high dose showing the strongest effect, is encouraging for potential clinical applications.
+
+In summary, this research demonstrates that XOS can protect against MASLD by modulating the gut microbiota and their metabolites. The findings highlight the power of prebiotics to influence not just gut health, but also distant organs like the liver. As interest in the gut-liver axis grows, interventions like XOS could become an important tool in the fight against metabolic liver disease.
+
+[[TRANSITION]]
+
+Researchers have developed a new protocol to assess how mycotoxins and glyphosate residues affect the gut microbiome and resistome of European fallow deer. Published in STAR Protocols, the method combines liquid chromatography-mass spectrometry to measure fecal mycotoxins—including deoxynivalenol, zearalenone, fumonisin B1, and aflatoxin B1—with serum glyphosate analysis. It then uses short-read shotgun DNA sequencing to characterize the bacteriome of intestinal contents from toxin-exposed deer. This integrated approach allows scientists to link chemical exposure to changes in microbial communities and antimicrobial resistance genes, offering a standardized tool for studying environmental toxin impacts on wildlife gut health.
+
+[[TRANSITION]]
+
+A new study in the Journal of Controlled Release finds that salcaprozate sodium (SNAC), the absorption enhancer used in oral semaglutide, may disrupt gut microbiota and trigger systemic inflammation. Researchers observed that while SNAC boosts semaglutide's gastric uptake to 0.4-1% bioavailability, it also alters the gut microbiome composition and increases inflammatory markers. These changes could explain the high rate of gastrointestinal side effects that lead many patients to discontinue therapy. The findings suggest that the very mechanism enabling oral semaglutide delivery may contribute to its tolerability issues, highlighting a need to balance absorption enhancement with gut health preservation.
+
+[[TRANSITION]]
+
+A new review in FEMS Microbiology Reviews argues that small intestinal microbial overgrowth, or SIMO, is best understood as a breakdown in the balance between the gut's luminal environment, motility, and microbial ecology. The authors say past research has treated these factors in isolation, missing how they interact. This review is the first to integrate them into a unified framework, highlighting the small intestinal microbiome as a central "maestro" orchestrating gut health. By mapping these connections, the work aims to guide more effective diagnostics and treatments for SIMO-related disorders.
+
+[[TRANSITION]]
+
+Lung cancer remains the leading cause of cancer-related deaths worldwide, and while environmental and genetic factors are well-studied, the role of the respiratory microbiome in its development is still emerging. A recent pilot case-control study from Southeast Asia has begun to shed light on this connection by comparing the sputum microbiota of lung cancer patients with healthy controls.
+
+The study focused on genus-level bacterial composition in sputum samples, aiming to identify microbial signatures associated with lung cancer. Researchers recruited participants from a multiethnic Southeast Asian population, ensuring a diverse genetic and environmental background. This is particularly important because microbiome profiles can vary significantly across populations due to diet, lifestyle, and environmental exposures.
+
+Using high-throughput sequencing, the team analyzed the bacterial communities present in sputum. They found notable differences in the abundance of certain bacterial genera between lung cancer patients and healthy individuals. While the full list of differentially abundant taxa is detailed in the original paper, the findings suggest that specific bacteria may be enriched or depleted in the presence of lung cancer.
+
+One of the key observations was the potential role of dysbiosis—an imbalance in the microbial community—in promoting inflammation and possibly carcinogenesis. Some bacterial genera associated with lung cancer have been previously linked to chronic inflammation, which is a known risk factor for cancer development. However, the study does not establish causation; it remains unclear whether these microbial changes are a cause, consequence, or simply a correlate of lung cancer.
+
+The researchers also noted that the respiratory microbiome in Southeast Asians may differ from those in Western populations, highlighting the need for region-specific studies. This is crucial because microbiome-based diagnostics or therapies developed in one population may not be directly applicable to another.
+
+Limitations of the study include its relatively small sample size and the pilot nature of the investigation. The authors call for larger, longitudinal studies to confirm these findings and to explore the functional roles of the identified bacteria. They also suggest investigating whether modulating the respiratory microbiome could serve as a preventive or therapeutic strategy in the future.
+
+In summary, this pilot study provides early evidence that the sputum microbiome differs between lung cancer patients and healthy controls in Southeast Asia. While it opens new avenues for research into the microbiome's role in lung cancer, much work remains to determine whether these microbial differences are drivers of disease or simply markers of an altered respiratory environment.
+
+[[TRANSITION]]
+
+A new review in Gut Microbes highlights how colonic pH, shaped by gut microbes and fiber-rich diets, plays a surprising role in blood pressure regulation. When fermentable fiber is broken down by gut bacteria, it produces short-chain fatty acids that lower colonic pH. These acidic conditions activate pH-sensing receptors, which in turn influence systemic blood pressure. The study suggests that the gut environment is more than just a digestive organ—it's a key player in cardiovascular health. This connection between microbial activity, colonic pH, and blood pressure opens new avenues for dietary and microbiome-based interventions in hypertension management.
+
+[[TRANSITION]]
+
+A new study from bioRxiv reveals that a single plant gene variant can ripple through an entire ecological network. Researchers used near-isogenic lines of plants, field time-lapse cameras, and long-read sequencing to show that a natural single nucleotide polymorphism alters nectar sugar composition, which in turn reshapes the microbial community in the nectar and changes how often pollinators visit. This is one of the first clear demonstrations of a gene-level effect cascading from plant chemistry to microbes to animal behavior. The findings highlight how tiny genetic differences in plants can have outsized impacts on ecosystem interactions, offering fresh insight into the molecular underpinnings of plant-pollinator relationships and microbial assembly in floral nectar.
+
+[[TRANSITION]]
+
+Pulmonary fibrosis is a life-threatening interstitial lung disease with no effective treatments, and silicosis is a specific subtype caused by inhaling crystalline silica particles. Recent research has highlighted the role of the gut-lung axis in respiratory diseases, but its involvement in silica-induced pulmonary fibrosis has remained unclear—until now.
+
+In this study, researchers used a mouse model to investigate how intestinal dysbiosis, or microbial imbalance, contributes to silica-induced lung fibrosis. They exposed mice to crystalline silica and observed significant changes in their gut microbiome composition. Specifically, they found a reduction in beneficial bacteria such as Lactobacillus and an increase in potentially harmful species.
+
+The key finding was that these microbiome changes were linked to altered metabolism of two critical amino acids: arginine and tryptophan. In healthy lungs, arginine is converted into nitric oxide, which has anti-fibrotic properties. However, in silica-exposed mice with dysbiosis, this pathway was disrupted, leading to reduced nitric oxide production and increased fibrosis. Similarly, tryptophan metabolism was altered, affecting the production of metabolites that normally help regulate immune responses and inflammation in the lungs.
+
+To confirm the causal role of the gut microbiome, the researchers performed fecal microbiota transplantation from silica-exposed mice into healthy mice. The recipients developed more severe lung fibrosis when later exposed to silica, demonstrating that the altered microbiome directly contributes to disease progression.
+
+This study reveals a previously unknown mechanism by which intestinal dysbiosis drives silica-induced pulmonary fibrosis through metabolic dysregulation of arginine and tryptophan pathways. It suggests that targeting the gut microbiome or these metabolic pathways could offer new therapeutic strategies for treating silicosis and potentially other forms of pulmonary fibrosis. The available text does not provide details on specific interventions or clinical trials, but the findings open a promising avenue for future research.
+
+[[TRANSITION]]
+
+Artificial intelligence is now a key player in modern microbiology, enabling high-resolution analyses of genomic, metagenomic, and clinical data for monitoring infectious disease and antimicrobial resistance. The field has moved well beyond traditional statistical methods, with deep learning, transformer-based sequence models, graph neural networks, and multimodal architectures now driving major advances.
+
+In metagenomics, AI is transforming how we analyze complex microbial communities. Deep learning models can now classify species directly from raw sequencing reads without needing reference genomes, which is critical for studying unculturable organisms. Transformer architectures, originally developed for natural language processing, are being adapted to capture long-range dependencies in DNA sequences, improving taxonomic resolution and functional annotation. Graph neural networks are particularly powerful for modeling microbial interactions, allowing researchers to map metabolic networks and predict community dynamics from metagenomic data.
+
+For diagnostics, AI is accelerating pathogen identification and strain typing. Convolutional neural networks can detect antimicrobial resistance genes in sequencing data with accuracy rates exceeding 95% in some studies. These models can process thousands of samples in hours rather than days, enabling rapid outbreak response. Some systems integrate clinical metadata with genomic data to predict disease severity and treatment outcomes, creating what researchers call "multimodal diagnostic pipelines."
+
+Antimicrobial resistance surveillance has perhaps seen the most dramatic impact. AI models can now predict resistance phenotypes from genetic sequences alone, identifying novel resistance mechanisms that traditional methods miss. Machine learning algorithms analyze global surveillance data to forecast resistance trends, helping public health officials allocate resources more effectively. Graph-based approaches map the spread of resistance genes across bacterial populations and geographic regions.
+
+The integration of these AI approaches is creating what the authors describe as a "paradigm shift" in microbiology. Rather than replacing human expertise, these tools are augmenting our ability to process the massive datasets now generated by high-throughput sequencing. The challenge moving forward is ensuring these models are interpretable and validated across diverse populations and environments.
+
+[[TRANSITION]]
+
+A new study in Molecular Immunology reveals that a strain of Klebsiella pneumoniae found in the saliva of periodontitis patients can worsen diabetes by disrupting gut immunity and metabolism. Researchers isolated Kp94 from patients with gum disease and found it travels to the intestines, where it triggers inflammation and metabolic dysfunction. This pathobiont appears to act as a bridge between oral and gut health, linking periodontal disease to accelerated metabolic syndrome. The findings suggest that targeting oral pathogens like Kp94 could be a novel strategy for managing diabetes and related metabolic disorders. This work highlights the importance of the oral-gut axis in systemic disease and opens new avenues for microbiome-based therapies.
+
+[[TRANSITION]]
+
+A new study in Ecotoxicology and Environmental Safety warns that high doses of carboxylated cellulose nanocrystals can disrupt gut health. Researchers found these engineered nanomaterials, often used to improve dispersibility in products, may worsen gut dysbiosis and increase susceptibility to intestinal infections. The work highlights a critical gap in understanding the biosafety of surface-functionalized nanomaterials within the gastrointestinal tract. While CNCs are valued for their performance in various applications, this research suggests their potential risks to the microbiome and intestinal barrier warrant closer scrutiny. The findings call for more comprehensive safety assessments before widespread use, especially in contexts involving ingestion or gut exposure.
+
+
+References:
+[1] Microbiome and multi-omics insights into sustainable aquaculture: A triennial systematic review. — PubMed — Comparative biochemistry and physiology. Part D, Genomics & proteomics — https://doi.org/10.1016/j.cbd.2026.101830
+[2] Microbiome assembly statistics toward ecosystem-scale insights, forecasting, and management. — PubMed — The ISME journal — https://doi.org/10.1093/ismejo/wrag085
+[3] A systematic assessment of the short- and long-term effects of commonly used breast cancer chemotherapeutics on the gut microbiome‒blood‒brain axis of female mice. — PubMed — Gut microbes — https://doi.org/10.1080/19490976.2026.2655149
+[4] Characterization of household microbiomes from three unique cities around the world — bioRxiv — microbiology — https://www.biorxiv.org/content/10.64898/2026.04.11.717928
+[5] Microbiome-Dependent Protection Against Corynebacterium bovis-Associated Hyperkeratosis in Nude Mice (Mus musculus) — bioRxiv — microbiology — https://www.biorxiv.org/content/10.64898/2026.04.11.716586
+[6] Dietary iron and metal-based growth differentially modulate growth and gut microbiome of weaned piglets. — PubMed — Animal microbiome — https://doi.org/10.1186/s42523-026-00561-w
+[7] Gut microbiome impact on systemic therapy outcomes in metastatic renal cell carcinoma: a systematic review. — PubMed — World journal of urology — https://doi.org/10.1007/s00345-026-06386-1
+[8] Dietary inulin modulates pork quality and systemic health via gut microbiome and metabolome changes in finishing pigs. — PubMed — Animal microbiome — https://doi.org/10.1186/s42523-026-00566-5
+[9] Prebiotic xylooligosaccharides ameliorate metabolic dysfunction-associated steatotic liver disease via modulating gut microbiota and metabolites. — PubMed — Scientific reports — https://doi.org/10.1038/s41598-026-48643-8
+[10] Protocol for the assessment of the impact of mycotoxins and glyphosate residues on the gut microbiome and resistome of European fallow deer. — PubMed — STAR protocols — https://doi.org/10.1016/j.xpro.2026.104498
+[11] Gut microbiota perturbation and systemic inflammation are associated with salcaprozate sodium (SNAC)-enabled oral semaglutide delivery. — PubMed — Journal of controlled release : official journal of the Controlled Release Society — https://doi.org/10.1016/j.jconrel.2026.114711
+[12] Small intestinal microbiome, the underrated maestro of SIMO disease. — PubMed — FEMS microbiology reviews — https://doi.org/10.1093/femsre/fuag016
+[13] Bacterial taxa associated with lung cancer cases in Southeast Asians: a pilot case-control study. — PubMed — Cellular oncology (Dordrecht, Netherlands) — https://doi.org/10.1007/s13402-026-01193-7
+[14] Unveiling the impact of colonic pH and pH-sensing receptors in blood pressure regulation. — PubMed — Gut microbes — https://doi.org/10.1080/19490976.2026.2656346
+[15] A plant single nucleotide polymorphism impacts nectar sugar composition, microbial diversity and pollinator visits — bioRxiv — genetics — https://www.biorxiv.org/content/10.64898/2026.04.09.717461
+[16] Intestinal dysbiosis associates with silica-induced pulmonary fibrosis in mice via arginine and tryptophan pathways. — PubMed — BMC microbiology — https://doi.org/10.1186/s12866-026-05023-6
+[17] Artificial intelligence in microbiology: implications for metagenomics, diagnostics, and AMR surveillance. — PubMed — Biomedical engineering online — https://doi.org/10.1186/s12938-026-01568-9
+[18] Salivary pathobiont Klebsiella pneumoniae exacerbating periodontitis-related intestinal dyshomeostasis and accelerated metabolic syndrome. — PubMed — Molecular immunology — https://doi.org/10.1016/j.molimm.2026.04.002
+[19] High-dose carboxylated cellulose nanocrystals exacerbate gut dysbiosis and intestinal infection. — PubMed — Ecotoxicology and environmental safety — https://doi.org/10.1016/j.ecoenv.2026.120119
