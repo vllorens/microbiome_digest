@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Apr 2026 06:11:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 05:45:33 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-04-14</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-14/podcast_2026-04-14.mp3</guid>
+      <pubDate>Tue, 14 Apr 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-14/podcast_2026-04-14.mp3" length="12023540" type="audio/mpeg" />
+      <description>A new study in the Proceedings of the National Academy of Sciences reveals that industrialization boosts the gut microbiome&#x27;s ability to recycle estrogen. | A new preclinical study in Gut Microbes reveals that MASLD-induced gut microbiome dysbiosis and intestinal inflammation significantly worsen outcomes in vibriosis infections. | Researchers have uncovered distinct gut microbiome and metabolome profiles in two rare cholestatic liver diseases, primary sclerosing cholangitis (PSC) and primary biliary cholangitis (PBC).</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>A new study in the Proceedings of the National Academy of Sciences reveals that industrialization boosts the gut microbiome&#x27;s ability to recycle estrogen. | A new preclinical study in Gut Microbes reveals that MASLD-induced gut microbiome dysbiosis and intestinal inflammation significantly worsen outcomes in vibriosis infections. | Researchers have uncovered distinct gut microbiome and metabolome profiles in two rare cholestatic liver diseases, primary sclerosing cholangitis (PSC) and primary biliary cholangitis (PBC).</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-04-13</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-13/podcast_2026-04-13.mp3</guid>
       <pubDate>Mon, 13 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-13/podcast_2026-04-13.mp3" length="14577068" type="audio/mpeg" />
-      <description>A new systematic review in Comparative Biochemistry and Physiology highlights how the aquaculture microbiome is central to sustainable fish farming. | A new review in The ISME Journal highlights how statistical approaches to microbiome assembly can unlock ecosystem-scale insights, forecasting, and management. | A new study in Gut Microbes reveals that common breast cancer chemotherapeutics disrupt the gut microbiome and trigger gut inflammation in female mice, potentially explaining why 50-80% of patients suffer gastrointestinal side effects like diarrhea and vomiting.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-13/podcast_2026-04-13.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>A new systematic review in Comparative Biochemistry and Physiology highlights how the aquaculture microbiome is central to sustainable fish farming. | A new review in The ISME Journal highlights how statistical approaches to microbiome assembly can unlock ecosystem-scale insights, forecasting, and management. | A new study in Gut Microbes reveals that common breast cancer chemotherapeutics disrupt the gut microbiome and trigger gut inflammation in female mice, potentially explaining why 50-80% of patients suffer gastrointestinal side effects like diarrhea and vomiting.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>

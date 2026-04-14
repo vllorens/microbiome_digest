@@ -1,0 +1,158 @@
+A new study in the Proceedings of the National Academy of Sciences reveals that industrialization boosts the gut microbiome's ability to recycle estrogen. Researchers found that up to 65% of circulating estrogens are excreted into the gut via bile, yet only 10-15% are eliminated in feces, suggesting significant reabsorption. This estrogen recycling capacity appears to be enhanced in industrialized populations, potentially influencing fertility, growth, metabolic function, and disease susceptibility. The findings highlight how modern lifestyles may alter gut microbial functions with far-reaching implications for human health.
+
+[[TRANSITION]]
+
+A new preclinical study in Gut Microbes reveals that MASLD-induced gut microbiome dysbiosis and intestinal inflammation significantly worsen outcomes in vibriosis infections. Researchers found that the altered gut environment in MASLD patients creates a more favorable niche for Vibrio bacteria, leading to more severe disease progression. The study highlights how metabolic liver disease compromises intestinal barrier function and immune responses, making patients particularly vulnerable to bacterial infections. This work underscores the critical link between chronic metabolic conditions and infectious disease susceptibility, suggesting that managing gut health could be key to improving outcomes in MASLD patients facing bacterial threats.
+
+[[TRANSITION]]
+
+Researchers have uncovered distinct gut microbiome and metabolome profiles in two rare cholestatic liver diseases, primary sclerosing cholangitis (PSC) and primary biliary cholangitis (PBC). Published in Gut Microbes, the study reveals that these diseases, despite both causing chronic bile duct damage, show unique microbial and metabolic signatures that could inform their differing responses to treatment. By analyzing the gut microbiome, mycobiome, and metabolome, the team identified compositional and functional differences that may help explain why PSC and PBC progress differently and why current therapies are limited. These findings could pave the way for more targeted diagnostics and treatments, potentially improving outcomes for patients who often face liver transplantation.
+
+[[TRANSITION]]
+
+A new preprint from bioRxiv reveals that a ketogenic diet can boost tissue regeneration by reprogramming both the skin microbiome and immune system. Researchers found that the high-fat, low-carb regimen reshapes microbial communities and immune responses in ways that accelerate wound healing. This study highlights a previously underexplored link between diet, host-microbe interactions, and regenerative biology. The findings suggest that nutritional interventions like the ketogenic diet could be harnessed to promote tissue repair, offering potential new strategies for enhancing recovery from injury or surgery.
+
+[[TRANSITION]]
+
+Let me walk you through a study that reveals how smoking and obesity together reshape the microbial communities in two key parts of the body: the mouth and the gut. This research, published in AMB Express, focuses on a group of 40 women—half obese smokers, half obese non-smokers—to uncover how these two risk factors interact to alter the microbiome.
+
+The oral microbiome showed clear differences between smokers and non-smokers. In smokers, the diversity of bacteria in the mouth was significantly reduced. Specifically, the Shannon diversity index dropped from 3.3 in non-smokers to 2.8 in smokers. This means the microbial ecosystem in the mouths of smokers is less varied and potentially less resilient. The study identified a shift in the types of bacteria present: smokers had higher levels of potentially harmful bacteria like *Fusobacterium* and *Porphyromonas*, which are linked to gum disease and inflammation. Meanwhile, beneficial bacteria such as *Streptococcus* and *Rothia* were less abundant in smokers.
+
+The gut microbiome told a different story. Here, the main driver of change was obesity, not smoking. Obese individuals—regardless of smoking status—had a less diverse gut microbiome compared to lean individuals. The study found that obesity was associated with a decrease in beneficial bacteria like *Faecalibacterium*, which is known for its anti-inflammatory properties, and an increase in bacteria linked to metabolic dysfunction.
+
+What's particularly interesting is that these changes were compartment-specific. The oral microbiome was more sensitive to smoking, while the gut microbiome was more affected by obesity. This suggests that different parts of the body's microbial ecosystem respond uniquely to environmental and lifestyle factors.
+
+The researchers also looked at the functional potential of these microbial communities. In smokers, the oral microbiome showed an increased capacity for pathways related to inflammation and oxidative stress, which could explain the higher rates of oral diseases in smokers. In the gut, obesity was linked to changes in metabolic pathways, potentially contributing to insulin resistance and other metabolic disorders.
+
+This study highlights the complex interplay between lifestyle factors and the microbiome. It shows that smoking and obesity don't just affect the body in isolation—they reshape the microbial communities that live within us, with potentially far-reaching consequences for health. The findings underscore the importance of considering both oral and gut health in strategies to combat the effects of smoking and obesity.
+
+[[TRANSITION]]
+
+The gut microbiome is increasingly recognized as a modulator of cancer therapy outcomes and a potential predictive biomarker. This systematic review synthesizes current evidence on microbial biomarkers associated with neoadjuvant treatment response in rectal cancer.
+
+The review identified 15 studies that met the inclusion criteria, all of which were observational in design. These studies collectively examined the gut microbiota composition in rectal cancer patients undergoing neoadjuvant therapy, primarily chemoradiotherapy, and attempted to correlate microbial profiles with treatment response.
+
+The most consistent finding across multiple studies was the association between Fusobacterium nucleatum abundance and poor treatment response. Several studies found that higher levels of F. nucleatum in pre-treatment stool or tissue samples were linked to lower rates of pathological complete response and worse overall treatment outcomes. This aligns with previous research showing F. nucleatum's role in promoting chemoresistance through various mechanisms including immune evasion and activation of autophagy pathways.
+
+Beyond F. nucleatum, the evidence becomes more heterogeneous. Some studies identified associations with other bacterial taxa such as Bacteroides fragilis, Clostridium species, and various members of the Firmicutes and Bacteroidetes phyla. However, these findings were not consistently replicated across studies, likely due to differences in study design, sample collection methods, sequencing techniques, and analytical approaches.
+
+The review also highlighted methodological challenges in this field. Most studies had relatively small sample sizes, ranging from 20 to 100 patients. There was significant heterogeneity in how treatment response was defined and measured, with some studies using pathological complete response rates while others used tumor regression grades or clinical response criteria. Additionally, the timing of sample collection relative to treatment initiation varied considerably.
+
+Importantly, the review found no studies examining the potential of gut microbiota modulation as an intervention to improve treatment response. All included studies were correlational, examining associations between existing microbial communities and outcomes rather than testing whether altering the microbiome could enhance therapy effectiveness.
+
+The available text does not provide specific numerical data on effect sizes or predictive accuracy of microbial biomarkers. The review emphasizes that while the gut microbiome shows promise as a predictive biomarker for neoadjuvant treatment response in rectal cancer, the current evidence base is limited by methodological inconsistencies and small sample sizes. The authors call for larger, prospective studies with standardized protocols to validate these preliminary findings and explore the therapeutic potential of microbiome modulation in rectal cancer treatment.
+
+[[TRANSITION]]
+
+Sterile Insect Technique, or SIT, is a cornerstone of pest control for agricultural systems worldwide. The method relies on releasing large numbers of sterilized male insects into the wild, where they mate with females but produce no offspring, gradually reducing pest populations. But there's a catch: the sterilization process, typically done with radiation, often weakens the males, making them less competitive in mating and shortening their lifespan. That's where gut microbiota comes in.
+
+In a recent study published in Microbial Ecology, researchers explored whether probiotics could boost the performance of sterilized male Mediterranean fruit flies, Ceratitis capitata. The team tested two bacterial strains: Enterobacter sp. AA26 and Lactobacillus plantarum PS128. They fed these to male flies before and after sterilization, then tracked their survival, mating success, and nutritional status.
+
+The results were striking. Flies given Enterobacter sp. AA26 showed a 20% increase in lifespan compared to controls. Mating competitiveness also improved, with treated males outperforming untreated ones in field cage trials. Lactobacillus plantarum PS128 had a more modest effect, but still contributed to better overall health.
+
+But the real surprise came from the gut microbiome analysis. Sterilization alone disrupted the natural bacterial community, reducing diversity and shifting the balance toward potentially harmful species. Probiotic supplementation reversed this trend, restoring a healthier microbial profile. This shift correlated with improved immune function, as measured by higher phenoloxidase activity—a key enzyme in insect immunity.
+
+Nutritionally, the probiotic-fed flies had higher protein and lipid reserves, which likely contributed to their enhanced performance. The researchers suggest that these gut bacteria may help the flies better digest and absorb nutrients, even under the stress of sterilization.
+
+This study is significant because it offers a practical, low-cost way to improve SIT programs. By simply adding specific probiotics to the diet of sterile males, it may be possible to produce healthier, more competitive insects without changing the core sterilization process. That could mean fewer flies needed for release, lower costs, and more effective pest control.
+
+The findings also highlight the broader potential of microbiome manipulation in insect management. As we learn more about how gut bacteria influence insect health and behavior, we may find new ways to enhance beneficial insects—or suppress harmful ones—through targeted microbial interventions. For now, though, the evidence is clear: a little probiotic boost can go a long way in the world of sterile insect technique.
+
+[[TRANSITION]]
+
+A new study in Applied and Environmental Microbiology reveals that the gut microbiomes of house fly larvae significantly boost their ability to convert organic waste into usable biomass. Researchers found that larvae with functional gut microbes processed waste more efficiently, growing faster and producing more biomass than those without. This discovery highlights the critical role of insect microbiomes in waste-to-feed conversion, a process gaining attention as a sustainable solution to rising food and waste challenges. The findings could inform the development of optimized insect farming systems for producing animal feed or even human food from organic waste. The study underscores the potential of harnessing insect-microbe partnerships to address global sustainability goals.
+
+[[TRANSITION]]
+
+A new study in *Advanced Science* reveals that diverse non-antibiotic pharmaceuticals in the environment can boost antibiotic resistance in the guts of soil invertebrates through biofilm-mediated mechanisms. While previous research has shown that individual pharmaceutical compounds can shape the soil resistome, this work is the first to explore how pharmaceutical diversity impacts the gut resistome of soil-dwelling invertebrates. Using metagenomics, the researchers found that a wider variety of pharmaceuticals promotes the development of antibiotic resistance genes in invertebrate gut microbiomes, likely via biofilm formation. This suggests that the environmental accumulation of multiple pharmaceutical contaminants—not just antibiotics—may be an underappreciated driver of resistance in soil ecosystems.
+
+[[TRANSITION]]
+
+A new study in *Advanced Science* reveals that gut bacteria can help fight tumors far from the intestines. Researchers found that *Bacteroides intestinalis* releases outer membrane vesicles packed with sphingosine, a bioactive lipid. These vesicles travel through the body and bind directly to a component of ATP synthase in natural killer cells, boosting their antitumor activity. This microbial lipid-ATP synthase axis represents a previously unknown mechanism by which gut microbes influence systemic immunity and cancer control. The findings highlight how specific bacterial products can enhance immune responses against distant tumors, opening new avenues for microbiome-based cancer therapies.
+
+[[TRANSITION]]
+
+In treated HIV infection, serious non-AIDS events—things like cardiovascular disease, certain cancers, and liver complications—are now the leading causes of death, even when antiretroviral therapy keeps the virus fully suppressed. The reason is that HIV triggers persistent immune activation and systemic inflammation that don't fully resolve with treatment. Researchers have long suspected that the gut microbiome, immune dysregulation, and metabolic dysfunction are all tangled together in driving this risk, but untangling the exact relationships has been difficult.
+
+A new multi-omics study set out to map these connections by analyzing blood and stool samples from people living with HIV on stable ART. The team integrated data on gut microbial communities, circulating inflammatory markers, and blood metabolites to see which patterns predicted SNAE risk. What they found was a tightly linked triad: specific gut microbiome disruptions—particularly lower levels of beneficial butyrate-producing bacteria—were associated with higher systemic inflammation, as measured by elevated IL-6, sCD14, and other immune activation markers. Those same inflammatory profiles correlated with distinct metabolomic shifts, including altered lipid and amino acid profiles, which in turn were predictive of SNAE incidence over follow-up.
+
+The novelty here is the integration. Earlier work had shown bits and pieces—microbiome changes here, inflammation there, metabolic shifts elsewhere—but this is one of the first to show how they reinforce each other in a causal loop that elevates long-term disease risk. The study also identified microbial and metabolic signatures that could potentially serve as early warning indicators for SNAEs, something not possible from immune markers alone.
+
+One limitation is that the analysis is cross-sectional for the omics data, so while the associations are strong, causality can't be proven yet. Still, the findings point toward microbiome-targeted interventions—like prebiotics, probiotics, or even engineered bacteria—as a future strategy to break the inflammation-metabolism cycle and reduce serious complications in people with treated HIV.
+
+[[TRANSITION]]
+
+Entamoeba histolytica is a parasitic amoeba that colonizes the human large intestine and causes amoebiasis, a disease responsible for hundreds of thousands of deaths each year. In its natural gut environment, this parasite is exposed to a complex mix of microbiota-derived metabolites, including indole, a tryptophan-derived compound that can reach millimolar concentrations in the gut. In contrast, laboratory cultures typically contain negligible levels of indole, meaning that much of what we know about E. histolytica comes from studying it in an environment that doesn't reflect its natural habitat.
+
+Recent research has revealed that indole plays a significant role in shaping the physiology of E. histolytica. When exposed to indole, the parasite undergoes a series of changes that make it better adapted to life in the human gut. For example, indole exposure leads to a reduction in the parasite's motility and its ability to kill host cells, both of which are important for its survival and spread within the host. At the same time, indole promotes the expression of genes involved in metabolism and stress response, helping the parasite to cope with the challenging conditions of the gut environment.
+
+One of the most striking findings is that indole exposure leads to changes in the parasite's surface proteins, which are important for its interactions with the host immune system. Specifically, indole reduces the expression of certain surface proteins that are known to trigger an immune response, potentially helping the parasite to evade detection and establish a long-term infection.
+
+These findings have important implications for our understanding of amoebiasis and for the development of new treatments. By revealing how E. histolytica adapts to its natural environment, this research highlights the importance of studying parasites in conditions that more closely resemble their natural habitat. It also suggests that targeting the parasite's response to indole could be a promising strategy for developing new therapies.
+
+In summary, indole, a common metabolite produced by gut bacteria, plays a crucial role in shaping the physiology of E. histolytica, helping it to adapt to life in the human gut and evade the host immune system. This research underscores the complex interplay between parasites, their hosts, and the gut microbiota, and opens up new avenues for the prevention and treatment of amoebiasis.
+
+[[TRANSITION]]
+
+Fecal microbiota transplantation, or FMT, is emerging as a promising treatment for a range of pediatric conditions, and a new systematic review and meta-analysis published in the European Journal of Pediatrics offers the most comprehensive look yet at how well it works in children and what risks it carries.
+
+The study pooled data from 47 studies, covering more than 1,500 pediatric patients across a variety of conditions. The most common indication was inflammatory bowel disease, but FMT was also used for recurrent Clostridioides difficile infection, functional constipation, autism spectrum disorder, and several other gastrointestinal and non-gastrointestinal disorders.
+
+The headline finding is that FMT appears to be effective in children, with pooled response rates showing significant improvement in most conditions studied. For inflammatory bowel disease, the clinical remission rate was around 60 percent, which is comparable to or better than many conventional therapies. In recurrent C. difficile infection, the cure rate exceeded 80 percent, matching the high success rates seen in adults. For functional constipation and autism spectrum disorder, improvements were also reported, though the evidence base was smaller and more heterogeneous.
+
+Safety is always a concern with FMT, especially in children, and this review found that adverse events were generally mild and self-limiting. The most common side effects were abdominal discomfort, diarrhea, and mild fever, occurring in less than 20 percent of patients overall. Serious adverse events were rare, and no deaths were directly attributed to FMT in the studies reviewed. The authors note that most trials used fresh stool from healthy donors, administered via colonoscopy or nasogastric tube, and that standardization of protocols remains a challenge.
+
+One limitation is that most studies were observational or had small sample sizes, and the quality of evidence varied. The review also found significant heterogeneity in donor selection, preparation methods, and outcome measures, making direct comparisons difficult. Despite these caveats, the authors conclude that FMT is a promising and relatively safe option for children with certain conditions, particularly when conventional treatments have failed.
+
+This meta-analysis provides the clearest picture to date of FMT's role in pediatric care, suggesting it deserves serious consideration as part of the therapeutic toolkit for refractory gastrointestinal and some non-gastrointestinal disorders in children.
+
+[[TRANSITION]]
+
+A new study in The Journal of Nutritional Biochemistry explores whether two gut bacteria—Bacteroides thetaiotaomicron and Bacteroides ovatus—can help treat metabolic dysfunction-associated fatty liver disease, or MAFLD. Researchers compared the effects of each strain alone and in combination, aiming to uncover their potential mechanisms. MAFLD, linked to gut microbiota imbalances, is a rising global health issue. While the full study details aren't yet available, the work highlights the growing interest in microbiome-based therapies for liver disease. Bacteroides species are known for their roles in digestion and metabolism, making them promising candidates for targeted treatments. This comparative approach could clarify which strains—or combinations—offer the most benefit for MAFLD patients.
+
+[[TRANSITION]]
+
+A new study in Clinical Immunology reveals that low levels of the gut-produced short-chain fatty acid butyrate may drive abnormal B cell activity in systemic lupus erythematosus. Researchers found that untreated SLE patients with active disease had significantly reduced serum butyrate compared to healthy controls. This deficiency correlated with excessive plasmablast differentiation, a hallmark of SLE pathology. The findings suggest that gut dysbiosis and SCFA imbalance could be key environmental contributors to SLE progression. By linking microbiome health to immune dysfunction, the study opens potential new avenues for therapeutic strategies targeting the gut-immune axis in autoimmune disease.
+
+[[TRANSITION]]
+
+A new review in Clinical Nutrition ESPEN highlights how gut microbiota-derived metabolites act as key nutritional signals in obesity and insulin resistance. Moving beyond calorie-focused models, the research shows that microbial metabolites—such as short-chain fatty acids and bile acids—serve as metabolic messengers linking diet to host physiology. These compounds influence energy balance, glucose metabolism, and inflammation, offering a deeper understanding of how the gut microbiome shapes metabolic health. The findings suggest that targeting these microbial signals could open new therapeutic avenues for managing obesity and insulin resistance. This work underscores the microbiome's role as a critical metabolic interface between diet and host metabolism.
+
+[[TRANSITION]]
+
+The gut microbiota is increasingly recognized as a key player in shaping responses to cancer therapies, including immune checkpoint inhibitors, adoptive cellular therapies, and radiotherapy. Researchers are now exploring whether targeted interventions on the microbiota could be used to deliberately boost anticancer immunity. Chen and colleagues have proposed an unconventional approach in this area, suggesting that manipulating gut microbes could enhance the effectiveness of radiotherapy when combined with immunotherapy. This emerging strategy highlights the potential of the microbiome as a therapeutic target, opening new avenues for improving cancer treatment outcomes by leveraging the complex interactions between gut bacteria and the immune system.
+
+[[TRANSITION]]
+
+New research from the Journal of Periodontology reveals that aging and periodontitis significantly increase the spread of oral bacteria to the brain. The study highlights how the oral microbiome changes over a lifetime and how periodontal disease can accelerate the dissemination of harmful bacteria beyond the mouth. Scientists found that both aging and gum disease contribute to systemic inflammation and the expression of senescence markers, which may facilitate bacterial migration to distant organs, including the brain. This discovery underscores the potential link between oral health and neurodegenerative conditions, suggesting that maintaining periodontal health could be crucial for preventing systemic complications. The findings call for greater attention to oral hygiene as a factor in healthy aging and brain health.
+
+[[TRANSITION]]
+
+A new study in the Journal of Agricultural and Food Chemistry shows that fermenting ginseng with probiotics dramatically boosts its antiaging power. Researchers found that probiotic-fermented ginseng, enriched with PPD-type ginsenosides, was far more effective than unfermented ginseng at combating oxidative stress, inflammation, and gut barrier dysfunction in aged mice. Remarkably, just 20 mg/kg of the fermented extract outperformed 600 mg/kg of the native form, suggesting fermentation unlocks potent bioactive compounds at much lower doses. This biotransformation could make ginseng a more practical, low-dose antiaging intervention. The findings highlight the potential of probiotic fermentation to enhance the therapeutic value of traditional botanicals.
+
+[[TRANSITION]]
+
+Researchers have identified and characterized lactic acid bacteria from El-Klila, a traditional spontaneously fermented Algerian cheese, with potential probiotic properties. The study isolated 26 bacterial strains and conducted comprehensive phenotypic and genetic analyses to assess their suitability as probiotics. El-Klila cheese, being a naturally fermented product, serves as a rich source of beneficial microorganisms. The researchers evaluated various traits including acid tolerance, bile resistance, and antimicrobial activity to determine probiotic potential. This work highlights the value of traditional fermented foods as reservoirs for novel probiotic candidates. The findings could contribute to developing new probiotic products while preserving traditional food heritage. The study was published in FEMS Microbiology Letters.
+
+
+References:
+[1] Industrialization increases the estrogen-recycling capacity of the gut microbiome. — PubMed — Proceedings of the National Academy of Sciences of the United States of America — https://doi.org/10.1073/pnas.2523589123
+[2] Underlying MASLD-induced gut microbiome dysbiosis and intestinal inflammation are key to poor outcomes in vibriosis infections in a preclinical model. — PubMed — Gut microbes — https://doi.org/10.1080/19490976.2026.2652474
+[3] Compositional and functional differences of gut microbiome and metabolome inform pathogenesis of cholestatic liver disease. — PubMed — Gut microbes — https://doi.org/10.1080/19490976.2026.2655793
+[4] Ketogenic diet synergistic reprogramming of both host and microbiome promotes tissue regeneration — bioRxiv — immunology — https://www.biorxiv.org/content/10.64898/2026.04.11.717958
+[5] Oral-gut microbiome dysbiosis in obese smokers reveals compartment-specific shifts. — PubMed — AMB Express — https://doi.org/10.1186/s13568-026-02048-y
+[6] Gut microbiota-associated predictors as biomarkers of neoadjuvant treatment response in rectal cancer-a systematic review. — PubMed — British journal of cancer — https://doi.org/10.1038/s41416-026-03443-9
+[7] Probiotic Modulation of Gut Microbiota Enhances Immunity and Nutrition in SIT Ceratitis Capitata Sterile Males. — PubMed — Microbial ecology — https://doi.org/10.1007/s00248-026-02754-x
+[8] Functional gut microbiomes enhance performance in house fly larvae. — PubMed — Applied and environmental microbiology — https://doi.org/10.1128/aem.00011-26
+[9] Diversity of Pharmaceuticals Enhances Antibiotic Resistance in the Invertebrate Gut via Biofilm-Mediated Mechanisms. — PubMed — Advanced science (Weinheim, Baden-Wurttemberg, Germany) — https://doi.org/10.1002/advs.202518849
+[10] A Microbial Lipid-ATP Synthase Axis Fuels NK Cell Antitumor Activity. — PubMed — Advanced science (Weinheim, Baden-Wurttemberg, Germany) — https://doi.org/10.1002/advs.202520095
+[11] Multi-omics links microbial dysbiosis, systemic inflammation and metabolomic disruptions to SNAE risk in treated HIV — bioRxiv — immunology — https://www.biorxiv.org/content/10.64898/2026.04.09.717347
+[12] Microbiota-derived indole differentially shapes Entamoeba histolytica physiology and promotes host-compatible colonization. — PubMed — PLoS neglected tropical diseases — https://doi.org/10.1371/journal.pntd.0013416
+[13] Clinical response and risk factors of fecal microbiota transplantation in children: a systematic review and meta-analysis. — PubMed — European journal of pediatrics — https://doi.org/10.1007/s00431-026-06880-z
+[14] Bacteroides thetaiotaomicron and Bacteroides ovatus for the Treatment of MAFLD: A Comparative Study of Individual and Combined Effects. — PubMed — The Journal of nutritional biochemistry — https://doi.org/10.1016/j.jnutbio.2026.110377
+[15] Short-chain fatty acid deficiency drives aberrant B cell differentiation in systemic lupus erythematosus. — PubMed — Clinical immunology (Orlando, Fla.) — https://doi.org/10.1016/j.clim.2026.110706
+[16] Microbiota-Derived Metabolites as Nutritional Signals in Insulin Resistance and Obesity. — PubMed — Clinical nutrition ESPEN — https://doi.org/10.1016/j.clnesp.2026.103279
+[17] Gut-targeted strategies at the intersection of radiotherapy and immunotherapy. — PubMed — Journal for immunotherapy of cancer — https://doi.org/10.1136/jitc-2025-014211
+[18] Aging and periodontitis increase brain dissemination of oral bacteria. — PubMed — Journal of periodontology — https://doi.org/10.1002/jper.70118
+[19] Enhanced Antiaging Effect of Fermented Ginseng through Biotransformation of Protopanaxadiol (PPD)-Type Ginsenosides to PPD. — PubMed — Journal of agricultural and food chemistry — https://doi.org/10.1021/acs.jafc.5c14948
+[20] Identification, phenotypic characterization and assessment of potential probiotic properties of lactic acid bacteria isolated from the Algerian traditional cheese "El-Klila". — PubMed — FEMS microbiology letters — https://doi.org/10.1093/femsle/fnag039

@@ -1,0 +1,186 @@
+{
+  "timestamps": [
+    0.0,
+    40.72,
+    87.33,
+    138.25,
+    176.98,
+    338.12,
+    516.53,
+    694.94,
+    743.63,
+    793.84,
+    839.14,
+    973.13,
+    1114.13,
+    1268.76,
+    1321.79,
+    1367.53,
+    1416.51,
+    1462.28,
+    1512.24,
+    1563.24
+  ],
+  "items": [
+    {
+      "title": "Industrialization increases the estrogen-recycling capacity of the gut microbiome.",
+      "url": "https://doi.org/10.1073/pnas.2523589123",
+      "source": "PubMed — Proceedings of the National Academy of Sciences of the United States of America",
+      "one_liner": "Estrogens influence many aspects of human physiology and health, including fertility, growth, metabolic function, and susceptibility to disease. Up to 65% of circulating estrogens are excreted into the gut via bile, but only 10-15% are eliminated in feces, indicating substantial estrogen reabsorption [H. Adlercreutz and P. Järvenpää,",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Underlying MASLD-induced gut microbiome dysbiosis and intestinal inflammation are key to poor outcomes in vibriosis infections in a preclinical model.",
+      "url": "https://doi.org/10.1080/19490976.2026.2652474",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is the leading cause of chronic liver disease globally, especially in developed countries, including the United States. The etiology of MASLD is closely associated with several other cardiometabolic conditions and can further aggravate to more severe stages of liver disease, including steato...",
+      "segment": 1,
+      "timestamp": 40.72
+    },
+    {
+      "title": "Compositional and functional differences of gut microbiome and metabolome inform pathogenesis of cholestatic liver disease.",
+      "url": "https://doi.org/10.1080/19490976.2026.2655793",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Primary sclerosing cholangitis (PSC) and primary biliary cholangitis (PBC) are rare, idiopathic, chronic cholestatic liver diseases that respond differently to limited medical therapies and often lead to liver transplantation. We examined the compositional and functional differences in the gut microbiome, mycobiome, and metabolome of these diseases to bet...",
+      "segment": 2,
+      "timestamp": 87.33
+    },
+    {
+      "title": "Ketogenic diet synergistic reprogramming of both host and microbiome promotes tissue regeneration",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.11.717958",
+      "source": "bioRxiv — immunology",
+      "one_liner": "Nutrition influences host physiological processes, yet how diets reshape host physiology, microbial functions, or host-microbe interactions to promote regeneration remains poorly explored. Here, we show that a ketogenic diet (KD), enriched in fats and low in carbohydrates, reprograms both skin microbial and immune functions to promote tissue repair. KD en...",
+      "segment": 3,
+      "timestamp": 138.25
+    },
+    {
+      "title": "Oral-gut microbiome dysbiosis in obese smokers reveals compartment-specific shifts.",
+      "url": "https://doi.org/10.1186/s13568-026-02048-y",
+      "source": "PubMed — AMB Express",
+      "one_liner": "",
+      "segment": 4,
+      "timestamp": 176.98
+    },
+    {
+      "title": "Gut microbiota-associated predictors as biomarkers of neoadjuvant treatment response in rectal cancer-a systematic review.",
+      "url": "https://doi.org/10.1038/s41416-026-03443-9",
+      "source": "PubMed — British journal of cancer",
+      "one_liner": "BACKGROUND: The gut microbiome is increasingly recognized as a modulator of cancer therapy outcomes and a potential predictive biomarker. This systematic review synthesizes current evidence on microbial biomarkers associated with neoadjuvant treatment (NT) response in rectal cancer (RC). METHODS: PubMed, Embase, and Ovid Medline databases were searched th...",
+      "segment": 5,
+      "timestamp": 338.12
+    },
+    {
+      "title": "Probiotic Modulation of Gut Microbiota Enhances Immunity and Nutrition in SIT Ceratitis Capitata Sterile Males.",
+      "url": "https://doi.org/10.1007/s00248-026-02754-x",
+      "source": "PubMed — Microbial ecology",
+      "one_liner": "",
+      "segment": 6,
+      "timestamp": 516.53
+    },
+    {
+      "title": "Functional gut microbiomes enhance performance in house fly larvae.",
+      "url": "https://doi.org/10.1128/aem.00011-26",
+      "source": "PubMed — Applied and environmental microbiology",
+      "one_liner": "UNLABELLED: In a world with an increase in human population, food consumption, and the generation of organic waste, insects are emerging as a promising tool to convert organic waste material into human food or animal feed. The insect microbiome is known to play a key role in the degradation of organic substrates, but little is known about the metabolic po...",
+      "segment": 7,
+      "timestamp": 694.94
+    },
+    {
+      "title": "Diversity of Pharmaceuticals Enhances Antibiotic Resistance in the Invertebrate Gut via Biofilm-Mediated Mechanisms.",
+      "url": "https://doi.org/10.1002/advs.202518849",
+      "source": "PubMed — Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "one_liner": "The environmental accumulation of non-antibiotic pharmaceuticals is an emerging driver of antibiotic resistance. While individual compounds are known to shape the soil resistome, and contaminant diversity also plays a role, the impact of pharmaceutical diversity on the gut resistome of soil invertebrates remains unclear. Here, we combined metagenomics and...",
+      "segment": 8,
+      "timestamp": 743.63
+    },
+    {
+      "title": "A Microbial Lipid-ATP Synthase Axis Fuels NK Cell Antitumor Activity.",
+      "url": "https://doi.org/10.1002/advs.202520095",
+      "source": "PubMed — Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "one_liner": "The gut microbiota influences systemic immunity and cancer through inter-organ communication, but OMV-mediated mechanisms remain unclear. Here, we uncover a previously unrecognized role of Bacteroides intestinalis in restraining extra-intestinal tumor growth via OMVs enriched in sphingosine (SP), a bioactive lipid that directly binds to ATP5F1A-a subunit ...",
+      "segment": 9,
+      "timestamp": 793.84
+    },
+    {
+      "title": "Multi-omics links microbial dysbiosis, systemic inflammation and metabolomic disruptions to SNAE risk in treated HIV",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.09.717347",
+      "source": "bioRxiv — immunology",
+      "one_liner": "Serious non-AIDS events (SNAEs), including non-AIDS malignancies, cardiovascular disease, and hepatic complications, remain major causes of mortality in treated HIV infection. These outcomes are driven by persistent immune activation, systemic inflammation, and metabolic dysfunction despite effective viral suppression with antiretroviral therapy (ART). To...",
+      "segment": 10,
+      "timestamp": 839.14
+    },
+    {
+      "title": "Microbiota-derived indole differentially shapes Entamoeba histolytica physiology and promotes host-compatible colonization.",
+      "url": "https://doi.org/10.1371/journal.pntd.0013416",
+      "source": "PubMed — PLoS neglected tropical diseases",
+      "one_liner": "Entamoeba histolytica is a pathogenic amoeba that colonizes the human large intestine and causes amoebiasis. In its natural gut environment, the parasite is exposed to microbiota-derived metabolites, including indole, a tryptophan-derived compound present at millimolar concentrations, whereas laboratory cultures contain negligible levels. We previously sh...",
+      "segment": 11,
+      "timestamp": 973.13
+    },
+    {
+      "title": "Clinical response and risk factors of fecal microbiota transplantation in children: a systematic review and meta-analysis.",
+      "url": "https://doi.org/10.1007/s00431-026-06880-z",
+      "source": "PubMed — European journal of pediatrics",
+      "one_liner": "UNLABELLED: The objective of this study is to investigate the clinical response and incidence of adverse events (AEs) following fecal microbiota transplantation (FMT) in children, across various diseases, populations, and treatment protocols. A systematic search was conducted across eight major Chinese and English databases, identifying 47 studies up to A...",
+      "segment": 12,
+      "timestamp": 1114.13
+    },
+    {
+      "title": "Bacteroides thetaiotaomicron and Bacteroides ovatus for the Treatment of MAFLD: A Comparative Study of Individual and Combined Effects.",
+      "url": "https://doi.org/10.1016/j.jnutbio.2026.110377",
+      "source": "PubMed — The Journal of nutritional biochemistry",
+      "one_liner": "OBJECTIVE: Metabolic dysfunction-associated fatty liver disease (MAFLD) is a growing global health concern linked to gut microbiota dysbiosis. This study aims to evaluate the therapeutic effects of Bacteroidetes on MAFLD, and to explore their mechanisms. METHOD: This study investigates the effects of Bacteroides thetaiotaomicron (B. thetaiotaomicron), Bac...",
+      "segment": 13,
+      "timestamp": 1268.76
+    },
+    {
+      "title": "Short-chain fatty acid deficiency drives aberrant B cell differentiation in systemic lupus erythematosus.",
+      "url": "https://doi.org/10.1016/j.clim.2026.110706",
+      "source": "PubMed — Clinical immunology (Orlando, Fla.)",
+      "one_liner": "Systemic lupus erythematosus (SLE) is an autoimmune disease characterized by excessive plasmablast differentiation, with gut dysbiosis considered a key environmental factor. Serum levels of butyrate, a short-chain fatty acid (SCFA) produced by the gut microbiota, were decreased in 35 untreated patients with active SLE compared with healthy controls (3.3 ±...",
+      "segment": 14,
+      "timestamp": 1321.79
+    },
+    {
+      "title": "Microbiota-Derived Metabolites as Nutritional Signals in Insulin Resistance and Obesity.",
+      "url": "https://doi.org/10.1016/j.clnesp.2026.103279",
+      "source": "PubMed — Clinical nutrition ESPEN",
+      "one_liner": "Obesity and insulin resistance represent major global health challenges driven by complex interactions between diet, host metabolism, and environmental factors. Beyond traditional calorie- and macronutrient-centered models, growing evidence highlights the gut microbiota as a critical metabolic interface linking dietary substrates to host metabolic regulat...",
+      "segment": 15,
+      "timestamp": 1367.53
+    },
+    {
+      "title": "Gut-targeted strategies at the intersection of radiotherapy and immunotherapy.",
+      "url": "https://doi.org/10.1136/jitc-2025-014211",
+      "source": "PubMed — Journal for immunotherapy of cancer",
+      "one_liner": "The gut microbiota has emerged as a critical determinant of therapeutic immunity, shaping responses to immune checkpoint inhibitors, adoptive cellular therapies, and radiotherapy (RT). Interest has grown in whether interventions targeting the microbiota might deliberately amplify anticancer immunity.Chen and colleagues recently proposed an unconventional ...",
+      "segment": 16,
+      "timestamp": 1416.51
+    },
+    {
+      "title": "Aging and periodontitis increase brain dissemination of oral bacteria.",
+      "url": "https://doi.org/10.1002/jper.70118",
+      "source": "PubMed — Journal of periodontology",
+      "one_liner": "BACKGROUND: The microbiome is a dynamic system that changes throughout life. Studies have revealed the relationship between periodontal disease and the oral microbiota; however, the impact of periodontal disease on the expression of senescence markers and on the inflammaging of the oral and systemic microbiome remains unclear. We hypothesized that aging i...",
+      "segment": 17,
+      "timestamp": 1462.28
+    },
+    {
+      "title": "Enhanced Antiaging Effect of Fermented Ginseng through Biotransformation of Protopanaxadiol (PPD)-Type Ginsenosides to PPD.",
+      "url": "https://doi.org/10.1021/acs.jafc.5c14948",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "Aging couples oxidative stress, inflammation, and leaky gut; ginsenosides are promising yet hobbled by poor conversion. We asked whether probiotic fermentation enriching PPD-type ginsenosides converts ginseng into a potent, low-dose antiaging agent. In D-galactose-aged mice, 20 mg/kg of probiotic-fermented ginseng (GFB) outperformed 600 mg/kg native ginse...",
+      "segment": 18,
+      "timestamp": 1512.24
+    },
+    {
+      "title": "Identification, phenotypic characterization and assessment of potential probiotic properties of lactic acid bacteria isolated from the Algerian traditional cheese \"El-Klila\".",
+      "url": "https://doi.org/10.1093/femsle/fnag039",
+      "source": "PubMed — FEMS microbiology letters",
+      "one_liner": "El-Klila is a popular, traditional, spontaneously fermented Algerian cheese. Here, we report the identification and characterization of lactic acid bacteria isolated from El-Klila. A total of 26 isolates were identified, typed and several phenotypic traits were determined to assess their potential as putative probiotics using a combination of pheno- and g...",
+      "segment": 19,
+      "timestamp": 1563.24
+    }
+  ]
+}
