@@ -1,0 +1,303 @@
+{
+  "timestamps": [
+    0.0,
+    46.96,
+    201.02,
+    325.67,
+    448.86,
+    581.84,
+    630.43,
+    680.4,
+    732.71,
+    782.92,
+    836.22,
+    879.77,
+    930.84,
+    977.37,
+    1025.15,
+    1075.02,
+    1118.19,
+    1262.98,
+    1431.6,
+    1490.35,
+    1652.32,
+    1838.56,
+    1973.72,
+    2107.13,
+    2238.82,
+    2293.94,
+    2499.23,
+    2653.69,
+    2697.25,
+    2748.87,
+    2792.38,
+    2839.32,
+    2882.8
+  ],
+  "items": [
+    {
+      "title": "Breastfeeding may lessen socioeconomic disparities in child health through differences in the infant gut microbiome.",
+      "url": "https://doi.org/10.1016/j.xcrm.2026.102755",
+      "source": "PubMed — Cell reports. Medicine",
+      "one_liner": "Lower familial socioeconomic status (SES) is linked to increased childhood disease risk. Since SES has no inherent biological basis, identifying how it becomes physiologically embedded is essential for equitable intervention. Using data from the Canadian CHILD birth cohort (n = 2,752) with replication in the Danish Copenhagen Prospective Studies on Asthma...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "A colon mimetic screening approach reveals Lactobacillus fermentum as a microbiome-based therapy for COPD.",
+      "url": "https://doi.org/10.1038/s41522-026-00978-w",
+      "source": "PubMed — NPJ biofilms and microbiomes",
+      "one_liner": "Chronic obstructive pulmonary disease (COPD) remains a major health burden with few effective therapies, particularly for emphysema. The gut-lung axis and microbial metabolites, such as short-chain fatty acids (SCFAs), have emerged as modulators of lung inflammation. We investigated the therapeutic effects of Lactobacillus fermentum HEM20792 (LF), identif...",
+      "segment": 1,
+      "timestamp": 46.96
+    },
+    {
+      "title": "The role of Traditional Chinese Medicine in the management of liver disease: targeting gut microbiome.",
+      "url": "https://doi.org/10.1186/s13020-026-01395-z",
+      "source": "PubMed — Chinese medicine",
+      "one_liner": "In recent years, liver disease have become a major contributor to global morbidity and mortality, with current clinical treatments often limited by late diagnosis and rapid progression. This review aims to explore the underexplored role of gut microbiota (GM) in liver disease pathogenesis, and to highlight how Traditional Chinese Medicine (TCM) offers a n...",
+      "segment": 2,
+      "timestamp": 201.02
+    },
+    {
+      "title": "Gut microbiota and metabolic function in leeches with distinct feeding niches.",
+      "url": "https://doi.org/10.1186/s12866-026-05062-z",
+      "source": "PubMed — BMC microbiology",
+      "one_liner": "",
+      "segment": 3,
+      "timestamp": 325.67
+    },
+    {
+      "title": "Gut microbiota analysis of adrenal injury induced by chronic intermittent hypoxia in mice.",
+      "url": "https://doi.org/10.1186/s12866-026-05056-x",
+      "source": "PubMed — BMC microbiology",
+      "one_liner": "",
+      "segment": 4,
+      "timestamp": 448.86
+    },
+    {
+      "title": "Cyclosporine A ameliorates ulcerative colitis by inhibiting cellular senescence, modulating the JAK2-STAT3/NF-κB signaling pathway, and regulating the gut microbiota-metabolite axis.",
+      "url": "https://doi.org/10.1016/j.intimp.2026.116452",
+      "source": "PubMed — International immunopharmacology",
+      "one_liner": "Ulcerative colitis (UC) is a chronic, relapsing inflammatory bowel disease characterized by immune dysregulation, compromised intestinal barrier integrity, and disruptions in the microbiota-metabolite axis. Current clinical management of UC remains limited, underscoring the need for novel therapeutic approaches. Cellular senescence is increasingly recogni...",
+      "segment": 5,
+      "timestamp": 581.84
+    },
+    {
+      "title": "Identification of monomethylsulochrin as a novel agent to ameliorate DSS-induced ulcerative colitis through dual modulation of the IL-17/TNF pathway and gut microbiota.",
+      "url": "https://doi.org/10.1016/j.intimp.2026.116451",
+      "source": "PubMed — International immunopharmacology",
+      "one_liner": "Novel therapeutic agents with improved safety and efficacy are urgently required for ulcerative colitis (UC), a refractory inflammatory bowel disease. Mangrove-derived natural products represent a promising reservoir for drug discovery. Monomethylsulochrin (MMSC) is a type II polyketide isolated from the endophytic fungus Aspergillus fumigatus of the mang...",
+      "segment": 6,
+      "timestamp": 630.43
+    },
+    {
+      "title": "Probiotic therapeutics: A critical review of mechanisms, clinical efficacy, and the frontier of precision microbiome modulation.",
+      "url": "https://doi.org/10.1016/j.intimp.2026.116412",
+      "source": "PubMed — International immunopharmacology",
+      "one_liner": "Probiotic therapeutics are evolving from generalized wellness supplements to precision Live Biotherapeutic Products aimed at specific disease targets. This review elucidates the multi-layered mechanistic framework of probiotic action, which spans ecological niche modulation, epithelial barrier reinforcement, and systemic signaling via the gut-brain axis. ...",
+      "segment": 7,
+      "timestamp": 680.4
+    },
+    {
+      "title": "Multidimensional development of gut-on-a-chip technology: from fabrication processes, models, gut microbiome to gut-organ axis.",
+      "url": "https://doi.org/10.1016/j.jpba.2025.117322",
+      "source": "PubMed — Journal of pharmaceutical and biomedical analysis",
+      "one_liner": "Gut-on-a-chip (GoC) platforms integrate microfluidics and 3D culture to replicate the intestinal microenvironment, offering physiologically relevant alternatives to traditional models. Coupled with multi-organ chips (e.g., gut-brain/gut-liver axes), they unveil microbiome-regulated systemic crosstalk via metabolite signaling-a key yet unresolved mechanism...",
+      "segment": 8,
+      "timestamp": 732.71
+    },
+    {
+      "title": "Evaluation of iron supplementation effects of whey protein peptide-ferrous chelate: enhancing bioavailability and antioxidant capacity, promoting gut microbiota balance.",
+      "url": "https://doi.org/10.1016/j.foodchem.2026.148248",
+      "source": "PubMed — Food chemistry",
+      "one_liner": "To evaluate the effects of whey protein peptide-ferrous chelate (WPP-Fe) on iron deficiency anemia (IDA), this study investigated its influence on iron metabolism, oxidative stress, and gut microbiota in IDA mice. The results showed that medium-dose WPP-Fe (2.0 mg Fe/kg BW) exhibited superior efficacy compared with ferrous chloride (FeCl₂) and ferrous glu...",
+      "segment": 9,
+      "timestamp": 782.92
+    },
+    {
+      "title": "Intermittent fasting protects MPTP-induced Parkinson's disease mouse model through regulating gut microbiota dysbiosis.",
+      "url": "https://doi.org/10.1016/j.intimp.2026.116447",
+      "source": "PubMed — International immunopharmacology",
+      "one_liner": "Parkinson's disease (PD) is a neurodegenerative disorder characterized by gut microbiota dysbiosis and excessive inflammatory responses. Intermittent fasting (IF) exerts neuroprotective effects on neurodegenerative diseases. However, the impact of IF on PD and its mechanisms still need to be elucidated. In the present study, we found that 13-week IF regim...",
+      "segment": 10,
+      "timestamp": 836.22
+    },
+    {
+      "title": "Dihydroartemisinin alleviates ulcerative colitis by modulating gut microbiota and butyrate to restore Treg/Th17 balance and intestinal barrier function.",
+      "url": "https://doi.org/10.1016/j.intimp.2026.116455",
+      "source": "PubMed — International immunopharmacology",
+      "one_liner": "Accumulating evidence suggests that dihydroartemisinin (DHA), a natural compound known for its anti-inflammatory and immunomodulatory properties, holds therapeutic potential for ulcerative colitis (UC). However, its mechanism of action, particularly concerning the gut microbiota and its metabolites, remains incompletely understood. In this study, we evalu...",
+      "segment": 11,
+      "timestamp": 879.77
+    },
+    {
+      "title": "Portulaca oleracea L. polysaccharide alleviates colitis-associated bone loss through Muribaculaceae-enriched gut microbiota and elevated colonic melatonin.",
+      "url": "https://doi.org/10.1016/j.jare.2026.04.033",
+      "source": "PubMed — Journal of advanced research",
+      "one_liner": "AIMS: Colitis and its associated bone loss are major global health concerns with limited therapeutic options. Portulaca oleracea L. polysaccharide (POP) has been suggested to ameliorate both conditions via microbiota modulation. The study aimed to explore whether POP can alleviate colitis-associated bone loss and its underling mechanism. METHODS: A murine...",
+      "segment": 12,
+      "timestamp": 930.84
+    },
+    {
+      "title": "Structural elucidation and effects on gut microbiota of soluble galactans from edible Boletus.",
+      "url": "https://doi.org/10.1016/j.carbpol.2026.124886",
+      "source": "PubMed — Carbohydrate polymers",
+      "one_liner": "Edible Boletus mushrooms hold considerable development potential due to their exceptional nutritional and biological profiles. This study characterized two novel galactans, NBP and BRP, extracted from Neoboletus brunneissimus and Butyriboletus roseoflavus, respectively. Structural analysis revealed that both NBP and BRP possess a backbone composed of α-1,...",
+      "segment": 13,
+      "timestamp": 977.37
+    },
+    {
+      "title": "Lycium barbarum glycopeptide alleviates diabetic retinopathy by modulating the gut microbiota and metabolites.",
+      "url": "https://doi.org/10.4103/NRR.NRR-D-25-00683",
+      "source": "PubMed — Neural regeneration research",
+      "one_liner": "Diabetic retinopathy, a vision-threatening complication of diabetes, is closely linked to gut microbiota dysbiosis through the microbiota-gut-retina axis, which drives inflammation and retinal damage. Lycium barbarum glycopeptide exhibits retinal protective effects, but its role in modulating this axis in diabetic retinopathy remains unclear. This study e...",
+      "segment": 14,
+      "timestamp": 1025.15
+    },
+    {
+      "title": "[Differential analysis of gut microbiome in patients with periprosthetic joint infection, aseptic failure, and osteoarthritis].",
+      "url": "https://doi.org/10.7507/1002-1892.202601002",
+      "source": "PubMed — Zhongguo xiu fu chong jian wai ke za zhi = Zhongguo xiufu chongjian waike zazhi = Chinese journal of reparative and reconstructive surgery",
+      "one_liner": "OBJECTIVE: To explore the differences in gut microbiota diversity and structural characteristics among patients with periprosthetic joint infection (PJI), aseptic failure (AF), and osteoarthritis (OA), and to analyze the association between gut microbiota dysbiosis and the occurrence of PJI, thereby providing a new theoretical basis for elucidating the pa...",
+      "segment": 15,
+      "timestamp": 1075.02
+    },
+    {
+      "title": "Tick-vectored mobilization of antibiotic resistance genes: transboundary dissemination across wildlife-livestock-vector-environment interfaces.",
+      "url": "https://doi.org/10.1038/s41522-026-00986-w",
+      "source": "PubMed — NPJ biofilms and microbiomes",
+      "one_liner": "Antibiotic resistance genes (ARGs) are emerging as critical environmental contaminants across diverse ecological interfaces. To dissect evidence of microbiome and resistome in the different interconnected interfaces of ecotone, we conducted a field investigation of the microbiome and resistome of marmots, along with coexisting domestic sheep, ticks and th...",
+      "segment": 16,
+      "timestamp": 1118.19
+    },
+    {
+      "title": "Clinical guidance and practical recommendations for probiotic use in patients with irritable bowel syndrome, functional constipation, and Clostridium difficile infection considering sex-based differences: a Korean translation.",
+      "url": "https://doi.org/10.12771/emj.2026.01256",
+      "source": "PubMed — Ewha medical journal",
+      "one_liner": "",
+      "segment": 17,
+      "timestamp": 1262.98
+    },
+    {
+      "title": "Reliable detection of Host-Microbe Signatures in cancer using PRISM.",
+      "url": "https://doi.org/10.1016/j.ccell.2026.01.007",
+      "source": "PubMed — Cancer cell",
+      "one_liner": "Recent controversy in the cancer microbiome field highlights the need for more reliable microbial detection from human genomic data. Here, we develop PRISM, an efficient computational framework for precise microorganism identification and decontamination from low-biomass sequencing data. PRISM achieves robust performance when benchmarked on 230 independen...",
+      "segment": 18,
+      "timestamp": 1431.6
+    },
+    {
+      "title": "SpiR is a gut microbial enzyme that drives cholesterol conversion.",
+      "url": "https://doi.org/10.1038/s41467-026-70820-6",
+      "source": "PubMed — Nature communications",
+      "one_liner": "The gut microbiota contributes to cholesterol homeostasis by converting cholesterol into coprostanol, a non-absorbable sterol excreted in the feces. However, the enzymes mediating this process remain poorly defined. Here, we identify spiR, a steroid Δ",
+      "segment": 19,
+      "timestamp": 1490.35
+    },
+    {
+      "title": "Quantitative stable isotope probing (qSIP)-informed metagenomics identifies viruses infecting chemoautotrophs.",
+      "url": "https://doi.org/10.1038/s41467-026-71833-x",
+      "source": "PubMed — Nature communications",
+      "one_liner": "Aquatic environments absorb ~2.5 gigatonnes of atmospheric carbon each year",
+      "segment": 20,
+      "timestamp": 1652.32
+    },
+    {
+      "title": "Water kefir as a paradigm for multi-omics and genome-scale metabolic modelling in fermented food",
+      "url": "https://www.nature.com/articles/s41522-026-00985-x",
+      "source": "npj Biofilms and Microbiomes",
+      "one_liner": "npj Biofilms and Microbiomes, Published online: 15 April 2026; doi:10.1038/s41522-026-00985-x Water kefir as a paradigm for multi-omics and genome-scale metabolic modelling in fermented food",
+      "segment": 21,
+      "timestamp": 1838.56
+    },
+    {
+      "title": "Gut commensal Parabacteroides goldsteinii protects against Salmonella infection in mice by enhancing innate defense function.",
+      "url": "https://doi.org/10.1038/s41522-026-00965-1",
+      "source": "PubMed — NPJ biofilms and microbiomes",
+      "one_liner": "Bacterial enteritis caused by the invasion of Salmonella enterica subsp. enterica serovar Typhimurium into the intestinal epithelium is often associated with the overactivation of the immune system, production of proinflammatory cytokines, disruption of the intestinal barrier and dysbiosis of gut microbiota. In this study, the gut commensal Parabacteroide...",
+      "segment": 22,
+      "timestamp": 1973.72
+    },
+    {
+      "title": "Fiber Formulation-Dependent Modulation of Gut Microbial Metabolism in Parkinsons Disease",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.13.718214",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Parkinsons disease (PD) is associated with altered gut-brain signaling, including microbial dysbiosis, intestinal inflammation, and reduced short-chain fatty acid (SCFA) production. Because dietary fibers are selectively fermented by intestinal microbes to generate SCFAs, fiber formulations tailored to the altered intestinal environment in PD offer a stra...",
+      "segment": 23,
+      "timestamp": 2107.13
+    },
+    {
+      "title": "Streptomyces enrichment in roots during drought is uncoupled from plant benefit and is driven by host suppression of iron uptake and immunity",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.06.710171",
+      "source": "bioRxiv — plant biology",
+      "one_liner": "Drought reshapes plant root microbiota, yet the mechanistic drivers and consequences of this observation remain unclear. We discovered that suppression of host immunity and iron homeostasis is required for Streptomyces enrichment in roots during drought across diverse soils. Genetic and physiological manipulation of these host pathways confirmed their req...",
+      "segment": 24,
+      "timestamp": 2238.82
+    },
+    {
+      "title": "Plant spatial compartmentalization buffers bacteriome structure and function under antibiotic stress.",
+      "url": "https://doi.org/10.1038/s41598-026-46797-z",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "Agricultural antibiotic contamination poses increasing threats to crop productivity and ecosystem stability through disruption of the plant-associated microbiome. While antibiotic impacts on bulk soil and rhizosphere communities are documented, the extent to which spatial compartmentalization across the plant-soil continuum buffers these effects remains p...",
+      "segment": 25,
+      "timestamp": 2293.94
+    },
+    {
+      "title": "Bilberry (",
+      "url": "https://doi.org/10.1039/d5fo04882f",
+      "source": "PubMed — Food & function",
+      "one_liner": "Dietary anthocyanins are associated with a reduced risk of gestational diabetes mellitus (GDM). However, it remains unclear whether their efficacy is mediated through the gut microbiota-bile acid-TGR5/FXR-GLP-1 axis, a mechanism extending beyond the direct antioxidant effects. This study aimed to investigate this hypothesis by examining the protective eff...",
+      "segment": 26,
+      "timestamp": 2499.23
+    },
+    {
+      "title": "Mechanistic insights into cordycepin-enhanced CTLA-4 blockade efficacy via Eubacterium rectale-mediated immunomodulation in colon cancer.",
+      "url": "https://doi.org/10.1016/j.intimp.2026.116406",
+      "source": "PubMed — International immunopharmacology",
+      "one_liner": "Colon cancer remains a therapeutic challenge due to limited efficacy of current treatments. This study investigates the synergistic antitumor effects of cordycepin combined with CTLA-4 inhibitors, focusing on their ability to reshape the gut microbiome. By integrating multi-omics approaches, we elucidate the mechanisms underlying the enhanced efficacy of ...",
+      "segment": 27,
+      "timestamp": 2653.69
+    },
+    {
+      "title": "WWTP effluents influence prokaryotic viral diversity and interaction with hosts: Regulating the virus-mediated nitrogen-cycling processes in river sediments.",
+      "url": "https://doi.org/10.1016/j.watres.2026.125519",
+      "source": "PubMed — Water research",
+      "one_liner": "As an important water replenishment measure for urban rivers, the input of wastewater treatment plant (WWTP) effluents can change both the nutrient loading and the microbial community diversity of receiving rivers. However, our knowledge of the characteristics of viral communities and virus-mediated nitrogen-cycling processes in WWTP effluents-receiving r...",
+      "segment": 28,
+      "timestamp": 2697.25
+    },
+    {
+      "title": "Chronoregulatory and neuroprotective effects of yeast β-glucan against systemic inflammation.",
+      "url": "https://doi.org/10.1016/j.carbpol.2025.124812",
+      "source": "PubMed — Carbohydrate polymers",
+      "one_liner": "Circadian rhythms play a critical role in regulating immune function and behavior, and disruptions to these rhythms are increasingly linked to systemic inflammation and neuroinflammation. This study aimed to investigate the effects of prebiotic polysaccharides, yeast β-glucan and chicory inulin, on systemic inflammation-induced disruptions in circadian rh...",
+      "segment": 29,
+      "timestamp": 2748.87
+    },
+    {
+      "title": "Banxia Xiexin Decoction modulates short-chain fatty acid metabolism and mitigates ulcerative colitis by reshaping the intestinal microbiota.",
+      "url": "https://doi.org/10.1016/j.jpba.2025.117332",
+      "source": "PubMed — Journal of pharmaceutical and biomedical analysis",
+      "one_liner": "Ulcerative colitis (UC) is a chronic inflammatory disorder that significantly impacts the quality of life for patients. Dysbiosis of gut microbiota and changes in short-chain fatty acid (SCFA) metabolism play a role in both the initiation and progression of UC. Banxia Xiexin Decoction (BXD), a formula in traditional Chinese medicine, has shown therapeutic...",
+      "segment": 30,
+      "timestamp": 2792.38
+    },
+    {
+      "title": "Multi-omics analysis of changes in the microbiota-gut- spinal cord axis in spinal cord injury.",
+      "url": "https://doi.org/10.4103/NRR.NRR-D-25-00739",
+      "source": "PubMed — Neural regeneration research",
+      "one_liner": "A growing body of research demonstrates the critical involvement of gut microbiota in the initiation and progression of central nervous system disorders. Notably, gut dysbiosis has been shown to impair immune responses, metabolic pathways, and behavioral phenotypes, positioning it as a key focus in contemporary central nervous system disease research. In ...",
+      "segment": 31,
+      "timestamp": 2839.32
+    },
+    {
+      "title": "UPLC-Q-TOF/MS-Based Metabolomics and 16S rRNA Profiling Reveal that Corosolic Acid Ameliorates High-Fat Diet-Induced MASLD by Modulating the Gut-Liver Axis to Inhibit the cGAS-STING Pathway.",
+      "url": "https://doi.org/10.1021/acs.jafc.5c13513",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "Metabolic-associated steatohepatitis liver disease (MASLD) is characterized by abnormal hepatic fat accumulation and liver injury. Corosolic acid (CA) has proven lipid-lowering and hepatoprotective effects, yet the underlying mechanism by which CA mitigates MASLD remains unclear. In this study, mice were fed a high-fat diet for 8 weeks to induce MASLD, fo...",
+      "segment": 32,
+      "timestamp": 2882.8
+    }
+  ]
+}
