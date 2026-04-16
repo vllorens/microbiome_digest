@@ -1,0 +1,312 @@
+{
+  "timestamps": [
+    0.0,
+    140.92,
+    189.16,
+    232.04,
+    279.46,
+    328.18,
+    469.32,
+    624.86,
+    662.68,
+    840.83,
+    1013.14,
+    1178.43,
+    1336.82,
+    1387.15,
+    1430.58,
+    1477.19,
+    1524.01,
+    1575.92,
+    1619.93,
+    1663.36,
+    1707.38,
+    1747.26,
+    1801.71,
+    1942.44,
+    2103.07,
+    2225.73,
+    2379.33,
+    2524.81,
+    2655.46,
+    2698.76,
+    2749.54,
+    2796.76,
+    2839.91,
+    2888.87
+  ],
+  "items": [
+    {
+      "title": "Cyclophosphamide alters gut microbiota metabolism and structure in lymphoma-bearing mice: implications for dietary modulation.",
+      "url": "https://doi.org/10.1007/s11845-026-04385-0",
+      "source": "PubMed — Irish journal of medical science",
+      "one_liner": "",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Maternal Exposure to Bisphenol A Bis(diphenyl Phosphate) Induces Offspring Colitis through Disrupting the Gut Microbiome-Metabolite Axis.",
+      "url": "https://doi.org/10.1021/acs.est.5c11474",
+      "source": "PubMed — Environmental science & technology",
+      "one_liner": "Bisphenol-A bis(diphenyl phosphate) (BDP) has been detected in biological organisms, but its toxicological effects remain unclear. In this study of 4376 participants, the characteristic BDP metabolite diphenyl phosphate was associated with gastrointestinal diseases via a nonlinear dose-response relationship, and was identified as a risk factor (OR = 1.02;...",
+      "segment": 1,
+      "timestamp": 140.92
+    },
+    {
+      "title": "Gut Microbiota Mediates HFPO-DA-Induced Hepatotoxicity via Arginine Reprogramming in Lean NAFLD Mice.",
+      "url": "https://doi.org/10.1021/acs.est.6c02839",
+      "source": "PubMed — Environmental science & technology",
+      "one_liner": "Emerging evidence indicates that individuals with lean nonalcoholic fatty liver disease (NAFLD) exhibit a distinct gut microbial metabolic profile, rendering them uniquely susceptible to environmental chemicals. Using a lean NAFLD mouse model, this study demonstrates that hexafluoropropylene oxide dimer acid (HFPO-DA), a commonly regarded safer alternativ...",
+      "segment": 2,
+      "timestamp": 189.16
+    },
+    {
+      "title": "Alteration of gut microbiota contributes to peritoneal fibrosis through increased production of trimethylamine N-oxide.",
+      "url": "https://doi.org/10.1080/19490976.2026.2657048",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Peritoneal fibrosis is a common complication in peritoneal dialysis (PD) patients, which results in ultrafiltration failure (UFF) and PD withdrawal. PD patients demonstrate altered structural and functional profiles of the gut microbiota. Herein, we investigated the role of the gut microbiota and trimethylamine N-oxide (TMAO), a bacterial metabolite, in t...",
+      "segment": 3,
+      "timestamp": 232.04
+    },
+    {
+      "title": "Modulating the gut microbiota to enhance immune checkpoint inhibitor efficacy in colorectal cancer: mechanisms, therapeutic strategies, and clinical perspectives.",
+      "url": "https://doi.org/10.1080/19490976.2026.2652476",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Immune checkpoint inhibitors (ICIs) have revolutionized cancer treatment, yet their efficacy in colorectal cancer (CRC) remains limited to a minority of patients with microsatellite instability-high (MSI-H) tumors, leaving the majority with microsatellite stable (MSS) disease unresponsive. The gut microbiota, a key regulator of host immunity, has emerged ...",
+      "segment": 4,
+      "timestamp": 279.46
+    },
+    {
+      "title": "Beyond single markers: bacterial synergies identified by Multidimensional Feature Selection reveal conserved microbiome disease signatures",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.13.718216",
+      "source": "bioRxiv — bioinformatics",
+      "one_liner": "The gut microbiome encodes disease-relevant information not only in the abundance of individual taxa and functions, but in the way they co-occur and interact. Yet metagenomic analyses have largely relied on univariate approaches that evaluate features in isolation, systematically overlooking the combinatorial signals that arise from microbial co-occurrenc...",
+      "segment": 5,
+      "timestamp": 328.18
+    },
+    {
+      "title": "Dietary Oxysterols Reprogram Hepatic Lipid Metabolism and Reshape the Gut Metabolome-Microbiome Interface",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.12.717948",
+      "source": "bioRxiv — biochemistry",
+      "one_liner": "Dietary oxysterols are biologically active cholesterol oxidation products ubiquitous in Western diets, yet their systemic effects on host metabolism and the gut microbiome remain largely unexplored. Here, we employed an integrated multi-omics approach - shotgun metagenomics, quantitative proteomics, untargeted metabolomics, and bulk RNA-seq - to character...",
+      "segment": 6,
+      "timestamp": 469.32
+    },
+    {
+      "title": "Distinct prokaryotic gut microbiome and proviral-immune axes ofpathophysiology in Sickle Cell Disease",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.13.718288",
+      "source": "bioRxiv — immunology",
+      "one_liner": "Sickle cell disease (SCD) is a chronic, inherited condition rising across the globe. Prior studies revealed a direct link between the gut microbiome and disease micropathology via aged-like (ANs) neutrophils in mouse models. In SCD patients community-level shifts in the gut microbiome included decreases in diversity and the Firmicutes/Bacteroides (F:B) ra...",
+      "segment": 7,
+      "timestamp": 624.86
+    },
+    {
+      "title": "New Advances in the Mechanisms and Therapeutic Strategies of Gut Microbiota in Regulating Glycolipid Metabolism to Combat Atherosclerosis.",
+      "url": "https://doi.org/10.1007/s12265-026-10768-6",
+      "source": "PubMed — Journal of cardiovascular translational research",
+      "one_liner": "Atherosclerosis is the major pathological basis of cardiovascular diseases, characterized by chronic inflammation and disturbed glucose and lipid metabolism. Despite the widespread use of statins, the global clinical burden continues to rise, and effective therapeutic strategies remain limited. As the \"second genome,\" gut microbiota participates in the pr...",
+      "segment": 8,
+      "timestamp": 662.68
+    },
+    {
+      "title": "The neuroactive potential of the elderly human gut microbiome is associated with mental health status.",
+      "url": "https://doi.org/10.1371/journal.pone.0343493",
+      "source": "PubMed — PloS one",
+      "one_liner": "Ageing is usually associated with physiological decline, increased mental health issues, and cognitive. deterioration, alongside specific changes in the gut microbiome. However, the relationship between the neuroactive potential of the gut microbiome and mental health and cognition among the elderly remains less explored. This study examines a cohort of 1...",
+      "segment": 9,
+      "timestamp": 840.83
+    },
+    {
+      "title": "Causal links among gut microbiota, immune-inflammatory and compensatory immune-regulatory systems, and schizophrenia.",
+      "url": "https://doi.org/10.1038/s41386-026-02407-0",
+      "source": "PubMed — Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology",
+      "one_liner": "Schizophrenia (SCZ) has been increasingly linked to disruptions in gut microbiota (GM) and immune system dysregulation, including the immune-inflammatory response system (IRS) and compensatory immune-regulatory system (CIRS). To investigate their causal roles and potential confounding effects, we applied genetically informed Mendelian randomization (MR) u...",
+      "segment": 10,
+      "timestamp": 1013.14
+    },
+    {
+      "title": "Interpreting circulating microbiome-related metabolites in coronary heart disease.",
+      "url": "https://doi.org/10.1371/journal.pmed.1005056",
+      "source": "PubMed — PLoS medicine",
+      "one_liner": "Circulating microbiome-related metabolites have emerged as promising biomarkers for coronary heart disease. A recent multi-stage study in PLOS Medicine strengthens signal prioritization but highlights the persistent gap between association and causality.",
+      "segment": 11,
+      "timestamp": 1178.43
+    },
+    {
+      "title": "Oligofructose alleviates hyperandrogenism in polycystic ovary syndrome through gut microbiota-derived bile acids.",
+      "url": "https://doi.org/10.1016/j.jare.2026.04.036",
+      "source": "PubMed — Journal of advanced research",
+      "one_liner": "INTRODUCTION: Polycystic ovary syndrome (PCOS) is a common endocrine disorder in reproductive-age women, characterized by hyperandrogenism and metabolic dysfunction. Dietary interventions are recommended as one of the first-line therapies. Oligofructose (OFS), a prebiotic fiber, has demonstrated clinical benefits in PCOS; however, its underlying mechanism...",
+      "segment": 12,
+      "timestamp": 1336.82
+    },
+    {
+      "title": "Multi-strain probiotic enhances metformin tolerance by modulating gut microbiome and bile acid pathways: Insight from multi-omics post-hoc analysis (ProGasMet trial).",
+      "url": "https://doi.org/10.1016/j.biopha.2026.119370",
+      "source": "PubMed — Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "one_liner": "BACKGROUND: Metformin is the cornerstone therapy for type 2 diabetes, but gastrointestinal intolerance commonly limits dose escalation and long-term adherence. In the ProGasMet trial, multi-strain probiotic supplementation improved metformin tolerability. However, the underlying microbiome-metabolome mechanisms remain unclear. METHODS AND ANALYSIS: We per...",
+      "segment": 13,
+      "timestamp": 1387.15
+    },
+    {
+      "title": "Microbiome analysis reveals the positive effects of exercise on the gut microbiota in horse.",
+      "url": "https://doi.org/10.1016/j.micpath.2026.108501",
+      "source": "PubMed — Microbial pathogenesis",
+      "one_liner": "Gut microbiota is vital to host health, involving many aspects including immunity, metabolism and digestion. Exercise is recognized as a significant factor influencing the gut microbiota. However, the effects of exercise on the gut microbiota in horses remain unclear. Here, this study aims to investigate the effects of exercise on the gut bacterial and fu...",
+      "segment": 14,
+      "timestamp": 1430.58
+    },
+    {
+      "title": "Allicin improves motor neuron survival in amyotrophic lateral sclerosis by reducing neuroinflammation and modulating gut microbiota.",
+      "url": "https://doi.org/10.1016/j.bbrc.2026.153503",
+      "source": "PubMed — Biochemical and biophysical research communications",
+      "one_liner": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease characterized by the progressive loss of motor neurons (MNs). Allicin, a defensive molecule in garlic with anti-inflammatory and gut microbiota-modulating properties, has shown therapeutic potential in animal models of various diseases including Alzheimer's disease (AD). However, its...",
+      "segment": 15,
+      "timestamp": 1477.19
+    },
+    {
+      "title": "Periodontitis during pregnancy: The effect on the gut microbiome and intestinal inflammation.",
+      "url": "https://doi.org/10.1002/jper.70132",
+      "source": "PubMed — Journal of periodontology",
+      "one_liner": "BACKGROUND: Periodontitis has been epidemiologically associated with adverse pregnancy outcomes, but causality remains difficult to establish in humans due to confounding factors. This study uses a controlled murine model to examine the effects of experimentally induced periodontitis on the composition of the gut microbiota and gastrointestinal inflammati...",
+      "segment": 16,
+      "timestamp": 1524.01
+    },
+    {
+      "title": "Combined Use of Tryptophan and Fu Brick Tea in Low Doses Promotes Weight Loss in Mice by Modulating AhR-Mediated Tryptophan Metabolism and Reshaping the Gut Microbiota.",
+      "url": "https://doi.org/10.1021/acs.jafc.6c00137",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "Fu brick tea (FBT) combats obesity by modulating gut microbiota, while tryptophan (Trp) lacks direct effects but exerts anti-obesity potential via microbiota-derived metabolites. However, their synergistic anti-obesity effect remains unclear. We demonstrated that low-dose FBT extract (FTE) combined with free Trp or Trp-bound proteins from soy protein isol...",
+      "segment": 17,
+      "timestamp": 1575.92
+    },
+    {
+      "title": "2'-Fucosyllactose Alleviates Metabolic Hypertension in Mice via Gut Microbiota Modulation and Involvement of the LPS/TLR4 Signaling.",
+      "url": "https://doi.org/10.1021/acs.jafc.5c12123",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "2'-Fucosyllactose (2'-FL) shows promise in ameliorating metabolic disorders. However, the role of 2'-FL in metabolic hypertension (MH) remains unclear. This study aimed to evaluate the effects of 2'-FL on MH and explore its underlying mechanisms. 2'-FL treatment (1000 mg/kg) reduced systolic blood pressure (SBP) by 16.6% and alleviated dyslipidemia, micro...",
+      "segment": 18,
+      "timestamp": 1619.93
+    },
+    {
+      "title": "Dietary Glyphosate at the Regulatory \"Safe\" Level Worsens Colitis via a Gut Microbiota-Derived Palmitic Acid-JAK-STAT Pathway.",
+      "url": "https://doi.org/10.1021/acs.jafc.5c17487",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "Glyphosate (GLY) has become a frequent pollutant in foodstuffs. While the link between GLY exposure and the high prevalence of inflammatory bowel disease (IBD) has been reported, the effects and mechanisms are largely unclear. Here, the impacts of GLY at the regulatory \"safe\" level on IBD progression were investigated in a mouse colitis model. Compared wi...",
+      "segment": 19,
+      "timestamp": 1663.36
+    },
+    {
+      "title": "The relationship between seminal microbiome and male reproductive wellness: a systematic review†.",
+      "url": "https://doi.org/10.1093/biolre/ioag003",
+      "source": "PubMed — Biology of reproduction",
+      "one_liner": "The seminal microbiome, which is composed of different types of bacteria in semen and seminal plasma, has a significant impact on male reproductive health by changing the quality of semen and fertility. Previously regarded as sterile, the male reproductive tract contains microbes originating from the gastrointestinal tract, reproductive organs, and extern...",
+      "segment": 20,
+      "timestamp": 1707.38
+    },
+    {
+      "title": "Integrated Transcriptomic and Metabolomic Analysis Reveals the Antibacterial Mechanisms of the Novel Peptide FxCy2 against",
+      "url": "https://doi.org/10.1021/acs.jafc.5c17294",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "Antibiotic resistance and gut microbiota dysbiosis have become major challenges to",
+      "segment": 21,
+      "timestamp": 1747.26
+    },
+    {
+      "title": "Water kefir as a paradigm for multi-omics and genome-scale metabolic modelling in fermented food.",
+      "url": "https://doi.org/10.1038/s41522-026-00985-x",
+      "source": "PubMed — NPJ biofilms and microbiomes",
+      "one_liner": "Water Kefir is a plant-based fermented beverage, traditionally produced on a small scale by fermenting a sucrose solution with fresh or dried fruits, using water kefir grains as inoculum. The grains are relatively simple communities that consist of both eukaryotes and prokaryotes, rendering them a paradigm for studying microbial ecology and interspecies i...",
+      "segment": 22,
+      "timestamp": 1801.71
+    },
+    {
+      "title": "Complement and neutrophils are actively involved at the cervicovaginal interface in cases of adverse microbial composition, cervical shortening and spontaneous preterm birth.",
+      "url": "https://doi.org/10.1038/s41522-026-00969-x",
+      "source": "PubMed — NPJ biofilms and microbiomes",
+      "one_liner": "Microbial-driven spontaneous preterm birth (sPTB) is linked to adverse vaginal microbiome and dysregulated immune responses, yet this knowledge has not translated into predictive tools or therapies. We sampled 186 high-risk pregnant women and assessed 14 complement proteins and the neutrophil immunophenotype at the cervicovaginal interface to expand poten...",
+      "segment": 23,
+      "timestamp": 1942.44
+    },
+    {
+      "title": "Microbiota-induced fatty acid synthesis facilitates intestinal infection and immune-mediated damage in Drosophila",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.14.718535",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "The role of the microbiota in facilitating infection is increasingly recognized, though the underlying mechanisms remain under investigation. In this study, we demonstrate that the gut microbiome, particularly Lactiplantibacillus plantarum, promotes enteric infection in Drosophila melanogaster by reshaping host physiology and immune responses. Upon gut co...",
+      "segment": 24,
+      "timestamp": 2103.07
+    },
+    {
+      "title": "Distinct infant resistome trajectories shaped by country income and geography revealed through global metagenomics reanalysis.",
+      "url": "https://doi.org/10.1038/s44259-026-00194-8",
+      "source": "PubMed — npj antimicrobials and resistance",
+      "one_liner": "Antimicrobial resistance (AMR) costs lives, diminishes antimicrobial effectiveness and increases health care costs. We conducted a re-analysis of pooled fecal metagenomes from individual participants to characterise AMR gene (ARG) distributions in 0-2 year-old healthy infants across income and geography. From 2275 screened studies, we included nine datase...",
+      "segment": 25,
+      "timestamp": 2225.73
+    },
+    {
+      "title": "The Gut Bacterial Resistome in the First Two Years of Life: Protocol for a Longitudinal Observational Birth Cohort Study.",
+      "url": "https://doi.org/10.2196/86058",
+      "source": "PubMed — JMIR research protocols",
+      "one_liner": "BACKGROUND: Antimicrobial resistance (AMR) is a global health threat that increases the burden of infectious diseases and disproportionately affects communities of low socioeconomic status. Despite the call for community-level AMR data, prospective studies from rural sub-Saharan African communities to inform appropriate targeted interventions remain scarc...",
+      "segment": 26,
+      "timestamp": 2379.33
+    },
+    {
+      "title": "Xanthan gum intake modifies the colon microbiota profile and causes mild colon inflammation in rats.",
+      "url": "https://doi.org/10.1371/journal.pone.0347232",
+      "source": "PubMed — PloS one",
+      "one_liner": "Xanthan gum is commonly used in the food industry to adjust food consistency and to improve the safety of swallowing liquids and food in people with dysphagia. The pro-inflammatory effect of xanthan gum is acknowledged in the literature. This study aimed to examine the effect of chronic xanthan gum supplementation in the diet on intestinal inflammatory pr...",
+      "segment": 27,
+      "timestamp": 2524.81
+    },
+    {
+      "title": "Chitooligosaccharides enhance T-cell immunity via supporting the dominant growth of β-1,4-glycosidase-expressing Lactobacillus spp. in mice.",
+      "url": "https://doi.org/10.1016/j.bbagen.2026.130952",
+      "source": "PubMed — Biochimica et biophysica acta. General subjects",
+      "one_liner": "Chitooligosaccharides (COSs) are hydrolysates of chitosan polymers. COSs have many biological functions, especially in immune activation. Gut microbiota is closely related to the decomposition of natural glycans in the human intestine and plays a pivotal role in regulating the immune system. But the role and mechanism of intestinal microbiota in mediating...",
+      "segment": 28,
+      "timestamp": 2655.46
+    },
+    {
+      "title": "High-fat diet causes rapid loss of intestinal group 3 innate lymphoid cells through microbiota-driven inflammation and mitochondrial stress.",
+      "url": "https://doi.org/10.1016/j.immuni.2026.02.014",
+      "source": "PubMed — Immunity",
+      "one_liner": "Group 3 innate lymphoid cells (ILC3s) are key sensors of the intestinal environment, integrating dietary and microbial cues to maintain intestinal immunity. We found that intestinal ILC3s were reduced in overweight and obese humans and in high-fat diet (HFD)-fed mice. ILC3 loss occurred independently of caloric excess, weight gain, or glucose intolerance....",
+      "segment": 29,
+      "timestamp": 2698.76
+    },
+    {
+      "title": "Acetate uptake alleviates propionate-mediated growth restriction in",
+      "url": "https://doi.org/10.1128/iai.00043-26",
+      "source": "PubMed — Infection and immunity",
+      "one_liner": "The gut microbiota impedes infection by enteric pathogens, a process termed colonization resistance. Microbial production of short-chain fatty acids (SCFAs), such as acetate, propionate, and butyrate, contributes to colonization resistance.",
+      "segment": 30,
+      "timestamp": 2749.54
+    },
+    {
+      "title": "Active Site Structure and Mechanism of a Molybdenum Catechol Dehydroxylase.",
+      "url": "https://doi.org/10.1021/jacs.5c20654",
+      "source": "PubMed — Journal of the American Chemical Society",
+      "one_liner": "The dehydroxylation of catechols represents an important chemical transformation facilitated by gut bacteria in mammals. This reaction is catalyzed by pyranopterin molybdenum enzymes that belong to the DMSO reductase family. Despite their chemical and biological significance, the structure and mechanisms of catechol dehydroxylases remain uncharacterized. ...",
+      "segment": 31,
+      "timestamp": 2796.76
+    },
+    {
+      "title": "Spermine Oxidase Serves as a Key Functional Node in Microbial Dysbiosis-Induced Breast Carcinogenesis.",
+      "url": "https://doi.org/10.1158/0008-5472.CAN-25-2086",
+      "source": "PubMed — Cancer research",
+      "one_liner": "UNLABELLED: Emerging evidence has highlighted the unequivocal importance of microbiota as a risk factor for breast carcinogenesis. Elucidating the underlying mechanisms is needed to identify key nodes that can be inhibited to abolish pathogenic microbe-mediated breast cancer growth and metastatic progression. Focusing on a procarcinogenic colon microbe, e...",
+      "segment": 32,
+      "timestamp": 2839.91
+    },
+    {
+      "title": "Engineered Biomimetic Nanoparticles With Targeted Delivery of Chlorothiazide for the Treatment of Inflammatory Bowel Disease.",
+      "url": "https://doi.org/10.1002/anie.202525914",
+      "source": "PubMed — Angewandte Chemie (International ed. in English)",
+      "one_liner": "While conventional treatment strategies for inflammatory bowel disease (IBD) focus primarily on suppressing overactive immunity, there is still a lack of definitive interventions targeting key pathological mechanisms, such as intestinal barrier dysfunction, dysbiosis of the gut microbiome, and disrupted mucosal immune regulation. Using a high-throughput d...",
+      "segment": 33,
+      "timestamp": 2888.87
+    }
+  ]
+}

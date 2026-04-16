@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Apr 2026 05:59:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 05:44:40 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-04-16</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-16/podcast_2026-04-16.mp3</guid>
+      <pubDate>Thu, 16 Apr 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-16/podcast_2026-04-16.mp3" length="21942404" type="audio/mpeg" />
+      <description>Cyclophosphamide is a widely used chemotherapy drug, but it&#x27;s known to cause significant side effects, including damage to the gut microbiome. | The researchers used a mouse model of lymphoma and treated the animals with cyclophosphamide. | Specifically, the study found that cyclophosphamide treatment led to an increase in the relative abundance of certain bacteria, such as Bacteroides and Clostridium, while decreasing the abundance of others, such as Lactobacillus and Bifidobacterium.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Cyclophosphamide is a widely used chemotherapy drug, but it&#x27;s known to cause significant side effects, including damage to the gut microbiome. | The researchers used a mouse model of lymphoma and treated the animals with cyclophosphamide. | Specifically, the study found that cyclophosphamide treatment led to an increase in the relative abundance of certain bacteria, such as Bacteroides and Clostridium, while decreasing the abundance of others, such as Lactobacillus and Bifidobacterium.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-04-15</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-15/podcast_2026-04-15.mp3</guid>
       <pubDate>Wed, 15 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-15/podcast_2026-04-15.mp3" length="21897956" type="audio/mpeg" />
-      <description>A new study in Cell Reports Medicine reveals that breastfeeding may help reduce health disparities linked to socioeconomic status by shaping the infant gut microbiome. | Chronic obstructive pulmonary disease, or COPD, is a major global health burden, especially in its advanced form known as emphysema. | In this study, scientists focused on a specific bacterial strain called Lactobacillus fermentum HEM20792, or LF for short.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-15/podcast_2026-04-15.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>A new study in Cell Reports Medicine reveals that breastfeeding may help reduce health disparities linked to socioeconomic status by shaping the infant gut microbiome. | Chronic obstructive pulmonary disease, or COPD, is a major global health burden, especially in its advanced form known as emphysema. | In this study, scientists focused on a specific bacterial strain called Lactobacillus fermentum HEM20792, or LF for short.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
