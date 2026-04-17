@@ -1,0 +1,294 @@
+{
+  "timestamps": [
+    0.0,
+    43.89,
+    93.23,
+    146.2,
+    199.42,
+    354.22,
+    499.75,
+    644.97,
+    806.97,
+    948.23,
+    1102.21,
+    1152.34,
+    1204.97,
+    1257.26,
+    1309.6,
+    1364.75,
+    1415.82,
+    1468.08,
+    1524.98,
+    1571.52,
+    1624.22,
+    1739.6,
+    1877.74,
+    1999.64,
+    2044.51,
+    2254.44,
+    2417.27,
+    2462.46,
+    2487.1,
+    2540.12,
+    2592.5,
+    2641.92
+  ],
+  "items": [
+    {
+      "title": "Dietary capsaicin attenuates type 2 diabetes via gut microbiota and bile acid metabolic pathways.",
+      "url": "https://doi.org/10.1016/j.isci.2026.115298",
+      "source": "PubMed — iScience",
+      "one_liner": "Diabetes is a serious global health concern. Notably, individuals who prefer spicy food exhibit a lower diabetes risk, making the exploration of capsaicin-the pungent compound in chili peppers-highly relevant. The gut microbiota and its metabolites are key targets in diabetes management. This study demonstrates that dietary capsaicin alleviates type 2 dia...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Gut microbiota transmission induces cognitive impairment through amyloid pathology in wild-type mice.",
+      "url": "https://doi.org/10.1016/j.neuroscience.2026.02.041",
+      "source": "PubMed — Neuroscience",
+      "one_liner": "Alzheimer's disease (AD), the leading cause of dementia, is predominantly sporadic and influenced by non-genetic factors, including the gut microbiota. Cohabitation studies have shown microbial transmission between AD transgenic (Tg) and wild-type (WT) mice, leading to cognitive impairment; however, the mechanisms during early-life co-housing exposure rem...",
+      "segment": 1,
+      "timestamp": 43.89
+    },
+    {
+      "title": "Profiling biological effects of microbiome metabolites via machine learning.",
+      "url": "https://doi.org/10.1016/j.isci.2026.115282",
+      "source": "PubMed — iScience",
+      "one_liner": "Human microbiome-derived metabolites are key mediators of host physiology. However, their biological effects remain largely uncharacterized due to limitations of current low-throughput and untargeted experimental approaches that are time intensive and costly. This has hindered the systematic biological characterization of microbiome metabolites. To addres...",
+      "segment": 2,
+      "timestamp": 93.23
+    },
+    {
+      "title": "Microbiome signatures correlate with diet-mediated ADHD symptom reduction.",
+      "url": "https://doi.org/10.1080/19490976.2026.2659400",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Attention-deficit hyperactivity disorder (ADHD) is one of the most common childhood neuropsychiatric conditions. Both (epi)genetic and environmental factors are suggested to contribute to the etiology of ADHD. In the last decade, nutrition has received considerable attention as a potential environmental factor triggering ADHD behavior, particularly applyi...",
+      "segment": 3,
+      "timestamp": 146.2
+    },
+    {
+      "title": "An Explainable Knowledge Graph-Driven Approach to Decipher the Link Between Brain Disorders and the Gut Microbiome",
+      "url": "https://www.biorxiv.org/content/10.64898/2025.12.11.693657",
+      "source": "bioRxiv — bioinformatics",
+      "one_liner": "Motivation: The communication between the gut microbiome and the brain, known as the microbiome-gut-brain axis (MGBA), is emerging as a critical factor in neurological and psychiatric disorders. This communication involves complex pathways including neural, hormonal, and immune interactions that enable gut microbes to modulate brain function and behavior....",
+      "segment": 4,
+      "timestamp": 199.42
+    },
+    {
+      "title": "Population-scale Characterization of the Oral Microbiome and Associations with Metabolic Health",
+      "url": "https://www.biorxiv.org/content/10.1101/2025.10.28.685004",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "The oral microbiome may capture system-specific information about host metabolic health, yet large-scale, multi-system evidence remains scarce. We analyzed 9,431 participants in the Human Phenotype Project (HPP), integrating buccal-swab oral whole-metagenome profiles with 44 metabolic measures spanning liver ultrasound, continuous glucose monitoring (CGM)...",
+      "segment": 5,
+      "timestamp": 354.22
+    },
+    {
+      "title": "Gut microbiome composition and predicted functions relate to growth and behavior in a Japanese preschool cohort",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.15.718572",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Early childhood is a period of rapid brain maturation and gut microbiome assembly, when emerging behavioral difficulties can shape later mental health and learning trajectories. Microbiota-gut-brain communication has been implicated in neurodevelopment through microbial metabolites and immune signaling. However, most pediatric evidence comes from high-ris...",
+      "segment": 6,
+      "timestamp": 499.75
+    },
+    {
+      "title": "The Gut Microbiota-Metabolite-Host Axis in Cardiometabolic Diseases: Bridging Bench to Bedside.",
+      "url": "https://doi.org/10.1007/s10557-026-07875-6",
+      "source": "PubMed — Cardiovascular drugs and therapy",
+      "one_liner": "",
+      "segment": 7,
+      "timestamp": 644.97
+    },
+    {
+      "title": "Combination of a pesco vegetarian diet with non-steroidal anti-inflammatory drugs reduces colorectal cancer risk and modulates gut microbiota in PIRC rats.",
+      "url": "https://doi.org/10.1038/s41598-026-48074-5",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "Colorectal cancer (CRC) remains one of the leading causes of cancer-related mortality worldwide, with genetic predispositions such as Familial Adenomatous Polyposis (FAP) contributing significantly to early-onset disease. This study investigated the synergic chemopreventive potential of two non-steroidal anti-inflammatory drugs (NSAIDs), acetylsalicylic a...",
+      "segment": 8,
+      "timestamp": 806.97
+    },
+    {
+      "title": "An integrated microbiome-drug interaction and bioinformatics approach identifies active deglycosylated and glycosidic chain metabolites of Platycodin D targeting PTPN2/HIF1A in acute lung injury.",
+      "url": "https://doi.org/10.1186/s13062-026-00779-3",
+      "source": "PubMed — Biology direct",
+      "one_liner": "",
+      "segment": 9,
+      "timestamp": 948.23
+    },
+    {
+      "title": "The gut microbiome as an effector of metabolic disease gene variants.",
+      "url": "https://doi.org/10.1016/j.tig.2026.03.011",
+      "source": "PubMed — Trends in genetics : TIG",
+      "one_liner": "Here, we discuss emerging studies that have identified overlap in the genetic drivers of the gut microbiome and metabolic disease, and we evaluate the possibility that some genes affecting host metabolic function do so by first manipulating the microbiome.",
+      "segment": 10,
+      "timestamp": 1102.21
+    },
+    {
+      "title": "Prognostic Prediction in COVID-19 Patients: A Comprehensive Analysis of Gut Microbiota and Hematological Biomarkers.",
+      "url": "https://doi.org/10.1016/j.virusres.2026.199729",
+      "source": "PubMed — Virus research",
+      "one_liner": "This study investigates gut microbiota dynamics in COVID-19 patients and evaluates the prognostic potential of clinical hematological indicators. We collected 293 fecal samples from 225 confirmed COVID-19 cases (January-March 2023). After excluding samples with missing information, those from patients receiving Traditional Chinese Medicine, and those fail...",
+      "segment": 11,
+      "timestamp": 1152.34
+    },
+    {
+      "title": "Hypobaric hypoxia affects gut microbiota of rats through affected community assembly, reduced network resilience, and metabolic reprogramming.",
+      "url": "https://doi.org/10.1093/femsec/fiag039",
+      "source": "PubMed — FEMS microbiology ecology",
+      "one_liner": "In host-microbe interactions, host diet and environmental stress are key driving factors shaping the gut microbiota. Although previous studies have shown that hypoxia affects the structure and function of the gut microbiota in rodents, most have relied on 16S rRNA gene sequencing and lacked analysis of community assembly mechanisms, co-occurrence networks...",
+      "segment": 12,
+      "timestamp": 1204.97
+    },
+    {
+      "title": "Gut Microbiota of Gray Snub-Nosed Monkeys: Adaptation to Seasonal Variations Through Energy Compensation and Thermogenesis.",
+      "url": "https://doi.org/10.1111/1749-4877.70092",
+      "source": "PubMed — Integrative zoology",
+      "one_liner": "As an extremely endangered species, the gray snub-nosed monkey (Rhinopithecus brelichi) relies on its gut microbiota for adaptation to environmental changes, particularly in coping with fluctuations in energy and nutrient availability. In this study, we employed metagenomic, metatranscriptomic, and widely targeted metabolomic analyses to characterize the ...",
+      "segment": 13,
+      "timestamp": 1257.26
+    },
+    {
+      "title": "Dietary titanium dioxide nanoparticles impair pollinator health: integrative analysis of colony performance, gut microbiota, and transcriptomic responses in Bombus terrestris.",
+      "url": "https://doi.org/10.1093/jee/toag103",
+      "source": "PubMed — Journal of economic entomology",
+      "one_liner": "Titanium dioxide nanoparticles (TiO2 NPs) are widely used in industrial, agricultural, and consumer products and are increasingly detected in terrestrial and floral environments that are critical for pollinators. However, the mechanistic and ecological consequences of TiO2 NPs exposure on pollinator health remain poorly understood. Here, we present a mult...",
+      "segment": 14,
+      "timestamp": 1309.6
+    },
+    {
+      "title": "Multi-omics analysis of gut microbiota and gene expression reveals that TBK1 promotes colorectal tumorigenesis by activating glycolysis.",
+      "url": "https://doi.org/10.1556/030.2026.02853",
+      "source": "PubMed — Acta microbiologica et immunologica Hungarica",
+      "one_liner": "Colorectal cancer (CRC) is a prevalent malignancy with intricate connections to gut microbiota (GM) dysbiosis, though the specific mechanisms linking microbiota-induced gene expression changes to CRC progression remain unclear. This study employed a multi-omics approach to investigate the interplay between GM alterations and host gene expression in CRC. C...",
+      "segment": 15,
+      "timestamp": 1364.75
+    },
+    {
+      "title": "Effects of concurrent Helicobacter pylori infection and small intestinal bacterial overgrowth on the gut microbiota and metabolic profiles: A multi-omics study.",
+      "url": "https://doi.org/10.1556/030.2026.02894",
+      "source": "PubMed — Acta microbiologica et immunologica Hungarica",
+      "one_liner": "This study investigated the synergistic effects of Helicobacter pylori (Hp) infection and small intestinal bacterial overgrowth (SIBO) on the gut microbiota structure and metabolic profiles and elucidate the underlying pathophysiological mechanisms. Forty-two patients with gastrointestinal symptoms were recruited and assigned to group A (Hp+ SIBO+), B (Hp...",
+      "segment": 16,
+      "timestamp": 1415.82
+    },
+    {
+      "title": "Analysis of gut microbiota in Restless Legs Syndrome: searching for a metagenomic signature.",
+      "url": "https://doi.org/10.1093/sleep/zsaf383",
+      "source": "PubMed — Sleep",
+      "one_liner": "STUDY OBJECTIVES: We aim to analyze the microbiota composition in Restless Legs Syndrome (RLS) patients and its relationship with the different RLS phenotypes. METHODS: We recruited idiopathic RLS (RLS) and insomnia (INS) patients and healthy subjects (CTRL). Validated questionnaires (Pittsburg Sleep Quality Index, International Restless Legs Syndrome Stu...",
+      "segment": 17,
+      "timestamp": 1468.08
+    },
+    {
+      "title": "The legacy of raw milk storage temperature is associated with cheese microbiome composition, notwithstanding pasteurization and starter addition.",
+      "url": "https://doi.org/10.1093/femsle/fnag046",
+      "source": "PubMed — FEMS microbiology letters",
+      "one_liner": "Using DNA metabarcoding, we assessed the relative impact of two variables: (a) raw milk storage temperature and (b) cheese maturation duration, on a semi-fresh cheese bacteriome composition under authentic factory-scale industrial conditions. The study is compared to a prior literature report run at a high-quality milk facility, whilst in the present case...",
+      "segment": 18,
+      "timestamp": 1524.98
+    },
+    {
+      "title": "The role of gut microbiome in chemoresistance property development in colorectal cancer tissue and its novel therapeutic strategies.",
+      "url": "https://doi.org/10.1080/1120009X.2026.2653339",
+      "source": "PubMed — Journal of chemotherapy (Florence, Italy)",
+      "one_liner": "Colorectal cancer remains the second contributor to cancer-related mortality worldwide. Despite various advances in chemotherapeutic approaches, chemoresistance still poses a significant risk, hampering the effectiveness of the treatment. Recent researches have explored the crucial role of dysbiotic gut microbiota in the progression of CRC. Specific dysbi...",
+      "segment": 19,
+      "timestamp": 1571.52
+    },
+    {
+      "title": "Nutritional enrichment of eggs through essential oil-supplemented laying hen diets and associations with intestinal microbiota.",
+      "url": "https://doi.org/10.1007/s44463-026-00059-8",
+      "source": "PubMed — Food science of animal resources",
+      "one_liner": "This study evaluated the effects of oregano essential oil alone and in combination with cinnamon and peppermint essential oils on intestinal microbiota, the sensory and textural properties of cooked egg's and fatty acid profile. Intestinal microbiota/fatty acid profile correlations and health index were evaluated. Lohmann LSL-LITE strain laying hens were ...",
+      "segment": 20,
+      "timestamp": 1624.22
+    },
+    {
+      "title": "Dietary supplementation of Platycodon grandiflorum polysaccharides mitigates weaning stress in piglets by modulating intestinal microbiota and improving gut health.",
+      "url": "https://doi.org/10.5713/ab.250877",
+      "source": "PubMed — Animal bioscience",
+      "one_liner": "OBJECTIVE: Platycodon grandiflorum polysaccharide (PGP) extracted from Platycodon grandiflorum, which has the advantages of anti-inflammatory, antioxidant, anti-tumor, and no side effects on the organism. This study evaluated whether dietary PGP alleviate weaning-induced intestinal dysfunction in piglets. METHODS: A total of 18 newly weaned piglets (6.46 ...",
+      "segment": 21,
+      "timestamp": 1739.6
+    },
+    {
+      "title": "Obesity-related alterations in plasma metabolomics and fecal microbiota in Down syndrome Dp(16)1Yey mice",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.10.717726",
+      "source": "bioRxiv — neuroscience",
+      "one_liner": "Background/Objectives: Individuals with Down syndrome (DS) are at increased risk of obesity and metabolic comorbidities, yet the mechanisms underlying these conditions remain unclear. Here we investigated how DS-associated genetic condition interacts with diet and metabolic pathways in the Dp(16)1Yey mouse model of DS. Methods: Untargeted plasma metabolom...",
+      "segment": 22,
+      "timestamp": 1877.74
+    },
+    {
+      "title": "Not just passengers: Phages as agents of genetic exchange in fecal microbiota transplantation.",
+      "url": "https://doi.org/10.1016/j.chom.2026.03.017",
+      "source": "PubMed — Cell host & microbe",
+      "one_liner": "Fecal microbiota transplantation (FMT) is an effective therapy for recurrent Clostridioides difficile infection and is increasingly being explored for other microbiota-associated diseases. However, general research has largely focused on bacterial engraftment, overlooking the contribution of the gut virome. In this perspective, we highlight phage-mediated...",
+      "segment": 23,
+      "timestamp": 1999.64
+    },
+    {
+      "title": "Microbial Diversity and Differentiating Factors of Cocoa Fermentation Systems: Nutritional Supplementation as a Modulation Strategy Assessed by Metabarcoding",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.16.718758",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Cocoa fermentation is a spontaneous microbe-driven process in which yeasts, lactic acid bacteria (LAB), and acetic acid bacteria (AAB) generate the flavor precursors that determine the sensory quality of chocolate. Although the microbial ecology of cocoa fermentation has been increasingly studied through culture-independent methods, the effect of targeted...",
+      "segment": 24,
+      "timestamp": 2044.51
+    },
+    {
+      "title": "Microbiota and immune-related adverse events in cancer immunotherapy.",
+      "url": "https://doi.org/10.1038/s41568-026-00921-3",
+      "source": "PubMed — Nature reviews. Cancer",
+      "one_liner": "In response to treatment with immune checkpoint inhibitors (ICIs), patients with cancer can develop immune-related adverse events (irAEs), which are off-target toxicities affecting non-tumour tissues. Development of an irAE can require cessation of ICI treatment and cause additional morbidities, unrelated to cancer. Although the mechanisms that drive irAE...",
+      "segment": 25,
+      "timestamp": 2254.44
+    },
+    {
+      "title": "Fecal microbiota transplantation alleviates sepsis-induced acute lung injury by improving mitochondrial function.",
+      "url": "https://doi.org/10.4196/kjpp.25.304",
+      "source": "PubMed — The Korean journal of physiology & pharmacology : official journal of the Korean Physiological Society and the Korean Society of Pharmacology",
+      "one_liner": "Sepsis-induced acute lung injury (ALI) remains a critical clinical challenge with limited therapeutic options. This study investigated the protective effects and underlying mechanisms of fecal microbiota transplantation (FMT) in a murine model of sepsis-induced ALI. 16S rRNA sequencing confirmed that FMT rescued sepsis-induced gut microbiota dysbiosis, re...",
+      "segment": 26,
+      "timestamp": 2417.27
+    },
+    {
+      "title": "Chemical dialogues at the crossroads of host-bacteria interactions.",
+      "url": "https://doi.org/10.1016/j.tim.2026.03.013",
+      "source": "PubMed — Trends in microbiology",
+      "one_liner": "Microbiomes are now recognised as the second genome of eukaryotes, providing diverse life-support functions for their hosts. The impact of microbiome members on the growth and health of their hosts is determined by chemical cues from the host that modulate microbial physiology, virulence, and the biosynthesis of specialised metabolites. In this review, we...",
+      "segment": 27,
+      "timestamp": 2462.46
+    },
+    {
+      "title": "A low-cost disposable label-free immunosensor for high-performance detection of indoxyl sulfate using chitosan based tertiary nanocomposite.",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2026.152024",
+      "source": "PubMed — International journal of biological macromolecules",
+      "one_liner": "Indoxyl sulfate (IS) is a gut microbiota derived metabolite having various adverse implications in chronic kidney disease, cardiovascular disease, uremic syndrome. IS is also known as protein bound uremic toxin. Due to the serious issues caused by IS its timely quantification is important for the diagnosis and prevention of several diseases. Several tradi...",
+      "segment": 28,
+      "timestamp": 2487.1
+    },
+    {
+      "title": "Engineering Bacillus subtilis as a sustainable platform for the production of functional bile acids.",
+      "url": "https://doi.org/10.1016/j.tibtech.2026.03.021",
+      "source": "PubMed — Trends in biotechnology",
+      "one_liner": "Bile acids and their derivatives are key regulators of host metabolism, immunity, and microbiome interactions, with growing therapeutic potential. Conventional production methods of bile acids relying on animal extraction or chemical synthesis are inefficient, costly, and environmentally unfriendly. Microbial synthesis offers a sustainable alternative but...",
+      "segment": 29,
+      "timestamp": 2540.12
+    },
+    {
+      "title": "Inulin, Containing Frutco-Oligosaccharides, and Generalized Anxiety Disorder 7-Item Scale Scores in College Students.",
+      "url": "https://doi.org/10.1177/1096620X261421081",
+      "source": "PubMed — Journal of medicinal food",
+      "one_liner": "This study was conducted to determine the effects of fructo-oligosaccharide (FOS) inulin on anxiety symptoms in college students. Forty million adults in the United States suffer from anxiety. Previous studies have viewed gut microbiota and its potential link to anxiety in both humans and mice. However, no previous studies focused on the effect of FOS inu...",
+      "segment": 30,
+      "timestamp": 2592.5
+    },
+    {
+      "title": "Cervicovaginal dysbiosis and microenvironment disruption are associated with cervical carcinogenesis.",
+      "url": "https://doi.org/10.1128/spectrum.02804-24",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "Cervical cancer poses a serious threat to women's health. Emerging evidence indicates that changes in the cervicovaginal microbiota (CVM) and vaginal microenvironment may play a crucial role in cervical carcinogenesis. In this study, we examined CVM and vaginal microenvironment profiles in 510 participants with varying stages of cervical lesions using 16S...",
+      "segment": 31,
+      "timestamp": 2641.92
+    }
+  ]
+}

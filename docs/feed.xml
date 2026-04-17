@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Apr 2026 05:44:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 05:41:50 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-04-17</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-17/podcast_2026-04-17.mp3</guid>
+      <pubDate>Fri, 17 Apr 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-17/podcast_2026-04-17.mp3" length="20097644" type="audio/mpeg" />
+      <description>A new study in iScience reveals that dietary capsaicin, the active compound in chili peppers, may help reduce the risk of type 2 diabetes by modulating gut microbiota and bile acid metabolism. | New research from Neuroscience reveals that gut microbiota from Alzheimer&#x27;s disease model mice can transmit cognitive impairment to healthy wild-type mice through amyloid pathology. | A new machine learning approach from iScience aims to systematically profile the biological effects of microbiome-derived metabolites, which are crucial mediators of host physiology but remain poorly characterized due to slow, costly experimental methods.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>A new study in iScience reveals that dietary capsaicin, the active compound in chili peppers, may help reduce the risk of type 2 diabetes by modulating gut microbiota and bile acid metabolism. | New research from Neuroscience reveals that gut microbiota from Alzheimer&#x27;s disease model mice can transmit cognitive impairment to healthy wild-type mice through amyloid pathology. | A new machine learning approach from iScience aims to systematically profile the biological effects of microbiome-derived metabolites, which are crucial mediators of host physiology but remain poorly characterized due to slow, costly experimental methods.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-04-16</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-16/podcast_2026-04-16.mp3</guid>
       <pubDate>Thu, 16 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-16/podcast_2026-04-16.mp3" length="21942404" type="audio/mpeg" />
-      <description>Cyclophosphamide is a widely used chemotherapy drug, but it&#x27;s known to cause significant side effects, including damage to the gut microbiome. | The researchers used a mouse model of lymphoma and treated the animals with cyclophosphamide. | Specifically, the study found that cyclophosphamide treatment led to an increase in the relative abundance of certain bacteria, such as Bacteroides and Clostridium, while decreasing the abundance of others, such as Lactobacillus and Bifidobacterium.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-16/podcast_2026-04-16.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Cyclophosphamide is a widely used chemotherapy drug, but it&#x27;s known to cause significant side effects, including damage to the gut microbiome. | The researchers used a mouse model of lymphoma and treated the animals with cyclophosphamide. | Specifically, the study found that cyclophosphamide treatment led to an increase in the relative abundance of certain bacteria, such as Bacteroides and Clostridium, while decreasing the abundance of others, such as Lactobacillus and Bifidobacterium.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
