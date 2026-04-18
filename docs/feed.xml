@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Apr 2026 05:41:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 05:21:28 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-04-18</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-18/podcast_2026-04-18.mp3</guid>
+      <pubDate>Sat, 18 Apr 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-18/podcast_2026-04-18.mp3" length="21821852" type="audio/mpeg" />
+      <description>Temporomandibular joint disorders are notoriously difficult to treat, with pain being the most common and debilitating symptom. | In a previous study, the same team established that butyrate plays a critical role in modulating TMJ pain. | The study reveals that butyrate&#x27;s pain-modulating effects are highly cell-specific.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Temporomandibular joint disorders are notoriously difficult to treat, with pain being the most common and debilitating symptom. | In a previous study, the same team established that butyrate plays a critical role in modulating TMJ pain. | The study reveals that butyrate&#x27;s pain-modulating effects are highly cell-specific.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-04-17</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-17/podcast_2026-04-17.mp3</guid>
       <pubDate>Fri, 17 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-17/podcast_2026-04-17.mp3" length="20097644" type="audio/mpeg" />
-      <description>A new study in iScience reveals that dietary capsaicin, the active compound in chili peppers, may help reduce the risk of type 2 diabetes by modulating gut microbiota and bile acid metabolism. | New research from Neuroscience reveals that gut microbiota from Alzheimer&#x27;s disease model mice can transmit cognitive impairment to healthy wild-type mice through amyloid pathology. | A new machine learning approach from iScience aims to systematically profile the biological effects of microbiome-derived metabolites, which are crucial mediators of host physiology but remain poorly characterized due to slow, costly experimental methods.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-17/podcast_2026-04-17.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>A new study in iScience reveals that dietary capsaicin, the active compound in chili peppers, may help reduce the risk of type 2 diabetes by modulating gut microbiota and bile acid metabolism. | New research from Neuroscience reveals that gut microbiota from Alzheimer&#x27;s disease model mice can transmit cognitive impairment to healthy wild-type mice through amyloid pathology. | A new machine learning approach from iScience aims to systematically profile the biological effects of microbiome-derived metabolites, which are crucial mediators of host physiology but remain poorly characterized due to slow, costly experimental methods.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>

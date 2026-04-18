@@ -1,0 +1,276 @@
+{
+  "timestamps": [
+    0.0,
+    137.42,
+    295.79,
+    426.4,
+    635.58,
+    684.46,
+    725.78,
+    831.76,
+    983.27,
+    1154.32,
+    1322.34,
+    1484.24,
+    1536.31,
+    1576.56,
+    1628.46,
+    1680.73,
+    1738.71,
+    1781.76,
+    1948.27,
+    2110.94,
+    2223.09,
+    2344.52,
+    2442.42,
+    2592.32,
+    2635.15,
+    2679.55,
+    2724.69,
+    2771.65,
+    2817.97,
+    2869.08
+  ],
+  "items": [
+    {
+      "title": "Single-cell multi-omics sequencing reveals cell-specific transcriptomic and chromatin accessibility profiles in gut microbiome metabolite butyrate-produced pain modulation.",
+      "url": "https://doi.org/10.1038/s41368-026-00432-9",
+      "source": "PubMed — International journal of oral science",
+      "one_liner": "Pain is the most common symptom of temporomandibular joint (TMJ) disorders, which present significant clinical challenges due to their complexity and limited treatment options. Our previous study demonstrates that gut microbiome-derived butyrate is critical for the modulation of TMJ pain. In this study, we investigated its underlying mechanisms, and we fo...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Exploring the anti-cancer potential of gut microbiota-derived short-chain fatty acids in ovarian cancer: a comparative analysis of sodium butyrate and sodium propionate on proliferation, cell cycle, and apoptosis.",
+      "url": "https://doi.org/10.1186/s12935-026-04284-5",
+      "source": "PubMed — Cancer cell international",
+      "one_liner": "",
+      "segment": 1,
+      "timestamp": 137.42
+    },
+    {
+      "title": "Oral microbiome signatures predict biological age and host health.",
+      "url": "https://doi.org/10.1038/s41467-026-72096-2",
+      "source": "PubMed — Nature communications",
+      "one_liner": "Identifying robust, non-invasive biomarkers of biological age is key to preventive medicine. While gut aging clocks exist, the oral microbiome remains underexplored as a quantitative biomarker. Using oral microbiome data from two NHANES cohorts (N = 4,675), we identified 64 age-dependent bacterial genera and developed a machine learning model predicting c...",
+      "segment": 2,
+      "timestamp": 295.79
+    },
+    {
+      "title": "Cariogenic microorganisms induce oral epithelial atypia through host-microbiome-high sugar diet interactions.",
+      "url": "https://doi.org/10.1038/s41522-026-00987-9",
+      "source": "PubMed — NPJ biofilms and microbiomes",
+      "one_liner": "Oral mucosal development during infancy is crucial because disruptions at this stage can compromise barrier function and increase susceptibility to oral diseases throughout life. The contribution of oral pathogens to oral mucosal development in infancy remains poorly understood. Here, we show that early-life co-infection with Streptococcus mutans and Cand...",
+      "segment": 3,
+      "timestamp": 426.4
+    },
+    {
+      "title": "Microbiome-Targeted Reduction of Circulating Trimethylamine N-Oxide Mitigates Ischemic Stroke Risk",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.15.718846",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Elevated plasma trimethylamine N-oxide (TMAO) is an independent predictor of major adverse cardiovascular events and ischemic stroke. While inhibition of microbial TMA production has been explored, concerns regarding off-target effects and limited efficacy in complex microbial ecosystems have hindered clinical translation. Here, we report a microbiome-bas...",
+      "segment": 4,
+      "timestamp": 635.58
+    },
+    {
+      "title": "Sexual dimorphism in the homeostasis of the gut microbiome-immune axis",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.14.718590",
+      "source": "bioRxiv — immunology",
+      "one_liner": "The gut microbiome is a key regulator of host immunity; however, microbial factors defining basal immune homeostasis remain poorly understood. While large-scale multi-omics have mapped microbial influences on stimulated immune responses, the fundamental dialogue maintaining resting inflammatory tone is often obscured by systemic confounders. In this study...",
+      "segment": 5,
+      "timestamp": 684.46
+    },
+    {
+      "title": "Oral microbiome profiling of primary oral candidiasis during infection and post-antifungal therapy.",
+      "url": "https://doi.org/10.1007/s00784-026-06827-6",
+      "source": "PubMed — Clinical oral investigations",
+      "one_liner": "OBJECTIVES: Microbial dysbiosis that facilitates Candida proliferation in the oral cavity is a significant factor associated with oral candidiasis. This study aimed to gain insights into microbial dynamics of primary oral candidiasis during infection and following antifungal therapy to enhance our understanding of disease pathogenesis and treatment effica...",
+      "segment": 6,
+      "timestamp": 725.78
+    },
+    {
+      "title": "Integrated analysis of age-related microbiome and metabolites reveals youth-associated metabolites in young Korean women's skin.",
+      "url": "https://doi.org/10.1007/s10123-026-00817-0",
+      "source": "PubMed — International microbiology : the official journal of the Spanish Society for Microbiology",
+      "one_liner": "Alterations in the composition and functional potential of the skin microbiome are closely associated with aging. Nevertheless, integrative analyses that concurrently examine microbial composition, functional gene profiles, and skin surface metabolomics remain limited, particularly among Asian populations. In this study, we performed a comprehensive multi...",
+      "segment": 7,
+      "timestamp": 831.76
+    },
+    {
+      "title": "Multi-omics reveals gut microbiome- and metabolome-specific responses to sugar alcohols.",
+      "url": "https://doi.org/10.1039/d6fo00282j",
+      "source": "PubMed — Food & function",
+      "one_liner": "The impacts of sugar alcohols (SA) utilized as low-calorie sweeteners on the gut microbiome and metabolome remain undefined. Among six SAs tested, isomalt, erythritol, xylitol and sorbitol significantly lowered fasting serum insulin and hepatic lipid levels in healthy rats, while mannitol and maltitol showed no such effect. Moreover, isomalt consumption l...",
+      "segment": 8,
+      "timestamp": 983.27
+    },
+    {
+      "title": "Maternal-prenatal gut microbiome-systemic metabolome perturbations and T",
+      "url": "https://doi.org/10.1186/s13073-026-01655-5",
+      "source": "PubMed — Genome medicine",
+      "one_liner": "",
+      "segment": 9,
+      "timestamp": 1154.32
+    },
+    {
+      "title": "Gut microbiota bidirectionally influences protection and severity in cerebral malaria in mice.",
+      "url": "https://doi.org/10.1186/s41182-026-00947-1",
+      "source": "PubMed — Tropical medicine and health",
+      "one_liner": "BACKGROUND: Malaria caused by Plasmodium parasites leads to severe complications, such as cerebral malaria; however, the influence of the gut microbiota on the pathogenesis of cerebral malaria remains unclear. Here, the effects of antibiotic-induced microbiota alteration on experimental cerebral malaria (ECM) were examined. METHODS: Male C57BL/6N mice tha...",
+      "segment": 10,
+      "timestamp": 1322.34
+    },
+    {
+      "title": "The commensal microbiome in respiratory tract tumors: From oncogenic mechanisms to clinical translation.",
+      "url": "https://doi.org/10.1016/j.jare.2026.04.044",
+      "source": "PubMed — Journal of advanced research",
+      "one_liner": "BACKGROUND: The human commensal microbiome, commonly recognized as a \"second genome\", exerts a crucial regulatory role in host metabolism, immune homeostasis maintenance, and the progression of various diseases. Respiratory tract tumors remain a leading cause of global cancer-related deaths due to their high invasiveness and late-stage diagnosis. With the...",
+      "segment": 11,
+      "timestamp": 1484.24
+    },
+    {
+      "title": "Mendelian randomization analysis reveals a shared protective role of gut microbiota genus Alloprevotella in spontaneous abortion and rheumatoid arthritis.",
+      "url": "https://doi.org/10.1097/MD.0000000000048225",
+      "source": "PubMed — Medicine",
+      "one_liner": "Previous studies to date have demonstrated a significant relationship between spontaneous abortion (SA) and rheumatoid arthritis (RA). Moreover, positive links between gut microbiota and SA, RA have been discussed in observational studies. However, observational studies are prone to bias and result in the causality between gut microbiota and the comorbidi...",
+      "segment": 12,
+      "timestamp": 1536.31
+    },
+    {
+      "title": "The trends and hotspots of gut microbiota for breast cancer from 2005 to 2024: A bibliometric and visual analysis.",
+      "url": "https://doi.org/10.1097/MD.0000000000048411",
+      "source": "PubMed — Medicine",
+      "one_liner": "BACKGROUND: Breast cancer (BC) is the most common malignant tumor among women in the world, and it is also the most common cancer type that causes female deaths. Accumulating evidence has indicated a close relationship between the gut microbiota (GM) and BC, encompassing aspects such as clinical diagnosis, carcinogenic mechanisms, and treatment. To date, ...",
+      "segment": 13,
+      "timestamp": 1576.56
+    },
+    {
+      "title": "Shared Genetics Implicate Gut Microbiota and Immunity in Anterior Uveitis and Inflammatory Bowel Disease.",
+      "url": "https://doi.org/10.1080/09273948.2026.2654978",
+      "source": "PubMed — Ocular immunology and inflammation",
+      "one_liner": "PURPOSE: Anterior uveitis (AU) is a common extraintestinal manifestation of inflammatory bowel disease (IBD). This study investigates the shared genetic architecture and pleiotropic loci between AU and IBD. METHODS: Using large-scale GWAS data from European-ancestry cohorts, we performed LD score regression to assess genetic correlations, two-sample Mende...",
+      "segment": 14,
+      "timestamp": 1628.46
+    },
+    {
+      "title": "Microbiome education at under-resourced institutions: current status, barriers, and approaches to successful implementation.",
+      "url": "https://doi.org/10.1128/jmbe.00288-25",
+      "source": "PubMed — Journal of microbiology & biology education",
+      "one_liner": "Microbiome research offers significant promise for advancing public health, medicine, environmental science, and industry. The topic also lends itself well to engaging students and teaching a \"new biology\" that integrates several disciplines, including computational biology. However, access to microbiome education remains limited, particularly at under-re...",
+      "segment": 15,
+      "timestamp": 1680.73
+    },
+    {
+      "title": "Associations between early-life exposures and the infant skin microbiome.",
+      "url": "https://doi.org/10.1093/bjd/ljaf524",
+      "source": "PubMed — The British journal of dermatology",
+      "one_liner": "BACKGROUND: Factors influencing the early-life skin microbiome and the association with atopic dermatitis (AD) are relatively unexplored. OBJECTIVES: To evaluate associations with the infant skin microbiome during the first year of life. METHODS: Three-month-old infants from the Enquiring About Tolerance (EAT) birth cohort were examined for AD at enrolmen...",
+      "segment": 16,
+      "timestamp": 1738.71
+    },
+    {
+      "title": "Faecalibacterium prausnitzii enzyme reprograms PD-L1 trafficking and sensitizes colorectal cancer to immunotherapy in mice.",
+      "url": "https://doi.org/10.1038/s41564-026-02326-2",
+      "source": "PubMed — Nature microbiology",
+      "one_liner": "Microbiome-host interactions can influence colorectal cancer (CRC) outcomes and the effectiveness of immunotherapy treatment, but the precise mechanisms underlying this are poorly understood. Here we analyse CRC patient cohort data and observe that Facalibacterium prausnitzii abundance in faecal samples correlates with improved CRC survival outcome and im...",
+      "segment": 17,
+      "timestamp": 1781.76
+    },
+    {
+      "title": "Microbial landscapes in dairy cow diseases: from localized dysbiosis to inter-organ axes.",
+      "url": "https://doi.org/10.1038/s41522-026-00988-8",
+      "source": "PubMed — NPJ biofilms and microbiomes",
+      "one_liner": "Dairy cow health involves host-microbiome interactions. This review characterized microbial landscapes across anatomical sites in dairy cows-including the gastrointestinal tract, respiratory system, reproductive tract, mammary gland, and skin-and examines their associations with diseases. We elucidated how site-specific dysbiosis drives systemic condition...",
+      "segment": 18,
+      "timestamp": 1948.27
+    },
+    {
+      "title": "Metatranscriptome data support the existence of two distinct morphotypes in a single parmalean species in natural environments",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.16.718586",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Parmales (Bolidophyceae), the closest relatives of diatoms, includes isolates solely exhibiting one of two distinct morphotypes: a silicified non-flagellated form (S-type) and a naked flagellated form (F-type). Although alternation of these two forms for a single isolate has not been observed, previous studies hypothesized that these morphotypes represent...",
+      "segment": 19,
+      "timestamp": 2110.94
+    },
+    {
+      "title": "Effects of salinity and broad-range antibiotics on oxalate production, transport, and degradation in Poecilia latipinna.",
+      "url": "https://doi.org/10.1371/journal.pone.0347147",
+      "source": "PubMed — PloS one",
+      "one_liner": "Oxalate is an anion that readily binds calcium and is thought to contribute to osmoregulation. This study investigated how environmental salinity influences oxalate homeostasis in euryhaline sailfin mollies (Poecilia latipinna), with a focus on the interplay between microbial symbiosis and host transport processes. Gut microbiome profiling demonstrated re...",
+      "segment": 20,
+      "timestamp": 2223.09
+    },
+    {
+      "title": "First insights into the intestinal microbiota of the endangered Angler Saddleback pig.",
+      "url": "https://doi.org/10.1371/journal.pone.0345650",
+      "source": "PubMed — PloS one",
+      "one_liner": "The Angler Saddleback pig is an endangered local breed from northern Germany, characterized by high genetic diversity and exceptional meat quality, but with reduced growth performance compared to commercial pigs. As intestinal microbiota is known to influence health, metabolism, and fat deposition, this study aimed to provide the first characterization of...",
+      "segment": 21,
+      "timestamp": 2344.52
+    },
+    {
+      "title": "Effect of Probiotics on the Clinical Outcome and Inflammatory Response in Gastric Cancer Surgery: A Double Blinded Randomized Control Trial.",
+      "url": "https://doi.org/10.1007/s12029-026-01449-3",
+      "source": "PubMed — Journal of gastrointestinal cancer",
+      "one_liner": "BACKGROUND AND AIM: Gut dysbiosis contributes to postoperative complications and worsens the inflammatory and immune dysfunction in gastric cancer (GC) patients. Probiotics may mitigate these effects by modulating gut microbiota. This study aimed to evaluate the effect of probiotics on the length of hospital stay, other post-operative clinical outcomes, n...",
+      "segment": 22,
+      "timestamp": 2442.42
+    },
+    {
+      "title": "Intestinal dysbiosis exacerbates skin inflammation via microbial metabolite-driven Th2 cell differentiation.",
+      "url": "https://doi.org/10.1016/j.immuni.2026.03.019",
+      "source": "PubMed — Immunity",
+      "one_liner": "The interplay between gut microbiota and the mucosal immune system critically regulates systemic immunity and disease susceptibility. Here, we demonstrate that intestinal epithelial Toll-like receptor (TLR)4 deficiency reshaped the gut microbiome and subsequently exacerbated atopic dermatitis (AD) in mice. Mechanistically, TLR4 deficiency reduced Akkerman...",
+      "segment": 23,
+      "timestamp": 2592.32
+    },
+    {
+      "title": "Evidence for a shift towards a proinflammatory/pronociceptive signature of gut dysbiosis in patients with axial chronic low back pain: a preliminary cross-sectional analysis.",
+      "url": "https://doi.org/10.1016/j.jpain.2026.106271",
+      "source": "PubMed — The journal of pain",
+      "one_liner": "Nonspecific or axial-chronic low back pain is not attributed to specific pathology yet accounts for 80%- 90% of all chronic low back pain cases and is a major cause of disability affecting one in four adults with treatment costs and lost wages totaling $100-200 billion. Despite its prevalence, there is a knowledge gap around the underlying mechanisms driv...",
+      "segment": 24,
+      "timestamp": 2635.15
+    },
+    {
+      "title": "Chronic antibiotic use exacerbates cortico-hippocampal damage induced by Aflatoxin B",
+      "url": "https://doi.org/10.1016/j.toxicon.2026.109093",
+      "source": "PubMed — Toxicon : official journal of the International Society on Toxinology",
+      "one_liner": "We examine how antibiotic misuse may induce gut dysbiosis, which influences the neurotoxicity of co-exposure to the environmental neurotoxicants Aflatoxin B",
+      "segment": 25,
+      "timestamp": 2679.55
+    },
+    {
+      "title": "Fufang Tongye Shaoshang You repairs ulcerative colitis in mice caused by DSS based on the balanced strategy of \"inflammation inhibition-microbiota regulation-mucosa protection\".",
+      "url": "https://doi.org/10.1016/j.jep.2026.121686",
+      "source": "PubMed — Journal of ethnopharmacology",
+      "one_liner": "ETHNOPHARMACOLOGICAL RELEVANCE: Ulcerative colitis (UC) is a complex inflammatory bowel disorder characterized by immune dysregulation, intestinal barrier dysfunction, and intestinal microbiota imbalance. Current therapies remain limited, highlighting the need for alternative strategies. Fufang Tongye Shaoshang You (TYY), a traditional ethnomedicine histo...",
+      "segment": 26,
+      "timestamp": 2724.69
+    },
+    {
+      "title": "Causal relationships between Burkholderiales, Eubacteriaceae and colorectal cancer mediated by plasma metabolites.",
+      "url": "https://doi.org/10.1016/j.ram.2026.100719",
+      "source": "PubMed — Revista Argentina de microbiologia",
+      "one_liner": "While Burkholderiales and Eubacteriaceae are associated with colorectal cancer, a causal relationship has not yet been fully established. This study aimed to assess their causal effects and associated plasma metabolites on colorectal cancer. Summary statistics from genome-wide association studies were analyzed for gut microbiota (n=7738), 1400 plasma meta...",
+      "segment": 27,
+      "timestamp": 2771.65
+    },
+    {
+      "title": "A metatranscriptome based approach to predict multidrug resistance phenotypes in Klebsiella pneumoniae without culturing.",
+      "url": "https://doi.org/10.1016/j.jgar.2026.04.014",
+      "source": "PubMed — Journal of global antimicrobial resistance",
+      "one_liner": "INTRODUCTION: Antimicrobial resistance (AMR), particularly multidrug resistance (MDR) in Klebsiella pneumoniae, has emerged as a significant global public health challenge. However, Accurate resistance phenotype prediction remains difficult. METHODS: Metatranscriptomic analysis was performed on bronchoalveolar lavage fluid from 31 patients. After removing...",
+      "segment": 28,
+      "timestamp": 2817.97
+    },
+    {
+      "title": "The ecological dynamics of skin microbiota in skin health and diseases.",
+      "url": "https://doi.org/10.1128/cmr.00305-25",
+      "source": "PubMed — Clinical microbiology reviews",
+      "one_liner": "SUMMARYThe skin microbiome, consisting of bacteria, fungi, viruses, and archaea, plays a crucial role in maintaining skin health by regulating immune responses, preserving barrier function, and influencing metabolic processes. Dysbiosis in the microbiome is linked to dermatological diseases such as atopic dermatitis (AD), psoriasis, and acne, with specifi...",
+      "segment": 29,
+      "timestamp": 2869.08
+    }
+  ]
+}
