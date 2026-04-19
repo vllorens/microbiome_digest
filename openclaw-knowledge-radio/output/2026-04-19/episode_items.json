@@ -1,0 +1,42 @@
+{
+  "timestamps": [
+    0.0,
+    114.62,
+    268.41,
+    461.29
+  ],
+  "items": [
+    {
+      "title": "Effects of environmental setting and diet on the gut microbial ecology of eastern hellbenders (Cryptobranchus alleganiensis alleganiensis).",
+      "url": "https://doi.org/10.1186/s42523-026-00537-w",
+      "source": "PubMed — Animal microbiome",
+      "one_liner": "BACKGROUND: Eastern hellbenders ( METHODS: 16S rRNA sequencing was used to investigate dissimilarities between the gut microbiome of hellbenders in zoo and wild settings and to evaluate the impact of implementing a wild diet in zoo-reared hellbenders. Additionally, the bacterial composition of zoo-released individuals and wild resident hellbenders was com...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Interactions between bacterial microbiota and protozoan parasites: an intimate relationship.",
+      "url": "https://doi.org/10.1007/s00203-026-04822-9",
+      "source": "PubMed — Archives of microbiology",
+      "one_liner": "Interactions between parasites and the gut microbiota play a key role in immune responses and susceptibility to zoonotic diseases; however, many aspects of how protozoan infections alter microbial diversity and how these changes influence parasite pathogenicity and host defense remain poorly understood. This review integrates recenst studies using murine ...",
+      "segment": 1,
+      "timestamp": 114.62
+    },
+    {
+      "title": "Taxonomic and Functional Assessment of Microbial Communities in Urban Runoff-Contaminated Mangrove Sediments.",
+      "url": "https://doi.org/10.1007/s00284-026-04910-5",
+      "source": "PubMed — Current microbiology",
+      "one_liner": "UNLABELLED: Mangroves are vital coastal ecosystems that host diverse microbial communities essential to ecological function and nutrient cycling. Yet, urbanization and pollution are accelerating their degradation. This study explored the sediment microbiota from two impacted mangroves in São Sebastião, the southeastern Brazilian coast, Araçá Bay, and Colh...",
+      "segment": 2,
+      "timestamp": 268.41
+    },
+    {
+      "title": "Selective Decontamination of the Digestive Tract during Ventilation in the ICU.",
+      "url": "https://doi.org/10.1056/NEJMoa2506398",
+      "source": "PubMed — The New England journal of medicine",
+      "one_liner": "BACKGROUND: Whether selective decontamination of the digestive tract (SDD) reduces mortality among patients undergoing mechanical ventilation and whether it adversely affects microbial ecology in the intensive care unit (ICU) remain unclear. In an earlier analysis of data from Australia, SDD did not result in a lower incidence of in-hospital death than st...",
+      "segment": 3,
+      "timestamp": 461.29
+    }
+  ]
+}

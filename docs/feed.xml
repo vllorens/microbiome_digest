@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Apr 2026 05:21:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 05:43:22 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-04-19</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-19/podcast_2026-04-19.mp3</guid>
+      <pubDate>Sun, 19 Apr 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-19/podcast_2026-04-19.mp3" length="3812012" type="audio/mpeg" />
+      <description>Eastern hellbenders are large aquatic salamanders native to the eastern United States, and they&#x27;re currently facing population declines that have prompted conservation breeding programs in zoos. | To investigate this, researchers used 16S rRNA sequencing to compare the gut microbial communities of hellbenders living in zoos versus those in the wild. | The available text doesn&#x27;t specify the exact bacterial taxa that differed between groups, nor does it give precise statistical measures of dissimilarity.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Eastern hellbenders are large aquatic salamanders native to the eastern United States, and they&#x27;re currently facing population declines that have prompted conservation breeding programs in zoos. | To investigate this, researchers used 16S rRNA sequencing to compare the gut microbial communities of hellbenders living in zoos versus those in the wild. | The available text doesn&#x27;t specify the exact bacterial taxa that differed between groups, nor does it give precise statistical measures of dissimilarity.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-04-18</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-18/podcast_2026-04-18.mp3</guid>
       <pubDate>Sat, 18 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-18/podcast_2026-04-18.mp3" length="21821852" type="audio/mpeg" />
-      <description>Temporomandibular joint disorders are notoriously difficult to treat, with pain being the most common and debilitating symptom. | In a previous study, the same team established that butyrate plays a critical role in modulating TMJ pain. | The study reveals that butyrate&#x27;s pain-modulating effects are highly cell-specific.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-18/podcast_2026-04-18.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Temporomandibular joint disorders are notoriously difficult to treat, with pain being the most common and debilitating symptom. | In a previous study, the same team established that butyrate plays a critical role in modulating TMJ pain. | The study reveals that butyrate&#x27;s pain-modulating effects are highly cell-specific.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
