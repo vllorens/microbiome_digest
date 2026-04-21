@@ -1,0 +1,96 @@
+{
+  "timestamps": [
+    0.0,
+    44.06,
+    185.01,
+    328.16,
+    376.42,
+    425.43,
+    567.1,
+    713.8,
+    761.1,
+    811.76
+  ],
+  "items": [
+    {
+      "title": "Longitudinal gut microbiome dynamics are associated with clinical outcome and toxicity during ibrutinib therapy.",
+      "url": "https://doi.org/10.1080/19490976.2026.2659397",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Accumulating evidence indicates that the gut microbiome influences therapeutic efficacy and toxicity across cancer treatments; however, its longitudinal dynamics during targeted therapies remain poorly characterized. Here, we performed whole-genome shotgun metagenomic sequencing of 291 longitudinal stool samples collected over one year from 30 patients wi...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "The impact of APOE genotype, age, and sex on gut microbiota in a mouse model of Alzheimer's Disease: an exploration of their interactions.",
+      "url": "https://doi.org/10.1186/s13293-026-00905-w",
+      "source": "PubMed — Biology of sex differences",
+      "one_liner": "BACKGROUND: As an important interface between the peripheral environment and the central nervous system, the gut microbiota varies greatly between patients or animals with Alzheimer's disease (AD) and their respective non-AD counterparts; however, it remains unexplored whether the apolipoprotein E (APOE) genotype, age, and sex may interactively influence ...",
+      "segment": 1,
+      "timestamp": 44.06
+    },
+    {
+      "title": "Gut microbiota mediates the antidepressant-like effects of xiaochaihutang: mechanisms involving inhibition of inflammation and enhancement of barrier function.",
+      "url": "https://doi.org/10.1007/s11418-026-02037-2",
+      "source": "PubMed — Journal of natural medicines",
+      "one_liner": "",
+      "segment": 2,
+      "timestamp": 185.01
+    },
+    {
+      "title": "Gut microbiota-derived trimethylamine N-oxide promotes vascular dysfunction and hypertension in systemic lupus erythematosus.",
+      "url": "https://doi.org/10.1016/j.biopha.2026.119397",
+      "source": "PubMed — Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "one_liner": "BACKGROUND: Systemic lupus erythematosus (SLE) is an autoimmune disorder associated with elevated cardiovascular mortality, largely driven by vascular dysfunction and hypertension (HTN). Increasing evidence suggests that gut microbiota-derived metabolites modulate vascular complications in SLE through immune regulation. Among these metabolites, trimethyla...",
+      "segment": 3,
+      "timestamp": 328.16
+    },
+    {
+      "title": "Detergent Conjugation Decouples Chlorpromazine Solubility from Antibacterial Activity against Bacteria Relevant for Gut Microbiota.",
+      "url": "https://doi.org/10.1021/acs.bioconjchem.6c00016",
+      "source": "PubMed — Bioconjugate chemistry",
+      "one_liner": "The water solubility of hydrophobic amine drugs is pivotal for oral bioavailability and routinely secured by hydrochloride salt formation. In the case of the antipsychotic chlorpromazine, this approach yields a cationic amphiphile with antibacterial potency, which correlates with alterations in gut microbiota. It remains to be clarified whether a covalent...",
+      "segment": 4,
+      "timestamp": 376.42
+    },
+    {
+      "title": "Klebsiella pneumoniae LPS drives stromal-mediated repression of p53 and colorectal cancer chemoresistance.",
+      "url": "https://doi.org/10.1038/s41419-026-08756-4",
+      "source": "PubMed — Cell death & disease",
+      "one_liner": "The gut bacterial microbiota is increasingly recognized as a key modulator of colorectal cancer (CRC) initiation, progression and response to therapy. However, the mechanisms by which bacteria influence the response to anticancer drugs remain poorly understood. Here, we investigate the effects of microbiota-driven signaling on the tumor suppressor p53 and...",
+      "segment": 5,
+      "timestamp": 425.43
+    },
+    {
+      "title": "Global research on the crosstalk between microbiota - intratumoral microorganisms and liver cancer: a visualization analysis.",
+      "url": "https://doi.org/10.1186/s13027-026-00750-x",
+      "source": "PubMed — Infectious agents and cancer",
+      "one_liner": "",
+      "segment": 6,
+      "timestamp": 567.1
+    },
+    {
+      "title": "Dietary (poly)phenols, the gut-brain axis, and menopause: a perspective on an overlooked biological crossroad.",
+      "url": "https://doi.org/10.1039/d6fo00429f",
+      "source": "PubMed — Food & function",
+      "one_liner": "Hormonal decline, chronic low-grade inflammation, metabolic alterations and polypharmacy shape the postmenopausal period. These factors remodel the gut microbiota and influence the production of microbial metabolites that modulate immune, endocrine, and neural communication. The gut-brain axis provides a framework for understanding how microbial activity ...",
+      "segment": 7,
+      "timestamp": 713.8
+    },
+    {
+      "title": "A synthetic microbial community for soybean biofertilization designed via chlorophyll-based iterative selection.",
+      "url": "https://doi.org/10.1128/aem.02548-25",
+      "source": "PubMed — Applied and environmental microbiology",
+      "one_liner": "Improving the effectiveness of microbial inoculants for soybean is essential to enhance biological nitrogen fixation and reduce fertilizer dependence; however, inoculated",
+      "segment": 8,
+      "timestamp": 761.1
+    },
+    {
+      "title": "DiscoVir: an automated, web-based pipeline for viral metagenomics.",
+      "url": "https://doi.org/10.1128/mra.00085-26",
+      "source": "PubMed — Microbiology resource announcements",
+      "one_liner": "DiscoVir is an automated pipeline for viral metagenomics available in National Institute of Allergy and Infectious Diseases (NIAID)'s free web application for microbiome analysis, Nephele. DiscoVir makes viral discovery, taxonomic and functional annotation, host predictions, and diversity analyses of the virome easily accessible to researchers at all leve...",
+      "segment": 9,
+      "timestamp": 811.76
+    }
+  ]
+}
