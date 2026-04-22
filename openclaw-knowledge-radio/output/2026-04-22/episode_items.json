@@ -1,0 +1,366 @@
+{
+  "timestamps": [
+    0.0,
+    132.96,
+    275.78,
+    321.3,
+    368.7,
+    414.94,
+    463.44,
+    606.93,
+    650.73,
+    692.24,
+    818.34,
+    963.03,
+    1082.02,
+    1204.6,
+    1334.56,
+    1493.32,
+    1666.26,
+    1807.37,
+    1961.86,
+    2079.79,
+    2129.08,
+    2160.92,
+    2218.52,
+    2262.92,
+    2307.26,
+    2359.1,
+    2399.49,
+    2449.19,
+    2502.22,
+    2541.34,
+    2592.17,
+    2759.06,
+    2869.53,
+    2930.87,
+    2978.38,
+    3033.72,
+    3220.66,
+    3402.91,
+    3548.01,
+    3673.64
+  ],
+  "items": [
+    {
+      "title": "Microbiome signature of Parkinson's disease in healthy and genetically at-risk individuals.",
+      "url": "https://doi.org/10.1038/s41591-026-04318-5",
+      "source": "PubMed — Nature medicine",
+      "one_liner": "Parkinson's disease (PD) is a major cause of disability. GBA1 variants are the most common genetic risk factor for PD and increase the risk up to 30-fold. Why only approximately 20% of GBA1 variant carriers develop PD remains unknown. Here, by combining clinical and fecal metagenomics data from 271 patients with PD, from 43 carriers of GBA1 variants not m...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Navigating multi-omic integration methods for human microbiome research.",
+      "url": "https://doi.org/10.1038/s41564-026-02328-0",
+      "source": "PubMed — Nature microbiology",
+      "one_liner": "Multi-omic studies in human microbiome research hold great potential for advancing our understanding of host-microbiome interactions. However, despite the growing availability of multi-omic datasets, analysing such data remains a major conceptual, analytical and computational challenge. Introduction of new multi-omic integration methods to address these c...",
+      "segment": 1,
+      "timestamp": 132.96
+    },
+    {
+      "title": "Distinct signatures in the human gut and oral microbiomes of gastric cancer.",
+      "url": "https://doi.org/10.1016/j.xcrm.2026.102761",
+      "source": "PubMed — Cell reports. Medicine",
+      "one_liner": "Microbiome dysbiosis is increasingly recognized as a hallmark of gastric cancer (GC). Here, we analyzed gut and oral shotgun metagenomic data from 317 individuals across two independent cohorts, with validation in a Harbin cohort. We identify 20 oral-gut shared species enriched in the gut of GC, predominantly lactic acid bacteria (LAB). While most gut mic...",
+      "segment": 2,
+      "timestamp": 275.78
+    },
+    {
+      "title": "The naked mole-rat microbiome is associated with healthy aging and social structure.",
+      "url": "https://doi.org/10.1016/j.celrep.2026.117265",
+      "source": "PubMed — Cell reports",
+      "one_liner": "The naked mole-rat (NMR), Heterocephalus glaber, is an unusual mammal that lives underground in eusocial colonies. NMRs show remarkable longevity and are resistant to cancer, neurodegeneration, and cardiovascular disease. The gut microbiome is known to modulate human health and disease; here, we investigate the microbiome of NMRs, comparing fecal samples ...",
+      "segment": 3,
+      "timestamp": 321.3
+    },
+    {
+      "title": "Sex-biased intratumoral microbiome influences tumor molecular and immune landscape and disease outcomes.",
+      "url": "https://doi.org/10.1016/j.xcrm.2026.102757",
+      "source": "PubMed — Cell reports. Medicine",
+      "one_liner": "The intratumoral microbiome is increasingly recognized as a regulator of cancer biology, yet sex-specific patterns and their relevance to cancer disparities remain poorly understood. We perform a multi-kingdom analysis of more than 5,000 tumors from seven datasets to identify sex-differential microbial taxa across aerodigestive and gastrointestinal cancer...",
+      "segment": 4,
+      "timestamp": 368.7
+    },
+    {
+      "title": "Gut microbiota-derived ergothioneine alleviates antipsychotic-induced synaptic and cognitive impairments.",
+      "url": "https://doi.org/10.1016/j.chom.2026.03.020",
+      "source": "PubMed — Cell host & microbe",
+      "one_liner": "Chronic antipsychotic use is associated with neuronal damage and cognitive impairment, with the gut microbiome increasingly implicated. However, the specific microbial metabolites and mechanisms involved remain unknown. Here, we demonstrate that chronic olanzapine treatment induces gut microbial dysbiosis, compromises intestinal barrier integrity, and cau...",
+      "segment": 5,
+      "timestamp": 414.94
+    },
+    {
+      "title": "Habitual coffee intake shapes the gut microbiome and modifies host physiology and cognition.",
+      "url": "https://doi.org/10.1038/s41467-026-71264-8",
+      "source": "PubMed — Nature communications",
+      "one_liner": "Coffee influences multiple physiological processes, including gut function, stress, cognition, and the microbiome. However, the mechanisms underlying these effects remain poorly understood. In this study, we examined coffee's impact on the microbiota-gut-brain axis-a bidirectional communication pathway between the gut microbiome and the brain-and assessed...",
+      "segment": 6,
+      "timestamp": 463.44
+    },
+    {
+      "title": "Exercise intensity as a modulator of gut microbiota and host metabolic health in obesity.",
+      "url": "https://doi.org/10.1080/19490976.2026.2661415",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "The gut microbiome is shaped by complex interactions among host, environmental, and lifestyle factors, with exercise emerging as a reported modulator. Growing evidence suggests that exercise intensity, ranging from low to high, can differentially influence gut microbial composition, diversity, and functional outputs relevant to metabolic health. This narr...",
+      "segment": 7,
+      "timestamp": 606.93
+    },
+    {
+      "title": "Identifying candidate gut microbiota indicators for Alzheimer's disease through integrated data.",
+      "url": "https://doi.org/10.1128/msystems.01754-25",
+      "source": "PubMed — mSystems",
+      "one_liner": "UNLABELLED: Alzheimer's disease (AD) is associated with the gut microbiota, and identifying reliable gut microbiota biomarkers enhances AD diagnosis. We aim to characterize the gut microbiota in AD patients by integrating data from multiple populations and identifying key candidate gut microbiota indicators with diagnostic value for AD. Public data from s...",
+      "segment": 8,
+      "timestamp": 650.73
+    },
+    {
+      "title": "Considerations for the design of impactful citizen-science projects in microbiome research.",
+      "url": "https://doi.org/10.1038/s41596-026-01346-w",
+      "source": "PubMed — Nature protocols",
+      "one_liner": "Citizen science offers a transformative approach to microbiome research. It allows the collection of rich, context-specific data from diverse sources, such as varying human populations and environments. Here, we describe guidelines that cover the design and implementation of community-engaged citizen-science projects focused on microbiome research. We out...",
+      "segment": 9,
+      "timestamp": 692.24
+    },
+    {
+      "title": "Microbiome modulating remedies for chronic diseases: a review of current interventions and future directions.",
+      "url": "https://doi.org/10.1007/s10787-026-02187-5",
+      "source": "PubMed — Inflammopharmacology",
+      "one_liner": "",
+      "segment": 10,
+      "timestamp": 818.34
+    },
+    {
+      "title": "A case-series of oral acetate supplementation for gut microbiota alteration and metabolic improvement in patients with affective disorders on psychotropics.",
+      "url": "https://doi.org/10.1038/s41398-026-04046-x",
+      "source": "PubMed — Translational psychiatry",
+      "one_liner": "Mental illnesses affect one in five Canadians and often require psychotropic medications. While effective, many psychotropic medications can cause weight gain and metabolic side effects. The gut microbiota, influenced by short-chain fatty acids like acetate, plays a role in mental health via the gut-brain axis and may be disrupted as a result of medicatio...",
+      "segment": 11,
+      "timestamp": 963.03
+    },
+    {
+      "title": "Gut microbiota induces dysspermatogenesis via microbial-derived phenylacetylglycine in Ggt1-deficient mice.",
+      "url": "https://doi.org/10.1186/s40168-026-02401-0",
+      "source": "PubMed — Microbiome",
+      "one_liner": "BACKGROUND: Male infertility represents a global health concern, with emerging evidence linking gut microbiota dysbiosis to dysspermatogenesis and subfertility. However, the molecular mediators and regulatory mechanisms by which gut microbiota influences testicular functions remain poorly defined. RESULTS: This study demonstrates that male gamma-glutamyl ...",
+      "segment": 12,
+      "timestamp": 1082.02
+    },
+    {
+      "title": "Gut microbiota as potential mediator linking dietary preferences and aging phenotypes.",
+      "url": "https://doi.org/10.1007/s10522-026-10437-w",
+      "source": "PubMed — Biogerontology",
+      "one_liner": "Aging is a complex process influenced by various factors, including gut microbiota and food likings. Focusing on gut and dietary health is a crucial strategy for promoting long-term health and active aging. This study investigates the reciprocal causal relationships between gut microbiota, food likings and aging using Mendelian Randomization (MR) approach...",
+      "segment": 13,
+      "timestamp": 1204.6
+    },
+    {
+      "title": "A Wolbachia lineage likely representing a new supergroup (Y) dominates the microbiome of the quill mite Syringophilus bipectinatus Heller, 1880 (Acariformes: Syringophilidae).",
+      "url": "https://doi.org/10.1038/s41598-026-48644-7",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "The microbiome plays a key role in animal biology, including host reproduction. Quill mites (Acariformes: Syringophilidae) are understudied ectoparasites of birds, with many species exhibiting strongly female-biased sex ratios. Previous studies have identified unique strains of Wolbachia and Spiroplasma in quill mites, both known to manipulate host reprod...",
+      "segment": 14,
+      "timestamp": 1334.56
+    },
+    {
+      "title": "Secoisolariciresinol diglucoside resolves systemic and skin inflammation in psoriatic mice by ameliorating the gut microbiome and modulating immune responses.",
+      "url": "https://doi.org/10.1039/d5fo04965b",
+      "source": "PubMed — Food & function",
+      "one_liner": "Psoriasis is a chronic inflammatory skin disease that often imposes enormous psychological impact on the patient, potentially leading to psychiatric comorbidities or even suicidality. The currently available treatments do not always provide satisfactory results. Our previous work demonstrates that secoisolariciresinol diglucoside (SDG) has potent anti-inf...",
+      "segment": 15,
+      "timestamp": 1493.32
+    },
+    {
+      "title": "The role of gut microbiota in shaping and modulating dietary preferences in neurological diseases: implications for microbiota-targeted interventions.",
+      "url": "https://doi.org/10.1039/d5fo02826d",
+      "source": "PubMed — Food & function",
+      "one_liner": "A high percentage of patients with neurological diseases have significant dietary preference abnormalities (such as picky eating and texture sensitivity). Studies show Gut Microbiota (GM) mediates dietary preferences",
+      "segment": 16,
+      "timestamp": 1666.26
+    },
+    {
+      "title": "Investigating the impact of astaxanthin yogurt on gut microbiota and microbiota-mediated astaxanthin conversion using the SHIME® model.",
+      "url": "https://doi.org/10.1039/d5fo04878h",
+      "source": "PubMed — Food & function",
+      "one_liner": "The aim of this research was to evaluate the effect of astaxanthin yogurt on the gut microbiota using the Simulator of Human Intestinal Microbial Ecosystem (SHIME®) in a long-term experiment. Astaxanthin yogurt treatment increased beneficial bacteria, including",
+      "segment": 17,
+      "timestamp": 1807.37
+    },
+    {
+      "title": "Distinct early-life gut microbiota patterns across SGA, AGA, and LGA infants.",
+      "url": "https://doi.org/10.1007/s00431-026-06903-9",
+      "source": "PubMed — European journal of pediatrics",
+      "one_liner": "UNLABELLED: Birthweight-for-gestational-age influences neonatal physiology and health, yet its role in shaping early gut microbiome development remains insufficiently defined. Small-for-gestational-age (SGA), appropriate-for-gestational-age (AGA), and large-for-gestational-age (LGA) infants may exhibit distinct microbial maturation patterns that could inf...",
+      "segment": 18,
+      "timestamp": 1961.86
+    },
+    {
+      "title": "Microbiome Modulation with",
+      "url": "https://doi.org/10.4014/jmb.2601.01007",
+      "source": "PubMed — Journal of microbiology and biotechnology",
+      "one_liner": "Gemcitabine (GEM) resistance remains a major challenge in the treatment of gallbladder cancer (GBC). This study investigated the synergistic effect of curcumin (CUR) combined with the probiotic",
+      "segment": 19,
+      "timestamp": 2079.79
+    },
+    {
+      "title": "A microbiome-derived olfactory signal regulates inter-male aggression and social dominance in mice.",
+      "url": "https://doi.org/10.1016/j.cub.2026.03.009",
+      "source": "PubMed — Current biology : CB",
+      "one_liner": "Many species use microbiome-derived metabolites as chemosensory cues, yet the chemicals involved and the sensory pathways that detect and process them remain poorly understood. Trimethylamine (TMA) is a volatile metabolite that is produced by the gut microbiome and selectively accumulated in the urine of sexually mature male mice. Here, we show that TMA r...",
+      "segment": 20,
+      "timestamp": 2129.08
+    },
+    {
+      "title": "ALDH2 deficiency increases susceptibility to acetaminophen-induced liver injury through gut microbiota dysbiosis and altered bile acid metabolism.",
+      "url": "https://doi.org/10.1016/j.taap.2026.117829",
+      "source": "PubMed — Toxicology and applied pharmacology",
+      "one_liner": "Acetaminophen (APAP) overdose is a leading cause of acute liver injury (ALI), largely driven by mitochondrial dysfunction and oxidative stress. Mitochondrial aldehyde dehydrogenase-2 (ALDH2) detoxifies lipid peroxidation-derived reactive aldehydes; however, its role in APAP-induced hepatotoxicity, particularly in light of the high prevalence of ALDH2 defi...",
+      "segment": 21,
+      "timestamp": 2160.92
+    },
+    {
+      "title": "Spleen metabolomics coupled with gut microbiome analysis to elucidate the immunomodulatory mechanisms of longan polysaccharides against cyclophosphamide-induced immunosuppression in mice.",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2026.152109",
+      "source": "PubMed — International journal of biological macromolecules",
+      "one_liner": "Longan polysaccharide (LP) has exhibited excellent immunomodulatory activities by modifying gut microbiota but the specific regulatory mechanism remains unclear. Therefore, spleen metabolomics and metagenomic sequencing of gut microbiota were combined to investigate the immunomodulatory mechanism of LP in cyclophosphamide (CPA)-induced immunosuppressed mi...",
+      "segment": 22,
+      "timestamp": 2218.52
+    },
+    {
+      "title": "Human Gut Microbiome Can Degrade the Sweetener Acesulfame K with Potential Damaging Effects in the Intestinal Barrier Function.",
+      "url": "https://doi.org/10.1021/acs.jafc.5c16498",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "Acesulfame K (Ace-K) is a commonly consumed sweetener, although knowledge about the Ace-K-gut microbiota interaction remains limited. This study evaluates dose-dependent effects of Ace-K on metataxonomics, metagenomics, and metabolic activity of children gut microbiota developed in a dynamic gut simulator. An Ace-K-dose dependent increase in",
+      "segment": 23,
+      "timestamp": 2262.92
+    },
+    {
+      "title": "Phytochemicals in MASLD: A Focused Review of Gut Microbiome-Linked Mechanisms.",
+      "url": "https://doi.org/10.1002/ptr.70352",
+      "source": "PubMed — Phytotherapy research : PTR",
+      "one_liner": "Metabolic dysfunction-associated steatotic liver disease (MASLD) has emerged as a major global health burden, yet effective pharmacological options remain limited. Recent advances highlight the gut microbiome as a key modulator of liver metabolism, inflammation, and fibrosis, making it a promising therapeutic target. Among various non-pharmacologic strate...",
+      "segment": 24,
+      "timestamp": 2307.26
+    },
+    {
+      "title": "Pre-existing Gut Microbiome Dysbiosis Exacerbates Neuroinflammation and Vasospasm After Subarachnoid Hemorrhage in Mice.",
+      "url": "https://doi.org/10.1227/neu.0000000000004035",
+      "source": "PubMed — Neurosurgery",
+      "one_liner": "BACKGROUND AND OBJECTIVES: Delayed cerebral ischemia remains a major determinant of poor outcomes after aneurysmal subarachnoid hemorrhage (SAH), yet effective preventive strategies are limited. The gut-brain axis has emerged as an important modulator of post-SAH neuroinflammation and vascular dysfunction. We hypothesized that pre-existing gut microbiome ...",
+      "segment": 25,
+      "timestamp": 2359.1
+    },
+    {
+      "title": "Incremental value of a gut microbiome score (M-score) for predicting stroke-associated pneumonia beyond the clinical A2DS2 score: A nested case-control study.",
+      "url": "https://doi.org/10.1556/030.2026.02907",
+      "source": "PubMed — Acta microbiologica et immunologica Hungarica",
+      "one_liner": "Stroke-associated pneumonia (SAP) is a major complication of acute ischemic stroke. The brain-gut-lung axis suggests that post-stroke gut dysbiosis may offer independent risk information beyond clinical scores like A2DS2. The aim of this study was to evaluate the incremental predictive value of early post-stroke gut microbiome biomarkers for SAP and to co...",
+      "segment": 26,
+      "timestamp": 2399.49
+    },
+    {
+      "title": "Multi-Omics Analysis Reveals Coordinated Adaptations in Genes, Metabolism, and Gut Microbiota Underpinning Herbivory in Lordiphosa Flies.",
+      "url": "https://doi.org/10.1111/1749-4877.70110",
+      "source": "PubMed — Integrative zoology",
+      "one_liner": "Herbivorous insects are among the most ecologically successful animal groups. However, the adaptive mechanisms that allow them to exploit plant hosts, which are often nutrient-poor (low in simple sugars, high in structural carbohydrates) and defended by toxic secondary metabolites, are not fully resolved. Here, we investigated the evolutionary basis of he...",
+      "segment": 27,
+      "timestamp": 2449.19
+    },
+    {
+      "title": "Causal effects of gut microbiota on schizophrenia: deciphering profiles mediated by cerebrospinal fluid metabolites in the gut-brain axis.",
+      "url": "https://doi.org/10.1080/15622975.2026.2658098",
+      "source": "PubMed — The world journal of biological psychiatry : the official journal of the World Federation of Societies of Biological Psychiatry",
+      "one_liner": "BACKGROUND: Schizophrenia is a severe mental disorder, with growing studies indicating that the \"gutbrain axis\" may play a vital role in its pathophysiology. This study applied the bidirectional two-sample Mendelian randomisation (MR) analysis to systematically assess the causal relationships among gut microbiota, cerebrospinal fluid (CSF) metabolites, an...",
+      "segment": 28,
+      "timestamp": 2502.22
+    },
+    {
+      "title": "Metabolic reprogramming of the infant gut by bifidobacteria-based probiotics drives exclusion of antibiotic-resistant pathobionts.",
+      "url": "https://doi.org/10.1016/j.xcrm.2026.102752",
+      "source": "PubMed — Cell reports. Medicine",
+      "one_liner": "Early-life probiotics that strengthen gut resilience in infants are a promising strategy to combat the global emergency of antibiotic resistance. Still, their effects on antibiotic-resistant opportunistic pathogens, i.e., pathobionts, remain unclear. We evaluate the effects of probiotic supplementation in 152 full-term Tanzanian infants enrolled in the Pr...",
+      "segment": 29,
+      "timestamp": 2541.34
+    },
+    {
+      "title": "Benchmarking of shotgun sequencing depth reveals the potential and limitations of shallow metagenomics and strain-level analysis.",
+      "url": "https://doi.org/10.1038/s41564-026-02334-2",
+      "source": "PubMed — Nature microbiology",
+      "one_liner": "Shotgun metagenomics can provide both taxonomic and functional insights, but benchmarking is necessary to determine the sequencing depth appropriate for specific analyses. Here we used complex mixtures of DNA from cultured bacteria and analysed taxonomic composition, strain-level resolution and functional profiles at up to 11 sequencing depths (0.1-50.0 G...",
+      "segment": 30,
+      "timestamp": 2592.17
+    },
+    {
+      "title": "Construction of an engineered Escherichia coli strain with enhanced intestinal colonization and anti-inflammatory efficacy in colitis.",
+      "url": "https://doi.org/10.1038/s41423-026-01415-w",
+      "source": "PubMed — Cellular & molecular immunology",
+      "one_liner": "Engineered probiotics are considered effective and safe therapeutic strategies for the treatment of various diseases. Escherichia coli Nissle 1917 (EcN) has been widely used as a chassis strain because of its safety and well-established genetic manipulation system. However, the limited intestinal colonization ability of EcN limits its potential as a chass...",
+      "segment": 31,
+      "timestamp": 2759.06
+    },
+    {
+      "title": "A 15-layer multi-omics analysis of gastric cancer ecotypes provides therapeutic insights.",
+      "url": "https://doi.org/10.1016/j.xcrm.2026.102756",
+      "source": "PubMed — Cell reports. Medicine",
+      "one_liner": "Gastric cancer is marked by profound molecular and microenvironmental heterogeneity that limits therapeutic progress. Here, we present a 15-layer multi-omics atlas that integrates genomics, epigenomics, transcriptomics, proteomics, multiple post-translational modifications (PTMs), protein-protein interactions, metabolomics, and microbiome profiles from 15...",
+      "segment": 32,
+      "timestamp": 2869.53
+    },
+    {
+      "title": "The intestinal microbiota impacts nutritional immunity and resistance to",
+      "url": "https://doi.org/10.1073/pnas.2534432123",
+      "source": "PubMed — Proceedings of the National Academy of Sciences of the United States of America",
+      "one_liner": "Broad-spectrum antibiotics are frequently administered to intensive care unit patients as part of empiric care. This treatment has been associated with subsequent infections by the emerging nosocomial pathogen",
+      "segment": 33,
+      "timestamp": 2930.87
+    },
+    {
+      "title": "The Role of Vitamin B6 and Folate-Related Pathways Involved in Gut Microbial Composition in the Development of Preeclampsia: Metabolome-Wide Mendelian Randomization Analysis.",
+      "url": "https://doi.org/10.1002/hsr2.72314",
+      "source": "PubMed — Health science reports",
+      "one_liner": "BACKGROUND AND AIMS: Preeclampsia is a pregnancy-related hypertensive disorder affecting about 3%-5% of pregnancies worldwide. Recent traditional observational studies have suggested that the gut microbiota was related to preeclampsia. Some Mendelian randomization (MR) studies have examined the link between gut microbiota and preeclampsia using genetic va...",
+      "segment": 34,
+      "timestamp": 2978.38
+    },
+    {
+      "title": "Enhancing inference of differential gene expression in metatranscriptomes from human microbial communities.",
+      "url": "https://doi.org/10.1038/s41467-026-71871-5",
+      "source": "PubMed — Nature communications",
+      "one_liner": "Metatranscriptomic (MTX) sequencing quantifies gene expression from the collective genomes of microbial communities (microbiomes), enabling assessment of functional activity rather than functional potential. While differential expression testing is essential for RNA-sequencing analysis, current metatranscriptomic approaches have only been benchmarked on s...",
+      "segment": 35,
+      "timestamp": 3033.72
+    },
+    {
+      "title": "The microbial metabolome: remodeling the therapeutic landscape in hematologic malignancies.",
+      "url": "https://doi.org/10.1038/s41522-026-00972-2",
+      "source": "PubMed — NPJ biofilms and microbiomes",
+      "one_liner": "The gut microbiome's metabolome critically shapes drug efficacy and toxicity in hematologic malignancies. This review explores how microbial metabolites influence chemotherapy, immunotherapy, and transplant outcomes, and how they can be harnessed as biomarkers and therapeutic targets. Moving from association to intervention, we outline a pathway toward me...",
+      "segment": 36,
+      "timestamp": 3220.66
+    },
+    {
+      "title": "Tumor-resident bacteria in gastrointestinal cancers: from regulatory mechanisms to clinical implications.",
+      "url": "https://doi.org/10.20892/j.issn.2095-3941.2025.0686",
+      "source": "PubMed — Cancer biology & medicine",
+      "one_liner": "The human microbiome is increasingly recognized as a key contributor to the tumor microenvironment (TME). Advances in sequencing technologies have revealed the pivotal role of intratumoral microbiota in the development of gastrointestinal cancers. This review summarizes current knowledge on the characteristics and functional mechanisms of tumor-resident b...",
+      "segment": 37,
+      "timestamp": 3402.91
+    },
+    {
+      "title": "Gut site and sex-specific enrichment of bacterial taxa and predicted metabolic pathways in wild American black bear (Ursus americanus).",
+      "url": "https://doi.org/10.1371/journal.pone.0345317",
+      "source": "PubMed — PloS one",
+      "one_liner": "American black bears' (Ursus americanus) omnivorous feeding strategy, simple gut morphology, and rapid transit time prevent regulation of the gut microbiome (GMB). We analyzed stable isotopes and 16S rRNA sequences from 48 wild bears to assess the impacts of diet, age, gut site, and sex on GMB composition and PICRUSt2-predicted functional pathways. While ...",
+      "segment": 38,
+      "timestamp": 3548.01
+    },
+    {
+      "title": "From diet to hypothalamic dysfunction: Neuroanatomical and hormonal integration of the microbiota-hypothalamus-adipose tissue axis.",
+      "url": "https://doi.org/10.1007/s11154-026-10038-5",
+      "source": "PubMed — Reviews in endocrine & metabolic disorders",
+      "one_liner": "",
+      "segment": 39,
+      "timestamp": 3673.64
+    }
+  ]
+}

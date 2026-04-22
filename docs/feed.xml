@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Apr 2026 05:29:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 05:31:59 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-04-22</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-22/podcast_2026-04-22.mp3</guid>
+      <pubDate>Wed, 22 Apr 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-22/podcast_2026-04-22.mp3" length="28518572" type="audio/mpeg" />
+      <description>Parkinson&#x27;s disease is a major cause of disability, and while GBA1 variants are the most common genetic risk factor, increasing risk up to 30-fold, only about 20% of carriers actually develop the disease. | The team found that PD patients had a distinct gut microbiome profile compared to both healthy controls and GBA1 carriers without disease. | To test causality, the researchers colonized germ-free mice with fecal samples from either PD patients or healthy controls.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Parkinson&#x27;s disease is a major cause of disability, and while GBA1 variants are the most common genetic risk factor, increasing risk up to 30-fold, only about 20% of carriers actually develop the disease. | The team found that PD patients had a distinct gut microbiome profile compared to both healthy controls and GBA1 carriers without disease. | To test causality, the researchers colonized germ-free mice with fecal samples from either PD patients or healthy controls.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-04-21</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-21/podcast_2026-04-21.mp3</guid>
       <pubDate>Tue, 21 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-21/podcast_2026-04-21.mp3" length="6494300" type="audio/mpeg" />
-      <description>A new study in Gut Microbes reveals that changes in the gut microbiome over time are linked to both treatment outcomes and side effects in patients receiving ibrutinib, a targeted therapy for blood cancers. | The gut microbiome is increasingly recognized as a key player in Alzheimer&#x27;s disease, but most studies have looked at it in isolation. | APOE is best known for its role in lipid metabolism and cardiovascular health, but certain variants, particularly APOE4, are strongly linked to higher Alzheimer&#x27;s risk.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-21/podcast_2026-04-21.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>A new study in Gut Microbes reveals that changes in the gut microbiome over time are linked to both treatment outcomes and side effects in patients receiving ibrutinib, a targeted therapy for blood cancers. | The gut microbiome is increasingly recognized as a key player in Alzheimer&#x27;s disease, but most studies have looked at it in isolation. | APOE is best known for its role in lipid metabolism and cardiovascular health, but certain variants, particularly APOE4, are strongly linked to higher Alzheimer&#x27;s risk.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>

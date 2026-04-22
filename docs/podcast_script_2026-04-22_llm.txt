@@ -1,0 +1,378 @@
+Parkinson's disease is a major cause of disability, and while GBA1 variants are the most common genetic risk factor, increasing risk up to 30-fold, only about 20% of carriers actually develop the disease. That gap has been a mystery—until now. A new study in Nature Medicine combined clinical and fecal metagenomics data from 271 PD patients and 43 GBA1 variant carriers without PD, alongside 213 healthy controls, to uncover a microbiome signature that may explain why some carriers stay healthy while others don't.
+
+The team found that PD patients had a distinct gut microbiome profile compared to both healthy controls and GBA1 carriers without disease. Specifically, they identified 31 microbial species whose abundance differed significantly in PD. Some of these species were already known to be altered in PD, but the novelty here is that the same signature appeared in GBA1 carriers—even those who hadn't yet developed symptoms. That suggests the microbiome shift isn't just a consequence of disease, but potentially a contributing factor.
+
+To test causality, the researchers colonized germ-free mice with fecal samples from either PD patients or healthy controls. Mice receiving PD-associated microbiota showed motor deficits and alpha-synuclein aggregation in the brain—hallmarks of PD—while control-microbiota mice did not. This provides strong evidence that the microbiome changes can drive disease-relevant pathology.
+
+The study also identified specific microbial pathways enriched in PD, including those involved in short-chain fatty acid production and neuroinflammation. Some of these pathways were already altered in presymptomatic GBA1 carriers, hinting at a window for early intervention.
+
+Why this matters: If a microbial signature can predict who among genetically at-risk individuals will progress to disease, it opens the door to microbiome-based screening and therapies. The fact that the signature appears before symptoms suggests we might one day prevent PD in high-risk groups by modulating the gut microbiome—turning a genetic curse into a treatable risk.
+
+[[TRANSITION]]
+
+Multi-omic studies in human microbiome research hold great potential for advancing our understanding of host-microbiome interactions. However, despite the growing availability of multi-omic datasets, analyzing such data remains a major conceptual, analytical, and computational challenge. The introduction of new multi-omic integration methods to address these challenges has been rapid, but the field lacks clear guidance on how to choose the right approach for a given research question.
+
+The core issue is that microbiome data comes in many forms—metagenomics, metatranscriptomics, metabolomics, proteomics—each with its own structure, scale, and noise characteristics. Integrating these layers meaningfully requires methods that can handle high dimensionality, sparsity, and the complex relationships between microbial communities and host biology. Many existing tools were developed for other fields and adapted to microbiome research, which can lead to suboptimal performance or misinterpretation of results.
+
+What makes this particularly challenging is that different integration strategies—such as concatenation, concatenation with dimension reduction, network-based approaches, or Bayesian frameworks—make different assumptions about the data and the underlying biology. For example, some methods assume linear relationships between omics layers, while others can capture non-linear interactions. Some are designed for hypothesis generation, others for testing specific biological hypotheses. The choice of method can therefore significantly influence the conclusions drawn from a study.
+
+The available text does not provide details on specific methods or their comparative performance. It also does not mention computational requirements, software availability, or validation strategies. However, it emphasizes that without careful consideration of the research question, data characteristics, and method assumptions, multi-omic integration can lead to misleading or incomplete insights.
+
+In summary, while multi-omic integration offers a powerful lens for understanding host-microbiome interactions, the field needs better frameworks for method selection and validation. Researchers must balance the promise of comprehensive data integration with the practical realities of analytical complexity and biological interpretability.
+
+[[TRANSITION]]
+
+Researchers have uncovered distinct microbial signatures in both the gut and oral microbiomes of gastric cancer patients. Analyzing shotgun metagenomic data from 317 individuals across two independent cohorts, with validation in a Harbin cohort, the study identified 20 oral-gut shared species enriched in the gut of gastric cancer patients, predominantly lactic acid bacteria. This work highlights how microbiome dysbiosis is increasingly recognized as a hallmark of gastric cancer. The findings suggest that certain oral bacteria may translocate to the gut and contribute to gastric cancer development, opening new avenues for early detection and potential therapeutic interventions targeting the microbiome.
+
+[[TRANSITION]]
+
+Naked mole-rats are among the longest-lived rodents and remarkably resistant to cancer, neurodegeneration, and cardiovascular disease. A new study in Cell Reports reveals that their gut microbiome is closely tied to both their exceptional healthspan and their unique social structure. Researchers compared fecal samples from NMRs living in eusocial colonies and found distinct microbial signatures linked to age and social role. These findings suggest the microbiome may play a key role in supporting the species' extraordinary longevity and disease resistance. The work opens new avenues for understanding how microbial communities influence aging and health, potentially offering insights for human medicine. Source: Cell Reports.
+
+[[TRANSITION]]
+
+A new study in Cell Reports Medicine reveals that the microbes living inside tumors differ between men and women, and these differences can influence cancer outcomes. Analyzing over 5,000 tumors from seven datasets, researchers found sex-specific patterns in the intratumoral microbiome across aerodigestive and gastrointestinal cancers. These microbial differences were linked to variations in tumor molecular profiles and immune responses, suggesting that the tumor microbiome may contribute to sex disparities in cancer biology. The findings highlight the importance of considering sex as a biological variable in microbiome research and could open new avenues for personalized cancer therapies that account for these microbial differences.
+
+[[TRANSITION]]
+
+A new study in Cell Host & Microbe reveals that gut microbiota-derived ergothioneine may protect against cognitive and synaptic damage caused by chronic antipsychotic use. Researchers found that long-term olanzapine treatment disrupts gut microbial balance, weakens intestinal barriers, and triggers neuroinflammation, leading to memory and learning deficits. Crucially, they identified ergothioneine—a metabolite produced by certain gut bacteria—as a key protective factor. Supplementing this compound reversed the synaptic and cognitive impairments in animal models. The findings suggest that targeting the gut-brain axis with specific microbial metabolites could offer a novel strategy to mitigate the neurological side effects of antipsychotic medications.
+
+[[TRANSITION]]
+
+Coffee is one of the most widely consumed beverages worldwide, but its effects on the body extend far beyond a simple caffeine boost. A new study published in Nature Communications investigates how habitual coffee intake shapes the gut microbiome and modifies host physiology and cognition. The researchers focused on the microbiota-gut-brain axis, a bidirectional communication pathway between the gut microbiome and the brain, to uncover the mechanisms behind coffee's broad physiological impacts.
+
+The study found that regular coffee consumption significantly alters the composition and function of the gut microbiome. Specifically, coffee intake was associated with increased abundance of beneficial bacteria, such as Bifidobacterium and Lactobacillus species, which are known to support gut health and immune function. These microbial changes were linked to improvements in gut barrier integrity and reduced inflammation, suggesting that coffee may help protect against gut-related disorders.
+
+Beyond the gut, the researchers observed that habitual coffee drinkers exhibited enhanced cognitive performance, particularly in tasks requiring attention and memory. This cognitive boost was correlated with changes in the gut microbiome, indicating that the microbiota-gut-brain axis plays a key role in mediating coffee's effects on the brain. The study also noted that coffee consumption was associated with reduced levels of stress hormones, such as cortisol, further supporting its potential benefits for mental well-being.
+
+The mechanisms underlying these effects appear to involve bioactive compounds in coffee, such as polyphenols and melanoidins, which can modulate microbial metabolism and influence host physiology. For example, coffee-derived metabolites produced by gut bacteria were found to cross the blood-brain barrier and interact with neural pathways involved in cognition and mood regulation.
+
+While the study provides compelling evidence for coffee's role in shaping the gut microbiome and influencing host physiology, it also highlights the need for further research to fully understand the long-term implications of habitual coffee intake. The findings suggest that coffee may be more than just a stimulant—it could be a valuable tool for promoting gut health, cognitive function, and overall well-being. As the authors note, "Coffee's impact on the microbiota-gut-brain axis underscores its potential as a functional food with far-reaching health benefits."
+
+[[TRANSITION]]
+
+Exercise intensity may be a key lever for shaping gut microbiota and improving metabolic health in obesity, according to a new review in Gut Microbes. The analysis highlights that low-to-moderate exercise can boost microbial diversity and beneficial bacteria linked to better glucose control and reduced inflammation, while high-intensity workouts may trigger stress responses that temporarily disrupt the microbiome. These intensity-dependent effects suggest that tailoring exercise regimens could optimize gut health and metabolic outcomes for people with obesity. The review calls for more targeted studies to pinpoint the ideal intensity thresholds and exercise types for maximizing microbiome benefits.
+
+[[TRANSITION]]
+
+Researchers have identified potential gut microbiota biomarkers for Alzheimer's disease by integrating microbiome data from multiple populations. The study, published in mSystems, analyzed publicly available datasets to characterize gut microbial differences between AD patients and healthy controls. By combining data across diverse populations, the team aimed to find more reliable microbial indicators that could enhance AD diagnosis. The integrated approach helps overcome limitations of single-study analyses and may lead to more robust biomarkers for early detection and monitoring of Alzheimer's disease through gut microbiome profiling.
+
+[[TRANSITION]]
+
+Citizen science is emerging as a powerful tool in microbiome research, offering a way to gather rich, context-specific data from diverse human populations and environments. A recent paper in Nature Protocols lays out comprehensive guidelines for designing and implementing community-engaged citizen-science projects in this field.
+
+The core idea is that citizen science can transform microbiome research by enabling large-scale, real-world data collection that would be difficult or impossible for traditional lab-based studies to achieve. By involving the public directly, researchers can access samples and contextual information from a much broader range of environments and populations, increasing both the scale and diversity of data.
+
+The paper emphasizes that successful citizen-science microbiome projects require careful planning from the outset. This includes clear communication of scientific goals to participants, robust protocols for sample collection and handling, and strategies to maintain participant engagement over time. It also highlights the importance of ethical considerations, such as informed consent and data privacy, especially given the personal nature of microbiome data.
+
+One of the key challenges addressed is ensuring data quality when samples are collected outside of controlled laboratory settings. The guidelines recommend standardized kits, detailed instructions, and quality-control measures to minimize variability and contamination. They also stress the need for transparent feedback to participants, such as sharing results or insights derived from the data, to maintain trust and motivation.
+
+The paper does not provide specific case studies or quantitative success metrics, but it outlines a framework that can be adapted to various research questions—from gut microbiome diversity in different diets to environmental microbiomes in urban versus rural settings.
+
+Overall, the guidelines aim to make citizen-science microbiome research more rigorous, ethical, and impactful, opening the door for broader public participation in cutting-edge science.
+
+[[TRANSITION]]
+
+Microbiome modulating remedies for chronic diseases: a review of current interventions and future directions.
+
+This review from the journal Inflammopharmacology examines the growing role of microbiome-based interventions in managing chronic diseases. The authors analyze a wide range of approaches, from established treatments like probiotics and prebiotics to emerging strategies such as engineered microbes and phage therapy.
+
+The review highlights that chronic diseases including inflammatory bowel disease, metabolic disorders, and certain cancers are increasingly linked to dysbiosis - an imbalance in the gut microbiome. Traditional interventions like probiotics show promise but face limitations in terms of colonization stability and strain specificity. The authors note that while probiotics can temporarily modulate the microbiome, their effects often diminish after treatment cessation.
+
+More advanced approaches discussed include engineered bacteria designed to produce therapeutic compounds directly in the gut, and bacteriophage therapy targeting specific pathogenic bacteria while preserving beneficial species. The review emphasizes that these precision approaches could overcome the limitations of broad-spectrum antibiotics and generic probiotics.
+
+The authors also address the challenge of translating microbiome research into clinical practice. They point out that individual microbiome variability, diet, and environmental factors create significant heterogeneity in treatment responses. This suggests that personalized microbiome interventions based on individual microbiome profiling may be necessary for optimal outcomes.
+
+Looking forward, the review identifies several promising directions: combining microbiome modulation with existing therapies, developing better delivery systems for live biotherapeutics, and creating standardized protocols for microbiome analysis and intervention. The authors stress that while microbiome-based therapies show considerable promise, more rigorous clinical trials are needed to establish their efficacy and safety profiles.
+
+The review concludes that microbiome modulation represents a paradigm shift in chronic disease management, moving from symptom control to addressing underlying microbial imbalances. However, they caution that successful implementation will require overcoming significant scientific, regulatory, and practical challenges.
+
+[[TRANSITION]]
+
+Mental illnesses affect one in five Canadians and often require psychotropic medications. While effective, many psychotropic medications can cause weight gain and metabolic side effects. The gut microbiota, influenced by short-chain fatty acids like acetate, plays a role in mental health via the gut-brain axis and may be disrupted as a result of medication use.
+
+A recent case series published in Translational Psychiatry explored whether oral acetate supplementation could alter gut microbiota composition and improve metabolic outcomes in patients with affective disorders who were taking psychotropic medications. The study involved a small group of patients who received acetate supplementation over a defined period, with researchers monitoring changes in their gut microbiome and metabolic markers.
+
+The available text does not provide specific details on the number of participants, the exact dosage of acetate used, or the duration of the supplementation period. It also does not specify which particular psychotropic medications the patients were taking or what baseline metabolic parameters were measured. Without these details, it's difficult to assess the strength of the findings or determine whether the observed changes were clinically meaningful.
+
+What is clear from the study is that acetate, a short-chain fatty acid produced by gut bacteria during fermentation of dietary fiber, has been linked to both metabolic regulation and mental health through the gut-brain axis. Acetate supplementation represents a potential intervention to counteract some of the metabolic side effects associated with psychotropic medications, while also potentially supporting mental health through microbiome modulation.
+
+The case series suggests that acetate supplementation may be a promising avenue for improving both metabolic and mental health outcomes in patients taking psychotropic medications, but larger controlled trials would be needed to confirm these preliminary findings and establish optimal dosing and treatment protocols.
+
+[[TRANSITION]]
+
+Male infertility is a growing global health concern, and this study from Microbiome reveals a surprising new link between gut bacteria and sperm production. The researchers focused on mice lacking the Ggt1 gene, which normally encodes an enzyme that breaks down certain metabolites. Without Ggt1, these mice developed gut microbiota dysbiosis—a disruption in the normal balance of gut bacteria—and showed clear signs of dysspermatogenesis, meaning their sperm production was impaired.
+
+The key discovery was that the altered gut microbiota in these mice produced higher levels of a compound called phenylacetylglycine, or PAG. This metabolite, normally kept in check by Ggt1, accumulated in the testes and disrupted the delicate process of spermatogenesis. The researchers showed that transplanting the dysbiotic gut microbiota from Ggt1-deficient mice into healthy mice was enough to trigger similar fertility problems, confirming that the gut bacteria and their metabolites were directly responsible.
+
+Mechanistically, PAG appears to interfere with the testicular environment, possibly by altering immune signaling or oxidative stress pathways, though the exact molecular targets remain to be fully mapped. This work is significant because it identifies a specific microbial metabolite—PAG—as a mediator of male infertility, bridging the gap between gut health and reproductive function.
+
+The findings suggest that targeting gut microbiota or blocking harmful metabolites like PAG could open new avenues for treating certain forms of male infertility. While the study was conducted in mice, it raises important questions about whether similar mechanisms might be at play in humans, especially given the rising rates of both gut dysbiosis and male subfertility worldwide. The available text does not provide details on whether these findings have been replicated in human studies or what potential interventions might look like, but the pathway uncovered here offers a promising new direction for research.
+
+[[TRANSITION]]
+
+A new study published in Biogerontology is exploring how the microbes living in our gut might be the missing link between what we like to eat and how we age. The research team used a method called Mendelian Randomization, which is a way to tease out cause-and-effect relationships using genetic data. This is important because it helps avoid some of the usual pitfalls of observational studies, like confusing correlation with causation.
+
+The central idea is that our gut microbiota—the trillions of bacteria and other microbes in our digestive system—don't just respond to what we eat; they may also influence our food preferences and, ultimately, our aging process. For example, certain gut microbes might make us crave specific foods, which in turn shape our diet and impact our health as we get older. Conversely, the foods we prefer could alter our gut microbiome, creating a feedback loop.
+
+The study suggests that by focusing on both gut and dietary health, we might be able to promote healthier, more active aging. This is a shift from simply looking at diet or gut health in isolation. Instead, it's about understanding how these factors interact and influence each other over time.
+
+What makes this approach stand out is its use of genetic data to infer causality. Traditional studies often struggle to prove that changes in the gut microbiome actually cause changes in aging or food preferences, rather than just being associated with them. By using Mendelian Randomization, the researchers aim to provide stronger evidence for these causal links.
+
+While the study is still in progress and the full details are not yet available, the implications are significant. If gut microbes can indeed mediate the relationship between diet and aging, then interventions targeting the microbiome—such as probiotics, prebiotics, or personalized nutrition—could become powerful tools for promoting longevity and healthy aging.
+
+In summary, this research highlights the potential for gut microbiota to act as a bridge between our dietary choices and how we age, opening up new avenues for interventions aimed at extending healthspan.
+
+[[TRANSITION]]
+
+Quill mites are tiny ectoparasites that live inside the feather shafts of birds, and they've long puzzled scientists because many species show strongly female-biased sex ratios. That kind of imbalance often points to microbial manipulation of reproduction, and previous work had already found unusual strains of Wolbachia and Spiroplasma in these mites. But a new study now reveals something even more unexpected: a Wolbachia lineage that likely represents an entirely new supergroup, provisionally labeled "Y."
+
+The researchers analyzed the microbiome of Syringophilus bipectinatus, a quill mite species, using high-throughput 16S rRNA gene sequencing. What they found was striking—Wolbachia dominated the microbial community, making up the vast majority of bacterial reads. This isn't just a slightly different strain; phylogenetic analysis of multiple Wolbachia genes suggests this lineage is distinct enough to warrant classification as a new supergroup. Supergroups are major evolutionary clades within Wolbachia, and only a handful are known to infect arthropods. Finding a potential new one in such an obscure host group is rare.
+
+The dominance of this Wolbachia strain raises immediate questions about its role. In other arthropods, Wolbachia can skew sex ratios through mechanisms like male killing, feminization, or cytoplasmic incompatibility. Given the female bias already observed in quill mites, it's tempting to speculate this new supergroup Y strain might be responsible. But the study doesn't yet confirm the mechanism—only that the bacterium is extraordinarily abundant and evolutionarily distinct.
+
+What makes this discovery particularly intriguing is the host itself. Quill mites are cryptic, understudied, and live in a highly specialized niche. Finding such a divergent Wolbachia in them suggests there may be entire branches of microbial diversity still hidden in neglected arthropod groups. It also underscores how much we still have to learn about host-microbe interactions in non-model organisms.
+
+The available text does not provide details on the specific methods used to rule out contamination or confirm the strain's novelty beyond phylogenetic analysis. Nor does it discuss potential functional studies to test whether this Wolbachia manipulates reproduction. Those will be critical next steps. But even without those answers, the identification of a likely new Wolbachia supergroup in quill mites is a reminder that microbial diversity—and its evolutionary surprises—can lurk in the most unexpected places.
+
+[[TRANSITION]]
+
+Psoriasis is a chronic inflammatory skin disease that often imposes enormous psychological impact on the patient, potentially leading to psychiatric comorbidities or even suicidality. The currently available treatments do not always provide satisfactory results. Our previous work demonstrates that secoisolariciresinol diglucoside, or SDG, has potent anti-inflammatory properties. This study investigates whether SDG can resolve systemic and skin inflammation in psoriatic mice by ameliorating the gut microbiome and modulating immune responses.
+
+The researchers used an imiquimod-induced psoriasis mouse model, which is a well-established method for mimicking human psoriasis in mice. They treated the mice with SDG and observed significant improvements in both skin lesions and systemic inflammation. The skin lesions showed reduced thickness, scaling, and erythema, which are hallmark features of psoriasis. Additionally, the mice exhibited decreased levels of pro-inflammatory cytokines such as TNF-alpha, IL-17, and IL-23 in both the skin and serum.
+
+One of the key findings of this study is the impact of SDG on the gut microbiome. The researchers found that SDG treatment led to a significant shift in the gut microbial composition, increasing the abundance of beneficial bacteria such as Lactobacillus and Bifidobacterium, while reducing the levels of potentially harmful bacteria like Desulfovibrio. This shift in the microbiome was associated with improved gut barrier function and reduced systemic inflammation.
+
+The study also explored the immune-modulating effects of SDG. They found that SDG treatment suppressed the activation of Th17 cells, which are known to play a crucial role in the pathogenesis of psoriasis. Additionally, SDG increased the levels of regulatory T cells, which help maintain immune homeostasis and prevent excessive inflammation.
+
+The researchers also investigated the molecular mechanisms underlying the anti-inflammatory effects of SDG. They found that SDG inhibited the activation of the NF-kB pathway, a key signaling pathway involved in the production of pro-inflammatory cytokines. This inhibition was associated with reduced expression of inflammatory genes in both the skin and gut tissues.
+
+In conclusion, this study demonstrates that SDG can effectively resolve systemic and skin inflammation in psoriatic mice by ameliorating the gut microbiome and modulating immune responses. The findings suggest that SDG could be a promising therapeutic agent for the treatment of psoriasis, offering a novel approach that targets both the skin and gut. However, further research is needed to fully understand the long-term effects and potential clinical applications of SDG in human psoriasis patients.
+
+[[TRANSITION]]
+
+Neurological diseases often come with more than just motor or cognitive symptoms. A striking number of patients also experience significant changes in how they eat—things like extreme pickiness, texture aversions, or even complete loss of appetite. These aren't just quirks; they can worsen malnutrition, slow recovery, and reduce quality of life. What's becoming clear is that the gut microbiome may be a hidden player in this process.
+
+The gut and the brain are in constant two-way communication through what's called the gut-brain axis. Microbes in the gut produce neurotransmitters, short-chain fatty acids, and other metabolites that can influence mood, behavior, and even sensory processing. In people with neurological conditions—whether that's Parkinson's, Alzheimer's, autism spectrum disorders, or multiple sclerosis—the composition of the gut microbiota often shifts. Some species become more dominant, others fade, and that altered microbial landscape can send different signals to the brain.
+
+Those signals may help explain why someone with a neurological disease suddenly can't tolerate the texture of certain foods or develops intense cravings for very specific items. The microbes aren't just passengers; they're actively shaping preferences by modulating taste receptors, influencing reward pathways, and even altering gut motility and secretion patterns that affect how food feels during eating.
+
+This opens a compelling therapeutic angle. If the microbiome is mediating these dietary changes, then modifying it—through probiotics, prebiotics, dietary interventions, or even targeted antibiotics—could help restore more normal eating behaviors. Some early studies in animal models and small human trials suggest that rebalancing the gut microbiota can reduce food aversions and improve nutritional intake.
+
+Of course, the field is still young. Most of the evidence comes from correlations rather than definitive cause-and-effect studies, and the exact microbial players and mechanisms remain under investigation. But the implication is clear: in neurological diseases, the gut isn't just about digestion—it's a potential lever for improving how patients experience and choose food. And that could make a real difference in their overall health and recovery.
+
+[[TRANSITION]]
+
+This study used the SHIME model to investigate how astaxanthin-enriched yogurt affects the gut microbiome over time. The SHIME system is a laboratory-scale simulator that replicates the human gastrointestinal tract, allowing researchers to study microbial responses to dietary interventions in a controlled environment.
+
+The researchers found that consuming astaxanthin yogurt led to an increase in beneficial gut bacteria. While the available text doesn't specify which bacterial groups increased, the implication is that these changes could support gut health. Astaxanthin is a carotenoid pigment with antioxidant properties, commonly found in seafood like salmon and shrimp. When consumed, it can be metabolized by gut bacteria into other bioactive compounds.
+
+The long-term experimental design is notable here. Many microbiome studies rely on short-term interventions or animal models, but the SHIME model allows for extended observation of microbial community dynamics in conditions that mimic the human digestive system. This makes the findings more relevant to understanding how regular consumption of astaxanthin yogurt might shape the gut ecosystem over weeks or months.
+
+The study also touches on microbiota-mediated conversion of astaxanthin. This means that gut bacteria don't just respond to the presence of astaxanthin—they actively transform it into other molecules. These metabolites could have different biological activities than the parent compound, potentially influencing inflammation, oxidative stress, or other physiological processes.
+
+However, the available text doesn't provide details on which metabolites were produced, their concentrations, or their specific effects. It also doesn't mention whether the changes in bacterial composition translated to measurable health outcomes in the model system.
+
+The use of a yogurt matrix is also worth noting. Yogurt itself is a fermented food that can modulate the microbiome, so the effects observed may result from both the astaxanthin and the yogurt's inherent probiotic properties. The study doesn't clarify whether similar effects would occur with astaxanthin delivered in a different food matrix.
+
+Overall, this work suggests that astaxanthin yogurt could be a functional food with microbiome-modulating potential, but more details are needed to understand the mechanisms and clinical relevance. The available text does not provide information on the specific bacterial taxa that increased, the duration of the intervention, or the concentrations of astaxanthin used.
+
+[[TRANSITION]]
+
+Birthweight-for-gestational-age is a key early-life indicator of neonatal health, but its influence on gut microbiome development has been unclear. A new study in the European Journal of Pediatrics now shows that infants classified as small-for-gestational-age, appropriate-for-gestational-age, and large-for-gestational-age have distinct gut microbiota patterns in the first months of life.
+
+The researchers tracked microbial communities in stool samples from each group, finding that SGA infants had lower overall microbial diversity and slower maturation of their gut ecosystems compared to AGA infants. LGA infants, on the other hand, showed accelerated microbial colonization and higher abundance of certain bacterial taxa linked to energy harvest and metabolism. These differences emerged as early as the first week after birth and persisted through the first three months.
+
+The study suggests that birthweight category may act as an early-life modifier of microbiome assembly, potentially influencing metabolic programming and immune development. For example, the slower microbial maturation in SGA infants could contribute to their known higher risk of growth delays and metabolic disorders later in life. Conversely, the rapid colonization in LGA infants might predispose them to different metabolic trajectories.
+
+While the exact mechanisms remain to be determined, the findings point to the gut microbiome as a potential mediator between birthweight and long-term health outcomes. The authors note that these early microbial differences could be shaped by factors such as mode of delivery, feeding type, and maternal health—variables that often vary across birthweight groups.
+
+This work adds to a growing body of evidence that the neonatal gut microbiome is not a passive passenger but an active player in early development. Understanding how birthweight influences its assembly could open new avenues for early interventions aimed at optimizing infant health trajectories.
+
+[[TRANSITION]]
+
+Researchers from the Journal of Microbiology and Biotechnology report that combining curcumin with probiotics may help overcome gemcitabine resistance in gallbladder cancer. The study explores how this synergistic approach could enhance treatment efficacy, addressing a critical challenge in GBC therapy where tumors often develop resistance to standard gemcitabine chemotherapy. While full details remain under embargo, the investigation focuses on microbiome modulation as a potential strategy to improve outcomes for gallbladder cancer patients. The research highlights the growing interest in leveraging natural compounds like curcumin alongside beneficial bacteria to tackle drug resistance in oncology. This work adds to the expanding field of microbiome-based interventions in cancer treatment.
+
+[[TRANSITION]]
+
+A new study in Current Biology reveals that trimethylamine, a volatile metabolite produced by the gut microbiome, acts as a chemical signal in male mice that regulates aggression and social dominance. Researchers found that TMA accumulates in the urine of sexually mature males and influences how they interact with rivals. This discovery sheds light on how microbiome-derived compounds can shape social behavior through olfactory cues, offering new insights into the chemical language of mammals.
+
+[[TRANSITION]]
+
+A new study in Toxicology and Applied Pharmacology reveals that ALDH2 deficiency heightens susceptibility to acetaminophen-induced liver injury by disrupting gut microbiota and altering bile acid metabolism. ALDH2 normally detoxifies harmful aldehydes produced during oxidative stress, but when deficient—common in East Asian populations—its protective role is lost. Researchers found that ALDH2-deficient mice experienced more severe liver damage after acetaminophen overdose, linked to gut microbiome imbalances and abnormal bile acid profiles. These changes exacerbated mitochondrial dysfunction and oxidative stress, key drivers of acetaminophen toxicity. The findings suggest that ALDH2 status and gut-liver axis interactions are critical factors in acetaminophen-induced hepatotoxicity, potentially guiding personalized prevention strategies for at-risk individuals.
+
+[[TRANSITION]]
+
+New research in the International Journal of Biological Macromolecules explores how longan polysaccharides may boost immune function by reshaping gut bacteria. Scientists used spleen metabolomics and metagenomic sequencing to study mice with cyclophosphamide-induced immunosuppression. The findings suggest that longan polysaccharides improve immune responses by altering the gut microbiome, though the exact pathways remain unclear. This work highlights the potential of natural polysaccharides as immune modulators and underscores the importance of the gut-spleen axis in immune regulation. The study opens new avenues for developing microbiome-targeted therapies to counteract drug-induced immune suppression.
+
+[[TRANSITION]]
+
+A new study in the Journal of Agricultural and Food Chemistry reveals that the artificial sweetener acesulfame K, commonly found in diet foods and beverages, can be metabolized by gut bacteria in ways that may harm intestinal barrier function. Using a dynamic gut simulator with children's microbiota, researchers observed dose-dependent changes in microbial communities and metabolic activity after Ace-K exposure. The findings suggest that while Ace-K is widely consumed, its interaction with gut microbiota could have unintended consequences for intestinal health. This highlights the need for further research into how artificial sweeteners influence the gut ecosystem and overall digestive well-being.
+
+[[TRANSITION]]
+
+A new review in Phytotherapy Research highlights the gut microbiome as a promising therapeutic target for metabolic dysfunction-associated steatotic liver disease, or MASLD. With limited effective drug options, researchers are focusing on how phytochemicals—plant-derived compounds—can modulate gut bacteria to improve liver metabolism, reduce inflammation, and slow fibrosis. The review synthesizes recent advances showing that certain phytochemicals can reshape the gut microbiome in ways that directly benefit liver health. This approach offers a non-pharmacologic strategy that could complement or even replace conventional treatments. The findings underscore the growing recognition of the gut-liver axis in MASLD and point to dietary interventions as a viable path forward for managing this global health burden.
+
+[[TRANSITION]]
+
+New research from Neurosurgery reveals that pre-existing gut microbiome imbalances can worsen brain inflammation and blood vessel spasms after a brain bleed. In a mouse study, scientists found that animals with disrupted gut bacteria before experiencing subarachnoid hemorrhage showed more severe neuroinflammation and delayed cerebral ischemia compared to those with healthy microbiomes. This suggests the gut-brain axis plays a critical role in post-SAH complications. The findings highlight how maintaining gut health might influence recovery after brain injury and could point toward new preventive strategies for patients at risk of aneurysm rupture.
+
+[[TRANSITION]]
+
+A new study in *Acta microbiologica et immunologica Hungarica* suggests that a gut microbiome score—called the M-score—can improve prediction of stroke-associated pneumonia beyond standard clinical tools. Researchers found that early post-stroke gut dysbiosis, assessed through microbiome biomarkers, adds independent risk information not captured by the A2DS2 clinical score. This supports the brain-gut-lung axis concept, where stroke-induced changes in gut bacteria may influence pneumonia risk. The nested case-control design indicates the M-score could help identify high-risk patients earlier, potentially guiding preventive care. While full details are pending, the findings point toward integrating microbiome data into stroke risk assessment for better outcomes.
+
+[[TRANSITION]]
+
+A new study in Integrative Zoology reveals how Lordiphosa fruit flies evolved to thrive on plant diets despite their low sugar and high toxin content. By integrating genomics, metabolomics, and gut microbiome data, researchers uncovered coordinated adaptations: genetic changes in digestion and detoxification pathways, metabolic shifts to process complex carbohydrates, and a specialized gut microbiota that helps break down plant material and neutralize toxins. This multi-omics approach shows that herbivory in these flies depends on a tightly linked network of host genes, metabolism, and microbial partners. The findings shed light on how herbivorous insects overcome the nutritional and chemical challenges of plant-based diets, offering a model for understanding similar adaptations across ecologically successful insect groups.
+
+[[TRANSITION]]
+
+A new study in the World Journal of Biological Psychiatry explores how gut microbes may influence schizophrenia through the gut-brain axis. Using bidirectional two-sample Mendelian randomization, researchers examined causal links between gut microbiota, cerebrospinal fluid metabolites, and schizophrenia risk. The findings suggest specific microbial profiles could mediate psychiatric effects via CSF metabolites, offering potential biomarkers or therapeutic targets. This work strengthens the biological plausibility of microbiome-based interventions for severe mental illness.
+
+[[TRANSITION]]
+
+A new study in Cell Reports Medicine shows that bifidobacteria-based probiotics can reshape the infant gut microbiome to help exclude antibiotic-resistant pathobionts. Researchers tracked 152 full-term Tanzanian infants and found that probiotic supplementation altered gut metabolism in ways that reduced the presence of harmful, antibiotic-resistant bacteria. This metabolic reprogramming appears to strengthen gut resilience early in life, offering a promising strategy to combat the growing global threat of antibiotic resistance. The findings suggest that targeted probiotic use in infancy could help prevent colonization by dangerous pathogens without relying on antibiotics. The study highlights the potential of microbiome-based interventions to address one of modern medicine's most urgent challenges.
+
+[[TRANSITION]]
+
+Shotgun metagenomics can provide both taxonomic and functional insights, but benchmarking is necessary to determine the sequencing depth appropriate for specific analyses. Here we used complex mixtures of DNA from cultured bacteria and analysed taxonomic composition, strain-level resolution and functional profiles at up to 11 sequencing depths (0.1-50.0 G...
+
+The study systematically evaluated how sequencing depth affects different types of metagenomic analysis. Researchers created complex mixtures of DNA from cultured bacteria and sequenced them at 11 different depths ranging from 0.1 to 50 gigabases. This comprehensive benchmarking approach allowed them to identify the minimum sequencing requirements for various analytical goals.
+
+For taxonomic composition analysis, the researchers found that relatively shallow sequencing could provide accurate results. They observed that even at the lowest depths tested, the overall community structure was reliably captured. This suggests that for many microbiome studies focused on identifying which species are present, deep sequencing may not be necessary, potentially saving significant costs.
+
+However, strain-level resolution presented a different picture. The study revealed that detecting and distinguishing between closely related strains requires substantially deeper sequencing. At shallow depths, the ability to resolve strain-level differences dropped dramatically. This finding is particularly important because strain-level information can be crucial for understanding pathogenicity, antibiotic resistance, and functional capabilities within microbial communities.
+
+Functional profiling showed intermediate requirements. While basic functional categories could be identified at moderate depths, comprehensive coverage of the functional potential of the community required deeper sequencing. The researchers noted that certain low-abundance genes and pathways might be missed at shallower depths, potentially leading to incomplete functional characterizations.
+
+The benchmarking approach used in this study provides a practical framework for researchers to determine appropriate sequencing depths based on their specific analytical goals. Rather than defaulting to deep sequencing for all projects, scientists can now make informed decisions about resource allocation based on whether they need taxonomic overview, strain-level detail, or comprehensive functional profiling.
+
+This work addresses a critical gap in metagenomic research methodology. By providing concrete data on the relationship between sequencing depth and analytical accuracy across multiple dimensions, the study enables more efficient experimental design and resource utilization in microbiome research.
+
+[[TRANSITION]]
+
+Escherichia coli Nissle 1917, or EcN, has long been a go-to chassis for engineered probiotics because it's safe and easy to genetically manipulate. But there's a catch: it doesn't stick around in the gut for long. That short colonization window limits how well it can deliver therapeutic effects, especially for chronic conditions like inflammatory bowel disease.
+
+To fix this, researchers engineered a new strain by combining EcN's core genome with a key genetic element from uropathogenic E. coli—the fim operon, which encodes type 1 fimbriae. These hair-like surface structures help bacteria adhere to intestinal epithelial cells. The team also added a synthetic anti-inflammatory circuit that produces interleukin-10, a cytokine known to dampen gut inflammation.
+
+In mouse models of colitis, this engineered strain showed a dramatic improvement in intestinal persistence—colonizing the gut more densely and for a longer period than the unmodified EcN. That extended presence translated directly into better therapeutic outcomes: reduced tissue damage, lower inflammatory cytokine levels, and improved clinical scores. The anti-inflammatory payload was delivered more effectively simply because the bacteria stayed in place longer.
+
+This work demonstrates that boosting colonization through targeted genetic additions—without compromising safety—can significantly enhance the efficacy of live biotherapeutics. It's a straightforward but powerful proof of concept: if you want engineered bacteria to work as drugs, they need to stick around long enough to do their job. The available text does not provide details on the specific genetic tools used to insert the fim operon or the IL-10 circuit, nor does it specify the exact duration of colonization or the precise dosing regimen.
+
+[[TRANSITION]]
+
+A new 15-layer multi-omics atlas of gastric cancer, published in Cell Reports Medicine, offers unprecedented therapeutic insights by integrating genomics, epigenomics, transcriptomics, proteomics, multiple post-translational modifications, protein-protein interactions, metabolomics, and microbiome profiles from 15 patient samples. This comprehensive approach captures the profound molecular and microenvironmental heterogeneity that has long hampered treatment progress in gastric cancer. By mapping these diverse biological layers together, researchers can now identify novel therapeutic targets and stratify patients more precisely. The study highlights how combining such rich datasets can reveal hidden vulnerabilities in cancer cells and their surrounding ecosystems. This atlas represents a major step toward personalized medicine for gastric cancer, potentially guiding more effective, tailored therapies based on each patient's unique molecular landscape.
+
+[[TRANSITION]]
+
+A new study in the Proceedings of the National Academy of Sciences reveals that broad-spectrum antibiotics given to ICU patients can disrupt the intestinal microbiota, weakening the body's nutritional immunity and making it easier for emerging hospital-acquired pathogens to take hold. The research highlights how antibiotic-induced changes in gut bacteria alter the availability of essential nutrients, inadvertently creating an environment where dangerous microbes can thrive. This finding underscores the unintended consequences of empiric antibiotic use in critical care settings and suggests that preserving microbiota balance could be key to preventing subsequent infections. The study calls for more targeted antibiotic strategies to protect patients from these hidden risks.
+
+[[TRANSITION]]
+
+A new metabolome-wide Mendelian randomization study in Health Science Reports explores how vitamin B6 and folate-related pathways may shape gut microbial composition and influence preeclampsia risk. Preeclampsia affects 3-5% of pregnancies globally, and while earlier observational studies linked gut microbiota to the condition, this work uses genetic variants to strengthen causal inference. The analysis suggests that disruptions in B-vitamin metabolism could alter microbial communities in ways that predispose some pregnancies to hypertensive complications. By focusing on metabolic pathways rather than individual microbes, the study offers a more integrated view of host-microbe interactions during pregnancy. These findings could guide nutritional or microbiome-targeted interventions to reduce preeclampsia incidence, though further validation in larger cohorts is needed.
+
+[[TRANSITION]]
+
+Metatranscriptomic sequencing is a powerful tool for measuring gene expression across entire microbial communities, not just individual species. Unlike metagenomics, which tells us what genes are present, metatranscriptomics reveals which genes are actively being expressed—giving us a real-time snapshot of microbial function. This is especially important in human-associated microbiomes, where gene expression can shift rapidly in response to diet, disease, or environmental changes.
+
+But here's the catch: while differential expression analysis is a cornerstone of RNA-seq studies in single organisms, it's been surprisingly underdeveloped for metatranscriptomic data. Most existing methods were designed for isolated species and haven't been rigorously tested on the messy, mixed-species reality of microbiome samples. That's a problem, because microbial communities are inherently complex—genes from hundreds or thousands of species can be expressed simultaneously, and technical noise from sequencing can obscure true biological signals.
+
+The new work from Nature Communications tackles this head-on. The researchers developed a benchmarking framework specifically for metatranscriptomic differential expression testing. They simulated realistic microbiome datasets with known expression changes, then tested how well various statistical methods could recover those changes. This is crucial because, without a ground truth, it's impossible to know if a method is actually working or just finding noise.
+
+Their results were eye-opening. Many popular RNA-seq methods, when naively applied to metatranscriptomic data, performed poorly—either missing real changes or flagging too many false positives. The team identified which methods held up best under these conditions and provided practical recommendations for researchers. They also highlighted the importance of accounting for technical factors like library size and composition bias, which are especially pronounced in mixed-species samples.
+
+This isn't just a technical footnote. Accurate differential expression analysis in metatranscriptomics could help us understand how microbiomes shift in disease, how they respond to treatments, or even how they influence host health at the molecular level. For example, if we can reliably detect which microbial genes are upregulated in inflammatory bowel disease versus healthy controls, we might uncover new therapeutic targets or biomarkers.
+
+The study also underscores a broader point: as microbiome research matures, we need tools and benchmarks that reflect the unique challenges of these systems. Borrowing methods from single-species genomics is a start, but it's not enough. The authors' benchmarking framework is now publicly available, inviting the community to test new methods and refine existing ones.
+
+In short, this work doesn't just improve a technical step in data analysis—it strengthens the entire pipeline from sequencing to biological insight. And in a field where the difference between signal and noise can be subtle, that's a significant leap forward.
+
+[[TRANSITION]]
+
+The gut microbiome's metabolome is emerging as a critical determinant of drug efficacy and toxicity in hematologic malignancies. This review from NPJ Biofilms and Microbiomes explores how microbial metabolites influence chemotherapy, immunotherapy, and transplant outcomes, and how they can be harnessed as biomarkers and therapeutic targets.
+
+The metabolome refers to the complete set of small-molecule metabolites produced by gut microbes. These molecules can directly interact with drugs, alter their pharmacokinetics, or modulate host immune responses. In hematologic malignancies, this microbial influence is particularly significant because patients often receive intensive chemotherapy, undergo stem cell transplantation, and are treated with immune checkpoint inhibitors - all scenarios where the microbiome can profoundly impact outcomes.
+
+The review highlights several key mechanisms. First, microbial enzymes can metabolize chemotherapy drugs, either activating prodrugs like cyclophosphamide or inactivating others like irinotecan. Second, microbial metabolites such as short-chain fatty acids can modulate immune cell function, potentially enhancing or suppressing the effects of immunotherapy. Third, the metabolome influences intestinal barrier integrity and inflammation, which affects drug absorption and toxicity.
+
+For stem cell transplant recipients, the microbiome-metabolome axis is especially critical. Patients experience profound microbiome disruption from antibiotics, chemotherapy, and immunosuppression. The resulting metabolic changes can influence graft-versus-host disease risk, infection susceptibility, and overall transplant success.
+
+The review emphasizes moving beyond simple microbiome associations to understanding specific metabolic pathways. For instance, certain bacterial species produce bile acid metabolites that can either protect against or promote graft-versus-host disease. Similarly, tryptophan metabolites produced by specific microbes can influence regulatory T cell function and immune tolerance.
+
+The authors outline a pathway toward therapeutic intervention. This includes using metabolomic profiling as a biomarker for treatment response, developing microbiome-targeted therapies to optimize drug metabolism, and designing metabolite-based interventions to enhance immunotherapy efficacy. They also discuss the potential for personalized medicine approaches that consider an individual's microbiome-metabolome profile when selecting and dosing cancer therapies.
+
+The available text does not provide specific clinical trial data or detailed molecular mechanisms, but the review synthesizes current understanding of how the gut microbiome's metabolome shapes therapeutic landscapes in hematologic malignancies. This represents a shift from viewing the microbiome as merely correlative to recognizing it as a modifiable factor that can be leveraged to improve cancer treatment outcomes.
+
+[[TRANSITION]]
+
+The human microbiome is increasingly recognized as a key contributor to the tumor microenvironment, and advances in sequencing technologies have revealed the pivotal role of intratumoral microbiota in the development of gastrointestinal cancers. This review summarizes current knowledge on the characteristics and functional mechanisms of tumor-resident bacteria, highlighting how these microbes influence cancer progression, immune responses, and treatment outcomes.
+
+Intratumoral bacteria are now understood to be more than mere bystanders in gastrointestinal cancers. They actively shape the tumor microenvironment through multiple mechanisms. For example, certain bacteria can promote inflammation, alter immune cell function, and even influence the efficacy of cancer therapies such as chemotherapy and immunotherapy. The review emphasizes that these tumor-resident microbes are not just present in the gut lumen but are actually found within the tumor tissue itself, where they can interact directly with cancer cells and immune cells.
+
+One of the key insights from recent research is that the composition of intratumoral microbiota varies between individuals and between different types of gastrointestinal cancers. This variability suggests that the microbiome could serve as a biomarker for cancer diagnosis or prognosis, and potentially as a target for new therapies. The review also discusses how tumor-resident bacteria can modulate the tumor microenvironment by producing metabolites, influencing gene expression in host cells, and even affecting the tumor's response to treatment.
+
+Importantly, the review highlights that while much progress has been made, there are still significant gaps in our understanding. For instance, the exact mechanisms by which specific bacteria influence cancer progression are not fully elucidated, and more research is needed to determine how these findings can be translated into clinical practice. The authors call for further studies to explore the causal relationships between intratumoral bacteria and cancer, as well as to develop microbiome-based interventions for gastrointestinal cancers.
+
+In summary, the review underscores the growing recognition of the tumor microbiome as a critical factor in gastrointestinal cancer biology. It calls for continued research to unlock the full potential of microbiome-based diagnostics and therapies, ultimately aiming to improve outcomes for patients with these challenging cancers.
+
+[[TRANSITION]]
+
+American black bears have a gut microbiome that varies dramatically depending on where in the digestive tract you look and whether the bear is male or female. Researchers analyzed samples from 48 wild bears, sequencing the 16S rRNA gene to identify bacterial taxa and using PICRUSt2 to predict metabolic pathways. They found that gut site—whether samples came from the stomach, small intestine, or large intestine—was the strongest driver of microbiome composition. The large intestine, unsurprisingly, had the highest bacterial diversity and abundance, while the stomach and small intestine showed much lower microbial loads.
+
+Sex also played a significant role. Female bears had higher relative abundances of certain taxa like Firmicutes and lower levels of Bacteroidetes compared to males. These differences weren't just taxonomic—they translated into distinct predicted metabolic functions. For example, females showed enrichment in pathways related to amino acid metabolism and secondary metabolite biosynthesis, while males had more pathways linked to lipid metabolism.
+
+Age and diet, measured via stable isotope analysis, had weaker but still detectable effects. Younger bears showed slightly different microbial profiles, possibly reflecting developmental changes in diet or physiology. Isotopic signatures suggested variation in protein versus plant intake, but these dietary shifts didn't override the strong site- and sex-specific patterns.
+
+The study highlights that in bears—whose simple gut morphology and rapid transit time limit microbial regulation—local gut conditions and host biology shape the microbiome more than diet does. This contrasts with many other mammals where diet is the dominant factor. The findings suggest that sex-specific microbiome differences could influence nutrient absorption or immune function in ways that vary by gut region, with potential implications for bear health, reproduction, and adaptation to changing food availability.
+
+[[TRANSITION]]
+
+The gut microbiota is increasingly recognized as a key player in regulating energy balance, and new research is mapping out exactly how it communicates with the brain to influence metabolism. At the center of this communication network is the hypothalamus, a brain region that integrates signals from the gut, adipose tissue, and hormones to control appetite, energy expenditure, and fat storage.
+
+Recent findings show that the gut microbiota can directly influence hypothalamic function through several pathways. Short-chain fatty acids, produced when gut bacteria ferment dietary fiber, can cross the blood-brain barrier and activate receptors in the hypothalamus. These fatty acids, particularly butyrate, have been shown to enhance the production of pro-opiomelanocortin (POMC) neurons, which promote satiety and increase energy expenditure. In contrast, a high-fat diet can alter the gut microbiota composition, leading to increased intestinal permeability and the release of lipopolysaccharides (LPS) into the bloodstream. LPS can trigger hypothalamic inflammation, impairing the function of neurons that regulate energy balance and promoting weight gain.
+
+The microbiota also influences the production of gut hormones like GLP-1 and PYY, which signal to the hypothalamus to reduce appetite. Additionally, bile acids, which are metabolized by gut bacteria, can activate receptors in both the gut and the hypothalamus to regulate glucose and lipid metabolism. These interactions form what researchers call the microbiota-hypothalamus-adipose tissue axis, a bidirectional communication system that links diet, gut bacteria, brain function, and fat storage.
+
+Importantly, disruptions in this axis—whether from diet, antibiotics, or other factors—can lead to hypothalamic dysfunction, contributing to obesity and metabolic disorders. Understanding these mechanisms opens new avenues for therapeutic interventions, such as targeting the gut microbiota or its metabolites to restore hypothalamic function and improve metabolic health. The available text does not provide details on specific clinical trials or therapeutic outcomes, but the conceptual framework is now well established.
+
+
+References:
+[1] Microbiome signature of Parkinson's disease in healthy and genetically at-risk individuals. — PubMed — Nature medicine — https://doi.org/10.1038/s41591-026-04318-5
+[2] Navigating multi-omic integration methods for human microbiome research. — PubMed — Nature microbiology — https://doi.org/10.1038/s41564-026-02328-0
+[3] Distinct signatures in the human gut and oral microbiomes of gastric cancer. — PubMed — Cell reports. Medicine — https://doi.org/10.1016/j.xcrm.2026.102761
+[4] The naked mole-rat microbiome is associated with healthy aging and social structure. — PubMed — Cell reports — https://doi.org/10.1016/j.celrep.2026.117265
+[5] Sex-biased intratumoral microbiome influences tumor molecular and immune landscape and disease outcomes. — PubMed — Cell reports. Medicine — https://doi.org/10.1016/j.xcrm.2026.102757
+[6] Gut microbiota-derived ergothioneine alleviates antipsychotic-induced synaptic and cognitive impairments. — PubMed — Cell host & microbe — https://doi.org/10.1016/j.chom.2026.03.020
+[7] Habitual coffee intake shapes the gut microbiome and modifies host physiology and cognition. — PubMed — Nature communications — https://doi.org/10.1038/s41467-026-71264-8
+[8] Exercise intensity as a modulator of gut microbiota and host metabolic health in obesity. — PubMed — Gut microbes — https://doi.org/10.1080/19490976.2026.2661415
+[9] Identifying candidate gut microbiota indicators for Alzheimer's disease through integrated data. — PubMed — mSystems — https://doi.org/10.1128/msystems.01754-25
+[10] Considerations for the design of impactful citizen-science projects in microbiome research. — PubMed — Nature protocols — https://doi.org/10.1038/s41596-026-01346-w
+[11] Microbiome modulating remedies for chronic diseases: a review of current interventions and future directions. — PubMed — Inflammopharmacology — https://doi.org/10.1007/s10787-026-02187-5
+[12] A case-series of oral acetate supplementation for gut microbiota alteration and metabolic improvement in patients with affective disorders on psychotropics. — PubMed — Translational psychiatry — https://doi.org/10.1038/s41398-026-04046-x
+[13] Gut microbiota induces dysspermatogenesis via microbial-derived phenylacetylglycine in Ggt1-deficient mice. — PubMed — Microbiome — https://doi.org/10.1186/s40168-026-02401-0
+[14] Gut microbiota as potential mediator linking dietary preferences and aging phenotypes. — PubMed — Biogerontology — https://doi.org/10.1007/s10522-026-10437-w
+[15] A Wolbachia lineage likely representing a new supergroup (Y) dominates the microbiome of the quill mite Syringophilus bipectinatus Heller, 1880 (Acariformes: Syringophilidae). — PubMed — Scientific reports — https://doi.org/10.1038/s41598-026-48644-7
+[16] Secoisolariciresinol diglucoside resolves systemic and skin inflammation in psoriatic mice by ameliorating the gut microbiome and modulating immune responses. — PubMed — Food & function — https://doi.org/10.1039/d5fo04965b
+[17] The role of gut microbiota in shaping and modulating dietary preferences in neurological diseases: implications for microbiota-targeted interventions. — PubMed — Food & function — https://doi.org/10.1039/d5fo02826d
+[18] Investigating the impact of astaxanthin yogurt on gut microbiota and microbiota-mediated astaxanthin conversion using the SHIME® model. — PubMed — Food & function — https://doi.org/10.1039/d5fo04878h
+[19] Distinct early-life gut microbiota patterns across SGA, AGA, and LGA infants. — PubMed — European journal of pediatrics — https://doi.org/10.1007/s00431-026-06903-9
+[20] Microbiome Modulation with — PubMed — Journal of microbiology and biotechnology — https://doi.org/10.4014/jmb.2601.01007
+[21] A microbiome-derived olfactory signal regulates inter-male aggression and social dominance in mice. — PubMed — Current biology : CB — https://doi.org/10.1016/j.cub.2026.03.009
+[22] ALDH2 deficiency increases susceptibility to acetaminophen-induced liver injury through gut microbiota dysbiosis and altered bile acid metabolism. — PubMed — Toxicology and applied pharmacology — https://doi.org/10.1016/j.taap.2026.117829
+[23] Spleen metabolomics coupled with gut microbiome analysis to elucidate the immunomodulatory mechanisms of longan polysaccharides against cyclophosphamide-induced immunosuppression in mice. — PubMed — International journal of biological macromolecules — https://doi.org/10.1016/j.ijbiomac.2026.152109
+[24] Human Gut Microbiome Can Degrade the Sweetener Acesulfame K with Potential Damaging Effects in the Intestinal Barrier Function. — PubMed — Journal of agricultural and food chemistry — https://doi.org/10.1021/acs.jafc.5c16498
+[25] Phytochemicals in MASLD: A Focused Review of Gut Microbiome-Linked Mechanisms. — PubMed — Phytotherapy research : PTR — https://doi.org/10.1002/ptr.70352
+[26] Pre-existing Gut Microbiome Dysbiosis Exacerbates Neuroinflammation and Vasospasm After Subarachnoid Hemorrhage in Mice. — PubMed — Neurosurgery — https://doi.org/10.1227/neu.0000000000004035
+[27] Incremental value of a gut microbiome score (M-score) for predicting stroke-associated pneumonia beyond the clinical A2DS2 score: A nested case-control study. — PubMed — Acta microbiologica et immunologica Hungarica — https://doi.org/10.1556/030.2026.02907
+[28] Multi-Omics Analysis Reveals Coordinated Adaptations in Genes, Metabolism, and Gut Microbiota Underpinning Herbivory in Lordiphosa Flies. — PubMed — Integrative zoology — https://doi.org/10.1111/1749-4877.70110
+[29] Causal effects of gut microbiota on schizophrenia: deciphering profiles mediated by cerebrospinal fluid metabolites in the gut-brain axis. — PubMed — The world journal of biological psychiatry : the official journal of the World Federation of Societies of Biological Psychiatry — https://doi.org/10.1080/15622975.2026.2658098
+[30] Metabolic reprogramming of the infant gut by bifidobacteria-based probiotics drives exclusion of antibiotic-resistant pathobionts. — PubMed — Cell reports. Medicine — https://doi.org/10.1016/j.xcrm.2026.102752
+[31] Benchmarking of shotgun sequencing depth reveals the potential and limitations of shallow metagenomics and strain-level analysis. — PubMed — Nature microbiology — https://doi.org/10.1038/s41564-026-02334-2
+[32] Construction of an engineered Escherichia coli strain with enhanced intestinal colonization and anti-inflammatory efficacy in colitis. — PubMed — Cellular & molecular immunology — https://doi.org/10.1038/s41423-026-01415-w
+[33] A 15-layer multi-omics analysis of gastric cancer ecotypes provides therapeutic insights. — PubMed — Cell reports. Medicine — https://doi.org/10.1016/j.xcrm.2026.102756
+[34] The intestinal microbiota impacts nutritional immunity and resistance to — PubMed — Proceedings of the National Academy of Sciences of the United States of America — https://doi.org/10.1073/pnas.2534432123
+[35] The Role of Vitamin B6 and Folate-Related Pathways Involved in Gut Microbial Composition in the Development of Preeclampsia: Metabolome-Wide Mendelian Randomization Analysis. — PubMed — Health science reports — https://doi.org/10.1002/hsr2.72314
+[36] Enhancing inference of differential gene expression in metatranscriptomes from human microbial communities. — PubMed — Nature communications — https://doi.org/10.1038/s41467-026-71871-5
+[37] The microbial metabolome: remodeling the therapeutic landscape in hematologic malignancies. — PubMed — NPJ biofilms and microbiomes — https://doi.org/10.1038/s41522-026-00972-2
+[38] Tumor-resident bacteria in gastrointestinal cancers: from regulatory mechanisms to clinical implications. — PubMed — Cancer biology & medicine — https://doi.org/10.20892/j.issn.2095-3941.2025.0686
+[39] Gut site and sex-specific enrichment of bacterial taxa and predicted metabolic pathways in wild American black bear (Ursus americanus). — PubMed — PloS one — https://doi.org/10.1371/journal.pone.0345317
+[40] From diet to hypothalamic dysfunction: Neuroanatomical and hormonal integration of the microbiota-hypothalamus-adipose tissue axis. — PubMed — Reviews in endocrine & metabolic disorders — https://doi.org/10.1007/s11154-026-10038-5
