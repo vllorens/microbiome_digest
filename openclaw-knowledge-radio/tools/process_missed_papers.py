@@ -138,7 +138,7 @@ def extract_keywords_llm(title: str, api_key: str) -> List[str]:
     )
 
     payload = json.dumps({
-        "model": "google/gemma-4-31b-it:free",
+        "model": "nvidia/nemotron-3-super-120b-a12b:free",
         "messages": [{"role": "user", "content": prompt}],
         "max_tokens": 128,
         "temperature": 0.2,

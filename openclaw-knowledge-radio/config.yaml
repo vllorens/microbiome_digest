@@ -909,7 +909,11 @@ publish:
 llm:
   enabled: true
   provider: "openrouter"
-  model: "google/gemma-4-31b-it:free"
+  model: "nvidia/nemotron-3-super-120b-a12b:free"
+  fallback_models:
+    - "google/gemma-4-31b-it:free"
+    - "google/gemma-4-26b-a4b-it:free"
+    - "inclusionai/ling-2.6-flash:free"
   analysis_model: "stepfun/step-3.5-flash:free"
   api_key_env: "OPENROUTER_API_KEY"
   temperature: 0.25

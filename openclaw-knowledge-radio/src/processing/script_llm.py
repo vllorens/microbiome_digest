@@ -23,33 +23,40 @@ def _client_from_config(cfg: Dict[str, Any]) -> OpenAI:
 def _chat_complete(
     client: OpenAI,
     *,
-    model: str,
+    models: List[str],
     system: str,
     user: str,
     temperature: float,
     max_tokens: int,
     retries: int = 3,
 ) -> str:
-    err: Optional[Exception] = None
-    for attempt in range(1, retries + 1):
-        try:
-            resp = client.chat.completions.create(
-                model=model,
-                messages=[
-                    {"role": "system", "content": system},
-                    {"role": "user", "content": user},
-                ],
-                temperature=temperature,
-                max_tokens=max_tokens,
-            )
-            return (resp.choices[0].message.content or "").strip()
-        except Exception as e:
-            err = e
-            if attempt < retries:
-                time.sleep(1.5 * attempt)
-            else:
-                raise
-    raise err  # pragma: no cover
+    last_err: Optional[Exception] = None
+    for model in models:
+        for attempt in range(1, retries + 1):
+            try:
+                resp = client.chat.completions.create(
+                    model=model,
+                    messages=[
+                        {"role": "system", "content": system},
+                        {"role": "user", "content": user},
+                    ],
+                    temperature=temperature,
+                    max_tokens=max_tokens,
+                )
+                return (resp.choices[0].message.content or "").strip()
+            except Exception as e:
+                last_err = e
+                status = getattr(getattr(e, "response", None), "status_code", None)
+                if status in (404, 429):
+                    print(f"[llm] Model {model!r} unavailable ({status}), trying next fallback")
+                    break  # skip retries, move to next model
+                if attempt < retries:
+                    time.sleep(1.5 * attempt)
+                else:
+                    print(f"[llm] Model {model!r} failed after {retries} attempts, trying next fallback")
+    if last_err is not None:
+        raise last_err
+    raise RuntimeError("No models available")  # pragma: no cover
 
 
 # =========================
@@ -224,7 +231,7 @@ def build_podcast_script_llm(*, date_str: str, items: List[Dict[str, Any]], cfg:
     Kept for backwards compatibility (one call). Still English-only.
     """
     client = _client_from_config(cfg)
-    model = cfg["llm"]["model"]
+    models = [cfg["llm"]["model"]] + list(cfg["llm"].get("fallback_models", []))
     temperature = float(cfg["llm"].get("temperature", 0.25))
     max_tokens = int(cfg["llm"].get("max_output_tokens", 5200))
 
@@ -243,7 +250,7 @@ def build_podcast_script_llm(*, date_str: str, items: List[Dict[str, Any]], cfg:
     # Use roundup prompt style for a single call
     return _chat_complete(
         client,
-        model=model,
+        models=models,
         system=SYSTEM_ROUNDUP,
         user=user,
         temperature=temperature,
@@ -268,7 +275,7 @@ def build_podcast_script_llm_chunked(*, date_str: str, items: List[Dict[str, Any
     Items without fulltext get a concise roundup treatment (~80-130 words).
     """
     client = _client_from_config(cfg)
-    model = cfg["llm"]["model"]
+    models = [cfg["llm"]["model"]] + list(cfg["llm"].get("fallback_models", []))
     temperature = float(cfg["llm"].get("temperature", 0.25))
 
     podcast_cfg = (cfg.get("podcast") or {})
@@ -293,7 +300,7 @@ def build_podcast_script_llm_chunked(*, date_str: str, items: List[Dict[str, Any
             )
             seg = _chat_complete(
                 client,
-                model=model,
+                models=models,
                 system=SYSTEM_DEEP_DIVE,
                 user=user,
                 temperature=temperature,
@@ -309,7 +316,7 @@ def build_podcast_script_llm_chunked(*, date_str: str, items: List[Dict[str, Any
             )
             seg = _chat_complete(
                 client,
-                model=model,
+                models=models,
                 system=SYSTEM_ROUNDUP,
                 user=user,
                 temperature=temperature,
