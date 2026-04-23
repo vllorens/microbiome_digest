@@ -138,7 +138,7 @@ def extract_keywords_llm(title: str, api_key: str) -> List[str]:
     )
 
     payload = json.dumps({
-        "model": "arcee-ai/trinity-large-preview:free",
+        "model": "google/gemma-4-31b-it:free",
         "messages": [{"role": "user", "content": prompt}],
         "max_tokens": 128,
         "temperature": 0.2,

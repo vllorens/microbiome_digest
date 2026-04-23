@@ -909,7 +909,7 @@ publish:
 llm:
   enabled: true
   provider: "openrouter"
-  model: "arcee-ai/trinity-large-preview:free"
+  model: "google/gemma-4-31b-it:free"
   analysis_model: "stepfun/step-3.5-flash:free"
   api_key_env: "OPENROUTER_API_KEY"
   temperature: 0.25
