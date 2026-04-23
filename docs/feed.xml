@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Apr 2026 05:31:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 14:08:42 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-04-23</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-23/podcast_2026-04-23.mp3</guid>
+      <pubDate>Thu, 23 Apr 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-23/podcast_2026-04-23.mp3" length="24822116" type="audio/mpeg" />
+      <description>Researchers found that the upper respiratory tract microbiome shows strong, 24‑hour circadian rhythms that differ between individuals and even between microbial species. | Icariin, a flavonoid, increases the enzymatic activity of N‑acetylgalactosaminidase, which in turn raises the abundance of the gut commensal Akkermansia muciniphila. | DNA hypomethylation in maize seeds reshapes the seed‑borne microbiome and alters the proteome during early interactions with plant‑growth‑promoting bacteria, according to a new study in Plant, Cell &amp; Environment accessed via PubMed.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Researchers found that the upper respiratory tract microbiome shows strong, 24‑hour circadian rhythms that differ between individuals and even between microbial species. | Icariin, a flavonoid, increases the enzymatic activity of N‑acetylgalactosaminidase, which in turn raises the abundance of the gut commensal Akkermansia muciniphila. | DNA hypomethylation in maize seeds reshapes the seed‑borne microbiome and alters the proteome during early interactions with plant‑growth‑promoting bacteria, according to a new study in Plant, Cell &amp; Environment accessed via PubMed.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-04-22</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-22/podcast_2026-04-22.mp3</guid>
       <pubDate>Wed, 22 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-22/podcast_2026-04-22.mp3" length="28518572" type="audio/mpeg" />
-      <description>Parkinson&#x27;s disease is a major cause of disability, and while GBA1 variants are the most common genetic risk factor, increasing risk up to 30-fold, only about 20% of carriers actually develop the disease. | The team found that PD patients had a distinct gut microbiome profile compared to both healthy controls and GBA1 carriers without disease. | To test causality, the researchers colonized germ-free mice with fecal samples from either PD patients or healthy controls.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-22/podcast_2026-04-22.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Parkinson&#x27;s disease is a major cause of disability, and while GBA1 variants are the most common genetic risk factor, increasing risk up to 30-fold, only about 20% of carriers actually develop the disease. | The team found that PD patients had a distinct gut microbiome profile compared to both healthy controls and GBA1 carriers without disease. | To test causality, the researchers colonized germ-free mice with fecal samples from either PD patients or healthy controls.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
