@@ -1,0 +1,158 @@
+Researchers report that gut microbiota can reshape host energy metabolism, thereby influencing depressive behaviors. Using a multi‑omics approach that combined targeted metabolomics with shotgun metagenomic sequencing, they found specific microbial shifts linked to altered systemic energy pathways in models of major depressive disorder. The study, published in PubMed‑indexed Gut Microbes, suggests that modulating the microbiome may restore metabolic homeostasis and alleviate depression‑related symptoms. While the work highlights mechanistic connections between gut microbes and host energetics, it also underscores the need for further validation in human cohorts to translate these findings into therapeutic strategies.
+
+[[TRANSITION]]
+
+This study set out to define the core microbiome associated with adult severe caries (ASC) and to preliminarily investigate microbial interactions and cross‑kingdom biofilm validation in this condition. ASC is described as a rampant form of caries that emerges in adulthood, severely impairing oral function and diminishing quality of life, yet its pathogenic mechanism remains unclear. By focusing on the microbial community, the authors sought to fill a gap in understanding how specific bacteria, fungi, or other microorganisms might collaborate to drive the aggressive lesion progression seen in ASC.
+
+The article, indexed in PubMed and published in Clinical Oral Investigations, states that the primary objectives were to identify the core microbiota present in patients with ASC and to explore the nature of their interactions, with an explicit aim to validate the presence of cross‑kingdom biofilms. Cross‑kingdom biofilms—structured communities where bacteria and fungi coexist and potentiate each other’s virulence—have been implicated in early childhood caries, but their role in adult‑onset severe disease has not been firmly established.
+
+The available text does not provide details on the cohort size, sampling sites, molecular methods (such as 16S rRNA gene sequencing or metagenomics), bioinformatic pipelines, or statistical thresholds used to define the core microbiome. Likewise, no specific taxa, abundance changes, interaction metrics, or biofilm validation results are reported in the notes. Consequently, while the study’s intent is clear—mapping the microbial landscape of ASC and testing for synergistic bacterial‑fungal communities—the actual findings, their magnitude, and how they compare to prior work in caries microbiology remain unspecified in the supplied material.
+
+Understanding whether a distinct, reproducible microbial signature underlies ASC could inform targeted preventive strategies, probiotic approaches, or antimicrobial therapies tailored to adult patients. Until the full results are examined, the study’s contribution to the field remains provisional, hinging on the yet‑unrevealed data that will determine whether ASC is driven by a unique consortium or by a dysregulation of the resident oral microbiota.
+
+[[TRANSITION]]
+
+Investigating the therapeutic effects of a caffeine‑naringenin combination on the repair of intestinal permeability and the composition of gut microbiota in obese rats fed a long‑term high‑fat diet forms the core of this study published in *Naunyn‑Schmiedeberg's Archives of Pharmacology*. The work situates itself within the broader gut‑liver axis framework, where obesity‑related metabolic dysfunction is linked to gut dysbiosis, impaired intestinal barrier function, and endotoxemia—conditions that can drive oxidative stress and liver injury.  
+
+According to the available notes, caffeine and naringenin were selected because of their potential to address liver injury. Caffeine is identified as a natural methylxanthine; however, the excerpt does not specify what prior effects caffeine has shown, as the description is truncated. Similarly, no details are provided about naringenin’s properties or previous findings that motivated its inclusion.  
+
+The study’s design—such as the number of animals, dosing regimen, duration of the high‑fat diet, or the timing of the supplement administration—is not described in the supplied text. Likewise, the methodological approach for measuring intestinal permeability (e.g., fluorescein isothiocyanate‑dextran assay, tight‑junction protein analysis) and for profiling gut microbiota (e.g., 16S rRNA sequencing, metagenomics) is absent. Consequently, the available information does not reveal any outcomes regarding changes in barrier integrity, microbial composition, oxidative stress markers, or liver injury metrics.  
+
+In summary, while the rationale for combining caffeine and naringenin to target obesity‑induced gut‑liver axis disturbances is outlined, the specific experimental details and results remain undisclosed in the provided notes. Further inspection of the full article would be necessary to ascertain how the combination influenced intestinal repair and microbiota in this model.
+
+[[TRANSITION]]
+
+The paper titled “The dietary index for gut microbiota, genetically predicted gut microbiome, and the risk of chronic kidney disease: a cohort study” appears in the journal *Food & Function* and is indexed under the microbiome bucket. The available metadata tells us only that it is a cohort investigation, that it examines a dietary index related to gut microbiota, that it incorporates genetically predicted microbiome features, and that it looks at chronic kidney disease (CKD) risk as an outcome.  
+
+Because the pipeline supplied no notes or abstract excerpt, the available text does not provide details on the study’s population size, demographic characteristics, or recruitment setting. It does not specify how the dietary index for gut microbiota was constructed—whether it was based on food frequency questionnaires, metabolite profiling, or another approach—nor does it describe the genetic prediction method used to infer microbiome composition (e.g., polygenic risk scores, Mendelian randomization instruments, or genome‑wide association study‑derived weights).  
+
+Similarly, we lack information on the length of follow‑up, the ascertainment of CKD cases (clinical diagnosis, eGFR thresholds, albuminuria, registry linkage), the statistical models employed (Cox proportional hazards, logistic regression, adjustment for confounders), and any effect estimates or hazard ratios reported. The extracted character count indicates the full text is present in the source, but without access to that content we cannot summarize the main findings, sensitivity analyses, or limitations discussed by the authors.  
+
+In short, while the title signals an effort to link diet‑driven microbiome modulation, host genetics, and kidney health, the concrete methods, results, and implications of this particular cohort study remain unknown based solely on the supplied metadata. Further inspection of the full article would be required to learn what the researchers actually observed.
+
+[[TRANSITION]]
+
+The paper titled “Functional remodeling of the gut microbiome and metabolome in primary idiopathic male infertility” appears in BMC Microbiology and is indexed under the microbiome bucket. The available metadata indicate that the full text is accessible, but the pipeline did not extract any substantive content beyond the title and basic identifiers. Consequently, the available text does not provide details on the study’s design, participant characteristics, sequencing or metabolomic platforms, analytical pipelines, or any specific microbial taxa or metabolic pathways that were found to differ between infertile men and controls. It also does not report effect sizes, statistical significance thresholds, or whether the observed microbiome‑metabolome shifts correlate with semen parameters, hormonal profiles, or lifestyle factors. Because the notes contain no description of methods, results, or conclusions, we cannot summarize what is new compared with prior work, nor can we assess how the findings might inform diagnostic biomarkers or therapeutic strategies. The source is listed as PubMed, and the article can be accessed via the DOI provided, but without the extracted notes we cannot verify any claims made in the manuscript. In short, while the title suggests an investigation of gut‑microbiome functional remodeling and associated metabolomic changes in primary idiopathic male infertility, the available text does not provide details on the cohort size, sampling procedures, bioinformatic or statistical methods, key findings, or implications, leaving those aspects unknown based on the information at hand.
+
+[[TRANSITION]]
+
+Researchers report that gut microbiota critically shapes the development of oxaliplatin‑induced peripheral neuropathy, a dose‑limiting side effect of colorectal cancer chemotherapy. Using mouse models, they found that disrupting the intestinal microbiome with antibiotics amplified neuroinflammation and worsened nerve‑function deficits, while restoring a healthy microbiota with probiotic treatment attenuated these effects. The study links specific bacterial shifts to heightened inflammatory signaling in the dorsal root ganglia, highlighting the gut‑nerve axis as a modifiable factor in chemotherapy‑induced neurotoxicity. Source: PubMed — Neurotoxicology.
+
+[[TRANSITION]]
+
+Research published in Pharmacological Research (PubMed) shows that isoflavone‑rich extract from Pueraria lobata (Iso‑Pl), including the compound puerarin, can reshape the gut microbiome and alleviate symptoms of heart failure with preserved ejection fraction (HFpEF). In experimental models, the isoflavone treatment increased beneficial bacteria, reduced harmful metabolites, and improved cardiac function and metabolic markers linked to HFpEF. The authors conclude that targeting gut microbiota with medicinal plant isoflavones offers a promising therapeutic avenue for a condition that currently lacks effective drugs. The study highlights a mechanistic link between diet‑derived compounds, microbial remodeling, and heart‑failure outcomes.
+
+[[TRANSITION]]
+
+An integrated metabolome‑microbiome study shows that Xiaoer Chiqiao Qingre granules exert age‑specific regulatory actions in rats with acute upper respiratory tract infection. Using a combined metabolite and microbiota profiling approach, researchers found that the traditional Chinese medicine formulation modulated different metabolic pathways and microbial communities in juvenile versus adult animals, highlighting a developmental dimension to its therapeutic effect. The work, published in the Journal of Ethnopharmacology and indexed via PubMed, underscores how XECQ’s official recognition in the Chinese Pharmacopoeia translates into distinct biochemical and microbiome signatures depending on the host’s age.
+
+[[TRANSITION]]
+
+Isopsoralen, a compound isolated from Psoralea corylifolia L., eases osteoarthritis by dampening the MAPK/NF‑κB inflammatory cascade and reshaping the gut microbiome, according to a study reported in PubMed‑indexed Journal of Ethnopharmacology. The researchers note that the plant’s use for joint pain dates back to the Ming Dynasty’s Compendium of Materia Medica, where it was praised for tonifying the kidney and strengthening tendons and bones. In animal models, ISO treatment reduced joint degradation, lowered pro‑inflammatory cytokine levels, and restored microbial balance, suggesting a dual host‑microbiota mechanism for its therapeutic effect.
+
+[[TRANSITION]]
+
+Dysbiosis of the gut microbiota works together with activated enteric glial cells to drive Alzheimer’s disease progression, according to a new study in the Journal of Alzheimer’s Disease. The researchers note that while the microbiota‑gut‑brain axis is already implicated in AD, the precise role of enteric glial cells has been unclear. Their findings suggest that imbalanced gut microbes trigger glial activation, which in turn amplifies neuroinflammatory pathways linked to AD pathology. This synergistic mechanism offers a fresh perspective on how peripheral gut changes can influence brain degeneration. Source: PubMed – Journal of Alzheimer’s Disease.
+
+[[TRANSITION]]
+
+Gut microbiota‑derived trimethylamine‑N‑oxide (TMAO) helps preserve the pulmonary vascular barrier during acute lung injury by activating Vav guanine nucleotide exchange factor 3 (VAV3), which drives cytoskeletal remodeling that tightens endothelial junctions. In mouse models of LPS‑induced ALI, supplemental TMAO reduced lung edema and neutrophil infiltration, while VAV3 inhibition abolished the protective effect. The study links a specific microbial metabolite to gut‑lung axis signaling and highlights VAV3 as a potential therapeutic target for ARDS. Source: PubMed — British journal of pharmacology today researchers
+
+[[TRANSITION]]
+
+Researchers linked gut microbiota dysbiosis to chronic kidney disease across graded proteinuria levels, reinforcing the gut‑kidney axis hypothesis. Using fecal samples from patients with varying proteinuria, they observed progressive shifts in bacterial communities as proteinuria increased, with certain taxa depleted and others enriched in higher‑grade disease. These microbial changes correlated with clinical markers of kidney dysfunction, suggesting that dysbiosis may track, and potentially contribute to, worsening proteinuria. The findings highlight microbiota composition as a possible biomarker or therapeutic target in CKD progression. Source: PubMed — Microbiology Spectrum.
+
+[[TRANSITION]]
+
+Vaginal microbiota transfer can rescue neurodevelopmental deficits linked to cesarean birth in mice by restoring a specific skin metabolite. Researchers found that C‑section‑delivered neonates lack exposure to maternal vaginal microbes, leaving the role of skin microbiota in brain development unclear. When these mice received vaginal microbiota transfer, skin multi‑omics at 24 hours revealed renewed production of β‑carboline‑sphingosine‑1‑phosphate (N‑bc2S1P). Levels of this molecule correlated with improved ASQ‑3 neurodevelopmental scores, suggesting a mechanistic link between skin‑derived metabolites and cognitive outcomes. The work appears in Cell Host & Microbe via PubMed.
+
+[[TRANSITION]]
+
+Genome‑resolved trait‑based life‑history strategies enable prediction of how microbial communities shift after disturbance, according to a study in The ISME Journal accessed via PubMed. Researchers linked measurable genomic traits—such as growth rate, stress‑response genes, and substrate‑use pathways—to classic life‑history categories (r‑selected, K‑selected, and stress‑tolerant). By mapping these traits onto community metagenomes before and after experimental perturbations, they showed that the relative abundance of each strategy accurately forecasted post‑disturbance composition and functional potential. The approach offers a mechanistic, scalable framework for anticipating microbiome resilience in natural, engineered, and clinical settings.
+
+[[TRANSITION]]
+
+A healthy gut state—not just specific beneficial bacteria—emerges as the primary factor shaping response to immune checkpoint inhibitors, according to a review in Molecular Therapy. Researchers argue that a non‑inflamed gastrointestinal tract with an intact epithelial barrier and a functionally eubiotic microbiome creates the conditions that promote effective anti‑tumor immunity, explaining why patients vary widely in ICI outcomes. The findings shift focus from targeting single microbes to fostering overall gut health as a strategy to improve immunotherapy success. Source: PubMed — Molecular Therapy: the journal of the American Society of Gene Therapy.
+
+[[TRANSITION]]
+
+Researchers mapped how mouse organs age in nonlinear steps, pinpointing specific transition ages where decline accelerates across tissues. By simultaneously profiling gut microbiota, they found that shifts in microbial composition coincided with these multi‑organ aging breakpoints, suggesting a coordinated host‑microbe timetable. The study, published in PubMed’s Journal of Advanced Research, provides the first unified framework linking organ‑specific aging trajectories to microbiome remodeling, highlighting potential windows for interventions that target both host and microbial states to modulate age‑related deterioration future studies.
+
+[[TRANSITION]]
+
+Co‑housing rats together with fluoxetine treatment reversed anxiety‑ and depression‑like behaviors and restored gut‑microbiota balance in a chronic unpredictable mild stress model, according to a study in Brain Research Bulletin. Researchers split Sprague‑Dawley rats into control, CUMS‑only, CUMS + co‑housing, CUMS + fluoxetine, and CUMS + co‑housing + fluoxetine groups. After several weeks, the combined co‑housing‑fluoxetine cohort showed the lowest immobility in forced‑swim tests, reduced open‑field avoidance, and a microbiota profile resembling that of unstressed controls, whereas each single intervention produced only partial improvements. The findings suggest social housing can augment antidepressant efficacy by modulating the gut‑brain axis.
+
+[[TRANSITION]]
+
+Prenatal depressive symptoms may shape the infant’s oral microbiome, according to a new investigation from the Kuopio Birth Cohort Study published in the Journal of Affective Disorders via PubMed. Building on evidence that up to one‑fifth of pregnant women experience depression and that stress can alter the maternal vaginal microbiome, researchers examined whether these prenatal affective changes translate into differences in oral microbial exposure of newborns. The study aimed to clarify a potential pathway linking maternal mental health to early infant microbial colonization, a factor implicated in later developmental outcomes.
+
+[[TRANSITION]]
+
+A recent study in the Journal of Ethnopharmacology (indexed via PubMed) explores how traditional Chinese medicine influences the untargeted metabolomic landscape in ulcerative colitis. By profiling microbiota‑derived metabolites such as short‑chain fatty acids, medium‑long‑chain fatty acids, bile acids and tryptophan derivatives, the work highlights shifts in these key biochemical pathways after TCM treatment. The findings suggest that TCM may help restore metabolic balance disrupted in UC, offering a mechanistic angle for its therapeutic potential. The research underscores the value of untargeted metabolomics in deciphering herbal interventions for inflammatory bowel disease.
+
+[[TRANSITION]]
+
+Tangzhiqing’s active components and their multi‑level effects on diabetic atherosclerosis were uncovered by combining serum pharmacochemistry, pharmacokinetics, metabolomics, bile acid profiling and 16S rRNA sequencing. The study identified specific flavonoids and alkaloids that correlate with improved glucose‑lipid homeostasis, altered bile acid pools and shifts in gut microbiota linked to reduced atherosclerotic lesions. These integrated omics data provide the first systematic material basis and mechanistic map for Tangzhiqing’s anti‑atherosclerotic action in diabetes. Source: PubMed — Journal of ethnopharmacology.
+
+[[TRANSITION]]
+
+The study shows that the kinetic behavior of probiotic strains depends heavily on their formulation, affecting how quickly they establish activity and interact with the gut microbiome after ingestion. By comparing different delivery forms, the researchers reveal that formulation alters survival rates, metabolic onset, and molecular signaling pathways triggered in the host microbiota. These findings underscore that optimizing probiotic efficacy requires matching formulation to desired kinetic profile, not just selecting strains. The work, published in Microbiology Spectrum via PubMed, provides a mechanistic framework for designing next‑generation probiotic therapeutics.
+
+[[TRANSITION]]
+
+Research published in Gut highlights how the gastric microbiota reshapes immune responses within the tumour microenvironment of gastric cancer, driving tumour initiation and progression. The study finds that specific bacterial communities interact with host immune cells, altering cytokine profiles and immune cell infiltration to create a niche that supports malignant growth. By linking microbial composition to immune remodelling, the work underscores the microbiota as a potential modulator of gastric carcinogenesis and suggests targeting these microbes could influence therapeutic outcomes. Source: Gut (PubMed).
+
+[[TRANSITION]]
+
+Forty years of gut‑microbiome science were distilled in the 2025 British Nutrition Foundation Annual Lecture, now summarised in a PubMed‑indexed Nutrition Bulletin article. Professor Glenn Gibson, who led Food Microbiology at the University of Reading until October 2025, traced how anaerobic bacteria in the human intestine shape health, immunity and metabolism, and how diet can steer these communities. The review highlights landmark discoveries—from early culture‑based work to modern metagenomics—and outlines remaining challenges in linking specific microbes to dietary interventions. Source: PubMed — Nutrition bulletin.
+
+[[TRANSITION]]
+
+Tuna oil reduces crab tropomyosin‑triggered food allergy in mice, according to a study in the Journal of Agricultural and Food Chemistry accessed via PubMed. Researchers expressed and purified the crustacean allergen tropomyosin, then fed mice varying doses of tuna oil. The oil lowered allergy symptoms in a dose‑dependent fashion and simultaneously shifted intestinal immune responses, reshaped the gut microbiota, and altered the mucosal proteome. These combined changes suggest that tuna oil can modulate the host‑microbe‑immune axis to dampen hypersensitivity to shellfish proteins. The work highlights a dietary lipid as a potential preventive strategy for crustacean‑related food allergies.
+
+[[TRANSITION]]
+
+Statins, while effective for cardiovascular risk reduction, may disrupt sleep via gut microbiota alterations, according to a review in Chronobiology International (PubMed). The article summarizes clinical and experimental data linking statin therapy to insomnia, altered sleep architecture, vivid dreams, and poorer sleep quality, and proposes that these effects arise from statin‑induced gut dysbiosis that perturbs microbiota‑brain‑circadian signaling pathways. It highlights how shifts in microbial metabolites can influence central clock genes and neurotransmitter systems, suggesting that timing of statin dosing or adjunct microbiome‑targeted strategies could mitigate sleep side‑effects. The review calls for further chronobiological studies to optimize statin therapy.
+
+[[TRANSITION]]
+
+Exposure to fine particulate matter (PM) disrupts the lung microbiota, creating a dysbiotic state that mediates the particle’s immunotoxic effects, according to a study published in the Journal of Immunotoxicology via PubMed. The researchers observed that PM exposure alters microbial community composition in the lungs, and this shift correlates with heightened inflammatory responses and impaired barrier function. By linking microbial changes to PM‑driven pathology, the work highlights the lung microbiome as a key intermediary in air‑pollution‑related health outcomes. Source: PubMed — Journal of immunotoxicology.
+
+[[TRANSITION]]
+
+Immune disorders reshape the nasal microbiome, shifting both bacterial and fungal communities and influencing the presence of Aspergillus, according to a study in the American Journal of Rhinology & Allergy accessed via PubMed. Researchers examined how altered immune status affects microbial colonization in the nasal cavity and evaluated several techniques for detecting Aspergillus in these samples. By linking host immunity to microbial patterns, the work highlights potential diagnostic markers and underscores the need for refined detection strategies in immunocompromised patients. The findings suggest that monitoring nasal microbiota could inform understanding of immune‑related respiratory conditions.
+
+[[TRANSITION]]
+
+Cave microbial communities are shaped primarily by the surrounding environmental matrix and by depth within the cave, according to a study published in Applied and Environmental Microbiology via PubMed. Researchers found that nutrient availability, mineral composition, and vertical position together dictate which bacteria and archaea thrive in the dark, oligotrophic settings of terrestrial caves. Importantly, they demonstrated that field‑portable assays—such as handheld ATP meters and portable DNA sequencers—can reliably capture these patterns without needing full laboratory facilities, opening the door for rapid, on‑site monitoring of cave ecosystems for both ecological insight and public‑health surveillance.
+
+
+References:
+[1] Gut microbiota reshapes host energy metabolism to modulate depressive behaviors. — PubMed — Gut microbes — https://doi.org/10.1080/19490976.2026.2662556
+[2] Microbiome in adult severe caries and cross-kingdom biofilms validation. — PubMed — Clinical oral investigations — https://doi.org/10.1007/s00784-026-06878-9
+[3] Investigating the therapeutic effects of caffeine-naringenin combination on the repair of intestinal permeability and composition of gut microbiota in obese rats under long-term high-fat diet. — PubMed — Naunyn-Schmiedeberg's archives of pharmacology — https://doi.org/10.1007/s00210-026-05136-9
+[4] The dietary index for gut microbiota, genetically predicted gut microbiome, and the risk of chronic kidney disease: a cohort study. — PubMed — Food & function — https://doi.org/10.1039/d6fo00453a
+[5] Functional remodeling of the gut microbiome and metabolome in primary idiopathic male infertility. — PubMed — BMC microbiology — https://doi.org/10.1186/s12866-026-05064-x
+[6] Gut Microbiota: A Critical Regulator of Oxaliplatin-Induced Peripheral Neurotoxicity Development. — PubMed — Neurotoxicology — https://doi.org/10.1016/j.neuro.2026.103460
+[7] Reconstitution of gut microbiota by medicinal plant isoflavones ameliorates heart failure with preserved ejection fraction. — PubMed — Pharmacological research — https://doi.org/10.1016/j.phrs.2026.108199
+[8] An integrated metabolome-microbiome analysis revealed distinct regulatory effects of Xiaoer Chiqiao Qingre granules in young versus adult rats with acute upper respiratory tract infection. — PubMed — Journal of ethnopharmacology — https://doi.org/10.1016/j.jep.2026.121232
+[9] Isopsoralen alleviates osteoarthritis by modulating the MAPK/NF-κB signaling pathway and regulating the structure of gut microbiota. — PubMed — Journal of ethnopharmacology — https://doi.org/10.1016/j.jep.2026.121257
+[10] Dysbiosis of gut microbiota synergizes with the activation of enteric glial cells to promote Alzheimer's disease. — PubMed — Journal of Alzheimer's disease : JAD — https://doi.org/10.1177/13872877261441247
+[11] Gut microbiota-derived trimethylamine-N-oxide protects pulmonary vascular barrier integrity via Vav guanine nucleotide exchange factor 3 (VAV3)-mediated cytoskeletal remodelling in acute lung injury. — PubMed — British journal of pharmacology — https://doi.org/10.1111/bph.70449
+[12] Linkage of gut microbiota dysbiosis to chronic kidney disease in patients with graded proteinuria levels. — PubMed — Microbiology spectrum — https://doi.org/10.1128/spectrum.03294-25
+[13] Vaginal microbiota transfer ameliorates cesarean-associated neurodevelopmental deficits in mice via N-bc2S1P synthesis on neonatal skin. — PubMed — Cell host & microbe — https://doi.org/10.1016/j.chom.2026.03.023
+[14] Predicting microbial community responses to disturbance using genome-resolved trait-based life-history strategies. — PubMed — The ISME journal — https://doi.org/10.1093/ismejo/wrag099
+[15] A "healthy gut state" as the key determinant of immune checkpoint inhibitor efficacy. — PubMed — Molecular therapy : the journal of the American Society of Gene Therapy — https://doi.org/10.1016/j.ymthe.2026.04.034
+[16] Nonlinear trajectories of multi-organ aging and microbial associations in mice. — PubMed — Journal of advanced research — https://doi.org/10.1016/j.jare.2026.04.057
+[17] Impact of co-housing on anxiety- and depression-like behaviors in rats exposed to chronic unpredictable mild stress. — PubMed — Brain research bulletin — https://doi.org/10.1016/j.brainresbull.2026.111889
+[18] Do prenatal affective symptoms have an impact on the infant oral microbial exposure? Results from the Kuopio Birth Cohort Study. — PubMed — Journal of affective disorders — https://doi.org/10.1016/j.jad.2026.121828
+[19] Effect of traditional Chinese medicine on disturbances of untargeted metabolomics in ulcerative colitis. — PubMed — Journal of ethnopharmacology — https://doi.org/10.1016/j.jep.2026.121250
+[20] Material basis and mechanism of Tangzhiqing in alleviating diabetic atherosclerosis: integrated serum pharmacochemistry, pharmacokinetics, metabolomics, bile acid profiling and 16S rRNA sequencing study. — PubMed — Journal of ethnopharmacology — https://doi.org/10.1016/j.jep.2026.121290
+[21] Formulation-dependent kinetics of — PubMed — Microbiology spectrum — https://doi.org/10.1128/spectrum.03637-25
+[22] Gastric microbiota-mediated immune remodelling in gastric cancer. — PubMed — Gut — https://doi.org/10.1136/gutjnl-2026-338505
+[23] Faecal Attraction: 40 Years of Research in Gut Microbiology. — PubMed — Nutrition bulletin — https://doi.org/10.1111/nbu.70052
+[24] Tuna Oil Attenuates Crab Tropomyosin-Induced Food Allergy in Mice via Modulation of Intestinal Immunity, Microbiota, and Proteome. — PubMed — Journal of agricultural and food chemistry — https://doi.org/10.1021/acs.jafc.6c02244
+[25] Statin-induced gut dysbiosis and sleep disturbances: Mechanistic insights into microbiota-brain-circadian interactions and chronotherapeutic implications. — PubMed — Chronobiology international — https://doi.org/10.1080/07420528.2026.2660826
+[26] Lung microbiota dysbiosis mediates PM — PubMed — Journal of immunotoxicology — https://doi.org/10.1080/1547691X.2026.2660647
+[27] Nasal Microbiota in Immune Disorders: Bacterial and Fungal Colonization Patterns and Aspergillus Detection Methods. — PubMed — American journal of rhinology & allergy — https://doi.org/10.1177/19458924261436615
+[28] Cave microbial communities are structured by environmental matrix and depth and can be characterized with field-portable assays. — PubMed — Applied and environmental microbiology — https://doi.org/10.1128/aem.00312-26

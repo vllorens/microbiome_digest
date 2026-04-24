@@ -1,0 +1,258 @@
+{
+  "timestamps": [
+    0.0,
+    43.15,
+    183.62,
+    302.12,
+    422.12,
+    522.44,
+    564.94,
+    614.23,
+    658.5,
+    700.31,
+    742.47,
+    787.08,
+    832.99,
+    879.62,
+    927.21,
+    970.09,
+    1010.79,
+    1060.73,
+    1099.2,
+    1143.88,
+    1186.77,
+    1229.89,
+    1269.7,
+    1312.2,
+    1356.67,
+    1405.99,
+    1446.33,
+    1489.84
+  ],
+  "items": [
+    {
+      "title": "Gut microbiota reshapes host energy metabolism to modulate depressive behaviors.",
+      "url": "https://doi.org/10.1080/19490976.2026.2662556",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Disturbances in energy metabolism are a key pathophysiological feature of major depressive disorder (MDD). The gut microbiota, as a critical regulator of host metabolism, may influence systemic energy homeostasis and contribute to depression. To investigate this, we performed a multi-omics analysis integrating targeted metabolomics and shotgun metagenomic...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Microbiome in adult severe caries and cross-kingdom biofilms validation.",
+      "url": "https://doi.org/10.1007/s00784-026-06878-9",
+      "source": "PubMed — Clinical oral investigations",
+      "one_liner": "OBJECTIVES: Adult severe caries (ASC) is a form of rampant caries that develops in adulthood, causing severe impairment of oral function and reducing quality of life. However, the pathogenic mechanism of ASC remains unclear. This study aimed to identify the core microbiota in patients with ASC and preliminarily investigate the microbial interactions and p...",
+      "segment": 1,
+      "timestamp": 43.15
+    },
+    {
+      "title": "Investigating the therapeutic effects of caffeine-naringenin combination on the repair of intestinal permeability and composition of gut microbiota in obese rats under long-term high-fat diet.",
+      "url": "https://doi.org/10.1007/s00210-026-05136-9",
+      "source": "PubMed — Naunyn-Schmiedeberg's archives of pharmacology",
+      "one_liner": "Obesity-related metabolic dysfunction is closely associated with gut dysbiosis, impaired intestinal barrier function, and endotoxemia, which can induce oxidative stress and liver injury along the gut-liver axis. In this context, caffeine and naringenin were chosen for their potential to address liver injury. Caffeine, a natural methylxanthine, has shown l...",
+      "segment": 2,
+      "timestamp": 183.62
+    },
+    {
+      "title": "The dietary index for gut microbiota, genetically predicted gut microbiome, and the risk of chronic kidney disease: a cohort study.",
+      "url": "https://doi.org/10.1039/d6fo00453a",
+      "source": "PubMed — Food & function",
+      "one_liner": "",
+      "segment": 3,
+      "timestamp": 302.12
+    },
+    {
+      "title": "Functional remodeling of the gut microbiome and metabolome in primary idiopathic male infertility.",
+      "url": "https://doi.org/10.1186/s12866-026-05064-x",
+      "source": "PubMed — BMC microbiology",
+      "one_liner": "",
+      "segment": 4,
+      "timestamp": 422.12
+    },
+    {
+      "title": "Gut Microbiota: A Critical Regulator of Oxaliplatin-Induced Peripheral Neurotoxicity Development.",
+      "url": "https://doi.org/10.1016/j.neuro.2026.103460",
+      "source": "PubMed — Neurotoxicology",
+      "one_liner": "BACKGROUND: Oxaliplatin-induced peripheral neuropathy (OIPN) is a common dose-limiting toxicity that significantly affects patients' quality of life. Although neuroinflammation has been implicated, the precise contribution of the gut-nerve axis remains incompletely understood. This study aimed to investigate the role of gut microbiota and associated infla...",
+      "segment": 5,
+      "timestamp": 522.44
+    },
+    {
+      "title": "Reconstitution of gut microbiota by medicinal plant isoflavones ameliorates heart failure with preserved ejection fraction.",
+      "url": "https://doi.org/10.1016/j.phrs.2026.108199",
+      "source": "PubMed — Pharmacological research",
+      "one_liner": "Heart failure with preserved ejection fraction (HFpEF) is a heterogeneous syndrome with limited therapeutic options. Gut microbiota and microbiota-derived metabolites impact the progression and severity of HFpEF-related cardiometabolic dysfunctions. Here, we demonstrated that the isoflavone extract of Pueraria lobata (Iso-Pl), puerarin, or its microbial m...",
+      "segment": 6,
+      "timestamp": 564.94
+    },
+    {
+      "title": "An integrated metabolome-microbiome analysis revealed distinct regulatory effects of Xiaoer Chiqiao Qingre granules in young versus adult rats with acute upper respiratory tract infection.",
+      "url": "https://doi.org/10.1016/j.jep.2026.121232",
+      "source": "PubMed — Journal of ethnopharmacology",
+      "one_liner": "ETHNOPHARMACOLOGICAL RELEVANCE: Xiaoer Chiqiao Qingre Granules (XECQ), officially recognized in the Chinese Pharmacopoeia (Approval No. Z20123090), represent a widely used traditional Chinese medicine (TCM) formulation for treating acute upper respiratory tract infection (AURTI) across both pediatric and adult patients. AIM OF THE STUDY: This investigatio...",
+      "segment": 7,
+      "timestamp": 614.23
+    },
+    {
+      "title": "Isopsoralen alleviates osteoarthritis by modulating the MAPK/NF-κB signaling pathway and regulating the structure of gut microbiota.",
+      "url": "https://doi.org/10.1016/j.jep.2026.121257",
+      "source": "PubMed — Journal of ethnopharmacology",
+      "one_liner": "ETHNOPHARMACOLOGICAL RELEVANCE: The therapeutic effect of Psoralea corylifolia L. on knee joint pain was recorded as early as the Ming Dynasty in the Compendium of Materia Medica, which notes its actions of tonifying the kidney, strengthening tendons, and bones. Isopsoralen (ISO), derived from the Psoralea corylifolia L., has shown efficacy in improving o...",
+      "segment": 8,
+      "timestamp": 658.5
+    },
+    {
+      "title": "Dysbiosis of gut microbiota synergizes with the activation of enteric glial cells to promote Alzheimer's disease.",
+      "url": "https://doi.org/10.1177/13872877261441247",
+      "source": "PubMed — Journal of Alzheimer's disease : JAD",
+      "one_liner": "BackgroundThe microbiota-gut-brain axis (MGBA) plays a crucial role in the onset and progression of Alzheimer's disease (AD). Enteric glial cells (EGCs) represent a fundamental cellular constituent that upholds the structural and functional integrity of the MGBA. However, the specific mechanistic role of EGCs in the pathogenesis of AD remains unclear.Obje...",
+      "segment": 9,
+      "timestamp": 700.31
+    },
+    {
+      "title": "Gut microbiota-derived trimethylamine-N-oxide protects pulmonary vascular barrier integrity via Vav guanine nucleotide exchange factor 3 (VAV3)-mediated cytoskeletal remodelling in acute lung injury.",
+      "url": "https://doi.org/10.1111/bph.70449",
+      "source": "PubMed — British journal of pharmacology",
+      "one_liner": "BACKGROUND AND PURPOSE: Acute respiratory distress syndrome (ARDS) and acute lung injury (ALI) are characterised by increased pulmonary capillary permeability, but lack effective pharmacotherapies. Emerging evidence implicates gut-lung axis dysregulation in ARDS pathogenesis through microbiome-host interactions, but the specific role of the microbiota-der...",
+      "segment": 10,
+      "timestamp": 742.47
+    },
+    {
+      "title": "Linkage of gut microbiota dysbiosis to chronic kidney disease in patients with graded proteinuria levels.",
+      "url": "https://doi.org/10.1128/spectrum.03294-25",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "Chronic kidney disease (CKD) is highly prevalent worldwide, with proteinuria serving as a key diagnostic and prognostic indicator. The concept of the \"gut-kidney axis\" suggests that gut microbiota dysbiosis may contribute to CKD pathogenesis; however, its relationship with proteinuria severity remains unclear. This study investigated dynamic changes in gu...",
+      "segment": 11,
+      "timestamp": 787.08
+    },
+    {
+      "title": "Vaginal microbiota transfer ameliorates cesarean-associated neurodevelopmental deficits in mice via N-bc2S1P synthesis on neonatal skin.",
+      "url": "https://doi.org/10.1016/j.chom.2026.03.023",
+      "source": "PubMed — Cell host & microbe",
+      "one_liner": "Cesarean section (CS) bypasses neonatal exposure to maternal vaginal microbiota, leaving the metabolic contribution of skin microbiota to neurodevelopment unclear. In CS neonates receiving vaginal microbiota transfer, skin multi-omics at 24 h identified restoration of β-carboline-sphingosine-1-phosphate (N-bc2S1P), whose levels correlated with ASQ-3 score...",
+      "segment": 12,
+      "timestamp": 832.99
+    },
+    {
+      "title": "Predicting microbial community responses to disturbance using genome-resolved trait-based life-history strategies.",
+      "url": "https://doi.org/10.1093/ismejo/wrag099",
+      "source": "PubMed — The ISME journal",
+      "one_liner": "Understanding how microbial communities respond to disturbance remains a fundamental question in ecology, with broad implications for biodiversity, ecosystem function, and biotechnology. Trait-based approaches offer general rules to predict community responses by linking ecological strategies to measurable traits. Whereas life-history strategy frameworks ...",
+      "segment": 13,
+      "timestamp": 879.62
+    },
+    {
+      "title": "A \"healthy gut state\" as the key determinant of immune checkpoint inhibitor efficacy.",
+      "url": "https://doi.org/10.1016/j.ymthe.2026.04.034",
+      "source": "PubMed — Molecular therapy : the journal of the American Society of Gene Therapy",
+      "one_liner": "The gut ecosystem emerges as a key determinant of immune checkpoint inhibitor (ICI) efficacy. Rather than individual \"beneficial\" bacteria, a broader framework of gut health better explains inter-individual variability in ICI response: a non-inflamed gastrointestinal tract with preserved epithelial barrier and functionally eubiotic microbiome promotes res...",
+      "segment": 14,
+      "timestamp": 927.21
+    },
+    {
+      "title": "Nonlinear trajectories of multi-organ aging and microbial associations in mice.",
+      "url": "https://doi.org/10.1016/j.jare.2026.04.057",
+      "source": "PubMed — Journal of advanced research",
+      "one_liner": "INTRODUCTION: Aging is characterized by progressive, nonlinear decline across organ systems, yet the temporal coordination of multi-organ aging and its relationship with gut microbiota remodeling remain insufficiently defined within a unified framework. OBJECTIVES: This study aimed to identify transition points in multi-organ aging trajectories and explor...",
+      "segment": 15,
+      "timestamp": 970.09
+    },
+    {
+      "title": "Impact of co-housing on anxiety- and depression-like behaviors in rats exposed to chronic unpredictable mild stress.",
+      "url": "https://doi.org/10.1016/j.brainresbull.2026.111889",
+      "source": "PubMed — Brain research bulletin",
+      "one_liner": "To investigate the ameliorating effects of co-housing combined with fluoxetine intervention on anxiety- and depression-like behaviors and gut microbiota dysbiosis induced by chronic unpredictable mild stress (CUMS) in rats. SD rats were randomly divided into control group, CUMS stress group, stress + normal co-housing group, stress + fluoxetine group, and...",
+      "segment": 16,
+      "timestamp": 1010.79
+    },
+    {
+      "title": "Do prenatal affective symptoms have an impact on the infant oral microbial exposure? Results from the Kuopio Birth Cohort Study.",
+      "url": "https://doi.org/10.1016/j.jad.2026.121828",
+      "source": "PubMed — Journal of affective disorders",
+      "one_liner": "BACKGROUND: Up to one-fifth of pregnant women are affected by depression, which has been associated with disruptions in the maternal microbiome during pregnancy. Stress-related disruptions in the maternal vaginal microbiome can be carried over to the offspring, and lead to adverse developmental outcomes. OBJECTIVE: We investigated whether maternal depress...",
+      "segment": 17,
+      "timestamp": 1060.73
+    },
+    {
+      "title": "Effect of traditional Chinese medicine on disturbances of untargeted metabolomics in ulcerative colitis.",
+      "url": "https://doi.org/10.1016/j.jep.2026.121250",
+      "source": "PubMed — Journal of ethnopharmacology",
+      "one_liner": "ETHNOPHARMACOLOGICAL RELEVANCE: Ulcerative colitis (UC) is a chronic inflammatory disease of the colon and rectum. UC has become a major health concern because of its high recurrence and poor prognosis. Key microbiota-derived untargeted metabolites, such as short-chain fatty acids, medium-long-chain fatty acids, bile acids, tryptophan and derived metaboli...",
+      "segment": 18,
+      "timestamp": 1099.2
+    },
+    {
+      "title": "Material basis and mechanism of Tangzhiqing in alleviating diabetic atherosclerosis: integrated serum pharmacochemistry, pharmacokinetics, metabolomics, bile acid profiling and 16S rRNA sequencing study.",
+      "url": "https://doi.org/10.1016/j.jep.2026.121290",
+      "source": "PubMed — Journal of ethnopharmacology",
+      "one_liner": "ETHNOPHARMACOLOGICAL RELEVANCE: Diabetic atherosclerosis (DA), characterized by disordered glucose and lipid metabolism, represents a significant metabolic vascular complication. Tangzhiqing (TZQ) has traditionally been used to treat diabetes and its complications. However, its material basis and mechanism for DA remain require further investigation. AIM ...",
+      "segment": 19,
+      "timestamp": 1143.88
+    },
+    {
+      "title": "Formulation-dependent kinetics of",
+      "url": "https://doi.org/10.1128/spectrum.03637-25",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "UNLABELLED: The relationship between gut microbiota and human health has become one of the focal point in medical research. Probiotics, which modulate the gut microbiome, hold considerable promise for both prophylaxis and therapeutic intervention. This requires deeper insights into the kinetic changes and molecular mechanisms upon probiotic entry into the...",
+      "segment": 20,
+      "timestamp": 1186.77
+    },
+    {
+      "title": "Gastric microbiota-mediated immune remodelling in gastric cancer.",
+      "url": "https://doi.org/10.1136/gutjnl-2026-338505",
+      "source": "PubMed — Gut",
+      "one_liner": "Increasing evidence indicates that the gastric microbiota plays crucial roles in regulating the tumour microenvironment (TME), influencing gastric tumourigenesis and progression. Several bacteria, including",
+      "segment": 21,
+      "timestamp": 1229.89
+    },
+    {
+      "title": "Faecal Attraction: 40 Years of Research in Gut Microbiology.",
+      "url": "https://doi.org/10.1111/nbu.70052",
+      "source": "PubMed — Nutrition bulletin",
+      "one_liner": "This article summarises the 2025 British Nutrition Foundation Annual Lecture given on 25/11/25. It overviews aspects of research in anaerobic microbiology, principally involving the human gut. Until October 2025, Gibson was Professor of Food Microbiology at the University of Reading. His research investigated gut microbiome interactions and dietary interv...",
+      "segment": 22,
+      "timestamp": 1269.7
+    },
+    {
+      "title": "Tuna Oil Attenuates Crab Tropomyosin-Induced Food Allergy in Mice via Modulation of Intestinal Immunity, Microbiota, and Proteome.",
+      "url": "https://doi.org/10.1021/acs.jafc.6c02244",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "Food allergies, particularly to crustaceans, are a growing health concern with limited management options. We heterologously expressed and purified crab tropomyosin and then evaluated the beneficial effects of tuna oil on crab TM-induced food allergy in mice. The results demonstrated that tuna oil dose-dependently alleviated allergic symptoms and reduced ...",
+      "segment": 23,
+      "timestamp": 1312.2
+    },
+    {
+      "title": "Statin-induced gut dysbiosis and sleep disturbances: Mechanistic insights into microbiota-brain-circadian interactions and chronotherapeutic implications.",
+      "url": "https://doi.org/10.1080/07420528.2026.2660826",
+      "source": "PubMed — Chronobiology international",
+      "one_liner": "Statins are widely prescribed lipid-lowering agents with well-established efficacy in reducing cardiovascular morbidity and mortality. However, accumulating clinical and experimental evidence suggests that statin therapy may be associated with sleep disturbances, including insomnia, altered sleep architecture, vivid dreams, and reduced sleep quality. Emer...",
+      "segment": 24,
+      "timestamp": 1356.67
+    },
+    {
+      "title": "Lung microbiota dysbiosis mediates PM",
+      "url": "https://doi.org/10.1080/1547691X.2026.2660647",
+      "source": "PubMed — Journal of immunotoxicology",
+      "one_liner": "",
+      "segment": 25,
+      "timestamp": 1405.99
+    },
+    {
+      "title": "Nasal Microbiota in Immune Disorders: Bacterial and Fungal Colonization Patterns and Aspergillus Detection Methods.",
+      "url": "https://doi.org/10.1177/19458924261436615",
+      "source": "PubMed — American journal of rhinology & allergy",
+      "one_liner": "BackgroundThe human respiratory tract hosts a complex microbial ecosystem. The host immune status plays an important role in regulating the microbial composition at different body sites, including the nasal cavity.ObjectiveThis study investigated the effects of immune disorders on nasal microbial colonization and explored Aspergillus detection methods in ...",
+      "segment": 26,
+      "timestamp": 1446.33
+    },
+    {
+      "title": "Cave microbial communities are structured by environmental matrix and depth and can be characterized with field-portable assays.",
+      "url": "https://doi.org/10.1128/aem.00312-26",
+      "source": "PubMed — Applied and environmental microbiology",
+      "one_liner": "UNLABELLED: Terrestrial caves are unique ecosystems characterized by environmental stability, nutrient limitation, and absence of light, yet they host diverse microbial communities with ecological and public health relevance. Microbiome studies of caves have typically been limited in scope, sampling only select environments or cave depths. We conducted a ...",
+      "segment": 27,
+      "timestamp": 1489.84
+    }
+  ]
+}
