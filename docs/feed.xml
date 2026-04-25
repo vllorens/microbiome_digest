@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Apr 2026 05:45:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 05:26:35 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-04-25</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-25/podcast_2026-04-25.mp3</guid>
+      <pubDate>Sat, 25 Apr 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-25/podcast_2026-04-25.mp3" length="15883172" type="audio/mpeg" />
+      <description>We need to write a deep dive segment ~220-340 words, based only on provided info. | We need to be conversational, slightly playful, start directly with core innovation, no greetings. | We must mention source name naturally when making a claim: e.g., &quot;As reported in Nature Microbiology...&quot; or &quot;The study published in Nature Microbiology...&quot;</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>We need to write a deep dive segment ~220-340 words, based only on provided info. | We need to be conversational, slightly playful, start directly with core innovation, no greetings. | We must mention source name naturally when making a claim: e.g., &quot;As reported in Nature Microbiology...&quot; or &quot;The study published in Nature Microbiology...&quot;</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-04-24</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-24/podcast_2026-04-24.mp3</guid>
       <pubDate>Fri, 24 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-24/podcast_2026-04-24.mp3" length="11438516" type="audio/mpeg" />
-      <description>Researchers report that gut microbiota can reshape host energy metabolism, thereby influencing depressive behaviors. | This study set out to define the core microbiome associated with adult severe caries (ASC) and to preliminarily investigate microbial interactions and cross‑kingdom biofilm validation in this condition. | The article, indexed in PubMed and published in Clinical Oral Investigations, states that the primary objectives were to identify the core microbiota present in patients with ASC and to explore the nature of their interactions, with an explicit aim to validate the presence of cross‑kingdom biofilms.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-24/podcast_2026-04-24.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Researchers report that gut microbiota can reshape host energy metabolism, thereby influencing depressive behaviors. | This study set out to define the core microbiome associated with adult severe caries (ASC) and to preliminarily investigate microbial interactions and cross‑kingdom biofilm validation in this condition. | The article, indexed in PubMed and published in Clinical Oral Investigations, states that the primary objectives were to identify the core microbiota present in patients with ASC and to explore the nature of their interactions, with an explicit aim to validate the presence of cross‑kingdom biofilms.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
