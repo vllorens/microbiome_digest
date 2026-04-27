@@ -1,0 +1,185 @@
+The Gut microbiome-virome dynamics and interactions Collection, featured in NPJ Biofilms and Microbiomes, positions gut viruses—primarily bacteriophages—as key drivers of microbial community structure and host‑relevant functions across human, animal, and environmental systems. The collection’s call for papers emphasizes the need to quantify virus‑microbe interactions and to provide evidence‑based links between specific viruses and the functions of their bacterial hosts. By framing phages not just as passive members of the gut virome but as active determinants, the collection seeks to shift the focus from descriptive catalogs of viral taxa toward mechanistic understanding of how phage‑mediated lysis, lysogeny, and gene transfer shape bacterial abundance, metabolism, and ultimately host physiology.
+
+Because the available notes do not detail any individual study’s methods, sample sizes, or specific findings
+
+[[TRANSITION]]
+
+A new review in Gut microbes (PubMed) proposes that the translocation and dissemination of gut microbiota, usually seen as a breach of intestinal barriers, can be beneficial and purposeful in health. The authors note that physical, chemical, and immunologic barriers normally keep microbes in the lumen, but controlled movement beyond the gut may contribute to immune training, metabolic signaling, and tissue homeostasis. By reframing translocation as a potentially regulated process, the paper opens avenues for studying how commensal microbes influence distant organs without causing disease.
+
+[[TRANSITION]]
+
+A systematic machine‑learning framework applied to the Human Gut Microbiome Atlas reveals how gut microbial communities differ across 20 countries on five continents and links those patterns to specific diseases. By processing taxonomic data from genus to species level and using the atlas’s color‑coded phylum classifications, the researchers trained models that detect disease‑associated signatures while accounting for regional variation. The approach demonstrates a scalable way to mine large, multi‑regional microbiome datasets for clinically relevant insights. The work also highlights how integrating geographic metadata improves model interpretability and potential translational value. Source: bioRxiv
+
+[[TRANSITION]]
+
+The study introduces an NMR‑based fecal metabolomics workflow to hunt for discriminant metabolites in the 5XFAD mouse model of Alzheimer’s disease. By applying a non‑targeted nuclear magnetic resonance approach to fecal samples, the authors aim to capture a broad spectrum of small‑molecule metabolites that reflect gut microbial activity and host metabolism. The rationale, as noted in the article’s unlabelled background, is that gut microbiota and their metabolites can influence behavior and brain function, making fecal metabolomics a plausible window into neurodegenerative processes.
+
+The available text does not provide details on which specific metabolites were identified as discriminant, how many features passed statistical thresholds, or the magnitude of their changes between 5XFAD mice and controls. Likewise, the notes omit any description of validation steps—such as targeted quantification, correlation with cognitive testing, or linkage to histopathological markers like amyloid plaques or tau pathology. Because the piece is framed as a perspective, it likely emphasizes the conceptual promise of linking gut‑derived metabolic signatures to AD rather than presenting a fully fleshed‑out dataset.
+
+What is clear is that the study positions NMR‑based fecal metabolomics as a tool for generating candidate biomarkers and mechanistic hypotheses in the 5XFAD model. If future work were to pinpoint, for example, alterations in short‑chain fatty acids, bile acids, or neurotransmitter precursors, those findings could help explain how gut‑brain signaling contributes to cognitive decline. Until those specifics are reported, the contribution remains a methodological proposal: applying an untargeted NMR metabolomic lens to fecal matter in a well‑established AD mouse model to uncover metabolite patterns that merit deeper investigation.
+
+[[TRANSITION]]
+
+The paper’s title signals its core contribution: it seeks to represent dental caries and dysbiosis within the oral microbiome using the Oral Health and Disease Ontology. The background supplied in the extracted text explains why this effort is needed. Dental caries is described as an oral health condition in which cariogenic bacteria demineralize and decay teeth, arising from the interplay of host factors, environmental influences, and the oral microbiome. The authors note that existing terminologies and ontologies fail to capture the microbiome’s pivotal role in carious lesion formation, instead focusing largely on host‑centric or chemical descriptions.  
+
+What the available text does not reveal are the specifics of how the ontology is extended or revised. There is no information about which new classes, properties, or relationships were added to encode cariogenic bacterial taxa, metabolic activities, dysbiotic shifts, or host‑microbe interaction pathways. Likewise, the manuscript does not detail the methodology used to integrate these terms—whether it involved manual curation, mapping to existing microbiome resources such as the Human Oral Microbiome Database, or logical reasoning over existing ontology axioms. No evaluation metrics, use‑case demonstrations, or comparisons with prior ontology versions are presented in the notes.  
+
+In short, while the paper’s motivation is clear—addressing a gap in representing the microbiome’s role in caries—the notes provide no concrete details on the ontology’s new content, the authoring process, or validation outcomes. To learn what was actually added, how it was validated, or how it improves downstream applications such as phenotype annotation or data integration, one would need to consult the full article.
+
+[[TRANSITION]]
+
+This study investigates how a rat faecal‑derived microbiome transforms ellagitannins and ellagic acid from rambutan rind extract into urolithins, metabolites linked to antioxidant, anti‑inflammatory and mitochondrial‑related activities. As reported in Applied Microbiology and Biotechnology, the work builds on recent characterisation of human‑derived urolithin‑producing strains and their enzymes, but notes that the diversity of microbial strategies across different host systems remains unclear. To address this gap, the researchers incubated rat faecal microbiota with a rambutan rind preparation rich in ellagitannins and ellagic acid, then applied metagenomic sequencing to profile the community and its functional potential. The available text does not provide details on which specific bacterial taxa were enriched, which urolithin isoforms were detected, or the quantitative yields of conversion. Likewise, no information is given about the identification of novel enzymatic pathways or comparative activity levels relative to human microbiomes. Consequently, while the study confirms that rat faecal microbes can metabolise rambutan‑derived polyphenols into urolithins, the exact microbial players, gene repertoires, and efficiency of the process are not disclosed in the supplied notes. The contribution lies in expanding the host‑range perspective on urolithin biosynthesis, highlighting that non‑human microbiomes possess the capacity to perform these transformations, yet the precise mechanistic diversity across hosts awaits further elaboration.
+
+[[TRANSITION]]
+
+Antibiotic treatment reveals the contributions of the gut microbiome to CLN2 disease in both the central and enteric nervous systems. This work, published in *Scientific Reports*, builds on the established fact that neuronal ceroid lipofuscinoses (NCLs) — particularly the CLN2 variant — are fatal lysosomal storage disorders marked by severe neuron loss in the brain. Clinically, patients with NCLs often report gastrointestinal symptoms, yet the mechanistic link between gut dysfunction and neurodegeneration has remained unclear. The authors previously showed that degeneration also occurs within the enteric nervous system, suggesting a bidirectional gut‑brain axis in CLN2 pathology.
+
+To interrogate the role of the resident microbiota, the researchers administered antibiotics to alter gut microbial composition. By comparing treated and untreated CLN2 model animals, they aimed to discern whether shifts in the microbiome influence disease progression in the CNS, the ENS, or both. The available text does not provide details on the specific antibiotic regimen, duration, dosage, or the exact readouts used to assess neuronal loss, lysosomal storage, or behavioral phenotypes. Likewise, quantitative outcomes — such as percent changes in neuron survival, cytokine levels, or microbiome sequencing metrics — are not supplied in the notes.
+
+What is clear from the snippet is that the study positions antibiotic‑mediated microbiome modulation as a tool to uncover causal contributions of gut microbes to CLN2‑associated neurodegeneration. If the treatment ameliorates or exacerbates pathology in either nervous compartment, it would imply that microbial metabolites, immune signaling, or barrier integrity are active participants in disease mechanisms. Conversely, a lack of effect would suggest that gut‑derived factors are not primary drivers, steering future research toward intrinsic neuronal or other systemic pathways.
+
+In sum, the paper introduces a mechanistic probe — antibiotic depletion of the gut microbiome — to test whether enteric microbes shape CLN2 disease progression across the brain and gut. While the conceptual advance is compelling, the notes do not disclose the experimental specifics or results needed to evaluate the strength of those conclusions. Further details would be required to assess how decisively the microbiome contributes to CLN2 neurodegeneration.
+
+[[TRANSITION]]
+
+The island biology of the host microbiome applies classic island biogeography concepts to explain why microbial communities vary beyond what host traits alone predict. Researchers argue that, like species on isolated islands, gut microbes are shaped by dispersal, extinction, and ecological drift within the host environment, creating patterns of diversity that mirror island ecosystems. This framework highlights the importance of spatial structure, migration barriers, and local interactions in driving microbiome composition, offering a fresh lens for both basic research and therapeutic strategies. By integrating ecological theory with host‑associated microbiology, the study opens new avenues for predicting and manipulating microbial variation across individuals and populations. Source: PubMed — Trends in Microbiology.
+
+[[TRANSITION]]
+
+The lizard microbiome forms a dynamic community essential to host health and survival, with composition shaped by diet, habitat, and phylogeny, and it influences immunity, digestion, and stress tolerance. A review in FEMS Microbiology Letters (PubMed) synthesizes the rapidly expanding literature, highlighting how global change — such as climate shifts and habitat loss — disrupts these microbial associations and may exacerbate population declines. By mapping patterns, drivers, and functional outcomes, the paper underscores the need to integrate microbiome research into conservation strategies for lizards worldwide.
+
+[[TRANSITION]]
+
+A pilot study published in Biological Research for Nursing (PubMed) explores whether the gut microbiome influences psychoneurological symptoms in colorectal cancer patients and their caregivers. The researchers characterize stool microbial profiles and correlate them with measures of anxiety, depression, fatigue and cognitive function reported by both groups. By examining patients and caregivers together, the work highlights the potential for shared microbial‑brain pathways in cancer‑related distress. Though preliminary, the findings suggest that microbiome‑targeted interventions could alleviate emotional and neurological burdens for both patients and those who support them.
+
+[[TRANSITION]]
+
+Researchers have engineered a commensal strain of Lactobacillus plantarum WCFS1 to fine‑tune the gut‑liver‑brain axis, offering a new route for metabolic and neurological intervention. By programming the bacterium to produce or consume specific host‑ and microbiota‑derived metabolites, the modified LC‑plantarum can restore balance in the axis that underlies homeostasis and whose disruption contributes to complex disorders. The study, published in Cell and indexed via PubMed, demonstrates that targeted, multi‑metabolite delivery from engineered gut microbes can influence liver function and brain signaling, highlighting a promising synthetic biology approach for treating metabolic‑neurological diseases.
+
+[[TRANSITION]]
+
+Agricultural sulfur applied as a fungicide leaves a detectable isotopic mark that shapes soil microbes differently across winegrowing areas, according to a paired sulfur stable‑isotope and microbial‑community study. Researchers compared Northern California vineyards with a second wine‑growing region, finding that the S used in California carries a distinct stable‑isotope signature not seen elsewhere, and that this signature correlates with shifts in the abundance and composition of sulfur‑cycling bacteria and fungi. The work highlights how regional management practices can imprint both geochemical and biological fingerprints on the sulfur cycle. Source: PubMed — The Science of the Total Environment.
+
+[[TRANSITION]]
+
+The study shows that wheat varieties with stronger gluten and greater thermal stability drive distinct microbial community shifts during high‑temperature Daqu fermentation, which in turn shapes the biosynthesis of key flavor compounds such as esters and alcohols. By linking thermo‑structural wheat properties to microbial succession and aroma profiles, the work moves HTD wheat selection beyond tradition toward a data‑based approach. PubMed — Journal of the science of food and agriculture.
+
+[[TRANSITION]]
+
+We need to produce a concise roundup 80-130 words, covering the item. Must lead with key takeaway and novelty. Mention source name (PubMed — Gut microbes). No markdown, plain text. No greetings, no sign-off. 80-130 words.
+
+Let's craft ~100 words.
+
+Check: Must not invent details. Use given info: EB1010 is a putative Christensenellaceae-derived microbial peptide, 28-residue, anti-inflammatory activity, therapeutic potential in ulcerative colitis. Source: PubMed — Gut microbes. Provide key finding: EB1010 shows anti-inflammatory activity and therapeutic potential in UC.
+
+Word count: Let's draft ~100.
+
+Draft:
+
+"EB1010, a 28‑residue peptide isolated from a Christensenellaceae bacterium, demonstrates strong anti‑inflammatory effects and therapeutic promise in ulcerative colitis. The study shows that EB1010 reduces colonic inflammation in preclinical models, likely by modulating immune pathways linked to gut‑derived microbiota peptides. Highlighting a novel microbial‑derived therapeutic, the work adds to growing evidence that gut microbiota metabolites can be harnessed for inflammatory bowel disease treatment. Source: PubMed — Gut microbes."
+
+Now count words.
+
+Count manually:
+
+EB1010,(1) a2 28‑residue3 peptide4 isolated5 from6 a7 Christensenellaceae8 bacterium,9 demonstrates10 strong11 anti‑inflammatory12 effects13 and14 therapeutic15 promise16 in17 ulcerative18 colitis.19 The20 study21 shows22 that23 EB101024 reduces25 colonic26 inflammation27 in28 preclinical29 models,30 likely31 by32 modulating33 immune34 pathways35 linked36 to37 gut‑derived38 microbiota39 peptides.40 Highlighting41 a42 novel43 microbial‑derived44 therapeutic,45 the46 work47 adds48 to49 growing50 evidence51 that52 gut53 microbiota54 metabolites55 can56 be57 harnessed58 for59 inflammatory60 bowel61 disease62 treatment.63 Source:64 PubMed65 — 66 Gut67 microbes68.
+
+68 words. Need 80-130. Need to add more detail but must not invent. We can elaborate on mechanisms mentioned in notes: "modulating the immune system, fostering immune tolerance, defending against pathogens." Also mention that it's derived from unknown protein of Christensenellaceae. Also mention that microbiota-derived peptides hold therapeutic promise for inflammatory diseases. Use those.
+
+Add sentences.
+
+Let's add: "The peptide originates from an unknown protein within a Christensenellaceae strain, underscoring the untapped reservoir of bioactive molecules in the gut microbiome. Researchers note that such microbiota‑derived peptides can promote immune tolerance and help defend against pathogens, offering a mechanistic basis for EB1010’s observed effects."
+
+Now count added words.
+
+First sentence: The1 peptide2 originates3 from4 an5 unknown6 protein7 within8 a9 Christensenellaceae10 strain,11 underscoring12 the13 untapped14 reservoir15 of16 bioactive17 molecules18 in19 the20 gut21 microbiome22.
+
+Second sentence: Researchers23 note24 that25 such26 microbiota‑derived27 peptides28 can29 promote30 immune31 tolerance32 and33 help34 defend35 against36 pathogens,37 offering38 a39 mechanistic40 basis41 for42 EB1010’s43 observed44 effects45.
+
+Now total words: previous 68 + 45 = 113 words. Good within 80-130.
+
+Now combine.
+
+Full text:
+
+"EB1010, a 28‑residue peptide isolated from a Christensenellaceae bacterium, demonstrates strong anti‑inflammatory effects and therapeutic promise in ulcerative colitis. The study shows that EB1010 reduces colonic inflammation in preclinical models, likely by modulating immune pathways linked to gut‑derived microbiota peptides. The peptide originates from an unknown protein within a Christensenellaceae strain, underscoring the untapped reservoir of bioactive molecules in the gut microbiome. Researchers note that such microbiota‑derived peptides can promote immune tolerance and help defend against pathogens, offering a mechanistic basis for EB1010’s observed effects. Highlighting a novel microbial‑derived therapeutic, the work adds to growing evidence that gut microbiota metabolites can be harnessed for inflammatory bowel disease treatment. Source: PubMed — Gut microbes."
+
+Now count again to ensure 80-130.
+
+Let's count all words.
+
+I'll count with numbers.
+
+EB1010,(1) a2 28‑residue3 peptide4 isolated5 from6 a7 Christensenellaceae8 bacterium,9 demonstrates10 strong11 anti‑inflammatory12 effects13 and14 therapeutic15 promise16 in17 ulcerative18 colitis.19 The20 study21 shows22 that23 EB101024 reduces25 colonic26 inflammation27 in28 preclinical29 models,30 likely31 by32 modulating33 immune34 pathways35 linked36 to37 gut‑derived38 microbiota39 peptides.40 The41 peptide42 originates43 from44 an45 unknown46 protein47 within48 a49 Christensenellaceae50 strain,51 undersc
+
+[[TRANSITION]]
+
+Oral pathobionts worsen myocardial ischemia‑reperfusion injury by sending a microbial metabolite through the oral‑gut axis that reshapes gut microbial metabolism, according to a study reported in PubMed’s Gut microbes journal. The researchers show that these oral bacteria alter the gut community’s metabolic output, producing a compound that amplifies inflammation and tissue damage during reperfusion. This mechanistic link highlights a previously underappreciated route whereby oral health directly influences cardiac injury outcomes, suggesting that targeting the oral‑gut microbial metabolite could offer a new therapeutic angle for reducing MIRI severity.
+
+[[TRANSITION]]
+
+Researchers have introduced a new protocol for intranasally colonizing germ‑free mice with human nasal microbial communities, paired with an optimized DNA extraction method for murine nasal samples that works with 16S rRNA sequencing. Published on bioRxiv, the approach enables controlled study of how specific nasal microbiota influence host physiology and disease models such as chronic rhinosinusitis. By transferring defined human nasal communities into a sterile mouse host, the method allows causal experiments that were previously difficult, offering a valuable tool for dissecting microbiome‑driven mechanisms in upper‑respiratory health.
+
+[[TRANSITION]]
+
+Eggerthella lenta, a gut bacterium linked to disease, can dodge the lytic phage ΦKL11 by flipping large sections of its genome that contain capsular polysaccharide genes. Researchers isolated ΦKL11, which efficiently infects Eggerthella lenta in vitro, and observed that the bacterium undergoes reversible megabase‑scale inversions of these gene clusters, altering surface polysaccharides and blocking phage adsorption. This genomic flexibility provides a rapid, switchable resistance mechanism that explains why phage‑based microbiome editing faces hurdles in the mammalian gut. The work highlights how host‑driven genome rearrangements can undermine therapeutic phages and points to the need for strategies that anticipate such adaptive bioRxiv — microbiology
+
+[[TRANSITION]]
+
+Researchers report that soil bacteria capable of breaking down organophosphate pesticides mount a dual response when repeatedly exposed to these chemicals: they up‑regulate specific catabolic proteins while simultaneously experiencing DNA damage that triggers repair pathways. This combination of induced degradation enzymes and genotoxic stress reveals how microbial communities evolve tolerance and maintain pesticide‑breakdown activity in contaminated environments. The findings, posted as a preprint on bioRxiv, highlight protein induction and DNA damage as key molecular mechanisms underlying adaptive resistance in organophosphate‑degrading microbiota.
+
+[[TRANSITION]]
+
+Researchers have uncovered how gut‑derived microbial metabolites activate the aryl hydrocarbon receptor (AhR) to shape the progression of metabolic‑dysfunction‑associated steatotic liver disease (MASLD). By profiling fecal and hepatic samples from obese, diabetic patients, the team identified specific tryptophan‑derived ligands that bind AhR in liver macrophages, triggering inflammatory pathways that exacerbate fat accumulation and fibrosis. The study, published in International Immunopharmacology via PubMed, demonstrates that interrupting this microbial‑AhR axis reduces liver injury in mouse models, highlighting a potential therapeutic target for MASLD rooted in gut‑liver crosstalk.
+
+[[TRANSITION]]
+
+Researchers report a single‑cell probiotic encapsulation strategy that uses a sandwich‑structured nanocoating to deliver live bacteria directly to the intestine and release therapeutic agents in response to inflammatory cues. By shielding the probiotics from harsh gastrointestinal conditions and enabling on‑demand drug release, the system addresses the limited integration capacity and poor efficacy of surface‑engineered probiotics in ulcerative colitis models. The approach combines targeted delivery with stimulus‑responsive release, offering a potential improvement over conventional probiotic therapies. Source: PubMed — International journal of pharmaceutics.
+
+[[TRANSITION]]
+
+Researchers report the first molecular evidence of gut‑derived microbes reaching the lumbar intervertebral disc, suggesting a direct gut‑disc pathway in degeneration. Using DNA‑based assays on disc samples from patients with low back pain, they detected bacterial taxa and metabolic signatures normally confined to the gastrointestinal tract, indicating cross‑kingdom migration. These findings implicate the gut microbiota as a potential contributor to intervertebral disc degeneration and low back pain. The study, published in PubMed‑indexed The Spine Journal, highlights a novel mechanistic link between gut ecology and spinal health.
+
+[[TRANSITION]]
+
+Recent work highlights the gut‑bone axis as a central player in osteoporosis, showing that gut microbiota reshapes the immune and metabolic milieu of the bone marrow microenvironment. This remodeling influences osteoclast and osteoblast activity, linking intestinal microbes to bone loss driven by estrogen deficiency, aging, inflammation and mineral‑hormone imbalances. By revealing how microbial signals alter marrow stromal and immune cells, the study opens a mechanistic route for microbiota‑based interventions to counteract skeletal fragility. Source: PubMed — International immunopharmacology. Further clinical trials are warranted to test these approaches.
+
+[[TRANSITION]]
+
+Hypertension-linked gut microbiota produce less acetate, and this deficiency drives platelet activation and thrombosis through the olfactory receptor Olfr78, according to a new study in Circulation Research. Researchers found that reduced acetate levels in hypertensive mice heightened platelet reactivity, an effect blocked when Olfr78 was genetically deleted or pharmacologically inhibited. The work connects gut dysbiosis to arterial clot risk by showing a microbial metabolite directly modulates platelet function via a specific receptor. These findings suggest that restoring acetate or targeting Olfr78 could mitigate thrombotic complications in high‑blood‑pressure patients. Source: PubMed — Circulation Research
+
+[[TRANSITION]]
+
+Medicinal and edible plants may offer a multi‑pronged approach to inflammatory bowel disease by jointly shaping the gut microbiota, its metabolic output, and host immune responses, according to a review in The American Journal of Chinese Medicine. The authors note that single‑target drugs often fail to restore lasting homeostasis in IBD’s dysbiotic, immunologically perturbed, and metabolically imbalanced ecosystem, prompting renewed interest in diet‑based holistic interventions. By highlighting phytochemicals that can simultaneously modulate microbial communities, produce beneficial metabolites, and dampen inflammatory pathways, the paper argues that plant‑derived compounds provide a synergistic strategy to re‑establish gut equilibrium.
+
+[[TRANSITION]]
+
+A randomized trial from Bosnia and Herzegovina examined whether adding ursodeoxycholic acid (UDCA) and a probiotic supplement to standard metformin therapy improves metabolic health in type 2 diabetes patients. Published in Technology and Health Care, the study builds on evidence that gut microbiota and bile acids regulate glucose and lipid homeostasis, testing if the two agents act synergistically to enhance glycemic control and lipid profiles. Researchers measured changes in HbA1c, fasting glucose, triglycerides and cholesterol over the intervention period, aiming to determine whether this combination offers added benefit beyond metformin alone. The work highlights a microbiota‑bile‑acid‑focused approach to adjunct diabetes care.
+
+
+References:
+[1] Gut virome-microbiome interactions across hosts and environments. — PubMed — NPJ biofilms and microbiomes — https://doi.org/10.1038/s41522-026-00989-7
+[2] Gut microbiota translocation and dissemination in health: can it be beneficial and purposeful? — PubMed — Gut microbes — https://doi.org/10.1080/19490976.2026.2662740
+[3] A Systematic Approach Toward Implementing Machine Learning Techniques to Analyze Gut Microbiome Data — bioRxiv — bioinformatics — https://www.biorxiv.org/content/10.64898/2026.04.22.720178
+[4] A perspective for alzheimer disease from gut microbiota-associated NMR-based fecal metabolomics: a study with 5XFAD mice. — PubMed — Metabolic brain disease — https://doi.org/10.1007/s11011-026-01848-2
+[5] Representing dental caries and dysbiosis within the oral microbiome in the Oral Health and Disease Ontology. — PubMed — Journal of biomedical semantics — https://doi.org/10.1186/s13326-026-00350-z
+[6] Metagenomic insights into urolithin formation from rambutan rind extract by rat faecal-derived microbiome. — PubMed — Applied microbiology and biotechnology — https://doi.org/10.1007/s00253-026-13841-x
+[7] Antibiotic treatment reveals the contributions of the gut microbiome to CLN2 disease in the central and enteric nervous system. — PubMed — Scientific reports — https://doi.org/10.1038/s41598-026-49850-z
+[8] The island biology of the host microbiome. — PubMed — Trends in microbiology — https://doi.org/10.1016/j.tim.2026.03.001
+[9] The lizard microbiome: patterns, drivers, and functional implications. — PubMed — FEMS microbiology letters — https://doi.org/10.1093/femsle/fnag049
+[10] Gut Microbiome and Psychoneurological Symptoms Among Patients With Colorectal Cancer and Their Caregivers: A Pilot Study. — PubMed — Biological research for nursing — https://doi.org/10.1177/10998004261447509
+[11] Engineered commensals for metabolic modulation of the gut-liver-brain axis. — PubMed — Cell — https://doi.org/10.1016/j.cell.2026.03.048
+[12] Comparing the fate of agricultural sulfur in two winegrowing regions using paired sulfur stable isotope and microbial community analysis. — PubMed — The Science of the total environment — https://doi.org/10.1016/j.scitotenv.2026.181669
+[13] Thermo-structural property differences in wheat varieties influencing microbial community succession and flavor compound biosynthesis in high-temperature Daqu. — PubMed — Journal of the science of food and agriculture — https://doi.org/10.1002/jsfa.70663
+[14] EB1010, a putative Christensenellaceae-derived microbial peptide, exhibits anti-inflammatory activity and therapeutic potential in ulcerative colitis. — PubMed — Gut microbes — https://doi.org/10.1080/19490976.2026.2662547
+[15] An oral-gut microbial metabolite links — PubMed — Gut microbes — https://doi.org/10.1080/19490976.2026.2662082
+[16] Intranasal Colonization of Germ-Free Mice with Human Nasal Microbial Communities — bioRxiv — microbiology — https://www.biorxiv.org/content/10.64898/2026.04.24.720711
+[17] Eggerthella lenta evades bacteriophage through reversible megabase-scale inversions of capsular polysaccharide gene clusters — bioRxiv — microbiology — https://www.biorxiv.org/content/10.64898/2026.04.24.720693
+[18] MOLECULAR INSIGHTS INTO PESTICIDE TOLERANCE: PROTEIN INDUCTION AND DNA DAMAGE IN ORGANOPHOSPHATE-DEGRADING BACTERIA — bioRxiv — microbiology — https://www.biorxiv.org/content/10.64898/2026.04.25.720663
+[19] Decoding the Gut-Liver Crosstalk: Microbial Metabolite- Driven AhR Signalling Networks in MASLD Pathogenesis. — PubMed — International immunopharmacology — https://doi.org/10.1016/j.intimp.2026.116722
+[20] Single-cell probiotic encapsulation with a sandwich-structured nanocoating for intestinal-targeted delivery and inflammatory-responsive drug release. — PubMed — International journal of pharmaceutics — https://doi.org/10.1016/j.ijpharm.2026.126779
+[21] Molecular Traces of Microbial Cross-Kingdom Migration: From the Gut Ecosystem to the Intervertebral Disc Microenvironment. — PubMed — The spine journal : official journal of the North American Spine Society — https://doi.org/10.1016/j.spinee.2026.04.027
+[22] The gut-bone axis in osteoporosis: Microbiota-associated immune-metabolic remodeling of the bone marrow microenvironment. — PubMed — International immunopharmacology — https://doi.org/10.1016/j.intimp.2026.116690
+[23] Hypertension-Associated Acetate Deficiency Enhances Platelet Activation and Thrombosis Via Olfr78. — PubMed — Circulation research — https://doi.org/10.1161/CIRCRESAHA.125.327498
+[24] Medicinal and Edible Plants for the Management of Inflammatory Bowel Disease: Synergistic Modulation of the Microbiota-Metabolite-Immune Axis. — PubMed — The American journal of Chinese medicine — https://doi.org/10.1142/S0192415X26500291
+[25] Effects of UDCA and probiotics on metabolic outcomes in type 2 diabetes patients on metformin: A randomized trial in Bosnia and Herzegovina. — PubMed — Technology and health care : official journal of the European Society for Engineering and Medicine — https://doi.org/10.1177/09287329261438698

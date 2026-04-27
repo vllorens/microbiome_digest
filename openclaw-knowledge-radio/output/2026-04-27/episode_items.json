@@ -1,0 +1,231 @@
+{
+  "timestamps": [
+    0.0,
+    56.16,
+    94.55,
+    140.65,
+    252.7,
+    363.82,
+    458.9,
+    608.85,
+    663.59,
+    705.16,
+    746.91,
+    790.54,
+    833.88,
+    865.24,
+    1262.54,
+    1302.85,
+    1344.63,
+    1392.8,
+    1435.18,
+    1480.53,
+    1522.48,
+    1562.48,
+    1606.26,
+    1653.72,
+    1700.28
+  ],
+  "items": [
+    {
+      "title": "Gut virome-microbiome interactions across hosts and environments.",
+      "url": "https://doi.org/10.1038/s41522-026-00989-7",
+      "source": "PubMed — NPJ biofilms and microbiomes",
+      "one_liner": "The Gut microbiome-virome dynamics and interactions Collection highlights gut viruses, mainly bacteriophages, as determinants of microbial community structure and host-relevant functions across human, animal, and environmental systems. The Collection welcomes studies that quantify virus-microbe interactions, evidence-based linking viruses to microbial hos...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Gut microbiota translocation and dissemination in health: can it be beneficial and purposeful?",
+      "url": "https://doi.org/10.1080/19490976.2026.2662740",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "The gut harbors diverse community of microorganisms collectively known as the gut microbiota, which has important roles in health and disease, both within the gut and in distant tissues. In the healthy gut, physical, chemical/biochemical, and immunologic barriers confine these microbes to the gut lumen, and accordingly, the translocation and dissemination...",
+      "segment": 1,
+      "timestamp": 56.16
+    },
+    {
+      "title": "A Systematic Approach Toward Implementing Machine Learning Techniques to Analyze Gut Microbiome Data",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.22.720178",
+      "source": "bioRxiv — bioinformatics",
+      "one_liner": "This study investigates the relationship between the gut microbiota and specific diseases. Data was collected from the Human Gut Microbiome Atlas, which examines regional variations across 20 countries on five continents, categorizing microbial species by taxonomy, from genus to species. The Atlas provides color-coded phylum classifications, numerical spe...",
+      "segment": 2,
+      "timestamp": 94.55
+    },
+    {
+      "title": "A perspective for alzheimer disease from gut microbiota-associated NMR-based fecal metabolomics: a study with 5XFAD mice.",
+      "url": "https://doi.org/10.1007/s11011-026-01848-2",
+      "source": "PubMed — Metabolic brain disease",
+      "one_liner": "UNLABELLED: Alzheimer’s disease (AD), a neurodegenerative, irreversible, and progressive brain disorder, is characterized by memory loss and cognitive dysfunction. In neurodegeneration, gut microbiota and their metabolites have an impact on behavior and brain function. This study aimed to identify fecal candidate discriminant metabolites in 5XFAD mice ass...",
+      "segment": 3,
+      "timestamp": 140.65
+    },
+    {
+      "title": "Representing dental caries and dysbiosis within the oral microbiome in the Oral Health and Disease Ontology.",
+      "url": "https://doi.org/10.1186/s13326-026-00350-z",
+      "source": "PubMed — Journal of biomedical semantics",
+      "one_liner": "BACKGROUND: Dental caries is an oral health condition in which cariogenic bacteria demineralize and decay teeth. It arises due to interaction between the host, environment, and oral microbiome. Current terminologies and ontologies, however, do not accurately represent the important role that the microbiome has in the formation of carious lesions. Rather, ...",
+      "segment": 4,
+      "timestamp": 252.7
+    },
+    {
+      "title": "Metagenomic insights into urolithin formation from rambutan rind extract by rat faecal-derived microbiome.",
+      "url": "https://doi.org/10.1007/s00253-026-13841-x",
+      "source": "PubMed — Applied microbiology and biotechnology",
+      "one_liner": "Ellagitannins and ellagic acid are microbially converted into urolithins, metabolites associated with antioxidant, anti-inflammatory, and mitochondrial-related activities. Although several human-derived urolithin-producing strains and their associated enzymes have recently been characterised, the diversity of microbial strategies across host systems remai...",
+      "segment": 5,
+      "timestamp": 363.82
+    },
+    {
+      "title": "Antibiotic treatment reveals the contributions of the gut microbiome to CLN2 disease in the central and enteric nervous system.",
+      "url": "https://doi.org/10.1038/s41598-026-49850-z",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "The Neuronal Ceroid Lipofuscinoses (NCLs) are fatal inherited lysosomal storage diseases, with pronounced neuron loss in the central nervous system (CNS). Gastrointestinal issues are frequently reported by people with NCLs, although mechanisms underlying these symptoms are poorly understood. We recently demonstrated degeneration occurs within the enteric ...",
+      "segment": 6,
+      "timestamp": 458.9
+    },
+    {
+      "title": "The island biology of the host microbiome.",
+      "url": "https://doi.org/10.1016/j.tim.2026.03.001",
+      "source": "PubMed — Trends in microbiology",
+      "one_liner": "Microbiomes perform critical functions for their hosts, and understanding microbiome variation is important for both basic and applied science. However, host traits alone cannot explain the entirety of microbiome variation, because, alongside host traits, microbiomes are shaped by multiple ecological processes. Researchers have thus turned to theories of ...",
+      "segment": 7,
+      "timestamp": 608.85
+    },
+    {
+      "title": "The lizard microbiome: patterns, drivers, and functional implications.",
+      "url": "https://doi.org/10.1093/femsle/fnag049",
+      "source": "PubMed — FEMS microbiology letters",
+      "one_liner": "The lizard microbiome is a dynamic community that plays a crucial role in the health and survival of these animals. As global change poses significant threats to lizard populations around the world, understanding the interactions between lizards and their microbial communities is increasingly important. Here, we synthesize a rapidly growing body of resear...",
+      "segment": 8,
+      "timestamp": 663.59
+    },
+    {
+      "title": "Gut Microbiome and Psychoneurological Symptoms Among Patients With Colorectal Cancer and Their Caregivers: A Pilot Study.",
+      "url": "https://doi.org/10.1177/10998004261447509",
+      "source": "PubMed — Biological research for nursing",
+      "one_liner": "",
+      "segment": 9,
+      "timestamp": 705.16
+    },
+    {
+      "title": "Engineered commensals for metabolic modulation of the gut-liver-brain axis.",
+      "url": "https://doi.org/10.1016/j.cell.2026.03.048",
+      "source": "PubMed — Cell",
+      "one_liner": "The gut-liver-brain axis is central to metabolic and neurological homeostasis and is mediated by host- and microbiota-derived metabolites. Disruptions in this axis contribute to complex disorders, underscoring the need for targeted, multi-metabolite interventions. Here, we engineered commensal Lactobacillus plantarum WCFS1 strains to specifically modulate...",
+      "segment": 10,
+      "timestamp": 746.91
+    },
+    {
+      "title": "Comparing the fate of agricultural sulfur in two winegrowing regions using paired sulfur stable isotope and microbial community analysis.",
+      "url": "https://doi.org/10.1016/j.scitotenv.2026.181669",
+      "source": "PubMed — The Science of the total environment",
+      "one_liner": "Agricultural sulfur (S) use has rapidly increased in response to air quality regulation and global change drivers and now represents a major human-driven perturbation of the S cycle. Used widely as a fungicide in vineyards, S applied to Northern California U.S. wine grapes has a distinct stable isotopic \"signature\" in the environment compared to other S s...",
+      "segment": 11,
+      "timestamp": 790.54
+    },
+    {
+      "title": "Thermo-structural property differences in wheat varieties influencing microbial community succession and flavor compound biosynthesis in high-temperature Daqu.",
+      "url": "https://doi.org/10.1002/jsfa.70663",
+      "source": "PubMed — Journal of the science of food and agriculture",
+      "one_liner": "BACKGROUND: The wheat variety used directly influences the quality of high-temperature Daqu (HTD), yet wheat selection predominantly relies on traditional experience. This study systematically investigated how thermo-structural property differences among wheat varieties influence HTD quality. RESULTS: Analysis of wheat properties indicates that strong-glu...",
+      "segment": 12,
+      "timestamp": 833.88
+    },
+    {
+      "title": "EB1010, a putative Christensenellaceae-derived microbial peptide, exhibits anti-inflammatory activity and therapeutic potential in ulcerative colitis.",
+      "url": "https://doi.org/10.1080/19490976.2026.2662547",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "The gut microbiota plays a pivotal role in modulating the immune system, fostering immune tolerance, and defending against pathogens. Among its bioactive products, microbiota-derived peptides hold therapeutic promise for inflammatory diseases. In this study, we present EB1010, a 28-residue peptide derived from an unknown protein of a Christensenellaceae b...",
+      "segment": 13,
+      "timestamp": 865.24
+    },
+    {
+      "title": "An oral-gut microbial metabolite links",
+      "url": "https://doi.org/10.1080/19490976.2026.2662082",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "BACKGROUND: Myocardial ischemia-reperfusion injury (MIRI) remains a major complication. METHODS: An oral Oral pathobionts can aggravate MIRI by reshaping gut microbial metabolism via an oral–gut axis.",
+      "segment": 14,
+      "timestamp": 1262.54
+    },
+    {
+      "title": "Intranasal Colonization of Germ-Free Mice with Human Nasal Microbial Communities",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.24.720711",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "We present a novel protocol for intranasal colonization of germ-free mice with human nasal microbiota, coupled with an optimized DNA extraction method for murine nasal samples compatible with 16S rRNA sequencing. This protocol may facilitate investigation of the functional roles and causal effects of nasal microbial communities in chronic rhinosinusitis a...",
+      "segment": 15,
+      "timestamp": 1302.85
+    },
+    {
+      "title": "Eggerthella lenta evades bacteriophage through reversible megabase-scale inversions of capsular polysaccharide gene clusters",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.24.720693",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Bacteriophages are a promising tool for microbiome editing, yet their development has been constrained by limited insights into bacteriophage-host interactions within their shared mammalian body habitat. We isolated a lytic phage {Phi}KL11 that efficiently targets a disease-associated member of the human gut microbiota, Eggerthella lenta, during in vitro ...",
+      "segment": 16,
+      "timestamp": 1344.63
+    },
+    {
+      "title": "MOLECULAR INSIGHTS INTO PESTICIDE TOLERANCE: PROTEIN INDUCTION AND DNA DAMAGE IN ORGANOPHOSPHATE-DEGRADING BACTERIA",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.25.720663",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "One of the effects of the intensified agricultural activities involves environmental pollution by pesticides, which are bound to get into the soil and ultimately into the water sources through leaching. The recurrent exposure of soil microbiota to these poisonous substances facilitates the process of adaptive resistance and catabolic functions. In the cur...",
+      "segment": 17,
+      "timestamp": 1392.8
+    },
+    {
+      "title": "Decoding the Gut-Liver Crosstalk: Microbial Metabolite- Driven AhR Signalling Networks in MASLD Pathogenesis.",
+      "url": "https://doi.org/10.1016/j.intimp.2026.116722",
+      "source": "PubMed — International immunopharmacology",
+      "one_liner": "Metabolic-dysfunction-associated steatotic liver disease (MASLD), one of the most common liver diseases worldwide, has become an important public health issue, particularly with the increasing prevalence of obesity and diabetes. The gut microbiota is critical to the overall health of the human body, and accumulating evidence indicates that gut microbial a...",
+      "segment": 18,
+      "timestamp": 1435.18
+    },
+    {
+      "title": "Single-cell probiotic encapsulation with a sandwich-structured nanocoating for intestinal-targeted delivery and inflammatory-responsive drug release.",
+      "url": "https://doi.org/10.1016/j.ijpharm.2026.126779",
+      "source": "PubMed — International journal of pharmaceutics",
+      "one_liner": "Surface-engineered probiotics represent a promising therapeutic strategy for treating ulcerative colitis (UC). However, their therapeutic efficacy is often compromised by the complex pathological conditions and limited drug integration capacity. To overcome these therapeutic challenges, we developed a single-cell probiotic encapsulation system featuring w...",
+      "segment": 19,
+      "timestamp": 1480.53
+    },
+    {
+      "title": "Molecular Traces of Microbial Cross-Kingdom Migration: From the Gut Ecosystem to the Intervertebral Disc Microenvironment.",
+      "url": "https://doi.org/10.1016/j.spinee.2026.04.027",
+      "source": "PubMed — The spine journal : official journal of the North American Spine Society",
+      "one_liner": "BACKGROUND CONTEXT: Low back pain is a leading cause of disability worldwide, and lumbar intervertebral disc degeneration (IVDD) is strongly associated with its development. Recent studies have shown that the gut microbiota (GM) and its metabolites may be involved in the occurrence and development of IVDD through the gut-disc axis. However, the key microb...",
+      "segment": 20,
+      "timestamp": 1522.48
+    },
+    {
+      "title": "The gut-bone axis in osteoporosis: Microbiota-associated immune-metabolic remodeling of the bone marrow microenvironment.",
+      "url": "https://doi.org/10.1016/j.intimp.2026.116690",
+      "source": "PubMed — International immunopharmacology",
+      "one_liner": "Osteoporosis is a common systemic skeletal disease in the aging population, and its pathogenesis involves multiple mechanisms such as estrogen deficiency, aging, reduced mechanical load, chronic low-grade inflammation, and imbalance of the calcium‑phosphorus-vitamin D-PTH/FGF23 axis. In recent years, the gut-bone axis has increasingly been recognized as a...",
+      "segment": 21,
+      "timestamp": 1562.48
+    },
+    {
+      "title": "Hypertension-Associated Acetate Deficiency Enhances Platelet Activation and Thrombosis Via Olfr78.",
+      "url": "https://doi.org/10.1161/CIRCRESAHA.125.327498",
+      "source": "PubMed — Circulation research",
+      "one_liner": "BACKGROUND: Arterial thrombotic events constitute the leading cause of mortality in hypertension. Gut dysbiosis induces endothelial dysfunction and systemic inflammation, contributing to hypertension and its associated cardiovascular complications. Whether these dysbiotic microbiota metabolites in hypertension directly regulate platelet hyperactivation an...",
+      "segment": 22,
+      "timestamp": 1606.26
+    },
+    {
+      "title": "Medicinal and Edible Plants for the Management of Inflammatory Bowel Disease: Synergistic Modulation of the Microbiota-Metabolite-Immune Axis.",
+      "url": "https://doi.org/10.1142/S0192415X26500291",
+      "source": "PubMed — The American journal of Chinese medicine",
+      "one_liner": "Inflammatory bowel disease (IBD) is a chronic condition driven by the intertwined interplay of gut dysbiosis, immune perturbation, and metabolic imbalance. Current single-target therapies often fail to durably restore homeostasis in this complex ecosystem, and have thereby increased interest in diet-based holistic interventions. Plants traditionally used ...",
+      "segment": 23,
+      "timestamp": 1653.72
+    },
+    {
+      "title": "Effects of UDCA and probiotics on metabolic outcomes in type 2 diabetes patients on metformin: A randomized trial in Bosnia and Herzegovina.",
+      "url": "https://doi.org/10.1177/09287329261438698",
+      "source": "PubMed — Technology and health care : official journal of the European Society for Engineering and Medicine",
+      "one_liner": "BackgroundRecent research highlights the pivotal role of gut microbiota and bile acids as modulators of metabolic homeostasis in type 2 diabetes (T2D). The concomitant use of probiotics and ursodeoxycholic acid (UDCA) may potentiate glycemic and lipid control via complementary mechanisms.ObjectiveTo evaluate the metabolic effects of probiotic supplementat...",
+      "segment": 24,
+      "timestamp": 1700.28
+    }
+  ]
+}
