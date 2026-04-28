@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Apr 2026 06:04:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 06:09:48 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-04-28</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-28/podcast_2026-04-28.mp3</guid>
+      <pubDate>Tue, 28 Apr 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-28/podcast_2026-04-28.mp3" length="15218996" type="audio/mpeg" />
+      <description>Insects actively shape the microbial community that colonizes decomposing carcasses, creating a specialized necrobiome that assembles consistently across climates and geographies. | In a mouse model of Neurofibromatosis type 1, researchers report that alterations in the gut microbiome are linked to brain abnormalities in a sex‑dependent fashion. | The central claim—that gut microbiome changes correlate with brain pathology differently in males versus females—is taken directly from the article’s title.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Insects actively shape the microbial community that colonizes decomposing carcasses, creating a specialized necrobiome that assembles consistently across climates and geographies. | In a mouse model of Neurofibromatosis type 1, researchers report that alterations in the gut microbiome are linked to brain abnormalities in a sex‑dependent fashion. | The central claim—that gut microbiome changes correlate with brain pathology differently in males versus females—is taken directly from the article’s title.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-04-27</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-27/podcast_2026-04-27.mp3</guid>
       <pubDate>Mon, 27 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-27/podcast_2026-04-27.mp3" length="13076924" type="audio/mpeg" />
-      <description>The Gut microbiome-virome dynamics and interactions Collection, featured in NPJ Biofilms and Microbiomes, positions gut viruses—primarily bacteriophages—as key drivers of microbial community structure and host‑relevant functions across human, animal, and environmental systems. | Because the available notes do not detail any individual study’s methods, sample sizes, or specific findings | A new review in Gut microbes (PubMed) proposes that the translocation and dissemination of gut microbiota, usually seen as a breach of intestinal barriers, can be beneficial and purposeful in health.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-27/podcast_2026-04-27.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>The Gut microbiome-virome dynamics and interactions Collection, featured in NPJ Biofilms and Microbiomes, positions gut viruses—primarily bacteriophages—as key drivers of microbial community structure and host‑relevant functions across human, animal, and environmental systems. | Because the available notes do not detail any individual study’s methods, sample sizes, or specific findings | A new review in Gut microbes (PubMed) proposes that the translocation and dissemination of gut microbiota, usually seen as a breach of intestinal barriers, can be beneficial and purposeful in health.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
