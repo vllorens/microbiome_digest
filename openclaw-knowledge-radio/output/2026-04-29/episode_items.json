@@ -1,0 +1,303 @@
+{
+  "timestamps": [
+    0.0,
+    119.3,
+    227.58,
+    268.26,
+    317.82,
+    367.61,
+    487.49,
+    589.46,
+    1167.71,
+    1256.89,
+    1268.36,
+    1317.56,
+    1365.19,
+    1407.21,
+    1449.71,
+    1500.32,
+    1553.67,
+    1657.47,
+    1758.48,
+    1884.81,
+    1926.45,
+    2056.67,
+    2164.23,
+    2262.05,
+    2377.37,
+    2495.8,
+    2546.63,
+    2590.14,
+    2631.61,
+    2679.68,
+    2730.12,
+    2771.32,
+    2817.16
+  ],
+  "items": [
+    {
+      "title": "Innovative approaches in the treatment of hematologic malignancies: the role of CRISPR-engineered microbiomes along the gut-immune axis in immunotherapy development.",
+      "url": "https://doi.org/10.1186/s12935-026-04316-0",
+      "source": "PubMed — Cancer cell international",
+      "one_liner": "",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Association Between Blood-Brain Barrier Disruption and Gut Microbiota Dysbiosis in Parkinson's Disease.",
+      "url": "https://doi.org/10.1007/s10571-026-01738-2",
+      "source": "PubMed — Cellular and molecular neurobiology",
+      "one_liner": "",
+      "segment": 1,
+      "timestamp": 119.3
+    },
+    {
+      "title": "Microbiome biomarkers in autism spectrum disorder: Toward prediction, diagnosis, and prognosis.",
+      "url": "https://doi.org/10.1016/j.xcrm.2026.102780",
+      "source": "PubMed — Cell reports. Medicine",
+      "one_liner": "Autism spectrum disorder (ASD) is a heterogeneous condition that lacks objective diagnostic biomarkers, often resulting in delayed intervention. Evidence increasingly links gut microbiota dysregulation to ASD pathophysiology via the microbiota-gut-brain axis, suggesting plausible translational applications. This review outlines mechanistic insights from p...",
+      "segment": 2,
+      "timestamp": 227.58
+    },
+    {
+      "title": "Interaction between Chinese olive (Canarium album L.) polyphenols and gut microbiota: Potential implications for inflammatory bowel disease.",
+      "url": "https://doi.org/10.1002/jsfa.70685",
+      "source": "PubMed — Journal of the science of food and agriculture",
+      "one_liner": "BACKGROUND: Polyphenols' interaction with gut microbiota is crucial for their bioactivity and intestinal health benefits, yet this effect varies individually due to differences in microbiota structure. Using fecal samples from healthy individuals (n = 3), ulcerative colitis (UC) patients (n = 3), and Crohn's disease (CD) patients (n = 3), we employed an i...",
+      "segment": 3,
+      "timestamp": 268.26
+    },
+    {
+      "title": "Role of gut microbiota modulation in preventing and treating sarcopenia in patients with liver cirrhosis: A narrative review.",
+      "url": "https://doi.org/10.1016/j.ajg.2026.03.005",
+      "source": "PubMed — Arab journal of gastroenterology : the official publication of the Pan-Arab Association of Gastroenterology",
+      "one_liner": "Sarcopenia, a common and serious complication in patients with liver cirrhosis, is associated with high morbidity and mortality. Accumulating evidence highlights the gut-liver-muscle axis as a key regulatory pathway underlying muscle wasting in cirrhosis, with disruptions in the gut microbiome taking center stage. This review systematically summarizes the...",
+      "segment": 4,
+      "timestamp": 317.82
+    },
+    {
+      "title": "Fecal melatonin as a biomarker of emerging circadian maturity and gut microbiota in infancy.",
+      "url": "https://doi.org/10.1038/s44323-026-00080-6",
+      "source": "PubMed — Npj biological timing and sleep",
+      "one_liner": "Melatonin plays a key role in circadian regulation, and its interaction with the gut microbiota may be critical for early-life development. Beyond its circadian function, melatonin dysregulation is implicated in inflammatory, metabolic, psychiatric, and neurological disorders. While the gastrointestinal tract produces melatonin at levels far exceeding the...",
+      "segment": 5,
+      "timestamp": 367.61
+    },
+    {
+      "title": "Impact of glyphosate and its mixture with 2,4-D and dicamba on gut biochemical function, intestinal barrier integrity and microbiome composition in adult rats with prenatal commencement of exposure.",
+      "url": "https://doi.org/10.1007/s00204-026-04409-9",
+      "source": "PubMed — Archives of toxicology",
+      "one_liner": "",
+      "segment": 6,
+      "timestamp": 487.49
+    },
+    {
+      "title": "Metabolic and gut microbiota effects of ketogenic diet and exogenous ketone salts in a rat model of metabolic syndrome.",
+      "url": "https://doi.org/10.1007/s00394-026-03967-z",
+      "source": "PubMed — European journal of nutrition",
+      "one_liner": "",
+      "segment": 7,
+      "timestamp": 589.46
+    },
+    {
+      "title": "Multi-omics profiling of gut microbiota and host transcriptome identifies diagnostic signatures and mechanistic links in moyamoya disease.",
+      "url": "https://doi.org/10.1186/s12866-026-05084-7",
+      "source": "PubMed — BMC microbiology",
+      "one_liner": "",
+      "segment": 8,
+      "timestamp": 1167.71
+    },
+    {
+      "title": "Emerging Roles of Postbiotics in Gut-Brain-Microbiome Axis Modulation and Neurobiological Pathways of Chronic Stress-Related Brain Dysfunction.",
+      "url": "https://doi.org/10.4014/jmb.2603.03010",
+      "source": "PubMed — Journal of microbiology and biotechnology",
+      "one_liner": "Chronic psychological stress disrupts the gut-brain-microbiome axis (GBMA) through gut dysbiosis, intestinal and blood-brain barrier disruption, hypothalamic-pituitary-adrenal (HPA) axis dysregulation, and neuroinflammation, collectively impairing neurotransmitter signaling and neuroplasticity. Addressing these interconnected pathological processes requir...",
+      "segment": 9,
+      "timestamp": 1256.89
+    },
+    {
+      "title": "The causality between gut microbiota and ectopic pregnancy based on genome-wide association: A Mendelian randomization study.",
+      "url": "https://doi.org/10.29063/ajrh2026/v30i8.7",
+      "source": "PubMed — African journal of reproductive health",
+      "one_liner": "Ectopic pregnancy represents a prevalent gynecological emergency with incompletely characterized pathophysiology, creating substantial clinical challenges in timely diagnosis and effective management. The causal interplay between gut microbiota and ectopic pregnancy, particularly through plasma proteomics mediation, remains undefined. We derived Gut micro...",
+      "segment": 10,
+      "timestamp": 1268.36
+    },
+    {
+      "title": "The impact of inflammation, neuromodulation, and gut microbiota on developing cardiac fibrosis and hypertension.",
+      "url": "https://doi.org/10.1093/cvr/cvag054",
+      "source": "PubMed — Cardiovascular research",
+      "one_liner": "Cardiovascular diseases (CVD) are the leading cause of premature mortality worldwide. Due to pressure overload and cardiac fibrosis, CVD often begin with hypertension and gradually progress to heart failure. Cardiac fibrosis reduces the number of functional cardiomyocytes and the force of contraction while increasing oxygen demand. It has been noted that ...",
+      "segment": 11,
+      "timestamp": 1317.56
+    },
+    {
+      "title": "Effects of Weight Loss Interventions on Gut Microbiota-Derived Metabolites Linked to Cardiometabolic Health: A Systematic Review and Meta-Analysis.",
+      "url": "https://doi.org/10.1111/obr.70151",
+      "source": "PubMed — Obesity reviews : an official journal of the International Association for the Study of Obesity",
+      "one_liner": "BACKGROUND: Gut microbiota-derived metabolites are emerging as potential mediators between obesity and cardiometabolic conditions. While weight loss interventions modify microbiota composition, their effects on systemic microbial metabolites remain unclear. OBJECTIVE: To evaluate the effect of weight loss interventions on circulating levels of key gut-der...",
+      "segment": 12,
+      "timestamp": 1365.19
+    },
+    {
+      "title": "The Human Gut Microbiome Metabolizes Diverse Bioactive Coumarins via α,β-Unsaturated Lactone Reduction.",
+      "url": "https://doi.org/10.1021/acs.jnatprod.6c00329",
+      "source": "PubMed — Journal of natural products",
+      "one_liner": "The gut microbiome can influence drug efficacy through the direct metabolism of bioactive molecules. Despite numerous high-throughput screens for drug-microbiome interactions, the gut microbial metabolism of many bioactive compounds and its impact on treatment efficacy remain uncharacterized. We chose to investigate coumarins, which are a large class of b...",
+      "segment": 13,
+      "timestamp": 1407.21
+    },
+    {
+      "title": "Metagenomic identification of gut microbiome signatures for accurate diagnosis and prognostic prediction of Epstein-Barr virus-associated nasopharyngeal carcinoma.",
+      "url": "https://doi.org/10.1136/gutjnl-2026-338223",
+      "source": "PubMed — Gut",
+      "one_liner": "BACKGROUND: Nasopharyngeal carcinoma (NPC) is strongly associated with Epstein-Barr virus (EBV) infection. The gut microbiome can influence outcomes of viral infections but the potential links among the gut microbiome, EBV infection and NPC remain unclear. OBJECTIVE: To characterise gut microbiome alterations in EBV-associated NPC, evaluate microbiome-bas...",
+      "segment": 14,
+      "timestamp": 1449.71
+    },
+    {
+      "title": "Urinary Microbiome Characteristics in Kidney Transplant Recipients and Their Clinical Implications: A Narrative Review.",
+      "url": "https://doi.org/10.12659/AOT.952286",
+      "source": "PubMed — Annals of transplantation",
+      "one_liner": "High-throughput sequencing has overturned the long-standing \"sterile urine\" paradigm and revealed a low-biomass yet clinically informative urinary tract microbiota. In kidney transplant recipients, immunosuppression, perioperative instrumentation, and antibiotic exposure can reshape urinary microbial communities; however, reported signatures remain hetero...",
+      "segment": 15,
+      "timestamp": 1500.32
+    },
+    {
+      "title": "Autologous Cord Blood Mononuclear Cells Modulate Immunity and the Microbiota in Very Preterm Twins: A Randomized Trial.",
+      "url": "https://doi.org/10.1007/s12015-026-11140-6",
+      "source": "PubMed — Stem cell reviews and reports",
+      "one_liner": "",
+      "segment": 16,
+      "timestamp": 1553.67
+    },
+    {
+      "title": "Faecalibacterium prausnitzii EXL01 for the Maintenance of Steroid-induced Clinical Response or Remission in Patients with Crohn's Disease: a first in human trial.",
+      "url": "https://doi.org/10.1038/s41467-026-72375-y",
+      "source": "PubMed — Nature communications",
+      "one_liner": "A marked decrease in Faecalibacterium prausnitzii is a hallmark of Crohn's disease (CD)-associated dysbiosis and predicts disease relapse. Here, we present the development and first-in-human evaluation of F. prausnitzii strain EXL01 for CD treatment. The EXL01-strain demonstrates anti-inflammatory effects in four models of colitis in rodents. A first-in-h...",
+      "segment": 17,
+      "timestamp": 1657.47
+    },
+    {
+      "title": "V- and V",
+      "url": "https://doi.org/10.1038/s41467-026-72028-0",
+      "source": "PubMed — Nature communications",
+      "one_liner": "Viruses are key drivers of microbial ecology and evolution, yet their study is hindered due to challenges in culturing. Traditional gene-centric methods, which focus on a few hallmark genes like for capsids, miss much of the viral genome, leaving key viral proteins and functions undiscovered. Here, we introduce two powerful annotation-free metrics, V-scor...",
+      "segment": 18,
+      "timestamp": 1758.48
+    },
+    {
+      "title": "Pathological phimosis is associated with foreskin immune cell infiltration but not microbiota composition.",
+      "url": "https://doi.org/10.1128/msphere.00725-25",
+      "source": "PubMed — mSphere",
+      "one_liner": "UNLABELLED: The penile microbiota has been implicated in genital inflammation and increased risk of HIV, HPV, HSV-2, and female-partner bacterial vaginosis in adult males, yet its development during childhood and potential role in pediatric foreskin pathologies remain unknown. We characterized the coronal sulcus microbiota of 75 pediatric males (median ag...",
+      "segment": 19,
+      "timestamp": 1884.81
+    },
+    {
+      "title": "The essential role of hydrogen gas recycling by gut microbes in reducing deuterium load in host mitochondria: is trimethylamine oxide a deuterium sensor?",
+      "url": "https://doi.org/10.1007/s11306-026-02443-3",
+      "source": "PubMed — Metabolomics : Official journal of the Metabolomic Society",
+      "one_liner": "BACKGROUND: The human gut microbiome plays many essential roles, but an often-overlooked role is to maintain an abundant supply of deuterium depleted (deupleted) nutrients to fuel the host mitochondria. Excess deuterium (heavy hydrogen) damages mitochondrial ATP synthase nanomotors, leading to a decrease in matrix water production with increased reactive ...",
+      "segment": 20,
+      "timestamp": 1926.45
+    },
+    {
+      "title": "Fecal microbiota transplantation mitigates respiratory infection in rats exposed to hypobaric hypoxia by modulating the NLRP3 inflammasome and mucosal immunity.",
+      "url": "https://doi.org/10.1371/journal.pone.0347857",
+      "source": "PubMed — PloS one",
+      "one_liner": "OBJECTIVE: To investigate the role of the gut-lung axis in respiratory infection under hypobaric hypoxia and the therapeutic potential of fecal microbiota transplantation (FMT). METHODS: Rats were exposed to hypobaric hypoxia (simulated 5000 m) for 14 days. Gut microbiota and serum short-chain fatty acids (SCFAs) were analyzed via 16S rRNA sequencing and ...",
+      "segment": 21,
+      "timestamp": 2056.67
+    },
+    {
+      "title": "Bioconversion properties of the urate-lowering probiotic fermented",
+      "url": "https://doi.org/10.1039/d6fo00440g",
+      "source": "PubMed — Food & function",
+      "one_liner": "Hyperuricemia (HUA) is a worldwide metabolic disorder. We developed a functional fermented beverage by fermenting",
+      "segment": 22,
+      "timestamp": 2164.23
+    },
+    {
+      "title": "L-serine at the crossroads of microbiota, intestinal health, and disorders.",
+      "url": "https://doi.org/10.1038/s42003-026-10133-y",
+      "source": "PubMed — Communications biology",
+      "one_liner": "L-serine is an amino acid involved in maintaining intestinal mucosal homeostasis through its role in protein synthesis but also in redox balance, immune function and lipid metabolism. It also contributes to mucus production, the epithelial barrier integrity and gut microbiota composition. Prokaryotic cells, including Escherichia coli, have developed mecha...",
+      "segment": 23,
+      "timestamp": 2262.05
+    },
+    {
+      "title": "Ketogenic diet-derived faecal microbiota transplantation improved sensorimotor gating deficits in an acute NMDA-receptor antagonist model of schizophrenia in mice.",
+      "url": "https://doi.org/10.1039/d6fo00213g",
+      "source": "PubMed — Food & function",
+      "one_liner": "Ketogenic diets (KDs) show promise as a novel treatment for schizophrenia, although its mechanisms of action are still unclear. KDs have been shown to modify the gut microbiota and may exert some of their brain-directed effects through that. We hypothesised that KD-induced changes in the gut microbiota mediate some of the therapeutic effects of KDs in a p...",
+      "segment": 24,
+      "timestamp": 2377.37
+    },
+    {
+      "title": "Integrated metagenomic analysis of bacteriomes associated with beach-cast seaweeds reveals metabolic potential for biotechnological and environmental applications.",
+      "url": "https://doi.org/10.1038/s41598-026-46393-1",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "",
+      "segment": 25,
+      "timestamp": 2495.8
+    },
+    {
+      "title": "Probiogenomic and Functional Profiling of the Novel Human Gut-Derived Probiotic Strain",
+      "url": "https://doi.org/10.4014/jmb.2601.01069",
+      "source": "PubMed — Journal of microbiology and biotechnology",
+      "one_liner": "",
+      "segment": 26,
+      "timestamp": 2546.63
+    },
+    {
+      "title": "Microbes, molecules, and the maternal-fetal interface: rethinking the gut-placenta axis.",
+      "url": "https://doi.org/10.1016/j.it.2026.03.010",
+      "source": "PubMed — Trends in immunology",
+      "one_liner": "Placental biology is increasingly framed through a signaling paradigm in which maternal microbiome-derived mediators-rather than microbial colonization-affect the function of the interface. This review synthesizes evidence that circulating microbial signals, including short-chain fatty acids, tryptophan-derived indoles, bile-acid-linked ligands, microbe-a...",
+      "segment": 27,
+      "timestamp": 2590.14
+    },
+    {
+      "title": "A disrupted microbial network and an ecological shift towards anaerobes in NTM-infected cystic fibrosis patients.",
+      "url": "https://doi.org/10.1016/j.jcf.2026.04.005",
+      "source": "PubMed — Journal of cystic fibrosis : official journal of the European Cystic Fibrosis Society",
+      "one_liner": "Nontuberculous mycobacteria (NTM) are increasingly recognized as opportunistic pathogens in people with cystic fibrosis (pwCF), but the ecological factors shaping their presence remain poorly understood. This study characterized the airway microbiota associated with NTM-positive culture using 16S rRNA gene sequencing of sputum from 108 pwCF (36 NTM-positi...",
+      "segment": 28,
+      "timestamp": 2631.61
+    },
+    {
+      "title": "Bifidobacterium longum BB536 is associated with improvements in gastrointestinal symptoms and odor-related metabolites in microbiota-defined subgroups of male athletes consuming a high-protein diet: exploratory randomized double‑blind placebo‑controlled trial.",
+      "url": "https://doi.org/10.1080/15502783.2026.2664664",
+      "source": "PubMed — Journal of the International Society of Sports Nutrition",
+      "one_liner": "BACKGROUND: High‑protein diets are widely used by athletes but may disturb the gut environment and increase production of odor‑related metabolites. Probiotic supplementation has been proposed as a strategy to support gastrointestinal function under such dietary stress. This study aimed to explore the effects of METHODS: In an exploratory, randomized, doub...",
+      "segment": 29,
+      "timestamp": 2679.68
+    },
+    {
+      "title": "LINGO4 coordinates ILC3-intrinsic IL-22 production and microbiota-mediated ILC3 homeostasis.",
+      "url": "https://doi.org/10.1084/jem.20252632",
+      "source": "PubMed — The Journal of experimental medicine",
+      "one_liner": "LINGO4 is a leucine-rich repeat and immunoglobulin-like domain-containing transmembrane protein encoded immediately adjacent to Rorc, the gene for RORγt, raising the possibility that it contributes to the biology of RORγt+ lymphocytes. However, its impact on these cells and resistance to enteric infections has remained unknown. Here, we identify LINGO4 as...",
+      "segment": 30,
+      "timestamp": 2730.12
+    },
+    {
+      "title": "Probiotic supplementation during pregnancy for vaginal microbiota improvement and pathogen clearance: A systematic review and meta-analysis.",
+      "url": "https://doi.org/10.1111/aogs.70234",
+      "source": "PubMed — Acta obstetricia et gynecologica Scandinavica",
+      "one_liner": "INTRODUCTION: Pregnancy is associated with susceptibility to vaginal dysbiosis, including Group B Streptococcus (GBS), bacterial vaginosis (BV), and vulvovaginal candidiasis (VVC). Probiotic supplementation has emerged as a potential strategy to restore vaginal microecology, yet its effectiveness during pregnancy remains uncertain. MATERIAL AND METHODS: T...",
+      "segment": 31,
+      "timestamp": 2771.32
+    },
+    {
+      "title": "Harnessing plant-exuded prebiotics as a next-generation strategy for sustainable agriculture.",
+      "url": "https://doi.org/10.1111/jipb.70275",
+      "source": "PubMed — Journal of integrative plant biology",
+      "one_liner": "Global agriculture urgently needs sustainable strategies to boost crop productivity while reducing environmental impact. Harnessing plant-exuded bioactive metabolites, such as polyphenols, flavonoids, and organic acids, as natural prebiotics offers a powerful yet underexploited avenue for modulating rhizosphere microbiomes. These prebiotics complement exi...",
+      "segment": 32,
+      "timestamp": 2817.16
+    }
+  ]
+}

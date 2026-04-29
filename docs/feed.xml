@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Apr 2026 06:09:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 06:14:53 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-04-29</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-29/podcast_2026-04-29.mp3</guid>
+      <pubDate>Wed, 29 Apr 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-29/podcast_2026-04-29.mp3" length="21544532" type="audio/mpeg" />
+      <description>The article titled “Innovative approaches in the treatment of hematologic malignancies: the role of CRISPR‑engineered microbiomes along the gut‑immune axis in immunotherapy development” appears in Cancer Cell International, as indexed by PubMed. | Unfortunately, the extracted material supplied for this deep dive does not contain the full manuscript or any detailed notes from the pipeline. | Because the manuscript’s results, efficacy metrics, safety observations, or mechanistic insights are absent from the provided data, we cannot summarize any findings, compare them to prior work, or assess their potential clinical impact.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>The article titled “Innovative approaches in the treatment of hematologic malignancies: the role of CRISPR‑engineered microbiomes along the gut‑immune axis in immunotherapy development” appears in Cancer Cell International, as indexed by PubMed. | Unfortunately, the extracted material supplied for this deep dive does not contain the full manuscript or any detailed notes from the pipeline. | Because the manuscript’s results, efficacy metrics, safety observations, or mechanistic insights are absent from the provided data, we cannot summarize any findings, compare them to prior work, or assess their potential clinical impact.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-04-28</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-28/podcast_2026-04-28.mp3</guid>
       <pubDate>Tue, 28 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-28/podcast_2026-04-28.mp3" length="15218996" type="audio/mpeg" />
-      <description>Insects actively shape the microbial community that colonizes decomposing carcasses, creating a specialized necrobiome that assembles consistently across climates and geographies. | In a mouse model of Neurofibromatosis type 1, researchers report that alterations in the gut microbiome are linked to brain abnormalities in a sex‑dependent fashion. | The central claim—that gut microbiome changes correlate with brain pathology differently in males versus females—is taken directly from the article’s title.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-28/podcast_2026-04-28.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Insects actively shape the microbial community that colonizes decomposing carcasses, creating a specialized necrobiome that assembles consistently across climates and geographies. | In a mouse model of Neurofibromatosis type 1, researchers report that alterations in the gut microbiome are linked to brain abnormalities in a sex‑dependent fashion. | The central claim—that gut microbiome changes correlate with brain pathology differently in males versus females—is taken directly from the article’s title.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
