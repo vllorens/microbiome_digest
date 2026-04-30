@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Apr 2026 06:14:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 06:25:23 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-04-30</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-30/podcast_2026-04-30.mp3</guid>
+      <pubDate>Thu, 30 Apr 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-30/podcast_2026-04-30.mp3" length="18902996" type="audio/mpeg" />
+      <description>The study investigates how Yudantong decoction (YDTD) exerts its therapeutic effect in cholestatic liver disease by modulating the gut microbiota‑bile acid‑intestinal farnesoid X receptor (FXR) axis. | The study examines how the gut microbiome shifts as goats move from a non‑pregnant to a pregnant state, highlighting its potential role in regulating the hormonal, metabolic and immune changes that accompany pregnancy. | Symbiont dominance and microbiome dysbiosis in wheat‑aphid revealed through 16 S rRNA gene amplicon sequencing analysis.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>The study investigates how Yudantong decoction (YDTD) exerts its therapeutic effect in cholestatic liver disease by modulating the gut microbiota‑bile acid‑intestinal farnesoid X receptor (FXR) axis. | The study examines how the gut microbiome shifts as goats move from a non‑pregnant to a pregnant state, highlighting its potential role in regulating the hormonal, metabolic and immune changes that accompany pregnancy. | Symbiont dominance and microbiome dysbiosis in wheat‑aphid revealed through 16 S rRNA gene amplicon sequencing analysis.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-04-29</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-29/podcast_2026-04-29.mp3</guid>
       <pubDate>Wed, 29 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-29/podcast_2026-04-29.mp3" length="21544532" type="audio/mpeg" />
-      <description>The article titled “Innovative approaches in the treatment of hematologic malignancies: the role of CRISPR‑engineered microbiomes along the gut‑immune axis in immunotherapy development” appears in Cancer Cell International, as indexed by PubMed. | Unfortunately, the extracted material supplied for this deep dive does not contain the full manuscript or any detailed notes from the pipeline. | Because the manuscript’s results, efficacy metrics, safety observations, or mechanistic insights are absent from the provided data, we cannot summarize any findings, compare them to prior work, or assess their potential clinical impact.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-29/podcast_2026-04-29.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>The article titled “Innovative approaches in the treatment of hematologic malignancies: the role of CRISPR‑engineered microbiomes along the gut‑immune axis in immunotherapy development” appears in Cancer Cell International, as indexed by PubMed. | Unfortunately, the extracted material supplied for this deep dive does not contain the full manuscript or any detailed notes from the pipeline. | Because the manuscript’s results, efficacy metrics, safety observations, or mechanistic insights are absent from the provided data, we cannot summarize any findings, compare them to prior work, or assess their potential clinical impact.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>

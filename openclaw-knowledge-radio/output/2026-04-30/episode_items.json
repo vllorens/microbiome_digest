@@ -1,0 +1,339 @@
+{
+  "timestamps": [
+    0.0,
+    112.65,
+    140.75,
+    276.71,
+    384.34,
+    473.21,
+    517.85,
+    567.09,
+    618.76,
+    664.38,
+    719.46,
+    767.04,
+    811.44,
+    860.06,
+    903.02,
+    944.05,
+    990.68,
+    1117.61,
+    1242.79,
+    1374.84,
+    1427.94,
+    1474.26,
+    1515.66,
+    1568.93,
+    1611.17,
+    1654.87,
+    1697.8,
+    2073.68,
+    2119.35,
+    2165.91,
+    2220.14,
+    2260.58,
+    2308.48,
+    2353.98,
+    2407.64,
+    2447.4,
+    2492.83
+  ],
+  "items": [
+    {
+      "title": "Targeting the Gut Microbiota-Bile Acid-FXR Axis: The Therapeutic Mechanism of Yudantong Decoction in Cholestatic Liver Disease.",
+      "url": "https://doi.org/10.1007/s11596-026-00191-y",
+      "source": "PubMed — Current medical science",
+      "one_liner": "OBJECTIVE: To elucidate the therapeutic mechanism of Yudantong decoction (YDTD) in cholestatic liver disease (CLD), focusing on the gut microbiota-bile acid-intestinal farnesoid X receptor (FXR) axis. METHODS: A CLD mouse model induced by α-naphthylisothiocyanate was treated with YDTD. Hepatic injury, gut microbiota composition (16S rRNA sequencing), bile...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Microbiome-host interactions driving the transition from non-pregnant to pregnant states in a goat model.",
+      "url": "https://doi.org/10.1093/jas/skag144",
+      "source": "PubMed — Journal of animal science",
+      "one_liner": "Pregnancy in goats involves complex hormonal, metabolic, and immune shifts, and growing evidence suggests that the gut microbiome plays a key regulatory role in these physiological transitions, yet its specific role in guiding the shift from non-pregnant to pregnant states is still not clearly defined. This study investigated dynamic changes in the microb...",
+      "segment": 1,
+      "timestamp": 112.65
+    },
+    {
+      "title": "Symbiont dominance and microbiome dysbiosis in wheat-aphid revealed through 16 S rRNA gene amplicon sequencing analysis.",
+      "url": "https://doi.org/10.1007/s11274-026-04942-w",
+      "source": "PubMed — World journal of microbiology & biotechnology",
+      "one_liner": "Insect herbivory represents a major biotic stress that leads to significant losses in crop yield and quality worldwide. Aphids, in particular, damage wheat (Triticum aestivum L.), a staple crop that provides nearly 20% of the global protein and caloric intake, and also harbor diverse bacterial symbionts that can influence plant health. In this study, 16 S...",
+      "segment": 2,
+      "timestamp": 140.75
+    },
+    {
+      "title": "Navigating the translational labyrinth of the gut microbiota.",
+      "url": "https://doi.org/10.1038/s41598-026-49409-y",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "",
+      "segment": 3,
+      "timestamp": 276.71
+    },
+    {
+      "title": "Insights from adult gut microbiota using the Estonian cohort as a uniform model.",
+      "url": "https://doi.org/10.1038/s41598-026-50455-9",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "",
+      "segment": 4,
+      "timestamp": 384.34
+    },
+    {
+      "title": "High-tryptophan diet mitigates parvalbumin-induced allergic responses via gut microbiome remodeling and immune modulation.",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2026.152245",
+      "source": "PubMed — International journal of biological macromolecules",
+      "one_liner": "Parvalbumin-induced food allergy model in BALB/c mice were established to investigate the intervention effect of high- tryptophan (Trp) diet on allergic responses. Trp suppressed histamine and IL-6 release from the sensitized KU812 cells, effectively mitigated parvalbumin-induced cellular sensitization. High-Trp diet alleviated allergic symptoms, reduced ...",
+      "segment": 5,
+      "timestamp": 473.21
+    },
+    {
+      "title": "Engineering lactococci to reduce human lactose intolerance; biotechnology and risk/benefit assessment toward the gut microbiota of lactose-intolerants.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.118579",
+      "source": "PubMed — Food research international (Ottawa, Ont.)",
+      "one_liner": "β-Galactosidase, known as lactase, plays a crucial role in the dairy sector by hydrolyzing lactose into glucose and galactose. Traditionally, β-galactosidases have been sourced from Aspergillus spp. and Kluyveromyces spp., though bacterial sources like Bifidobacterium and Lactobacillus offer advantages such as higher activity, stability, and easier fermen...",
+      "segment": 6,
+      "timestamp": 517.85
+    },
+    {
+      "title": "Comprehensive evaluation of Ganoderma lucidum extracts: digestion kinetics, gut microbiota modulation, and immunoregulatory mechanisms.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.118664",
+      "source": "PubMed — Food research international (Ottawa, Ont.)",
+      "one_liner": "Ganoderma lucidum (Reishi mushroom) exhibits medicinal-edible functionality mediated by bioactive components such as β-glucans and ganoderic acids that regulate immune responses through multiple pathways. However, the digestive transformation and microbiota-mediated interactions of G. lucidum extracts remain insufficiently characterized, and oral delivery...",
+      "segment": 7,
+      "timestamp": 567.09
+    },
+    {
+      "title": "Structural characterization, digestive and fermentative properties of Pleurotus ferulae polysaccharides and their effects on human gut microbiota.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.118633",
+      "source": "PubMed — Food research international (Ottawa, Ont.)",
+      "one_liner": "The study isolated and characterized the water-extracted and alkali-extracted polysaccharides (WEPP and AEPP) from a medicinal edible mushroom Pleurotus ferulae, and investigated their gastrointestinal digestive and fermentative properties and the effects on gut microbiota. Both WEPP and AEPP shared a core composition of glucose(Glc), galactose(Gal), and ...",
+      "segment": 8,
+      "timestamp": 618.76
+    },
+    {
+      "title": "Alpha-lipoic acid improves intestinal homeostasis and ameliorates colitis through modulation of gut microbiota and production of short chain fatty acids in mice.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.118582",
+      "source": "PubMed — Food research international (Ottawa, Ont.)",
+      "one_liner": "α-Lipoic acid (ALA) is a natural antioxidant present in both plants and animal foods. It has attracted growing attention for its potential role in maintenance of intestinal homeostasis. This study was to investigate the protective effects of dietary ALA on experimental colitis, and to evaluate its modulating effect on gut microbiome in mice. Male C57BL/6 ...",
+      "segment": 9,
+      "timestamp": 664.38
+    },
+    {
+      "title": "Coevolution of Human Diet and Gut Microbiome: Implications for Nutrigenomics and Cross-Population Health.",
+      "url": "https://doi.org/10.1155/ijm/5597426",
+      "source": "PubMed — International journal of microbiology",
+      "one_liner": "The coevolution of the human diet and gut microbiome has played a pivotal role in shaping metabolic, immune, and epigenetic functions across human history. Dietary transitions from high-fiber ancestral patterns to modern ultraprocessed diets have markedly influenced microbial diversity and functionality, contributing to the emergence of chronic diseases s...",
+      "segment": 10,
+      "timestamp": 719.46
+    },
+    {
+      "title": "Resource availability structures microbial competition through genomic niche partitioning.",
+      "url": "https://doi.org/10.1073/pnas.2526391123",
+      "source": "PubMed — Proceedings of the National Academy of Sciences of the United States of America",
+      "one_liner": "Microbial competition for scarce resources shapes biodiversity patterns and ecosystem function across global biomes, yet quantifying this process from genomic data has remained elusive. Here, we introduce CaCo, a scalable metric that transforms metagenomic carbohydrate-active enzyme profiles into precise measures of niche overlap and competition potential...",
+      "segment": 11,
+      "timestamp": 767.04
+    },
+    {
+      "title": "Gut Mycobiota-Associated Tryptophan Catabolites Protect Against Metabolic Dysfunction-Associated Steatotic Liver Disease.",
+      "url": "https://doi.org/10.1002/advs.202514830",
+      "source": "PubMed — Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "one_liner": "Accumulating evidence suggests that the intestinal microbiota participates in the progression of metabolic dysfunction-associated steatotic liver disease (MASLD) through microbiota-host interaction. However, the beneficial role of commensal mycobiota in MASLD progression remains poorly understood. By comparing the gut microbiome differences, we demonstrat...",
+      "segment": 12,
+      "timestamp": 811.44
+    },
+    {
+      "title": "Probiotic-based fermentation of watermelon waste: Effects on bioconversion efficiency, microbial shifts, and expression profiles of black soldier fly larvae.",
+      "url": "https://doi.org/10.1111/1744-7917.70280",
+      "source": "PubMed — Insect science",
+      "one_liner": "Insects such as black soldier fly larvae (Hermetia illucens, BSFL) are efficient bioconverters whose growth and physiological performance are strongly influenced by diet composition, gut microbiota, and the molecular regulation. This study investigated how a probiotic-based fermentation strategy modulates larval physiology, microbiome dynamics, and gene e...",
+      "segment": 13,
+      "timestamp": 860.06
+    },
+    {
+      "title": "NOD2 drives regenerative fetal-like reprogramming in the intestinal epithelium.",
+      "url": "https://doi.org/10.1073/pnas.2519981123",
+      "source": "PubMed — Proceedings of the National Academy of Sciences of the United States of America",
+      "one_liner": "Inflammatory injury to the intestine triggers a reprogramming of the intestinal epithelium to a fetal-like state that drives rapid restoration of the epithelial barrier. Although the intestinal microbiota is a key modulator of inflammation, its role in influencing epithelial fetal-like stem cell reprogramming and consequent restitution remains unclear. Us...",
+      "segment": 14,
+      "timestamp": 903.02
+    },
+    {
+      "title": "Plant-associated fungi co-opt ancient antimicrobials for host manipulation.",
+      "url": "https://doi.org/10.1126/sciadv.aec1406",
+      "source": "PubMed — Science advances",
+      "one_liner": "Evolutionary histories of effector proteins secreted by fungal pathogens to mediate plant colonization remain largely elusive. While most functionally characterized effectors modulate plant immunity, recent discoveries have revealed previously unknown functions in targeting host-associated microbiota. We now developed an antimicrobial activity predictor f...",
+      "segment": 15,
+      "timestamp": 944.05
+    },
+    {
+      "title": "Effects of Bifidobacterium infantis M-63 on gut environment and bowel function during weaning: RCT.",
+      "url": "https://doi.org/10.1038/s41390-026-04960-2",
+      "source": "PubMed — Pediatric research",
+      "one_liner": "BACKGROUND: Weaning involves rapid shifts in the gut microbiota, bowel irregularities, and increased infection risks. This exploratory, hypothesis-generating study examined whether daily supplementation with Bifidobacterium longum subsp. infantis M-63 (M-63) may influence bowel function, the gut environment, and general health during weaning. METHODS: In ...",
+      "segment": 16,
+      "timestamp": 990.68
+    },
+    {
+      "title": "Soaking reshapes the structure, function, and co-occurrence patterns of barley surface bacterial communities.",
+      "url": "https://doi.org/10.1007/s11274-026-04998-8",
+      "source": "PubMed — World journal of microbiology & biotechnology",
+      "one_liner": "Surface microbiota on cereal grains can influence fermentation outcomes and product quality in food processing. To better understand microbial responses during pre-processing, we analyzed the succession of bacterial communities on barley seeds from four cultivars over five soaking stages (0, 1, 2, 4, and 8 days). Using 16S rRNA gene sequencing, functional...",
+      "segment": 17,
+      "timestamp": 1117.61
+    },
+    {
+      "title": "Microbiota-derived metabolites and cardiovascular implications in Inflammatory Bowel Disease (IBD).",
+      "url": "https://doi.org/10.1186/s10020-026-01493-6",
+      "source": "PubMed — Molecular medicine (Cambridge, Mass.)",
+      "one_liner": "BACKGROUND: Inflammatory bowel disease (IBD), encompassing Crohn's disease and ulcerative colitis, is a chronic relapsing systemic disorder associated with significant extraintestinal manifestations. Emerging evidence indicates that cardiovascular disease represents a clinically important comorbidity in IBD, driven by persistent low-grade inflammation, en...",
+      "segment": 18,
+      "timestamp": 1242.79
+    },
+    {
+      "title": "Intestinal microenvironment-modulating nanomedicines for inflammatory bowel disease.",
+      "url": "https://doi.org/10.1016/j.jconrel.2026.114953",
+      "source": "PubMed — Journal of controlled release : official journal of the Controlled Release Society",
+      "one_liner": "Inflammatory bowel diseases present a highly restrictive intestinal microenvironment for drug delivery, in which epithelial injury, chronic inflammation, and microbial dysbiosis collectively impair transport, retention, and therapeutic efficacy. Excessive reactive oxygen species (ROS), mucus barrier disruption, altered luminal acidity, hydrogen sulfide ac...",
+      "segment": 19,
+      "timestamp": 1374.84
+    },
+    {
+      "title": "Extracellular ATP drives tryptophan metabolism and aryl hydrocarbon receptor activation to promote cellular senescence.",
+      "url": "https://doi.org/10.1016/j.jbc.2026.113094",
+      "source": "PubMed — The Journal of biological chemistry",
+      "one_liner": "We have shown that extracellular ATP promotes senescence through the activation of the P2Y11 receptor (P2Y11R). The underlying molecular mechanisms remain to be fully established. Synthesis of tryptophan (Trp)-derived indole metabolites is mediated mostly by the gut microbiota. Tryptophan metabolites can activate the aryl hydrocarbon receptor (AhR). Wheth...",
+      "segment": 20,
+      "timestamp": 1427.94
+    },
+    {
+      "title": "Longitudinal analysis of human milk oligosaccharides (HMOs) and Mucin-2-glycans in infants reveals enrichment of sulfated and glucuronic acid-bearing HMOs.",
+      "url": "https://doi.org/10.1016/j.jbc.2026.113099",
+      "source": "PubMed — The Journal of biological chemistry",
+      "one_liner": "In infants, the acquisition of an adult-like gastrointestinal (GI) microbiome begins at birth, fully developing by toddlerhood. This colonization is influenced by the diet which, in breast-fed infants, contains high concentrations of soluble human milk oligosaccharides (HMOs), prebiotics bearing structural-resemblance to the glycans that decorate Mucin-2 ...",
+      "segment": 21,
+      "timestamp": 1474.26
+    },
+    {
+      "title": "Modulation of intestinal microbiota and metabolites mediates the improvement of cyclophosphamide-induced immunodeficiency in mice by Monopterus albus slime protein.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.118599",
+      "source": "PubMed — Food research international (Ottawa, Ont.)",
+      "one_liner": "Immunodeficiency significantly compromises host defense mechanisms and contributes to various pathologies. Monopterus albus whole slime (MS) is an underutilized aquatic by-product rich in proteins. This study examined the therapeutic effects and underlying mechanisms of MS and its purified protein (MSP) against cyclophosphamide (CTX)-induced immunodeficie...",
+      "segment": 22,
+      "timestamp": 1515.66
+    },
+    {
+      "title": "The role of mycobiome in terroir and during Muscat grapes fermentation unveiled by multi-omic analysis.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.118577",
+      "source": "PubMed — Food research international (Ottawa, Ont.)",
+      "one_liner": "The wine microbiome is a key determinant in shaping wine terroir. To date, a comprehensive understanding of how microbial signatures influence wine metabolic profile remains poorly understood. To address this, in the present study an integrated shotgun metagenomics and untargeted metabolomic approach was employed to investigate the wine metabolome and con...",
+      "segment": 23,
+      "timestamp": 1568.93
+    },
+    {
+      "title": "Interplay of probiotics, prebiotics, synbiotics and postbiotics: a review of their therapeutic potential for gastrointestinal inflammation.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.118598",
+      "source": "PubMed — Food research international (Ottawa, Ont.)",
+      "one_liner": "Gastrointestinal inflammation is a multifaceted condition deeply connected to the gut microbiota. The prebiotics, probiotics, synbiotics and their metabolites, termed postbiotics, have been explored extensively in the past as a novel approach in managing inflammatory bowel disorders. Prebiotics, probiotics, and postbiotics derived from food sources play c...",
+      "segment": 24,
+      "timestamp": 1611.17
+    },
+    {
+      "title": "A synbiotic combination of arabinogalactan and Bacteroides thetaiotaomicron ameliorates ulcerative colitis in mice.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.118617",
+      "source": "PubMed — Food research international (Ottawa, Ont.)",
+      "one_liner": "Inflammatory bowel disease (IBD) is a chronic disease associated with excessive inflammation and gut microbiota dysbiosis. Synbiotic intervention represents a novel management strategy for IBD. However, there remains a critical need to identify new synbiotic combinations and to elucidate their effects on microbial structure and metabolic profiles. This st...",
+      "segment": 25,
+      "timestamp": 1654.87
+    },
+    {
+      "title": "Exploring the impact of dietary extracellular vesicles on gut health: homeostasis, barrier defense, immunity, and signaling pathways.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.118515",
+      "source": "PubMed — Food research international (Ottawa, Ont.)",
+      "one_liner": "Dietary extracellular vesicles (D-EVs), which are nanoscale extracellular vesicles derived from edible food sources such as plants, animals, and microorganisms, have emerged as key regulators of gut health, influencing microbiota composition, intestinal barrier integrity, and immune responses. Recent studies highlight their role in modulating cellular pro...",
+      "segment": 26,
+      "timestamp": 1697.8
+    },
+    {
+      "title": "Fermented red quinoa (FRQ) effectively mitigates chronic alcohol-induced cognitive impairment and hepatic steatosis through multi-mechanistic pathways.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.118547",
+      "source": "PubMed — Food research international (Ottawa, Ont.)",
+      "one_liner": "Long-term alcohol consumption drives systemic damage through metabolites such as acetaldehyde, which trigger oxidative stress, inflammation, and gut dysbiosis. This study evaluated the protective effects of fermented red quinoa (FRQ) in an alcohol-exposed mouse model, with a focus on cognitive function. Male C57BL/6J mice were randomized into three groups...",
+      "segment": 27,
+      "timestamp": 2073.68
+    },
+    {
+      "title": "ILA-producing bifidobacterium bifidum ameliorates chronic kidney disease via AHR signaling by modulating the gut-kidney axis.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.118638",
+      "source": "PubMed — Food research international (Ottawa, Ont.)",
+      "one_liner": "Chronic kidney disease (CKD) is associated with gut microbiota dysbiosis and disruption of the gut-kidney axis, making probiotics-which can modulate host metabolism and the gut microbiome-a highly promising intervention strategy. Building on this premise, this study used High-Performance Liquid Chromatography (HPLC) to screen 39 candidate strains and succ...",
+      "segment": 28,
+      "timestamp": 2119.35
+    },
+    {
+      "title": "Beneficial effects of Ribes nigrum L. polyphenols on yogurt: Sensory quality, probiotic proliferation, pathogen inhibition and bioactivity.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.118596",
+      "source": "PubMed — Food research international (Ottawa, Ont.)",
+      "one_liner": "Yogurt is a globally popular fermented dairy product with excellent nutritional value. Its well-documented health benefits are predominantly associated with the probiotic strains involved in the fermentation process, which play key roles in gut microbiota modulation and metabolic homeostasis regulation. Concurrently, polyphenols derived from Ribes nigrum ...",
+      "segment": 29,
+      "timestamp": 2165.91
+    },
+    {
+      "title": "Modulation of Antioxidant and Anti-Inflammatory Response in the Eyes of CKD Animals Supplemented with Larch Arabinogalactan.",
+      "url": "https://doi.org/10.1177/1096620X261447993",
+      "source": "PubMed — Journal of medicinal food",
+      "one_liner": "Chronic kidney disease (CKD) is a systemic condition associated with inflammation and oxidative stress, affecting organs beyond the kidneys. Although rarely emphasized, the eyes may also be affected but underlying molecular mechanisms remain largely unexplored. The gut-kidney and gut-eye axes are emerging as therapeutic targets with prebiotics like Resist...",
+      "segment": 30,
+      "timestamp": 2220.14
+    },
+    {
+      "title": "Effect of Sequential Extraction Methods on the Structure and",
+      "url": "https://doi.org/10.1021/acs.jafc.5c18000",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "Polysaccharides derived from sea buckthorn pomace are bioactive compounds that can undergo intestinal fermentation and exert prebiotic effects. However, the influence of sequential extraction on their structural properties and prebiotic activity remains unexplored. Six fractions were sequentially extracted with water (W), CDTA (CA), sodium carbonate (SC),...",
+      "segment": 31,
+      "timestamp": 2260.58
+    },
+    {
+      "title": "Defined Microbiota Modulates Host Metabolome and Skeletal Adaptation to Diet-Induced Obesity.",
+      "url": "https://doi.org/10.1096/fj.202600564RR",
+      "source": "PubMed — FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "one_liner": "The gut microbiota is increasingly recognized as a regulator of host metabolism and bone physiology. However, how microbial colonization integrates systemic metabolic cues with skeletal remodeling under metabolic stress remains unclear. We used germ-free (GF) and gnotobiotic C57BL/6J mice colonized with the defined 12-member Oligo-Mouse-Microbiota (Oligo-MM",
+      "segment": 32,
+      "timestamp": 2308.48
+    },
+    {
+      "title": "Longitudinal Follow-Up of Gut and Salivary Microbiota in Children With Food Protein-Induced Enterocolitis Syndrome.",
+      "url": "https://doi.org/10.1111/all.70363",
+      "source": "PubMed — Allergy",
+      "one_liner": "BACKGROUND: Gut microbiota and their metabolites play a key role in digestive dysimmunity and tolerance breakdown, leading to pathologies such as food protein-induced enterocolitis syndrome (FPIES). This study aimed to compare both the gut and salivary microbiota over time between the allergic and tolerant patients and the matched controls. METHODS: Faeca...",
+      "segment": 33,
+      "timestamp": 2353.98
+    },
+    {
+      "title": "Association Between Antibiotic Therapy and Treatment Effectiveness in Patients With Renal Cell Carcinoma Receiving Immune Checkpoint Inhibitors or Tyrosine Kinase Inhibitors.",
+      "url": "https://doi.org/10.1200/OP-25-00963",
+      "source": "PubMed — JCO oncology practice",
+      "one_liner": "PURPOSE: It has been theorized that antibiotic therapy (ABT) affects response to immune checkpoint inhibition (ICI) by inducing dysbiosis of the gut microbiome (GM). To investigate the association between ABT and real-world overall survival (rwOS)/progression-free survival (rwPFS) in patients with metastatic renal cell carcinoma (mRCC) receiving ICI versu...",
+      "segment": 34,
+      "timestamp": 2407.64
+    },
+    {
+      "title": "HIV Reservoir Dynamics and Bacteriome Composition Along the Gut Axis.",
+      "url": "https://doi.org/10.1093/infdis/jiaf546",
+      "source": "PubMed — The Journal of infectious diseases",
+      "one_liner": "BACKGROUND: The gastrointestinal (GI) tract is a major reservoir of HIV and home to the body's most diverse microbiome. However, the role of the gut bacteriome in modulating local HIV persistence remains uninvestigated. METHODS: Leveraging rapid autopsy samples (n = 113) from 24 people with HIV in the Last Gift cohort, we performed 16S rRNA sequencing and...",
+      "segment": 35,
+      "timestamp": 2447.4
+    },
+    {
+      "title": "Helminth Excretory/Secretory Proteins Ameliorate Colitis Through Preservation of Intestinal Homeostasis.",
+      "url": "https://doi.org/10.1096/fj.202504557R",
+      "source": "PubMed — FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "one_liner": "Inflammatory bowel disease (IBD) manifests as a sustained gastrointestinal condition driven by an ongoing dysregulated immunity, defective mucosal barrier, and microbiota dysbiosis. Parasitic helminths exert immunomodulation chiefly via excretory/secretory proteins (ESP). This study assessed the remedial effects alongside the mechanistic pathways of the E...",
+      "segment": 36,
+      "timestamp": 2492.83
+    }
+  ]
+}
