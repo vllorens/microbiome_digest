@@ -1,0 +1,366 @@
+{
+  "timestamps": [
+    0.0,
+    46.0,
+    144.86,
+    188.77,
+    225.54,
+    270.84,
+    313.13,
+    437.11,
+    531.78,
+    684.95,
+    770.79,
+    891.84,
+    1017.46,
+    1132.22,
+    1189.58,
+    1569.73,
+    1621.5,
+    1666.04,
+    1715.28,
+    1759.72,
+    1806.69,
+    1857.42,
+    1899.9,
+    1941.96,
+    1989.26,
+    2038.65,
+    2086.62,
+    2481.04,
+    2521.98,
+    2565.17,
+    2677.18,
+    2817.79,
+    2868.26,
+    2909.72,
+    2955.22,
+    3054.36,
+    3100.18,
+    3143.59,
+    3191.34,
+    3228.47
+  ],
+  "items": [
+    {
+      "title": "Shared functional microbiome signatures in Parkinson's disease and constipation predominate irritable bowel syndrome despite taxonomic divergence.",
+      "url": "https://doi.org/10.1016/j.bbih.2026.101218",
+      "source": "PubMed — Brain, behavior, & immunity - health",
+      "one_liner": "BACKGROUND: Gastrointestinal dysfunction, including constipation, is a common non-motor feature of Parkinson's disease (PD) and often precedes motor symptoms. The gut microbiome interacts with the host through neural, hormonal, and immune pathways, yet whether constipation represents a cause or consequence of PD remains unclear. Therefore, we aimed to int...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Pregnancy-induced hypertension are preceded by prenatal perturbations of the gut microbiome and metabolome.",
+      "url": "https://doi.org/10.1007/s00018-026-06221-1",
+      "source": "PubMed — Cellular and molecular life sciences : CMLS",
+      "one_liner": "",
+      "segment": 1,
+      "timestamp": 46.0
+    },
+    {
+      "title": "Artificial intelligence-driven donor-recipient gut microbiome matching for optimized fecal microbiota transplantation.",
+      "url": "https://doi.org/10.1016/j.celrep.2026.117301",
+      "source": "PubMed — Cell reports",
+      "one_liner": "Fecal microbiota transplantation (FMT) has emerged as a promising therapy for gastrointestinal diseases, yet its clinical efficacy remains individually variable. Here, we analyze multi-kingdom and functional profiles in pre- and post-FMT metagenomes from 515 FMTs across 30 cohorts and 12 diseases, in which 94 metagenomes from 44 FMTs are newly collected. ...",
+      "segment": 2,
+      "timestamp": 144.86
+    },
+    {
+      "title": "Gut-Brain Connection: Deciphering Causal Pathways Between Gut Microbiota and Neuroimaging Profiles Through Mendelian Randomization.",
+      "url": "https://doi.org/10.1002/fsn3.71820",
+      "source": "PubMed — Food science & nutrition",
+      "one_liner": "Recent research on the gut-brain axis (GBA) indicates that the gut microbiome can significantly influence brain structural and functional connectivity. However, the specific causal relationships between the gut microbiome and brain imaging-derived phenotypes (IDPs) of functional/structural connectivity, as well as how the gut microbiota influences mood an...",
+      "segment": 3,
+      "timestamp": 188.77
+    },
+    {
+      "title": "Exploring the Prebiotic Effects of Composite Fungal Polysaccharides From Hericium erinaceus and Lyophyllum decastes on Gut Microbiota and Metabolism.",
+      "url": "https://doi.org/10.1111/1750-3841.71071",
+      "source": "PubMed — Journal of food science",
+      "one_liner": "Fungal polysaccharides have attracted considerable scholarly interest due to their potential as prebiotics, with the ability to modulate gut microbiota and enhance host health. Despite increasing recognition, the precise effects of composite polysaccharides from various fungal species on gut microbial composition and metabolic activity remain inadequately...",
+      "segment": 4,
+      "timestamp": 225.54
+    },
+    {
+      "title": "Yak whey powder enhanced antioxidant activity in aging mice by regulating gut microbiota.",
+      "url": "https://doi.org/10.1002/jsfa.70639",
+      "source": "PubMed — Journal of the science of food and agriculture",
+      "one_liner": "BACKGROUND: The aging process is closely related to the accumulation of oxidative stress and imbalance in the gut microbiota. Yak whey powder is rich in various bioactive components; however, whether it can improve the antioxidant status of aging organisms by regulating gut microbiota remains to be elucidated. This study aims to investigate the effects of...",
+      "segment": 5,
+      "timestamp": 270.84
+    },
+    {
+      "title": "Gut microbiota and pancreatic cancer: tumorigenesis, progression, and clinical applications.",
+      "url": "https://doi.org/10.20892/j.issn.2095-3941.2025.0650",
+      "source": "PubMed — Cancer biology & medicine",
+      "one_liner": "Pancreatic ductal adenocarcinoma (PDAC) is one of the most aggressive malignancies of the digestive system, with a 5-year survival rate of only 13%, which is largely due to late-stage diagnosis and limited therapeutic options. Emerging evidence indicates that the gut microbiota has a critical role in PDAC tumorigenesis, progression, and therapeutic respon...",
+      "segment": 6,
+      "timestamp": 313.13
+    },
+    {
+      "title": "Microbiome-Modulating Strategies in Anticancer Therapy: A Review of Current Evidence and Recommendations for Further Treatment Improvement.",
+      "url": "https://doi.org/10.1007/s12602-026-11024-8",
+      "source": "PubMed — Probiotics and antimicrobial proteins",
+      "one_liner": "",
+      "segment": 7,
+      "timestamp": 437.11
+    },
+    {
+      "title": "Gestational diabetes and risk of type 2 diabetes: exploring the role of the gut microbiome in the Hispanic Community Health Study/Study of Latinos (HCHS/SOL).",
+      "url": "https://doi.org/10.1007/s00125-026-06727-0",
+      "source": "PubMed — Diabetologia",
+      "one_liner": "AIMS/HYPOTHESIS: Women with a history of gestational diabetes mellitus (GDM) have an elevated risk of type 2 diabetes in their later life, yet the underlying mechanisms of this remain unclear. We aimed to investigate the long-term impact of GDM on gut microbiota and related metabolites and to explore whether such alterations may contribute to type 2 diabe...",
+      "segment": 8,
+      "timestamp": 531.78
+    },
+    {
+      "title": "Selenium: From Redox Signaling to Interactions with the Gut Microbiome.",
+      "url": "https://doi.org/10.1007/s12011-026-05132-3",
+      "source": "PubMed — Biological trace element research",
+      "one_liner": "Selenium is an element that plays a crucial role in the proper functioning of the body. It is a component of selenoproteins, which exhibit strong antioxidant properties. This allows it to neutralize reactive oxygen species and protect cells from oxidative stress. It also plays a crucial role in supporting the proper functioning of the immune system. In th...",
+      "segment": 9,
+      "timestamp": 684.95
+    },
+    {
+      "title": "Effects of a Greek Yoghurt-based Complex on the Human Facial Skin Microbiome.",
+      "url": "https://doi.org/10.21873/invivo.14339",
+      "source": "PubMed — In vivo (Athens, Greece)",
+      "one_liner": "BACKGROUND/AIM: Natural ingredient-containing complexes are used in dermo-cosmetics to ameliorate facial characteristics, yet human experimental approaches and trials demonstrating their efficacy remain limited. This study assessed the effects of a Greek yoghurt-based complex on the human facial skin microbiome. MATERIALS AND METHODS: Thirty-one volunteer...",
+      "segment": 10,
+      "timestamp": 770.79
+    },
+    {
+      "title": "Association between gut microbiota and sarcopenia in older adults: a cross-sectional analysis from the second wave of the Birjand Longitudinal Aging Study (BLAS).",
+      "url": "https://doi.org/10.1007/s40520-026-03403-6",
+      "source": "PubMed — Aging clinical and experimental research",
+      "one_liner": "INTRODUCTION: Investigating gut microbiota has emerged as a novel approach to exploring the gut-muscle axis and its link to age-related conditions like sarcopenia. While studies suggest gut dysbiosis may promote inflammation and muscle loss, findings vary by region and ethnicity. This study examined the association between gut microbiota and primary sarco...",
+      "segment": 11,
+      "timestamp": 891.84
+    },
+    {
+      "title": "The impact of the COVID-19 pandemic and associated lifestyle changes on early-life microbiome development.",
+      "url": "https://doi.org/10.1186/s13073-026-01660-8",
+      "source": "PubMed — Genome medicine",
+      "one_liner": "BACKGROUND: The COVID-19 pandemic triggered rapid, population-wide behavioral and environmental changes, offering a unique natural experiment to study how early-life microbiome development responds to abrupt shifts in social and hygiene-related exposures. METHODS: Using longitudinal data from 139 infants in the Dutch LucKi Gut study, we compared gut micro...",
+      "segment": 12,
+      "timestamp": 1017.46
+    },
+    {
+      "title": "Transgenerational sublethal effects of emamectin benzoate and indoxacarb on Telenomus remus: Integrative insights from host-associated microbiome and transcriptome analyses.",
+      "url": "https://doi.org/10.1016/j.ecoenv.2026.120193",
+      "source": "PubMed — Ecotoxicology and environmental safety",
+      "one_liner": "The extensive application of synthetic insecticides like emamectin benzoate (EB) and indoxacarb (IN), threatens ecologically beneficial parasitoids such as Telenomus remus. This study evaluated the transgenerational impacts of continuous exposure (over seven generations) to EB and IN on T. remus by integrating toxicity assays, life-history analysis, micro...",
+      "segment": 13,
+      "timestamp": 1132.22
+    },
+    {
+      "title": "Multi-omics reveals that 4'-O-β-D-glucosyl-5-O-methylvisamminol ameliorates acute liver injury by modulating the miR-30e-3p/Tfrc axis and a multi-dimensional network of ferroptosis, inflammation, metabolism, and gut microbiota.",
+      "url": "https://doi.org/10.1016/j.phymed.2026.158022",
+      "source": "PubMed — Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "one_liner": "BACKGROUND: Overuse of acetaminophen (APAP) can induce acute liver injury (ALI), and its mechanism is closely related to ferroptosis. 4'-O-β-d-glucosyl-5-O-methylvisamminol (5-O) is a natural coumarin glycoside with anti-inflammatory and antioxidant activities, but whether it can alleviate liver injury through intervention in ferroptosis and multi-dimensi...",
+      "segment": 14,
+      "timestamp": 1189.58
+    },
+    {
+      "title": "The structural characteristics, physicochemical properties, rheological behavior and anti-obesity effects of polysaccharides from Pueraria lobata: In-depth study focusing on the gut microbiota-hepatic FGF21 signaling.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.118717",
+      "source": "PubMed — Food research international (Ottawa, Ont.)",
+      "one_liner": "Obesity and related metabolic disorders pose a global health challenge. Bioactive polysaccharides have emerged as potential modulators of obesity through gut microbiota regulation. In this study, Pueraria lobata polysaccharide (UPLP) was prepared via ultrasonic-assisted extraction method. Chemically analysis identified that UPLP as a glucose-rich polysacc...",
+      "segment": 15,
+      "timestamp": 1569.73
+    },
+    {
+      "title": "The relationship between the gut microbiota and neuropsychological development and behaviour during childhood and adolescence: a systematic review of epidemiological studies.",
+      "url": "https://doi.org/10.1016/j.bbih.2026.101212",
+      "source": "PubMed — Brain, behavior, & immunity - health",
+      "one_liner": "Mounting evidence suggests that early-life microbial colonization might shape cognitive development and behaviour. This systematic review summarizes current research on the relationship between the gut microbiota and neuropsychological development and behaviour in children and adolescents (0-18 years). Following PRISMA guidelines, we conducted a comprehen...",
+      "segment": 16,
+      "timestamp": 1621.5
+    },
+    {
+      "title": "Microbiome-gut-liver axis in chronic inflammation and cancer immunotherapy: Multi-omics Insights and a translational roadmap toward personalized medicine.",
+      "url": "https://doi.org/10.1016/j.critrevonc.2026.105217",
+      "source": "PubMed — Critical reviews in oncology/hematology",
+      "one_liner": "Gut-liver axis is critical to integrate microbial, metabolic, and immune signaling networks to control hepatic homeostasis and carcinogenesis. Gut microbial balance disruption (dysbiosis) stimulates chronic inflammation, metabolic disorders, and transition from non-alcoholic fatty liver disease (NAFLD) to hepatocellular carcinoma (HCC). Latest evidence po...",
+      "segment": 17,
+      "timestamp": 1666.04
+    },
+    {
+      "title": "Pharmacomicrobiomics in blood cancers: How the gut microbiome and its metabolites shape drug efficacy and toxicity.",
+      "url": "https://doi.org/10.1016/j.critrevonc.2026.105229",
+      "source": "PubMed — Critical reviews in oncology/hematology",
+      "one_liner": "Clinical management of hematologic cancers is frequently complicated by marked, unpredictable inter-patient variation in both therapeutic benefit and adverse effects. Beyond host genetics, accumulating mechanistic and translational data implicate the gut microbiota and its small-molecule metabolome as active modifiers of drug chemistry, host immune tone, ...",
+      "segment": 18,
+      "timestamp": 1715.28
+    },
+    {
+      "title": "Roles of the gut microbiota in cancer immunotherapy: Mechanistic foundations and therapeutic opportunities.",
+      "url": "https://doi.org/10.1016/j.critrevonc.2026.105230",
+      "source": "PubMed — Critical reviews in oncology/hematology",
+      "one_liner": "Cancer immunotherapy has revolutionized oncological treatment through diverse modalities including immune checkpoint blockade, adoptive cell therapy, therapeutic vaccines, and cytokine-based approaches. Despite these advances, clinical responses remain heterogeneous, with sustained benefit limited to a minority of patients. Emerging evidence now implicate...",
+      "segment": 19,
+      "timestamp": 1759.72
+    },
+    {
+      "title": "Genetically engineered Escherichia coli Nissle 1917 enabling on-site melanin synthesis attenuates radiation enteritis through ferroptosis inhibition and gut microbiota modulation.",
+      "url": "https://doi.org/10.1016/j.redox.2026.104141",
+      "source": "PubMed — Redox biology",
+      "one_liner": "Radiation enteritis (RE) poses a clinically-relevant therapeutic challenge with limited effective interventions. Engineered probiotic drug delivery systems offer innovative strategies for precise treatment of inflammatory disease. However, both the practical efficacy and therapeutic mechanism of engineered probiotic agents for RE alleviation remains large...",
+      "segment": 20,
+      "timestamp": 1806.69
+    },
+    {
+      "title": "Hydroxytyrosol Mitigates Anxiety-Like Behaviors After a Traumatic Experience in Aged Mice in Parallel With Increased Neurogenesis in the Ventral and Dorsal Dentate Gyrus, and Preservation of Gut Microbiota Composition.",
+      "url": "https://doi.org/10.1111/jnc.70448",
+      "source": "PubMed — Journal of neurochemistry",
+      "one_liner": "Hydroxytyrosol (HTyr), a phenolic compound present in olive oil, exhibits antioxidant, anti-inflammatory, and neuroprotective properties, benefiting several age-related diseases. Our previous research demonstrated that oral HTyr administration counteracts age-associated neurogenesis decline in the dentate gyrus of the hippocampus by promoting the producti...",
+      "segment": 21,
+      "timestamp": 1857.42
+    },
+    {
+      "title": "Gut microbiota composition and tumor immune features in meningioma patients.",
+      "url": "https://doi.org/10.1128/spectrum.02485-25",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "UNLABELLED: Meningiomas are prevalent intracranial tumors with poorly understood extraneural drivers. While the gut-brain axis influences neuro-oncogenesis, meningioma-specific gut microbiome alterations and their clinical implications remain uncharacterized. This study integrated 16S rRNA sequencing of fecal samples from 15 treatment-naïve WHO grade I me...",
+      "segment": 22,
+      "timestamp": 1899.9
+    },
+    {
+      "title": "Multi-omics analysis reveals the alterations in the tumor microbiome and metabolome associated with cervical cancer lymph node metastasis.",
+      "url": "https://doi.org/10.1128/spectrum.02247-25",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "UNLABELLED: Lymph node metastasis (LNM) is the primary mode of cervical cancer (CC) metastasis and is associated with a poorer prognosis. A comprehensive understanding of the underlying mechanisms driving LNM is critical to improving CC patient outcomes. Previous studies have demonstrated that alterations in the intratumor microbiome contribute to tumor p...",
+      "segment": 23,
+      "timestamp": 1941.96
+    },
+    {
+      "title": "GLP-1 agonists and the gut microbiome: A bidirectional relationship.",
+      "url": "https://doi.org/10.1002/bcp.70487",
+      "source": "PubMed — British journal of clinical pharmacology",
+      "one_liner": "Glucagon-like peptide-1 (GLP-1) receptor agonists have transformed the management of type 2 diabetes mellitus (T2DM) and obesity, yet their interactions with the gut microbiome remain an emerging frontier in pharmacological and metabolic research. Mounting evidence suggests that the gut microbiota modulates GLP-1 secretion via microbial metabolites, inclu...",
+      "segment": 24,
+      "timestamp": 1989.26
+    },
+    {
+      "title": "The gut microbiome and dietary interventions in cancer cachexia.",
+      "url": "https://doi.org/10.1097/MCO.0000000000001211",
+      "source": "PubMed — Current opinion in clinical nutrition and metabolic care",
+      "one_liner": "PURPOSE OF REVIEW: The gut microbiome (GM) is altered in cancer cachexia, and it is possible that such GM changes may promote or sustain features of cancer cachexia including changes in host metabolism and anorexia. As a result, there is growing interest in GM-focused interventions to address cancer cachexia. In this review, the factors that likely contri...",
+      "segment": 25,
+      "timestamp": 2038.65
+    },
+    {
+      "title": "Microbiome-Based Modeling of CAR-T Therapy Response in Lymphoma: Insights From Shotgun Metagenomics Sequencing.",
+      "url": "https://doi.org/10.1111/ejh.70121",
+      "source": "PubMed — European journal of haematology",
+      "one_liner": "The interplay between the commensal microbiota and the mammalian immune system may influence the outcomes of T cell-driven cancer immunotherapies. However, clinical studies supporting microbiota-based interventions in chimeric antigen receptor T-cell (CAR-T) therapy remain scarce. This study included 30 adult patients with B-cell lymphoma treated with axi...",
+      "segment": 26,
+      "timestamp": 2086.62
+    },
+    {
+      "title": "Regulatory T cells are induced by gut microbiota through differentially regulating costimulatory molecules of enteric glial cells.",
+      "url": "https://doi.org/10.1152/ajpgi.00032.2025",
+      "source": "PubMed — American journal of physiology. Gastrointestinal and liver physiology",
+      "one_liner": "Probiotics have been proven to be effective in inducing and maintaining remission of inflammatory bowel disease (IBD). However, their precise mechanisms remain unclear. Interactions between the gut microbiota and enteric glial cells (EGCs) have gained increasing attention. We aimed to investigate whether and how",
+      "segment": 27,
+      "timestamp": 2481.04
+    },
+    {
+      "title": "The Influence of the Vaginal Microbiome on the Prediction and Prevention of Preterm Birth.",
+      "url": "https://doi.org/10.1111/1471-0528.70173",
+      "source": "PubMed — BJOG : an international journal of obstetrics and gynaecology",
+      "one_liner": "BACKGROUND: Spontaneous preterm labour that leads to preterm birth is known to be associated with vaginal dysbiosis, particularly bacterial vaginosis, and this may explain why progress has been slow in the last few decades. Bacterial vaginosis was considered enigmatic with unknown aetiology, difficulty in diagnosis, different response to treatment, be tha...",
+      "segment": 28,
+      "timestamp": 2521.98
+    },
+    {
+      "title": "Dynamic reorganisation of intratumoural bacterial florae during colorectal cancer progression.",
+      "url": "https://doi.org/10.1038/s41416-026-03344-x",
+      "source": "PubMed — British journal of cancer",
+      "one_liner": "BACKGROUND: Colorectal cancer (CRC) exhibits distinct bacterial community compositions compared to healthy mucosae, which intimately correlate with CRC clinical outcomes. There is a lack of explanation for the inducements of microbiota remodelling. METHODS: FISH experiments and 16S rRNA sequencing were conducted to determine the inducements of various bac...",
+      "segment": 29,
+      "timestamp": 2565.17
+    },
+    {
+      "title": "Enzyme-Triggered Microcapsules for Colon-Targeted Delivery of Lacticaseibacillus rhamnosus Improve Metabolic Parameters in an Obese Mouse Model.",
+      "url": "https://doi.org/10.1007/s12602-026-11035-5",
+      "source": "PubMed — Probiotics and antimicrobial proteins",
+      "one_liner": "Obesity is associated with numerous metabolic disorders, and identifying safe and effective strategies for obesity management remains an important research priority. In our previous research, we successfully developed a colon-targeted probiotics oral delivery system, AP",
+      "segment": 30,
+      "timestamp": 2677.18
+    },
+    {
+      "title": "Comorbid Alzheimer's Disease and Type 2 Diabetes Microbiota Shape Age-Associated Gut-Brain Axis Profiles.",
+      "url": "https://doi.org/10.1111/acel.70488",
+      "source": "PubMed — Aging cell",
+      "one_liner": "Alzheimer's disease (AD) and type 2 diabetes mellitus (T2DM) share metabolic and inflammatory mechanisms, potentially mediated by the gut microbiota, yet the neurobiological impact of comorbid AD+T2DM microbiota from elderly donors remains unexplored. Fecal microbiota from healthy, AD, T2DM, and AD+T2DM postmenopausal female donors (aged 56-89 years) was ...",
+      "segment": 31,
+      "timestamp": 2817.79
+    },
+    {
+      "title": "Laboratory Analysis of Fecal",
+      "url": "https://doi.org/10.1002/hsr2.72348",
+      "source": "PubMed — Health science reports",
+      "one_liner": "BACKGROUND AND AIMS: Tobacco smoking is a major cause of preventable mortality globally, disproportionately impacting developing countries. While its systemic health effects are well-known, the influence of tobacco on gut microbiota-especially beneficial Lactobacillus species-remains poorly explored in resource-limited settings. METHODS: This study examin...",
+      "segment": 32,
+      "timestamp": 2868.26
+    },
+    {
+      "title": "Probiotics: mechanism of action and gastrointestinal health: gut guardians: unlocking the power of probiotics.",
+      "url": "https://doi.org/10.1002/jsfa.70275",
+      "source": "PubMed — Journal of the science of food and agriculture",
+      "one_liner": "The gut microbiota is fundamental to human health, contributing to nutrient metabolism, immune regulation and protection against pathogens. Disturbances in this microbial community, often caused by antibiotic use, poor diet or infections, can disrupt intestinal homeostasis and predispose individuals to gastrointestinal disorders. Restoring this balance ha...",
+      "segment": 33,
+      "timestamp": 2909.72
+    },
+    {
+      "title": "A Muribaculaceae-enriched microbiota exacerbates TLR4-dependent Acinetobacter baumannii-induced hyperinflammatory sepsis.",
+      "url": "https://doi.org/10.1038/s41467-026-72435-3",
+      "source": "PubMed — Nature communications",
+      "one_liner": "Host survival during sepsis depends not only on pathogen burden but also on inflammatory thresholds calibrated by the gut microbiota. Here, we show that different survival outcomes were observed in genetically equivalent female C57BL/6 mouse populations depending on their specific gut microbiota configuration. A Muribaculaceae-enriched gut microbiota, cha...",
+      "segment": 34,
+      "timestamp": 2955.22
+    },
+    {
+      "title": "Bifidobacterium bifidum-derived nanoparticles attenuate alcoholic liver disease via enhanced hepatic phagocytosis and gastrointestinal homeostasis.",
+      "url": "https://doi.org/10.1038/s41467-026-72211-3",
+      "source": "PubMed — Nature communications",
+      "one_liner": "Alcohol-associated liver disease (ALD) has limited therapeutic options due to its complex pathogenesis. This study demonstrates the ALD-protective effects of extracellular nanoparticles derived from Bifidobacterium bifidum (BNPs), focusing on the concept of gut microbiota-derived nanoparticles (GNPs) in disease pathogenesis. When isolated BNPs were admini...",
+      "segment": 35,
+      "timestamp": 3054.36
+    },
+    {
+      "title": "Disorders of Gut-Brain Interaction and the Rome V Process.",
+      "url": "https://doi.org/10.1053/j.gastro.2026.02.014",
+      "source": "PubMed — Gastroenterology",
+      "one_liner": "Disorders of gut-brain interaction (DGBI) are characterized by gastrointestinal symptoms related to any combination of motility disturbance, visceral hypersensitivity, altered mci function, altered gut microbiota, or altered central nervous system processing. Research on and clinical management of DGBI is based on selective diagnostic criteria, generated ...",
+      "segment": 36,
+      "timestamp": 3100.18
+    },
+    {
+      "title": "Sociocultural Aspects of the Pathophysiology, Clinical Presentation, and Management of Disorders of Gut-Brain Interaction.",
+      "url": "https://doi.org/10.1053/j.gastro.2026.02.006",
+      "source": "PubMed — Gastroenterology",
+      "one_liner": "Sociocultural determinants such as cultural norms, diet, and environmental factors, along with their effects on the gastrointestinal microbiome, can modify the risk to develop disorders of gut-brain interaction (DGBI). These factors also shape symptom perception and health care-seeking behaviors, and how society and health care providers respond to patien...",
+      "segment": 37,
+      "timestamp": 3143.59
+    },
+    {
+      "title": "The Guild Model of CF Airway Microbial Ecology.",
+      "url": "https://doi.org/10.1128/mbio.03668-25",
+      "source": "PubMed — mBio",
+      "one_liner": "Ecological guilds are groups of organisms that utilize the same class of resources and occupy similar niches, regardless of their taxonomic identities. Here we propose the Guild Model for Cystic Fibrosis Airway Microbial Ecology, which considers the ecological function and wider role of each microbe in the ecosystem. This model consists of four functional...",
+      "segment": 38,
+      "timestamp": 3191.34
+    },
+    {
+      "title": "From gut to brain: effects of fecal microbiota transplants from humans to rats on hippocampal gene regulation - a study on anorexia nervosa.",
+      "url": "https://doi.org/10.1038/s41398-026-04056-9",
+      "source": "PubMed — Translational psychiatry",
+      "one_liner": "Fecal microbiota transplantation (FMT) has emerged as a novel approach for understanding anorexia nervosa (AN), a complex eating disorder characterized by severe underweight, fear of weight gain and distorted body image. Patients with AN show alterations in the gut microbiome, brain structure, and inflammatory processes, indicating the importance of the m...",
+      "segment": 39,
+      "timestamp": 3228.47
+    }
+  ]
+}
