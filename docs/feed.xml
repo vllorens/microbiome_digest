@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Fri, 01 May 2026 06:34:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 05:52:42 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-05-02</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-02/podcast_2026-05-02.mp3</guid>
+      <pubDate>Sat, 02 May 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-02/podcast_2026-05-02.mp3" length="25664732" type="audio/mpeg" />
+      <description>Polygonatum sibiricum polysaccharide (PSP) markedly improves irritable bowel syndrome symptoms in mice, delivering multidimensional phenotypic benefits and reshaping gut microbiota in a sex‑specific manner. | Sodium benzoate, potassium sorbate and citric acid—common food preservatives—do more than inhibit microbes; they reshape the rat gut microbiome when given alone or together. | Researchers linked Fontan circulation to shifts in gut‑microbiome‑derived short‑chain fatty acids, reporting that patients with the Fontan procedure exhibit altered concentrations of both straight‑chain and branched SCFAs compared with healthy controls.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Polygonatum sibiricum polysaccharide (PSP) markedly improves irritable bowel syndrome symptoms in mice, delivering multidimensional phenotypic benefits and reshaping gut microbiota in a sex‑specific manner. | Sodium benzoate, potassium sorbate and citric acid—common food preservatives—do more than inhibit microbes; they reshape the rat gut microbiome when given alone or together. | Researchers linked Fontan circulation to shifts in gut‑microbiome‑derived short‑chain fatty acids, reporting that patients with the Fontan procedure exhibit altered concentrations of both straight‑chain and branched SCFAs compared with healthy controls.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-05-01</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-01/podcast_2026-05-01.mp3</guid>
       <pubDate>Fri, 01 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-01/podcast_2026-05-01.mp3" length="25344452" type="audio/mpeg" />
-      <description>Researchers report that Parkinson&#x27;s disease and constipation‑predominant irritable bowel syndrome share overlapping functional microbiome signatures even though the underlying bacterial taxa differ. | The paper titled “Pregnancy‑induced hypertension are preceded by prenatal perturbations of the gut microbiome and metabolome” proposes that changes in the maternal gut microbial community and its metabolic output can be detected before the clinical onset of hypertension during pregnancy. | Artificial intelligence can now pair fecal microbiota transplant donors with recipients to boost treatment success.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-01/podcast_2026-05-01.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Researchers report that Parkinson&#x27;s disease and constipation‑predominant irritable bowel syndrome share overlapping functional microbiome signatures even though the underlying bacterial taxa differ. | The paper titled “Pregnancy‑induced hypertension are preceded by prenatal perturbations of the gut microbiome and metabolome” proposes that changes in the maternal gut microbial community and its metabolic output can be detected before the clinical onset of hypertension during pregnancy. | Artificial intelligence can now pair fecal microbiota transplant donors with recipients to boost treatment success.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
