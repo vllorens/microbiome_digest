@@ -1,0 +1,366 @@
+{
+  "timestamps": [
+    0.0,
+    47.2,
+    95.37,
+    138.56,
+    182.07,
+    225.82,
+    268.61,
+    311.83,
+    360.47,
+    404.94,
+    442.93,
+    491.33,
+    531.41,
+    572.13,
+    697.7,
+    738.9,
+    780.61,
+    825.03,
+    872.04,
+    915.96,
+    965.27,
+    1008.28,
+    1055.7,
+    1098.68,
+    1141.54,
+    1189.03,
+    1234.6,
+    1274.72,
+    1316.91,
+    1364.43,
+    1412.18,
+    1459.44,
+    1877.18,
+    1919.82,
+    1963.4,
+    2007.99,
+    2050.68,
+    2092.12,
+    2142.62,
+    2188.16
+  ],
+  "items": [
+    {
+      "title": "Antibiotic resistance gene profiles in the gut microbiomes of Apis cerana, Apis mellifera, and Bombus terrestris.",
+      "url": "https://doi.org/10.1016/j.pestbp.2026.107059",
+      "source": "PubMed — Pesticide biochemistry and physiology",
+      "one_liner": "The gut microbiota of honeybees has been increasingly recognized as a reservoir of antibiotic resistance genes (ARGs). However, comprehensive comparisons of ARG profiles between honeybees and bumblebees inhabiting the same environments are limited. Moreover, the diversity of mobile genetic elements (MGEs) in bee gut microbiomes and their potential role in...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "The gut microbiome-bile acid-FXR interplay: a pivotal axis in metabolic and gastrointestinal diseases.",
+      "url": "https://doi.org/10.1080/19490976.2026.2665890",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "The gut microbiota is increasingly recognized as an essential metabolic \"organ\", involved not only in nutrient extraction and energy metabolism but also in generating diverse bioactive metabolites. Among these metabolites, bile acids (BAs) - initially synthesized in the liver - are substantially modified by bacterial enzymes in the gut, enabling them to e...",
+      "segment": 1,
+      "timestamp": 47.2
+    },
+    {
+      "title": "Trait-mediated restructuring of gut microbiota under chlorinated drinking water exposure.",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.141965",
+      "source": "PubMed — Journal of hazardous materials",
+      "one_liner": "Chlorine residuals in drinking water are environmentally relevant oxidants regulated within distribution systems and ingested during routine consumption. Here, we use longitudinal, within-subject designs in humans (0.5 mg/L chlorine exposure) and a parallel mouse model (10 mg/L) to assess the ecological impact of chlorine residuals on gut microbiota under...",
+      "segment": 2,
+      "timestamp": 95.37
+    },
+    {
+      "title": "Microbiome-mediated environmental adaptation in tea plants and its potential applications.",
+      "url": "https://doi.org/10.1016/j.jare.2025.08.049",
+      "source": "PubMed — Journal of advanced research",
+      "one_liner": "BACKGROUND: The assembly of microbiomes during the growth and development of plants plays a crucial role in facilitating host adaptation by enhancing abiotic and biotic resilience to the adverse environment. Understanding the mechanisms of microbial-mediated adaptation to host environments is therefore essential for the plant fitness and sustainable agric...",
+      "segment": 3,
+      "timestamp": 138.56
+    },
+    {
+      "title": "Gut microbiota and metabolite signatures predict severe immune-related adverse events in advanced hepatobiliary cancers.",
+      "url": "https://doi.org/10.1016/j.jare.2025.08.016",
+      "source": "PubMed — Journal of advanced research",
+      "one_liner": "INTRODUCTION: Immune checkpoint inhibition (ICI) has proven to be a major breakthrough in hepatobiliary cancers treatment. However, immune-related adverse events (irAEs) remain a major concern. The gut microbiome has been implicated in ICI efficacy; however, specific alterations in the multi-kingdom gut microbiota associated with severe irAEs are not well...",
+      "segment": 4,
+      "timestamp": 182.07
+    },
+    {
+      "title": "Microbiome-metabolome generated bile acids gatekeep infliximab efficacy in Crohn's disease by licensing M1 suppression and Treg dominance.",
+      "url": "https://doi.org/10.1016/j.jare.2025.08.017",
+      "source": "PubMed — Journal of advanced research",
+      "one_liner": "INTRODUCTION: Despite the effectiveness of infliximab in treating Crohn's disease (CD), up to 40 % of patients fail to respond adequately. OBJECTIVES: This study aimed to identify predictive biomarkers of primary non-response to infliximab in treatment-naïve CD patients by characterizing baseline gut microbiome-metabolome interactions and to validate thei...",
+      "segment": 5,
+      "timestamp": 225.82
+    },
+    {
+      "title": "Refining antibiotic cocktail regimens for pseudo-germ-free mice and their impact on gut microbiome and pancreatic tumor proteomics.",
+      "url": "https://doi.org/10.1016/j.jare.2025.08.015",
+      "source": "PubMed — Journal of advanced research",
+      "one_liner": "INTRODUCTION: The gut microbiome critically influences health, disease, and therapeutic responses. However, creating robust pseudo-germ-free (PGF) mouse models for microbiota-host interaction studies remains challenging due to adverse effects associated with high dosages of commonly used antibiotic cocktails. OBJECTIVES: This study aimed to refine antibio...",
+      "segment": 6,
+      "timestamp": 268.61
+    },
+    {
+      "title": "Betaine inhibited adipogenesis in 3T3-L1 preadipocytes and alleviated obesity-related disorders in high-fat diet-fed C57BL/6 mice by modulating gut microbiota composition.",
+      "url": "https://doi.org/10.1016/j.nutres.2026.02.008",
+      "source": "PubMed — Nutrition research (New York, N.Y.)",
+      "one_liner": "The rising prevalence of obesity underscores the urgent need to develop safe and effective alternative therapies. Betaine, a quaternary amine-type alkaloid with established antioxidant and antiinflammatory properties, has shown promise in metabolic regulation. However, the mechanisms by which betaine exerts antiobesity effects, especially the contribution...",
+      "segment": 7,
+      "timestamp": 311.83
+    },
+    {
+      "title": "Effects of a Plant-Derived Protein Diet Supplemented With Multi-Strain Probiotics on Muscle Mass, Muscle Strength, and Gut Microbiota in Aged Rats.",
+      "url": "https://doi.org/10.1002/mnfr.70481",
+      "source": "PubMed — Molecular nutrition & food research",
+      "one_liner": "This study examined whether a plant-derived protein diet combined with multi-strain probiotics protects against sarcopenia in naturally aged rats (21 months old) via the gut-muscle axis following a 12-week intervention.Compared with the aged control group,The combined intervention increased grip strength by 55.96%, gastrocnemius index by 23.49%, and quadr...",
+      "segment": 8,
+      "timestamp": 360.47
+    },
+    {
+      "title": "Investigation of the underlying mechanism of rifampicin-induced hepatotoxicity and neurotoxicity in mice by untargeted metabolomics and gut microbiota approach.",
+      "url": "https://doi.org/10.1080/15376516.2026.2632678",
+      "source": "PubMed — Toxicology mechanisms and methods",
+      "one_liner": "Rifampicin (RIF) remains a first-line antituberculosis agent. However, its usefulness is limited by its hepatotoxicity and potential neurotoxicity. The aim of this study was to investigate the association between dysbiosis of gut microbiota and dysregulation of liver and brain metabolites in mice induced by treatment with RIF. Microbiota analysis (16S rRN...",
+      "segment": 9,
+      "timestamp": 404.94
+    },
+    {
+      "title": "Dietary and gut microbial variation among urban and rural populations of house mice (Mus musculus domesticus)",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.30.721966",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Urbanization can result in shifts in abiotic and biotic factors, including temperature, pollution, habitat type, pathogens, and diet, among others. These shifts can, in turn, shape the ecological and evolutionary trajectory of urban wildlife. The gut microbiota has the potential to mediate host-environment interactions, especially in the context of diet a...",
+      "segment": 10,
+      "timestamp": 442.93
+    },
+    {
+      "title": "The Unified Human Virome Database: A toolkit for expanded human virome analysis",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.05.01.722327",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Current approaches for computationally analyzing viruses within human microbiomes often rely on databases largely composed of fragmented viral genomes from gastrointestinal samples, limiting identification of viruses exclusively found outside the gastrointestinal tract and analyses requiring high-quality genomes. To address these issues, we created the Un...",
+      "segment": 11,
+      "timestamp": 491.33
+    },
+    {
+      "title": "A decrease in specific health-associated commensals is linked to progressive periodontal tissue destruction independent of dysbiotic community profiles",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.30.721960",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Periodontitis is a chronic inflammatory disease associated with dysbiotic microbial communities that leads to destruction of the tooth-supporting tissues. The transition from host-microbial periodontal homeostasis to disease remains poorly understood. The murine ligature-induced periodontitis model was employed to characterize the temporal dynamics of the...",
+      "segment": 12,
+      "timestamp": 531.41
+    },
+    {
+      "title": "Dietary regulation on gut resistome linked with microbial amino acid metabolism in pigs.",
+      "url": "https://doi.org/10.1186/s42523-026-00542-z",
+      "source": "PubMed — Animal microbiome",
+      "one_liner": "UNLABELLED: Dietary protein plays a crucial role in shaping the gut microbiome and modulating intestinal amino acid metabolism. Gut microbiome is recognized as a reservoir for carrying antimicrobial resistance genes. However, the relationship between amino acids metabolism and antibiotic resistome remains poorly understood. Here, a pig model was used to s...",
+      "segment": 13,
+      "timestamp": 572.13
+    },
+    {
+      "title": "The gut-tumor connection: the role of microbiota in cancer progression and treatment strategies.",
+      "url": "https://doi.org/10.1016/j.jare.2025.08.038",
+      "source": "PubMed — Journal of advanced research",
+      "one_liner": "BACKGROUND: The tumor microenvironment (TME) has become a critical focus in the diagnosis and treatment of cancer. The involvement of the microbiome in tumor initiation and progression underscores its potential as a promising biomarker and therapeutic target. Furthermore, microorganisms in the gut and other ecological niches play pivotal roles in shaping ...",
+      "segment": 14,
+      "timestamp": 697.7
+    },
+    {
+      "title": "Preoperative symbiotic supplementation modulates the intestinal microbiota of patients with colorectal cancer: Evidence from a randomized clinical trial.",
+      "url": "https://doi.org/10.1016/j.nut.2025.113080",
+      "source": "PubMed — Nutrition (Burbank, Los Angeles County, Calif.)",
+      "one_liner": "BACKGROUND: Patients undergoing major surgeries, such as intestinal resections for colorectal cancer (CRC), present an increased risk of developing gut dysbiosis, which may be related to postoperative complications. However, biotherapeutic agents, such as symbiotics, are able to maintain intestinal homeostasis. We therefore explored the impact of preopera...",
+      "segment": 15,
+      "timestamp": 738.9
+    },
+    {
+      "title": "Plant-derived bioactives in early-life complementary foods: a nutritional blueprint for lifelong health.",
+      "url": "https://doi.org/10.1016/j.jare.2025.08.011",
+      "source": "PubMed — Journal of advanced research",
+      "one_liner": "BACKGROUND: The initial 1,000 days of life represent a critical window for determining long-term health. Nutrition in early life has a significant impact on developmental programming of metabolism, immunity, and gut microbiota, with long-term implications for chronic diseases such as obesity, diabetes, and cardiovascular disease. AIM OF THE REVIEW: This r...",
+      "segment": 16,
+      "timestamp": 780.61
+    },
+    {
+      "title": "Lactiplantibacillus plantarum Z6 Improves Functional Constipation in Infants.",
+      "url": "https://doi.org/10.1002/biot.70233",
+      "source": "PubMed — Biotechnology journal",
+      "one_liner": "OBJECTIVE: To evaluate the efficacy and safety of Lactiplantibacillus plantarum Z6 (L. plantarum Z6) supplementation in infants with functional constipation (FC) and to explore its effects on gut microbiota composition. STUDY DESIGN: In this randomized, placebo-controlled trial, 100 infants diagnosed with FC were enrolled and allocated to receive either L...",
+      "segment": 17,
+      "timestamp": 825.03
+    },
+    {
+      "title": "Comparative Analysis of Gut Eukaryotic Communities in Three Laboratory-Reared Cockroach Species Using Metabarcoding.",
+      "url": "https://doi.org/10.1111/jeu.70081",
+      "source": "PubMed — The Journal of eukaryotic microbiology",
+      "one_liner": "Cockroaches are known reservoirs for diverse bacterial microbiomes. However, comprehensive analyses of the eukaryotic communities within cockroaches remain limited. In this study, we selected three long-term laboratory-reared cockroach species (Blattella germanica, Periplaneta fuliginosa, and Periplaneta japonica) and performed metabarcoding of the 18S rR...",
+      "segment": 18,
+      "timestamp": 872.04
+    },
+    {
+      "title": "Cluster analysis of research hotspots and trends in probiotics for constipation: A comprehensive bibliometric analysis (1977-2024).",
+      "url": "https://doi.org/10.1097/MD.0000000000048338",
+      "source": "PubMed — Medicine",
+      "one_liner": "BACKGROUND: Probiotics are increasingly recognized as a promising therapeutic approach for managing constipation, sparking widespread interest in their effects on gastrointestinal health. This study conducts a cluster analysis to systematically map global research trends and hotspots in probiotics for constipation from 1977 to 2024. METHODS: Relevant publ...",
+      "segment": 19,
+      "timestamp": 915.96
+    },
+    {
+      "title": "Resveratrol as a Multi-Domain Modulator of Oxidative Stress, Gut Dysbiosis, and Epigenetic Remodeling in Obesity: A Systems Biology Interpretation.",
+      "url": "https://doi.org/10.1002/jbt.70846",
+      "source": "PubMed — Journal of biochemical and molecular toxicology",
+      "one_liner": "Obesity is increasingly recognized as a chronic inflammatory redox disorder sustained by gut dysbiosis and maladaptive epigenetic programming. A \"lock-in\" model describes how gut dysbiosis induced reactive oxygen species (ROS) stabilize inflammatory signaling and establish epigenetic metabolic scars in adipose tissue, thereby perpetuating obesity even aft...",
+      "segment": 20,
+      "timestamp": 965.27
+    },
+    {
+      "title": "Host genotype and environmental factors differentially shape the black piranha's gill microbiota.",
+      "url": "https://doi.org/10.1128/spectrum.03277-25",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "UNLABELLED: Gills play a crucial role in teleost fish, contributing to respiration, osmoregulation, and immunity. The mucus they secrete, and their associated microbiota, support these physiological functions and serve as a first line of defense against pathogens. However, the relative influence of host genotype and environment on gill microbiota remains ...",
+      "segment": 21,
+      "timestamp": 1008.28
+    },
+    {
+      "title": "Oral Microbial Determinants of Saliva and Serum Lipopolysaccharide Activity.",
+      "url": "https://doi.org/10.1177/00220345251370995",
+      "source": "PubMed — Journal of dental research",
+      "one_liner": "Lipopolysaccharide (LPS) is a virulence factor of gram-negative bacteria, and endotoxemia or translocation of LPS in serum plays a significant role in oral and systemic pathologies. The contribution of the oral microbiome composition to saliva LPS activity and endotoxemia remains unclear. We investigated whether salivary and serum LPS levels are associate...",
+      "segment": 22,
+      "timestamp": 1055.7
+    },
+    {
+      "title": "Integrated multi-omics analysis reveals gut dysbiosis and altered energy metabolism in Chinese ALS patients.",
+      "url": "https://doi.org/10.1128/spectrum.00609-26",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder with a complex etiology. Emerging evidence implicates gut microbiota dysbiosis in ALS pathology via the gut-brain axis, yet the specific integrative profile of the gut microbiome, virome, and metabolome, particularly in Chinese patients, remains incompletely characterized. Although ...",
+      "segment": 23,
+      "timestamp": 1098.68
+    },
+    {
+      "title": "Fluorescent Nanosensor for Indole-3-Propionic Acid Detection in Gut Health Monitoring.",
+      "url": "https://doi.org/10.1002/adhm.202503434",
+      "source": "PubMed — Advanced healthcare materials",
+      "one_liner": "The gut microbiota plays a pivotal role in bio-transforming dietary components, including tryptophan, an essential amino acid that undergoes microbial metabolism. Microbial metabolism of tryptophan yields indole-3-propionic acid (IPA), an emerging biomarker for gut inflammation. Current IPA detection relies on expensive, time-consuming mass spectrometry. ...",
+      "segment": 24,
+      "timestamp": 1141.54
+    },
+    {
+      "title": "A cross-sectional analysis of the vaginal microenvironment in rheumatoid arthritis.",
+      "url": "https://doi.org/10.1128/spectrum.03602-25",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "The human microbiota is implicated in the development and progression of rheumatoid arthritis (RA). Given the increased RA burden in women and well-known correlations between the vaginal microbiota and local inflammation, we seek to understand the vaginal microenvironment in the context of RA pathology. Self-collected vaginal swabs and questionnaires on d...",
+      "segment": 25,
+      "timestamp": 1189.03
+    },
+    {
+      "title": "Effects of",
+      "url": "https://doi.org/10.1177/1096620X261448041",
+      "source": "PubMed — Journal of medicinal food",
+      "one_liner": "Obesity and mental health disorders are among the greatest public health challenges of the 21st century. Interestingly, an altered microbiome profile has been associated with both conditions. The aim of this randomized, double-blind, placebo-controlled clinical trial was to evaluate the effects of dietary supplementation with a specific probiotic strain (",
+      "segment": 26,
+      "timestamp": 1234.6
+    },
+    {
+      "title": "Localized Microbial-Immunometabolic Interactions and Early Lung Cancer.",
+      "url": "https://doi.org/10.1158/1940-6207.CAPR-26-0031",
+      "source": "PubMed — Cancer prevention research (Philadelphia, Pa.)",
+      "one_liner": "The composition of lower airway microbiome has been linked to the development and progression of non-small cell lung cancer (NSCLC). Recent research has transitioned from viewing the lung microbiome as a bystander to a central player in carcinogenesis. Enrichment of oral commensals, specifically Veillonella, Prevotella, and Streptococcus, in the lower air...",
+      "segment": 27,
+      "timestamp": 1274.72
+    },
+    {
+      "title": "Flush With Data (or) Optimizing and Validating the Efficacy of Free and Computationally Simple 16S Metabarcoding Approaches for Use in Wastewater Surveillance.",
+      "url": "https://doi.org/10.1111/1462-2920.70276",
+      "source": "PubMed — Environmental microbiology",
+      "one_liner": "We propose free and low-computationally complex methods of 16S rRNA metabarcoding analysis, then optimized and validate their accuracy for wastewater bacterial surveillance. Three taxonomic analysis pipelines were augmented: NCBI BLAST subsampling, Kraken 2/Bracken and QIIME 2/DADA 2. Our optimization strategies for the high complexity of wastewater sampl...",
+      "segment": 28,
+      "timestamp": 1316.91
+    },
+    {
+      "title": "Nano-Encapsulated Vitamin E Enhances Cryo-Resistance of Stallion Spermatozoa: A Comprehensive Evaluation of Sperm Quality, Kinematic Parameters, Antioxidant Capacity, Microbiota and Ultrastructure.",
+      "url": "https://doi.org/10.1111/rda.70213",
+      "source": "PubMed — Reproduction in domestic animals = Zuchthygiene",
+      "one_liner": "This experiment explores the comparative ability of vitamin E (VE) and its nano-emulsion (VEN) in enhancing cryo-resistance of stallion spermatozoa by examining semen quality, kinematic variables, acrosome integrity, apoptosis, antioxidant capacity, ultra-structural alterations and microbiota of cryopreserved stallion sperm. Semen from five stallions (8-1...",
+      "segment": 29,
+      "timestamp": 1364.43
+    },
+    {
+      "title": "Proteomic insights into plant-endophyte interactions: advancing understanding of mutualistic symbiosis and plant resilience.",
+      "url": "https://doi.org/10.1080/07388551.2026.2618190",
+      "source": "PubMed — Critical reviews in biotechnology",
+      "one_liner": "Endophytic microorganisms are a vital part of the plant microbiome, contributing significantly to the plant's growth, development, and stress tolerance. Proteomics investigations have significantly enhanced our comprehension of the interactions between plants and endophytes, illuminating the complex molecular mechanisms that govern these mutually benefici...",
+      "segment": 30,
+      "timestamp": 1412.18
+    },
+    {
+      "title": "Association of Intratumoral Microbiota with Prognosis in Head and Neck Squamous Cell Carcinoma.",
+      "url": "https://doi.org/10.1158/1078-0432.CCR-25-4420",
+      "source": "PubMed — Clinical cancer research : an official journal of the American Association for Cancer Research",
+      "one_liner": "PURPOSE: To evaluate whether intratumoral bacterial load and diversity are associated with survival outcomes in head and neck squamous cell carcinoma (HNSCC) and to examine their relationship with human papillomavirus (HPV) status. EXPERIMENTAL DESIGN: This retrospective cohort study included 312 adults with surgically treated, primary HNSCC at Montefiore...",
+      "segment": 31,
+      "timestamp": 1459.44
+    },
+    {
+      "title": "Improving knowledge of metagenome-assembled genomes (MAGs) through bioinformatics and article annotation.",
+      "url": "https://doi.org/10.1128/jmbe.00226-25",
+      "source": "PubMed — Journal of microbiology & biology education",
+      "one_liner": "DNA from microbial communities can be sequenced and assembled to gain insight into the microbes that may be present in unique environments. Powerful computational tools, combined with more accessible sequencing technologies, have enabled metagenome-assembled genome (MAG) analysis in course-based settings. However, the computational methods and assumptions...",
+      "segment": 32,
+      "timestamp": 1877.18
+    },
+    {
+      "title": "Different impacts of intestinal microbiota and lifestyle factors on advanced adenoma and colorectal cancer risk.",
+      "url": "https://doi.org/10.1097/CEJ.0000000000000974",
+      "source": "PubMed — European journal of cancer prevention : the official journal of the European Cancer Prevention Organisation (ECP)",
+      "one_liner": "The association between intestinal microbiota, dietary and lifestyle habits, and colorectal cancer (CRC) development is not fully understood. This study aimed to assess the association between intestinal microbiota composition and CRC risk across clinical stages, accounting for dietary and lifestyle factors. This cross-sectional study conducted in Japan i...",
+      "segment": 33,
+      "timestamp": 1919.82
+    },
+    {
+      "title": "An update on probiotics in paediatrics.",
+      "url": "https://doi.org/10.1097/MCO.0000000000001192",
+      "source": "PubMed — Current opinion in clinical nutrition and metabolic care",
+      "one_liner": "PURPOSE OF REVIEW: Probiotics are widely used in paediatrics, but efficacy varies by strain and indication. In 2023, the European Society for Paediatric Gastroenterology, Hepatology and Nutrition (ESPGHAN) Special Interest Group on Gut Microbiota and Modifications issued strain-specific recommendations for gastrointestinal disorders. This review summarise...",
+      "segment": 34,
+      "timestamp": 1963.4
+    },
+    {
+      "title": "Su1784 STRAIN-LEVEL GUT MICROBIOME ANALYSIS REVEALS MICROBIAL SIGNATURES IN PEDIATRIC IRRITABLE BOWEL SYNDROME",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)04557-9/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 35,
+      "timestamp": 2007.99
+    },
+    {
+      "title": "Su1783 EXPLORING THE RELATIONSHIP OF SEX HORMONES, SYMPTOMS, GUT MICROBIOTA, AND FECAL BILE ACIDS IN WOMEN WITH IRRITABLE BOWEL SYNDROME",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)04556-7/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 36,
+      "timestamp": 2050.68
+    },
+    {
+      "title": "209 SHARED FUNCTIONAL MICROBIOME SIGNATURES IN PARKINSON’S DISEASE AND CONSTIPATION PREDOMINATE IRRITABLE BOWEL SYNDROME DESPITE TAXONOMIC DIVERGENCE",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)04304-0/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 37,
+      "timestamp": 2092.12
+    },
+    {
+      "title": "Su1210 ENDOSCOPIC SWAB SAMPLING AS A NOVEL METHOD FOR GASTRIC MICROBIOME PROFILING: A PILOT STUDY COMPARED WITH TISSUE BIOPSY",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)06098-1/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 38,
+      "timestamp": 2142.62
+    },
+    {
+      "title": "EP97 INTEGRATING MICROBIOME AND METABOLOME REVEALED MICROBE-METABOLISM INTERACTIONS IN THE STOMACH OF PATIENTS WITH DIFFERENT SEVERITY OF CHRONIC ATROPHIC GASTRITIS",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)06333-X/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 39,
+      "timestamp": 2188.16
+    }
+  ]
+}
