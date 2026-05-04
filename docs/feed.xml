@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Sun, 03 May 2026 06:10:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 06:22:58 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-05-04</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-04/podcast_2026-05-04.mp3</guid>
+      <pubDate>Mon, 04 May 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-04/podcast_2026-05-04.mp3" length="13117076" type="audio/mpeg" />
+      <description>Gut microbiome interactions can predict health and disease states, according to a new study reported in Gastroenterology and indexed by PubMed. | The EMBO journal article frames antibiotics as a double‑edged sword: their discovery turned once‑lethal infections into treatable conditions and made them one of the most prescribed drug classes, yet the same compounds indiscriminately hit both pathogenic and beneficial gut microbes, leading to microbiome dysbiosis. | Parabiotics—also called paraprobiotics—are defined as non‑viable microbial cells or their isolated components, such as peptidoglycans, teichoic acids, and surface proteins, that can still confer health benefits to the host.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Gut microbiome interactions can predict health and disease states, according to a new study reported in Gastroenterology and indexed by PubMed. | The EMBO journal article frames antibiotics as a double‑edged sword: their discovery turned once‑lethal infections into treatable conditions and made them one of the most prescribed drug classes, yet the same compounds indiscriminately hit both pathogenic and beneficial gut microbes, leading to microbiome dysbiosis. | Parabiotics—also called paraprobiotics—are defined as non‑viable microbial cells or their isolated components, such as peptidoglycans, teichoic acids, and surface proteins, that can still confer health benefits to the host.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-05-03</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-03/podcast_2026-05-03.mp3</guid>
       <pubDate>Sun, 03 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-03/podcast_2026-05-03.mp3" length="16493948" type="audio/mpeg" />
-      <description>The study examines antibiotic resistance gene (ARG) profiles and mobile genetic element diversity in the gut microbiomes of three bee species—Apis cerana, Apis mellifera, and Bombus terrestris—using samples from shared environments. | The gut microbiome reshapes bile acids, turning liver‑derived molecules into signaling ligands that activate the nuclear receptor FXR and thereby link intestinal microbes to host metabolism. | Chlorine residuals in tap water reshape the gut microbiome by favoring microbes with oxidative‑stress tolerance, according to a longitudinal within‑subject study published in the Journal of Hazardous Materials (PubMed).</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-03/podcast_2026-05-03.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>The study examines antibiotic resistance gene (ARG) profiles and mobile genetic element diversity in the gut microbiomes of three bee species—Apis cerana, Apis mellifera, and Bombus terrestris—using samples from shared environments. | The gut microbiome reshapes bile acids, turning liver‑derived molecules into signaling ligands that activate the nuclear receptor FXR and thereby link intestinal microbes to host metabolism. | Chlorine residuals in tap water reshape the gut microbiome by favoring microbes with oxidative‑stress tolerance, according to a longitudinal within‑subject study published in the Journal of Hazardous Materials (PubMed).</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>

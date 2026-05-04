@@ -1,0 +1,258 @@
+{
+  "timestamps": [
+    0.0,
+    41.18,
+    130.19,
+    229.64,
+    346.54,
+    458.79,
+    558.62,
+    688.68,
+    734.1,
+    792.28,
+    832.95,
+    879.32,
+    922.18,
+    963.33,
+    1072.05,
+    1110.3,
+    1202.94,
+    1246.73,
+    1294.42,
+    1340.97,
+    1393.48,
+    1440.47,
+    1485.54,
+    1525.2,
+    1566.62,
+    1606.34,
+    1650.5,
+    1695.54
+  ],
+  "items": [
+    {
+      "title": "Gut microbiome interactions can predict health and disease states.",
+      "url": "https://doi.org/10.1053/j.gastro.2026.04.023",
+      "source": "PubMed — Gastroenterology",
+      "one_liner": "",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Antibiotic-induced gut microbiome dysbiosis: risks and strategies for mitigation.",
+      "url": "https://doi.org/10.1038/s44318-026-00796-y",
+      "source": "PubMed — The EMBO journal",
+      "one_liner": "The discovery of antibiotics and their subsequent therapeutic use revolutionized our ability to treat once deadly infectious diseases, and antibiotics have become one of the most commonly prescribed drug classes. Unfortunately, these compounds not only target pathogenic strains, but also non-pathogenic bacteria that fulfill important functions for the hum...",
+      "segment": 1,
+      "timestamp": 41.18
+    },
+    {
+      "title": "Parabiotics as Next-Generation Microbiome Therapeutics: Insights into Mechanisms, Evidence, and Therapeutic Potential.",
+      "url": "https://doi.org/10.1007/s00284-026-04942-x",
+      "source": "PubMed — Current microbiology",
+      "one_liner": "Parabiotics (also termed paraprobiotics) are defined as non-viable microbial cells or their components, including peptidoglycans, teichoic acids, surface proteins, that confer health benefits without requiring viability which distinguishes them from traditional probiotics. Their non-viable nature eliminates risks such as microbial translocation, bacteremi...",
+      "segment": 2,
+      "timestamp": 130.19
+    },
+    {
+      "title": "Gut microbiota and growth differentiation in koi carp with identification of a growth promoting Exiguobacterium sp. strain WY(Y)3.",
+      "url": "https://doi.org/10.1007/s11274-026-04990-2",
+      "source": "PubMed — World journal of microbiology & biotechnology",
+      "one_liner": "Discovering specific microbial markers and probiotics related to rapid growth offers a route for developing targeted feed solutions. This study was conducted in two phases: Phase I: Using 16 S rRNA sequencing to characterize the intestinal landscape and to discover a significant taxonomic shift in koi (Cyprinus carpio) that grow fast (FG) and grow slow (S...",
+      "segment": 3,
+      "timestamp": 229.64
+    },
+    {
+      "title": "Gut microbiome modulates breast cancer risk in socially isolated mice.",
+      "url": "https://doi.org/10.1186/s13058-026-02292-x",
+      "source": "PubMed — Breast cancer research : BCR",
+      "one_liner": "BACKGROUND: Breast cancer risk and mortality are associated with disrupted gut microbiome functions which in turn can affect tumor immune responses. One source of disruption could be stress. Social isolation (SI) stress consistently increases breast cancer risk and mortality in preclinical models and women, but whether SI promotes mammary tumor growth by ...",
+      "segment": 4,
+      "timestamp": 346.54
+    },
+    {
+      "title": "Dietary index for gut microbiota and risk of hypertension: the mediating role of HOMA-IR in a five-year prospective cohort study in Iranian adults.",
+      "url": "https://doi.org/10.1186/s12986-026-01121-4",
+      "source": "PubMed — Nutrition & metabolism",
+      "one_liner": "BACKGROUND: Diet-microbiota interactions may influence blood pressure via metabolic pathways, but prospective evidence on microbiota-supportive dietary patterns and incident hypertension, particularly in Middle Eastern populations, is limited. We examined the association between a Dietary Index for Gut Microbiota (DI-GM) and incident hypertension, and ass...",
+      "segment": 5,
+      "timestamp": 458.79
+    },
+    {
+      "title": "Oral alginate microspheres deliver Rg3/aspirin liposomes to modulate foam cells and gut microbiota in atherosclerosis.",
+      "url": "https://doi.org/10.1186/s12951-026-04478-z",
+      "source": "PubMed — Journal of nanobiotechnology",
+      "one_liner": "Atherosclerosis is a complex pathology driven by chronic inflammation, lipid accumulation, and thrombosis, necessitating multi-pathway therapeutic strategies. Herein, we engineered an oral multi-stage platform (RALM) comprising aspirin (Asp) and ginsenoside Rg3 co-loaded phosphatidylserine (PS) liposomes (RA-Lipo) encapsulated within sodium alginate micro...",
+      "segment": 6,
+      "timestamp": 558.62
+    },
+    {
+      "title": "Comparative analysis of the gut microbiota and metabolome between healthy and diarrheic bean geese (Anser fabalis) wintering at Caizi Lake, China.",
+      "url": "https://doi.org/10.1016/j.micpath.2026.108529",
+      "source": "PubMed — Microbial pathogenesis",
+      "one_liner": "Diarrhea is common in wintering migratory waterbirds and is increasingly linked to alterations in gut microbiota and the metabolome. This study compared the gut microbial communities and metabolic profiles of diarrheic and healthy bean geese (Anser fabalis) wintering at Caizi Lake, China, using 16S rRNA amplicon sequencing and liquid chromatography-mass s...",
+      "segment": 7,
+      "timestamp": 688.68
+    },
+    {
+      "title": "Integrated microbiome and untargeted metabolomics analyses reveal the mechanism by which Haematococcus pluvialis polysaccharide alleviates obesity.",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2026.152354",
+      "source": "PubMed — International journal of biological macromolecules",
+      "one_liner": "Haematococcus pluvialis is a microalga with substantial nutritional and medicinal value. This study aimed to investigate the anti-obesity efficacy of Haematococcus pluvialis polysaccharide (HP) in high-fat diet (HFD)-induced obese mice. Structural characterization revealed that HP was mainly composed of glucose, rhamnose, arabinose, galactose, fructose, x...",
+      "segment": 8,
+      "timestamp": 734.1
+    },
+    {
+      "title": "Altered Salivary Microbiome and Increased Immune Markers in Mouth-Breathing Children: Implications for Oral Health.",
+      "url": "https://doi.org/10.1016/j.identj.2026.109580",
+      "source": "PubMed — International dental journal",
+      "one_liner": "OBJECTIVE: To investigate the impact of mouth breathing (MB) on the salivary microbiome in children by comparing the differences in biochemical indicators, immune proteins and microbial community structure between mouth-breathing children and nose-breathing children, as well as among mouth-breathing children with different malocclusion types. METHODS: Sal...",
+      "segment": 9,
+      "timestamp": 792.28
+    },
+    {
+      "title": "Genetically predicted TTK inhibition and its association with reduced breast cancer risk: a two-step Mendelian randomization study of potential gut microbiome mediation.",
+      "url": "https://doi.org/10.1016/j.clinsp.2026.100961",
+      "source": "PubMed — Clinics (Sao Paulo, Brazil)",
+      "one_liner": "BACKGROUND: BOS172722, a selective TTK inhibitor, shows promise for Breast Cancer (BC) treatment. The role of gut microbiota as a potential mediator in this process has not been established. This Mendelian Randomization (MR) study investigated the causal effect of TTK inhibition on BC and conducted an exploratory analysis of potential mediation by gut mic...",
+      "segment": 10,
+      "timestamp": 832.95
+    },
+    {
+      "title": "Oleanolic acid ameliorates collagen induced arthritis in rats through the gut microbiota.",
+      "url": "https://doi.org/10.1093/jpp/rgag040",
+      "source": "PubMed — The Journal of pharmacy and pharmacology",
+      "one_liner": "OBJECTIVES: Oleanolic acid (OA) is a natural anti-inflammatory triterpenoid. This study investigates its therapeutic potential against rheumatoid arthritis (RA), a chronic autoimmune condition characterized by inflammatory activity, and explores the novel mechanism of gut microbiota modulation in a rat model. METHODS: The anti-arthritic effect of OA was a...",
+      "segment": 11,
+      "timestamp": 879.32
+    },
+    {
+      "title": "Lactic acid bacteria and endogenous ethanol mediate proton pump inhibitor-associated MASLD: a multicohort cross-sectional mediation analysis.",
+      "url": "https://doi.org/10.1080/19490976.2026.2664712",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "BACKGROUND & AIMS: Proton pump inhibitor (PPI) use has been associated with metabolic dysfunction associated with steatotic liver disease (MASLD) in multiple studies. While the association is confounded by various risk factors, such as BMI and age, a potential mediating factor of the microbiome has been suggested. In this study, we aimed to identify bacte...",
+      "segment": 12,
+      "timestamp": 922.18
+    },
+    {
+      "title": "Medicinal Plants and the Gastrointestinal Microbiota in Chronic Diseases Modulation: A Structured Mechanistic and Translational Review.",
+      "url": "https://doi.org/10.1007/s00284-026-04940-z",
+      "source": "PubMed — Current microbiology",
+      "one_liner": "The gut microbiome supports digestion, immunity, and metabolism; its imbalance (dysbiosis) drives inflammation and metabolic dysfunction, contributing to chronic diseases such as diabetes, cardiovascular disease, inflammatory bowel disease, and autoimmune disorders. Medicinal plants provide a wide range of phytochemicals (such as polyphenols, flavonoids, ...",
+      "segment": 13,
+      "timestamp": 963.33
+    },
+    {
+      "title": "Sodium butyrate suppresses endometrial cancer cell growth by inhibiting thymidylate synthase and reprogramming pyrimidine metabolism.",
+      "url": "https://doi.org/10.1186/s12263-026-00805-z",
+      "source": "PubMed — Genes & nutrition",
+      "one_liner": "Endometrial cancer (EC) is the most common gynecologic malignancy, yet effective therapies for advanced and recurrent disease remain limited. Sodium butyrate (NaB), a gut microbiota-derived short-chain fatty acid (SCFA) with known anticancer activity, remains poorly understood in EC. In this study, we investigated the anticancer effects of NaB in two EC c...",
+      "segment": 14,
+      "timestamp": 1072.05
+    },
+    {
+      "title": "Fungi and colorectal cancer: from dysregulation to clinical translation.",
+      "url": "https://doi.org/10.1186/s13099-026-00835-3",
+      "source": "PubMed — Gut pathogens",
+      "one_liner": "Research on the gut microbiota has primarily focused on bacterial communities. However, the role of fungi-the second-largest eukaryotic component of the gut microbiome-in the development and progression of colorectal cancer (CRC) has been less extensively studied compared to bacteria. Recent studies have revealed significant fungal dysbiosis in the intest...",
+      "segment": 15,
+      "timestamp": 1110.3
+    },
+    {
+      "title": "Refractory giardiasis: Exploring the contribution of bacterial community shifts.",
+      "url": "https://doi.org/10.1016/j.tmaid.2026.102983",
+      "source": "PubMed — Travel medicine and infectious disease",
+      "one_liner": "Giardia duodenalis infection is a common cause of diarrhoea in returning travellers from low-income regions. The increasing prevalence of resistance to nitroimidazoles, as first-line therapy, are of global concern. The interaction between Giardia and the host's gut microbiota plays a crucial role in the pathophysiology of giardiasis. Yet, longitudinal dat...",
+      "segment": 16,
+      "timestamp": 1202.94
+    },
+    {
+      "title": "Developing spore-forming gut bacteria as model organisms.",
+      "url": "https://doi.org/10.1016/j.tim.2026.04.006",
+      "source": "PubMed — Trends in microbiology",
+      "one_liner": "Anaerobic gut bacteria have highly evolved functions that promote transmission between human hosts. These include resilient spores produced by many Bacillota (formerly Firmicutes) bacteria, which are tolerant to extended ambient oxygen exposure. Recent culturing and genomic studies have revealed the taxonomic diversity of gut spore-formers and their preva...",
+      "segment": 17,
+      "timestamp": 1246.73
+    },
+    {
+      "title": "Formation of a reducing microenvironment and regulation of protein supersulfidation by gut microbial supersulfides.",
+      "url": "https://doi.org/10.1016/j.redox.2026.104123",
+      "source": "PubMed — Redox biology",
+      "one_liner": "Supersulfides, sulfur species containing catenated sulfur atoms, are potent reducing agents produced by diverse organisms. Although their intracellular functions are increasingly recognized, the ecological and physiological importance of gut microbial supersulfides remains poorly understood. In this study, we explored two complementary aspects of gut micr...",
+      "segment": 18,
+      "timestamp": 1294.42
+    },
+    {
+      "title": "Microbial community divergence and environmental responses across multi-phase landfill environments.",
+      "url": "https://doi.org/10.1016/j.wasman.2026.115578",
+      "source": "PubMed — Waste management (New York, N.Y.)",
+      "one_liner": "Municipal solid waste landfills are highly heterogeneous ecosystems comprising solid waste, leachate, and subsoils wherein complex microbial consortia regulate organic matter degradation and contaminant transformation. However, comprehensive insights into their microbiome structure across multi-phase and depth profiles and responses to environmental gradi...",
+      "segment": 19,
+      "timestamp": 1340.97
+    },
+    {
+      "title": "Gut microbial extracellular vesicles modulate the development of metabolic dysfunction-associated steatohepatitis through the gut-liver axis.",
+      "url": "https://doi.org/10.1016/j.phrs.2026.108184",
+      "source": "PubMed — Pharmacological research",
+      "one_liner": "Metabolic dysfunction-associated steatohepatitis (MASH) represents a growing global health challenge due to its propensity to progress to irreversible hepatic disorders, including fibrosis, cirrhosis, and carcinoma. This study aimed to investigate the role of gut microbiota in the pathogenesis of MASH. We identified Romboutsia hominis as a key contributor...",
+      "segment": 20,
+      "timestamp": 1393.48
+    },
+    {
+      "title": "Parvimonas micra promotes carcinogenesis of colorectal cancer through phenyllactic acid-induced DNA damage.",
+      "url": "https://doi.org/10.1002/ctm2.70667",
+      "source": "PubMed — Clinical and translational medicine",
+      "one_liner": "Recent studies have demonstrated the significance of gut microbiota in the colorectal cancer (CRC) pathogenesis. But their role in carcinogenesis remains to be established. Thus, we established a clinical cohort and the faecal samples from CRC and healthy control were collected. Our metagenomic analysis found that the presence of Parvimonas micra exhibite...",
+      "segment": 21,
+      "timestamp": 1440.47
+    },
+    {
+      "title": "Systematic review and meta-analysis of childhood exposure to antibiotics and the subsequent risk of IBD.",
+      "url": "https://doi.org/10.1093/ibd/izaf324",
+      "source": "PubMed — Inflammatory bowel diseases",
+      "one_liner": "BACKGROUND: Antibiotic use in early childhood may alter the developing microbiome and has been proposed as a risk factor for inflammatory bowel disease (IBD). We conducted a systematic review to examine the association between childhood antibiotic use and subsequent risk of IBD. METHODS: In a systematic literature search, we identified cohort and case-con...",
+      "segment": 22,
+      "timestamp": 1485.54
+    },
+    {
+      "title": "Su1206 CULTURE- AND METAGENOMIC-BASED LONGITUDINAL CHARACTERIZATION OF THE GASTRIC MICROBIOME FROM A HIGH GASTRIC CANCER-RISK COHORT FROM COLOMBIA, SOUTH AMERICA",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)06094-4/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 23,
+      "timestamp": 1525.2
+    },
+    {
+      "title": "EP101 DIETARY INDEX FOR GUT MICROBIOTA-GUIDED NUTRITIONAL INTERVENTION FOR IMMUNOINFLAMMATORY HOMEOSTASIS IN PATIENTS UNDERGOING ELECTIVE ABDOMINAL SURGERY WITHIN THE ERAS PATHWAY",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)06426-7/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 24,
+      "timestamp": 1566.62
+    },
+    {
+      "title": "523 GUT MICROBIOME DIVERSITY IN HIRSCHSPRUNG DISEASE IS INCREASED AFTER SURGICAL PULL-THROUGH SURGERY",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)06365-1/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 25,
+      "timestamp": 1606.34
+    },
+    {
+      "title": "Sa1210 LOSS OF THE GUT MICROBIOME PROMOTES GASTRIC TUMORIGENESIS THROUGH DYSREGULATION OF CHOLESTEROL METABOLISM",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)06051-8/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 26,
+      "timestamp": 1650.5
+    },
+    {
+      "title": "Sa1194 GUT MICROBIOTA-DERIVED TRYPTOPHAN METABOLITES MODULATED BY HOUTOU JIANWEILING TABLETS TO ALLEVIATE ETHANOL-INDUCED GASTRIC MUCOSAL INJURY THROUGH AHR/WNT ACTIVATION",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)06035-X/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 27,
+      "timestamp": 1695.54
+    }
+  ]
+}
