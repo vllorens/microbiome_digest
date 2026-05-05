@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Mon, 04 May 2026 06:22:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 06:00:11 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-05-05</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-05/podcast_2026-05-05.mp3</guid>
+      <pubDate>Tue, 05 May 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-05/podcast_2026-05-05.mp3" length="18950924" type="audio/mpeg" />
+      <description>The paper titled “Practical lessons from microbiome citizen‑science projects” appears in Nature Microbiology, as indicated by the source and DOI. | The study aimed to identify co‑morbid biomarkers that connect sarcopenic obesity with gut microbiota metabolites, moving from disease burden toward potential treatment avenues. | The study, published in Biogerontology, tackles a long‑standing question in host‑microbiome research: how much of the variation in an animal’s microbiome is driven by its own genes versus the food it eats, and does that microbial variation translate into differences in longevity or age‑related decline?</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>The paper titled “Practical lessons from microbiome citizen‑science projects” appears in Nature Microbiology, as indicated by the source and DOI. | The study aimed to identify co‑morbid biomarkers that connect sarcopenic obesity with gut microbiota metabolites, moving from disease burden toward potential treatment avenues. | The study, published in Biogerontology, tackles a long‑standing question in host‑microbiome research: how much of the variation in an animal’s microbiome is driven by its own genes versus the food it eats, and does that microbial variation translate into differences in longevity or age‑related decline?</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-05-04</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-04/podcast_2026-05-04.mp3</guid>
       <pubDate>Mon, 04 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-04/podcast_2026-05-04.mp3" length="13117076" type="audio/mpeg" />
-      <description>Gut microbiome interactions can predict health and disease states, according to a new study reported in Gastroenterology and indexed by PubMed. | The EMBO journal article frames antibiotics as a double‑edged sword: their discovery turned once‑lethal infections into treatable conditions and made them one of the most prescribed drug classes, yet the same compounds indiscriminately hit both pathogenic and beneficial gut microbes, leading to microbiome dysbiosis. | Parabiotics—also called paraprobiotics—are defined as non‑viable microbial cells or their isolated components, such as peptidoglycans, teichoic acids, and surface proteins, that can still confer health benefits to the host.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-04/podcast_2026-05-04.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Gut microbiome interactions can predict health and disease states, according to a new study reported in Gastroenterology and indexed by PubMed. | The EMBO journal article frames antibiotics as a double‑edged sword: their discovery turned once‑lethal infections into treatable conditions and made them one of the most prescribed drug classes, yet the same compounds indiscriminately hit both pathogenic and beneficial gut microbes, leading to microbiome dysbiosis. | Parabiotics—also called paraprobiotics—are defined as non‑viable microbial cells or their isolated components, such as peptidoglycans, teichoic acids, and surface proteins, that can still confer health benefits to the host.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
