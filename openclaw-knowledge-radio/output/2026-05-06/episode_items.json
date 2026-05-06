@@ -1,0 +1,258 @@
+{
+  "timestamps": [
+    0.0,
+    114.02,
+    162.26,
+    205.36,
+    252.82,
+    298.01,
+    346.13,
+    387.81,
+    490.96,
+    580.84,
+    711.2,
+    834.29,
+    974.74,
+    1016.32,
+    1064.54,
+    1104.13,
+    1152.68,
+    1196.62,
+    1244.47,
+    1370.16,
+    1501.94,
+    1622.84,
+    1668.01,
+    1712.91,
+    1755.07,
+    1800.26,
+    1847.46,
+    1885.91
+  ],
+  "items": [
+    {
+      "title": "Gut microbiota-driven remodeling of fresh and oxidized edible oils revealed by integrated GC-MS and UPLC-HRMS/MS metabolomics.",
+      "url": "https://doi.org/10.1038/s41538-026-00861-0",
+      "source": "PubMed — NPJ science of food",
+      "one_liner": "Thermal processing and storage of edible oils promote lipid oxidation, generating compounds that may affect nutritional quality and consumer safety. After ingestion, these compounds are further transformed by gut microbiota, altering their chemical fate and biological impact. The current study applied an integrated gas chromatography-mass spectrometry (GC...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Gut microbiota and immunometabolism in obesity",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/19490976.2026.2667610?af=R",
+      "source": "Gut Microbes",
+      "one_liner": "Volume 18, Issue 1, December 2026 .",
+      "segment": 1,
+      "timestamp": 114.02
+    },
+    {
+      "title": "Early postnatal antibiotic-associated gut microbiota alterations might promote long-term lipid metabolism via brown adipose tissue metabolic programming",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/19490976.2026.2665885?af=R",
+      "source": "Gut Microbes",
+      "one_liner": "Volume 18, Issue 1, December 2026 .",
+      "segment": 2,
+      "timestamp": 162.26
+    },
+    {
+      "title": "Gut microbiota and diet in colorectal cancer: Converging determinants of carcinogenesis.",
+      "url": "https://doi.org/10.1080/19490976.2026.2664684",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Diet and the gut microbiome are major, interdependent determinants of colorectal cancer (CRC) risk. This review discusses current evidence on how dietary patterns reshape microbial ecology, modulate microbial virulence, and alter host metabolic, inflammatory, and oncogenic pathways to influence colorectal carcinogenesis. We highlight key CRC-associated mi...",
+      "segment": 3,
+      "timestamp": 205.36
+    },
+    {
+      "title": "Gut microbiota and immunometabolism in obesity.",
+      "url": "https://doi.org/10.1080/19490976.2026.2667610",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "The gut microbiota plays a central role in modulating both immunity and metabolism. Obesity-associated microbiota configuration is a critical driver of persistent inflammatory activation and immune dysfunction, ultimately leading to chronic metabolic disorders. Immunometabolism examines how metabolic demands shape immune cell function and how immune respo...",
+      "segment": 4,
+      "timestamp": 252.82
+    },
+    {
+      "title": "Multi-omics profiling of fungal balls in chronic pulmonary aspergillosis patients reveals microbiome dynamics and metabolic adaptations.",
+      "url": "https://doi.org/10.1128/mbio.00348-26",
+      "source": "PubMed — mBio",
+      "one_liner": "Fungal balls (aspergillomas) are a debilitating complication of chronic pulmonary aspergillosis, but their functional biology as multi-kingdom ecosystems is poorly understood. Through integrated multi-omics analysis of 61 patient-derived fungal balls, we reveal their complex ecology. While",
+      "segment": 5,
+      "timestamp": 298.01
+    },
+    {
+      "title": "Early postnatal antibiotic-associated gut microbiota alterations might promote long-term lipid metabolism via brown adipose tissue metabolic programming.",
+      "url": "https://doi.org/10.1080/19490976.2026.2665885",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "The Developmental Origins of Health and Disease theory describes early life as a critical window for long-term metabolic health. Accumulating evidence has identified the gut microbiota as a key mediator of early-life metabolic programming. This study utilized antibiotic intervention in neonatal mice to investigate the long-term effects of early postnatal ...",
+      "segment": 6,
+      "timestamp": 346.13
+    },
+    {
+      "title": "Micheliolide ameliorates colon cancer cachexia by modulating gut microbiota-immune signaling via Phocaeicola vulgatus enrichment.",
+      "url": "https://doi.org/10.1186/s40168-026-02412-x",
+      "source": "PubMed — Microbiome",
+      "one_liner": "BACKGROUND: Cancer cachexia profoundly impacts patient survival and quality of life. Current treatments fail to halt this trajectory, highlighting an urgent clinical need for host-directed therapies capable of uncoupling skeletal muscle wasting from tumor progression. This study investigated the therapeutic potential of micheliolide (MCL) across distinct ...",
+      "segment": 7,
+      "timestamp": 387.81
+    },
+    {
+      "title": "Endocrine Regulation of Appetite: Interactions between Gut Microbiota, Microbial Metabolites, and Appetite-related Hormones.",
+      "url": "https://doi.org/10.1055/a-2851-0224",
+      "source": "PubMed — Hormone and metabolic research = Hormon- und Stoffwechselforschung = Hormones et metabolisme",
+      "one_liner": "The gut microbiota has emerged as a key endocrine modulator that shapes host appetite regulation through its metabolites and their interactions with enteroendocrine and central neuroendocrine pathways. Microbial metabolites-including short-chain fatty acids, bile acid derivatives, indole compounds, and tryptophan-derived serotonin-activate receptors such ...",
+      "segment": 8,
+      "timestamp": 490.96
+    },
+    {
+      "title": "Metagenomics and culturomics reveal the dual role of the gut microbiome in the development of immune-related toxicities and the efficacy of immune checkpoint inhibitors in cancer.",
+      "url": "https://doi.org/10.1186/s40168-026-02419-4",
+      "source": "PubMed — Microbiome",
+      "one_liner": "BACKGROUND: Despite their major impact on cancer treatment, immune checkpoint inhibitors (ICI) are frequently associated with immune-related adverse events (irAE). Growing evidence suggests that the occurrence of irAE may be correlated with enhanced ICI efficacy, although the underlying mechanisms remain unknown. Most studies investigating the role of the...",
+      "segment": 9,
+      "timestamp": 580.84
+    },
+    {
+      "title": "Impact of the gut microbiome on health impacts of Haskap berries: study protocol for a randomized control trial.",
+      "url": "https://doi.org/10.1186/s13063-026-09759-4",
+      "source": "PubMed — Trials",
+      "one_liner": "BACKGROUND: Haskap berries have great potential as a superfood due to high polyphenolic content which confers both anti-inflammatory and antioxidant activity. These health impacts are mitigated, at least in part, by the gut microbiome as most ingested polyphenols pass to the large intestine for microbial enzymatic action and conversion to secondary phenol...",
+      "segment": 10,
+      "timestamp": 711.2
+    },
+    {
+      "title": "Deciphering potential significances of biliary microbiome in cholelithiasis and cholangiocarcinoma.",
+      "url": "https://doi.org/10.1007/s10482-026-02333-7",
+      "source": "PubMed — Antonie van Leeuwenhoek",
+      "one_liner": "BACKGROUND: This study aims to investigate the role of biliary microbiota (defined as the microbial community colonizing the biliary tract, including the gallbladder, intrahepatic and extrahepatic bile ducts) in the pathogenesis of cholelithiasis (CHOL) and cholangiocarcinoma (CCA), with a focus on the associations between microbial communities and these ...",
+      "segment": 11,
+      "timestamp": 834.29
+    },
+    {
+      "title": "Multi-omics analysis of the gut microbiome and carotid artery atherosclerosis in men with and without HIV.",
+      "url": "https://doi.org/10.1016/j.ebiom.2026.106281",
+      "source": "PubMed — EBioMedicine",
+      "one_liner": "BACKGROUND: How gut microbiota alterations may contribute to host inflammation and metabolomic profiles affecting atherosclerosis is not fully elucidated, especially in the context of HIV. METHODS: We examined associations between gut microbial features (measured by shotgun metagenomics) and subclinical carotid atherosclerosis, as assessed by high-resolut...",
+      "segment": 12,
+      "timestamp": 974.74
+    },
+    {
+      "title": "Challenges and future directions in AI-driven biomaterials for microbiome-associated oral infectious diseases: A systematic review.",
+      "url": "https://doi.org/10.1016/j.dental.2026.04.025",
+      "source": "PubMed — Dental materials : official publication of the Academy of Dental Materials",
+      "one_liner": "Oral biofilm-induced antimicrobial resistance is the core pathogenic mechanism of microbiome-associated oral infectious diseases (dental caries, periodontitis, peri-implantitis, and endodontic infection). Traditional therapies and biomaterials are limited by poor biofilm penetration, drug resistance induction, single functionality, and inadequate adaptati...",
+      "segment": 13,
+      "timestamp": 1016.32
+    },
+    {
+      "title": "The Oral-Gut Axis: Bidirectional Interactions Between Microbiome and Diseases.",
+      "url": "https://doi.org/10.1111/jre.70116",
+      "source": "PubMed — Journal of periodontal research",
+      "one_liner": "Increased colonization of typically oral microorganisms is frequently observed in the gut mucosa or lumen of individuals with gastrointestinal disorders, including patients with inflammatory bowel disease and colorectal cancer. Accumulating clinical and experimental evidence indicates that this phenomenon, known as \"gut oralization,\" plays an important ro...",
+      "segment": 14,
+      "timestamp": 1064.54
+    },
+    {
+      "title": "Effects of probiotic dose on growth performance, health, and gut microbiota of Pacific white shrimp reared in biofloc conditions.",
+      "url": "https://doi.org/10.1093/jahafs/vsag001",
+      "source": "PubMed — Journal of aquatic animal health",
+      "one_liner": "OBJECTIVE: This study evaluated the effect of commercial Bacillus spp. probiotics on growth performance, immunity, gut microbiota composition, and disease resistance to Vibrio parahaemolyticus in Pacific white shrimp Litopenaeus vannamei that were reared under biofloc conditions. METHODS: A 56-d feeding trial was conducted in a static biofloc system with ...",
+      "segment": 15,
+      "timestamp": 1104.13
+    },
+    {
+      "title": "Lung microbiota-mediated biotransformation of mogroside preserves pulmonary barrier integrity and attenuates PM",
+      "url": "https://doi.org/10.1038/s41522-026-00992-y",
+      "source": "PubMed — NPJ biofilms and microbiomes",
+      "one_liner": "",
+      "segment": 16,
+      "timestamp": 1152.68
+    },
+    {
+      "title": "Altered crosstalk of bacterial lipopolysaccharide with immune cells in colorectal cancer compared to paired adjacent intestinal tissue.",
+      "url": "https://doi.org/10.1080/19490976.2026.2665878",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Commensal bacteria play a crucial role in modulating human immune responses in the intestine. Under homeostatic conditions, the gut microbiota is tightly regulated by interactions with the mucosal immune system. However, colorectal cancer (CRC) is characterized by an imbalance in bacterial composition and bacterial translocation across the intestinal barr...",
+      "segment": 17,
+      "timestamp": 1196.62
+    },
+    {
+      "title": "Predictive functional profiling of 16S rRNA genes amplicons reveals bioremediation and sulfur metabolism capacity in thermophilic hot spring bacteriomes.",
+      "url": "https://doi.org/10.1038/s41598-026-50048-6",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "Thermophilic hot springs host highly specialized microbial communities critical for biogeochemical cycling and novel biotechnological applications. This study investigated the structure of the bacterial communities (bacteriomes) and predicted functional potential related to bioremediation and sulfur metabolism across three geochemically diverse soil sites...",
+      "segment": 18,
+      "timestamp": 1244.47
+    },
+    {
+      "title": "Multi-modal therapeutic approaches to inflammatory bowel disease: plant-derived compounds, nanoparticle drug delivery systems, and gene-based interventions.",
+      "url": "https://doi.org/10.1007/s11033-026-11888-7",
+      "source": "PubMed — Molecular biology reports",
+      "one_liner": "Inflammatory bowel disease (IBD) is a chronic, relapsing inflammatory disorder primarily affecting the gastrointestinal tract. The pathogenesis arises from complex interactions among genetic predisposition, immune dysregulation, and gut microbiota alterations. Recent advances in molecular biology, genomics, and microbiome research have identified novel th...",
+      "segment": 19,
+      "timestamp": 1370.16
+    },
+    {
+      "title": "Lactiplantibacillus plantarum Mediated Tryptophan Metabolism to Alleviate Tropomyosin-induced Food Allergy.",
+      "url": "https://doi.org/10.1007/s12602-026-11039-1",
+      "source": "PubMed — Probiotics and antimicrobial proteins",
+      "one_liner": "Food allergy (FA) has become increasingly prevalent, affecting daily life. Probiotics alleviate FA by modulating immune-microbiome interactions. Nevertheless, the key metabolites and mechanisms by which L. plantarum alleviates FA remain unclear. In this study, L. plantarum demonstrated the ability to improve FA by modulating regulatory T/Th1/Th2 balance, ...",
+      "segment": 20,
+      "timestamp": 1501.94
+    },
+    {
+      "title": "Transfer of faeces in ulcerative colitis 2: improving efficacy - study protocol for a multicentre randomised controlled trial (TURN2 study).",
+      "url": "https://doi.org/10.1136/bmjopen-2025-107097",
+      "source": "PubMed — BMJ open",
+      "one_liner": "INTRODUCTION: The interaction between the gut microbiota and the host immune system is implicated in the pathogenesis of inflammatory bowel disease, including ulcerative colitis (UC). Targeting the gut microbiota with faecal microbiota transplantation (FMT) from a healthy donor has shown promise in inducing remission in patients with active UC. However, m...",
+      "segment": 21,
+      "timestamp": 1622.84
+    },
+    {
+      "title": "Fecal Microbiota Therapy: Clinical Laboratory Testing and Metabolomic Approaches for Donor Screening, Product Assessment, and Patient Monitoring.",
+      "url": "https://doi.org/10.1093/clinchem/hvaf156",
+      "source": "PubMed — Clinical chemistry",
+      "one_liner": "BACKGROUND: The safety and efficacy of fecal microbiota transplantation for prevention of recurrent Clostridioides difficile infection relies on complex interactions between the donor and recipient microbiome. CONTENT: Screening of donor stool has largely aimed to ensure safety; however, metagenomic and metabolic features of the stool, which may affect ef...",
+      "segment": 22,
+      "timestamp": 1668.01
+    },
+    {
+      "title": "Tu1263 FOREIGN TRAVEL IS ASSOCIATED WITH CHANGES IN THE SMALL BOWEL MICROBIOME AND WITH ELEVATIONS IN ANTI-VINCULIN ANTIBODY LEVELS",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)05886-5/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 23,
+      "timestamp": 1712.91
+    },
+    {
+      "title": "Su1290 GUT MICROBIOME-MEDIATED HOST EPIGENETIC REGULATION INFLUENCES INFANTS’ NEURODEVELOPMENTAL OUTCOMES",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)05802-6/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 24,
+      "timestamp": 1755.07
+    },
+    {
+      "title": "Su1289 LONG-TERM MICROBIOME TRAJECTORIES AFTER A PERSONALIZED INFANT MICROBIOME INTERVENTION IN CESAREAN-BORN INFANTS",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)05801-4/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 25,
+      "timestamp": 1800.26
+    },
+    {
+      "title": "Su1288 VITAMIN D RECEPTOR EXPRESSION OPTIMIZES MICROBIOME AND INNATE IMMUNITY FOR INFANT HEALTH",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)05800-2/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 26,
+      "timestamp": 1847.46
+    },
+    {
+      "title": "581 EFFECT OF EXCLUSIVE PALATABLE ELEMENTAL DIET ON SYSTEMIC INFLAMMATION AND GUT MICROBIOME IN MICROBIAL OVERGROWTH SYNDROMES: AD HOC ANALYSIS OF A PROSPECTIVE TRIAL",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)05701-X/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 27,
+      "timestamp": 1885.91
+    }
+  ]
+}

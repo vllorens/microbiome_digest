@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Tue, 05 May 2026 06:00:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 06:13:57 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-05-06</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-06/podcast_2026-05-06.mp3</guid>
+      <pubDate>Wed, 06 May 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-06/podcast_2026-05-06.mp3" length="14537108" type="audio/mpeg" />
+      <description>The study shows that gut microbiota can chemically remodel both fresh and thermally oxidized edible oils after ingestion, using an integrated GC‑MS and UPLC‑HRMS/MS metabolomics workflow. | Gut microbiota and immunometabolism in obesity examines how intestinal microbes influence metabolic inflammation and weight gain. | Early exposure to antibiotics in newborns reshapes gut microbes in ways that later boost lipid handling through reprogramming of brown adipose tissue, according to a study in Gut Microbes.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>The study shows that gut microbiota can chemically remodel both fresh and thermally oxidized edible oils after ingestion, using an integrated GC‑MS and UPLC‑HRMS/MS metabolomics workflow. | Gut microbiota and immunometabolism in obesity examines how intestinal microbes influence metabolic inflammation and weight gain. | Early exposure to antibiotics in newborns reshapes gut microbes in ways that later boost lipid handling through reprogramming of brown adipose tissue, according to a study in Gut Microbes.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-05-05</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-05/podcast_2026-05-05.mp3</guid>
       <pubDate>Tue, 05 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-05/podcast_2026-05-05.mp3" length="18950924" type="audio/mpeg" />
-      <description>The paper titled “Practical lessons from microbiome citizen‑science projects” appears in Nature Microbiology, as indicated by the source and DOI. | The study aimed to identify co‑morbid biomarkers that connect sarcopenic obesity with gut microbiota metabolites, moving from disease burden toward potential treatment avenues. | The study, published in Biogerontology, tackles a long‑standing question in host‑microbiome research: how much of the variation in an animal’s microbiome is driven by its own genes versus the food it eats, and does that microbial variation translate into differences in longevity or age‑related decline?</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-05/podcast_2026-05-05.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>The paper titled “Practical lessons from microbiome citizen‑science projects” appears in Nature Microbiology, as indicated by the source and DOI. | The study aimed to identify co‑morbid biomarkers that connect sarcopenic obesity with gut microbiota metabolites, moving from disease burden toward potential treatment avenues. | The study, published in Biogerontology, tackles a long‑standing question in host‑microbiome research: how much of the variation in an animal’s microbiome is driven by its own genes versus the food it eats, and does that microbial variation translate into differences in longevity or age‑related decline?</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
