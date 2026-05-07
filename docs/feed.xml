@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Wed, 06 May 2026 06:13:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 06:16:52 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-05-07</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-07/podcast_2026-05-07.mp3</guid>
+      <pubDate>Thu, 07 May 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-07/podcast_2026-05-07.mp3" length="21254636" type="audio/mpeg" />
+      <description>Gut microbiota in chronic inflammation: the interplay with lipid mediators reviews how resident microbes shape inflammatory pathways through production and modulation of lipid‑derived signaling molecules such as eicosanoids, sphingolipids and bile acids. | Gut microbiota shapes chronic inflammation by modulating lipid mediators, according to a review in PubMed’s Gut microbes. | Genome-wide sweeps create ecological units in the human gut microbiome.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Gut microbiota in chronic inflammation: the interplay with lipid mediators reviews how resident microbes shape inflammatory pathways through production and modulation of lipid‑derived signaling molecules such as eicosanoids, sphingolipids and bile acids. | Gut microbiota shapes chronic inflammation by modulating lipid mediators, according to a review in PubMed’s Gut microbes. | Genome-wide sweeps create ecological units in the human gut microbiome.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-05-06</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-06/podcast_2026-05-06.mp3</guid>
       <pubDate>Wed, 06 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-06/podcast_2026-05-06.mp3" length="14537108" type="audio/mpeg" />
-      <description>The study shows that gut microbiota can chemically remodel both fresh and thermally oxidized edible oils after ingestion, using an integrated GC‑MS and UPLC‑HRMS/MS metabolomics workflow. | Gut microbiota and immunometabolism in obesity examines how intestinal microbes influence metabolic inflammation and weight gain. | Early exposure to antibiotics in newborns reshapes gut microbes in ways that later boost lipid handling through reprogramming of brown adipose tissue, according to a study in Gut Microbes.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-06/podcast_2026-05-06.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>The study shows that gut microbiota can chemically remodel both fresh and thermally oxidized edible oils after ingestion, using an integrated GC‑MS and UPLC‑HRMS/MS metabolomics workflow. | Gut microbiota and immunometabolism in obesity examines how intestinal microbes influence metabolic inflammation and weight gain. | Early exposure to antibiotics in newborns reshapes gut microbes in ways that later boost lipid handling through reprogramming of brown adipose tissue, according to a study in Gut Microbes.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>

@@ -1,0 +1,213 @@
+{
+  "timestamps": [
+    0.0,
+    45.72,
+    88.38,
+    191.58,
+    341.5,
+    363.7,
+    935.59,
+    981.88,
+    1032.21,
+    1158.92,
+    1572.42,
+    1617.15,
+    1671.55,
+    1708.51,
+    1750.72,
+    1798.12,
+    1840.09,
+    1882.06,
+    1910.16,
+    1948.87,
+    1995.59,
+    2042.8,
+    2431.42
+  ],
+  "items": [
+    {
+      "title": "Gut microbiota in chronic inflammation: the interplay with lipid mediators",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/19490976.2026.2667605?af=R",
+      "source": "Gut Microbes",
+      "one_liner": "Volume 18, Issue 1, December 2026 .",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Gut microbiota in chronic inflammation: the interplay with lipid mediators.",
+      "url": "https://doi.org/10.1080/19490976.2026.2667605",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "The gut microbiota plays a fundamental role in maintaining host health by regulating immune function, epithelial barrier integrity, and metabolic homeostasis. Disruption of microbial community structure (also known as dysbiosis) and altered host-microbiota interactions can shift microbial composition and metabolite production, promote immune dysregulation...",
+      "segment": 1,
+      "timestamp": 45.72
+    },
+    {
+      "title": "Genome-wide sweeps create ecological units in the human gut microbiome.",
+      "url": "https://doi.org/10.1038/s41586-026-10476-w",
+      "source": "PubMed — Nature",
+      "one_liner": "The human gut microbiome is shaped by diverse selective forces that originate from host and environmental factors and it substantially influences health and disease. Whereas the association of microbial lineages with various health conditions has been shown at different taxonomic levels",
+      "segment": 2,
+      "timestamp": 88.38
+    },
+    {
+      "title": "Non-concussive head impacts sustained during American football correlate with changes in gut microbiome diversity and composition.",
+      "url": "https://doi.org/10.1371/journal.pone.0345651",
+      "source": "PubMed — PloS one",
+      "one_liner": "Non-concussive head impacts (NHIs) are a significant health concern among at-risk groups, including athletes and military personnel. NHIs are hits to the head or head acceleration events (HAEs) that do not generate clinically detectable symptoms and are unlikely to meet diagnostic criteria for mild traumatic brain injury (mTBI). The composition of the gut...",
+      "segment": 3,
+      "timestamp": 191.58
+    },
+    {
+      "title": "Exploring the oral microbiome: from traditional techniques to advanced omics and databases.",
+      "url": "https://doi.org/10.1007/s10482-026-02332-8",
+      "source": "PubMed — Antonie van Leeuwenhoek",
+      "one_liner": "The oral microbiome comprises analysis of microbes within the oral cavity. Omics, molecular, and bioinformatic methods have significant functions in examining the diversity, composition, and function of the oral microbiome. Molecular techniques, especially 16S and 18S rRNA sequencing, have transformed the study of the oral microbiome. Analysis by 16S rRNA...",
+      "segment": 4,
+      "timestamp": 341.5
+    },
+    {
+      "title": "Probiotic modulation of gut microbiota with Bifidobacterium animalis subsp. lactis XLTG11 and Lactobacillus plantarum CCFM8661 mitigates recurrent respiratory infections in children: a randomised-controlled trial.",
+      "url": "https://doi.org/10.1007/s00394-026-03989-7",
+      "source": "PubMed — European journal of nutrition",
+      "one_liner": "BACKGROUND: Recurrent respiratory tract infections (RRTIs) in children are associated with substantial morbidity and healthcare burden. Modulation of the gut microbiota via probiotics represents a potential adjunctive strategy to prevent recurrent infections. This study evaluated the efficacy and safety of Bifidobacterium animalis subsp. lactis XLTG11 and...",
+      "segment": 5,
+      "timestamp": 363.7
+    },
+    {
+      "title": "Oral and Gut Microbiota in Individuals With Autism Spectrum Disorder: A Pilot Case-Control Study.",
+      "url": "https://doi.org/10.1111/ipd.70095",
+      "source": "PubMed — International journal of paediatric dentistry",
+      "one_liner": "BACKGROUND: Recent studies suggest that gut microbiota play important roles in individuals with autism spectrum disorder (ASD), potentially influencing the development and severity of the condition. Oral bacteria may be directly or indirectly involved in the biological and symptomatic aspects of ASD through their effect on gut microbiota. AIM: This pilot ...",
+      "segment": 6,
+      "timestamp": 935.59
+    },
+    {
+      "title": "Microbiome in women with endometriosis and the",
+      "url": "https://doi.org/10.1128/spectrum.03689-25",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "UNLABELLED: Endometriosis (EMS) is a chronic inflammatory disorder affecting ~10% of reproductive-age women, with increasing evidence implicating the microbiome in its pathogenesis through immunomodulation and estrogen metabolism. This study investigated microbiome composition in the vagina, endometrium, and peritoneal fluid (PF) of women with and without...",
+      "segment": 7,
+      "timestamp": 981.88
+    },
+    {
+      "title": "Roles of gut and oral microbiota in methamphetamine-induced multi-organ toxicity.",
+      "url": "https://doi.org/10.1007/s10565-026-10182-3",
+      "source": "PubMed — Cell biology and toxicology",
+      "one_liner": "Methamphetamine (METH) is an illicit stimulant that is in widespread use worldwide. Repeated intake of METH can lead to addiction and multiple-organ damage, which has become a globalized problem. However, the mechanism of METH toxicity remains unclear. The gut and oral microbiota and their metabolites have an impact on host behavior, metabolism, nutrition...",
+      "segment": 8,
+      "timestamp": 1032.21
+    },
+    {
+      "title": "Linkage of nucleotide and functional diversity varies across gut bacteria.",
+      "url": "https://doi.org/10.1073/pnas.2521012123",
+      "source": "PubMed — Proceedings of the National Academy of Sciences of the United States of America",
+      "one_liner": "Understanding the forces shaping genomic diversity within bacterial species is essential for interpreting microbiome evolution, ecology, and host associations. Here, we analyze over one hundred prevalent gut bacterial species using the Unified Human Gut Genome collection to characterize patterns of intraspecific genomic variability. Gene content divergenc...",
+      "segment": 9,
+      "timestamp": 1158.92
+    },
+    {
+      "title": "<i>Akkermansia muciniphila</i>-derived 5-MIAA blunts colitis-associated tumorigenesis by modulating colonic SLC26A3/pSTAT3 signaling",
+      "url": "https://www.nature.com/articles/s41522-026-01000-z",
+      "source": "npj Biofilms and Microbiomes",
+      "one_liner": "npj Biofilms and Microbiomes, Published online: 07 May 2026; doi:10.1038/s41522-026-01000-z Akkermansia muciniphila -derived 5-MIAA blunts colitis-associated tumorigenesis by modulating colonic SLC26A3/pSTAT3 signaling",
+      "segment": 10,
+      "timestamp": 1572.42
+    },
+    {
+      "title": "Akkermansia muciniphila-derived 5-MIAA blunts colitis-associated tumorigenesis by modulating colonic SLC26A3/pSTAT3 signaling.",
+      "url": "https://doi.org/10.1038/s41522-026-01000-z",
+      "source": "PubMed — NPJ biofilms and microbiomes",
+      "one_liner": "The interaction between gut microbiota and host genetic factors has been implicated in the development of colitis-associated colorectal cancer (CAC). Although Akkermansia muciniphila (Akk) has been studied in CAC, its role and molecular mechanism remain undetermined. In this study, we found that antibiotics treatment effectively inhibited tumorigenesis in...",
+      "segment": 11,
+      "timestamp": 1617.15
+    },
+    {
+      "title": "Sex and regional effects of",
+      "url": "https://doi.org/10.1128/mbio.00469-26",
+      "source": "PubMed — mBio",
+      "one_liner": "IMPORTANCE: This research marks an investigation into how specific microbiota, like",
+      "segment": 12,
+      "timestamp": 1671.55
+    },
+    {
+      "title": "Income, diet, and cognitive function: observational analyses and candidate metabolomic pathways identified by Mendelian randomization.",
+      "url": "https://doi.org/10.1016/j.tjpad.2026.100582",
+      "source": "PubMed — The journal of prevention of Alzheimer's disease",
+      "one_liner": "BACKGROUND: Household income has been shown to have impact on cognitive function, with dietary patterns and gut microbiota-related metabolic pathways potentially acting as mediating pathways. Our study integrates observational analyses and Mendelian randomization (MR) to explore these associations. METHODS: The observational analysis included 13,457 parti...",
+      "segment": 13,
+      "timestamp": 1708.51
+    },
+    {
+      "title": "Enterotoxigenic Bacteroides fragilis induces host genotype-specific colonic epithelial and immune responses in mice.",
+      "url": "https://doi.org/10.1093/infdis/jiag247",
+      "source": "PubMed — The Journal of infectious diseases",
+      "one_liner": "BACKGROUND: Colorectal cancer pathogenesis involves complex interactions between multiple risk factors including somatic mutations and microbial dysbiosis. A number of individual microbiota members have been implicated in colorectal cancer, including enterotoxigenic strains of Bacteroides fragilis (ETBF). ETBF promotes inflammation in mouse models, which ...",
+      "segment": 14,
+      "timestamp": 1750.72
+    },
+    {
+      "title": "Epicutaneous Exposure to Egg Ovalbumin Highlights a Potential Skin-Gut Immune-Microbiota Axis in Food Allergy Risk.",
+      "url": "https://doi.org/10.1021/acs.jafc.5c17581",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "Food allergy is an increasing concern in food safety and public health, yet risk assessment of food proteins remains largely limited to oral exposure. Here, ovalbumin (OVA) was used to establish a murine model of epicutaneous exposure under impaired skin barrier conditions. Epicutaneous OVA exposure induced pronounced Th2-skewed immunity, dendritic cell a...",
+      "segment": 15,
+      "timestamp": 1798.12
+    },
+    {
+      "title": "Oral microbiota in early- and late-onset tongue cancers: A pilot case-control study.",
+      "url": "https://doi.org/10.1158/1940-6207.CAPR-25-0538",
+      "source": "PubMed — Cancer prevention research (Philadelphia, Pa.)",
+      "one_liner": "Evidence for the role of oral microbiota in tongue cancers is limited despite early-onset and unexplained etiology. We assessed oral microbiota profiles in saliva among participants with tongue cancers in the oral cavity compared to cancer-free controls. We conducted a case-control study in a tertiary care cancer hospital in Chennai, South India. Cases (N...",
+      "segment": 16,
+      "timestamp": 1840.09
+    },
+    {
+      "title": "Indole-3-Carbaldehyde from",
+      "url": "https://doi.org/10.34133/research.1267",
+      "source": "PubMed — Research (Washington, D.C.)",
+      "one_liner": "Diffuse large B cell lymphoma (DLBCL) presents a critical clinical challenge due to declining chemosensitivity and difficult-to-manage dose-limiting toxicities. Although gut microbiota modulation shows potential for \"toxicity reduction and efficacy enhancement\", its mechanism in DLBCL remains unclear. Comparative analysis revealed a marked reduction of be...",
+      "segment": 17,
+      "timestamp": 1882.06
+    },
+    {
+      "title": "1107 INTEGRATED SMALL INTESTINE MUCOSAL VERSUS FECAL, MULTI-KINGDOM MICROBIOME PROFILING REVEALS MUCOSAL MYCOBIOME AND VIROME AS DOMINANT DRIVERS OF CROHN'S DISEASE CLASSIFICATION",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)05730-6/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 18,
+      "timestamp": 1910.16
+    },
+    {
+      "title": "428 GLOBAL REPRESENTATION IN GUT MICROBIOME CLINICAL TRIALS: ASSESSING GEOGRAPHIC DIVERSITY FROM 2007-2025.",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)05494-6/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 19,
+      "timestamp": 1948.87
+    },
+    {
+      "title": "EP75 FECAL MICROBIOME GENE MARKERS FOR EARLY DETECTION OF PANCREATIC CANCER: A CLINICAL EXPLORATORY STUDY INTEGRATING FUNCTIONAL BACTERIAL GENOTYPES",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)05478-8/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 20,
+      "timestamp": 1995.59
+    },
+    {
+      "title": "Mo1001 MICROBIOMECHAIN: A FOUNDATION MODEL FOR ADVANCING GUT MICROBIOME RESEARCH",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)05612-X/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 21,
+      "timestamp": 2042.8
+    },
+    {
+      "title": "EP74 GUT MICROBIOTA-DRIVEN CHRONIC PANCREATITIS: THE ROLE OF INFLAMMATORY FACTOR MODULATION",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)05477-6/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 22,
+      "timestamp": 2431.42
+    }
+  ]
+}
