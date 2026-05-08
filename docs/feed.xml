@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Thu, 07 May 2026 06:16:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 05:51:14 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-05-08</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-08/podcast_2026-05-08.mp3</guid>
+      <pubDate>Fri, 08 May 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-08/podcast_2026-05-08.mp3" length="26282180" type="audio/mpeg" />
+      <description>The study examines whether n‑3 polyunsaturated fatty acids—specifically eicosatetraenoic acid (EPA) and docosahexaenoic acid (DHA)—can ameliorate dextran sulfate sodium‑induced acute colitis in mice, with the title suggesting that the benefit arises from strengthening the intestinal barrier and reshaping the gut microbiome. | The available text does not provide details on the experimental design, such as the mouse strain, colitis induction protocol, PUFA dosage, treatment duration, or control groups. | What is clear from the background is the motivation: ulcerative colitis imposes a growing clinical burden, especially in rapidly developing regions, and there is a need for nutritionally based interventions that target both host tissue integrity and microbial ecology.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>The study examines whether n‑3 polyunsaturated fatty acids—specifically eicosatetraenoic acid (EPA) and docosahexaenoic acid (DHA)—can ameliorate dextran sulfate sodium‑induced acute colitis in mice, with the title suggesting that the benefit arises from strengthening the intestinal barrier and reshaping the gut microbiome. | The available text does not provide details on the experimental design, such as the mouse strain, colitis induction protocol, PUFA dosage, treatment duration, or control groups. | What is clear from the background is the motivation: ulcerative colitis imposes a growing clinical burden, especially in rapidly developing regions, and there is a need for nutritionally based interventions that target both host tissue integrity and microbial ecology.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-05-07</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-07/podcast_2026-05-07.mp3</guid>
       <pubDate>Thu, 07 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-07/podcast_2026-05-07.mp3" length="21254636" type="audio/mpeg" />
-      <description>Gut microbiota in chronic inflammation: the interplay with lipid mediators reviews how resident microbes shape inflammatory pathways through production and modulation of lipid‑derived signaling molecules such as eicosanoids, sphingolipids and bile acids. | Gut microbiota shapes chronic inflammation by modulating lipid mediators, according to a review in PubMed’s Gut microbes. | Genome-wide sweeps create ecological units in the human gut microbiome.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-07/podcast_2026-05-07.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Gut microbiota in chronic inflammation: the interplay with lipid mediators reviews how resident microbes shape inflammatory pathways through production and modulation of lipid‑derived signaling molecules such as eicosanoids, sphingolipids and bile acids. | Gut microbiota shapes chronic inflammation by modulating lipid mediators, according to a review in PubMed’s Gut microbes. | Genome-wide sweeps create ecological units in the human gut microbiome.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
