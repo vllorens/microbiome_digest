@@ -1,0 +1,348 @@
+{
+  "timestamps": [
+    0.0,
+    25.29,
+    70.72,
+    123.56,
+    160.78,
+    201.27,
+    331.49,
+    460.41,
+    603.81,
+    720.44,
+    829.26,
+    952.18,
+    993.67,
+    1039.08,
+    1082.68,
+    1133.82,
+    1175.14,
+    1220.62,
+    1267.22,
+    1310.76,
+    1359.83,
+    1499.84,
+    2002.69,
+    2116.8,
+    2214.1,
+    2333.73,
+    2384.18,
+    2430.13,
+    2477.26,
+    2518.76,
+    2559.91,
+    2602.65,
+    2646.3,
+    2696.03,
+    2733.3,
+    2774.21,
+    2816.62,
+    2860.63
+  ],
+  "items": [
+    {
+      "title": "Microbial signals meet regulatory DNA: Gut microbiota control liver gene expression through cis-regulatory elements.",
+      "url": "https://doi.org/10.1016/j.molcel.2026.04.009",
+      "source": "PubMed — Molecular cell",
+      "one_liner": "In this issue of Molecular Cell, Zaratiana and colleagues have evaluated the activity of cis-regulatory elements (CREs) by combining massively parallel reporter assays (MPRAs) and microbial perturbation experiments.",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "The Involvement of Gut Microbiota and Their Key Metabolites in Regulating Fetal Development via the Gut-Placental Axis.",
+      "url": "https://doi.org/10.1177/21524971261450000",
+      "source": "PubMed — Cellular reprogramming",
+      "one_liner": "The gut is the organ with the largest number of microorganisms in the organism, and host-microbe interactions allow the host to shape the composition of the microbiome and thus its numbers and diversity. The gut microbiome is integral to the facilitation of vital host functions that have a direct impact on the overall health of the host. This paper aims t...",
+      "segment": 1,
+      "timestamp": 25.29
+    },
+    {
+      "title": "Oral Bioinspired Peroxisome-Engineered Probiotics for Modulating Gut Microbiota Homeostasis and Alleviating Cardiac Chemotherapy Toxicity.",
+      "url": "https://doi.org/10.1002/advs.202519344",
+      "source": "PubMed — Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "one_liner": "Anthracyclines such as doxorubicin (DOX) are widely used in cancer chemotherapy but their clinical utility is severely limited by cumulative, dose-dependent, and largely irreversible cardiotoxicity. Mounting evidence suggests that DOX disrupts intestinal barrier integrity and microbial homeostasis, aggravating systemic oxidative stress and accelerating my...",
+      "segment": 2,
+      "timestamp": 70.72
+    },
+    {
+      "title": "Antagonistic effect of Schisandra chinensis lignans on intestinal ROS accumulation and gut microbiota in sleep-deprived mice.",
+      "url": "https://doi.org/10.1002/jsfa.70706",
+      "source": "PubMed — Journal of the science of food and agriculture",
+      "one_liner": "BACKGROUND: Sleep deprivation (SD) not only impairs the quality of sleep and leaves the body in a state of fatigue, but also exacerbates the accumulation of reactive oxygen species (ROS) in the gut, leading to intestinal barrier dysfunction. This exacerbation results in damage to the intestinal barrier and subsequently elevates the incidence of intestinal...",
+      "segment": 3,
+      "timestamp": 123.56
+    },
+    {
+      "title": "Ultrasound-assisted degradation of polysaccharides from sweet corn cob can regulate gut microbiota and activate multiple pathways via the gut-liver axis to alleviate T2DM in mice.",
+      "url": "https://doi.org/10.1002/jsfa.70696",
+      "source": "PubMed — Journal of the science of food and agriculture",
+      "one_liner": "BACKGROUND: The prevalence of type 2 diabetes mellitus (T2DM) has been rising in recent years, prompting interest in natural plant polysaccharides for their ability to mitigate the disease. To enhance its bioactivity, a degraded polysaccharide from sweet corn cob with ultrasonic-assisted enzymatic method (UE-DSCCP-A) was prepared, and its structure was al...",
+      "segment": 4,
+      "timestamp": 160.78
+    },
+    {
+      "title": "Chronic stress drives oligoasthenozoospermia via gut microbiota-vitamin-Sting1/Slc9c2 axis.",
+      "url": "https://doi.org/10.1038/s41467-026-72450-4",
+      "source": "PubMed — Nature communications",
+      "one_liner": "Male infertility is linked to chronic psychological stress, however, the mechanisms underlying chronic stress-induced oligoasthenozoospermia (OAZS) remain incompletely elucidated. Here, we establish a chronic forced swim stress (CFSS) rat model and identify a gut microbiota-testis/epididymis axis as the mediator. CFSS activates the HPA axis, leading to el...",
+      "segment": 5,
+      "timestamp": 201.27
+    },
+    {
+      "title": "Association between infant and toddler gut microbiota composition and later executive functioning.",
+      "url": "https://doi.org/10.1017/S0954579426101527",
+      "source": "PubMed — Development and psychopathology",
+      "one_liner": "BACKGROUND: Studies indicate that alterations in gut microbiota composition (GMC) during the first 1,000 days of life are associated with neurodevelopment and further behavioral development. However, research on the associations between GMC and executive functions (EFs) in childhood is scarce. This study aims to improve the understanding of the biological...",
+      "segment": 6,
+      "timestamp": 331.49
+    },
+    {
+      "title": "Gut microbiota-modulated glutamic acid rejuvenates the quality of oocytes deteriorated by advanced reproductive age.",
+      "url": "https://doi.org/10.1038/s44321-026-00443-3",
+      "source": "PubMed — EMBO molecular medicine",
+      "one_liner": "The gut microbiota plays a vital role in maintaining the physiological function of host health and the pathogenesis of various diseases. However, its relationship with maternal age-associated decline in oocyte quality remains elusive. Here, we report that establishment of gut microbiota from young donors in aged mice by fecal microbiota transplantation (F...",
+      "segment": 7,
+      "timestamp": 460.41
+    },
+    {
+      "title": "Re-arming checkpoint blockade in MSS colorectal cancer: A precision-microbiome playbook from mechanisms to clinic.",
+      "url": "https://doi.org/10.47717/turkjsurg.2026.2025-8-3",
+      "source": "PubMed — Turkish journal of surgery",
+      "one_liner": "Immune checkpoint blockade transforms outcomes for the 15% of colorectal cancers (CRCs) with mismatch-repair deficiency; yet most tumours remain refractory. Beneficial gut microbes can change this.",
+      "segment": 8,
+      "timestamp": 603.81
+    },
+    {
+      "title": "Saikosaponin D Attenuates Postherpetic Neuralgia and Reduces Inflammation by Regulating Gut Microbiota in a Rodent Model.",
+      "url": "https://doi.org/10.1007/s10528-026-11387-1",
+      "source": "PubMed — Biochemical genetics",
+      "one_liner": "Saikosaponin D (SSD) is a triterpenoid saponin derived from Bupleuri Radix and has therapeutic potential for the treatment of neuropathic pain. This study investigates the roles and underlying mechanisms of SSD in cellular and mouse models of resiniferatoxin (RTX)-induced postherpetic neuralgia (PHN). C57BL/6 mice were randomly assigned into four groups: ...",
+      "segment": 9,
+      "timestamp": 720.44
+    },
+    {
+      "title": "Gut microbiota and its metabolites: Key factors of drug resistance in the treatment of advanced prostate cancer (Review).",
+      "url": "https://doi.org/10.3892/mmr.2026.13900",
+      "source": "PubMed — Molecular medicine reports",
+      "one_liner": "Prostate cancer (PCa) is a leading cause of cancer‑related deaths among men, and its incidence is increasing worldwide. Current treatments include androgen deprivation therapy, surgery, radiotherapy, chemotherapy and immunotherapy, among others. Surgical treatment has a less effective therapeutic effect in patients with advanced PCa. However, drug‑based t...",
+      "segment": 10,
+      "timestamp": 829.26
+    },
+    {
+      "title": "Comparative microbiome profiling of betel quid chewers and non-chewers to identify dysbiotic microbial signatures.",
+      "url": "https://doi.org/10.1038/s41598-026-46533-7",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "Recent studies are showing an association between oral microbiome community changes and oral diseases, including oral cancer. The prevalence of betel quid chewing has been linked to the incidence of oral cancer, particularly in the Northeast region of India. Hence, the study to understand the bacterial community shifts induced by betel quid to identify dy...",
+      "segment": 11,
+      "timestamp": 952.18
+    },
+    {
+      "title": "Gut Oxalate Transport and Gut Microbiome as Potential Therapeutic Targets for Hyperoxaluria and Hyperoxalemia: Implications for Related Human Disease.",
+      "url": "https://doi.org/10.1016/j.mayocp.2026.04.020",
+      "source": "PubMed — Mayo Clinic proceedings",
+      "one_liner": "Besides kidney stones (KS), oxalate potentially contributes to chronic kidney disease (CKD) and its progression, CKD- and end stage kidney disease (ESKD)-associated cardiovascular diseases, and poor kidney transplant survival. KS affect about 1 in 5 men and 1 in 11 women and the recurrence rate remains high (50% in 5 years and up to 80% in 10-20 years), r...",
+      "segment": 12,
+      "timestamp": 993.67
+    },
+    {
+      "title": "An examination of the microbiome of Bacillus cereus (PS5) isolated from Puntius sarana (Olive barb) for α-amylase production, optimization, macromolecule extraction, and structural characterization with industrial and agricultural applications.",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2026.152420",
+      "source": "PubMed — International journal of biological macromolecules",
+      "one_liner": "The α-amylase enzyme plays a vital role in enzyme therapy and the intestinal digestive system, and is widely utilized in the food and pharmaceutical industries. Thus, this study aimed to isolate intestinal bacterial strains that produce α-amylase, optimize enzyme production, and characterize the molecular properties of the produced proteins. A total of 11...",
+      "segment": 13,
+      "timestamp": 1039.08
+    },
+    {
+      "title": "An integrated study of gut microbiota and serum metabolites in T2DM-ED rats after fecal microbiota transplantation.",
+      "url": "https://doi.org/10.1016/j.freeradbiomed.2026.05.012",
+      "source": "PubMed — Free radical biology & medicine",
+      "one_liner": "Erectile dysfunction (ED) is a highly prevalent and refractory complication of type 2 diabetes mellitus (T2DM), with penile cavernosal dysfunction, inflammation, apoptosis, and fibrosis as core pathological features. Here we identify gut microbiota dysbiosis and its downstream metabolite arachidonic acid (AA) as critical mediators of T2DM-associated erect...",
+      "segment": 14,
+      "timestamp": 1082.68
+    },
+    {
+      "title": "A novel triterpenoid from Alisma orientale alleviates allergic asthma through the gut microbiota-acetate-FFAR2 immunoregulatory axis.",
+      "url": "https://doi.org/10.1016/j.intimp.2026.116809",
+      "source": "PubMed — International immunopharmacology",
+      "one_liner": "BACKGROUND: Allergic asthma is characterized by immune dysregulation and airway inflammation, and increasing evidence implicates gut microbiota-derived metabolites in its pathogenesis. However, the microbial and metabolic mediators underlying the anti-asthmatic effects of natural products remain insufficiently defined. This study investigated the protecti...",
+      "segment": 15,
+      "timestamp": 1133.82
+    },
+    {
+      "title": "Effects of Time-Restricted Eating on Gut Microbiota and Metabolites and Their Relationship With Cardiometabolic Risk Factors.",
+      "url": "https://doi.org/10.1002/oby.70207",
+      "source": "PubMed — Obesity (Silver Spring, Md.)",
+      "one_liner": "OBJECTIVE: This study aimed to investigate whether the time of the eating window during time-restricted eating (TRE) alters the gut microbiota and metabolomic profiles and to determine their relationship with cardiometabolic risk factors in adults with overweight or obesity. METHODS: In an 8-week randomized controlled trial, 60 young adults with overweigh...",
+      "segment": 16,
+      "timestamp": 1175.14
+    },
+    {
+      "title": "Extending space-for-time substitutions: the missing role of the gut microbiome.",
+      "url": "https://doi.org/10.1093/jeb/voag032",
+      "source": "PubMed — Journal of evolutionary biology",
+      "one_liner": "The space-for-time substitution (SFTS) approach is widely used to predict evolutionary trait responses to global warming. The current approach ignores the explicit role of the gut microbiome in shaping the future host phenotype, despite its strong influence on thermal adaptation and its ability to show more rapid adaptation than the host. We propose integ...",
+      "segment": 17,
+      "timestamp": 1220.62
+    },
+    {
+      "title": "Systematic Review with Qualitative Synthesis of Gut Microbiota Alterations after Acute Brain Injury.",
+      "url": "https://doi.org/10.1177/08977151261449708",
+      "source": "PubMed — Journal of neurotrauma",
+      "one_liner": "Acute brain injury (ABI), traumatic or nontraumatic, profoundly disrupts the gut microbiota (GM). To provide intensive care physicians with a clearer understanding of this phenomenon, we conducted a systematic review with qualitative synthesis. Due to significant heterogeneity in study designs, populations, and outcomes, a meta-analysis was not feasible. ...",
+      "segment": 18,
+      "timestamp": 1267.22
+    },
+    {
+      "title": "Role of microbiome in ocular surface disease: interpreting biology in a low-biomass environment.",
+      "url": "https://doi.org/10.1097/ICU.0000000000001228",
+      "source": "PubMed — Current opinion in ophthalmology",
+      "one_liner": "PURPOSE OF REVIEW: Growing use of sequencing technologies has accelerated investigation of the ocular surface microbiome, yet this environment is characterized by extremely low microbial biomass, complicating data interpretation. This review assesses current evidence linking microbial communities to ocular surface disease, discusses methodological and bio...",
+      "segment": 19,
+      "timestamp": 1310.76
+    },
+    {
+      "title": "Impact of prebiotics, probiotics, and postbiotics on maternal and fetal health: mechanisms, efficacy, and safety across pregnancy.",
+      "url": "https://doi.org/10.1038/s41390-026-04983-9",
+      "source": "PubMed — Pediatric research",
+      "one_liner": "Microbiome-directed biotics are gaining attention in obstetrics. This review clarifies terminology, mechanisms, clinical effects, and safety for prebiotics, probiotics, and postbiotics. Prebiotics are nondigestible substrates that are selectively used by host microbes to confer health benefits. Probiotics are defined as live microorganisms that improve he...",
+      "segment": 20,
+      "timestamp": 1359.83
+    },
+    {
+      "title": "Effects of pica practice on oral bacteriome and mycobiome profiles among pregnant women: A comparative study.",
+      "url": "https://doi.org/10.1371/journal.pone.0328198",
+      "source": "PubMed — PloS one",
+      "one_liner": "INTRODUCTION: Pica, the excessive craving and consumption of non-food substances such as clay, and ice, is common among pregnant women but may pose risks for oral and systemic infections. OBJECTIVE: Assessed the comparative effect of pica practice on the oral microbiome (bacteriome and mycobiome) profiles of pregnant women. METHODS: A cross-sectional stud...",
+      "segment": 21,
+      "timestamp": 1499.84
+    },
+    {
+      "title": "Microbial zonation and functional roles in the gut of white grub (Maladera insanabilis) larvae.",
+      "url": "https://doi.org/10.1038/s41598-026-52250-y",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "Maladera insanabilis, a widespread and destructive agricultural pest in India, thrives in nitrogen-deficient subsoil environments due to its dependency on gut bacteria. In particular, the hindgut is an anaerobic fermentation chamber, supporting microbial-driven nitrogen transformations essential for larval development. Despite its ecological significance,...",
+      "segment": 22,
+      "timestamp": 2002.69
+    },
+    {
+      "title": "Contact-mediated bacterial transmission and infection risk dynamics in a newly opened hospital ward.",
+      "url": "https://doi.org/10.1186/s12866-026-05030-7",
+      "source": "PubMed — BMC microbiology",
+      "one_liner": "The hospital microbiome significantly influences patient recovery and clinical outcomes. However, the dynamics of microbial colonization and transmission following initial patient occupancy remain poorly understood. Here, we employed 16 S rRNA gene amplicon sequencing of the V3-V4 region (Illumina platform) to investigate bacterial community dynamics on s...",
+      "segment": 23,
+      "timestamp": 2116.8
+    },
+    {
+      "title": "Prenatal maternal antibiotic use increases the risk of childhood eczema: a systematic review and meta-analysis.",
+      "url": "https://doi.org/10.1038/s41598-026-51441-x",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "Early-life disruption of microbiome development is known to impair health; however, the long-term effects of pregnancy-related pharmacological alterations to the maternal gut microbiota on offspring health remain unclear. This meta-analysis aimed to evaluate the impact of maternal antibiotic use (either prenatal or intrapartum) on the risk of childhood at...",
+      "segment": 24,
+      "timestamp": 2214.1
+    },
+    {
+      "title": "Intratumoral microbial networks as biomarkers for second primary oral cancer risk in esophageal squamous cell carcinoma.",
+      "url": "https://doi.org/10.1038/s41598-026-52247-7",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "Esophageal squamous cell carcinoma (ESCC) survivors remain at elevated risk of developing second primary oral cancer (SPOC), yet the role of intratumoral microbiomes in SPOC emergence is not fully understood. We performed 16 S rRNA V3-V4 sequencing on tumor brushings from 28 ESCC patients (20 SPOC-negative, 8 SPOC-positive) to profile microbial diversity,...",
+      "segment": 25,
+      "timestamp": 2333.73
+    },
+    {
+      "title": "Correction: Analysis of early childhood intestinal microbial dynamics in a continuous-flow bioreactor.",
+      "url": "https://doi.org/10.1186/s40168-026-02424-7",
+      "source": "PubMed — Microbiome",
+      "one_liner": "",
+      "segment": 26,
+      "timestamp": 2384.18
+    },
+    {
+      "title": "Beyond resolution: Cryo-electron tomography of microbial nanomachines in native host context.",
+      "url": "https://doi.org/10.1016/j.sbi.2026.103280",
+      "source": "PubMed — Current opinion in structural biology",
+      "one_liner": "Cryo-electron tomography (cryo-ET) has revolutionized visualization of bacterial nanomachines by revealing molecular structures in situ under near-native conditions. This review highlights recent advances extending cryo-ET from isolated cells to host-microbe interactions within intact tissues. We discuss technical solutions for large-volume imaging such a...",
+      "segment": 27,
+      "timestamp": 2430.13
+    },
+    {
+      "title": "Management of salt-sensitive hypertension in clinical settings: how should we approach it?",
+      "url": "https://doi.org/10.1016/j.amjmed.2026.05.003",
+      "source": "PubMed — The American journal of medicine",
+      "one_liner": "Salt sensitivity is a major component of highly prevalent uncontrolled hypertensive disease. Multiple disease determinants, such as age, sex, genetic predisposition, pro-inflammatory factors, renal and vascular dysfunction, disrupted blood-brain barrier integrity, as well as gut microbiome health, effectively regulate sodium turnover and associated advers...",
+      "segment": 28,
+      "timestamp": 2477.26
+    },
+    {
+      "title": "Gut microbial signatures for aging-related sarcopenia and dietary links among community-dwelling old-old adults: A metagenomic study.",
+      "url": "https://doi.org/10.1016/j.exger.2026.113161",
+      "source": "PubMed — Experimental gerontology",
+      "one_liner": "BACKGROUND AND OBJECTIVES: Sarcopenia, characterized by progressive loss of muscle mass, strength and function, poses a major aging-related health challenge. While a gut-muscle axis is implicated, microbiota-sarcopenia associations in the old-old (≥80 years) remain unexplored. METHODS: This cross-sectional analysis included 315 community-dwelling adults a...",
+      "segment": 29,
+      "timestamp": 2518.76
+    },
+    {
+      "title": "Multi-omics investigations reveal the critical role of the liver-microbiota-gut axis in tetrabromobisphenol S-induced liver fibrosis.",
+      "url": "https://doi.org/10.1016/j.ecoenv.2026.120215",
+      "source": "PubMed — Ecotoxicology and environmental safety",
+      "one_liner": "Tetrabromobisphenol S (TBBPS), a widely used brominated flame retardant (BFR), is increasingly detected in environmental and biological samples, raising urgent concerns. Although several in vitro studies have investigated the hepatotoxicity of TBBPS, the in vivo effects and mechanisms of chronic exposure, particularly by the liver-microbiota-gut axis, rem...",
+      "segment": 30,
+      "timestamp": 2559.91
+    },
+    {
+      "title": "Molecular-level host-microbe interactions: mechanisms, molecules, and modeling toward precision probiotics.",
+      "url": "https://doi.org/10.1080/14728222.2026.2671689",
+      "source": "PubMed — Expert opinion on therapeutic targets",
+      "one_liner": "INTRODUCTION: Advancing next-generation probiotics (NGPs) as precision therapeutics depends on a detailed understanding of host - microbe molecular interactions, as these organisms exert targeted effects through defined bioactive molecules rather than broad, nonspecific mechanisms. This review addresses the need to systematically organize emerging knowled...",
+      "segment": 31,
+      "timestamp": 2602.65
+    },
+    {
+      "title": "Mol794 MICROBIOME WITH A HEALTHIER CARDIOMETABOLIC PHENOTYPE FAVOR THE PRODUCTION OF MICROBIALLY CONJUGATED BILE ACIDS",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)04927-9/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 32,
+      "timestamp": 2646.3
+    },
+    {
+      "title": "Tul801 THE VITAMIN D RECEPTOR (VDR) AS A CRITICAL HOST DETERMINANT DRIVING ONCOGENIC GUT MICROBIOTA SHIFT ALONG THE COLORECTAL NEOPLASIA CONTINUUM",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)04997-8/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 33,
+      "timestamp": 2696.03
+    },
+    {
+      "title": "Mol793 LIRAGLUTIDE-RESPONSIVE GUT MICROBIOME SIGNATURES MAP TO SPECIFIC HOST CELLULAR PATHWAYS VIA A SINGLE-CELL POLYGENIC SCORE FRAMEWORK, REVEALING PHYSIOLOGIC ROUTES THROUGH WHICH MICROBIOME ALTERATIONS MAY SHAPE HOST RESPONSES",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)04926-7/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 34,
+      "timestamp": 2733.3
+    },
+    {
+      "title": "Mo1791 TEMPORAL REORGANIZATION OF THE GUT MICROBIOME AND HOST CLOCK FOLLOWING GASTRIC BYPASS RESTORES METABOLIC HOMEOSTASIS",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)04924-3/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 35,
+      "timestamp": 2774.21
+    },
+    {
+      "title": "Mo1784 YOGHURT SUPPLEMENTATION MODULATES GUT MICROBIOME NETWORK AND LOWERS SYSTEMIC INFLAMMATION IN CRITICAL CARE - A PILOT RANDOMIZED CONTROLLED TRIAL",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)04917-6/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 36,
+      "timestamp": 2816.62
+    },
+    {
+      "title": "The ecology and evolution of sub-exponential replicators",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014247",
+      "source": "PLOS Computational Biology",
+      "one_liner": "by Bianka Kovács, György Barabás, Géza Meszéna, Eörs Szathmáry, András Szilágyi Systems of oligonucleotide chemical replicator molecules provide some of the finest, empirically realizable models of prebiotic evolution. Yet, a full understanding of their eco-evolutionary implications is hampered by conflicting assumptions, modeling strategies, and ...",
+      "segment": 37,
+      "timestamp": 2860.63
+    }
+  ]
+}

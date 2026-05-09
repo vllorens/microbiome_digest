@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Fri, 08 May 2026 05:51:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 06:13:31 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-05-09</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-09/podcast_2026-05-09.mp3</guid>
+      <pubDate>Sat, 09 May 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-09/podcast_2026-05-09.mp3" length="22135916" type="audio/mpeg" />
+      <description>Gut microbes directly shape liver gene activity by targeting specific cis‑regulatory elements, according to a new PubMed‑indexed study in Molecular Cell. | A new review in Cellular Reprogramming (PubMed) reveals that the gut microbiome and its metabolites actively shape fetal development through the gut‑placental axis. | Researchers report that orally administered probiotics engineered to mimic peroxisome functions can restore gut‑microbiota balance disrupted by doxorubicin chemotherapy and reduce the drug’s cardiotoxic effects.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Gut microbes directly shape liver gene activity by targeting specific cis‑regulatory elements, according to a new PubMed‑indexed study in Molecular Cell. | A new review in Cellular Reprogramming (PubMed) reveals that the gut microbiome and its metabolites actively shape fetal development through the gut‑placental axis. | Researchers report that orally administered probiotics engineered to mimic peroxisome functions can restore gut‑microbiota balance disrupted by doxorubicin chemotherapy and reduce the drug’s cardiotoxic effects.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-05-08</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-08/podcast_2026-05-08.mp3</guid>
       <pubDate>Fri, 08 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-08/podcast_2026-05-08.mp3" length="26282180" type="audio/mpeg" />
-      <description>The study examines whether n‑3 polyunsaturated fatty acids—specifically eicosatetraenoic acid (EPA) and docosahexaenoic acid (DHA)—can ameliorate dextran sulfate sodium‑induced acute colitis in mice, with the title suggesting that the benefit arises from strengthening the intestinal barrier and reshaping the gut microbiome. | The available text does not provide details on the experimental design, such as the mouse strain, colitis induction protocol, PUFA dosage, treatment duration, or control groups. | What is clear from the background is the motivation: ulcerative colitis imposes a growing clinical burden, especially in rapidly developing regions, and there is a need for nutritionally based interventions that target both host tissue integrity and microbial ecology.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-08/podcast_2026-05-08.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>The study examines whether n‑3 polyunsaturated fatty acids—specifically eicosatetraenoic acid (EPA) and docosahexaenoic acid (DHA)—can ameliorate dextran sulfate sodium‑induced acute colitis in mice, with the title suggesting that the benefit arises from strengthening the intestinal barrier and reshaping the gut microbiome. | The available text does not provide details on the experimental design, such as the mouse strain, colitis induction protocol, PUFA dosage, treatment duration, or control groups. | What is clear from the background is the motivation: ulcerative colitis imposes a growing clinical burden, especially in rapidly developing regions, and there is a need for nutritionally based interventions that target both host tissue integrity and microbial ecology.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
