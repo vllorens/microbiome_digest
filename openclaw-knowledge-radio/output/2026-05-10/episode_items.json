@@ -1,0 +1,96 @@
+{
+  "timestamps": [
+    0.0,
+    43.1,
+    86.92,
+    137.65,
+    180.22,
+    226.85,
+    271.94,
+    310.77,
+    355.96,
+    408.52
+  ],
+  "items": [
+    {
+      "title": "The common symbiosis pathway controls plant root microbiomes in a host-specific manner",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.05.08.723321",
+      "source": "bioRxiv — plant biology",
+      "one_liner": "Crop nutrition depends on plant-microbe interactions, yet it remains unclear whether conserved genetic pathways impose universal rules on root microbiome assembly across plant hosts. Here, we show that the Common Symbiosis Signalling Pathway (CSSP), a conserved genetic module controlling endosymbiosis with arbuscular mycorrhizal fungi and nitrogen-fixing ...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Scutellaria baicalensis Georgi and its active component scutellarin alleviate asthma in rats by modulating the gut microbiota-bile acid axis.",
+      "url": "https://doi.org/10.1016/j.jep.2026.121304",
+      "source": "PubMed — Journal of ethnopharmacology",
+      "one_liner": "ETHNOPHARMACOLOGICAL RELEVANCE: The Complete Works of Jingyue recorded that Scutellaria baicalensis Georgi (SBG, Huangqin) cleared heat and relieved asthma from Ming Dynasty. SBG possesses a long history of medicinal use and has demonstrated efficacy in treating respiratory diseases. Building on these traditional applications, recent studies have reported...",
+      "segment": 1,
+      "timestamp": 43.1
+    },
+    {
+      "title": "Association between the Dietary Index for Gut Microbiota and cognitive function among older adults in the United States.",
+      "url": "https://doi.org/10.1177/13872877261449420",
+      "source": "PubMed — Journal of Alzheimer's disease : JAD",
+      "one_liner": "BackgroundThe Dietary Index for Gut Microbiota (DI-GM) is a novel index reflecting diet quality relative to gut microbiota health.ObjectiveThe study aims to investigate the relationship between DI-GM and cognitive function in older adults.MethodsData were obtained from 2629 participants aged ≥60 years in the National Health and Nutrition Examination Surve...",
+      "segment": 2,
+      "timestamp": 86.92
+    },
+    {
+      "title": "Probiotics with Emodin-nanobackpack restore goblet cell-dependent mucus layer integrity via colonic patches to ameliorate ulcerative colitis.",
+      "url": "https://doi.org/10.1016/j.jconrel.2026.114769",
+      "source": "PubMed — Journal of controlled release : official journal of the Controlled Release Society",
+      "one_liner": "While mucosal layer restoration is one of the key therapeutic goals for ulcerative colitis (UC), the current clinical treatments, including probiotics and therapeutic agents, fail to achieve it. As mucosal integrity often depends on goblet cell (GC) abundance and mucus secretion capability, herein we developed LEG@PDA, an orally delivered probiotics-nanot...",
+      "segment": 3,
+      "timestamp": 137.65
+    },
+    {
+      "title": "Integrated multi-omics decipher the complex nodule microbiota and distinct Frankiaceae symbiotic traits in wild actinorhizal plants.",
+      "url": "https://doi.org/10.1111/nph.71234",
+      "source": "PubMed — The New phytologist",
+      "one_liner": "Actinorhizal plants are ecologically important pioneer species in temperate regions, capable of nitrogen-fixing root nodule symbiosis with Frankiaceae bacteria. Despite their significance within the nitrogen-fixing clades (NFC), multi-omics studies of actinorhizal symbiosis remain scarce. We profiled prokaryotic communities in the rhizosphere, root, and/o...",
+      "segment": 4,
+      "timestamp": 180.22
+    },
+    {
+      "title": "Sa1770 MACHINE-LEARNING PREDICTION OF BIFIDOBACTERIUM ABUNDANCE IN THE NEONATAL GUT MICROBIOTA IN A JAPANESE COHORT",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)04834-1/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 5,
+      "timestamp": 226.85
+    },
+    {
+      "title": "Sa1765 MICROBIOME STRUCTURE UNDERLIES PERSONALIZED DIETARY IMPACTS ON INTESTINAL INFLAMMATION",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)04829-8/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 6,
+      "timestamp": 271.94
+    },
+    {
+      "title": "Sa1764 INTERMITTENT FASTING, GUT MICROBIOME COMPOSITION, AND METABOLIC HEALTH: A 3-WEEK INTERVENTION IN PATIENTS WITH PREDIABETES AND TYPE 2 DIABETES MELLITUS",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)04828-6/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 7,
+      "timestamp": 310.77
+    },
+    {
+      "title": "Sa1762 SHORT-TERM CHITOOLIGOSACCHARIDE SUPPLEMENTATION MODULATES GUT MICROBIOTA AND FAECAL BILE ACID PROFILE IN HEALTHY YOUNG ADULTS: A PILOT INTERVENTION STUDY",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)04826-2/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 8,
+      "timestamp": 355.96
+    },
+    {
+      "title": "Sa1763 THE GUT MICROBIOME AS A REPORTER OF HEALTHY DIET, LIFESTYLE, FITNESS, AND OVERALL HEALTH",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)04827-4/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 9,
+      "timestamp": 408.52
+    }
+  ]
+}

@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Sat, 09 May 2026 06:13:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 06:12:39 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-05-10</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-10/podcast_2026-05-10.mp3</guid>
+      <pubDate>Sun, 10 May 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-10/podcast_2026-05-10.mp3" length="3246644" type="audio/mpeg" />
+      <description>The Common Symbiosis Signalling Pathway (CSSP), a conserved genetic module best known for enabling arbuscular mycorrhizal fungi and nitrogen‑fixing bacteria to colonize plant roots, also governs the broader root microbiome, but its influence is host‑specific. | Scutellaria baicalensis Georgi (Huangqin) and its flavonoid scutellarin markedly improve asthma symptoms in rats by reshaping the gut microbiota and altering bile‑acid profiles, according to a new study in the Journal of Ethnopharmacology indexed on PubMed. | The study examined whether the Dietary Index for Gut Microbiota (DI‑GM), a new measure of diet quality linked to gut health, relates to cognitive performance in older U.S.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>The Common Symbiosis Signalling Pathway (CSSP), a conserved genetic module best known for enabling arbuscular mycorrhizal fungi and nitrogen‑fixing bacteria to colonize plant roots, also governs the broader root microbiome, but its influence is host‑specific. | Scutellaria baicalensis Georgi (Huangqin) and its flavonoid scutellarin markedly improve asthma symptoms in rats by reshaping the gut microbiota and altering bile‑acid profiles, according to a new study in the Journal of Ethnopharmacology indexed on PubMed. | The study examined whether the Dietary Index for Gut Microbiota (DI‑GM), a new measure of diet quality linked to gut health, relates to cognitive performance in older U.S.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-05-09</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-09/podcast_2026-05-09.mp3</guid>
       <pubDate>Sat, 09 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-09/podcast_2026-05-09.mp3" length="22135916" type="audio/mpeg" />
-      <description>Gut microbes directly shape liver gene activity by targeting specific cis‑regulatory elements, according to a new PubMed‑indexed study in Molecular Cell. | A new review in Cellular Reprogramming (PubMed) reveals that the gut microbiome and its metabolites actively shape fetal development through the gut‑placental axis. | Researchers report that orally administered probiotics engineered to mimic peroxisome functions can restore gut‑microbiota balance disrupted by doxorubicin chemotherapy and reduce the drug’s cardiotoxic effects.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-09/podcast_2026-05-09.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Gut microbes directly shape liver gene activity by targeting specific cis‑regulatory elements, according to a new PubMed‑indexed study in Molecular Cell. | A new review in Cellular Reprogramming (PubMed) reveals that the gut microbiome and its metabolites actively shape fetal development through the gut‑placental axis. | Researchers report that orally administered probiotics engineered to mimic peroxisome functions can restore gut‑microbiota balance disrupted by doxorubicin chemotherapy and reduce the drug’s cardiotoxic effects.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
