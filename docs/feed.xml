@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Sun, 10 May 2026 06:12:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 06:53:20 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-05-11</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-11/podcast_2026-05-11.mp3</guid>
+      <pubDate>Mon, 11 May 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-11/podcast_2026-05-11.mp3" length="12143660" type="audio/mpeg" />
+      <description>The study examined whether the Dietary Index for Gut Microbiota (DI‑GM)—a composite score designed to capture diet quality relevant to gut health—relates to the presence of irritable bowel syndrome (IBS), its symptom severity, and inflammatory markers. | The primary aim was to test if higher or lower DI‑GM values corresponded to increased odds of IBS diagnosis, and whether the index varied with self‑reported symptom intensity or measurable inflammation. | Because the DI‑GM is presented as a novel metric for gut‑focused diet quality, the study’s contribution lies in applying this index to a well‑characterized IBS cohort and exploring its potential as a risk or severity indicator.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>The study examined whether the Dietary Index for Gut Microbiota (DI‑GM)—a composite score designed to capture diet quality relevant to gut health—relates to the presence of irritable bowel syndrome (IBS), its symptom severity, and inflammatory markers. | The primary aim was to test if higher or lower DI‑GM values corresponded to increased odds of IBS diagnosis, and whether the index varied with self‑reported symptom intensity or measurable inflammation. | Because the DI‑GM is presented as a novel metric for gut‑focused diet quality, the study’s contribution lies in applying this index to a well‑characterized IBS cohort and exploring its potential as a risk or severity indicator.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-05-10</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-10/podcast_2026-05-10.mp3</guid>
       <pubDate>Sun, 10 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-10/podcast_2026-05-10.mp3" length="3246644" type="audio/mpeg" />
-      <description>The Common Symbiosis Signalling Pathway (CSSP), a conserved genetic module best known for enabling arbuscular mycorrhizal fungi and nitrogen‑fixing bacteria to colonize plant roots, also governs the broader root microbiome, but its influence is host‑specific. | Scutellaria baicalensis Georgi (Huangqin) and its flavonoid scutellarin markedly improve asthma symptoms in rats by reshaping the gut microbiota and altering bile‑acid profiles, according to a new study in the Journal of Ethnopharmacology indexed on PubMed. | The study examined whether the Dietary Index for Gut Microbiota (DI‑GM), a new measure of diet quality linked to gut health, relates to cognitive performance in older U.S.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-10/podcast_2026-05-10.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>The Common Symbiosis Signalling Pathway (CSSP), a conserved genetic module best known for enabling arbuscular mycorrhizal fungi and nitrogen‑fixing bacteria to colonize plant roots, also governs the broader root microbiome, but its influence is host‑specific. | Scutellaria baicalensis Georgi (Huangqin) and its flavonoid scutellarin markedly improve asthma symptoms in rats by reshaping the gut microbiota and altering bile‑acid profiles, according to a new study in the Journal of Ethnopharmacology indexed on PubMed. | The study examined whether the Dietary Index for Gut Microbiota (DI‑GM), a new measure of diet quality linked to gut health, relates to cognitive performance in older U.S.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-12/podcast_2026-03-12.mp3</guid>
       <pubDate>Thu, 12 Mar 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-12/podcast_2026-03-12.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-03-11</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-11/podcast_2026-03-11.mp3</guid>
-      <pubDate>Wed, 11 Mar 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-11/podcast_2026-03-11.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
