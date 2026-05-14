@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Tue, 12 May 2026 06:29:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 06:44:39 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-05-14</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-14/podcast_2026-05-14.mp3</guid>
+      <pubDate>Thu, 14 May 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-14/podcast_2026-05-14.mp3" length="25458356" type="audio/mpeg" />
+      <description>Acarbose, the α‑glucosidase inhibitor long used to treat type 2 diabetes, can reprogram the gut microbiome’s handling of dietary carbs and thereby blunt severe allergic reactions in mice, according to a recent Nature Microbiology study. | Primary Sjögren syndrome shows a distinct gut microbiome and metabolome signature, according to a new study in Cell Reports Medicine. | The study’s core innovation lies in treating the gut microbiome as a network and asking how its topological structure relates to metabolic health in the context of obesity.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Acarbose, the α‑glucosidase inhibitor long used to treat type 2 diabetes, can reprogram the gut microbiome’s handling of dietary carbs and thereby blunt severe allergic reactions in mice, according to a recent Nature Microbiology study. | Primary Sjögren syndrome shows a distinct gut microbiome and metabolome signature, according to a new study in Cell Reports Medicine. | The study’s core innovation lies in treating the gut microbiome as a network and asking how its topological structure relates to metabolic health in the context of obesity.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-05-12</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-12/podcast_2026-05-12.mp3</guid>
       <pubDate>Tue, 12 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-12/podcast_2026-05-12.mp3" length="14977748" type="audio/mpeg" />
-      <description>Dietary polyphenols can curb atherosclerosis by simultaneously reshaping gut microbiota and bile‑acid metabolism, according to a review in Critical Reviews in Food Science and Nutrition indexed on PubMed. | Gut microbes shape bone strength by turning dietary fiber into short‑chain fatty acids that tweak immune signals and directly affect bone‑forming and bone‑resorbing cells, while exosomes shuttling molecules between gut and bone amplify this cross‑talk. | The study protocol outlines a randomized, double‑blind, placebo‑controlled trial that will test the ayurvedic formulation ‘Trikatu’ as an add‑on to standard care for patients with dyslipidemia.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-12/podcast_2026-05-12.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Dietary polyphenols can curb atherosclerosis by simultaneously reshaping gut microbiota and bile‑acid metabolism, according to a review in Critical Reviews in Food Science and Nutrition indexed on PubMed. | Gut microbes shape bone strength by turning dietary fiber into short‑chain fatty acids that tweak immune signals and directly affect bone‑forming and bone‑resorbing cells, while exosomes shuttling molecules between gut and bone amplify this cross‑talk. | The study protocol outlines a randomized, double‑blind, placebo‑controlled trial that will test the ayurvedic formulation ‘Trikatu’ as an add‑on to standard care for patients with dyslipidemia.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-14/podcast_2026-03-14.mp3</guid>
       <pubDate>Sat, 14 Mar 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-14/podcast_2026-03-14.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-03-13</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-13/podcast_2026-03-13.mp3</guid>
-      <pubDate>Fri, 13 Mar 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-13/podcast_2026-03-13.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
