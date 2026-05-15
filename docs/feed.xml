@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Thu, 14 May 2026 06:44:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 06:55:09 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-05-15</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-15/podcast_2026-05-15.mp3</guid>
+      <pubDate>Fri, 15 May 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-15/podcast_2026-05-15.mp3" length="20570132" type="audio/mpeg" />
+      <description>Long‑term exposure to hexavalent chromium (10 mg/L for 180 days) drives the persistence and spread of antibiotic resistance genes in wastewater by boosting reactive oxygen species, mobile genetic elements, and ARG‑MRG co‑occurrence. | The study reported in Cellular and Molecular Life Sciences describes a human gut microbiota β‑mannanase whose unusual molecular architecture led to the definition of a new carbohydrate‑binding module, or CBM, family. | By focusing on a prominent β‑mannanase from the gut microbiota, the authors uncovered structural features that deviate from previously characterized mannan‑acting enzymes.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Long‑term exposure to hexavalent chromium (10 mg/L for 180 days) drives the persistence and spread of antibiotic resistance genes in wastewater by boosting reactive oxygen species, mobile genetic elements, and ARG‑MRG co‑occurrence. | The study reported in Cellular and Molecular Life Sciences describes a human gut microbiota β‑mannanase whose unusual molecular architecture led to the definition of a new carbohydrate‑binding module, or CBM, family. | By focusing on a prominent β‑mannanase from the gut microbiota, the authors uncovered structural features that deviate from previously characterized mannan‑acting enzymes.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-05-14</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-14/podcast_2026-05-14.mp3</guid>
       <pubDate>Thu, 14 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-14/podcast_2026-05-14.mp3" length="25458356" type="audio/mpeg" />
-      <description>Acarbose, the α‑glucosidase inhibitor long used to treat type 2 diabetes, can reprogram the gut microbiome’s handling of dietary carbs and thereby blunt severe allergic reactions in mice, according to a recent Nature Microbiology study. | Primary Sjögren syndrome shows a distinct gut microbiome and metabolome signature, according to a new study in Cell Reports Medicine. | The study’s core innovation lies in treating the gut microbiome as a network and asking how its topological structure relates to metabolic health in the context of obesity.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-14/podcast_2026-05-14.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Acarbose, the α‑glucosidase inhibitor long used to treat type 2 diabetes, can reprogram the gut microbiome’s handling of dietary carbs and thereby blunt severe allergic reactions in mice, according to a recent Nature Microbiology study. | Primary Sjögren syndrome shows a distinct gut microbiome and metabolome signature, according to a new study in Cell Reports Medicine. | The study’s core innovation lies in treating the gut microbiome as a network and asking how its topological structure relates to metabolic health in the context of obesity.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-15/podcast_2026-03-15.mp3</guid>
       <pubDate>Sun, 15 Mar 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-15/podcast_2026-03-15.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-03-14</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-14/podcast_2026-03-14.mp3</guid>
-      <pubDate>Sat, 14 Mar 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-14/podcast_2026-03-14.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>

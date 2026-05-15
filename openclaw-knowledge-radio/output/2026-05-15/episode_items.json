@@ -1,0 +1,366 @@
+{
+  "timestamps": [
+    0.0,
+    49.34,
+    173.8,
+    220.88,
+    271.02,
+    314.69,
+    347.23,
+    393.02,
+    439.41,
+    482.63,
+    529.98,
+    624.6,
+    678.38,
+    723.69,
+    765.38,
+    813.35,
+    939.8,
+    1055.4,
+    1174.15,
+    1547.78,
+    1595.08,
+    1643.44,
+    1686.94,
+    1738.2,
+    1786.75,
+    1836.64,
+    1880.56,
+    1929.61,
+    1977.58,
+    2023.06,
+    2065.54,
+    2185.29,
+    2234.94,
+    2257.62,
+    2303.46,
+    2346.53,
+    2390.04,
+    2434.6,
+    2476.14,
+    2608.57
+  ],
+  "items": [
+    {
+      "title": "Inhibiting Cr(VI)-mediated ARG dissemination in wastewater: Synthetic antioxidant-, extracellular polymeric substance-, and nuclease-producing microbiome targeting ROS, MGEs, and ARG-MRG co-occurrence.",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.141985",
+      "source": "PubMed — Journal of hazardous materials",
+      "one_liner": "Heavy metals (HMs) trigger the sustained enrichment and dissemination of antibiotic resistance genes (ARGs) by exerting selective pressure, and there is an urgent need for effective and environmentally friendly control strategies. Herein, we found that long-term (180 d) hexavalent chromium [Cr(VI)] stress (10 mg/L) could facilitate the enrichment of multi...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Unusual molecular architecture of a human gut microbiota β-mannanase reveals a new CBM family.",
+      "url": "https://doi.org/10.1007/s00018-026-06241-x",
+      "source": "PubMed — Cellular and molecular life sciences : CMLS",
+      "one_liner": "β-mannans are plant structural and storage polysaccharides prevalent in the human diet. Their degradation in the gastrointestinal tract is mediated by the human gut microbiota (HGM) through expression of a plethora of carbohydrate-active enzymes (CAZymes), although our understanding of the details of mannan breakdown is lacking. In this study, a prominent...",
+      "segment": 1,
+      "timestamp": 49.34
+    },
+    {
+      "title": "Gut microbial-host isozymes: A novel perspective on gut microbiota-host interactions.",
+      "url": "https://doi.org/10.1016/j.isci.2026.115226",
+      "source": "PubMed — iScience",
+      "one_liner": "The interaction between gut microbiota and host health has garnered significant attention since its initial discovery. Dysbiosis of the gut microbiota is implicated in various diseases, particularly metabolic disorders such as diabetes, as well as neuro-, cardiovascular-, and hepatic-metabolic diseases. In recent years, the concept of microbial-host isozy...",
+      "segment": 2,
+      "timestamp": 173.8
+    },
+    {
+      "title": "Seagrasses host unique and vulnerable microbiomes, structured by inter-domain microbial interactions.",
+      "url": "https://doi.org/10.1016/j.isci.2026.115757",
+      "source": "PubMed — iScience",
+      "one_liner": "Seagrass meadows are vital for coastal ecosystems but are declining worldwide due to human impacts. Microbes play key roles in seagrass health, yet their diversity and functions remain poorly understood. We investigated prokaryotes and microbial eukaryotes associated with different seagrass species across multiple regions by analyzing leaves, roots, and s...",
+      "segment": 3,
+      "timestamp": 220.88
+    },
+    {
+      "title": "Exploring the diet-microbiome-growth axis among under-2-year-old children: a case-control study in East Lombok, Indonesia.",
+      "url": "https://doi.org/10.1098/rstb.2025.0045",
+      "source": "PubMed — Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+      "one_liner": "Previous studies have compared the microbiota profiles of stunted and non-stunted children. However, how these profiles interact with dietary patterns is not completely understood. To assess differences in microbial diversity, composition and bacteria taxa between stunted and non-stunted children and how the consumption of food groups influence the gut mi...",
+      "segment": 4,
+      "timestamp": 271.02
+    },
+    {
+      "title": "The physiology of poverty: gut microbiome and pathways to child stunting.",
+      "url": "https://doi.org/10.1098/rstb.2025.0034",
+      "source": "PubMed — Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+      "one_liner": "The causes of childhood stunting remain debated, with emerging evidence highlighting the complexity of poverty-related mechanisms. While nutrition, healthcare and sanitation have traditionally been viewed as the primary drivers of stunting, new research highlights the physiological mediators linking poverty to impaired growth. Chronic exposure to unsanita...",
+      "segment": 5,
+      "timestamp": 314.69
+    },
+    {
+      "title": "A meta-analysis of gut microbiome research in malnourished African populations: a natural language processing approach.",
+      "url": "https://doi.org/10.1098/rstb.2025.0038",
+      "source": "PubMed — Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+      "one_liner": "Malnutrition still affects millions of children in Africa. Changes in the gut microbiome have been implicated in malnutrition, but there has been inconsistent nomenclature of microbes. This meta-analysis reviews the microbiome literature using natural language processing (NLP) methods. We searched PubMed for gut microbiome studies of undernourished childr...",
+      "segment": 6,
+      "timestamp": 347.23
+    },
+    {
+      "title": "Is iron supplementation likely to impair linear growth and gut microbiota composition of Myanmar young children when complementary feeding is not optimized? A randomized controlled trial.",
+      "url": "https://doi.org/10.1098/rstb.2025.0042",
+      "source": "PubMed — Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+      "one_liner": "Iron deficiency, with or without anemia, remains a major public health concern among young children in Myanmar. While iron supplementation is widely recommended, its potential adverse effects on growth and gut microbiota warrant investigation, particularly in contexts of poor complementary feeding. To assess the effects of iron supplementation, with or wi...",
+      "segment": 7,
+      "timestamp": 393.02
+    },
+    {
+      "title": "Corrigendum to \"Investigating gut microbiome dysbiosis in adults with chronic kidney disease: Diabetes-induced alterations via metagenomics and qPCR\" [Life Sci. 393 (2026) 124336].",
+      "url": "https://doi.org/10.1016/j.lfs.2026.124457",
+      "source": "PubMed — Life sciences",
+      "one_liner": "",
+      "segment": 8,
+      "timestamp": 439.41
+    },
+    {
+      "title": "Gut Microbiota Dysbiosis Drives Early Alzheimer's Pathogenesis via Microglial TREM2/SYK/NF-κB Signaling Axis.",
+      "url": "https://doi.org/10.1021/acschemneuro.6c00173",
+      "source": "PubMed — ACS chemical neuroscience",
+      "one_liner": "Gut microbiota dysbiosis is implicated in Alzheimer's disease (AD), but causal evidence and mechanisms linking it to microglial dysfunction remain unclear. This study aimed to determine whether gut microbiota drives neuroinflammation and cognitive impairment via the microglial TREM2/SYK signaling axis in early AD. Using six-month-old APP/PS1 mice, fecal m...",
+      "segment": 9,
+      "timestamp": 482.63
+    },
+    {
+      "title": "The Microbiome and Esophageal Disease: Where Are We Now?",
+      "url": "https://doi.org/10.1007/s11894-026-01044-3",
+      "source": "PubMed — Current gastroenterology reports",
+      "one_liner": "PURPOSE OF REVIEW: The microbiome in the esophagus has been an area of early active investigation. In the past 5 years, advancements in next-generation sequencing and computational analysis have provided a more detailed picture of the esophageal microbiome. This review will examine the most recent advances in the past 5 years on the study of microbiome ch...",
+      "segment": 10,
+      "timestamp": 529.98
+    },
+    {
+      "title": "Neonatal intensive care unit exposures reprogram microbiome-metabolome trajectories and modulate host calprotectin in preterm infants: a longitudinal multi-omics study.",
+      "url": "https://doi.org/10.1038/s41522-026-01008-5",
+      "source": "PubMed — NPJ biofilms and microbiomes",
+      "one_liner": "Early-life gut microbiota development is critical for orchestrating mucosal barrier function and immune priming, as disruptions in this process can increase susceptibility to life-threatening diseases such as necrotizing enterocolitis (NEC) and sepsis. This longitudinal multi-omics study of 186 preterm infants (<32 weeks of gestation or <1500 g birth weig...",
+      "segment": 11,
+      "timestamp": 624.6
+    },
+    {
+      "title": "Naringin alleviates periodontitis via direct AMPK/Nrf2 activation and NLRP3 inhibition, amplified by gut microbiota/Arg-Gln modulation.",
+      "url": "https://doi.org/10.1038/s41522-026-01007-6",
+      "source": "PubMed — NPJ biofilms and microbiomes",
+      "one_liner": "Periodontitis, driven by oral-gut microbiota dysbiosis and NLRP3 inflammasome activation, lacks effective natural therapeutic strategies. This study investigated naringin (Nar), a grapefruit peel flavonoid, using ligature-induced periodontitis in rats and LPS-stimulated RAW264.7 cells. Nar treatment significantly reduced alveolar bone loss, inhibited NLRP...",
+      "segment": 12,
+      "timestamp": 678.38
+    },
+    {
+      "title": "Parental microbiome programming of early-life neurodevelopment: multi-niche contributions through the microbiome-gut-brain axis.",
+      "url": "https://doi.org/10.1080/19490976.2026.2673888",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "The microbiota-gut-brain axis (MGBA) is a central pathway through which gut microbial communities influence neurodevelopment via immune, metabolic, and neural signalling. Early life, spanning preconception through infancy, represents a particularly sensitive window during which parental microbiomes exert disproportionate influence on offspring gut coloniz...",
+      "segment": 13,
+      "timestamp": 723.69
+    },
+    {
+      "title": "Integrative host transcriptomic and mucosal microbiome profiling reveals region-specific host-microbiome associations across the human intestine",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.05.13.725025",
+      "source": "bioRxiv — genomics",
+      "one_liner": "Host genetics shapes gut microbiome composition, yet the physiological mechanisms underlying this relationship remain poorly understood. Characterizing associations between host gene expression and the mucosal microbiome offers a promising route to identifying the host pathways and microbial taxa most likely to interact physiologically. However, existing ...",
+      "segment": 14,
+      "timestamp": 765.38
+    },
+    {
+      "title": "Milk exosomes attenuate OVA-induced food allergy by regulating the Th1/Th2 balance and remodeling the gut microbiota.",
+      "url": "https://doi.org/10.1039/d6fo00469e",
+      "source": "PubMed — Food & function",
+      "one_liner": "To address the rising incidence of food allergy (FA), there is an urgent need to develop effective prevention and treatment strategies. This study represents the first investigation into the immunomodulatory effects of milk-derived exosomes (M-Exo) in an ovalbumin (OVA)-induced FA mouse model. Results showed that M-Exo ameliorated allergy-induced hypother...",
+      "segment": 15,
+      "timestamp": 813.35
+    },
+    {
+      "title": "Effects of different galactans on DSS-induced colitis and the gut microbiota.",
+      "url": "https://doi.org/10.1039/d6fo00058d",
+      "source": "PubMed — Food & function",
+      "one_liner": "Bioactive galactans are widely distributed in nature, with some extensively reported for their potential in modulating the gut microbiota and intestinal inflammation. However, the efficacy of different galactans in ameliorating colitis remains unclear. Our study systematically compared the effects of three nonlinear galactans (",
+      "segment": 16,
+      "timestamp": 939.8
+    },
+    {
+      "title": "A cross-sectional study of supragingival microbiome depending on age in Korean population.",
+      "url": "https://doi.org/10.1038/s41598-026-47336-6",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "Age is a key factor influencing the composition of the oral microbiome, but its age-related dynamics remain unclear as most studies focus on specific age groups or disease-related changes. The objective of this study was to characterize age-related differences in the supragingival microbiome. Supragingival plaque samples were collected from 533 participan...",
+      "segment": 17,
+      "timestamp": 1055.4
+    },
+    {
+      "title": "Barley extrudates modulate the gut microbiome-metabolome axis",
+      "url": "https://doi.org/10.1039/d6fo00601a",
+      "source": "PubMed — Food & function",
+      "one_liner": "Barley is rich in fermentable dietary fiber and phenolic compounds, both of which have recognized benefits for gut health and whose functionality is influenced by processing. Here, four barley genotypes differing in β-glucan content, type of starch, and phenolic profiles were extruded to obtain ready-to-eat products, which were then evaluated using a comb...",
+      "segment": 18,
+      "timestamp": 1174.15
+    },
+    {
+      "title": "[Research progress on the effects of maternal gut microbiota in gestational obesity on offspring and potential mechanisms].",
+      "url": "https://doi.org/10.7499/j.issn.1008-8830.2509116",
+      "source": "PubMed — Zhongguo dang dai er ke za zhi = Chinese journal of contemporary pediatrics",
+      "one_liner": "The number of women with gestational obesity has been increasing year by year and is a serious global challenge. Maternal obesity during pregnancy not only leads to gestational diabetes, hypertension, preterm birth, and miscarriage, but also adversely affects offspring growth and development after birth by increasing the risk of offspring obesity and othe...",
+      "segment": 19,
+      "timestamp": 1547.78
+    },
+    {
+      "title": "Gut microbiome-related tryptophan metabolites modulate drug transporters, with prominent effects on OAT1 and OAT3.",
+      "url": "https://doi.org/10.1016/j.taap.2026.117868",
+      "source": "PubMed — Toxicology and applied pharmacology",
+      "one_liner": "The gut microbiome plays a key role in tryptophan metabolism by directly generating indole derivatives and indirectly modulating the host-driven kynurenine pathway via microbial metabolites. In this study, we examined the effects of 12 gut microbiome-related tryptophan metabolites on major drug transporters. In vitro assays using transporter-overexpressin...",
+      "segment": 20,
+      "timestamp": 1595.08
+    },
+    {
+      "title": "Gut Microbiome Modulation of Opioid Reinforcement in Preclinical Models: Microbial Regulation of Reward and Motivation.",
+      "url": "https://doi.org/10.1016/j.brainresbull.2026.111938",
+      "source": "PubMed — Brain research bulletin",
+      "one_liner": "Emerging evidence indicates that the gut microbiome modulates opioid-related behaviors through bidirectional communication with mesolimbic reward circuitry. Preclinical studies show that antibiotic-induced microbiome depletion, germ-free conditions, and developmental microbial disruption alter opioid reward and reinforcement in animal models. Rather than ...",
+      "segment": 21,
+      "timestamp": 1643.44
+    },
+    {
+      "title": "Metabolic profiling of Gegen-Qinlian Decoction and its modified formula in gut microbiota from healthy individuals and ulcerative colitis patients with different syndromes using UHPLC-QTOF-MS/MS and an in vitro incubation model.",
+      "url": "https://doi.org/10.1016/j.jpba.2026.117338",
+      "source": "PubMed — Journal of pharmaceutical and biomedical analysis",
+      "one_liner": "The efficacy of Gegen-Qinlian Decoction (GQD) and its modified formula (MGQD) against ulcerative colitis (UC) with damp-heat syndrome (UC-DHS) is closely linked to gut microbiota-mediated biotransformation. Using UHPLC-QTOF-MS/MS, this study profiled GQD and MGQD in artificial gastrointestinal fluids (AGF) and after incubation with gut microbiota from hea...",
+      "segment": 22,
+      "timestamp": 1686.94
+    },
+    {
+      "title": "Subacute dimethylated monothioarsenate (DMMTA) exposure induces hepatotoxicity and disrupts the gut microbiota-bile acid-liver axis: A multi-omics study in mice.",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.142031",
+      "source": "PubMed — Journal of hazardous materials",
+      "one_liner": "Dimethylated monothioarsenate (DMMTA), an emerging thiolated organic arsenical frequently detected in rice, exhibits in vitro cytotoxicity comparable to trivalent inorganic arsenic. However, its in vivo hepatotoxicity and underlying mechanisms remain largely unknown. Here, a 28-day subacute DMMTA exposure study was conducted in C57BL/6 mice, integrating h...",
+      "segment": 23,
+      "timestamp": 1738.2
+    },
+    {
+      "title": "Antibiotic-mediated Gut Microbiota Depletion Partially Attenuates Methamphetamine-induced Reward and Linoleic Acid Metabolic Disturbance.",
+      "url": "https://doi.org/10.1016/j.neuropharm.2026.111022",
+      "source": "PubMed — Neuropharmacology",
+      "one_liner": "Methamphetamine (METH) is a highly addictive psychostimulant that possesses potent toxicity to multiple organs. Emerging evidence has suggested associations between gut microbiota dysbiosis and METH-induced rewarding effects. However, the role and underlying mechanisms of gut microbiota in METH addiction remain poorly understood. Using a mouse conditioned...",
+      "segment": 24,
+      "timestamp": 1786.75
+    },
+    {
+      "title": "Fine structural features of polysaccharides and gut microbiota Co-regulate mucin O-glycosylation: Mechanisms and advances.",
+      "url": "https://doi.org/10.1016/j.carbpol.2025.124859",
+      "source": "PubMed — Carbohydrate polymers",
+      "one_liner": "Mucin O-glycosylation is a key mechanism maintaining intestinal homeostasis and involving complex crosstalk between mucin glycan structures and microbial metabolism. Polysaccharides, as primary carbon sources for gut microbes, exert structure-dependent effects-through monosaccharide composition, glycosidic linkages, molecular weight, branching patterns, a...",
+      "segment": 25,
+      "timestamp": 1836.64
+    },
+    {
+      "title": "Analysis of gut microbiota and intestinal secondary bile acids metabolism in rats after short-term antibiotic treatment.",
+      "url": "https://doi.org/10.1016/j.jpba.2026.117365",
+      "source": "PubMed — Journal of pharmaceutical and biomedical analysis",
+      "one_liner": "Antibiotics have a profound impact on the overall taxonomic composition of gut microbiota. As gut microbiota influence host bile acids metabolism, changes in the composition of gut microbiota induced by antibiotics are certain to alter host bile acids profile. However, the differences in the effects of various antibiotics on bile acids metabolism and thei...",
+      "segment": 26,
+      "timestamp": 1880.56
+    },
+    {
+      "title": "Harnessing the gut-heart axis for cardiovascular drug innovation: microbiome, metabolites, and personalized treatment strategies.",
+      "url": "https://doi.org/10.1016/j.cca.2026.120941",
+      "source": "PubMed — Clinica chimica acta; international journal of clinical chemistry",
+      "one_liner": "Cardiovascular disease (CVD) remains the leading cause of mortality worldwide despite major advances in pharmacotherapy. Emerging evidence reveals a pivotal role for the gut-heart axis, wherein gut microbiota are and their metabolites influence CV physiology, pathology, and drug responsiveness. Dysbiosis in conditions such as hypertension, atherosclerosis...",
+      "segment": 27,
+      "timestamp": 1929.61
+    },
+    {
+      "title": "Periodontitis in Patients With Severe Obesity: From the Oral and Gut Microbiota Dysregulation to the Visceral Adipose Tissue Inflammatory and Metabolic Disorders.",
+      "url": "https://doi.org/10.1096/fj.202600054R",
+      "source": "PubMed — FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "one_liner": "During periodontitis, pathogenic oral bacteria like Porphyromonas gingivalis may exert systemic effects directly by translocating into the bloodstream and indirectly by deregulating the gut microbiota, aggravating obesity-related complications. This study aimed to evaluate the links between the periodontal infection, the oral and gut microbiota compositio...",
+      "segment": 28,
+      "timestamp": 1977.58
+    },
+    {
+      "title": "Harnessing the immune system in lung cancer: emerging role of the microbiome.",
+      "url": "https://doi.org/10.1080/1744666X.2026.2661805",
+      "source": "PubMed — Expert review of clinical immunology",
+      "one_liner": "INTRODUCTION: The microbiome has emerged as a critical regulator of tumor biology and immune response in lung cancer. Once considered sterile, the lung is now recognized to harbor a diverse microbiome that interacts with the gut - lung axis to shape inflammation, immune evasion, and therapeutic outcomes. AREAS COVERED: This study reviews current evidence ...",
+      "segment": 29,
+      "timestamp": 2023.06
+    },
+    {
+      "title": "Impact of lifestyle on salivary microbiota composition and antibiotic resistance in adult periodontitis patients.",
+      "url": "https://doi.org/10.1007/s10482-026-02336-4",
+      "source": "PubMed — Antonie van Leeuwenhoek",
+      "one_liner": "Adult periodontitis is a chronic inflammatory disease characterized by microbial dysbiosis and host-microbe imbalance in the oral cavity. In this study, the composition and antibiotic susceptibility of the salivary microbiota in adults with mild periodontitis were analyzed to emphasize the influence of lifestyle factors on microbial ecology and resistance...",
+      "segment": 30,
+      "timestamp": 2065.54
+    },
+    {
+      "title": "Chinese bayberry exosome-like nanoparticles attenuate DSS-induced colitis via immunomodulation, barrier restoration, and microbiota remodeling.",
+      "url": "https://doi.org/10.1038/s41538-026-00880-x",
+      "source": "PubMed — NPJ science of food",
+      "one_liner": "Inflammatory bowel disease (IBD) is a chronic intestinal disorder characterized by intestinal barrier dysfunction and immune dysregulation, with limited safe and effective therapeutic options available. Owing to their biocompatibility and bioactivity, plant exosome-like nanoparticles (PELNs) have emerged as promising natural nanotherapeutics. In this stud...",
+      "segment": 31,
+      "timestamp": 2185.29
+    },
+    {
+      "title": "A fungal pathobiont promotes Streptococcus vaginal persistence and pathogenesis through physical and metabolic interactions.",
+      "url": "https://doi.org/10.1016/j.chom.2026.04.013",
+      "source": "PubMed — Cell host & microbe",
+      "one_liner": "Group B Streptococcus (GBS) frequently colonizes the vagina asymptomatically, where the bacterium interacts with a complex microbial community. During pregnancy, colonization can trigger adverse outcomes and neonatal invasive infection. Using an adapted murine model of vaginal colonization, we show that the human pathobiont Candida albicans supports GBS f...",
+      "segment": 32,
+      "timestamp": 2234.94
+    },
+    {
+      "title": "From dysbacteriosis to ecological remodeling: A new breakthrough in microbial treatment of inflammatory bowel disease.",
+      "url": "https://doi.org/10.1016/j.isci.2026.115483",
+      "source": "PubMed — iScience",
+      "one_liner": "Inflammatory bowel disease (IBD) is a group of chronic and recurrent inflammatory conditions of the gastrointestinal tract, arising from complex interactions among genetic susceptibility, environmental factors, immune dysregulation, and alterations in the gut microbiota. Increasing evidence suggests that gut microbiota dysbiosis is closely associated with...",
+      "segment": 33,
+      "timestamp": 2257.62
+    },
+    {
+      "title": "Immune-mediated microbial interference governs",
+      "url": "https://doi.org/10.1016/j.isci.2026.115628",
+      "source": "PubMed — iScience",
+      "one_liner": "The tick gut represents a dynamic environment where various ecological and molecular factors, including interactions between the tick innate immune system and its resident microbiota, govern the success of pathogen colonization. Yet, the mechanisms by which these microbial communities shape pathogen infection dynamics remain unclear. Here, we demonstrate ...",
+      "segment": 34,
+      "timestamp": 2303.46
+    },
+    {
+      "title": "Live and heat-treated",
+      "url": "https://doi.org/10.1016/j.isci.2026.115516",
+      "source": "PubMed — iScience",
+      "one_liner": "Probiotics and postbiotics are distinguished by bacterial viability, a factor that fundamentally influences their interactions with the host. Despite this distinction, how bacterial viability shapes host responses remains unclear because direct comparisons using identical strains are technically challenging. Here, we systematically compared the responses ...",
+      "segment": 35,
+      "timestamp": 2346.53
+    },
+    {
+      "title": "Small intestinal microbiota in Zambian children with stunting and severe acute malnutrition.",
+      "url": "https://doi.org/10.1098/rstb.20250088",
+      "source": "PubMed — Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+      "one_liner": "Childhood malnutrition is linked to gut microbiome changes; however, most studies focus on faecal samples, while less is known about the small intestinal microbiome. Here, we characterized the duodenal microbiota of children in Zambia with severe acute malnutrition (SAM) and stunting and compared the microbiomes of stunted children living across the globe...",
+      "segment": 36,
+      "timestamp": 2390.04
+    },
+    {
+      "title": "The prebiotic inulin affects virulence factor expression in",
+      "url": "https://doi.org/10.1128/mbio.03851-25",
+      "source": "PubMed — mBio",
+      "one_liner": "Dietary supplementation with prebiotics such as inulin has been associated with a broad range of health benefits. However, the effects of inulin on the opportunistic fungal pathogen",
+      "segment": 37,
+      "timestamp": 2434.6
+    },
+    {
+      "title": "Bifidobacterium-driven immunoglobulin A production in pediatric patients with IgA deficiency and recurrent respiratory tract infections.",
+      "url": "https://doi.org/10.1186/s40168-026-02382-0",
+      "source": "PubMed — Microbiome",
+      "one_liner": "BACKGROUND: Immunoglobulin A (IgA) deficiency is the most common primary antibody deficiency and contributes to recurrent respiratory tract infections (rRTIs) in children, with prevalence rates in this group ranging from 1:4 to 1:65. Previous studies in healthy humans and animals suggest that the gut microbiota significantly influences IgA production. We ...",
+      "segment": 38,
+      "timestamp": 2476.14
+    },
+    {
+      "title": "Multimodal anti-Helicobacter pylori effects of Lactobacillus casei HY001: Evidence from in vitro and in vivo studies.",
+      "url": "https://doi.org/10.1371/journal.pone.0349099",
+      "source": "PubMed — PloS one",
+      "one_liner": "Helicobacter pylori (H. pylori) is a highly pathogenic microorganism that can cause various gastric diseases. Accumulating evidences have demonstrated probiotics' potential in combating H. pylori infections. The aim of this study was to explore the effects and underlying mechanism of Lactobacillus casei (L. casei) HY001 against the gastric inflammation an...",
+      "segment": 39,
+      "timestamp": 2608.57
+    }
+  ]
+}
