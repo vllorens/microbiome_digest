@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Sat, 16 May 2026 06:06:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 06:27:29 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-05-17</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-17/podcast_2026-05-17.mp3</guid>
+      <pubDate>Sun, 17 May 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-17/podcast_2026-05-17.mp3" length="5217140" type="audio/mpeg" />
+      <description>Antenatal depressive symptoms can harm a child’s neurodevelopment by disrupting the mother’s gut microbiota during pregnancy, according to a study in Gut Microbes. | Antenatal depressive symptoms harm offspring neurodevelopment by disrupting the mother’s gut microbiota during pregnancy, according to a multicenter prospective cohort of 2,053 pregnant women published in Gut Microbes via PubMed. | Researchers show that the acetylation degree of konjac glucomannan directly shapes its impact on gut microbiota and prediabetic outcomes.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Antenatal depressive symptoms can harm a child’s neurodevelopment by disrupting the mother’s gut microbiota during pregnancy, according to a study in Gut Microbes. | Antenatal depressive symptoms harm offspring neurodevelopment by disrupting the mother’s gut microbiota during pregnancy, according to a multicenter prospective cohort of 2,053 pregnant women published in Gut Microbes via PubMed. | Researchers show that the acetylation degree of konjac glucomannan directly shapes its impact on gut microbiota and prediabetic outcomes.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-05-16</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-16/podcast_2026-05-16.mp3</guid>
       <pubDate>Sat, 16 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-16/podcast_2026-05-16.mp3" length="14636756" type="audio/mpeg" />
-      <description>Sulfated Cyclocarya paliurus polysaccharide reprograms the gut microbiome to trigger host production of the lipid mediator 12‑HEPE, which alleviates colitis in mice. | The study examines how SARS‑CoV‑2 infection alters the gut microbiome in people with long COVID and whether the repurposed drug montelukast can modify those changes. | Neighborhood deadwood and yard rewilding modulate commensal microbiomes and inflammatory signals among urbanites.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-16/podcast_2026-05-16.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Sulfated Cyclocarya paliurus polysaccharide reprograms the gut microbiome to trigger host production of the lipid mediator 12‑HEPE, which alleviates colitis in mice. | The study examines how SARS‑CoV‑2 infection alters the gut microbiome in people with long COVID and whether the repurposed drug montelukast can modify those changes. | Neighborhood deadwood and yard rewilding modulate commensal microbiomes and inflammatory signals among urbanites.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-17/podcast_2026-03-17.mp3</guid>
       <pubDate>Tue, 17 Mar 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-17/podcast_2026-03-17.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-03-16</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-16/podcast_2026-03-16.mp3</guid>
-      <pubDate>Mon, 16 Mar 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-16/podcast_2026-03-16.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
