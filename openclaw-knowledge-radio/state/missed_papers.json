@@ -46,8 +46,15 @@
     "title": "Metatranscriptomic analysis of the microbiota of tumor tissue in colon cancer",
     "url": "https://link.springer.com/article/10.1186/s40168-026-02372-2",
     "date_submitted": "2026-05-18",
-    "processed": false,
-    "diagnosis": null,
-    "keywords_added": []
+    "processed": true,
+    "diagnosis": "source_not_in_rss",
+    "keywords_added": [
+      "metatranscriptomic",
+      "analysis",
+      "microbiota",
+      "tumor",
+      "tissue"
+    ],
+    "rss_feed_found": ""
   }
 ]

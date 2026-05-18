@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Sun, 17 May 2026 06:27:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 05:22:40 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -22,10 +22,10 @@
       <title>Daily Podcast 2026-05-17</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-17/podcast_2026-05-17.mp3</guid>
       <pubDate>Sun, 17 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-17/podcast_2026-05-17.mp3" length="5217140" type="audio/mpeg" />
-      <description>Antenatal depressive symptoms can harm a child’s neurodevelopment by disrupting the mother’s gut microbiota during pregnancy, according to a study in Gut Microbes. | Antenatal depressive symptoms harm offspring neurodevelopment by disrupting the mother’s gut microbiota during pregnancy, according to a multicenter prospective cohort of 2,053 pregnant women published in Gut Microbes via PubMed. | Researchers show that the acetylation degree of konjac glucomannan directly shapes its impact on gut microbiota and prediabetic outcomes.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-17/podcast_2026-05-17.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Antenatal depressive symptoms can harm a child’s neurodevelopment by disrupting the mother’s gut microbiota during pregnancy, according to a study in Gut Microbes. | Antenatal depressive symptoms harm offspring neurodevelopment by disrupting the mother’s gut microbiota during pregnancy, according to a multicenter prospective cohort of 2,053 pregnant women published in Gut Microbes via PubMed. | Researchers show that the acetylation degree of konjac glucomannan directly shapes its impact on gut microbiota and prediabetic outcomes.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
