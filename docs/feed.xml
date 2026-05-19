@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Mon, 18 May 2026 07:17:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 07:07:08 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-05-19</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-19/podcast_2026-05-19.mp3</guid>
+      <pubDate>Tue, 19 May 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-19/podcast_2026-05-19.mp3" length="17714876" type="audio/mpeg" />
+      <description>The study shows that shifts in the gut microbiome can reshape the bile‑acid pool, and that these altered bile acids then influence skin cells in psoriasis. | What remains unclear from the provided notes are the experimental details that connect FXR activation to NQO1 signaling—such as whether NQO1 acts as a transcriptional co‑factor, an oxidative‑stress sensor, or another intermediary—and the precise lipid‑metabolic readouts that were altered in the keratinocytes. | Inorganic nitrogen utilization capacity (IN‑uc) of gut microbes is a decisive factor that determines whether donor microbiota successfully engraft after fecal microbiota transplantation for ulcerative colitis, according to a new study in Nature Communications.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>The study shows that shifts in the gut microbiome can reshape the bile‑acid pool, and that these altered bile acids then influence skin cells in psoriasis. | What remains unclear from the provided notes are the experimental details that connect FXR activation to NQO1 signaling—such as whether NQO1 acts as a transcriptional co‑factor, an oxidative‑stress sensor, or another intermediary—and the precise lipid‑metabolic readouts that were altered in the keratinocytes. | Inorganic nitrogen utilization capacity (IN‑uc) of gut microbes is a decisive factor that determines whether donor microbiota successfully engraft after fecal microbiota transplantation for ulcerative colitis, according to a new study in Nature Communications.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-05-18</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-18/podcast_2026-05-18.mp3</guid>
       <pubDate>Mon, 18 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-18/podcast_2026-05-18.mp3" length="16965764" type="audio/mpeg" />
-      <description>Inorganic nitrogen metabolic reprogramming of the gut microbiome underlies the therapeutic success of fecal microbiota transplantation for ulcerative colitis, according to a study highlighted in Nature’s Microbiome Topic. | Lactobacillus helveticus strain 20 838 can restore both vaginal and gut microbiomes and reduce dysbiosis caused by Gardnerella vaginalis overgrowth, according to a study in The ISME Journal accessed via PubMed. | A comparative analysis of the urinary microbiome has pinpointed several bacterial strains that show promise as probiotics against urinary tract infections.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-18/podcast_2026-05-18.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Inorganic nitrogen metabolic reprogramming of the gut microbiome underlies the therapeutic success of fecal microbiota transplantation for ulcerative colitis, according to a study highlighted in Nature’s Microbiome Topic. | Lactobacillus helveticus strain 20 838 can restore both vaginal and gut microbiomes and reduce dysbiosis caused by Gardnerella vaginalis overgrowth, according to a study in The ISME Journal accessed via PubMed. | A comparative analysis of the urinary microbiome has pinpointed several bacterial strains that show promise as probiotics against urinary tract infections.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-19/podcast_2026-03-19.mp3</guid>
       <pubDate>Thu, 19 Mar 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-19/podcast_2026-03-19.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-03-18</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-18/podcast_2026-03-18.mp3</guid>
-      <pubDate>Wed, 18 Mar 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-18/podcast_2026-03-18.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>

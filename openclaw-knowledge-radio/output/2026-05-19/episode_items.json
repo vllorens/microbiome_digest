@@ -1,0 +1,258 @@
+{
+  "timestamps": [
+    0.0,
+    103.44,
+    149.32,
+    261.23,
+    374.36,
+    421.8,
+    470.45,
+    518.68,
+    561.38,
+    677.24,
+    804.82,
+    848.52,
+    882.67,
+    926.52,
+    1035.06,
+    1072.21,
+    1118.12,
+    1163.81,
+    1562.54,
+    1604.66,
+    1650.21,
+    1692.04,
+    1744.5,
+    2146.42,
+    2192.26,
+    2237.54,
+    2284.94,
+    2333.82
+  ],
+  "items": [
+    {
+      "title": "Gut microbiota-induced perturbation in bile acids alter keratinocyte lipid metabolism via FXR-NQO1 signaling in psoriasis.",
+      "url": "https://doi.org/10.1038/s41467-026-72417-5",
+      "source": "PubMed — Nature communications",
+      "one_liner": "Emerging evidence has shown that microbiota dysbiosis and aberrant bile acid (BA) profiles are correlated with disease progression. This study elucidates dysregulated BA metabolism in psoriasis patients and imiquimod-treated female mice, coupled with increased expression of the farnesoid X receptor (FXR) in keratinocytes. Activation of FXR by glycochenode...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Inorganic nitrogen metabolic reprogramming of the gut microbiome drives fecal microbiota transplantation in ulcerative colitis.",
+      "url": "https://doi.org/10.1038/s41467-026-73290-y",
+      "source": "PubMed — Nature communications",
+      "one_liner": "Although fecal microbiota transplantation (FMT) shows promise for ulcerative colitis (UC), its clinical success appears to be contingent upon the degree of donor microbiota engraftment. Using an LD50-based ecological model, our study reveals that inorganic nitrogen utilization capacity (IN-uc) critically determines gut microbial assembly in high oxidative...",
+      "segment": 1,
+      "timestamp": 103.44
+    },
+    {
+      "title": "Healthcare professionals' knowledge of probiotics, prebiotics, and the gut microbiota - the city of Kénitra, Morocco: A pilot study.",
+      "url": "https://doi.org/10.32394/rpzh/220380",
+      "source": "PubMed — Roczniki Panstwowego Zakladu Higieny",
+      "one_liner": "BACKGROUND: In scientific literature, it is relatively rare to find information on healthcare professionals' current knowledge of probiotics, prebiotics, and gut microbiota. OBJECTIVE: The aim of our study was to assess healthcare professionals' knowledge of gut microbiota, probiotics, and prebiotics in the city of Kénitra, Morocco. MATERIAL AND METHODS: ...",
+      "segment": 2,
+      "timestamp": 149.32
+    },
+    {
+      "title": "Correction to: Investigating the therapeutic effects of caffeine‑naringenin combination on the repair of intestinal permeability and composition of gut microbiota in obese rats under long‑term high‑fat diet.",
+      "url": "https://doi.org/10.1007/s00210-026-05456-w",
+      "source": "PubMed — Naunyn-Schmiedeberg's archives of pharmacology",
+      "one_liner": "",
+      "segment": 3,
+      "timestamp": 261.23
+    },
+    {
+      "title": "Distinct microbiome signatures associated with wing polyphenism in the wing-dimorphic planthopper Nilaparvata lugens.",
+      "url": "https://doi.org/10.1016/j.jinsphys.2026.104994",
+      "source": "PubMed — Journal of insect physiology",
+      "one_liner": "Wing polyphenism is crucial for the ecological adaptation of the wing-dimorphic planthopper Nilaparvata lugens, yet its underlying association with symbiotic microbiota remains poorly understood. Here, we investigated three N. lugens strains (Field, HSD, and Lab) exhibiting stable but distinct macropterous-to-brachypterous ratios. 16S rRNA amplicon sequen...",
+      "segment": 4,
+      "timestamp": 374.36
+    },
+    {
+      "title": "Multi-site microbiomes' response to chronic obstructive pulmonary disease.",
+      "url": "https://doi.org/10.1128/spectrum.00007-26",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "This study aimed to evaluate changes in the oral, nasal, pulmonary, and gut microbiota in patients with chronic obstructive pulmonary disease (COPD) and to explore their interrelationships compared with the healthy group. This study included 33 COPD patients and 29 healthy individuals. A total of 162 oral, nasal, sputum, and fecal samples were obtained. T...",
+      "segment": 5,
+      "timestamp": 421.8
+    },
+    {
+      "title": "Low-Molecular-Weight Fraction of Ripe Pu-erh Tea Protects against Alcohol-Induced Gastric Injury via Gut Microbiota-Dependent Modulation.",
+      "url": "https://doi.org/10.1021/acs.jafc.6c01237",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "Excessive alcohol intake is a major cause of acute alcoholic gastric injury (AGI), yet effective dietary preventive strategies remain limited. Here, ripe Pu-erh tea extract was fractionated into three membrane-separated fractions (T1-T3) and evaluated in preventive and therapeutic mouse models of AGI. The low-molecular-weight fraction T3 (<300 kDa), obtai...",
+      "segment": 6,
+      "timestamp": 470.45
+    },
+    {
+      "title": "Associations of personal solar UV exposure with gut microbiota diversity and BMI among preschool children in China.",
+      "url": "https://doi.org/10.1515/jpem-2025-0631",
+      "source": "PubMed — Journal of pediatric endocrinology & metabolism : JPEM",
+      "one_liner": "OBJECTIVES: Solar ultraviolet radiation (UVR) exposure has been recognized as a modulator of metabolic health, ranging from indirect effects on physical activity and lifestyle to direct biological impact on energy metabolism. This study examines the relationship between personal UVR exposure and BMI in preschool children in China, with a focus on the medi...",
+      "segment": 7,
+      "timestamp": 518.68
+    },
+    {
+      "title": "Benchmarking short- and long-read sequencing technologies for metagenomic profiling of microbiomes.",
+      "url": "https://doi.org/10.1038/s41598-026-49725-3",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "Two culture-independent methods, amplicon-based sequencing and shotgun metagenomics, have significantly advanced the study of microbial communities. To date, short-read sequencing technologies have enabled high accuracy and deep coverage, while long-read sequencing approaches are increasingly being applied to improve genome assembly, despite challenges re...",
+      "segment": 8,
+      "timestamp": 561.38
+    },
+    {
+      "title": "Complementary Microscopic and Metabarcoding Studies Allow for a Better Understanding of the Symbiotic Microbiome of Leafhopper Species Iassus lanio (Hemiptera, Cicadellidae).",
+      "url": "https://doi.org/10.1007/s00248-026-02790-7",
+      "source": "PubMed — Microbial ecology",
+      "one_liner": "Leafhoppers' microbiome patterns were shaped by deep co-evolutionary adaptation driven by dietary specialization. Their microbiome is dominated by obligate symbionts that supplement their nutrient-poor phloem-sap diet, as well as facultative symbionts, including both bacterial and fungal microorganisms. In this study, NGS metabarcoding techniques were per...",
+      "segment": 9,
+      "timestamp": 677.24
+    },
+    {
+      "title": "Protein yogurt and whey protein produce comparable muscle gains, but divergent microbiome shifts during strength training in older adults.",
+      "url": "https://doi.org/10.1038/s41598-026-51209-3",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "Sarcopenia, the age-related decline in muscle mass and strength, affects the functional capacity of older adults. Strength training (ST) combined with adequate protein intake is a key element in reversing and improving functional capacity. Protein, especially Whey Protein isolates (WPI), is widely used to improve muscle mass. In contrast, high-protein pro...",
+      "segment": 10,
+      "timestamp": 804.82
+    },
+    {
+      "title": "Effects of Fat-Soluble Vitamins on Gut Microbiome Composition: A Scoping Review.",
+      "url": "https://doi.org/10.1093/nutrit/nuag065",
+      "source": "PubMed — Nutrition reviews",
+      "one_liner": "As the gut microbiome emerges as a key player in human health, numerous studies have reported its close association with various diseases. Consequently, increasing attention has been given to exploring whether fat-soluble vitamins can modulate gut microbiome composition as a potential strategy to maintain microbial balance. This scoping review aimed to in...",
+      "segment": 11,
+      "timestamp": 848.52
+    },
+    {
+      "title": "Core Microbiota Drives Host-Specific Growth Enhancement: Evidence in a Harmful Algal Bloom Causing Dinoflagellate",
+      "url": "https://doi.org/10.1021/acs.est.6c05294",
+      "source": "PubMed — Environmental science & technology",
+      "one_liner": "Bacterial microbiota influence algal growth and physiology, yet experimental validation in toxic benthic dinoflagellates remains limited. Here, we investigated the microbiota of six geographically distinct strains of the harmful benthic dinoflagellate",
+      "segment": 12,
+      "timestamp": 882.67
+    },
+    {
+      "title": "Cardiolipin preserves T",
+      "url": "https://doi.org/10.1038/s42255-026-01533-9",
+      "source": "PubMed — Nature metabolism",
+      "one_liner": "Loss of host-microbiota balance promotes gut inflammation, colitis and inflammatory bowel disease. Yet, whether host or microbial factors are the critical driver of the pathology remains unclear. Here, we investigate how cardiolipin maintains metabolic fitness of regulatory T (T",
+      "segment": 13,
+      "timestamp": 926.52
+    },
+    {
+      "title": "Publisher Correction: Microbiota-induced T cell plasticity enables immune-mediated tumour control.",
+      "url": "https://doi.org/10.1038/s41586-026-10649-7",
+      "source": "PubMed — Nature",
+      "one_liner": "",
+      "segment": 14,
+      "timestamp": 1035.06
+    },
+    {
+      "title": "Microbial ecology: Rise of the planet of the microbes.",
+      "url": "https://doi.org/10.1016/j.cub.2026.03.072",
+      "source": "PubMed — Current biology : CB",
+      "one_liner": "A long-standing tenet of microbiology is that Earth's microbiomes are structured by environment, not geography. In a new study, Kim et al. report the largest metagenomic analysis yet performed, revealing that microbial generalists transcend these boundaries, ferrying genes - including antibiotic resistance determinants - across ecologically distant habitats.",
+      "segment": 15,
+      "timestamp": 1072.21
+    },
+    {
+      "title": "Biotics: The Food Ingredients Supporting the Intestinal Microbiota and Immune System in Psoriasis.",
+      "url": "https://doi.org/10.1093/nutrit/nuaf252",
+      "source": "PubMed — Nutrition reviews",
+      "one_liner": "Psoriasis is a chronic immune-mediated inflammatory skin disease affecting 4 million new individuals worldwide each year. Although the etiology of psoriasis is not fully understood, genetic factors play a key role in conjunction with systemic inflammation and gut microbiota dysbiosis. Current methods of psoriasis treatment, while effective, may cause adve...",
+      "segment": 16,
+      "timestamp": 1118.12
+    },
+    {
+      "title": "Fungicide Chlorothalonil Exposure Induced Intestinal Impairment via the Microbiota/Sphinganine/Ferroptosis Axis.",
+      "url": "https://doi.org/10.1021/acs.jafc.6c01962",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "Chlorothalonil is linked to gastrointestinal toxicity, but its underlying mechanisms remain unclear. This study investigated the chlorothalonil-induced intestinal injury in mice. Histological analysis showed epithelial damage and goblet cell depletion. Chlorothalonil disrupted the gut microbiota, including the depletion of",
+      "segment": 17,
+      "timestamp": 1163.81
+    },
+    {
+      "title": "Metagenomic profiling of bacterial (16S) and fungal (ITS) communities on d'Anjou pears during long-term controlled-atmosphere storage.",
+      "url": "https://doi.org/10.1128/spectrum.04117-25",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "D'Anjou pears are routinely stored for up to nine months under controlled-atmosphere (CA) conditions to meet market demands. While this practice maintains fruit quality, limited information exists on pears' natural microbiota throughout storage. The objective of this study was to describe fungal and bacterial composition on marketable and unmarketable con...",
+      "segment": 18,
+      "timestamp": 1562.54
+    },
+    {
+      "title": "Upper and Lower Respiratory Tract Compartmentalization in Pediatric Stem Cell Transplantation.",
+      "url": "https://doi.org/10.1093/ajrcmb/aanag106",
+      "source": "PubMed — American journal of respiratory cell and molecular biology",
+      "one_liner": "RATIONALE: Lung injury after hematopoietic stem cell transplantation (HCT) occurs due to infection, chemotherapy toxicity, and alloreactive inflammation. Analyses of bronchoalveolar lavage (BAL) fluid have revealed dominant pathobiologic signatures, but minimally-invasive diagnostics are needed. OBJECTIVES: To determine whether microbiome and gene express...",
+      "segment": 19,
+      "timestamp": 1604.66
+    },
+    {
+      "title": "Competition between commensal protists shapes gut mucosal immunity in mice.",
+      "url": "https://doi.org/10.1128/mbio.00802-26",
+      "source": "PubMed — mBio",
+      "one_liner": "UNLABELLED: Intestinal protists are emerging as key modulators of host immunity and microbial ecology, yet their impact on mammalian hosts remains poorly defined. Here, we investigated the role of two distinct protists, the amoeba IMPORTANCE: Single-cell parasites called protists are common in mammalian intestinal tracts, yet their modulation of the host ...",
+      "segment": 20,
+      "timestamp": 1650.21
+    },
+    {
+      "title": "Microbial community and water quality changes associated with the disease occurrence in northern snakehead (Channa argus) aquaculture ponds.",
+      "url": "https://doi.org/10.1016/j.cbd.2026.101868",
+      "source": "PubMed — Comparative biochemistry and physiology. Part D, Genomics & proteomics",
+      "one_liner": "Prokaryotic and eukaryotic communities in aquaculture water play critical roles in fish health, yet their relationships with water quality during disease outbreaks remain poorly understood. Addressing this critical knowledge gap, this study provides novel insights by systematically profiling the concurrent shifts in both prokaryotic and eukaryotic microbi...",
+      "segment": 21,
+      "timestamp": 1692.04
+    },
+    {
+      "title": "Multi-omics characterization of new and aged Daqu reveals region-specific microbial succession and metabolic signatures in Maotai-flavor liquor fermentation.",
+      "url": "https://doi.org/10.1128/spectrum.03775-25",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "Daqu is an essential fermentation starter that drives the formation of the characteristic flavor of Maotai-flavor liquor, yet the ecological and metabolic mechanisms underlying its regional differentiation and maturation remain poorly resolved. Here, we performed genome-resolved metagenomic and untargeted metabolomic analyses on 48 new and aged Daqu sampl...",
+      "segment": 22,
+      "timestamp": 1744.5
+    },
+    {
+      "title": "485 MATERNAL FOOD ADDITIVE INTAKE REPROGRAM OFFSPRING IMMUNITY VIA GUT MICROBIOTA-INDUCED IMPAIRMENT OF HISTIDINE METABOLISM (MOMMY-IBD STUDY)",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)02352-8/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 23,
+      "timestamp": 2146.42
+    },
+    {
+      "title": "Su1187 ASSOCIATION BETWEEN DIETARY INDEX FOR GUT MICROBIOTA AND GASTROESOPHAGEAL REFLUX DISEASE: A PROSPECTIVE COHORT STUDY",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)02072-X/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 24,
+      "timestamp": 2192.26
+    },
+    {
+      "title": "Tu1421 ROLE OF GUT MICROBIOTA IN PREDICTION OF RECURRENCE OF ADVANCED COLORECTAL NEOPLASIA: A PROSPECTIVE COLONOSCOPY STUDY",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)01314-4/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 25,
+      "timestamp": 2237.54
+    },
+    {
+      "title": "Mol450 PROGRESSIVE GUT MICROBIOTA DYBIOSIS AND STAGE-SPECIFIC MICROBIAL SIGNATURES ACROSS COLORECTAL ADENOMA DEVELOPMENT REVEALED BY SHOTGUN METAGENOMICS",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)01187-X/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 26,
+      "timestamp": 2284.94
+    },
+    {
+      "title": "Mo1420 ENGRAFTMENT AND MICROBIOME AND METABOLOME RESTORATION IN CDI-SCOPE, A PHASE 3B TRIAL OF FECAL MICROBIOTA, LIVE-JSLM ADMINISTERED BY COLONOSCOPY FOR PREVENTION OF RECURRENT CLOSTRIDIOIDES DIFFICILE INFECTION",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)01157-1/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 27,
+      "timestamp": 2333.82
+    }
+  ]
+}
