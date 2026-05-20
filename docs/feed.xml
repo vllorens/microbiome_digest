@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Tue, 19 May 2026 07:07:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 07:12:52 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-05-20</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-20/podcast_2026-05-20.mp3</guid>
+      <pubDate>Wed, 20 May 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-20/podcast_2026-05-20.mp3" length="20400692" type="audio/mpeg" />
+      <description>Integrated analyses of host genetics and gut microbiota provide mechanistic insights into feed efficiency in ducks, according to a study published in the Journal of Animal Science and Biotechnology. | Chronic wounds are characterized by delayed healing driven by persistent dysbiosis of the wound microbiome. | The same source notes that emerging evidence indicates probiotics can… but the available text does not provide details on what specific actions probiotics exert, which strains are involved, how they are delivered, or what clinical outcomes have been observed.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Integrated analyses of host genetics and gut microbiota provide mechanistic insights into feed efficiency in ducks, according to a study published in the Journal of Animal Science and Biotechnology. | Chronic wounds are characterized by delayed healing driven by persistent dysbiosis of the wound microbiome. | The same source notes that emerging evidence indicates probiotics can… but the available text does not provide details on what specific actions probiotics exert, which strains are involved, how they are delivered, or what clinical outcomes have been observed.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-05-19</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-19/podcast_2026-05-19.mp3</guid>
       <pubDate>Tue, 19 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-19/podcast_2026-05-19.mp3" length="17714876" type="audio/mpeg" />
-      <description>The study shows that shifts in the gut microbiome can reshape the bile‑acid pool, and that these altered bile acids then influence skin cells in psoriasis. | What remains unclear from the provided notes are the experimental details that connect FXR activation to NQO1 signaling—such as whether NQO1 acts as a transcriptional co‑factor, an oxidative‑stress sensor, or another intermediary—and the precise lipid‑metabolic readouts that were altered in the keratinocytes. | Inorganic nitrogen utilization capacity (IN‑uc) of gut microbes is a decisive factor that determines whether donor microbiota successfully engraft after fecal microbiota transplantation for ulcerative colitis, according to a new study in Nature Communications.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-19/podcast_2026-05-19.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>The study shows that shifts in the gut microbiome can reshape the bile‑acid pool, and that these altered bile acids then influence skin cells in psoriasis. | What remains unclear from the provided notes are the experimental details that connect FXR activation to NQO1 signaling—such as whether NQO1 acts as a transcriptional co‑factor, an oxidative‑stress sensor, or another intermediary—and the precise lipid‑metabolic readouts that were altered in the keratinocytes. | Inorganic nitrogen utilization capacity (IN‑uc) of gut microbes is a decisive factor that determines whether donor microbiota successfully engraft after fecal microbiota transplantation for ulcerative colitis, according to a new study in Nature Communications.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-20/podcast_2026-03-20.mp3</guid>
       <pubDate>Fri, 20 Mar 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-20/podcast_2026-03-20.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-03-19</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-19/podcast_2026-03-19.mp3</guid>
-      <pubDate>Thu, 19 Mar 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-19/podcast_2026-03-19.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
