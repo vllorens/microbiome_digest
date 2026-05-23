@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Thu, 21 May 2026 07:02:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 06:37:49 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-05-23</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-23/podcast_2026-05-23.mp3</guid>
+      <pubDate>Sat, 23 May 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-23/podcast_2026-05-23.mp3" length="25201316" type="audio/mpeg" />
+      <description>High‑resolution metagenomic characterization of gut microbiota composition and functional pathways in irritable bowel syndrome was the focus of a recent study published in *Scientific Reports*. | The available text does not provide details on the cohort size, demographic characteristics of participants, sequencing depth, or specific bioinformatic pipelines used for assembly, annotation, or statistical testing. | What is clear from the title and the brief background is the study’s rationale: IBS is a common functional gastrointestinal disorder marked by abdominal pain, altered bowel habits, and frequent comorbidity with anxiety and depression.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>High‑resolution metagenomic characterization of gut microbiota composition and functional pathways in irritable bowel syndrome was the focus of a recent study published in *Scientific Reports*. | The available text does not provide details on the cohort size, demographic characteristics of participants, sequencing depth, or specific bioinformatic pipelines used for assembly, annotation, or statistical testing. | What is clear from the title and the brief background is the study’s rationale: IBS is a common functional gastrointestinal disorder marked by abdominal pain, altered bowel habits, and frequent comorbidity with anxiety and depression.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-05-21</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-21/podcast_2026-05-21.mp3</guid>
       <pubDate>Thu, 21 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-21/podcast_2026-05-21.mp3" length="11730956" type="audio/mpeg" />
-      <description>Researchers report that specific strains of the human gut microbiota can remove glucuronide groups from quercetin metabolites, releasing the active aglycone and influencing its bioavailability. | Postoperative constipation patients often show altered bowel‑movement frequency alongside shifts in gut microbiota and heightened emotional distress, according to a Gastroenterology report indexed in PubMed. | Xin‑Ru Wang’s mSphere of Influence piece reflects on how a recent gut‑microbiota study changed her view of tick‑borne pathogens.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-21/podcast_2026-05-21.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Researchers report that specific strains of the human gut microbiota can remove glucuronide groups from quercetin metabolites, releasing the active aglycone and influencing its bioavailability. | Postoperative constipation patients often show altered bowel‑movement frequency alongside shifts in gut microbiota and heightened emotional distress, according to a Gastroenterology report indexed in PubMed. | Xin‑Ru Wang’s mSphere of Influence piece reflects on how a recent gut‑microbiota study changed her view of tick‑borne pathogens.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-22/podcast_2026-03-22.mp3</guid>
       <pubDate>Sun, 22 Mar 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-22/podcast_2026-03-22.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-03-21</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-21/podcast_2026-03-21.mp3</guid>
-      <pubDate>Sat, 21 Mar 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-21/podcast_2026-03-21.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>

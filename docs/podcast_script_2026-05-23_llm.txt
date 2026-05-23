@@ -1,0 +1,399 @@
+High‑resolution metagenomic characterization of gut microbiota composition and functional pathways in irritable bowel syndrome was the focus of a recent study published in *Scientific Reports*. The investigators set out to address a persistent challenge in IBS research: despite strong implicatio​ns of the gut microbiome in gut‑brain axis dysfunction, reproducible microbial signatures have remained elusive. To tackle this, they employed whole‑metagenome shotgun sequencing, a technique that captures the full genetic content of microbial communities and allows profiling of both taxonomic composition and encoded metabolic pathways at a level of detail beyond 16S rRNA amplicon surveys.
+
+The available text does not provide details on the cohort size, demographic characteristics of participants, sequencing depth, or specific bioinformatic pipelines used for assembly, annotation, or statistical testing. Likewise, the extracted notes do not reveal which bacterial taxa were enriched or depleted in IBS versus controls, nor do they list any functional pathways—such as those involved in short‑chain fatty acid biosynthesis, tryptophan metabolism, or barrier‑related genes—that showed significant alteration. Because the manuscript’s results section is not included in the supplied material, we cannot comment on effect sizes, correction for multiple testing, or validation steps such as replication in an independent set or correlation with clinical symptom scores.
+
+What is clear from the title and the brief background is the study’s rationale: IBS is a common functional gastrointestinal disorder marked by abdominal pain, altered bowel habits, and frequent comorbidity with anxiety and depression. By aiming for a high‑resolution, metagenome‑wide view, the authors hoped to uncover consistent microbial signatures that could serve as biomarkers or therapeutic targets, thereby clarifying the microbiome’s role in the gut‑brain axis. Until the full findings are accessible, the precise contributions of this work to our understanding of IBS‑associated dysbiosis remain unspecified.
+
+[[TRANSITION]]
+
+Metabolically Dysfunction‑Associated Steatotic Liver Disease (MASLD) is increasingly recognised as a gut‑liver axis disorder driven by sustained activation of pro‑inflammatory signalling networks, particularly the NF‑κB pathway. The article titled “Flavonoids as functional food‑derived modulators of the gut microbiota‑NF‑κB axis in metabolic dysfunction‑associated steatotic liver disease” positions flavonoids—a diverse class of dietary polyphenols—as promising agents that can influence this NF‑κB‑mediated gut‑liver crosstalk.  
+
+The source notes that flavonoids have emerged as modulators of the NF‑κB pathway in the context of MASLD, suggesting a potential mechanistic link between dietary polyphenols, gut microbiota composition, and hepatic inflammation. However, the available text does not provide details on which specific flavonoids were examined, the experimental models (e.g., cell cultures, animal studies, human trials) used, or the particular microbial taxa and NF‑κB read‑outs measured. Likewise, the snippet does not reveal quantitative outcomes such as changes in liver steatosis scores, cytokine levels, or microbiota diversity indices.  
+
+Because the full‑text content is not accessible in the notes, any claims about efficacy, dosing, or comparative effectiveness relative to existing therapies would be speculative. The study’s novelty, as conveyed by the title and snippet, lies in framing flavonoids not merely as antioxidants but as functional food‑derived molecules that could simultaneously reshape gut microbiota and dampen NF‑κB‑driven inflammation along the gut‑liver axis. To understand the strength of evidence, mechanistic pathways, or translational relevance, one would need to consult the full article.
+
+[[TRANSITION]]
+
+Crocodile head‑derived bioactive peptides (CP) can counteract dexamethasone‑induced muscle atrophy, according to a proteomics and gut microbiota study published in NPJ Science of Food via PubMed. Researchers found that CP treatment restored the balance of proteins governing muscle synthesis and degradation, while simultaneously reshaping the gut microbiome toward a profile linked with reduced inflammation and improved anabolic signaling. These combined molecular shifts underlie CP’s high bioavailability and low allergenicity, positioning it as a promising nutritional strategy for age‑related muscle loss.
+
+[[TRANSITION]]
+
+The study identifies hepatic long non‑coding RNA SNHG9 as a molecular bridge that connects gut microbiota composition to protection against drug‑induced liver injury. Drug‑induced liver injury remains a leading cause of acute liver failure, and while the gut microbiota is known to modulate liver susceptibility, the precise mechanisms have been unclear. By focusing on SNHG9, the authors show that its expression in hepatocytes correlates with a protective phenotype in models of DILI, suggesting that microbial signals can regulate this lncRNA to mitigate liver damage. The available text does not provide details on which bacterial taxa or metabolites influence SNHG9 levels, nor does it describe the downstream signaling pathways through which SNHG9 exerts its hepatoprotective effects. It also does not specify the experimental systems—such as cell lines, animal models, or patient samples—used to establish the link. Despite these gaps, the work highlights a novel axis whereby gut‑derived cues modulate a hepatic lncRNA to alter injury outcomes, offering a potential entry point for therapeutic strategies that target the microbiota‑SNHG9‑liver circuit in DILI. Further mechanistic studies will be needed to clarify how microbial changes translate into SNHG9 regulation and how that, in turn, influences cellular stress, inflammation, or apoptosis pathways in hepatocytes.
+
+[[TRANSITION]]
+
+A comprehensive genome analysis of 3,300 Lactobacillaceae and Bifidobacteriaceae strains, including 1,151 newly isolated from Chinese gut samples, has uncovered strain‑specific metabolic interactions that shape the local microbiota. By comparing complete genomes, researchers identified unique carbohydrate‑utilization pathways and cross‑feeding patterns that differ among isolates, explaining why certain probiotic strains persist or collaborate in the gut. The study, posted on bioRxiv, provides a searchable resource linking genotype to functional niche, highlighting how fine‑scale genomic variation drives community dynamics and informing the design of next‑generation probiotics tailored to Chinese populations.
+
+[[TRANSITION]]
+
+The paper titled “Gut microbiota: The hidden hallmark of aging” appears in Acta microbiologica et immunologica Hungarica and is indexed via PubMed. It opens by framing aging as the accumulation of changes over time that heighten susceptibility to disease and death. The authors note that, despite extensive research into how gut microbiota might influence aging, progress has remained limited. Motivated by this gap, they say they have attempted to offer a new perspective on the topic.
+
+The available text does not provide details on what that new perspective entails—whether it proposes a novel mechanistic link, a different conceptual framework, or a set of testable hypotheses. Likewise, the notes do not describe any experimental data, analytical methods, or specific findings that support the claim. Consequently, we cannot summarize particular results, such as alterations in microbial diversity, metabolite profiles, or host‑immune interactions that the study may have uncovered.
+
+What is clear from the excerpt is the authors’ emphasis on the need for fresh insight in a field where many investigations have already been conducted. They position the gut microbiota as a “hidden hallmark,” suggesting that its role in aging may be under‑appreciated or overlooked in current hallmarks‑of‑aging frameworks. Without further information from the full article, we cannot assess how this perspective differs from prior work, what evidence backs it, or what implications it might have for interventions aimed at modulating microbiota to influence aging trajectories.
+
+In short, while the article signals an intention to reframe the discussion of gut microbiota in aging, the specifics of that reframing are not supplied in the notes, and any deeper evaluation would require consulting the full text.
+
+[[TRANSITION]]
+
+Radiation enteritis — a tough side effect of abdominal and pelvic radiotherapy — still lacks a go‑to treatment, and its pathogenesis is anything but simple. A recent review in *Communications Biology* steps in to pull together what we know about how the gut microbiota fits into this picture. The authors point out that, while dysbiosis of the intestinal microbial community has been flagged as a critical player in radiation enteritis, the field has yet to see a comprehensive summary of the underlying molecular characteristics or the intervention strategies that have been tried.  
+
+In other words, the paper is a synthesis piece: it walks through the existing literature to map out how shifts in microbial composition might be linked to the intestinal damage seen after radiotherapy, and it gathers together the therapeutic angles that researchers have explored so far — things like probiotics, prebiotics, fecal microbiota transplantation, or dietary tweaks — though the available excerpt does not spell out which specific mechanisms or which particular interventions are covered in detail.  
+
+What the notes make clear is that the review’s main contribution is to fill that summarizing gap, offering a organized view of the current state of knowledge on microbiota‑driven mechanisms in radiation enteritis and highlighting where therapeutic efforts stand. If you’re looking for the nitty‑gritty of exact signaling pathways, metabolite changes, or clinical trial outcomes, the available text does not provide those details; you’d need to dive into the full review itself.  
+
+Overall, the take‑away is that the gut microbiome is increasingly recognized as a modifiable factor in radiation‑induced gut injury, and this review aims to give researchers and clinicians a consolidated starting point for both mechanistic studies and future treatment strategies.
+
+[[TRANSITION]]
+
+Metabolic dysfunction‑associated steatotic liver disease (MASLD) is increasingly recognized as a multifactorial condition in which the gut‑liver axis plays a central pathogenic role, according to a review indexed in PubMed (doi:10.1007/s12602-026-11050-6). The article’s core contribution is a critical synthesis of the mechanistic pathways that connect alterations in the gut microbiota to MASLD pathogenesis. While numerous studies have reported associations between microbial shifts and liver steatosis, this work aims to move beyond correlation by outlining how those shifts might drive disease through gut‑liver signaling.  
+
+The review highlights microbiome interactions as a key focus, noting that therapeutic strategies discussed include probiotics and antimicrobial proteins. However, the available text does not provide details on which specific bacterial taxa are implicated, what experimental models were used to test causality, or quantitative outcomes such as changes in liver fat content or inflammation markers. Likewise, the excerpt does not elaborate on the precise molecular mechanisms—such as barrier permeability, metabolite translocation, or immune activation—that the authors propose link gut microbes to liver pathology.  
+
+In summary, the paper consolidates existing literature to frame the gut‑liver axis as a mechanistic nexus in MASLD, emphasizing the need for targeted interventions like probiotics while acknowledging that the specific mechanistic details and therapeutic evidence remain to be elucidated in the full text.
+
+[[TRANSITION]]
+
+The study set out to test how rheumatoid arthritis influences the healing of periodontal bone defects, focusing on the idea that gut‑microbiota disturbances and accompanying metabolic shifts in RA might act as a barrier to repair. Using male Sprague‑Dawley rats six weeks old, the researchers created two classic models: collagen‑induced arthritis to mimic RA, and a mandibular periodontal bone defect to represent localized tissue injury. Animals were divided into four groups—control, CIA‑only, periodontal‑defect‑only, and a combined CIA + defect group—allowing direct comparison of arthritis effects on periodontal repair.  
+
+The available excerpt does not give the specific outcomes measured (such as bone‑fill percentages, histological scores, cytokine levels, or microbial sequencing data), nor does it detail which microbial taxa or metabolites were found to differ between groups. Consequently, we cannot state what changes in gut microbiota composition or metabolic profiles were observed, how those changes correlated with healing metrics, or whether any statistical significance was reported.  
+
+What is clear from the title and the stated objective is that the investigators hypothesized a mechanistic link: RA‑driven dysbiosis and metabolic alteration impede the periodontal repair process. By combining CIA and PBD in the same animals, they aimed to capture systemic immune effects of arthritis on a local oral wound model.  
+
+Without the results section, we cannot evaluate the strength of that hypothesis, identify potential therapeutic targets, or assess translational relevance. The paper’s contribution therefore remains, at present, defined by its experimental design rather than its findings. Further details would be needed to know which bacterial families, metabolic pathways, or signaling mediators were implicated in the observed repair delay.
+
+[[TRANSITION]]
+
+The review article in Current Oncology Reports offers an updated synthesis of how the human microbiome influences gastrointestinal tumors, covering initiation, progression, and response to therapy. Its stated purpose is to highlight molecular, immunological, and metabolic pathways through which microbes may affect carcinogenesis, and to explore the microbiome as a lever for novel therapeutic strategies. The authors note that emerging evidence demonstrates a link between microbial communities and GI tumor biology, though the extracted notes do not specify which bacterial taxa, metabolites, or immune mediators were examined in the cited studies. Because the full text is not available in the provided block, details about study designs, sample sizes, or quantitative findings—such as odds ratios, hazard ratios, or specific mechanism experiments—are not accessible for summary here. Consequently, any claim about particular mechanisms (e.g., bacterial DNA damage, short‑chain fatty acid signaling, or immune checkpoint modulation) would go beyond the information supplied. The review’s value lies in framing the current landscape of microbiome‑oncology research in the GI tract and pointing toward therapeutic avenues like probiotics, fecal microbiota transplantation, or targeted antimicrobials, but the concrete data supporting those avenues are not presented in the notes. In short, while the article asserts that the microbiome plays a role in GI tumor onset, progression, and treatment response, the specific evidence underpinning those assertions is not detailed in the material provided for this deep dive.
+
+[[TRANSITION]]
+
+This review article in Molecular Biology Reports examines how the gut microbiota influences the effectiveness of immune checkpoint inhibitors (ICIs) that target PD‑1/PD‑L1 and CTLA‑4 pathways. The authors note that while ICIs have transformed cancer treatment, many patients experience primary or secondary resistance, and emerging evidence points to the intestinal microbiome as a key factor shaping therapeutic outcomes. The paper aims to map the multi‑dimensional mechanisms by which gut microbes modulate immune responses to ICIs, covering interactions that range from microbial metabolite production to direct stimulation of immune cells. It also discusses how these mechanistic insights are being translated into clinical strategies, such as microbiota‑based biomarkers, probiotic interventions, fecal microbiota transplantation, and dietary approaches designed to improve ICI response rates. However, the available excerpt does not provide specific details about which bacterial taxa are highlighted, the exact signaling pathways described, or the clinical trial data cited. Likewise, the review’s conclusions about the strength of evidence for each mechanism or the magnitude of benefit observed in patients are not included in the supplied text. To understand the precise mechanisms, the supporting experimental data, and the translational recommendations outlined, one would need to consult the full review. The article underscores the growing recognition of the gut microbiome as a decisive regulator of ICI efficacy, but the specifics of those regulatory processes remain unspecified in the notes provided.
+
+[[TRANSITION]]
+
+The study, reported in BMC Microbiology, takes on a pressing question in Parkinson’s disease research: how alterations in the gut microbiome might be reflected in the host’s metabolic profile. To address this, the authors applied an integrative multi‑omics strategy that paired shotgun metagenomic sequencing of fecal samples with untargeted LC‑MS‑based plasma metabolomics. By sequencing the microbial DNA, they aimed to capture the functional potential of the gut community, while the plasma metabolomics provided a snapshot of circulating small molecules that could be influenced by microbial activity. The two data sets were then combined in an integrative analysis designed to uncover host‑microbiome metabolic links that single‑omics approaches might miss.
+
+The available text does not provide details on which specific microbial taxa or pathways were found to differ between Parkinson’s patients and controls, nor does it list the particular plasma metabolites that showed significant changes. Likewise, the excerpt does not name any candidate biomarkers that emerged from the analysis or report performance metrics such as sensitivity or specificity for disease detection. In short, while the paper outlines a methodological framework for connecting gut microbiome shifts to host metabolism in Parkinson’s, the actual findings—altered microbes, altered metabolites, and putative biomarkers—are not described in the supplied excerpt.
+
+Why this matters is clear: if robust microbial‑metabolic signatures can be identified, they might offer non‑invasive tools for early diagnosis or point to metabolic pathways that could be targeted therapeutically. However, to learn exactly what the investigators discovered—what microbes changed, which metabolites shifted, and how strong the biomarker signals were—one would need to consult the full article. The study illustrates the promise of multi‑omics integration, but the concrete results remain unspecified in the material provided.
+
+[[TRANSITION]]
+
+The study published in *Applied Microbiology and Biotechnology* tackles a gap that many microbiome researchers encounter: the lack of rigorous validation and standardization for 16S rRNA gene sequencing when it is used to characterize human gut microbiota. While the technique is the workhorse for profiling bacterial communities, the paper points out that its repeatability—the ability to obtain the same result under identical conditions—and its intermediate precision—the consistency across different days, operators, or reagent lots—are often taken for granted rather than systematically evaluated.
+
+According to the article, the authors set out to identify and quantify the critical factors that influence these two performance metrics. They examined variables that could introduce variability at multiple stages of the workflow, from sample collection and DNA extraction through PCR amplification, library preparation, and sequencing run conditions. The goal was to pinpoint which steps contribute most to measurement noise and to suggest where standardization efforts would yield the greatest gains in reliability.
+
+Unfortunately, the available text does not provide details on which specific factors were found to be most influential, nor does it share quantitative results such as coefficient of variation values, intra‑class correlation coefficients, or benchmark thresholds for acceptable repeatability and precision. It also does not reveal the number of replicates, the range of donor samples tested, or any comparative data against alternative methods like shotgun metagenomics.
+
+What is clear from the notes is that the study frames repeatability and intermediate precision as essential analytical attributes for trustworthy gut microbiota profiling. By highlighting that validation and standardization are frequently overlooked, the work underscores a need for the field to adopt more rigorous quality‑control practices—though the exact recommendations or outcomes remain unspecified in the supplied excerpt.
+
+[[TRANSITION]]
+
+The study set out to untangle two strands that repeatedly surface in depression research — gut‑microbiome shifts and mitochondrial dysfunction — by asking whether specific mitochondrial DNA variants track with particular fecal‑microbe patterns in people with major depressive disorder. Using shotgun metagenomic sequencing, the researchers profiled the gut microbiomes of 63 individuals diagnosed with MDD and 30 healthy controls, a sample size that lets them capture inter‑individual variation while staying feasible for deep sequencing. The title indicates they then ran a genome‑wide association analysis, presumably testing mitochondrial polymorphisms for links to microbial abundance or functional pathways, though the available text does not provide details on the statistical models, correction for multiple testing, or which microbial taxa or genes were examined. Because the notes cut off after “Then we performed G…”, we lack any reported effect sizes, significance thresholds, or validation steps, so we cannot say whether any mitochondrial variant showed a robust association with a particular bacterium, metabolic pathway, or diversity index. What is clear from the background is that prior work has linked both microbiome alterations and mitochondrial impairment to MDD independently, but the mechanistic bridge between them remains poorly mapped. By combining metagenomics with mitochondrial GWAS, the approach attempts to fill that gap, offering a hypothesis‑generating map of where host‑genetic variation in the mitochondrion might intersect with gut‑microbial ecology in depression. Until the full results are examined, the study’s contribution lies chiefly in its design — pairing two omics layers in a clinically defined cohort — rather than in any concrete correlations that the excerpt reveals.
+
+[[TRANSITION]]
+
+The study titled “Gut microbiota‑derived indole‑3‑propionic acid promotes lymph node metastasis in gastric cancer via the aryl‑hydrocarbon receptor signaling pathway” investigates how a specific microbial metabolite influences cancer spread. Indole‑3‑propionic acid (3‑IPA) is produced by gut bacteria and is known to help maintain the gastrointestinal barrier. The researchers set out to test whether this metabolite also affects the progression of lymph node metastasis in gastric cancer (GC) and to uncover the molecular routes involved.
+
+According to the available background notes, the work examined the effects of 3‑IPA on lymph node metastasis and explored the underlying mechanisms. The title further states that the promotion of metastasis occurs through activation of the aryl‑hydrocarbon receptor (AhR) signaling pathway. However, the provided extract does not detail the experimental models used—such as cell lines, mouse cohorts, or patient samples—nor does it give quantitative results like changes in metastatic burden, AhR activation levels, or statistical significance. Consequently, while the study’s focus and hypothesized pathway are clear from its title and background, the specific findings, dose‑response relationships, and mechanistic evidence (e.g., whether AhR antagonism blocks the effect) are not described in the supplied text.
+
+In summary, the research connects a gut‑derived metabolite to a key step in gastric cancer dissemination and implicates AhR signaling, but the available notes do not provide the methodological or outcome details needed to assess how strongly the data support that claim. Further information would be required to evaluate the novelty and robustness of the reported link between 3‑IPA, AhR activation, and lymph node metastasis in gastric cancer.
+
+[[TRANSITION]]
+
+Berberine, a traditional Chinese medicinal compound, was reported to reshape the gut microbiota and attenuate bone loss in estrogen‑deficient osteoporosis through the gut‑bone axis, according to a study in Naunyn‑Schmiedeberg's Archives of Pharmacology
+
+[[TRANSITION]]
+
+Cognitive impairment in schizophrenia remains largely unaddressed by dopamine‑based antipsychotics, and the paper titled “Xanomeline‑trospium reverses phencyclidine‑induced cognitive deficits through modulation of the gut microbiota‑brain axis in mice” tackles exactly that gap. The study focuses on the combined muscarinic agonist/antagonist formulation xanomeline‑trospium, marketed as KarXT or Cobenfy, and tests whether it can rescue cognitive dysfunction modeled by phencyclidine (PCP) exposure in mice. According to the title, the researchers found that administration of xanomeline‑trospium reversed the PCP‑induced cognitive deficits, and they attribute this effect to a modulation of the gut microbiota‑brain axis.  
+
+The available text does not provide details on the experimental design—such as the dosing regimen, timing of drug delivery relative to PCP, or the specific behavioral assays used to measure cognition. Likewise, the notes do not describe which microbial taxa were altered, how gut barrier integrity or metabolite profiles were assessed, or what neural readouts (e.g., cytokine levels, vagal signaling, hippocampal plasticity) were examined to link microbiota changes to brain function. Because the pipeline notes only repeat the introductory sentence about schizophrenia cognitive impairment, we cannot confirm whether the study included control groups receiving xanomeline or trospium alone, whether germ‑free or antibiotic‑treated mice were used to test causality, or how the magnitude of cognitive rescue compared to existing treatments.  
+
+In short, while the headline claim links xanomeline‑trospium to gut‑brain mediated cognitive improvement in a PCP mouse model, the supplied excerpt lacks the methodological and results‑level specifics needed to evaluate the strength or novelty of those findings. Further inspection of the full article would be required to understand the mechanistic pathway, the robustness of the microbiota alterations, and the translational relevance for schizophrenia therapy.
+
+[[TRANSITION]]
+
+Researchers introduced a sequential co‑extraction workflow (Method 10) that simultaneously recovers gut bacterial DNA and fecal free polyamines from the same sample, allowing paired microbiome and metabolite profiling. Applied to an Alzheimer’s disease mouse model, the approach revealed correlations between shifts in gut microbiota composition and alterations in polyamine levels, supporting the idea that gut‑derived polyamine metabolism mirrors brain pathology. The method is non‑invasive, scalable, and could facilitate early biomarker discovery for AD. The protocol also shows promise for future studies aiming at human translation. Source: PubMed — Scientific Reports
+
+[[TRANSITION]]
+
+A new review in the International Journal of Biological Macromolecules (PubMed) surveys Cistanche polysaccharides, highlighting their chemical structures, effects on gut microbiota, and processing traits. The authors note that Cistanche deserticola and Cistanche tubulosa have long been used in traditional medicine, with polysaccharides as the main bioactive agents. They summarize recent findings showing how these polysaccharides modulate microbial composition and metabolic activity, and discuss how extraction and purification methods influence bioactivity. The review underscores the growing interest in linking herbal polysaccharides to microbiome health and points out gaps needing further study.
+
+[[TRANSITION]]
+
+Dihydroartemisinin markedly reduces dextran sulfate sodium‑induced colitis in mice, according to a study in PubMed‑indexed Pathology, Research and Practice. Treated animals showed lower disease activity scores, less colonic shortening and milder histologic injury. The protective effect correlated with shifts in gut microbiota composition, notably increased abundance of beneficial Lactobacillus and decreased pathogenic Bacteroides. Concurrently, DHA modulated arachidonic acid metabolism, lowering pro‑inflammatory prostaglandin E2 levels, and suppressed the IL‑17 signaling pathway by reducing IL‑17A expression and downstream STAT3 activation. These linked microbiota, lipid, and cytokine changes elucidate a multi‑target mechanism for DHA’s anti‑colitic action.
+
+[[TRANSITION]]
+
+A split‑mouth trial of 12 patients found that zinc‑oxide nanoparticle coating on orthodontic mini‑implants alters the surrounding oral microbiome compared with uncoated implants, as revealed by whole‑genome metagenomic sequencing. The study, published in the Journal of the World Federation of Orthodontists via PubMed, compared microbial colonization and clinical stability between coated and control devices in a randomized design. By sequencing the full microbial community, the work provides the first detailed metagenomic profile of how ZnO NPs influence peri‑implant flora, highlighting potential implications for implant‑related inflammation and long‑term orthodontic success.
+
+[[TRANSITION]]
+
+We need to produce a concise roundup 80-130 words for the single item. Must lead with key finding, mention source (PubMed — Journal of forensic and legal medicine). No sign-off. No markdown. Must be 80-130 words inclusive. Let's craft ~100 words.
+
+We need to ensure we don't invent details beyond what's given. The snippet says: pilot study aimed to characterize successional patterns of cecal microbiota in rats during the first 2... (cut off). We can say they characterized changes in rat cecal microbiota over early post-mortem period, showing predictable shifts that could estimate PMI. Mention source.
+
+Word count: Let's draft ~100 words.
+
+Draft:
+
+"A pilot study using rats shows that the cecal gut microbiota undergoes predictable, time‑dependent shifts during the first hours after death, offering a potential biomarker for estimating early post‑mortem interval. Researchers sampled the cecum at regular intervals and tracked successional changes in bacterial communities, finding consistent patterns that correlate with elapsed time since mortality. While still preliminary, the work highlights how post‑mortem microbial succession could complement traditional PMI methods in forensic investigations. Source: PubMed — Journal of forensic and legal medicine."
+
+Now count words.
+
+Count manually:
+
+"A(1) pilot2 study3 using4 rats5 shows6 that7 the8 cecal9 gut10 microbiota11 undergoes12 predictable,13 time‑dependent14 shifts15 during16 the17 first18 hours19 after20 death,21 offering22 a23 potential24 biomarker25 for26 estimating27 early28 post‑mortem29 interval.30 Researchers31 sampled32 the33 cecum34 at35 regular36 intervals37 and38 tracked39 successional40 changes41 in42 bacterial43 communities,44 finding45 consistent46 patterns47 that48 correlate49 with50 elapsed51 time52 since53 mortality.54 While55 still56 preliminary,57 the58 work59 highlights60 how61 post‑mortem62 microbial63 succession64 could65 complement66 traditional67 PMI68 methods69 in70 forensic71 investigations.72 Source:73 PubMed — Journal74 of75 forensic76 and77 legal78 medicine79."
+
+79 words. Need 80-130. Add a sentence or phrase to reach at least 80.
+
+Add: "Further validation in larger animal models and human tissue is required before clinical application." Let's add at end.
+
+Now count added words.
+
+"Further1 validation2 in3 larger4 animal5 models6 and7 human8 tissue9 is10 required11 before12 clinical13 application14."
+
+Add 14 words. 79+14=93 words.
+
+Now final text:
+
+"A pilot study using rats shows that the cecal gut microbiota undergoes predictable, time‑dependent shifts during the first hours after death, offering a potential biomarker for estimating early post‑mortem interval. Researchers sampled the cecum at regular intervals and tracked successional changes in bacterial communities, finding consistent patterns that correlate with elapsed time since mortality. While still preliminary, the work highlights how post‑mortem microbial succession could complement traditional PMI methods in forensic investigations. Further validation in larger animal models and human tissue is required before clinical application. Source: PubMed — Journal of forensic and legal medicine."
+
+Now count again to be safe.
+
+Let's count words:
+
+A(1)
+pilot2
+study3
+using4
+rats5
+shows6
+that7
+the8
+cecal9
+gut10
+microbiota11
+undergoes12
+predictable,13
+time‑dependent14
+shifts15
+during16
+the17
+first18
+hours19
+after20
+death,21
+offering22
+a23
+potential24
+biomarker25
+for26
+estimating27
+early28
+post‑mortem29
+interval.30
+Researchers31
+sampled32
+the33
+cecum34
+at35
+regular36
+intervals37
+and38
+tracked39
+successional40
+changes41
+in42
+bacterial43
+communities,44
+finding45
+consistent46
+patterns47
+that48
+correlate49
+with50
+elapsed51
+time52
+since53
+mortality.54
+While55
+still56
+preliminary,57
+the58
+work59
+highlights60
+how61
+post‑mortem62
+microbial63
+succession64
+could65
+complement66
+traditional67
+PMI68
+methods69
+in70
+forensic71
+investigations.72
+Further73
+validation74
+in75
+larger76
+animal77
+models78
+and79
+human80
+tissue81
+is82
+required83
+before84
+clinical85
+application86.
+Source:87
+PubMed88 — Journal89
+of90
+forensic91
+and92
+legal93
+medicine9
+
+[[TRANSITION]]
+
+The human microbiome is now seen as an active player in cancer, not merely a bystander. Research spanning breast, prostate, lung, colorectal and cervical tumors shows that microbial communities shape carcinogenesis, modulate immune responses and affect how patients respond to therapy. When the microbial equilibrium is disrupted, chronic inflammation and metabolic shifts can promote tumor growth and resistance. These insights, highlighted in a recent PubMed‑indexed article from Genetics and Molecular Biology, suggest that targeting the microbiome could become a strategic component of cancer prevention and treatment.
+
+[[TRANSITION]]
+
+The human gut microbiome, mainly residing in the colon, carries far more genetic material than the host’s own cells. Three recent papers in Essays in Biochemistry (PubMed) show how dysbiosis drives disease: altered microbial communities influence neurodegenerative disorders, affect responses to cancer chemotherapy, and trigger broad metabolic disturbances that impact overall health. These findings underscore the microbiome’s pivotal role in linking gut ecology to systemic conditions, highlighting potential therapeutic avenues that target microbial balance to mitigate neurodegeneration, improve treatment efficacy, and correct metabolic dysfunction. Source: PubMed — Essays in Biochemistry.
+
+[[TRANSITION]]
+
+Constant light exposure, a model of circadian disruption, triggers sex‑specific shifts in the gut microbiome, endocannabinoidome and lipid mediator profiles, according to a new study in The FEBS Journal. Researchers found that male and female mice responded differently to LL‑induced stress, with distinct changes in fecal bacterial communities and short‑chain fatty acid production that paralleled alterations in endocannabinoid signaling and lipid‑derived inflammatory mediators. These findings highlight how circadian misalignment can diverge by sex, offering mechanistic links to metabolic and inflammatory disease risk. Source: PubMed — The FEBS journal.
+
+[[TRANSITION]]
+
+A review in Future Microbiology (indexed via PubMed) highlights the gut‑bone axis as a central link between intestinal microbiota and bone health, showing that dysbiosis drives osteoclast activation and impaired bone formation, thereby promoting osteoporosis. The authors synthesize evidence from PubMed, Web of Science and Scopus up to March 2026, describing how altered microbial metabolites, barrier integrity and immune signaling shift bone remodeling toward resorption. They then outline emerging strategies—probiotics, prebiotics, synbiotics, fecal microbiota transplantation and targeted diets—that aim to restore a bone‑protective microbiota and could complement or reduce reliance on current anti‑osteoporotic drugs with their side‑effect burden.
+
+[[TRANSITION]]
+
+This study tests an 8‑week, online‑guided, multicomponent physical activity program to see whether it can improve cognition, alter resting‑state brain connectivity, and shift the gut microbiome in healthy older adults. The trial is designed as a single‑blinded randomized controlled trial, meaning participants are assigned to either the exercise program or a control condition, and the assessors measuring outcomes are unaware of group allocation. The intervention is delivered remotely, which addresses accessibility barriers that often limit in‑person exercise studies in aging populations.
+
+The available text does not provide details on how many participants were enrolled, their age range, or the specific inclusion and exclusion criteria used. Likewise, the snippet does not describe the exact components of the multicomponent activity (e.g., aerobic, strength, balance, flexibility), the frequency or intensity of sessions, or the nature of the control condition. Cognitive assessment methods, the neuroimaging protocol for resting‑state functional connectivity, and the microbiome sampling and sequencing approaches are also not outlined in the extracted material.
+
+Because the manuscript’s results section is not included in the notes, we cannot state whether the intervention produced measurable changes in memory or executive performance, whether it altered functional networks such as the default mode or salience networks, or whether it shifted microbial diversity or specific taxa linked to brain health. The available text does not provide details on any primary or secondary outcomes, effect sizes, statistical significance, or safety/adverse event data.
+
+What is clear from the introduction is the study’s motivation: existing randomized controlled trials have shown mixed evidence on how physical activity boosts cognition in older adults, and the mechanistic pathways—particularly those involving brain connectivity and the gut‑brain axis—remain poorly understood. By targeting both neural and microbial mediators in a single, remotely delivered trial, the authors aim to fill a gap in the literature. If the intervention does show concurrent improvements across these domains, it could support a more integrated view of lifestyle‑based brain aging interventions and justify larger, longer‑term trials that incorporate microbiome and neuroimaging biomarkers. Until the full results are examined, the study’s contribution remains promising but unverified.
+
+[[TRANSITION]]
+
+Researchers tracking remote Amazonian Indigenous communities found that the rollout of a sustained medical program triggered rapid microbiome restructuring. Analyzing fecal samples and body‑site swabs from villagers before and after the intervention, they observed a swift decline in overall microbial diversity and a shift toward taxa linked to antibiotic use and clinical exposure. The study, published in Cell Reports via PubMed, highlights how even brief, targeted healthcare can reshape resident microbiota in populations previously minimally exposed to Western medicine, offering an early‑window view of microbiome change drivers.
+
+[[TRANSITION]]
+
+Advancing microbial ecology, microbiomes, and One Health in Africa: From regional initiatives to pan‑African flagship programs highlights how microbiome research is becoming a cornerstone of the global One Health approach that links human, animal, and environmental health. The article, published in The ISME Journal via PubMed, argues that Africa’s unique public‑health, agricultural, and ecosystem challenges make microbial ecology especially vital there. It traces the evolution from scattered regional projects to coordinated, continent‑wide flagship initiatives aimed at harnessing microbiome data for disease surveillance, sustainable farming, and environmental resilience. The piece calls for sustained investment, capacity building, and cross‑sector collaboration to turn these ambitions into tangible health and sustainability outcomes across Africa.
+
+[[TRANSITION]]
+
+A recent analysis of vaginal swabs from Chinese women with common gynecological conditions—including HPV infection, cervical intraepithelial neoplasia, pelvic organ prolapse, cervical polyps, abnormal uterine bleeding and vaginitis—revealed that shifts in the vaginal microbiome are tightly coupled with altered levels of inflammation‑mediating cytokines. Researchers found that certain bacterial communities correlated with higher pro‑inflammatory signals, while others were associated with a more balanced immune milieu, suggesting microbiome‑driven immune pathways may underlie disease susceptibility or progression. The work highlights the potential of microbiome‑cytokine profiling as a diagnostic or therapeutic avenue in women’s health. Source: PubMed — NPJ Biofilms and Microbiomes
+
+[[TRANSITION]]
+
+Researchers show that polymorphic toxin secretion systems (TSS) — bacterial weapons used to outcompete rivals in the gut — shape microbiome assembly and can drive disease‑linked dysbiosis. Using a new bioinformatic marker‑gene pipeline called PolyProf, they quantified roughly two hundred TSS effectors and corresponding immunity genes across metagenomic samples. The abundance patterns predicted how infant gut communities matured and identified signatures associated with inflammatory bowel disease and other conditions. By linking interbacterial antagonism to community dynamics, the study provides a mechanistic framework for forecasting microbiome development and pinpointing dysbiotic states. Source: PubMed — mSystems
+
+[[TRANSITION]]
+
+Microbiome‑based machine learning models for inflammatory bowel disease do not perform uniformly; their accuracy shifts depending on the makeup of the training microbiome data, even when geographic origin is held constant. Researchers evaluated several IBD classifiers on multiple publicly available gut‑microbiome cohorts and found that changes in sample composition—such as differences in disease severity, treatment status, or sequencing protocol—produced larger performance swings than variations across countries or regions. The result, posted on bioRxiv, underscores that building robust diagnostic tools requires diverse, well‑characterized training sets rather than merely broadening geographic sampling.
+
+[[TRANSITION]]
+
+The Eustachian tube, a narrow passageway linking the middle ear to the nasopharynx, plays a critical role in ventilating the ear and equalizing pressure. Chronic obstructive Eustachian tube dysfunction can precipitate conditions such as chronic otitis media and cholesteatoma, yet the underlying biological mechanisms remain poorly understood. Notably, prior to this work, no study had examined the commensal bacterial communities inhabiting the Eustachian tube in either healthy subjects or patients with obstructive disease.
+
+Published in the European Journal of Microbiology & Immunology (doi:10.1556/1886.2026.00015), the investigators set out to characterize the Eustachian tube microbiome for the first time, comparing samples from individuals with chronic obstructive Eustachian tube dysfunction to those from healthy controls. The study design is described as prospective, but the available excerpt does not specify the number of participants recruited, the criteria used to define dysfunction, or how Eustachian tube samples were obtained—whether via endoscopic swab, aspiration, or another technique. Likewise, the notes do not detail the molecular approach employed to profile bacterial communities, such as 16S rRNA gene sequencing depth, bioinformatic pipelines, or statistical methods for comparing groups.
+
+Because the extracted text ends after the brief outline of objectives and study design, we lack any information on the results: we do not know which taxa were detected, whether diversity differed between groups, or if specific microbes were enriched in diseased tubes. Consequently, we cannot assess whether the findings support hypotheses about microbial involvement in inflammation, biofilm formation, or impaired mucociliary clearance.
+
+What is clear from the reported objective is that this work addresses a significant knowledge gap. By attempting to map the baseline microbiota of the Eustachian tube and its alteration in obstructive dysfunction, the study lays groundwork for future mechanistic investigations and potentially for microbiome‑targeted diagnostics or therapies. However, without access to the full manuscript, the precise contributions and implications remain unspecified. The available text does not provide details on participant demographics, sampling procedures, sequencing methodology, or key findings.
+
+[[TRANSITION]]
+
+Machine learning reveals microbiome differences by periodontitis severity.  
+The study, published in *PLoS ONE*, addresses a gap in our understanding of how subgingival microbial communities shift as periodontitis progresses from mild to severe. While it is established that periodontitis is a chronic inflammatory disease driven by microbial dysbiosis, the specific microbial signatures that correlate with clinical severity have remained incompletely characterized.  
+
+To tackle this, the researchers collected subgingival samples from participants grouped according to clinically defined periodontitis severity categories. They then applied microbiome‑based machine‑learning models to these data, aiming to classify samples by severity and to identify which taxa contribute most to the model’s decisions.  
+
+The available text does not provide details on the sequencing platform used, the number of participants per severity group, the specific machine‑learning algorithms tested, or the performance metrics such as accuracy, area under the curve, or cross‑validation results. Likewise, it does not list the individual bacterial taxa that were found to differ across severity groups or the statistical thresholds applied to deem a taxon significant.  
+
+What is clear from the notes is that the study’s novelty lies in combining clinically graded periodontitis data with machine‑learning approaches to uncover patterns that prior observational analyses may have missed. By linking community‑level microbial shifts to disease severity through predictive modeling, the work offers a potential route toward microbiome‑based diagnostics or monitoring tools for periodontitis.  
+
+In summary, the research demonstrates that machine learning can detect microbiome variations associated with periodontitis severity, though the exact methodological specifics and quantitative outcomes remain unspecified in the provided source.
+
+[[TRANSITION]]
+
+The study investigates whether an oligofructose‑enriched prebiotic can improve glycemic control and reshape the gut microbiome in Indian children living with type 1 diabetes mellitus. It notes that type 1 diabetes is increasingly linked to gut microbial dysbiosis, and that short‑chain fatty‑acid‑producing bacteria have been implicated in glucose regulation and immune modulation, yet interventional evidence in pediatric populations remains scarce. Accordingly, the objective of this pilot randomised control trial is to evaluate the effect of the prebiotic intervention on both glycemic outcomes and the gut microbiome profile in this specific cohort.
+
+The article identifies the work as a pilot RCT published in the journal Endocrine, focusing on Indian children with T1DM who receive an oligofructose‑enriched prebiotic. However, the available text does not provide details on the sample size, age range, duration of the intervention, dosage or formulation of the prebiotic, the control condition used, or the specific glycemic metrics measured (such as HbA1c, fasting glucose, or glucose variability). Likewise, it does not disclose the methods employed for microbiome profiling (e.g., 16S rRNA sequencing, shotgun metagenomics) or which microbial taxa and functional pathways were examined. Consequently, any findings regarding changes in blood glucose control, shifts in SCFA‑producing bacteria, or correlations between microbial shifts and metabolic outcomes are not described in the supplied excerpt.
+
+What can be inferred is that the trial aims to fill a notable gap in the literature by testing a microbiome‑targeted nutritional strategy in a pediatric T1DM population, potentially informing larger‑scale studies if safety and feasibility are demonstrated. Without the full results, the clinical relevance and magnitude of any effect remain uncertain based solely on the information provided.
+
+[[TRANSITION]]
+
+Oral squamous cell carcinoma is linked to a distinct salivary microbiome profile, showing altered community structure and reduced evenness compared to healthy controls. Researchers analyzed saliva samples from OSCC patients and found shifts in bacterial taxa that correlate with disease presence, suggesting the oral microbiome could serve as a non‑invasive biomarker for early detection. The study highlights saliva’s accessibility and its reflection of the oral microenvironment, reinforcing its potential for developing diagnostic tools. Source: PubMed — Scientific Reports.
+
+[[TRANSITION]]
+
+Recent review in Current Opinion in Clinical Nutrition and Metabolic Care (PubMed) outlines how diet shapes the gut microbiome, which in turn modulates secretion of the incretin hormone GLP‑1. The authors note that GLP‑1, central to insulin release, appetite control and energy balance, is influenced by microbial metabolites whose production depends on dietary composition. They argue that deciphering these diet‑microbe‑GLP‑1 links is crucial as GLP‑1‑based therapies become more common, suggesting that nutritional strategies could enhance or complement pharmacological approaches to metabolic health.
+
+[[TRANSITION]]
+
+Hyocholic acids dominate the bile‑acid pool of newborns, making up over half of meconium bile acids and about 14 % of infant serum, then fall below 5 % in adults. This stark developmental shift links hyocholic acid levels to the establishment of immune tolerance and early gut‑microbiota assembly, as the acids promote CD4⁺ T‑cell pathways that temper inflammation. The study, published in Cell Metabolism via PubMed, shows that manipulating hyocholic acid concentrations could steer neonatal immunity and microbiome composition, offering a potential lever for preventing early‑life immune disorders.
+
+[[TRANSITION]]
+
+Microbiota‑based treatments can selectively improve either gut health or social behavior in fruit flies lacking the histone demethylase Kdm5, a model of autism‑spectrum disorder. Researchers found that specific bacterial supplements restored normal intestinal permeability and reduced inflammation, while other microbial formulations rescued courtship and interaction deficits without fully correcting gastrointestinal abnormalities. This dissociation shows that the gut‑brain axis can be modulated in a phenotype‑specific way, suggesting that targeting distinct microbial communities may address separate ASD‑related symptoms. The study, reported in PubMed‑indexed developmental neuroscience literature, highlights the potential of precision microbiota interventions for neuropsychiatric conditions.
+
+[[TRANSITION]]
+
+Functionalized nanocarriers markedly boost the oral bioavailability of lipophilic food‑derived bioactives by sidestepping the gastrointestinal hurdles that have long limited their uptake. Acidic pH, mucus layers, tight junctions and microbial metabolism normally degrade or block these compounds, but recent advances show that precisely engineered nanoparticles—tuned for size, surface charge and ligand presentation—can protect the payload, enhance mucus penetration, promote paracellular or transcellular transport, and resist microbiota metabolism. This review in Critical Reviews in Food Science and Nutrition (PubMed) outlines the absorption mechanisms involved and provides design strategies for next‑generation oral nanocarriers.
+
+
+References:
+[1] High-resolution metagenomic characterization of gut microbiota composition and functional pathways in irritable bowel syndrome. — PubMed — Scientific reports — https://doi.org/10.1038/s41598-026-52163-w
+[2] Flavonoids as functional food-derived modulators of the gut microbiota-NF-κB axis in metabolic dysfunction-associated steatotic liver disease. — PubMed — Molecular and cellular biochemistry — https://doi.org/10.1007/s11010-026-05549-3
+[3] Molecular mechanisms underlying the ameliorative effects of crocodile head-derived bioactive peptides on DEX-induced muscle atrophy: insights from proteomics and gut microbiota analysis. — PubMed — NPJ science of food — https://doi.org/10.1038/s41538-026-00887-4
+[4] Hepatic SNHG9 links gut microbiota to liver protection in drug-induced liver injury. — PubMed — Nature communications — https://doi.org/10.1038/s41467-026-73309-4
+[5] Comprehensive Complete-Genome Analysis of Lactobacillaceae and Bifidobacteriaceae Reveals Strain-Specific Metabolic Interactions in Chinese Gut Microbiota — bioRxiv — microbiology — https://www.biorxiv.org/content/10.64898/2026.05.21.726744
+[6] Gut microbiota: The hidden hallmark of aging. — PubMed — Acta microbiologica et immunologica Hungarica — https://doi.org/10.1556/030.2026.02808
+[7] The role of the gut microbiota in radiation enteritis: from mechanistic insights to therapeutic applications. — PubMed — Communications biology — https://doi.org/10.1038/s42003-026-10263-3
+[8] The Gut-Liver Axis in Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD): Mechanisms, Microbiome Interactions and Therapeutic Targets. — PubMed — Probiotics and antimicrobial proteins — https://doi.org/10.1007/s12602-026-11050-6
+[9] Gut microbiota dysbiosis and metabolic alterations in rheumatoid arthritis: a barrier to periodontal repair. — PubMed — RMD open — https://doi.org/10.1136/rmdopen-2026-006931
+[10] Microbiome in Gastrointestinal Tumors: Implications in Oncogenesis and Therapeutic Response : Microbiome in Gastrointestinal Tumors. — PubMed — Current oncology reports — https://doi.org/10.1007/s11912-026-01793-4
+[11] Harnessing the gut microbiota to enhance immune checkpoint inhibitor efficacy: from mechanistic insights to clinical translation. — PubMed — Molecular biology reports — https://doi.org/10.1007/s11033-026-11988-4
+[12] Integrative multi-omics analysis reveals host-microbiome metabolic alterations and candidate biomarkers in Parkinson's disease. — PubMed — BMC microbiology — https://doi.org/10.1186/s12866-026-05168-4
+[13] Analytic attributes of the 16S rRNA gene sequencing methodology for human gut microbiota characterization. — PubMed — Applied microbiology and biotechnology — https://doi.org/10.1007/s00253-026-13844-8
+[14] Complex correlations between mitochondrial DNA variants and gut microbiome in major depressive disorder: a genome-wide association analysis. — PubMed — BMC psychiatry — https://doi.org/10.1186/s12888-026-08132-8
+[15] Gut microbiota-derived indole-3-propionic acid promotes lymph node metastasis in gastric cancer via the aryl-hydrocarbon receptor signaling pathway. — PubMed — Cancer & metabolism — https://doi.org/10.1186/s40170-026-00438-1
+[16] Berberine reshapes gut microbiota and attenuates bone loss in estrogen-deficient osteoporosis via the gut-bone axis. — PubMed — Naunyn-Schmiedeberg's archives of pharmacology — https://doi.org/10.1007/s00210-026-05326-5
+[17] Xanomeline-trospium reverses phencyclidine-induced cognitive deficits through modulation of the gut microbiota-brain axis in mice. — PubMed — Translational psychiatry — https://doi.org/10.1038/s41398-026-04097-0
+[18] Sequential co-extraction of gut microbial DNA and fecal polyamines enables integrated microbiome-metabolite profiling in an Alzheimer's disease mouse model. — PubMed — Scientific reports — https://doi.org/10.1038/s41598-026-54312-7
+[19] Comprehensive review on Cistanche polysaccharides: Structure, gut microbiota and processing characteristics. — PubMed — International journal of biological macromolecules — https://doi.org/10.1016/j.ijbiomac.2026.152634
+[20] Dihydroartemisinin alleviates dextran sulfate sodium-induced colitis in mice: Associations with gut microbiota, arachidonic acid metabolism, and the IL-17 signaling pathway. — PubMed — Pathology, research and practice — https://doi.org/10.1016/j.prp.2026.156546
+[21] Metagenomic analysis of oral microbiome around zinc oxide nanoparticle-coated mini-implants: A split-mouth trial. — PubMed — Journal of the World federation of orthodontists — https://doi.org/10.1016/j.ejwf.2026.03.003
+[22] The exploration of using gut microbiota to estimate early post-mortem interval. — PubMed — Journal of forensic and legal medicine — https://doi.org/10.1016/j.jflm.2026.103174
+[23] The human microbiome in cancer: Not just a sidekick anymore. — PubMed — Genetics and molecular biology — https://doi.org/10.1590/1678-4685-GMB-2025-0236
+[24] Gut microbiota and disease. — PubMed — Essays in biochemistry — https://doi.org/10.1042/EBC20250046
+[25] Circadian disruption elicits sex-specific gut microbiota, endocannabinoidome, and lipid mediator responses. — PubMed — The FEBS journal — https://doi.org/10.1111/febs.70592
+[26] Gut microbiota dysbiosis and osteoporosis: pathogenesis and novel intervention strategies. — PubMed — Future microbiology — https://doi.org/10.1080/17460913.2026.2678122
+[27] Impact of an online-guided physical activity intervention on cognition, resting-state brain connectivity, and the gut microbiome in healthy older adults-a randomized controlled trial. — PubMed — GeroScience — https://doi.org/10.1007/s11357-026-02324-6
+[28] Rapid microbiome restructuring associated with medical exposure in remote Amazonian Indigenous communities. — PubMed — Cell reports — https://doi.org/10.1016/j.celrep.2026.117343
+[29] Advancing microbial ecology, microbiomes, and One Health in Africa: From regional initiatives to pan-African flagship programs. — PubMed — The ISME journal — https://doi.org/10.1093/ismejo/wrag132
+[30] Vaginal microbiome and inflammation cytokines among Chinese women. — PubMed — NPJ biofilms and microbiomes — https://doi.org/10.1038/s41522-026-00994-w
+[31] Metagenomic polymorphic toxin effector and immunity profiling predicts microbiome development and disease-related dysbiosis. — PubMed — mSystems — https://doi.org/10.1128/msystems.00305-26
+[32] Performance of IBD machine learning classifiers varies across microbiome training data independent of geographic diversity — bioRxiv — microbiology — https://www.biorxiv.org/content/10.64898/2026.05.21.727052
+[33] Microbiome of the Eustachian tube in patients with chronic obstructive Eustachian tube dysfunction and healthy individuals. — PubMed — European journal of microbiology & immunology — https://doi.org/10.1556/1886.2026.00015
+[34] Machine learning reveals microbiome differences by periodontitis severity. — PubMed — PloS one — https://doi.org/10.1371/journal.pone.0349686
+[35] Effect of prebiotic intervention on glycemic control and gut microbiome profile in Indian children with type 1 diabetes mellitus (T1DM): a pilot randomised control trial. — PubMed — Endocrine — https://doi.org/10.1007/s12020-026-04657-w
+[36] Oral squamous cell carcinoma is associated with altered salivary microbiome structure and reduced community evenness. — PubMed — Scientific reports — https://doi.org/10.1038/s41598-026-54192-x
+[37] Interactions between nutrition, GLP-1 secretion, and composition of the gut microbiome. — PubMed — Current opinion in clinical nutrition and metabolic care — https://doi.org/10.1097/MCO.0000000000001235
+[38] Hyocholic acids shape neonatal immune tolerance and microbiota assembly. — PubMed — Cell metabolism — https://doi.org/10.1016/j.cmet.2026.04.016
+[39] Microbiota-Based Interventions Differentially Rescue Gut and Social Behavior Phenotypes in Drosophila with Kdm5 Deficiency. — PubMed — Developmental neuroscience — https://doi.org/10.1159/000552681
+[40] Nanocarriers enhance oral bioavailability: from absorption mechanisms to design strategies. — PubMed — Critical reviews in food science and nutrition — https://doi.org/10.1080/10408398.2026.2672547
