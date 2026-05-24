@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Sat, 23 May 2026 06:37:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 06:59:53 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-05-24</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-24/podcast_2026-05-24.mp3</guid>
+      <pubDate>Sun, 24 May 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-24/podcast_2026-05-24.mp3" length="19919516" type="audio/mpeg" />
+      <description>Nutritional methionine restriction modulates gut microbiota and propionate/GPR41 signaling to mitigate diabetic kidney disease. | According to the article’s title and the available abstract, the MR diet altered the composition of the gut microbiota. | The available text does not provide details on which bacterial taxa were enriched or depleted, the magnitude of propionate concentration changes, or specific histological and functional renal endpoints measured (such as albuminuria, glomerular filtration rate, or fibrosis scores).</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Nutritional methionine restriction modulates gut microbiota and propionate/GPR41 signaling to mitigate diabetic kidney disease. | According to the article’s title and the available abstract, the MR diet altered the composition of the gut microbiota. | The available text does not provide details on which bacterial taxa were enriched or depleted, the magnitude of propionate concentration changes, or specific histological and functional renal endpoints measured (such as albuminuria, glomerular filtration rate, or fibrosis scores).</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-05-23</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-23/podcast_2026-05-23.mp3</guid>
       <pubDate>Sat, 23 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-23/podcast_2026-05-23.mp3" length="25201316" type="audio/mpeg" />
-      <description>High‑resolution metagenomic characterization of gut microbiota composition and functional pathways in irritable bowel syndrome was the focus of a recent study published in *Scientific Reports*. | The available text does not provide details on the cohort size, demographic characteristics of participants, sequencing depth, or specific bioinformatic pipelines used for assembly, annotation, or statistical testing. | What is clear from the title and the brief background is the study’s rationale: IBS is a common functional gastrointestinal disorder marked by abdominal pain, altered bowel habits, and frequent comorbidity with anxiety and depression.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-23/podcast_2026-05-23.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>High‑resolution metagenomic characterization of gut microbiota composition and functional pathways in irritable bowel syndrome was the focus of a recent study published in *Scientific Reports*. | The available text does not provide details on the cohort size, demographic characteristics of participants, sequencing depth, or specific bioinformatic pipelines used for assembly, annotation, or statistical testing. | What is clear from the title and the brief background is the study’s rationale: IBS is a common functional gastrointestinal disorder marked by abdominal pain, altered bowel habits, and frequent comorbidity with anxiety and depression.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-23/podcast_2026-03-23.mp3</guid>
       <pubDate>Mon, 23 Mar 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-23/podcast_2026-03-23.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-03-22</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-22/podcast_2026-03-22.mp3</guid>
-      <pubDate>Sun, 22 Mar 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-22/podcast_2026-03-22.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
