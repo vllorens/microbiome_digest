@@ -1,0 +1,204 @@
+{
+  "timestamps": [
+    0.0,
+    43.75,
+    176.37,
+    298.04,
+    411.75,
+    534.17,
+    644.54,
+    784.08,
+    914.03,
+    1010.15,
+    1138.64,
+    1192.54,
+    1308.02,
+    1697.54,
+    1821.47,
+    1947.61,
+    2057.67,
+    2188.49,
+    2314.06,
+    2407.96,
+    2461.98,
+    2507.36
+  ],
+  "items": [
+    {
+      "title": "Neuronutrition In Asd: Involvement Of Gut Microbiota, Oxidative Stress And Inflammatory Markers.",
+      "url": "https://doi.org/10.1016/j.neubiorev.2026.106775",
+      "source": "PubMed — Neuroscience and biobehavioral reviews",
+      "one_liner": "Autism spectrum disorder (ASD) is a neurodevelopmental disorder displaying altered human behaviors, such as social interaction impairments, stereotypical/repetitive activities and emotional dysregulation. Children with ASD are often affected by gastrointestinal problems and gut microbiota dysbiosis. Inflammation and immune dysfunction are key contributors...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Modulating effects of Lactobacillus acidophilus LA15 on immune response and gut microbiota in cyclophosphamide-induced immunosuppressed mice.",
+      "url": "https://doi.org/10.1007/s12223-026-01497-z",
+      "source": "PubMed — Folia microbiologica",
+      "one_liner": "The gut microbiota plays a fundamental role in modulating host immune homeostasis. Lactobacillus (L.) acidophilus, as a predominant probiotic, has garnered significant research interest for its potential immunoregulatory capabilities. In this study, a strain of L. acidophilus, designated LA15, was selected based on its superior performance in promoting RA...",
+      "segment": 1,
+      "timestamp": 43.75
+    },
+    {
+      "title": "Scorpion gut microbiomes as a source of bioactive and rare actinobacteria with nonribosomal peptide potential.",
+      "url": "https://doi.org/10.1007/s10482-026-02326-6",
+      "source": "PubMed — Antonie van Leeuwenhoek",
+      "one_liner": "Actinobacteria are well-known for their ability to produce bioactive secondary metabolites, including nonribosomal peptides (NRPs); however, many host-associated reservoirs remain underexplored. In this study, cultivable actinobacteria were isolated from scorpion gut, including both the intestinal tissue and its luminal contents, and evaluated their antim...",
+      "segment": 2,
+      "timestamp": 176.37
+    },
+    {
+      "title": "Research on gut microbiota and metabolic characteristics in patients with sleep disorders after ischemic stroke.",
+      "url": "https://doi.org/10.1007/s11011-026-01881-1",
+      "source": "PubMed — Metabolic brain disease",
+      "one_liner": "Post-stroke sleep disorder (PSSD) is a common but underrecognized complication of ischemic stroke, affecting neurological recovery and quality of life. Emerging evidence suggests a role for the gut-brain axis (GBA) in regulating sleep and post-stroke inflammation, yet the microbiome and metabolomic signatures of PSSD remain poorly defined. This study aime...",
+      "segment": 3,
+      "timestamp": 298.04
+    },
+    {
+      "title": "Exploratory gut microbiota-host interaction in parkinson's disease: integrative multi-omics analysis of metabolic and epigenetic pathways.",
+      "url": "https://doi.org/10.1186/s13568-026-02078-6",
+      "source": "PubMed — AMB Express",
+      "one_liner": "Mounting evidence has associated gut microbial composition and systemic metabolic profiles with Parkinson's disease (PD), yet causal pathways and molecular mechanisms remain unclear. We employed a systematic two-stage analytical framework integrating multiple Mendelian randomization (MR) approaches, transcriptome and epigenome-wide regulatory analyses, an...",
+      "segment": 4,
+      "timestamp": 411.75
+    },
+    {
+      "title": "Oral antibiotics promote triple-negative breast cancer progression by inducing gut microbiota dysbiosis and taurocholic acid accumulation.",
+      "url": "https://doi.org/10.3724/abbs.2026059",
+      "source": "PubMed — Acta biochimica et biophysica Sinica",
+      "one_liner": "Gut microbiota-derived metabolites play a crucial role in the development of breast cancer by remodeling the tumor microenvironment and regulating key signaling pathways. The composition of the microbiota is susceptible to various environmental factors, particularly exposure to oral antibiotics. However, direct causal evidence linking oral antibiotic use ...",
+      "segment": 5,
+      "timestamp": 534.17
+    },
+    {
+      "title": "Bacillus Licheniformis Capsules (Live) Modulates Gut Microbiota and Enhances Immune Function in Chemotherapy Patients with Non-Small Cell Lung Cancer.",
+      "url": "https://doi.org/10.1620/tjem.2025.J076",
+      "source": "PubMed — The Tohoku journal of experimental medicine",
+      "one_liner": "This study investigates the impact of Bacillus Licheniformis Capsules (live) on patients with non-small cell lung cancer (NSCLC) undergoing chemotherapy. Clinical data from 79 NSCLC patients who developed grade 2-3 diarrhea during the first cycle of chemotherapy and admitted to our hospital between March 2020 and February 2023 were retrospectively analyze...",
+      "segment": 6,
+      "timestamp": 644.54
+    },
+    {
+      "title": "Association of gut microbiome with mobility impairment in the Hispanic Community Health Study/Study of Latinos.",
+      "url": "https://doi.org/10.1038/s41522-026-01019-2",
+      "source": "PubMed — NPJ biofilms and microbiomes",
+      "one_liner": "Aging-related declines in mobility are more common in women than men. The gut microbiome may play a role in physical function, but sex-specific roles are unknown. In adults ≥50 years old (n = 1187 women, 585 men), we examined associations of self-reported mobility impairment with gut microbiome assessed by stool shotgun sequencing, and examined heterogene...",
+      "segment": 7,
+      "timestamp": 784.08
+    },
+    {
+      "title": "Gut microbiome-mediated bioactive ingredients and health benefits of medicinal and edible fermented products: A comprehensive review.",
+      "url": "https://doi.org/10.1007/s12223-026-01468-4",
+      "source": "PubMed — Folia microbiologica",
+      "one_liner": "Fermented foods and beverages represent dynamic biological ecosystems that integrate microbial communities, bioactive metabolites, and host interactions to promote health across nutritional, functional, and therapeutic domains. This comprehensive narrative review synthesizes current evidence on medicinal and edible fermented products, focusing on their bi...",
+      "segment": 8,
+      "timestamp": 914.03
+    },
+    {
+      "title": "Preserving the gut microbiome: hydrogel-forming microneedle delivery of tetracycline reduces gut microbiome disruption compared to oral administration.",
+      "url": "https://doi.org/10.1007/s13346-026-02154-1",
+      "source": "PubMed — Drug delivery and translational research",
+      "one_liner": "Antibiotics cause significant gut microbiome dysbiosis, particularly when administered orally. This contributes to antimicrobial resistance (AMR) and is associated with myriad health conditions. Novel drug delivery strategies that minimize gut exposure while maintaining therapeutic efficacy are urgently needed. This study aimed to evaluate whether a novel...",
+      "segment": 9,
+      "timestamp": 1010.15
+    },
+    {
+      "title": "Pre-existing liver dysfunction modulates di-(2-ethylhexyl) phthalate (DEHP)-associated biological responses through host-microbiome networks.",
+      "url": "https://doi.org/10.1016/j.envpol.2026.128417",
+      "source": "PubMed — Environmental pollution (Barking, Essex : 1987)",
+      "one_liner": "Pre-existing metabolic conditions may profoundly alter biological responses to environmental pollutants, yet this dimension remains underexplored in environmental health. This study examined whether pre-existing metabolic dysfunction-associated steatotic liver disease (MASLD) is associated with altered biological responses to di-(2-ethylhexyl) phthalate (...",
+      "segment": 10,
+      "timestamp": 1138.64
+    },
+    {
+      "title": "Humans as an extended phenotype of their microbiota.",
+      "url": "https://doi.org/10.1007/s12064-026-00477-8",
+      "source": "PubMed — Theory in biosciences = Theorie in den Biowissenschaften",
+      "one_liner": "The human gastrointestinal system is colonized by microbiota, consisting of more than 100 trillion cells, which is essential for gastrointestinal development, nutrient absorption, and immune system function. Disruption of the microbiota has been linked to obesity, metabolic syndromes, inflammatory bowel disorders, and cancer. The microbiota has also been ...",
+      "segment": 11,
+      "timestamp": 1192.54
+    },
+    {
+      "title": "Impact of formaldehyde application in commercial hatchers on chick intestinal microbiota.",
+      "url": "https://doi.org/10.1080/03601234.2026.2677407",
+      "source": "PubMed — Journal of environmental science and health. Part. B, Pesticides, food contaminants, and agricultural wastes",
+      "one_liner": "Reducing microbial contamination during late-stage incubation is important for hatchery sanitation and early chick microbial exposure. Formaldehyde is commonly applied in commercial hatchers to reduce airborne and eggshell-associated microorganisms. However, its effect on intestinal microbial recovery during late incubation and hatch remains unclear. The ...",
+      "segment": 12,
+      "timestamp": 1308.02
+    },
+    {
+      "title": "Ammonia oxidation and recalcitrant carbon degradation fuel mixotrophic growth in the symbiont community of a deep-sea sponge.",
+      "url": "https://doi.org/10.1186/s40168-026-02411-y",
+      "source": "PubMed — Microbiome",
+      "one_liner": "BACKGROUND: Sponges are important members of shallow-water, benthic ecosystems, where they often rely on their microbial symbionts to acquire organic or inorganic carbon. Sponges are also found in the deep sea, however, how they metabolically interact there with their symbionts remains underexplored. Here, we combined metagenomic, metatranscriptomic and s...",
+      "segment": 13,
+      "timestamp": 1697.54
+    },
+    {
+      "title": "Comparison of fecal and plasma metabolite correlations following nutrition or exercise interventions.",
+      "url": "https://doi.org/10.1007/s11306-026-02463-z",
+      "source": "PubMed — Metabolomics : Official journal of the Metabolomic Society",
+      "one_liner": "INTRODUCTION: Metabolites are focal players in the host-microbiota crosstalk. Fecal metabolome represents the microbial metabolic output but the links between fecal and circulating metabolites remain unresolved. Deciphering the associations between fecal and plasma metabolomes may benefit the designing of tailored gut microbiota-targeting interventions. O...",
+      "segment": 14,
+      "timestamp": 1821.47
+    },
+    {
+      "title": "Multi-omics Analysis Reveals the Protection of a Quadruple Probiotic Mixture in Experimental Autoimmune Hepatitis.",
+      "url": "https://doi.org/10.1007/s12602-026-11062-2",
+      "source": "PubMed — Probiotics and antimicrobial proteins",
+      "one_liner": "Autoimmune hepatitis (AIH) is a chronic progressive inflammatory liver disease with a rising global incidence. The treatment of AIH remains challenging because first-line drugs show limited efficacy and systemic side effects. Gut microbiota plays a crucial role in the pathogenesis of AIH, leading to growing interest in developing probiotic-based therapies...",
+      "segment": 15,
+      "timestamp": 1947.61
+    },
+    {
+      "title": "Quantitative determination of vaginal diamines as a biomarker for vaginal dysbiosis and IVF-ET outcome.",
+      "url": "https://doi.org/10.1186/s12958-026-01568-3",
+      "source": "PubMed — Reproductive biology and endocrinology : RB&E",
+      "one_liner": "BACKGROUND: Lactobacillus species generally predominate in a healthy vaginal microbiota, and alterations of this population correlate with increased risk of genital infections and poor reproductive outcomes. Composition and functions of the vaginal microbiota are influenced by a variety of factors, among which hormones represent a major player. As therapy...",
+      "segment": 16,
+      "timestamp": 2057.67
+    },
+    {
+      "title": "The diversity of factors influencing human digestive microbiota in healthy adults and their interaction: a scoping review.",
+      "url": "https://doi.org/10.1186/s40795-026-01366-5",
+      "source": "PubMed — BMC nutrition",
+      "one_liner": "BACKGROUND / OBJECTIVES: Human digestive microbiota is affected by a wide variety of different factors. The objective of this study was to perform a scoping review that gathers and updates the information available about factors that affect human digestive microbiota in healthy adults. It is also reviewed if other factors are considered and if some type o...",
+      "segment": 17,
+      "timestamp": 2188.49
+    },
+    {
+      "title": "Rapid early life colonization of the intestinal tract by Akkermansia muciniphila after voluntary feeding.",
+      "url": "https://doi.org/10.1186/s12866-026-05202-5",
+      "source": "PubMed — BMC microbiology",
+      "one_liner": "BACKGROUND: Non-invasive methods to colonize intact gut microbiota populations with specific bacterial species are useful for experimental studies that advance our understanding of this commensal microbial population. Within the gut microbiota, the anaerobic muciniphile Akkermansia muciniphila has many established health benefits. We report the developmen...",
+      "segment": 18,
+      "timestamp": 2314.06
+    },
+    {
+      "title": "miR-9394b from <i>Lactobacillus paracasei</i> extracellular vesicles targets iNOS to reprogram host NO-ornithine metabolism and ameliorate DSS-induced murine colitis",
+      "url": "https://www.nature.com/articles/s41522-026-01023-6",
+      "source": "npj Biofilms and Microbiomes",
+      "one_liner": "npj Biofilms and Microbiomes, Published online: 25 May 2026; doi:10.1038/s41522-026-01023-6 miR-9394b from Lactobacillus paracasei extracellular vesicles targets iNOS to reprogram host NO-ornithine metabolism and ameliorate DSS-induced murine colitis",
+      "segment": 19,
+      "timestamp": 2407.96
+    },
+    {
+      "title": "Fluorogenic Coupled Assays Reveal Catalytic Properties, Inhibition Constants and Cellular Location of Mucin-Active Carbohydrate Sulfatases.",
+      "url": "https://doi.org/10.1002/anie.2991471",
+      "source": "PubMed — Angewandte Chemie (International ed. in English)",
+      "one_liner": "Sulfated glycans play a central role in human health and influence cell signaling, cancer progression, pathogen invasion, and host-microbiome interactions. Metabolism of these glycans requires a specialized class of enzymes termed carbohydrate sulfatases. These enzymes are particularly important in the human gut where sulfated colonic mucin is produced an...",
+      "segment": 20,
+      "timestamp": 2461.98
+    },
+    {
+      "title": "Engineering microbial symbiosis and dysbiosis reveals a new AhR-mediated mechanism underlying dandruff pathogenesis.",
+      "url": "https://doi.org/10.1093/bjd/ljag210",
+      "source": "PubMed — The British journal of dermatology",
+      "one_liner": "BACKGROUND: The skin microbiome plays a pivotal role in regulating epidermal barrier integrity and immune homeostasis. However, the molecular mechanisms through which microbial dysbiosis drives dermatological disease and in particular, the pathways by which alterations in the scalp microbiome give rise to the pathological features of dandruff are not full...",
+      "segment": 21,
+      "timestamp": 2507.36
+    }
+  ]
+}
