@@ -1,0 +1,258 @@
+{
+  "timestamps": [
+    0.0,
+    50.08,
+    186.23,
+    232.4,
+    348.97,
+    467.48,
+    596.09,
+    725.95,
+    866.46,
+    909.8,
+    952.35,
+    998.91,
+    1123.82,
+    1231.39,
+    1277.66,
+    1326.64,
+    1372.54,
+    1414.11,
+    1460.98,
+    1581.5,
+    1712.42,
+    1756.67,
+    1802.98,
+    1851.48,
+    1895.62,
+    1936.48,
+    1981.43,
+    2100.68
+  ],
+  "items": [
+    {
+      "title": "Gut microbiota and metabolic control of immune checkpoint blockade in cancer.",
+      "url": "https://doi.org/10.1016/j.cmet.2026.04.018",
+      "source": "PubMed — Cell metabolism",
+      "one_liner": "The human gastrointestinal tract is colonized by trillions of microbes, collectively termed the gut microbiota, which dynamically shape states of health and disease. This occurs through the modulation of host immunity and through metabolites produced by these microbes, which act both locally and at distal organs. Seminal research has defined that the gut ...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Intravesical mycobacteria reshape bladder and gut microbiota in a murine bladder cancer model.",
+      "url": "https://doi.org/10.1038/s41522-026-01002-x",
+      "source": "PubMed — NPJ biofilms and microbiomes",
+      "one_liner": "The bladder microbiota may influence tumor progression and responses to intravesical therapies, yet the effects of Mycobacterium bovis BCG instillations on bladder and gut microbiota remain unexplored. This study evaluates, for the first time, the impact of M. bovis BCG and Mycobacterium brumae, a non-pathogenic immunomodulator, on microbiota composition ...",
+      "segment": 1,
+      "timestamp": 50.08
+    },
+    {
+      "title": "Altered SIgA-targeting of gut microbiota is associated with long-term dysbiosis in pediatric solid organ transplant recipients.",
+      "url": "https://doi.org/10.1080/19490976.2026.2675078",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "The composition of the gut microbiota (GM) is altered in solid organ transplantation (SOT) recipients, where the degree of dysbiosis is associated with long-term survival and is believed to be influenced by immunosuppression therapy. At the interface stands secretory (S)IgA, however, little is known about its role in governing dysbiosis in the context of ...",
+      "segment": 2,
+      "timestamp": 186.23
+    },
+    {
+      "title": "Green tea polyphenol-iron oxide chitosan nanoparticles modulate gut microbiota and regulate metabolic pathways.",
+      "url": "https://doi.org/10.1007/s11274-026-05033-6",
+      "source": "PubMed — World journal of microbiology & biotechnology",
+      "one_liner": "Green tea polyphenols (GTPP) exhibit antioxidants, anti-inflammatory, and anticancer properties; however, their poor bioavailability limits clinical translation. Nanoparticle-based formulations may enhance absorption and therapeutic potential. This study investigates the therapeutic effects of GTPP encapsulated in iron oxide chitosan nanoparticles (GTPP-I...",
+      "segment": 3,
+      "timestamp": 232.4
+    },
+    {
+      "title": "The possible effects of folic acid and postbiotic yeast on doxorubicin-induced cardiotoxicity in rats: interactions among the gut microbiota, antioxidants, and NLrp3 activities.",
+      "url": "https://doi.org/10.1007/s10735-026-10824-0",
+      "source": "PubMed — Journal of molecular histology",
+      "one_liner": "Doxorubicin (DOX) cardiotoxicity is a common adverse effect and is dose dependent. Folic acid (FA) and E-yeast (a deactivated form of Saccharomyces cerevisiae combined with wheat germ oil) are natural dietary supplements that may help mitigate these adverse effects. To compare the cardioprotective, antioxidant, anti-inflammatory, histological, and gut mic...",
+      "segment": 4,
+      "timestamp": 348.97
+    },
+    {
+      "title": "Gut microbiota-modulating interventions in paediatric type 1 diabetes: a systematic review and meta-analysis.",
+      "url": "https://doi.org/10.1007/s00431-026-07106-y",
+      "source": "PubMed — European journal of pediatrics",
+      "one_liner": "To evaluate the efficacy and safety of gut microbiota-modulating interventions in children and adolescents with type 1 diabetes. A systematic review and meta-analysis was conducted according to PRISMA 2020. PubMed/MEDLINE, Scopus, Web of Science, and CENTRAL were searched from inception to 28 February 2026 for randomised controlled trials of oral probioti...",
+      "segment": 5,
+      "timestamp": 467.48
+    },
+    {
+      "title": "An integrated multi-omics approach for deciphering podophyllotoxin-induced nephrotoxicity via the microbiome-gut-kidney (MGK) axis based on the toxicological evidence (TEC) concept.",
+      "url": "https://doi.org/10.1007/s10735-026-10832-0",
+      "source": "PubMed — Journal of molecular histology",
+      "one_liner": "Podophyllotoxin (PPT), a potent antitumor natural lignan, is clinically limited by nephrotoxicity, with the microbiome-gut-kidney (MGK) axis's role unclear. Guided by the Toxicological Evidence Chain (TEC) framework, this study used multi-omics approaches in ICR mice (control, low/high-dose PPT) to explore mechanisms. The physiological indices of mice, he...",
+      "segment": 6,
+      "timestamp": 596.09
+    },
+    {
+      "title": "Gut microbiota profiles in reactive and metastatic lymphadenopathy in colorectal cancer: a tumor location-stratified analysis.",
+      "url": "https://doi.org/10.1007/s00384-026-05154-2",
+      "source": "PubMed — International journal of colorectal disease",
+      "one_liner": "PURPOSE: Preoperative lymphadenopathy in colorectal cancer may represent nodal metastasis or reactive change. We aimed to compare gut microbiota profiles between reactive and metastatic lymphadenopathy and to explore microbial features associated with nonmetastatic lymph node enlargement. METHODS: We conducted a retrospective observational study of colore...",
+      "segment": 7,
+      "timestamp": 725.95
+    },
+    {
+      "title": "The gut microbiome and thermoregulatory response: Relevance of the microbiota in heat-related illness?",
+      "url": "https://doi.org/10.1113/EP093905",
+      "source": "PubMed — Experimental physiology",
+      "one_liner": "",
+      "segment": 8,
+      "timestamp": 866.46
+    },
+    {
+      "title": "Large-scale investigation for antimicrobial activity reveals newly-identified defensive species across the healthy skin microbiome.",
+      "url": "https://doi.org/10.1038/s41467-026-73524-z",
+      "source": "PubMed — Nature communications",
+      "one_liner": "The skin microbiome forms a protective barrier to pathogens, including through the production of antimicrobial metabolites. Here, we present EPIC",
+      "segment": 9,
+      "timestamp": 909.8
+    },
+    {
+      "title": "Microbiome functional gene pathways are indicative of cognitive performance in older adults at risk for Alzheimer's disease.",
+      "url": "https://doi.org/10.1080/19490976.2026.2676162",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Disturbances in the gut microbiome are increasingly correlated with neurodegenerative disorders, including Alzheimer's disease. Multiple lines of emerging evidence are consistent with the microbiome's involvement in disease pathology in AD by triggering or potentiating systemic and neuroinflammation, thereby influencing disease pathology through the \"micr...",
+      "segment": 10,
+      "timestamp": 952.35
+    },
+    {
+      "title": "Bacterial specificity of the gut microbiome predicts bone density in primary hyperparathyroidism.",
+      "url": "https://doi.org/10.1038/s41413-026-00529-1",
+      "source": "PubMed — Bone research",
+      "one_liner": "Primary hyperparathyroidism causes mild-to-severe bone loss, but the reason for this heterogeneity is unclear. We investigated the role of the microbiome in 50 primary hyperparathyroidism patients. Microbiome transfers from primary hyperparathyroidism patients with and without osteoporosis to germ-free mice replicated the human bone phenotype and regulate...",
+      "segment": 11,
+      "timestamp": 998.91
+    },
+    {
+      "title": "MyBioScope: a new frontier in gut microbiome and health research.",
+      "url": "https://doi.org/10.1186/s40643-026-01044-1",
+      "source": "PubMed — Bioresources and bioprocessing",
+      "one_liner": "UNLABELLED: Disruptions in the gut microbiome are linked to various diseases, but their roles in conditions such as age-related muscle loss (sarcopenia) and drug-induced microbial changes remain poorly understood. To address this gap, GRAPHICAL ABSTRACT: [Image: see text] SUPPLEMENTARY INFORMATION: The online version contains supplementary material availa...",
+      "segment": 12,
+      "timestamp": 1123.82
+    },
+    {
+      "title": "The silent pharmacist: Harnessing the gut microbiome to improve therapy in hematologic malignancies.",
+      "url": "https://doi.org/10.1016/j.tranon.2026.102833",
+      "source": "PubMed — Translational oncology",
+      "one_liner": "The gut microbiome, a complex ecosystem of microorganisms, is now recognized as a key determinant of drug efficacy and toxicity, giving rise to the field of pharmacomicrobiomics. This review decodes the profound influence of the gut microbiome on treatment outcomes for hematologic malignancies. We explore the tripartite mechanistic pathways through which ...",
+      "segment": 13,
+      "timestamp": 1231.39
+    },
+    {
+      "title": "Systemic Antibiotics in the Surgical Treatment of Peri-Implantitis: Impact on the Salivary Microbiome.",
+      "url": "https://doi.org/10.1111/jcpe.70143",
+      "source": "PubMed — Journal of clinical periodontology",
+      "one_liner": "AIM: To exploratorily compare the shifts in the salivary microbiome composition after administration of two combined systemic antibiotic regimens used in the surgical treatment of peri-implantitis. MATERIALS AND METHODS: A subset of 27 patients treated surgically for peri-implantitis with an adjunctive 7-day course of systemic antibiotics were included (g...",
+      "segment": 14,
+      "timestamp": 1277.66
+    },
+    {
+      "title": "DNA viruses are constrained to ecological niches and share similar environmental adaptations with hosts.",
+      "url": "https://doi.org/10.1038/s41467-026-73439-9",
+      "source": "PubMed — Nature communications",
+      "one_liner": "Viruses are ubiquitous albeit individually constrained by host-range. Less well understood are environmental limitations on virus proliferation. To investigate estuarine viral diversity, niche constraints, and traits of environmental adaptation, we analyse metagenomic and metatranscriptomic data from an estuarine salinity gradient, including water and sed...",
+      "segment": 15,
+      "timestamp": 1326.64
+    },
+    {
+      "title": "Research advances in the identification of gut keystone bacteria and formulation of suitable dietary intervention strategies for restoring gut homeostasis.",
+      "url": "https://doi.org/10.1038/s41522-026-01020-9",
+      "source": "PubMed — NPJ biofilms and microbiomes",
+      "one_liner": "Methodological inconsistencies hinder the identification of gut keystone bacteria and their functional mechanisms. This work critically compares identification approaches, elucidates their interactions within the microbiota and host, and systematically details targeted dietary interventions. By explicitly linking keystone identification to diet-driven mod...",
+      "segment": 16,
+      "timestamp": 1372.54
+    },
+    {
+      "title": "Cutibacterium acnes inhibits Staphylococcus lugdunensis biofilm formation through inhibition of autolysis and purine biosynthesis.",
+      "url": "https://doi.org/10.1038/s41522-026-01014-7",
+      "source": "PubMed — NPJ biofilms and microbiomes",
+      "one_liner": "Cutibacterium acnes is a key member of the human skin microbiome that contributes to host homeostasis. Staphylococcus lugdunensis, while also a resident of the skin microbiota, is an opportunistic pathogen capable of causing severe infections, associated with its ability to form biofilms. We previously showed that C. acnes secretes molecules that inhibit ...",
+      "segment": 17,
+      "timestamp": 1414.11
+    },
+    {
+      "title": "Agmatine protects against MAFLD via decreasing RBM15/IGF2BP2-mediated m",
+      "url": "https://doi.org/10.1007/s11033-026-11909-5",
+      "source": "PubMed — Molecular biology reports",
+      "one_liner": "BACKGROUND: Gut microbiota and its metabolites are revealed to affect metabolic dysfunction-associated fatty liver disease (MAFLD) progression. Precedingly, we proved bifidobacterium bifidum BGN4 fractions declined sterol regulatory element-binding transcription factor 1 (SREBP1) to suppress ferroptosis during MAFLD. This study explored whether agmatine, ...",
+      "segment": 18,
+      "timestamp": 1460.98
+    },
+    {
+      "title": "The Role of Probiotics, Prebiotics, and Synbiotics for Reducing Chemotherapy-Induced Gastrointestinal Toxicity: A Systematic Review and Meta-Analysis.",
+      "url": "https://doi.org/10.2478/rjim-2026-0011",
+      "source": "PubMed — Romanian journal of internal medicine = Revue roumaine de medecine interne",
+      "one_liner": "BACKGROUND: Chemotherapy-induced gastrointestinal toxicity remains a major clinical problem that limits treatment adherence and quality of life in cancer patients. Microbiota-modulating interventions such as probiotics, prebiotics, and synbiotics have been proposed as supportive therapies, yet their comparative effectiveness remains unclear. OBJECTIVE: Th...",
+      "segment": 19,
+      "timestamp": 1581.5
+    },
+    {
+      "title": "The effect of probiotic and synbiotic supplementation on sleep parameters in exercised population: a systematic review and synthesis without meta-analysis (SWiM) of randomized controlled trials.",
+      "url": "https://doi.org/10.1080/15502783.2026.2670564",
+      "source": "PubMed — Journal of the International Society of Sports Nutrition",
+      "one_liner": "BACKGROUND: Sleep is crucial for recovery and optimal performance in athletes; however, poor sleep is common during periods of intensive training or competition. The microbiota-gut-brain axis suggests probiotics and synbiotics could modulate sleep, but evidence in exercised populations is limited. OBJECTIVE: To systematically review randomized controlled ...",
+      "segment": 20,
+      "timestamp": 1712.42
+    },
+    {
+      "title": "Fecal Microbiota Transplantation From Healthy Donors Reduces Glycemic Variability in Streptozotocin-Induced Diabetic Rats via Enhanced Hepatic Glycogen Synthesis.",
+      "url": "https://doi.org/10.1155/ije/8852077",
+      "source": "PubMed — International journal of endocrinology",
+      "one_liner": "BACKGROUND: Blood glucose fluctuations in patients with brittle diabetes have been a problem for clinicians. A recent study found that transplanting the intestinal flora of healthy people to patients with brittle diabetes can improve their blood glucose fluctuations. However, the underlying mechanism remains unclear. METHODS: Streptozotocin-induced diabet...",
+      "segment": 21,
+      "timestamp": 1756.67
+    },
+    {
+      "title": "Gastrointestinal microbiota and barrier integrity in individuals who develop exertional heat illness and pair-matched controls: A prospective observational cohort study.",
+      "url": "https://doi.org/10.1113/EP093100",
+      "source": "PubMed — Experimental physiology",
+      "one_liner": "It has been hypothesised that the composition of the gastrointestinal (GI) microbiota contributes to exertional heat illness (EHI) aetiology, but relevant empirical data in humans are lacking. Utilising a unique prospective study design, stool samples and resting blood samples were obtained from 550 individuals prior to (within 3 days) undertaking a 6.4-m...",
+      "segment": 22,
+      "timestamp": 1802.98
+    },
+    {
+      "title": "Natural antigen landscape shaping intestinal Treg cells: Self, diet, and microbiota.",
+      "url": "https://doi.org/10.1080/08830185.2026.2677909",
+      "source": "PubMed — International reviews of immunology",
+      "one_liner": "The gut represents a melting pot of distinct classes of antigens derived from self antigens, dietary components, and the commensal microbiota. To maintain tolerance to innocuous antigens while preserving the capacity to respond to potentially harmful microorganisms, the immune system has evolved tightly regulated mechanisms centered on the generation of F...",
+      "segment": 23,
+      "timestamp": 1851.48
+    },
+    {
+      "title": "A single-strain dropout screen reveals mechanistic links between microbial ecology and metabolism",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.05.23.727446",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "The complexity of the gut microbiome has made it challenging to define the role of individual species in community-level function. Here, we constructed 56 single-strain dropout variants of a defined 118-member community and used each one to colonize a group of germ-free mice. In many cases, removing a single strain triggered a large reordering of a small ...",
+      "segment": 24,
+      "timestamp": 1895.62
+    },
+    {
+      "title": "Ecology and engineering to modify the bile acid output of a defined microbial community",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.05.23.727444",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "The bile acid pool, which is synthesized collaboratively by the host and its microbiome, impacts metabolism, immunity, and disease risk. Targeted microbiome interventions could in principle reshape the bile acid pool for therapeutic benefit, but practical strategies remain elusive. In the course of screening a complex defined community for metabolic pheno...",
+      "segment": 25,
+      "timestamp": 1936.48
+    },
+    {
+      "title": "Proton pump inhibitors in acute-on-chronic liver failure: a sheep in a sheep's clothing.",
+      "url": "https://doi.org/10.17235/reed.2026.12005/2026",
+      "source": "PubMed — Revista espanola de enfermedades digestivas",
+      "one_liner": "Proton pump inhibitors (PPIs) are one of the safest drugs available which are largely overprescribed in clinical practice. Preclinical studies have suggested that chronic use of PPIs may alter gut microbiome and could promote gastrointestinal infections. Although the number-to-treat for a single infection event is high, the risk in patients with end-stage...",
+      "segment": 26,
+      "timestamp": 1981.43
+    },
+    {
+      "title": "Metformin as a promising therapeutic option for reducing substance withdrawal syndromes: A narrative review.",
+      "url": "https://doi.org/10.1016/j.biopha.2026.119553",
+      "source": "PubMed — Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "one_liner": "Substance withdrawal syndromes pose significant challenges in addiction treatment, often leading to poor treatment adherence and high relapse rates. This review evaluates metformin's potential as a therapeutic option for substance withdrawal syndromes, focusing on its mechanisms (AMPK activation, neurotransmitter modulation, gut microbiome effects) and cl...",
+      "segment": 27,
+      "timestamp": 2100.68
+    }
+  ]
+}
