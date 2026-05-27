@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Tue, 26 May 2026 07:01:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 07:27:49 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-05-27</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-27/podcast_2026-05-27.mp3</guid>
+      <pubDate>Wed, 27 May 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-27/podcast_2026-05-27.mp3" length="19322756" type="audio/mpeg" />
+      <description>Cadmium exposure reshapes the human gut microbiome in a donor‑specific way, according to a new bioRxiv preprint. | The study investigates how fucoidan, a sulfated polysaccharide derived from brown algae, influences kidney fibrosis—a central driver of chronic kidney disease progression. | The available excerpt confirms that chronic kidney disease imposes a major global health burden, with renal fibrosis serving as the key pathological driver of disease worsening.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Cadmium exposure reshapes the human gut microbiome in a donor‑specific way, according to a new bioRxiv preprint. | The study investigates how fucoidan, a sulfated polysaccharide derived from brown algae, influences kidney fibrosis—a central driver of chronic kidney disease progression. | The available excerpt confirms that chronic kidney disease imposes a major global health burden, with renal fibrosis serving as the key pathological driver of disease worsening.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-05-26</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-26/podcast_2026-05-26.mp3</guid>
       <pubDate>Tue, 26 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-26/podcast_2026-05-26.mp3" length="16144484" type="audio/mpeg" />
-      <description>Recent work highlighted in Cell Metabolism shows that specific gut‑derived metabolites directly tune the effectiveness of immune checkpoint blockade in cancer. | In a study published in NPJ Biofilms and Microbiomes, researchers investigated, for the first time, how intravesical instillation of Mycobacterium bovis BCG and the non‑pathogenic immunomodulator Mycobacterium brumae reshapes both bladder and gut microbiota in a murine bladder cancer model. | The available text does not provide details on the specific mouse strain, tumor induction method, dosing regimen, or duration of BCG or brumae administrations.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-26/podcast_2026-05-26.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Recent work highlighted in Cell Metabolism shows that specific gut‑derived metabolites directly tune the effectiveness of immune checkpoint blockade in cancer. | In a study published in NPJ Biofilms and Microbiomes, researchers investigated, for the first time, how intravesical instillation of Mycobacterium bovis BCG and the non‑pathogenic immunomodulator Mycobacterium brumae reshapes both bladder and gut microbiota in a murine bladder cancer model. | The available text does not provide details on the specific mouse strain, tumor induction method, dosing regimen, or duration of BCG or brumae administrations.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-26/podcast_2026-03-26.mp3</guid>
       <pubDate>Thu, 26 Mar 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-26/podcast_2026-03-26.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-03-25</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-25/podcast_2026-03-25.mp3</guid>
-      <pubDate>Wed, 25 Mar 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-25/podcast_2026-03-25.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
