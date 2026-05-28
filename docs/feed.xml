@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Wed, 27 May 2026 07:27:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 07:19:30 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-05-28</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-28/podcast_2026-05-28.mp3</guid>
+      <pubDate>Thu, 28 May 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-28/podcast_2026-05-28.mp3" length="20203964" type="audio/mpeg" />
+      <description>The paper titled *Microbiota‑Derived Metabolites in Developmental Programming: Bridging Early‑Life Gut Microbiota to Childhood Metabolic Disorders* sets out to explain how metabolites produced by the infant gut microbiota might serve as the mechanistic link between early‑life microbial colonization and the later emergence of metabolic disorders in children. | However, the available text does not provide details on which specific metabolites were examined, the experimental or cohort designs used to test these links, or any quantitative outcomes such as effect sizes, p‑values, or validation in human versus animal models. | The study set out to untangle how host genetics and the gut microbiome jointly shape fat deposition and reproductive performance in pregnant sows.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>The paper titled *Microbiota‑Derived Metabolites in Developmental Programming: Bridging Early‑Life Gut Microbiota to Childhood Metabolic Disorders* sets out to explain how metabolites produced by the infant gut microbiota might serve as the mechanistic link between early‑life microbial colonization and the later emergence of metabolic disorders in children. | However, the available text does not provide details on which specific metabolites were examined, the experimental or cohort designs used to test these links, or any quantitative outcomes such as effect sizes, p‑values, or validation in human versus animal models. | The study set out to untangle how host genetics and the gut microbiome jointly shape fat deposition and reproductive performance in pregnant sows.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-05-27</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-27/podcast_2026-05-27.mp3</guid>
       <pubDate>Wed, 27 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-27/podcast_2026-05-27.mp3" length="19322756" type="audio/mpeg" />
-      <description>Cadmium exposure reshapes the human gut microbiome in a donor‑specific way, according to a new bioRxiv preprint. | The study investigates how fucoidan, a sulfated polysaccharide derived from brown algae, influences kidney fibrosis—a central driver of chronic kidney disease progression. | The available excerpt confirms that chronic kidney disease imposes a major global health burden, with renal fibrosis serving as the key pathological driver of disease worsening.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-27/podcast_2026-05-27.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Cadmium exposure reshapes the human gut microbiome in a donor‑specific way, according to a new bioRxiv preprint. | The study investigates how fucoidan, a sulfated polysaccharide derived from brown algae, influences kidney fibrosis—a central driver of chronic kidney disease progression. | The available excerpt confirms that chronic kidney disease imposes a major global health burden, with renal fibrosis serving as the key pathological driver of disease worsening.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-27/podcast_2026-03-27.mp3</guid>
       <pubDate>Fri, 27 Mar 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-27/podcast_2026-03-27.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-03-26</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-26/podcast_2026-03-26.mp3</guid>
-      <pubDate>Thu, 26 Mar 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-26/podcast_2026-03-26.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
