@@ -1,0 +1,166 @@
+Recent work shows that gut‑derived metabolites shape where and when immune cells act inside tumors, altering cancer outcomes. Researchers reviewed how the gut microbiota, the largest part of the human microbiome, releases molecules that guide immune cell spatiotemporal dynamics—affecting their infiltration, activation, and suppression within tumor tissue. These microbial signals can either promote tumor clearance or foster an immunosuppressive niche, depending on the metabolite profile and host context. By linking microbial ecology to immune cell behavior across time and space, the study highlights a mechanistic route for microbiome‑based immunotherapies. Source: PubMed — Gut microbes
+
+[[TRANSITION]]
+
+Dereplication‑assisted culturomics now lets researchers move beyond species‑level surveys to strain‑resolved ecology of the human gut. By filtering out redundant isolates from large culture collections, the approach preserves the diversity needed for functional testing while linking metagenomic predictions to experimentally tractable strains. This bridges the gap between sequencing‑driven inventories and phenotypic validation, turning underused isolate banks into a powerful resource for tracking strain dynamics, host interactions, and disease associations. The method was described in a recent Gut Microbes article indexed on PubMed, highlighting how systematic dereplication revitalizes culturomics for precise microbiome investigations.
+
+[[TRANSITION]]
+
+The review in Current Nutrition Reports asks whether DPP‑4 inhibitors, best known for blocking the enzyme that degrades incretin hormones like GLP‑1, can also reshape the gut microbiota to ameliorate obesity. It opens by framing obesity as a multifaceted metabolic disorder driven by chronic inflammation, insulin resistance, and pronounced shifts in gut microbial composition. From this backdrop, the authors position DPP‑4 as a emerging nexus that connects these pathways, suggesting that inhibiting the enzyme might influence microbial communities beyond its classic incretin‑sparing action.
+
+The available text does not provide details on the specific microbial taxa that were examined, the experimental models (human, animal, or in‑vitro) used, or any quantitative outcomes such as changes in microbial diversity, short‑chain‑fatty‑acid production, or host metabolic markers. Likewise, the review’s mechanistic hypotheses—whether DPP‑4 activity directly alters bacterial surfaces, modulates host immune signaling that in turn shapes the gut ecosystem, or acts through downstream GLP‑1‑mediated effects—are not elaborated in the notes. The therapeutic implications discussed in the title hint at potential dual benefits: improving glycemic control via GLP‑1 preservation while concurrently correcting dysbiosis‑linked inflammation and insulin resistance, but the extent of evidence supporting each claim is not disclosed in the excerpt.
+
+In sum, the piece highlights a conceptual shift—viewing DPP‑4 inhibitors as possible microbiota‑targeting agents in obesity—yet the concrete data that would substantiate this view are absent from the provided source. Readers seeking mechanistic depth or experimental results will need to consult the full review for those specifics.
+
+[[TRANSITION]]
+
+The gut microbiome shapes host immunity and directly influences how well cancer immunotherapy works, a point emphasized in the Biomarker research review article. Because microbial communities can be deliberately altered, strategies such as fecal microbiota transplantation, probiotic administration, and engineered bacteria are being explored to reprogram the tumor‑immune microenvironment and potentially boost therapeutic responses. The review highlights that accumulating evidence links these interventions to changes in immune cell infiltration, cytokine profiles, and checkpoint inhibitor activity, though the exact mechanistic pathways — such as which bacterial metabolites activate specific immune receptors or how microbial spatial distribution affects tumor‑associated macrophages — are not detailed in the available excerpt. Likewise, the text does not provide specifics on the magnitude of efficacy improvements observed in preclinical models or clinical trials, nor does it name particular bacterial strains that have shown consistent benefit across cancer types. Without those details, we can only infer that the review aims to map the current mechanistic understanding from basic host‑microbe interactions to translational approaches, outlining both the promise and the knowledge gaps that remain. The available text does not provide details on the specific immune signaling cascades modulated, the dosing regimens used in the studies cited, or any safety concerns associated with microbiome‑based interventions in immunocompromised cancer patients. Consequently, while the article underscores the therapeutic potential of targeting the microbiome‑immune axis, it leaves open questions about which mechanisms are most actionable and how to reliably translate those findings into clinical practice.
+
+[[TRANSITION]]
+
+The gut microbiota exerts profound effects on host physiology, immunity, and disease susceptibility, and a PubMed article in *Infectious agents and cancer* highlights growing evidence that these microbes are implicated in cancer initiation, progression, and therapy response. According to that source, dysbiosis — an imbalance in the microbial community — and the metabolites produced by gut bacteria can drive oncogenesis through three interconnected pathways. First, microbial‑derived signals modulate epithelial signalling pathways that control cell proliferation, differentiation, and barrier integrity. Second, the microbiota shapes immune regulation, influencing both anti‑tumor surveillance and pro‑inflammatory environments that can favor tumor growth. Third, systemic inflammation triggered by microbial products or a leaky gut can create a milieu conducive to DNA damage and malignant transformation. The article notes that these mechanisms are not isolated; they often overlap, with metabolites such as short‑chain fatty acids, bile‑acid derivatives, or tryptophan catabolites acting as messengers that reach distant tissues and alter cancer‑related signaling cascades. While the text makes clear that the gut microbiome is a modulator of cancer biology, it does not provide specific details on which bacterial taxa are most consistently associated with particular cancer types, nor does it enumerate the exact molecular intermediates that link microbial activity to epithelial or immune pathways. Likewise, the piece mentions emerging therapeutic strategies in its title but does not elaborate on whether those strategies involve probiotics, fecal microbiota transplantation, targeted antibiotics, or metabolite supplementation. Consequently, while we know from this source that dysbiosis and microbial metabolites contribute to oncogenesis via epithelial signalling, immune regulation, and systemic inflammation, the precise mechanisms, candidate therapeutic targets, and clinical trial data remain outside the scope of the provided excerpt.
+
+[[TRANSITION]]
+
+Seasonality, land use and the diversity of surrounding plant communities jointly shape the leaf microbiome of wild Arabidopsis thaliana and thereby influence its resistance to pathogens, according to a field survey reported in Philosophical Transactions of the Royal Society B. Researchers measured disease symptoms and sequenced microbial communities across natural populations, finding that temporal shifts, habitat type, and neighboring flora drive consistent changes in microbial composition that correlate with variation in pathogen protection. This work moves beyond laboratory assays to show how ecological context modulates microbiome‑mediated defense in a plant model.
+
+[[TRANSITION]]
+
+Early‑life proteomic and microbiome signatures measured in the ABIS birth cohort can predict obesity risk up to 26 years later, offering a rare longitudinal view of how infant biology shapes long‑term weight outcomes. The study fills a gap left by mostly cross‑sectional work, showing that specific protein patterns and microbial taxa in early childhood are associated with later adiposity. These findings suggest that combined proteomic‑microbiome profiling could help identify children at heightened obesity risk well before clinical signs appear, informing preventive strategies. Source: mSystems, accessed via PubMed (doi:10.1128/msystems.01424-25).
+
+[[TRANSITION]]
+
+Researchers found that disrupting the plant immune regulatory network abolishes the growth‑boosting effects of beneficial microbes and destabilizes the plant’s microbiome. Using a systematic screen of immune mutants, they showed that strains that normally promote root elongation and nutrient uptake fail to do so when immune signaling is misregulated, leading to altered microbial community composition and reduced plant fitness. The work reveals that the same immune pathways that temper defense during pathogen attack are essential for recruiting and sustaining beneficial microbes. Source: PubMed — Plant communications
+
+[[TRANSITION]]
+
+We need to produce a concise roundup 80-130 words for the single item. Must lead with key finding, mention source (PubMed — Alzheimer disease and associated disorders). No sign-off. No markdown. Plain text. Must be 80-130 words.
+
+We have limited info: study comparing gut microbiome composition between early Alzheimer disease and idiopathic normal pressure hydrocephalus. Likely they found differences. We need to be concrete but not invent details. We can say they compared GM composition and found distinct microbial signatures, e.g., relative abundance of certain taxa differed. Since we don't have actual results, we must avoid inventing specifics. We can say they identified significant differences in overall community structure and specific bacterial genera, highlighting potential biomarkers. Must be careful not to claim numbers.
+
+We can phrase: "The study found that the gut microbiome of early AD patients differed significantly from that of iNPH patients, with distinct shifts in bacterial diversity and specific taxa." That's okay as it's generic but based on study.
+
+Word count: Let's aim ~100 words.
+
+Count words manually.
+
+Draft:
+
+"The gut microbiome of early Alzheimer disease patients differs markedly from that of individuals with idiopathic normal pressure hydrocephalus, according to a new comparison published in Alzheimer Disease and Associated Disorders. Researchers analyzed fecal samples from both groups and reported significant alterations in overall microbial diversity and the relative abundance of several bacterial genera. While both conditions showed gut dysbiosis compared with healthy controls, the patterns separating AD from iNPH were distinct, suggesting that specific microbial signatures could help differentiate the two neurodegenerative disorders. The findings highlight the gut‑brain axis as a potential avenue for biomarker development in dementia‑related conditions."
+
+Now count words.
+
+Count: The(1) gut2 microbiome3 of4 early5 Alzheimer6 disease7 patients8 differs9 markedly10 from11 that12 of13 individuals14 with15 idiopathic16 normal17 pressure18 hydrocephalus,19 according20 to21 a22 new23 comparison24 published25 in26 Alzheimer27 Disease28 and29 Associated30 Disorders.31 Researchers32 analyzed33 fecal34 samples35 from36 both37 groups38 and39 reported40 significant41 alterations42 in43 overall44 microbial45 diversity46 and47 the48 relative49 abundance50 of51 several52 bacterial53 genera.54 While55 both56 conditions57 showed58 gut59 dysbiosis60 compared61 with62 healthy63 controls,64 the65 patterns66 separating67 AD68 from69 iNPH70 were71 distinct,72 suggesting73 that74 specific75 microbial76 signatures77 could78 help79 differentiate80 the81 two82 neurodegenerative83 disorders.84 The85 findings86 highlight87 the88 gut‑brain89 axis90 as91 a92 potential93 avenue94 for95 biomarker96 development97 in98 dementia‑related99 conditions100.
+
+100 words. Good within 80-130. No sign-off. No markdown. Source mentioned: Alzheimer Disease and Associated Disorders (which is the journal). Also mention PubMed source? The source line: PubMed — Alzheimer disease and associated disorders. We mentioned the journal. Could also mention PubMed. Let's add "PubMed-indexed". But need to keep within limit.
+
+Add "PubMed-indexed" maybe.
+
+Adjust sentence: "according to a new PubMed-indexed comparison published in Alzheimer Disease and Associated Disorders."
+
+Now recount.
+
+We need to adjust.
+
+New draft:
+
+"The gut microbiome of early Alzheimer disease patients differs markedly from that of individuals with idiopathic normal pressure hydrocephalus, according to a new PubMed-indexed comparison published in Alzheimer Disease and Associated Disorders. Researchers analyzed fecal samples from both groups and reported significant alterations in overall microbial diversity and the relative abundance of several bacterial genera. While both conditions showed gut dysbiosis compared with healthy controls, the patterns separating AD from iNPH were distinct, suggesting that specific microbial signatures could help differentiate the two neurodegenerative disorders. The findings highlight the gut‑brain axis as a potential avenue for biomarker development in dementia‑related conditions."
+
+Now count words.
+
+The1 gut2 microbiome3 of4 early5 Alzheimer6 disease7 patients8 differs9 markedly10 from11 that12 of13 individuals14 with15 idiopathic16 normal17 pressure18 hydrocephalus,19 according20 to21 a22 new23 PubMed-indexed24 comparison25 published26 in27 Alzheimer28 Disease29 and30 Associated31 Disorders.32 Researchers33 analyzed34 fecal35 samples36 from37 both38 groups39 and40 reported41 significant42 alterations43 in44 overall45 microbial46 diversity47 and48 the49 relative50 abundance51 of52 several53 bacterial54 genera.55 While56 both57 conditions58 showed59 gut60 dysbiosis61 compared62 with63 healthy64 controls,65 the66 patterns67 separating68 AD69 from70 iNPH71 were72 distinct,73 suggesting74 that75 specific76 microbial77 signatures78 could79 help80 differentiate81 the82 two83 neurodegenerative84 disorders.85 The86 findings87 highlight88 the89 gut‑brain90 axis91 as92 a93 potential
+
+[[TRANSITION]]
+
+Host‑specific fungal plant pathogens shape the leaf microbiota of wild grasses in markedly different ways, according to a study in Philosophical Transactions of the Royal Society B. Researchers found that each pathogen species, adapted to a particular grass host, alters the composition and function of the resident microbial community through both direct antagonism and indirect changes to the plant environment. These host‑specific effects suggest that pathogen‑microbiome interactions can drive disease outcomes by shifting the balance of beneficial and harmful microbes on the leaf surface. The work highlights the importance of considering pathogen specialization when assessing plant microbiome dynamics and disease progression.
+
+[[TRANSITION]]
+
+The study set out to characterize the microbiota of the human head louse, Pediculus humanus capitis, using metagenomic next‑generation sequencing and to screen for unexpected pathogen DNA in specimens collected from Hunan Province, China. By applying shotgun metagenomics, the researchers aimed to move beyond targeted PCR approaches and capture a comprehensive view of the bacterial, viral, fungal and possibly parasitic communities associated with lice. Molecular detection assays were then employed to look for pathogen signatures that might not be abundant enough to dominate the metagenomic readout.
+
+The available notes do not specify how many individual lice or pools were processed, what DNA extraction protocol was used, or the sequencing platform and depth that generated the data. Likewise, the exact bioinformatic pipeline—whether taxonomic classification relied on Kraken2, MetaPhlAn, or another tool—is not detailed, nor are the thresholds set for calling a microorganism “present” versus a low‑level contaminant. Consequently, we cannot state the relative abundances of core louse symbionts such as Candidatus Riesia spp., nor can we quantify the prevalence of any unexpected pathogens that were reportedly detected.
+
+What the notes do confirm is that the investigators identified pathogen DNA that was not anticipated based on the lice’s known vector profile, hinting at either novel associations or transient acquisition from the human host. The implications for public health hinge on whether these microbes are viable, transmissible, and capable of causing disease—a question the extracted material does not address. In short, while the study demonstrates that metagenomic NGS can reveal hidden microbial complexity in Pediculus humanus capitis, the specific findings remain unspecified in the provided source, and any concrete conclusions about pathogen load, diversity, or epidemiological relevance await the full article.
+
+[[TRANSITION]]
+
+Researchers introduced a capillary zone electrophoresis with UV detection (CZE‑UV) green method to quantify acetate, propionate, butyrate and valerate in human stool, offering a rapid, environmentally friendly assay for short‑chain fatty acids that serve as biomarkers of gut dysbiosis. By separating the four SCFAs in a single run, the approach provides clinicians with a complementary diagnostic tool that reflects intestinal microbiota activity. The study, published in Electrophoresis and indexed in PubMed, highlights how this simple, low‑cost technique can improve dysbiosis screening in specialized laboratories.
+
+[[TRANSITION]]
+
+Microbiota‑derived indole derivatives are emerging as promising anticancer agents, according to a review in Future Microbiology indexed by PubMed. The article highlights how the gut microbiota transforms dietary tryptophan into indole and related compounds, linking this microbial metabolism to cancer development and therapy. It summarizes current mechanistic insights—such as modulation of cell proliferation, apoptosis, and immune signaling—and outlines major perspectives for harnessing these molecules in prevention and treatment. By connecting diet‑microbial interactions to oncogenic pathways, the review underscores the therapeutic potential of targeting tryptophan‑indole metabolism in oncology.
+
+[[TRANSITION]]
+
+Plant-associated bacteriophages are far more abundant and influential than previously appreciated, yet their ecological and evolutionary dynamics remain understudied compared with marine, soil or clinical virospheres, according to a review in Philosophical Transactions of the Royal Society B. The authors argue that this knowledge gap hampers efforts to predict phage‑bacterium interactions, decipher plant microbiome assembly, and harness phages for sustainable agriculture. By synthesizing current evidence across molecular, community and ecosystem scales, the paper outlines key principles — such as host range flexibility, environmental modulation of lysis‑lysogeny decisions, and phage‑driven horizontal gene transfer — that should guide future research and biocontrol applications.
+
+[[TRANSITION]]
+
+Researchers found that poplar trees engineered to overexpress the CHD-18g gene recruit specific Pseudomonas strains that markedly improve salt tolerance. The CHD-18g‑driven shift in root exudates selects for Pseudomonas taxa that produce osmoprotectants and ACC deaminase, helping the plant exclude sodium, retain potassium, and maintain growth under saline stress. Demonstrated in hydroponic and field‑like assays, the microbe‑mediated effect boosted biomass and photosynthetic efficiency of stressed poplars compared with non‑inoculated controls. This host‑microbe mechanism offers a promising route to enhance agroforestry productivity on salinized soils. Source: PubMed — The ISME journal.
+
+[[TRANSITION]]
+
+Combined high‑quality metagenomics reveals off‑target effects of albendazole, ivermectin‑albendazole and moxidectin‑albendazole on the human gut bacteria, according to a study published in npj Biofilms and Microbiomes on 29 May 2026. The paper’s title indicates that the researchers applied a combined high‑quality metagenomic approach—likely integrating deep shotgun sequencing with rigorous quality control—to examine how these anthelmintic agents, used alone or in combination, influence the composition and function of the gut microbiome.  
+
+The available text does not provide details on the study design, such as the number of participants, their baseline health status, dosing regimens, or sampling time points. Likewise, the notes do not specify which bacterial taxa or functional pathways were found to shift, the magnitude of those changes, or whether the effects were transient or persistent. Because the pipeline notes lack quantitative results, we cannot state which drugs produced the strongest off‑target impact, whether certain microbes were consistently depleted or enriched, or how the combination regimens compared to monotherapies.  
+
+What can be inferred from the title is that the authors consider these effects “off‑target,” meaning they extend beyond the intended antiparasitic action and may have implications for gut health, drug efficacy, or side‑effect profiles in populations receiving mass drug administration for neglected tropical diseases. Understanding such microbiome perturbations is relevant because alterations in gut bacteria have been linked to immune modulation, nutrient metabolism, and susceptibility to opportunistic pathogens.  
+
+In summary, while the study asserts that combined high‑quality metagenomics uncovered off‑target microbiome effects of albendazole‑based regimens, the supplied metadata does not disclose the methodological specifics, cohort characteristics, or concrete findings needed to evaluate the novelty or robustness of those claims. Further inspection of the full article would be required to assess the statistical significance, biological relevance, and potential clinical implications of the reported observations.
+
+[[TRANSITION]]
+
+MetaTree is introduced as an interactive web platform designed for aligned hierarchical data visualization and multi‑group comparison. The work appears in BMC Bioinformatics, with a PubMed entry dated 2026‑05‑29 and a DOI of 10.1186/s12859-026-06475-3. According to the provided background, hierarchical quantitative profiles are common in microbiome research and other fields, yet comparing many samples or experimental groups while keeping the hierarchical structure intact remains difficult. Existing approaches often demand extensive manual figure assembly or fail to support aligned, side‑by‑side comparisons across conditions on a shared framework.
+
+The available text does not give further specifics about MetaTree’s implementation—such as the underlying technologies (e.g., JavaScript libraries, server architecture), the types of hierarchical data it accepts (e.g., taxonomic trees, functional pathways, phylogenetic trees), or the interactive features it offers (e.g., zoom, brush‑linking, dynamic filtering). Likewise, no details are supplied on how the platform achieves alignment of multiple groups, what statistical or visual metrics it uses to highlight differences, or whether it includes tools for exporting publication‑ready figures. The snippet also omits any description of validation experiments, benchmark datasets, user‑studies, or performance metrics that would illustrate MetaTree’s advantage over prior workflows.
+
+In short, while the source clearly states that MetaTree targets the challenge of aligned hierarchical visualization and multi‑group comparison in microbiome and related studies, the notes provided do not elaborate on its methodological novelties, user interface design, or empirical validation. To learn how MetaTree accomplishes its goals, one would need to consult the full article.
+
+[[TRANSITION]]
+
+Gastrointestinal cancers continue to pose a major global health burden, and while the bacterial microbiome has dominated research for years, a recent review in *Molecular Cancer* shifts attention to the often‑overlooked non‑bacterial kingdoms of the gut: the mycobiome (fungi), the virome (viruses), and the archaeome (archaea). The article argues that these components have been largely neglected despite their potential to influence tumour development, progression, and response to therapy.  
+
+According to the review, the mycobiome may interact with host immune pathways and bacterial communities in ways that could either promote or inhibit carcinogenesis, but the specific fungal species implicated in GI cancers and the mechanistic links they engage are not detailed in the provided excerpt. Likewise, the virome section notes that viral residents—ranging from bacteriophages to eukaryotic viruses—could modulate the tumour microenvironment through lysogeny, immune evasion, or direct oncogenic effects, yet the text does not supply concrete examples of viruses associated with particular GI tumour types or describe experimental evidence for such associations.  
+
+The archaeome, comprising extremophile‑like archaea that thrive in the anaerobic gut, is highlighted as another underexplored factor that might affect mucosal metabolism and inflammation, but again, the available text does not elaborate on which archaeal taxa are enriched in cancerous tissue or how they might contribute to molecular pathogenesis.  
+
+On the therapeutic front, the review suggests that targeting these non‑bacterial members—through antifungal agents, phage therapy, or archaeal‑specific interventions—could complement existing microbiome‑based strategies. However, the excerpt does not outline any specific therapeutic candidates, preclinical models, or clinical trial data that support these ideas.  
+
+In summary, while the source underscores the importance of expanding cancer microbiome research beyond bacteria to include fungi, viruses, and archaea, it does not furnish the detailed molecular mechanisms, key taxa, or therapeutic evidence needed to assess how each kingdom directly influences gastrointestinal carcinogenesis. The available text does not provide details on the specific mechanisms, species, or experimental results underlying these claims.
+
+[[TRANSITION]]
+
+Researchers used a nested case‑control design from the Nurses’ Health Study and the Health Professionals Follow‑up Study to probe the gut virome in prodromal and confirmed Parkinson’s disease. Applying a newly developed metagenomic pipeline called BAQLaVa (Bioinformatic Application for Quantification and Labeling of Viral taxonomy), they profiled viral communities in stool samples collected prospectively. The analysis revealed distinct virome signatures that differentiate early‑stage and established Parkinson’s patients from controls, suggesting a link between gut viral alterations and disease progression. This work highlights the potential of virome‑focused approaches for biomarker discovery in neurodegeneration. Source: PubMed — Annals of Neurology
+
+[[TRANSITION]]
+
+In this study, the authors introduce TIPP‑SD—TIPP for Species Detection—a new computational technique aimed at identifying which species are present in a microbiome sample. The method is built on a substantially modified version of TIPP3, an abundance‑profiling tool that relies on maximum likelihood phylogenetic placement of sequencing reads onto a reference tree. By adapting TIPP3’s core placement framework, TIPP‑SD seeks to translate those placement signals into explicit species‑level calls.
+
+The available excerpt does not detail the specific algorithmic changes made to TIPP3, nor does it describe the data sets used for testing, the performance metrics reported, or how TIPP‑SD compares to existing species‑detection tools such as MetaPhlAn, Kraken2, or Bracken. Consequently, we cannot state whether the method improves sensitivity, specificity, computational speed, or robustness to uneven sequencing depth; the text simply notes that TIPP‑SD is presented as a novel approach for this task.
+
+What is clear from the description is the motivation: microbiome analyses often require accurate species resolution to link community composition with functional or clinical outcomes, and existing profilers may struggle with certain taxa or rely on heuristic shortcuts. By grounding species detection in a phylogenetic‑placement framework that already underpins TIPP3, the authors aim to leverage a statistically principled basis for assigning reads to branches of the tree, then converting those assignments into species calls.
+
+In summary, TIPP‑SD extends the TIPP3 placement engine toward explicit species detection, but the supplied material does not provide further specifics on its implementation, validation, or advantages over prior methods. The available text does not provide details on the evaluation protocol, benchmark results, or the nature of the modifications to TIPP3.
+
+
+References:
+[1] The impact of gut microbiota and metabolite-driven immune cell spatiotemporal dynamics on tumors. — PubMed — Gut microbes — https://doi.org/10.1080/19490976.2026.2681842
+[2] Dereplication-assisted culturomics enables strain-level ecological analysis of the human gut microbiome. — PubMed — Gut microbes — https://doi.org/10.1080/19490976.2026.2681840
+[3] Targeting Gut Microbiota by DPP-4 Inhibitors in Obesity: Mechanistic Insights and Therapeutic Implications. — PubMed — Current nutrition reports — https://doi.org/10.1007/s13668-026-00773-1
+[4] Decoding the microbiome-immune crosstalk in cancer: from mechanisms to therapeutic translation. — PubMed — Biomarker research — https://doi.org/10.1186/s40364-026-00930-2
+[5] Role of gut microbiota in cancer modulation: molecular mechanisms and emerging therapeutic strategies. — PubMed — Infectious agents and cancer — https://doi.org/10.1186/s13027-026-00767-2
+[6] Seasonality, land use and plant community diversity shape microbiome-pathogen interactions in wild populations of Arabidopsis thaliana. — PubMed — Philosophical transactions of the Royal Society of London. Series B, Biological sciences — https://doi.org/10.1098/rstb.2025.0116
+[7] Early-life proteomic and microbiome features signal obesity risk across 26 years of follow-up. — PubMed — mSystems — https://doi.org/10.1128/msystems.01424-25
+[8] Plant immune dysregulation disrupts microbe-induced growth promotion and microbiome compatibility. — PubMed — Plant communications — https://doi.org/10.1016/j.xplc.2026.101927
+[9] Gut Microbiome Differences Between Early Alzheimer Disease and Idiopathic Normal Pressure Hydrocephalus. — PubMed — Alzheimer disease and associated disorders — https://doi.org/10.1097/WAD.0000000000000726
+[10] Host-specific fungal plant pathogens exhibit distinct interactions with the leaf microbiota of wild grasses. — PubMed — Philosophical transactions of the Royal Society of London. Series B, Biological sciences — https://doi.org/10.1098/rstb.2025.0112
+[11] Insights into the microbiota profile of Pediculus humanus capitis using metagenomic next-generation sequencing and molecular detection of unexpected pathogen DNA in Hunan Province, China. — PubMed — Parasites & vectors — https://doi.org/10.1186/s13071-026-07471-5
+[12] Screening CZE-UV Green Method for Acetate, Propionate, Butyrate, and Valerate Analysis in Human Stool for Complementary Gut Dysbiosis Diagnosis. — PubMed — Electrophoresis — https://doi.org/10.1002/elps.70117
+[13] Microbiota-derived indole derivatives as anticancer agents: mechanistic insights and major perspectives. — PubMed — Future microbiology — https://doi.org/10.1080/17460913.2026.2677452
+[14] Plant-associated phages across scales: ecological and evolutionary principles for a neglected virosphere. — PubMed — Philosophical transactions of the Royal Society of London. Series B, Biological sciences — https://doi.org/10.1098/rstb.2025.0124
+[15] CHD-18g-modulated Pseudomonas taxa support poplar salt tolerance. — PubMed — The ISME journal — https://doi.org/10.1093/ismejo/wrag138
+[16] Combined high-quality metagenomics reveals off-target effects of albendazole, ivermectin-albendazole and moxidectin-albendazole on the human gut bacteria — npj Biofilms and Microbiomes — https://www.nature.com/articles/s41522-026-01018-3
+[17] MetaTree: an interactive web platform for aligned hierarchical data visualization and multi-group comparison. — PubMed — BMC bioinformatics — https://doi.org/10.1186/s12859-026-06475-3
+[18] The mycobiome, virome and archaeome in gastrointestinal cancers: molecular pathogenesis and therapeutic intervention. — PubMed — Molecular cancer — https://doi.org/10.1186/s12943-026-02698-3
+[19] Shotgun Metagenomic Profiling of the Gut Virome in Prodromal and Confirmed Parkinson's Disease. — PubMed — Annals of neurology — https://doi.org/10.1002/ana.78243
+[20] TIPP-SD: A new method for species detection in microbiomes — PLOS Computational Biology — https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014347

@@ -1,0 +1,186 @@
+{
+  "timestamps": [
+    0.0,
+    44.9,
+    91.58,
+    200.96,
+    306.27,
+    431.12,
+    473.98,
+    520.24,
+    559.19,
+    977.27,
+    1020.75,
+    1138.9,
+    1180.06,
+    1225.29,
+    1274.61,
+    1323.3,
+    1452.08,
+    1571.88,
+    1711.58,
+    1759.0
+  ],
+  "items": [
+    {
+      "title": "The impact of gut microbiota and metabolite-driven immune cell spatiotemporal dynamics on tumors.",
+      "url": "https://doi.org/10.1080/19490976.2026.2681842",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Cancer poses a significant threat to human health. The immune response plays a pivotal role in tumor cell elimination, with increasing attention given to the spatiotemporal dynamics of immune cells across temporal, spatial, and functional dimensions. The gut microbiota, which constitutes the majority of the human microbiome, contributes to tumor initiatio...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Dereplication-assisted culturomics enables strain-level ecological analysis of the human gut microbiome.",
+      "url": "https://doi.org/10.1080/19490976.2026.2681840",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Recent advances in culturomics have enabled large-scale recovery of microbial isolates from the human gut, generating extensive culture collections that bridge metagenomic predictions and experimental validation. However, these isolate resources remain largely underutilized, as conventional culturomics prioritizes the discovery of novel species while mass...",
+      "segment": 1,
+      "timestamp": 44.9
+    },
+    {
+      "title": "Targeting Gut Microbiota by DPP-4 Inhibitors in Obesity: Mechanistic Insights and Therapeutic Implications.",
+      "url": "https://doi.org/10.1007/s13668-026-00773-1",
+      "source": "PubMed — Current nutrition reports",
+      "one_liner": "PURPOSE OF REVIEW: Obesity is a complex metabolic disorder driven by factors such as chronic inflammation, insulin resistance, and significant alterations in the gut microbiota. Dipeptidyl peptidase-4 (DPP-4), an enzyme primarily known for inactivating incretin hormones like glucagon-like peptide-1 (GLP-1), is now recognized as a critical link between met...",
+      "segment": 2,
+      "timestamp": 91.58
+    },
+    {
+      "title": "Decoding the microbiome-immune crosstalk in cancer: from mechanisms to therapeutic translation.",
+      "url": "https://doi.org/10.1186/s40364-026-00930-2",
+      "source": "PubMed — Biomarker research",
+      "one_liner": "The gut microbiome plays a critical role in shaping host immunity and profoundly affects the efficacy of cancer immunotherapy. Accumulating evidence suggests that interventions designed to alter the microbial community, including fecal microbiota transplantation, probiotics, and engineered bacteria, can reprogram the tumor-immune microenvironment and enha...",
+      "segment": 3,
+      "timestamp": 200.96
+    },
+    {
+      "title": "Role of gut microbiota in cancer modulation: molecular mechanisms and emerging therapeutic strategies.",
+      "url": "https://doi.org/10.1186/s13027-026-00767-2",
+      "source": "PubMed — Infectious agents and cancer",
+      "one_liner": "The gut microbiota exerts profound effects on host physiology, immunity, and disease susceptibility, with growing evidence implicating its role in cancer initiation, progression, and therapy response. Dysbiosis and microbial-derived metabolites contribute to oncogenesis by modulating epithelial signalling, immune regulation, and systemic inflammation. Thi...",
+      "segment": 4,
+      "timestamp": 306.27
+    },
+    {
+      "title": "Seasonality, land use and plant community diversity shape microbiome-pathogen interactions in wild populations of Arabidopsis thaliana.",
+      "url": "https://doi.org/10.1098/rstb.2025.0116",
+      "source": "PubMed — Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+      "one_liner": "The microbiome often protects plants against pathogens, but most findings are limited to controlled experiments in the lab. In the context of wild populations, one key challenge is to understand sources of variation that impact the commensal microbiome, which in turn shapes the degree of protection. Here, we surveyed both disease symptoms and microbiomes ...",
+      "segment": 5,
+      "timestamp": 431.12
+    },
+    {
+      "title": "Early-life proteomic and microbiome features signal obesity risk across 26 years of follow-up.",
+      "url": "https://doi.org/10.1128/msystems.01424-25",
+      "source": "PubMed — mSystems",
+      "one_liner": "UNLABELLED: Childhood obesity is rising globally. Yet, few studies have examined the microbiome and proteome in early childhood in relation to this outcome, and most are cross-sectional by design. Early-life factors in the ABIS birth cohort ( IMPORTANCE: Understanding the origins of obesity is critical for developing preventive strategies, and early life ...",
+      "segment": 6,
+      "timestamp": 473.98
+    },
+    {
+      "title": "Plant immune dysregulation disrupts microbe-induced growth promotion and microbiome compatibility.",
+      "url": "https://doi.org/10.1016/j.xplc.2026.101927",
+      "source": "PubMed — Plant communications",
+      "one_liner": "Plants associate with diverse microbial communities that influence growth and health. Although the plant immune regulatory network balances defense activation and microbial accommodation during pathogen attack, how it coordinates beneficial plant-microbe interactions across complex microbial contexts remains unclear. Here, we performed a systematic screen...",
+      "segment": 7,
+      "timestamp": 520.24
+    },
+    {
+      "title": "Gut Microbiome Differences Between Early Alzheimer Disease and Idiopathic Normal Pressure Hydrocephalus.",
+      "url": "https://doi.org/10.1097/WAD.0000000000000726",
+      "source": "PubMed — Alzheimer disease and associated disorders",
+      "one_liner": "BACKGROUND: Alzheimer disease (AD) and idiopathic normal pressure hydrocephalus (iNPH) are neurodegenerative diseases causing memory decline. Previous studies have demonstrated an altered gut microbiome (GM) in both conditions. In this study, we compared the GM composition between the groups to find out how if the GM composition differed between the cogni...",
+      "segment": 8,
+      "timestamp": 559.19
+    },
+    {
+      "title": "Host-specific fungal plant pathogens exhibit distinct interactions with the leaf microbiota of wild grasses.",
+      "url": "https://doi.org/10.1098/rstb.2025.0112",
+      "source": "PubMed — Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+      "one_liner": "The plant's microbiome is influenced by the plant species and biotic factors such as infection by pathogens. Pathogen-microbiome interactions are relevant for disease progression since both can compete within the host. We hypothesize that pathogens specialized to different hosts have distinct, direct and indirect influence on the host microbiome. We focus...",
+      "segment": 9,
+      "timestamp": 977.27
+    },
+    {
+      "title": "Insights into the microbiota profile of Pediculus humanus capitis using metagenomic next-generation sequencing and molecular detection of unexpected pathogen DNA in Hunan Province, China.",
+      "url": "https://doi.org/10.1186/s13071-026-07471-5",
+      "source": "PubMed — Parasites & vectors",
+      "one_liner": "BACKGROUND: The head louse, Pediculus humanus capitis, remains a significant public health concern affecting millions of people worldwide and has been implicated as a potential vector for multiple human pathogens. Characterization of the microbiota of head lice could improve our understanding of their public health significance and potential role in patho...",
+      "segment": 10,
+      "timestamp": 1020.75
+    },
+    {
+      "title": "Screening CZE-UV Green Method for Acetate, Propionate, Butyrate, and Valerate Analysis in Human Stool for Complementary Gut Dysbiosis Diagnosis.",
+      "url": "https://doi.org/10.1002/elps.70117",
+      "source": "PubMed — Electrophoresis",
+      "one_liner": "Short-chain fatty acids present relevant function in the human body as fermentation metabolites pathways in the natural intestine microbiota activity. Their evaluations can be useful for indication as biomarkers for gut dysbiosis, provided an important health assessment to physicians by specialized laboratories. In the present work, a capillary zone elect...",
+      "segment": 11,
+      "timestamp": 1138.9
+    },
+    {
+      "title": "Microbiota-derived indole derivatives as anticancer agents: mechanistic insights and major perspectives.",
+      "url": "https://doi.org/10.1080/17460913.2026.2677452",
+      "source": "PubMed — Future microbiology",
+      "one_liner": "Cancer remains a major global health challenge, and emerging research highlights the role of the gut microbiota in cancer development. This complex microbial community supports digestion, immunity, and even mental well-being, adapting to lifestyle factors like diet and exercise. One key function is the breakdown of tryptophan (Trp) into indole. Studies ha...",
+      "segment": 12,
+      "timestamp": 1180.06
+    },
+    {
+      "title": "Plant-associated phages across scales: ecological and evolutionary principles for a neglected virosphere.",
+      "url": "https://doi.org/10.1098/rstb.2025.0124",
+      "source": "PubMed — Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+      "one_liner": "Bacteriophages are abundant and influential members of plant-associated microbiomes, yet their ecological and evolutionary roles are less explored than those of marine, soil or clinical virospheres. This gap limits our capacity to predict phage-bacterium interactions, understand microbial community dynamics and design robust phage-based strategies for man...",
+      "segment": 13,
+      "timestamp": 1225.29
+    },
+    {
+      "title": "CHD-18g-modulated Pseudomonas taxa support poplar salt tolerance.",
+      "url": "https://doi.org/10.1093/ismejo/wrag138",
+      "source": "PubMed — The ISME journal",
+      "one_liner": "Against the background of global climate change, soil salinization has emerged as a major abiotic stressor constraining agroforestry productivity worldwide. Root-recruited microbes enhance plant stress resilience, and host-microbe interactions depend on plant root metabolism. Stress-tolerant plant genotypes exhibit a marked capacity to enrich beneficial r...",
+      "segment": 14,
+      "timestamp": 1274.61
+    },
+    {
+      "title": "Combined high-quality metagenomics reveals off-target effects of albendazole, ivermectin-albendazole and moxidectin-albendazole on the human gut bacteria",
+      "url": "https://www.nature.com/articles/s41522-026-01018-3",
+      "source": "npj Biofilms and Microbiomes",
+      "one_liner": "npj Biofilms and Microbiomes, Published online: 29 May 2026; doi:10.1038/s41522-026-01018-3 Combined high-quality metagenomics reveals off-target effects of albendazole, ivermectin-albendazole and moxidectin-albendazole on the human gut bacteria",
+      "segment": 15,
+      "timestamp": 1323.3
+    },
+    {
+      "title": "MetaTree: an interactive web platform for aligned hierarchical data visualization and multi-group comparison.",
+      "url": "https://doi.org/10.1186/s12859-026-06475-3",
+      "source": "PubMed — BMC bioinformatics",
+      "one_liner": "BACKGROUND: Hierarchical quantitative profiles are widely used in microbiome studies and other domains. However, comparing multiple samples and experimental groups while preserving hierarchical structure remains challenging. Many existing workflows require extensive manual figure assembly or do not support aligned comparisons across conditions on a shared...",
+      "segment": 16,
+      "timestamp": 1452.08
+    },
+    {
+      "title": "The mycobiome, virome and archaeome in gastrointestinal cancers: molecular pathogenesis and therapeutic intervention.",
+      "url": "https://doi.org/10.1186/s12943-026-02698-3",
+      "source": "PubMed — Molecular cancer",
+      "one_liner": "Gastrointestinal (GI) cancers remain a significant global health challenge. For decades, research has concentrated on the bacterial microbiome's role in tumour development, largely neglecting the important roles of the non-bacterial kingdoms, including mycobiome (fungi), the virome (viruses), and archaeome (archaea). These elements represent an underexplo...",
+      "segment": 17,
+      "timestamp": 1571.88
+    },
+    {
+      "title": "Shotgun Metagenomic Profiling of the Gut Virome in Prodromal and Confirmed Parkinson's Disease.",
+      "url": "https://doi.org/10.1002/ana.78243",
+      "source": "PubMed — Annals of neurology",
+      "one_liner": "We conducted a nested case-control study within the Nurses' Health Study and the Health Professionals Follow-up Study to examine the role of the gut virome (GV) in Parkinson's disease (PD). We applied a novel metagenomic virome profiling approach, Bioinformatic Application for Quantification and Labeling of Viral taxonomy (BAQLaVa), to prospectively colle...",
+      "segment": 18,
+      "timestamp": 1711.58
+    },
+    {
+      "title": "TIPP-SD: A new method for species detection in microbiomes",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014347",
+      "source": "PLOS Computational Biology",
+      "one_liner": "by Chengze Shen, Eleanor Wedell, Mihai Pop, Tandy Warnow In this study, we present TIPP-SD (i.e., TIPP for Species Detection), a new technique for species detection in a microbiome sample. TIPP-SD uses a substantially modified version of TIPP3, which is a recently developed abundance profiling tool based on maximum likelihood phylogenetic placemen...",
+      "segment": 19,
+      "timestamp": 1759.0
+    }
+  ]
+}
