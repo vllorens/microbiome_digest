@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Fri, 29 May 2026 07:06:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 06:45:29 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-05-30</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-30/podcast_2026-05-30.mp3</guid>
+      <pubDate>Sat, 30 May 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-30/podcast_2026-05-30.mp3" length="25686980" type="audio/mpeg" />
+      <description>The study focuses on a newly proposed mechanism in colorectal cancer: bone marrow mesenchymal stem cells (BMSCs) cooperate with the bacterium *Fusobacterium nucleatum* (Fn) to promote tumor formation through alterations in the gut microbiome. | Because the extracted notes provide only the background and a brief statement of the study’s aim, the available text does not supply details on the experimental design, the models used (e.g., mouse cohorts, human tissue samples, or organoid systems), the specific assays employed to measure Wnt signaling, bacterial load, or microbiome composition, nor any quantitative results such as tumor incidence, size, or microbial diversity indices. | What is clear from the provided information is that the researchers hypothesize a bidirectional loop: Fn may recruit or activate BMSCs, which in turn secrete Wnt3a to create a microenvironment favorable for tumor initiation and progression, while simultaneously perturbing the resident gut microbial community.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>The study focuses on a newly proposed mechanism in colorectal cancer: bone marrow mesenchymal stem cells (BMSCs) cooperate with the bacterium *Fusobacterium nucleatum* (Fn) to promote tumor formation through alterations in the gut microbiome. | Because the extracted notes provide only the background and a brief statement of the study’s aim, the available text does not supply details on the experimental design, the models used (e.g., mouse cohorts, human tissue samples, or organoid systems), the specific assays employed to measure Wnt signaling, bacterial load, or microbiome composition, nor any quantitative results such as tumor incidence, size, or microbial diversity indices. | What is clear from the provided information is that the researchers hypothesize a bidirectional loop: Fn may recruit or activate BMSCs, which in turn secrete Wnt3a to create a microenvironment favorable for tumor initiation and progression, while simultaneously perturbing the resident gut microbial community.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-05-29</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-29/podcast_2026-05-29.mp3</guid>
       <pubDate>Fri, 29 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-29/podcast_2026-05-29.mp3" length="14194148" type="audio/mpeg" />
-      <description>Recent work shows that gut‑derived metabolites shape where and when immune cells act inside tumors, altering cancer outcomes. | Dereplication‑assisted culturomics now lets researchers move beyond species‑level surveys to strain‑resolved ecology of the human gut. | The review in Current Nutrition Reports asks whether DPP‑4 inhibitors, best known for blocking the enzyme that degrades incretin hormones like GLP‑1, can also reshape the gut microbiota to ameliorate obesity.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-29/podcast_2026-05-29.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Recent work shows that gut‑derived metabolites shape where and when immune cells act inside tumors, altering cancer outcomes. | Dereplication‑assisted culturomics now lets researchers move beyond species‑level surveys to strain‑resolved ecology of the human gut. | The review in Current Nutrition Reports asks whether DPP‑4 inhibitors, best known for blocking the enzyme that degrades incretin hormones like GLP‑1, can also reshape the gut microbiota to ameliorate obesity.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-29/podcast_2026-03-29.mp3</guid>
       <pubDate>Sun, 29 Mar 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-29/podcast_2026-03-29.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-03-28</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-28/podcast_2026-03-28.mp3</guid>
-      <pubDate>Sat, 28 Mar 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-28/podcast_2026-03-28.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
