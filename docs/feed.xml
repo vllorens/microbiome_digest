@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Sun, 31 May 2026 07:12:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 09:00:20 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-06-01</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-01/podcast_2026-06-01.mp3</guid>
+      <pubDate>Mon, 01 Jun 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-01/podcast_2026-06-01.mp3" length="21425564" type="audio/mpeg" />
+      <description>Chronic low‑dose oral methylglyoxal intake shifts circadian sleep timing later and reshapes the gut microbiota in mice, according to a study published in Neuroscience Letters via PubMed. | Researchers have mapped the shifting landscape of epilepsy‑gut microbiota studies by blending network‑based bibliometrics with phrase‑ and topic‑level natural language processing. | Bifidobacterium animalis ssp.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Chronic low‑dose oral methylglyoxal intake shifts circadian sleep timing later and reshapes the gut microbiota in mice, according to a study published in Neuroscience Letters via PubMed. | Researchers have mapped the shifting landscape of epilepsy‑gut microbiota studies by blending network‑based bibliometrics with phrase‑ and topic‑level natural language processing. | Bifidobacterium animalis ssp.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-05-31</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-31/podcast_2026-05-31.mp3</guid>
       <pubDate>Sun, 31 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-31/podcast_2026-05-31.mp3" length="16857716" type="audio/mpeg" />
-      <description>The gut microbiota functions as a central organ, communicating with distant tissues through humoral, immunological, metabolic, endocrine and neurological routes, a concept now framed as the gut‑organ axis. | Researchers used the MICODE in‑vitro gut model to evaluate the microbiome impact of a chitosan derived from seafood waste, a novel food texturizer. | A Mendelian randomization analysis published in PubMed — Medicine suggests that gut microbiota can affect the risk of developing Sjögren’s syndrome by shaping immune cell activity.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-31/podcast_2026-05-31.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>The gut microbiota functions as a central organ, communicating with distant tissues through humoral, immunological, metabolic, endocrine and neurological routes, a concept now framed as the gut‑organ axis. | Researchers used the MICODE in‑vitro gut model to evaluate the microbiome impact of a chitosan derived from seafood waste, a novel food texturizer. | A Mendelian randomization analysis published in PubMed — Medicine suggests that gut microbiota can affect the risk of developing Sjögren’s syndrome by shaping immune cell activity.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-31/podcast_2026-03-31.mp3</guid>
       <pubDate>Tue, 31 Mar 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-31/podcast_2026-03-31.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-03-30</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-30/podcast_2026-03-30.mp3</guid>
-      <pubDate>Mon, 30 Mar 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-30/podcast_2026-03-30.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
