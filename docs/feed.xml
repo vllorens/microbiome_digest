@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jun 2026 09:00:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 07:52:38 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-06-02</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-02/podcast_2026-06-02.mp3</guid>
+      <pubDate>Tue, 02 Jun 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-02/podcast_2026-06-02.mp3" length="24123764" type="audio/mpeg" />
+      <description>Methamphetamine induces long-lasting dysbiosis of the gut microbiota. | Roseburia intestinalis‑derived extracellular vesicles (EVs) markedly improve bone density in osteoporotic mice by delivering a gut‑microbiota‑produced dipeptide, histidylleucine, that activates the Akt/FOXO1 pathway in osteoblasts. | Researchers show that gut‑microbe produced vitamins B2 and B9 metabolites directly affect MAIT cells from multiple sclerosis patients, linking the microbiome to disease‑related immune changes.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Methamphetamine induces long-lasting dysbiosis of the gut microbiota. | Roseburia intestinalis‑derived extracellular vesicles (EVs) markedly improve bone density in osteoporotic mice by delivering a gut‑microbiota‑produced dipeptide, histidylleucine, that activates the Akt/FOXO1 pathway in osteoblasts. | Researchers show that gut‑microbe produced vitamins B2 and B9 metabolites directly affect MAIT cells from multiple sclerosis patients, linking the microbiome to disease‑related immune changes.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-06-01</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-01/podcast_2026-06-01.mp3</guid>
       <pubDate>Mon, 01 Jun 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-01/podcast_2026-06-01.mp3" length="21425564" type="audio/mpeg" />
-      <description>Chronic low‑dose oral methylglyoxal intake shifts circadian sleep timing later and reshapes the gut microbiota in mice, according to a study published in Neuroscience Letters via PubMed. | Researchers have mapped the shifting landscape of epilepsy‑gut microbiota studies by blending network‑based bibliometrics with phrase‑ and topic‑level natural language processing. | Bifidobacterium animalis ssp.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-01/podcast_2026-06-01.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Chronic low‑dose oral methylglyoxal intake shifts circadian sleep timing later and reshapes the gut microbiota in mice, according to a study published in Neuroscience Letters via PubMed. | Researchers have mapped the shifting landscape of epilepsy‑gut microbiota studies by blending network‑based bibliometrics with phrase‑ and topic‑level natural language processing. | Bifidobacterium animalis ssp.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-01/podcast_2026-04-01.mp3</guid>
       <pubDate>Wed, 01 Apr 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-01/podcast_2026-04-01.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-03-31</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-31/podcast_2026-03-31.mp3</guid>
-      <pubDate>Tue, 31 Mar 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-03-31/podcast_2026-03-31.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
