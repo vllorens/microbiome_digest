@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Jun 2026 07:52:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 07:58:19 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-06-04</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-04/podcast_2026-06-04.mp3</guid>
+      <pubDate>Thu, 04 Jun 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-04/podcast_2026-06-04.mp3" length="30246980" type="audio/mpeg" />
+      <description>Uric acid, long seen as merely a by‑product of obesity, actually acts as a liver‑derived endocrine signal that fuels weight gain by reshaping the gut microbiome and its metabolites. | Antibiotic treatment can reshape the gut microbiome in ways that mimic the proteolytic activity seen in inflammatory bowel disease, according to a new Cell Reports study. | The inflammatory response in the murine ovalbumin‑induced skin inflammation model remains strong even when the animals harbor vastly different gut microbiotas, according to a study published in Clinical and Translational Science via PubMed.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Uric acid, long seen as merely a by‑product of obesity, actually acts as a liver‑derived endocrine signal that fuels weight gain by reshaping the gut microbiome and its metabolites. | Antibiotic treatment can reshape the gut microbiome in ways that mimic the proteolytic activity seen in inflammatory bowel disease, according to a new Cell Reports study. | The inflammatory response in the murine ovalbumin‑induced skin inflammation model remains strong even when the animals harbor vastly different gut microbiotas, according to a study published in Clinical and Translational Science via PubMed.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-06-02</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-02/podcast_2026-06-02.mp3</guid>
       <pubDate>Tue, 02 Jun 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-02/podcast_2026-06-02.mp3" length="24123764" type="audio/mpeg" />
-      <description>Methamphetamine induces long-lasting dysbiosis of the gut microbiota. | Roseburia intestinalis‑derived extracellular vesicles (EVs) markedly improve bone density in osteoporotic mice by delivering a gut‑microbiota‑produced dipeptide, histidylleucine, that activates the Akt/FOXO1 pathway in osteoblasts. | Researchers show that gut‑microbe produced vitamins B2 and B9 metabolites directly affect MAIT cells from multiple sclerosis patients, linking the microbiome to disease‑related immune changes.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-02/podcast_2026-06-02.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Methamphetamine induces long-lasting dysbiosis of the gut microbiota. | Roseburia intestinalis‑derived extracellular vesicles (EVs) markedly improve bone density in osteoporotic mice by delivering a gut‑microbiota‑produced dipeptide, histidylleucine, that activates the Akt/FOXO1 pathway in osteoblasts. | Researchers show that gut‑microbe produced vitamins B2 and B9 metabolites directly affect MAIT cells from multiple sclerosis patients, linking the microbiome to disease‑related immune changes.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-02/podcast_2026-04-02.mp3</guid>
       <pubDate>Thu, 02 Apr 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-02/podcast_2026-04-02.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-04-01</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-01/podcast_2026-04-01.mp3</guid>
-      <pubDate>Wed, 01 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-01/podcast_2026-04-01.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
