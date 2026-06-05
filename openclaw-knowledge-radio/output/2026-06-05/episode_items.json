@@ -1,0 +1,366 @@
+{
+  "timestamps": [
+    0.0,
+    51.55,
+    92.1,
+    209.99,
+    313.62,
+    452.16,
+    573.38,
+    698.66,
+    806.8,
+    919.55,
+    1040.98,
+    1158.39,
+    1286.28,
+    1634.32,
+    1677.69,
+    1719.04,
+    1829.12,
+    1936.11,
+    1985.16,
+    2029.8,
+    2080.55,
+    2112.13,
+    2155.83,
+    2271.65,
+    2390.69,
+    2494.0,
+    3025.22,
+    3065.56,
+    3186.34,
+    3235.35,
+    3279.14,
+    3316.22,
+    3364.0,
+    3410.99,
+    3458.31,
+    3502.71,
+    3546.46,
+    3593.49,
+    3636.59,
+    3682.5
+  ],
+  "items": [
+    {
+      "title": "Gut microbiota-associated N-Acetyl-L-leucine mediates fructose-induced hyperuricemia via the P300-URAT1 pathway.",
+      "url": "https://doi.org/10.1038/s41538-026-00917-1",
+      "source": "PubMed — NPJ science of food",
+      "one_liner": "Hyperuricemia (HUA), a metabolic disorder characterized by elevated uric acid (UA), is marked by a rising incidence and trend toward earlier onset, both strongly associated with fructose intake. However, the roles of gut microbiota and their metabolites remain unclear. This study employed a fructose-induced HUA mouse model and fecal microbiota transplanta...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Camellia diacylglycerol oil attenuates atherosclerosis and NAFLD by modulating gut microbiota and lipid metabolism in ApoE",
+      "url": "https://doi.org/10.1002/jsfa.70776",
+      "source": "PubMed — Journal of the science of food and agriculture",
+      "one_liner": "BACKGROUND: Camellia diacylglycerol oil (CDO), produced by enzymatic glycerolysis of camellia oil, is widely consumed as a functional food ingredient; however, its cardiovascular benefits remain insufficiently characterized. This study investigated the effects of CDO on high-fat diet (HFD)-induced atherosclerosis and non-alcoholic fatty liver disease in A...",
+      "segment": 1,
+      "timestamp": 51.55
+    },
+    {
+      "title": "The gut-bone axis: impact of diet on gut microbiome and osteoporosis.",
+      "url": "https://doi.org/10.1038/s41413-026-00550-4",
+      "source": "PubMed — Bone research",
+      "one_liner": "Osteoporosis, a global health challenge characterized by reduced bone mineral density (BMD) and increased fracture risk, is closely linked to interactions between dietary patterns and gut microbiota (GM). Recent advances in GM research highlight the gut-bone axis as a pivotal focus in osteoporosis studies, revealing that variations in dietary habits and n...",
+      "segment": 2,
+      "timestamp": 92.1
+    },
+    {
+      "title": "Associations between body composition and gut microbiota in female college students with and without dance training.",
+      "url": "https://doi.org/10.1371/journal.pone.0350639",
+      "source": "PubMed — PloS one",
+      "one_liner": "Physical activity has been associated with gut microbiota variation and body composition phenotypes, but evidence in female dance students remains limited. This study compared body composition profiles and gut microbiota characteristics between female university students majoring in dance and those from non-dance majors. Seventy students were included (n ...",
+      "segment": 3,
+      "timestamp": 209.99
+    },
+    {
+      "title": "Exercise reprograms the gut microbiota to enhance metabolic outcomes after bariatric surgery: a translational, cross-species study.",
+      "url": "https://doi.org/10.1038/s41366-026-02121-3",
+      "source": "PubMed — International journal of obesity (2005)",
+      "one_liner": "BACKGROUND/OBJECTIVES: Exercise training has been associated with metabolic improvements in bariatric patients beyond weight and fat loss, potentially involving modulation of the gut microbiota. We investigated whether exercise-related microbial changes are associated with metabolic adaptations in women undergoing Roux-en-Y gastric bypass (RYGB) by combin...",
+      "segment": 4,
+      "timestamp": 313.62
+    },
+    {
+      "title": "Oral probiotics and topical secretome to enhance clinical outcomes and microbiome restoration in acne vulgaris: a double-blind, randomised controlled trial protocol.",
+      "url": "https://doi.org/10.1136/bmjopen-2025-109586",
+      "source": "PubMed — BMJ open",
+      "one_liner": "BACKGROUND: Acne vulgaris is a chronic inflammatory condition primarily caused by METHODS AND ANALYSIS: A phase 2 double-blind randomised controlled trial will be conducted using a parallel group design with four arms, namely: (1) standard therapy with oral probiotics and topical secretome (placebo), (2) standard therapy with oral probiotics (placebo) and...",
+      "segment": 5,
+      "timestamp": 452.16
+    },
+    {
+      "title": "A multi-strain biofilm consortium enhances gut microbiota resilience and restores post-antibiotic homeostasis.",
+      "url": "https://doi.org/10.1007/s11274-026-05071-0",
+      "source": "PubMed — World journal of microbiology & biotechnology",
+      "one_liner": "Antibiotics can significantly disrupt gut microbiota homeostasis, reducing microbial diversity and causing dysbiosis associated with health issues. Gut biofilms play a critical role in resilience and stress tolerance of the intestinal ecosystem. Mucosal microbial communities also help restore the gut microbiota after interventions like probiotics, antibio...",
+      "segment": 6,
+      "timestamp": 573.38
+    },
+    {
+      "title": "Comprehensive in silico analysis of eggNOG-annotated orthologous genes infers functional dynamics and energy metabolism in the microbiome of Abutilon fruticosum.",
+      "url": "https://doi.org/10.1186/s12870-026-09123-3",
+      "source": "PubMed — BMC plant biology",
+      "one_liner": "BACKGROUND: Abutilon fruticosum is an ecologically and pharmacologically important wild Malvaceae species whose rhizospheric microbiome remains poorly resolved at the level of orthologous-group (OG) genes. Shotgun metagenomic sequencing and eggNOG/COG-based annotation were used to compare rhizosphere and bulk-soil microbiomes, quantify OG repertoires, and...",
+      "segment": 7,
+      "timestamp": 698.66
+    },
+    {
+      "title": "Emphysema severity-associated gut microbiota modulates smoke-induced emphysema: evidence from fecal microbiota transplantation.",
+      "url": "https://doi.org/10.1186/s12931-026-03743-x",
+      "source": "PubMed — Respiratory research",
+      "one_liner": "BACKGROUND: Cigarette smoking is the key risk factor for chronic obstructive pulmonary disease, but even similar levels of smoking can result in different disease severity. We hypothesize that differences in gut microbiota and metabolites contribute to differences in emphysema severity through the gut-lung axis. In this study, we compared the microbiome a...",
+      "segment": 8,
+      "timestamp": 806.8
+    },
+    {
+      "title": "Role of the gut microbiota-bile acid axis in liver fibrosis based on microbiomics and targeted metabolomics.",
+      "url": "https://doi.org/10.1186/s12866-026-05224-z",
+      "source": "PubMed — BMC microbiology",
+      "one_liner": "BACKGROUND: Effective diagnoses and treatments for liver fibrosis (LF) are lacking. The gut microbiota (GM)-bile acid (BA) axis is critically associated with LF development and may represent a potential target for delaying or reversing LF. METHODS: We combined fecal microbiomics and BA-targeted metabolomics to characterize the GM-BA axis in rats with carb...",
+      "segment": 9,
+      "timestamp": 919.55
+    },
+    {
+      "title": "mPower: a real data-based power analysis tool for microbiome study design.",
+      "url": "https://doi.org/10.1186/s40168-026-02427-4",
+      "source": "PubMed — Microbiome",
+      "one_liner": "Power analysis is a critical step in designing a microbiome study. Existing power calculation tools for microbiome studies mainly rely on parametric models of the sequencing counts, which underestimate the complexity of microbiome data and could produce overly optimistic power estimates. In this work, we present a new simulation-based power analysis tool,...",
+      "segment": 10,
+      "timestamp": 1040.98
+    },
+    {
+      "title": "Item recognition is associated with gut microbiota composition in healthy humans.",
+      "url": "https://doi.org/10.1101/lm.054160.125",
+      "source": "PubMed — Learning & memory (Cold Spring Harbor, N.Y.)",
+      "one_liner": "Murine studies show that the gut microbiota-the collection of the microbes residing in the large intestine-affects memory performance in the host. However, whether commensal gut bacteria are linked to human episodic memory remains unknown. Here, we investigated whether individual differences in episodic memory performance were associated with differences ...",
+      "segment": 11,
+      "timestamp": 1158.39
+    },
+    {
+      "title": "Synthesis of acetylated raffinose and its mechanism of action in regulating gut microbiota to alleviate cyclophosphamide-induced immunosuppression in mice.",
+      "url": "https://doi.org/10.1016/j.bioorg.2026.110069",
+      "source": "PubMed — Bioorganic chemistry",
+      "one_liner": "Raffinose (Raf) exhibits antioxidant, hepatoprotective, and immune-enhancing activities; however, its inferior bioactivity and poor prebiotic performance constrain its industrial applications in food, pharmaceuticals and related fields. To enhance the bioactivity of Raf and simultaneously increase the high-value utilization of agricultural waste streams-s...",
+      "segment": 12,
+      "timestamp": 1286.28
+    },
+    {
+      "title": "Educational inequalities are associated with distinct metabolomic and gut microbiome patterns in adults.",
+      "url": "https://doi.org/10.1016/j.socscimed.2026.119454",
+      "source": "PubMed — Social science & medicine (1982)",
+      "one_liner": "Educational attainment is a well-established determinant of health inequalities and non-communicable diseases. While social gradients in health are consistently observed, the biological mechanisms through which educational disadvantage becomes embedded in human physiology remain insufficiently understood. We analyzed baseline data from 1773 adults in the ...",
+      "segment": 13,
+      "timestamp": 1634.32
+    },
+    {
+      "title": "Sustained Chlorination of Hospital Surfaces Restructures the Microbiome and Virome and Diversifies Resistance Genes.",
+      "url": "https://doi.org/10.1021/acs.est.6c01505",
+      "source": "PubMed — Environmental science & technology",
+      "one_liner": "Routine disinfection can reduce microbial burden on hospital surfaces in the short term, but its long-term impacts on surface microbiomes and antimicrobial resistance dynamics remain unclear. We conducted a year-long metagenomic study of 197 in situ hospital surface samples subjected to sustained chlorination to investigate changes in microbiomes, resisto...",
+      "segment": 14,
+      "timestamp": 1677.69
+    },
+    {
+      "title": "Host-guided microbiome-metabolite interactions enable cross-kingdom SynComs for disease suppression.",
+      "url": "https://doi.org/10.1186/s40168-026-02430-9",
+      "source": "PubMed — Microbiome",
+      "one_liner": "BACKGROUND: The plant microbiome plays a crucial role in enhancing disease resistance, yet microbiome-based plant protection strategies remain limited by an incomplete understanding of how host selection, microbial interactions, and rhizosphere chemistry jointly shape pathogen suppression. RESULTS: Here, we adopt a \"learning from nature\" approach to desig...",
+      "segment": 15,
+      "timestamp": 1719.04
+    },
+    {
+      "title": "Egg microbiome of the yellow-spotted Amazon river turtle (Podocnemis unifilis) modulates fusariosis fungal infection and hatching success.",
+      "url": "https://doi.org/10.1038/s42003-026-10404-8",
+      "source": "PubMed — Communications biology",
+      "one_liner": "Turtle egg fusariosis, caused by pathogens of the Fusarium solani species complex (FSSC), threatens turtle populations globally, through embryonic mortality and hatching failure. Host-associated microbiomes, including the bacteriome and mycobiome, are hypothesized to mediate disease outcomes in oviparous vertebrates, but this remains largely unexplored. H...",
+      "segment": 16,
+      "timestamp": 1829.12
+    },
+    {
+      "title": "Expansion of pathogens and restoration of human skin microbiome in CD4 T-cell lymphopenia.",
+      "url": "https://doi.org/10.1016/j.jid.2026.05.019",
+      "source": "PubMed — The Journal of investigative dermatology",
+      "one_liner": "The microbiome and host immune system maintain a dynamic homeostatic equilibrium at the skin interface. Prior studies have shown that the skin microbiome is profoundly altered in immunodeficient conditions. Patients with idiopathic CD4 lymphopenia (ICL), a rare clinical syndrome with obscure cause, and people living with HIV (PLWH) are two etiologically d...",
+      "segment": 17,
+      "timestamp": 1936.11
+    },
+    {
+      "title": "Longitudinal associations of the gut microbiome with arterial stiffness in US adults: findings from the Baltimore Longitudinal Study of Aging.",
+      "url": "https://doi.org/10.1093/aje/kwag119",
+      "source": "PubMed — American journal of epidemiology",
+      "one_liner": "The gut microbiome affects arterial stiffness in experimental murine models; however, evidence in human longitudinal studies is lacking. In this study, we investigated longitudinal between-person (average) and within-person (change) associations of microbiome features with arterial stiffness. We assessed the fecal microbiome using whole genome metagenomic...",
+      "segment": 18,
+      "timestamp": 1985.16
+    },
+    {
+      "title": "Microbiota-derived short-chain fatty acids mediate Candida albicans gastrointestinal colonization resistance.",
+      "url": "https://doi.org/10.1016/j.chom.2026.05.007",
+      "source": "PubMed — Cell host & microbe",
+      "one_liner": "The gut microbiota plays critical roles in constraining Candida albicans colonization of the gastrointestinal (GI) tract, which is a key precursor to disseminated fungal infection in immunocompromised hosts. Depletion of commensal microbiota, such as by antibiotic treatment, increases C. albicans burden and promotes dissemination, yet the mechanisms of co...",
+      "segment": 19,
+      "timestamp": 2029.8
+    },
+    {
+      "title": "Liver-brain axis imbalance: Mechanisms linking hepatic disorders to neuropsychiatric abnormalities.",
+      "url": "https://doi.org/10.1016/j.cellsig.2026.112626",
+      "source": "PubMed — Cellular signalling",
+      "one_liner": "Liver dysfunction and various hepatic disorders cause neuropsychiatric abnormalities including depression, anxiety, cognitive impairment and personality changes through liver-brain axis imbalance, greatly worsening patient prognosis. The liver-brain axis acts as a bidirectional network via neural, humoral, immune and gut microbiota pathways, and its disru...",
+      "segment": 20,
+      "timestamp": 2080.55
+    },
+    {
+      "title": "Intracellular acidification by microbiota-derived valeric acid facilitates trans-kingdom ecology limiting Candida parapsilosis colonization.",
+      "url": "https://doi.org/10.1016/j.chom.2026.05.008",
+      "source": "PubMed — Cell host & microbe",
+      "one_liner": "In hematopoietic cell transplant (HCT) patients, intestinal Candida parapsilosis expansion and translocation can cause life-threatening candidemia, yet whether commensal intestinal bacteria prevent Candida expansion remains incompletely defined. Here, we trained a machine learning model on supernatant metabolomic profiles of Lachnospiraceae to identify ba...",
+      "segment": 21,
+      "timestamp": 2112.13
+    },
+    {
+      "title": "Bifidobacterium breve207-1 protects against later-life colitis following early-life antibiotic exposure by enhancing intestinal barrier and immune homeostasis.",
+      "url": "https://doi.org/10.1186/s12876-026-04953-9",
+      "source": "PubMed — BMC gastroenterology",
+      "one_liner": "BACKGROUND: The early colonization of bacteria has a significant impact on immune system development. The disruption of gut microbiota by antibiotics in early life is a major risk factor for pediatric inflammatory bowel disease. This study explores how Bifidobacterium breve 207-1 modulates gut microbiota and immune responses after early antibiotic exposur...",
+      "segment": 22,
+      "timestamp": 2155.83
+    },
+    {
+      "title": "Efficacy of pharmacological and microbiota-based therapies in preclinical models of autism spectrum disorder: a systematic review.",
+      "url": "https://doi.org/10.1038/s41380-026-03663-8",
+      "source": "PubMed — Molecular psychiatry",
+      "one_liner": "BACKGROUND: Autism spectrum disorder (ASD) is a multifactorial neurodevelopmental condition in which pharmacological and microbiota-targeted interventions are emerging as promising therapeutic avenues. Animal models are the main tool to investigate etiology, molecular mechanisms and screening for pharmacological therapies. Methodological differences, outc...",
+      "segment": 23,
+      "timestamp": 2271.65
+    },
+    {
+      "title": "Gut-bone axis in rheumatoid arthritis: microbiota-driven barrier dysfunction, immune crosstalk, and therapeutic strategies.",
+      "url": "https://doi.org/10.1007/s10482-026-02353-3",
+      "source": "PubMed — Antonie van Leeuwenhoek",
+      "one_liner": "Rheumatoid arthritis (RA) is a chronic autoimmune disease characterized by persistent synovial inflammation and progressive bone destruction in which immune dysregulation plays a central role. Recent evidence has highlighted the gut-bone axis as a critical framework linking gut microbiota to skeletal and immune homeostasis. Gut microbiota dysbiosis disrup...",
+      "segment": 24,
+      "timestamp": 2390.69
+    },
+    {
+      "title": "Phenotypic, genomic, and functional characterization of Corynebacterium sp. nov. isolated by droplet-based cultivation from vaginal swabs of a preeclampsia patient.",
+      "url": "https://doi.org/10.1186/s12866-026-05255-6",
+      "source": "PubMed — BMC microbiology",
+      "one_liner": "BACKGROUND: Members of the genus Corynebacterium are widely distributed across human mucosal surfaces and are increasingly recognized as important components of the female reproductive tract microbiota. However, their diversity is underestimated due to limitations of conventional cultivation approaches. RESULTS: In this study, a novel bacterial strain, de...",
+      "segment": 25,
+      "timestamp": 2494.0
+    },
+    {
+      "title": "The gut-brain-gonad axis mediates salinity adaptation in an invasive turtle: causal evidence from microbiota transplantation and metabolite supplementation.",
+      "url": "https://doi.org/10.1186/s42523-026-00583-4",
+      "source": "PubMed — Animal microbiome",
+      "one_liner": "BACKGROUND: Preliminary studies have shown that salinity stress can impair the differentiation of spermatogonial stem cells (SSC) in red-eared slider (Trachemys scripta elegans) through the gut-brain-gonad axis, thereby affecting their reproductive ability. However, a direct causal link between salinity-induced gut microbiota alterations and reproductive ...",
+      "segment": 26,
+      "timestamp": 3025.22
+    },
+    {
+      "title": "Multi-omics characterization of the skin microbiota reveals the anti-aging roles of Stenotrophomonas maltophilia.",
+      "url": "https://doi.org/10.1186/s40168-026-02433-6",
+      "source": "PubMed — Microbiome",
+      "one_liner": "BACKGROUND: Shifts in the skin microbiome have shown a close link to chronological age. However, the contribution of the skin microbiome in skin-aging phenotypes remains unclear. RESULTS: To explore this, we performed phenotypic, metabolomic, metagenomic, and functional analyses on a cohort with divergent skin-aging phenotypes. Genome-scale metabolic mode...",
+      "segment": 27,
+      "timestamp": 3065.56
+    },
+    {
+      "title": "Pediococcus acidilactici PA53 Improves Emotional Well-Being and Gut Health while Modulating Microbiota Composition in Older Adults: A Randomized, Double-Blind, Placebo-Controlled Trial.",
+      "url": "https://doi.org/10.1016/j.tjnut.2026.101626",
+      "source": "PubMed — The Journal of nutrition",
+      "one_liner": "BACKGROUND: The gut-brain axis links intestinal microbiota with emotional health, a critical concern in aging populations experiencing gut dysbiosis. OBJECTIVE: This study aimed to evaluate whether supplementation with Pediococcus acidilactici PA53, through modulation of the gut microbiota, could improve emotional well-being in healthy older adults. METHO...",
+      "segment": 28,
+      "timestamp": 3186.34
+    },
+    {
+      "title": "Human-associated microbial inputs and bacterial-fungal ecological coupling shape antibiotic resistance risk in environmental dust.",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.142602",
+      "source": "PubMed — Journal of hazardous materials",
+      "one_liner": "Environmental dust represents a critical exposure matrix, yet the relationships between multi-kingdom dust microbiomes and antimicrobial resistance (AMR)-associated health risks remain insufficiently characterized. We applied shotgun metagenomics to dust samples from pharmaceutical factories, a dairy farm, railway stations, and schools to comprehensively ...",
+      "segment": 29,
+      "timestamp": 3235.35
+    },
+    {
+      "title": "Parabacteroides distasonis regulates PPARɑ to alleviate colchicine-induced colonic injury through p-cresol sulfate.",
+      "url": "https://doi.org/10.1016/j.cbi.2026.112172",
+      "source": "PubMed — Chemico-biological interactions",
+      "one_liner": "Colchicine has been extensively utilized for treating gouty arthritis over many years, yet its dose-limiting gastrointestinal toxicity remains a significant clinical challenge. While diarrhoea and nausea are well recognised, the extent of colchicine-induced occult colonic injury-including its impact on the gut microbiota and mucosal homeostasis-is poorly ...",
+      "segment": 30,
+      "timestamp": 3279.14
+    },
+    {
+      "title": "Case study: Metagenomic analysis of microbial restructuring and nitrogen metabolism under probiotic and Chinese herb applications during post-antibiotic-ban shrimp farming.",
+      "url": "https://doi.org/10.1016/j.jenvman.2026.130128",
+      "source": "PubMed — Journal of environmental management",
+      "one_liner": "China's 2020 aquaculture antibiotic ban has driven widespread use of probiotics and Chinese herbs in shrimp farming, yet their ecological effects on microbial communities remain unclear. This case study investigated three commercial Litopenaeus vannamei ponds in eastern China that exhibited contrasting nitrite accumulation and production outcomes under a ...",
+      "segment": 31,
+      "timestamp": 3316.22
+    },
+    {
+      "title": "Chenodeoxycholic acid redirects the bile acid synthetic pathway to limit pro-inflammatory neutrophil infiltration and alleviate colitis.",
+      "url": "https://doi.org/10.1016/j.ymthe.2026.03.004",
+      "source": "PubMed — Molecular therapy : the journal of the American Society of Gene Therapy",
+      "one_liner": "Patients with inflammatory bowel disease (IBD) exhibit a dysregulated bile acid pool, characterized by increased primary and decreased secondary bile acids, largely due to gut microbiota dysfunction. However, the impact of colitis on hepatic bile acid synthesis remains poorly understood. In this study, analyses of public datasets, in-house patient samples...",
+      "segment": 32,
+      "timestamp": 3364.0
+    },
+    {
+      "title": "Clockwork symbiosis: The vital interplay of microbiota and human chronobiology.",
+      "url": "https://doi.org/10.1080/07420528.2026.2682478",
+      "source": "PubMed — Chronobiology international",
+      "one_liner": "The human microbiota and host circadian system engage in a bidirectional dialogue with consequences for metabolism, immunity, and barrier physiology. This narrative review examines the microbiota-chronobiology interface across the gut and selected extra-intestinal niches and uses the term \"clockwork symbiosis\" as an organizing framework for this crosstalk...",
+      "segment": 33,
+      "timestamp": 3410.99
+    },
+    {
+      "title": "Host transcriptional signatures associated with microbial sequence signals reveal age-related decline in intestinal homeostasis.",
+      "url": "https://doi.org/10.1080/17460913.2026.2682676",
+      "source": "PubMed — Future microbiology",
+      "one_liner": "AIMS: To characterize age-associated alterations in intestinal barrier homeostasis by integrating host transcriptomic profiles and mucosa-associated microbial sequence signals recovered from human colonic biopsy RNA-seq datasets. MATERIALS AND METHODS: We performed an integrative host-microbiome metatranscriptomic analysis of human colonic biopsies from a...",
+      "segment": 34,
+      "timestamp": 3458.31
+    },
+    {
+      "title": "The gut-brain axis in Alzheimer's and Parkinson's diseases: a systematic review of microbiota-derived biomarkers and novel therapeutic approaches.",
+      "url": "https://doi.org/10.1080/13803395.2026.2673084",
+      "source": "PubMed — Journal of clinical and experimental neuropsychology",
+      "one_liner": "BACKGROUND: The altered gut microbiota substantially impacts the onset and progression of Alzheimer's disease (AD) and Parkinson's disease (PD), the two most widely studied neurodegenerative conditions. Microbiome-derived metabolites have been increasingly associated with disease onset, progression, and therapeutic targets in neurodegenerative disorders. ...",
+      "segment": 35,
+      "timestamp": 3502.71
+    },
+    {
+      "title": "Commensal Dysbiosis Alters Primary Bile Acid Signaling to Drive Mammary Gland Inflammation and Breast Tumor Dissemination.",
+      "url": "https://doi.org/10.1158/0008-5472.CAN-25-4466",
+      "source": "PubMed — Cancer research",
+      "one_liner": "Breast cancer is the most commonly diagnosed malignancy and a leading cause of cancer-related mortality. Hormone receptor-positive (HR+) tumors represent the most prevalent metastatic subtype, and early dissemination remains a major clinical challenge. Commensal dysbiosis, defined as an inflammatory gut microbiome with low biodiversity, promotes metastasi...",
+      "segment": 36,
+      "timestamp": 3546.46
+    },
+    {
+      "title": "Gut microbial culturomics identifies autism-associated",
+      "url": "https://doi.org/10.1128/spectrum.00797-26",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "Autism spectrum disorder (ASD) has been repeatedly linked to gut microbiota alterations, yet mechanistic insight remains limited by the scarcity of ASD-specific cultured isolates. Here, we performed large-scale gut microbial culturomics on fecal samples from 41 children with ASD and 12 typically developing (TD) controls, generating 1,724 isolates across s...",
+      "segment": 37,
+      "timestamp": 3593.49
+    },
+    {
+      "title": "Bowel Stimulation Before Loop Ileostomy Closure Using Probiotics: Study Protocol for a Randomized Controlled Trial at a Single Center.",
+      "url": "https://doi.org/10.2196/87422",
+      "source": "PubMed — JMIR research protocols",
+      "one_liner": "BACKGROUND: Low anterior resection syndrome (LARS) is a common functional problem after sphincter-preserving rectal cancer surgery and includes urgency, frequent bowel movements, clustering, and fecal incontinence. Diverting ileostomy may further disrupt the intestinal environment and alter the gut microbiota, potentially worsening bowel dysfunction after...",
+      "segment": 38,
+      "timestamp": 3636.59
+    },
+    {
+      "title": "Study on the Alleviating Effect of Tropical",
+      "url": "https://doi.org/10.1021/acs.jafc.6c02115",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "Hyperuricemia (HUA) is a growing global health concern with a younger onset trend. Using a high-purine diet-induced HUA mouse model, this study evaluated kidney, colon, and gut microbiota damage and investigated the effects of",
+      "segment": 39,
+      "timestamp": 3682.5
+    }
+  ]
+}
