@@ -1,0 +1,312 @@
+{
+  "timestamps": [
+    0.0,
+    46.48,
+    174.06,
+    286.43,
+    421.76,
+    544.08,
+    581.74,
+    951.72,
+    996.06,
+    1039.5,
+    1165.71,
+    1205.02,
+    1331.21,
+    1371.04,
+    1413.28,
+    1451.53,
+    1499.89,
+    1663.52,
+    1708.51,
+    1812.98,
+    1949.46,
+    1996.19,
+    2040.82,
+    2088.53,
+    2133.1,
+    2179.32,
+    2226.14,
+    2272.12,
+    2395.57,
+    2528.67,
+    2639.35,
+    2768.16,
+    2873.22,
+    2989.64
+  ],
+  "items": [
+    {
+      "title": "Deconfounded, quantitative microbiome profiling identifies robust multiple sclerosis markers and clinical covariate associations.",
+      "url": "https://doi.org/10.1080/19490976.2026.2681876",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Despite a wealth of gut microbiota studies in multiple sclerosis (MS), consistent results are lacking. Here, we study confounder effects and use of quantitative microbiome profiling (QMP) in 228 MS patients (103 untreated) and 2860 population controls (Flemish Gut Flora Project (FGFP)). Total bacterial load was lower in relapsing remitting (RR)MS, while s...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "The impact of hydrogen sulfide on gut microbiota of diabetic mice with lower limb arterial ischemia.",
+      "url": "https://doi.org/10.1186/s12866-026-05167-5",
+      "source": "PubMed — BMC microbiology",
+      "one_liner": "BACKGROUND: The prevalence of hindlimb ischemia (HLI) associated with diabetes mellitus (DM) is high. However, its prevention and treatment face significant challenges. This study explored the effects of hydrogen sulfide (H METHODS: The diabetic model in C57BL/6J mice was established through intraperitoneal injection of streptozotocin. The HLI model was c...",
+      "segment": 1,
+      "timestamp": 46.48
+    },
+    {
+      "title": "Aging of the adaptive immune system affects the gut microbiome and systemic levels of vitamin B6.",
+      "url": "https://doi.org/10.1186/s40168-026-02428-3",
+      "source": "PubMed — Microbiome",
+      "one_liner": "BACKGROUND: Age-associated dysregulation of the gut microbiota is a hallmark of aging and has been linked to multiple age-related diseases, yet upstream host factors driving these changes remain incompletely defined. Extensive bidirectional crosstalk between gut microbiota and mucosal immunity has been described. Aging is accompanied by a progressive decl...",
+      "segment": 2,
+      "timestamp": 174.06
+    },
+    {
+      "title": "Gut microbiota-derived Tryptophanol driven by N-Carbamylglutamate alleviates premature ovarian failure through inhibiting oxidative stress.",
+      "url": "https://doi.org/10.1186/s13048-026-02152-4",
+      "source": "PubMed — Journal of ovarian research",
+      "one_liner": "BACKGROUND: Premature ovarian failure (POF) affects 1-5% of women under 40 years old and is characterized by granulosa cells (GCs) apoptosis and follicular atresia. However, the pathogenesis of POF is complex and lacks effective prevention and treatment strategies. N-carbamylglutamate (NCG), a bioactive substance known for its antioxidant properties; howe...",
+      "segment": 3,
+      "timestamp": 286.43
+    },
+    {
+      "title": "Gut microbiota in PCOS: key microbial changes, potential mechanisms and clinical applications.",
+      "url": "https://doi.org/10.1186/s12967-026-08352-2",
+      "source": "PubMed — Journal of translational medicine",
+      "one_liner": "BACKGROUND: Polycystic Ovary Syndrome (PCOS) is a complex endocrine-metabolic disorder manifesting with reproductive and metabolic dysfunction. Its pathogenesis remains incompletely understood, prompting investigation beyond traditional frameworks. The gut microbiota, a key regulator of host metabolism and immunity, has emerged as a significant factor in ...",
+      "segment": 4,
+      "timestamp": 421.76
+    },
+    {
+      "title": "Pseudomyxoma peritonei and the microbiome: Emerging observations and unanswered questions.",
+      "url": "https://doi.org/10.1016/j.trecan.2026.05.004",
+      "source": "PubMed — Trends in cancer",
+      "one_liner": "Pseudomyxoma peritonei is a rare, heterogeneous appendiceal cancer characterized by mucus-secreting tumor cells. Evidence suggests a microbial association, though its significance remains unclear. This forum article synthesizes links among microbial communities, mucin biology, and tumor behavior, highlighting key research challenges and how spatial multio...",
+      "segment": 5,
+      "timestamp": 544.08
+    },
+    {
+      "title": "Aurantio-obtusin ameliorates prediabetes in a gut microbiota-dependent manner via regulating LPS-TLR4 axis and Akt/GLUT4 signaling.",
+      "url": "https://doi.org/10.1016/j.jep.2026.121970",
+      "source": "PubMed — Journal of ethnopharmacology",
+      "one_liner": "ETHNOPHARMACOLOGICAL RELEVANCE: Cassiae Semen, the dried seeds of Cassia obtusifolia L., has traditionally been used in East Asian medicine to manage metabolic disorders, including hyperglycemia and dyslipidemia. Aurantio-obtusin (AO), a bioactive anthraquinone compound, exhibits diverse pharmacological activities, derived from Cassiae Semen, a traditiona...",
+      "segment": 6,
+      "timestamp": 581.74
+    },
+    {
+      "title": "Upper Airway Microbiome Interacts with GSDMB and ORMDL3 Asthma Risk SNPs to Influence Early-Life Wheeze Risk.",
+      "url": "https://doi.org/10.1016/j.jaci.2026.05.021",
+      "source": "PubMed — The Journal of allergy and clinical immunology",
+      "one_liner": "BACKGROUND: Single-nucleotide polymorphisms (SNPs) in the chromosome 17q12-q21 region and, independently, early-life nasal microbiota dominated by Moraxella, Streptococcus, or Haemophilus increase risk of chronic wheeze and asthma development. OBJECTIVE: Determine if 17q12-q21 risk SNPs and nasal microbiota interact to modulate childhood wheeze risk. METH...",
+      "segment": 7,
+      "timestamp": 951.72
+    },
+    {
+      "title": "Strain-Specific Lactic Acid Bacteria Fermentation of Kiwifruit Juice: From Flavor Optimization to In Vitro Gut Microbiota Modulation.",
+      "url": "https://doi.org/10.1021/acs.jafc.6c00399",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "The deep processing of kiwifruit remains an urgent challenge. In this work, we evaluated the effects of seven lactic acid bacteria (LAB) strains on the overall quality of the kiwifruit juice. All strains exhibited robust growth, and LAB fermentation markedly improved the flavor profile of the juice, with the M29 group best preserving the characteristic ki...",
+      "segment": 8,
+      "timestamp": 996.06
+    },
+    {
+      "title": "Age and sex dependent shift in murine gut microbiome reveals pathological links to host cardiovascular and metabolic pathways.",
+      "url": "https://doi.org/10.1007/s11357-026-02336-2",
+      "source": "PubMed — GeroScience",
+      "one_liner": "The gut microbiome undergoes dynamic, sex-dependent changes across the lifespan. However, comprehensive studies examining the combined effects of age and sex are limited. This study investigated both compositional and functional alterations in the gut microbiome of young (4 months, n = 14) and aged (20 months, n = 20) C57BL/6 J mice of both sexes using 16...",
+      "segment": 9,
+      "timestamp": 1039.5
+    },
+    {
+      "title": "The Biliary Multi-Omics Landscape: Integrating Microbiome and Metabolomics in Gallbladder Carcinogenesis.",
+      "url": "https://doi.org/10.1111/jgh.70462",
+      "source": "PubMed — Journal of gastroenterology and hepatology",
+      "one_liner": "BACKGROUND: Gallbladder cancer (GBC) is a highly aggressive malignancy with a dismal prognosis, frequently diagnosed at advanced stages. While cholelithiasis is a primary risk factor, the role of the biliary microbiome and its metabolic products in driving carcinogenesis is increasingly recognized. This review synthesizes multi-omics data to elucidate the...",
+      "segment": 10,
+      "timestamp": 1165.71
+    },
+    {
+      "title": "The Role of Microbiome-Associated Metabolites and Their Clinical Implications in Traumatic Brain Injury: A Scoping Review.",
+      "url": "https://doi.org/10.1007/s12028-026-02562-8",
+      "source": "PubMed — Neurocritical care",
+      "one_liner": "Traumatic brain injury (TBI) is a major public health challenge, with heterogeneous mechanisms and limited targeted therapies. Despite advances in neurocritical care, interventions to meaningfully alter long-term outcomes have been elusive, and treatment remains largely supportive. Parallel to this, increasing evidence from both preclinical models and hum...",
+      "segment": 11,
+      "timestamp": 1205.02
+    },
+    {
+      "title": "Host genetics, diet, and the gut microbiome: Addressing methodological and reproducibility challenges in human studies.",
+      "url": "https://doi.org/10.1016/j.tjnut.2026.101646",
+      "source": "PubMed — The Journal of nutrition",
+      "one_liner": "The interplay between host genetics, diet, and the gut microbiome is a key focus in human health research. However, progress has been slowed by substantial methodological differences and limited reproducibility across studies. This narrative review examines major sources of variability throughout the research process, with a focus on design, measurement, ...",
+      "segment": 12,
+      "timestamp": 1331.21
+    },
+    {
+      "title": "Dynamic microbiome turnover and glycerol-3-phosphate-linked metabolic adjustments underlie resilience to desiccation in intertidal algae.",
+      "url": "https://doi.org/10.1111/nph.71330",
+      "source": "PubMed — The New phytologist",
+      "one_liner": "Tolerance to extreme dehydration has emerged across the tree of life, yet current understanding relies heavily on terrestrial host traits. Marine lineages facing rapid, tide-driven hydration oscillations remain largely unexplored. We used Pyropia haitanensis as a model to determine if intertidal resilience arises from a coordinated holobiont strategy. We ...",
+      "segment": 13,
+      "timestamp": 1371.04
+    },
+    {
+      "title": "Drinking water source and the gut microbiome of 5-year-old children: findings from Gen3G birth cohort.",
+      "url": "https://doi.org/10.1093/aje/kwaf168",
+      "source": "PubMed — American journal of epidemiology",
+      "one_liner": "",
+      "segment": 14,
+      "timestamp": 1413.28
+    },
+    {
+      "title": "Skin Barrier Dysfunction, Antimicrobial Peptide Alterations, and Microbiome Changes in Solid Cancer Patients Treated with Epidermal Growth Factor Receptor Inhibitors.",
+      "url": "https://doi.org/10.1159/000551797",
+      "source": "PubMed — Dermatology (Basel, Switzerland)",
+      "one_liner": "INTRODUCTION: Epidermal growth factor receptor inhibitors (EGFRIs) are targeted therapies for solid cancers. Their use is associated with cutaneous adverse events (cAEs). This study aimed to investigate cAEs and changes in skin biophysics reflecting the skin barrier function, alterations in antimicrobial peptides (AMPs), and the skin microbiome in patient...",
+      "segment": 15,
+      "timestamp": 1451.53
+    },
+    {
+      "title": "Integrated gut metagenomic and muscle proteomic analysis reveals the role of dietary fermented extruded brewers' spent grain in enhancing pork quality through the gut-muscle axis.",
+      "url": "https://doi.org/10.1186/s40104-026-01429-4",
+      "source": "PubMed — Journal of animal science and biotechnology",
+      "one_liner": "BACKGROUND: The fact that feeding pigs with probiotic-fermented agricultural by-products improves pork quality has been repeatedly demonstrated and widely applied, but the underlying mechanisms remain unclear. This study explored the effects of fermented extruded brewers' spent grain (FEBSG) on meat quality in growing-finishing pigs, as well as its regula...",
+      "segment": 16,
+      "timestamp": 1499.89
+    },
+    {
+      "title": "Genetic variants of the transporter SLC22A4 affect the abundance and survival of",
+      "url": "https://doi.org/10.1080/19490976.2026.2681818",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "The intestinal microbiota influences colorectal cancer (CRC) development, but its interactions with the host's genetic profile during tumorigenesis are poorly understood. We quantified the CRC-associated pathobiont",
+      "segment": 17,
+      "timestamp": 1663.52
+    },
+    {
+      "title": "A diverse gut virome in natural populations of Drosophila melanogaster.",
+      "url": "https://doi.org/10.1186/s42523-026-00585-2",
+      "source": "PubMed — Animal microbiome",
+      "one_liner": "BACKGROUND: Drosophila melanogaster is not only one of the most important models of antiviral immunity in invertebrates, but is also a powerful model for research of the gut microbiome. Although recent studies have continued to improve our knowledge of the fly gut microbiota, the viral component of the microbiome has remained unexplored. RESULTS: Here we ...",
+      "segment": 18,
+      "timestamp": 1708.51
+    },
+    {
+      "title": "Microbiota‑derived indole‑3‑propionic acid reprograms bone marrow stem cell fate via PPARγ suppression to rescue osteoporosis.",
+      "url": "https://doi.org/10.3892/ijmm.2026.5879",
+      "source": "PubMed — International journal of molecular medicine",
+      "one_liner": "Osteoporosis (OP) is increasingly recognised as a disorder driven by impaired lineage allocation of bone marrow stromal cells (BMSCs), characterised by a shift from osteogenesis toward adipogenesis under conditions such as oestrogen deficiency and oxidative stress. Although gut microbiota‑derived metabolites have emerged as critical regulators of skeletal...",
+      "segment": 19,
+      "timestamp": 1812.98
+    },
+    {
+      "title": "An Integrated Dataset of Clinical and Microbial Profiles for Fecal Microbiota Transplantation.",
+      "url": "https://doi.org/10.1038/s41597-026-07502-x",
+      "source": "PubMed — Scientific data",
+      "one_liner": "Functional gastrointestinal disorders (FGIDs) are prevalent and burdensome, yet progress in microbiota-targeted therapies such as fecal microbiota transplantation (FMT) has been hampered by the lack of large-scale, integrated datasets. Current studies are mostly limited in sample size and scope, constraining mechanistic insight and precision application. ...",
+      "segment": 20,
+      "timestamp": 1949.46
+    },
+    {
+      "title": "Substrate recognition and cleavage by mucin degrading O-glycopeptidases from the gut microbe Bacteroides caccae.",
+      "url": "https://doi.org/10.1016/j.jbc.2026.113222",
+      "source": "PubMed — The Journal of biological chemistry",
+      "one_liner": "O-glycopeptidases are enzymes that hydrolyze the peptide bonds in glycoproteins by a mechanism that involves specific recognition of O-linked glycans on the substrate. Bacteroides caccae, an accomplished mucin degrader, is a member of the human gut microbiota with sixteen genes encoding putative O-glycopeptidases in the peptidase_M60 family. At present, t...",
+      "segment": 21,
+      "timestamp": 1996.19
+    },
+    {
+      "title": "The Prebiotic 2'-Fucosyllactose Ameliorates Colitis via an",
+      "url": "https://doi.org/10.1021/acs.jafc.5c15443",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "Recent studies indicate that 2'-fucosyllactose (2'-FL), a human milk oligosaccharide, alleviates inflammatory bowel disease (IBD) by modulating the gut microbiota, yet the underlying mechanisms and key functional bacteria involved remain unclear. This study employed fecal microbiota transplantation and an antibiotic-treated mouse model to investigate the ...",
+      "segment": 22,
+      "timestamp": 2040.82
+    },
+    {
+      "title": "Clinicopathological, Immunohistochemical CXCL10, CXCR3, Serum IL-35, IL-39 Analysis, and Bacterial Identification in Sjogren Syndrome: A Case-Control Study from Iraq.",
+      "url": "https://doi.org/10.1097/SCS.0000000000012721",
+      "source": "PubMed — The Journal of craniofacial surgery",
+      "one_liner": "BACKGROUND: Sjögren syndrome (SS) is a chronic autoimmune disease characterized by lymphocytic infiltration of the salivary and lacrimal glands. The CXCL10-CXCR3 axis is considered central in promoting inflammation and damaging the gland, while oral microbial dysbiosis may amplify immune activation. MATERIALS AND METHODS: This is a cross-sectional case-co...",
+      "segment": 23,
+      "timestamp": 2088.53
+    },
+    {
+      "title": "Efficacy of Lactococcus lactis WiKim0124 in Fat-, Sucrose-, and Fat/Sucrose-Induced Obesity Models.",
+      "url": "https://doi.org/10.1038/s41538-026-00915-3",
+      "source": "PubMed — NPJ science of food",
+      "one_liner": "Lactococcus lactis WiKim0124 (WiKim0124), a probiotic strain isolated from kimchi, has previously shown anti-obesity effects in high-fat diet (HFD) models. This study investigated whether WiKim0124 and its formulated version, SW01, exert consistent anti-obesity efficacy across distinct diet-induced obesity models through modulation of host lipid metabolis...",
+      "segment": 24,
+      "timestamp": 2133.1
+    },
+    {
+      "title": "GPR35 in host-microbe interaction: Mechanisms and translational prospects.",
+      "url": "https://doi.org/10.1016/j.tips.2026.05.007",
+      "source": "PubMed — Trends in pharmacological sciences",
+      "one_liner": "Understanding the mechanism of host-microbe interaction expands the landscape of drug discovery. Challenges, however, exist in the discovery of druggable targets from their signaling network. G protein-coupled receptors are versatile sensors at the host-microbe interface, and G protein-coupled receptor 35 (GPR35) is increasingly shown to play a role via m...",
+      "segment": 25,
+      "timestamp": 2179.32
+    },
+    {
+      "title": "Probiotic supplementation promotes bone development, immune maturation, and cognitive function in growing mice.",
+      "url": "https://doi.org/10.1002/jsfa.70748",
+      "source": "PubMed — Journal of the science of food and agriculture",
+      "one_liner": "BACKGROUND: Early life is a critical window for bone mineral deposition, immune system development, and neurodevelopment. This study evaluated the effects of four probiotic strains on bone growth and regulation of immune function and cognitive function using a growing mouse model, thereby providing preclinical evidence for potential applications in suppor...",
+      "segment": 26,
+      "timestamp": 2226.14
+    },
+    {
+      "title": "Prevalent gut phages encode modular adhesins mediating epithelial binding and endoplasmic reticulum trafficking.",
+      "url": "https://doi.org/10.1038/s41467-026-74031-x",
+      "source": "PubMed — Nature communications",
+      "one_liner": "Bacteriophages are crucial components of the human microbiome and hold promise as therapeutic agents. Yet, their physical interactions with mammalian cells remain poorly understood. Here, we developed a high-throughput platform to identify phages that adhere to epithelial layers and the proteins that mediate this interaction. The identified phages encode ...",
+      "segment": 27,
+      "timestamp": 2272.12
+    },
+    {
+      "title": "Bifidobacterium breve PRL2020 mitigates antibiotic-induced gut symptoms and dysbiosis in children treated with amoxicillin or amoxicillin-clavulanate.",
+      "url": "https://doi.org/10.1007/s10123-026-00843-y",
+      "source": "PubMed — International microbiology : the official journal of the Spanish Society for Microbiology",
+      "one_liner": "Diarrhea caused by amoxicillin (A) or amoxicillin-clavulanate (AC) is common in children, and the induced dysbiosis is often characterized by a severe reduction in bifidobacteria. However, bifidobacteria are extremely antibiotic-sensitive, and their co-administration with antibiotics is likely unwise. The B. breve PRL2020 strain is an A- and AC-resistant ...",
+      "segment": 28,
+      "timestamp": 2395.57
+    },
+    {
+      "title": "Modulation of intestinal bile acids influences colonic mucosal responses.",
+      "url": "https://doi.org/10.1038/s41598-026-55206-4",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "BACKGROUND: Elevated levels of secondary bile acids produced by the gut microbiome, in particular deoxycholic acid (DCA), influence epithelial cell proliferation and accelerate the development of colorectal cancer (CRC) under adverse dietary conditions, such as long-term, high fat intake. However, their effects on the intestinal epithelium have not been s...",
+      "segment": 29,
+      "timestamp": 2528.67
+    },
+    {
+      "title": "In vitro inhibition of Escherichia coli β-glucuronidase by aripiprazole.",
+      "url": "https://doi.org/10.1007/s43440-026-00869-z",
+      "source": "PubMed — Pharmacological reports : PR",
+      "one_liner": "BACKGROUND: Gut microbial β-glucuronidase (GUS) regulates the deconjugation of glucuronidated compounds, thereby influencing the enterohepatic circulation of xenobiotics and endogenous metabolites. Although many orally administered drugs reach the intestinal lumen, their direct effects on microbial enzyme functions remain incompletely understood. In this ...",
+      "segment": 30,
+      "timestamp": 2639.35
+    },
+    {
+      "title": "A systematic review of molecular signaling in the muscle-brain-gut axis: exercise-induced myokines and microbial metabolites as key mediators.",
+      "url": "https://doi.org/10.1007/s11033-026-12035-y",
+      "source": "PubMed — Molecular biology reports",
+      "one_liner": "Exercise physiology is evolving from an organ-based framework toward a systems-level understanding, where molecular interactions between muscle, brain, and the gut microbiome critically influence performance and health. This review systematically examines the genetic, molecular, and cellular bases of this triad, with a focus on translational insights for ...",
+      "segment": 31,
+      "timestamp": 2768.16
+    },
+    {
+      "title": "Unraveling microbial signatures in the comorbidity of autoimmune diseases and depression.",
+      "url": "https://doi.org/10.1186/s12866-026-05223-0",
+      "source": "PubMed — BMC microbiology",
+      "one_liner": "BACKGROUND: Depression is a common comorbidity in autoimmune diseases (ADs), including inflammatory bowel disease (IBD), a well-characterized AD with prominent gut involvement and strong host-microbiome interactions. Yet, its underlying microbial associations remain insufficiently understood. This study aimed to explore the gut microbial composition and f...",
+      "segment": 32,
+      "timestamp": 2873.22
+    },
+    {
+      "title": "Microbial-geochemical Interactions in Underground Reservoirs: Implications for Hydrogen Storage.",
+      "url": "https://doi.org/10.1007/s00248-026-02800-8",
+      "source": "PubMed — Microbial ecology",
+      "one_liner": "Understanding microbial life in deep geological environments is essential for assessing natural biogeochemical processes and their implications for subsurface activities such as underground hydrogen storage. This study investigates the water chemistry, microbial community composition, and metabolic potential of two contrasting geological settings: porous ...",
+      "segment": 33,
+      "timestamp": 2989.64
+    }
+  ]
+}
