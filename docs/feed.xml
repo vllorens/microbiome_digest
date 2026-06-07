@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Jun 2026 06:53:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 07:19:22 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-06-07</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-07/podcast_2026-06-07.mp3</guid>
+      <pubDate>Sun, 07 Jun 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-07/podcast_2026-06-07.mp3" length="18049316" type="audio/mpeg" />
+      <description>Ethanol‑tolerant *Lactobacillus rhamnosus* L7 ameliorates alcohol‑induced liver injury in mice by inhibiting the TLR4/MyD88/NF‑κB inflammatory signaling pathway and restoring gut microbiota homeostasis. | This study applied metatranscriptomic sequencing to simultaneously capture microbial activity and host responses in the upper and lower respiratory tracts of patients with tuberculosis (TB) and community‑acquired pneumonia (CAP). | The available text does not provide details on the number of participants sampled, the specific anatomical sites used for upper (e.g., nasopharyngeal swabs) versus lower (e.g., sputum or bronchoalveolar lavage) collections, the sequencing depth, or the bioinformatic pipelines employed to separate microbial reads from host transcripts.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Ethanol‑tolerant *Lactobacillus rhamnosus* L7 ameliorates alcohol‑induced liver injury in mice by inhibiting the TLR4/MyD88/NF‑κB inflammatory signaling pathway and restoring gut microbiota homeostasis. | This study applied metatranscriptomic sequencing to simultaneously capture microbial activity and host responses in the upper and lower respiratory tracts of patients with tuberculosis (TB) and community‑acquired pneumonia (CAP). | The available text does not provide details on the number of participants sampled, the specific anatomical sites used for upper (e.g., nasopharyngeal swabs) versus lower (e.g., sputum or bronchoalveolar lavage) collections, the sequencing depth, or the bioinformatic pipelines employed to separate microbial reads from host transcripts.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-06-06</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-06/podcast_2026-06-06.mp3</guid>
       <pubDate>Sat, 06 Jun 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-06/podcast_2026-06-06.mp3" length="23599580" type="audio/mpeg" />
-      <description>Using quantitative microbiome profiling to control for confounders, researchers analyzed gut bacteria from 228 multiple sclerosis patients—including 103 untreated—and 2,860 Flemish controls. | The study set out to test whether hydrogen sulfide (H₂S) can reshape the gut microbiota of diabetic mice suffering from hindlimb ischemia, a complication that frequently accompanies diabetes mellitus and poses major therapeutic hurdles. | The study examined how aging of the adaptive immune system reshapes the gut microbiome and alters circulating vitamin B6 concentrations.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-06/podcast_2026-06-06.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Using quantitative microbiome profiling to control for confounders, researchers analyzed gut bacteria from 228 multiple sclerosis patients—including 103 untreated—and 2,860 Flemish controls. | The study set out to test whether hydrogen sulfide (H₂S) can reshape the gut microbiota of diabetic mice suffering from hindlimb ischemia, a complication that frequently accompanies diabetes mellitus and poses major therapeutic hurdles. | The study examined how aging of the adaptive immune system reshapes the gut microbiome and alters circulating vitamin B6 concentrations.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-05/podcast_2026-04-05.mp3</guid>
       <pubDate>Sun, 05 Apr 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-05/podcast_2026-04-05.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-04-04</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-04/podcast_2026-04-04.mp3</guid>
-      <pubDate>Sat, 04 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-04/podcast_2026-04-04.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
