@@ -1,0 +1,114 @@
+{
+  "timestamps": [
+    0.0,
+    135.28,
+    237.47,
+    282.9,
+    329.1,
+    376.88,
+    523.37,
+    642.6,
+    696.69,
+    836.29,
+    982.02,
+    1030.13
+  ],
+  "items": [
+    {
+      "title": "Cholecystectomy-associated gut microbiota dysbiosis promotes colorectal carcinogenesis: from epidemiological controversy to FXR-centered mechanistic insights.",
+      "url": "https://doi.org/10.1186/s43046-026-00360-z",
+      "source": "PubMed — Journal of the Egyptian National Cancer Institute",
+      "one_liner": "BACKGROUND AND OBJECTIVE: Cholecystectomy is one of the most common surgeries worldwide, yet its association with colorectal cancer (CRC) risk remains controversial. Recent advances have linked gut microbiota and bile acid alterations to this risk. This review synthesizes epidemiological evidence and molecular mechanisms, focusing on the microbiota-bile a...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Comparative analysis of morphology and gut microbiome underlying trophic niche differentiation in three stomatopod species.",
+      "url": "https://doi.org/10.1186/s12866-026-05258-3",
+      "source": "PubMed — BMC microbiology",
+      "one_liner": "Given that predatory strategies and trophic niche in stomatopods vary with raptorial appendage differentiation, a comparative analysis was conducted on three species (Odontodactylus japonicus, Lysiosquilla sulcirostris, and Oratosquilla oratoria) exhibiting distinct habitats and morphologies. The study measured their raptorial appendage morphology, digest...",
+      "segment": 1,
+      "timestamp": 135.28
+    },
+    {
+      "title": "Intermittent fasting protects against stress-induced depression and demyelination via the gut microbiota-brain axis.",
+      "url": "https://doi.org/10.1038/s41398-026-04117-z",
+      "source": "PubMed — Translational psychiatry",
+      "one_liner": "Chronic stress is a major risk factor for depression and disrupts myelin integrity in brain regions involved in emotional regulation. Although intermittent fasting (IF) improves metabolic and inflammatory states, its effects on stress-induced depression and demyelination remain unclear. Here, we investigated whether IF alleviates depression-like behaviors...",
+      "segment": 2,
+      "timestamp": 237.47
+    },
+    {
+      "title": "Gut microbiota-derived extracellular vesicles as autonomous regulators of host immunity and gut-organ axes: Cellular mechanisms of cross-kingdom communication in inflammatory, metabolic, and neurodegenerative diseases.",
+      "url": "https://doi.org/10.1016/j.intimp.2026.116964",
+      "source": "PubMed — International immunopharmacology",
+      "one_liner": "Accumulating empirical evidence suggests that extracellular vesicles derived from gut microbiota (GM-EVs) function as independent biological entities that facilitate inter-kingdom communication between microorganisms and host cells. In addition to reflecting the composition of microbial communities, GM-EVs convey bioactive components including proteins, l...",
+      "segment": 3,
+      "timestamp": 282.9
+    },
+    {
+      "title": "Metagenomic insights into potential horizontal transfer of resistance/virulence genes in gut microbiota from patients with Crohn disease.",
+      "url": "https://doi.org/10.1093/ibd/izag090",
+      "source": "PubMed — Inflammatory bowel diseases",
+      "one_liner": "BACKGROUND: Unraveling the potential horizontal transfer of resistance genes/virulence genes (RGs/VGs) in gut microbiota from patients with Crohn disease (CD) is an interesting but poorly characterized issue. METHODS: Quantitative assessment was performed to estimate the relative abundance and diversity of RGs/VGs/mobile genetic elements (MGEs). Different...",
+      "segment": 4,
+      "timestamp": 329.1
+    },
+    {
+      "title": "ElucidatiNg Immunosuppressant pharmacokinetic variabilities by investigating Gut Microbiome modulations After kidney transplantation (ENIGMA): study protocol of a prospective longitudinal trial.",
+      "url": "https://doi.org/10.1136/bmjopen-2025-106623",
+      "source": "PubMed — BMJ open",
+      "one_liner": "INTRODUCTION: In kidney transplantation, immunosuppressive therapy is essential to control alloimmune reactions, prevent graft rejection and improve patient survival rates. However, commonly used drugs like tacrolimus (TAC) and mycophenolate mofetil (MMF) have a narrow therapeutic window and exhibit significant inter- and intra-individual variability in p...",
+      "segment": 5,
+      "timestamp": 376.88
+    },
+    {
+      "title": "Spatial scaling of metagenomic diversity reveals ecological disruption in the gut microbiome of gout patients.",
+      "url": "https://doi.org/10.1038/s41598-026-55351-w",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "Gout, a painful inflammatory arthritis, is characterized by hyperuricemia and monosodium urate crystal deposition, with growing evidence linking its pathogenesis to gut microbiome dysbiosis. However, traditional diversity metrics fail to capture the complex spatial organization of microbial communities. This study addresses this gap by applying the novel ...",
+      "segment": 6,
+      "timestamp": 523.37
+    },
+    {
+      "title": "Gut microbiome-derived metabolites as predictors of bariatric surgery outcomes.",
+      "url": "https://doi.org/10.1016/j.cca.2026.121153",
+      "source": "PubMed — Clinica chimica acta; international journal of clinical chemistry",
+      "one_liner": "BACKGROUND: Bariatric surgery remains the most effective treatment for severe obesity and obesity-associated metabolic disorders. However, substantial interindividual variability exists in postoperative weight loss and type 2 diabetes mellitus remission. Increasing evidence suggests that gut microbiome-derived metabolites may influence metabolic responses...",
+      "segment": 7,
+      "timestamp": 642.6
+    },
+    {
+      "title": "Recent antibiotic exposure and response to treatment of juvenile idiopathic arthritis: a retrospective cohort study.",
+      "url": "https://doi.org/10.1186/s13075-026-03842-6",
+      "source": "PubMed — Arthritis research & therapy",
+      "one_liner": "BACKGROUND: Juvenile idiopathic arthritis (JIA) has been tied to microbiome disruption and antibiotic exposure. Gut microbiota may affect how adults with rheumatoid arthritis respond to methotrexate. We tested if exposure to antibiotics was associated with response to methotrexate for JIA. METHODS: We conducted a retrospective cohort study using national ...",
+      "segment": 8,
+      "timestamp": 696.69
+    },
+    {
+      "title": "Environmental contributors to bacterially dominated fermenting consortia of artisanal Mezcal.",
+      "url": "https://doi.org/10.1186/s12866-026-05199-x",
+      "source": "PubMed — BMC microbiology",
+      "one_liner": "The production of spontaneously fermented beverages worldwide relies on native microorganisms acquired incidentally through cross-contamination from environmental reservoirs. We examined the microbiota involved in Mezcal fermentation, exploring their origins, dynamics, and ecology. Using shotgun metagenomics, we analyzed four batches of Mezcal, spanning t...",
+      "segment": 9,
+      "timestamp": 836.29
+    },
+    {
+      "title": "Four lineages of adenoviruses identified in raptors sampled in Spain.",
+      "url": "https://doi.org/10.1016/j.virol.2026.110990",
+      "source": "PubMed — Virology",
+      "one_liner": "Adenoviruses infect a wide range of vertebrate species from fish to humans, including an especially large number of avian species. This study utilized viral metagenomic workflow coupled with targeted PCR to identify and characterize adenoviruses from cloacal swabs collected from 50 black kites (Milvus migrans), 11 ospreys (Pandion haliaetus), and 35 commo...",
+      "segment": 10,
+      "timestamp": 982.02
+    },
+    {
+      "title": "Ancient species diversity and niche adaptation in Tannerella and Porphyromonas revealed through pangenomics.",
+      "url": "https://doi.org/10.1093/gbe/evag136",
+      "source": "PubMed — Genome biology and evolution",
+      "one_liner": "De novo assembly of ancient and modern bacterial metagenomes can shed light on evolution and ecology of bacterial species that are challenging to culture. Tannerella and Porphyromonas are bacterial genera linked to periodontal disease, and understanding their evolution may reveal insights into their role in oral disease development. We performed pangenomi...",
+      "segment": 11,
+      "timestamp": 1030.13
+    }
+  ]
+}
