@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 07:19:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 07:43:10 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-06-10</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-10/podcast_2026-06-10.mp3</guid>
+      <pubDate>Wed, 10 Jun 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-10/podcast_2026-06-10.mp3" length="12629516" type="audio/mpeg" />
+      <description>Researchers introduce a differential co‑occurrence analysis that goes beyond simple correlation networks to reveal ecological modules in clinical microbiome datasets. | The study reports that oligosaccharide esters (OE) derived from Polygala tenuifolia — commonly known as Yuanzhi — improve memory disorder by restoring gut microbiota homeostasis through modulation of the gut‑brain axis. | A machine‑learning model designed to pinpoint gut‑microbiome‑derived metabolites that could serve as biomarkers for autism spectrum disorder is the focus of this pilot study published in BMC Psychiatry.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Researchers introduce a differential co‑occurrence analysis that goes beyond simple correlation networks to reveal ecological modules in clinical microbiome datasets. | The study reports that oligosaccharide esters (OE) derived from Polygala tenuifolia — commonly known as Yuanzhi — improve memory disorder by restoring gut microbiota homeostasis through modulation of the gut‑brain axis. | A machine‑learning model designed to pinpoint gut‑microbiome‑derived metabolites that could serve as biomarkers for autism spectrum disorder is the focus of this pilot study published in BMC Psychiatry.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-06-09</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-09/podcast_2026-06-09.mp3</guid>
       <pubDate>Tue, 09 Jun 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-09/podcast_2026-06-09.mp3" length="17078252" type="audio/mpeg" />
-      <description>A new preprint by Ruth Ley on bioRxiv systematically evaluates statistical methods for detecting differentially abundant proteins in metaproteomic data. | Researchers have built the first genome‑resolved, culture‑based atlas of the domestic cat gut microbiome, revealing a rich reservoir of host‑adapted microbes that could serve as probiotics. | The paper introduces a dual‑marker approach for forensic age prediction that combines the salivary microbiome with the antibiotic resistome.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-09/podcast_2026-06-09.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>A new preprint by Ruth Ley on bioRxiv systematically evaluates statistical methods for detecting differentially abundant proteins in metaproteomic data. | Researchers have built the first genome‑resolved, culture‑based atlas of the domestic cat gut microbiome, revealing a rich reservoir of host‑adapted microbes that could serve as probiotics. | The paper introduces a dual‑marker approach for forensic age prediction that combines the salivary microbiome with the antibiotic resistome.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-08/podcast_2026-04-08.mp3</guid>
       <pubDate>Wed, 08 Apr 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-08/podcast_2026-04-08.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-04-07</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-07/podcast_2026-04-07.mp3</guid>
-      <pubDate>Tue, 07 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-07/podcast_2026-04-07.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
