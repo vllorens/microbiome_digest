@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jun 2026 07:43:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 07:40:49 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-06-12</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-12/podcast_2026-06-12.mp3</guid>
+      <pubDate>Fri, 12 Jun 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-12/podcast_2026-06-12.mp3" length="20189084" type="audio/mpeg" />
+      <description>The study reports that high levels of gut Bacteroides in the first two years of life are associated with greater microbiome stability and resilience after antibiotic exposure, yet also linked to altered risk for childhood infections. | Parental gut microbiota dysbiosis can leave an epigenetic imprint that mirrors in offspring and is linked to autism‑like behaviors, according to a study in NPJ Biofilms and Microbiomes accessed via PubMed. | The protease code of the bacterial gut microbiota reveals how microbial peptidases act as a regulatory network that shapes community ecology, compromises the intestinal barrier, and rewires host defense and signaling pathways.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>The study reports that high levels of gut Bacteroides in the first two years of life are associated with greater microbiome stability and resilience after antibiotic exposure, yet also linked to altered risk for childhood infections. | Parental gut microbiota dysbiosis can leave an epigenetic imprint that mirrors in offspring and is linked to autism‑like behaviors, according to a study in NPJ Biofilms and Microbiomes accessed via PubMed. | The protease code of the bacterial gut microbiota reveals how microbial peptidases act as a regulatory network that shapes community ecology, compromises the intestinal barrier, and rewires host defense and signaling pathways.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-06-10</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-10/podcast_2026-06-10.mp3</guid>
       <pubDate>Wed, 10 Jun 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-10/podcast_2026-06-10.mp3" length="12629516" type="audio/mpeg" />
-      <description>Researchers introduce a differential co‑occurrence analysis that goes beyond simple correlation networks to reveal ecological modules in clinical microbiome datasets. | The study reports that oligosaccharide esters (OE) derived from Polygala tenuifolia — commonly known as Yuanzhi — improve memory disorder by restoring gut microbiota homeostasis through modulation of the gut‑brain axis. | A machine‑learning model designed to pinpoint gut‑microbiome‑derived metabolites that could serve as biomarkers for autism spectrum disorder is the focus of this pilot study published in BMC Psychiatry.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-10/podcast_2026-06-10.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Researchers introduce a differential co‑occurrence analysis that goes beyond simple correlation networks to reveal ecological modules in clinical microbiome datasets. | The study reports that oligosaccharide esters (OE) derived from Polygala tenuifolia — commonly known as Yuanzhi — improve memory disorder by restoring gut microbiota homeostasis through modulation of the gut‑brain axis. | A machine‑learning model designed to pinpoint gut‑microbiome‑derived metabolites that could serve as biomarkers for autism spectrum disorder is the focus of this pilot study published in BMC Psychiatry.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-09/podcast_2026-04-09.mp3</guid>
       <pubDate>Thu, 09 Apr 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-09/podcast_2026-04-09.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-04-08</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-08/podcast_2026-04-08.mp3</guid>
-      <pubDate>Wed, 08 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-08/podcast_2026-04-08.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
