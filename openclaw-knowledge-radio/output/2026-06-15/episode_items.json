@@ -1,0 +1,249 @@
+{
+  "timestamps": [
+    0.0,
+    159.55,
+    300.76,
+    340.93,
+    675.2,
+    728.4,
+    771.62,
+    913.53,
+    1051.7,
+    1093.33,
+    1144.38,
+    1187.67,
+    1304.66,
+    1440.93,
+    1975.7,
+    2033.7,
+    2079.97,
+    2121.65,
+    2172.24,
+    2216.25,
+    2260.43,
+    2389.38,
+    2521.57,
+    2565.53,
+    2607.89,
+    2652.5,
+    2693.15
+  ],
+  "items": [
+    {
+      "title": "Postoperative exercise modulating gut microbiota and associated metabolites to facilitate bone-tendon healing in rotator cuff tears.",
+      "url": "https://doi.org/10.1186/s12891-026-10083-w",
+      "source": "PubMed — BMC musculoskeletal disorders",
+      "one_liner": "BACKGROUND: Rotator cuff tear is a prevalent shoulder injury, and postoperative exercise is considered to facilitate healing. However, the effect of postoperative exercise on rotator cuff tear healing through gut microbiota and metabolites remains unclear. METHODS: The control (con) group (n = 10) underwent sham surgeries, while the model (mod) and postop...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Integrated analysis of gastric microbiome and clinical features for the diagnosis of gastric neoplasms.",
+      "url": "https://doi.org/10.1186/s13099-026-00843-3",
+      "source": "PubMed — Gut pathogens",
+      "one_liner": "BACKGROUND: Gastric cancer (GC) progression is closely associated with microbial dysbiosis. However, microbial alterations in the intermediate stage of gastric adenoma (GA) remain under-characterized. This study investigated stage-specific microbiome changes and evaluated predictive models integrating microbial and clinical features. METHODS: We analyzed ...",
+      "segment": 1,
+      "timestamp": 159.55
+    },
+    {
+      "title": "Development of soy glycinin-gum arabic complex coacervates: Fabrication of colon-targeted microcapsules and their effect on gut microbiota.",
+      "url": "https://doi.org/10.1016/j.foodchem.2026.149183",
+      "source": "PubMed — Food chemistry",
+      "one_liner": "It is challenging to fabricate oil microcapsules based on plant protein-polysaccharide complex coacervation. This study first systematically characterized the interaction between soy glycinin and gum arabic. It showed that increasing gum arabic/soy glycinin ratio contributed to the formation of hollow coacervates while shifting pH towards the zero charge ...",
+      "segment": 2,
+      "timestamp": 300.76
+    },
+    {
+      "title": "A novel Curcuma wenyujin-derived fructan modulates gut microbiota and metabolic pathways to ameliorate DSS-induced colitis.",
+      "url": "https://doi.org/10.1016/j.carbpol.2026.125292",
+      "source": "PubMed — Carbohydrate polymers",
+      "one_liner": "Ulcerative colitis (UC) involves epithelial barrier breakdown, dysregulated mucosal immunity, and dysbiosis of the gut microbiota (GM). Given the biotherapeutic potential of dietary fructans, this study aimed to isolate a neutral fructan (CWP-W-1) from Curcuma wenyujin and to characterize its chemical structure and anti-colitis effects. CWP-W-1 was purifi...",
+      "segment": 3,
+      "timestamp": 340.93
+    },
+    {
+      "title": "Recent advances and clinical relevance of microbiome dynamics in health and disease.",
+      "url": "https://doi.org/10.1080/19490976.2026.2679197",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "The human microbiome, comprising trillions of bacteria, viruses, fungi, and archaea, represents an essential partner in human biology rather than a passive collection of microbes. These microbial communities inhabit diverse niches, including the gut, skin, oral cavity, respiratory tract, and urogenital system, where they contribute to digestion, vitamin b...",
+      "segment": 4,
+      "timestamp": 675.2
+    },
+    {
+      "title": "Diet and microbiome shape small-molecule cytokinin pools in mammals.",
+      "url": "https://doi.org/10.1080/19490976.2026.2679497",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Cytokinins (CKs) are adenine-derived metabolites traditionally characterized as plant hormones, yet their origin, distribution, and functions in mammalian systems remain largely undefined. Using integrated metabolomics, microbiome, and metagenomics approaches, we provide a systematic characterization of CK occurrence and potential sources in mammals. Seru...",
+      "segment": 5,
+      "timestamp": 728.4
+    },
+    {
+      "title": "The oral microbiome is associated with the diagnosis, prognosis and radiotherapy sensitivity of esophageal cancer.",
+      "url": "https://doi.org/10.1186/s12967-025-06989-z",
+      "source": "PubMed — Journal of translational medicine",
+      "one_liner": "BACKGROUND: Esophageal cancer (EC) is a leading cause of cancer-related mortality worldwide and early detection strategies and precise postoperative interventions must be developed. However, the identification of noninvasive biomarkers for the diagnosis and prognosis remains limited. METHODS: We performed 16S rRNA gene sequencing on tongue-coating samples...",
+      "segment": 6,
+      "timestamp": 771.62
+    },
+    {
+      "title": "Shotgun metagenomic dataset of surface microbiomes at a train station in Shinagawa, Tokyo.",
+      "url": "https://doi.org/10.1186/s12863-026-01451-5",
+      "source": "PubMed — BMC genomic data",
+      "one_liner": "OBJECTIVES: The urban microbiome is a significantly underexplored ecosystem which contributes to the health and resilience of the human population and less is known about the microbiome of urban transportation systems that commuters interact with daily. Shotgun metagenomic sequencing data from swab samples were collected at a representative medium-scale u...",
+      "segment": 7,
+      "timestamp": 913.53
+    },
+    {
+      "title": "Vaginal polycyclic aromatic hydrocarbons (PAHs), HPV infection, and vaginal microbiome in firefighters: A cross-sectional study.",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.142072",
+      "source": "PubMed — Journal of hazardous materials",
+      "one_liner": "Female firefighters are routinely exposed to combustion-derived toxicants, yet the reproductive health implications of this exposure are largely unknown. We investigated whether polycyclic aromatic hydrocarbons (PAHs) are detectable in the vaginal tract of female firefighters and whether these contaminants are linked to high-risk human papillomavirus (HPV...",
+      "segment": 8,
+      "timestamp": 1051.7
+    },
+    {
+      "title": "UPLC-Q-TOF-MS/MS-based dynamic metabolite profile analysis of Huangkui capsule in serum, urine, and feces from normal and pseudo-germ-free rats.",
+      "url": "https://doi.org/10.1016/j.jchromb.2026.125087",
+      "source": "PubMed — Journal of chromatography. B, Analytical technologies in the biomedical and life sciences",
+      "one_liner": "Huangkui capsule (HKC), a proprietary traditional Chinese medicine, has been used for decades to clinically treat chronic kidney diseases. Gut microbiota may mediate its metabolism, yet inadequate research on HKC's in vivo metabolism hinders understanding of its pharmacodynamic basis. In this study, normal and pseudo-germ-free rats were orally administere...",
+      "segment": 9,
+      "timestamp": 1093.33
+    },
+    {
+      "title": "Muribaculum as a microbial contributor of rifaximin-induced mucosal protection during chemotherapy.",
+      "url": "https://doi.org/10.1080/19490976.2026.2685994",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Chemotherapy-induced intestinal mucositis is a frequent and dose-limiting toxicity that compromises cancer treatment outcomes and lacks effective targeted interventions. Here, we investigate the mechanisms by which the nonabsorbable antibiotic rifaximin mitigates chemotherapy-induced intestinal injury, focusing on microbiota-mediated preservation of epith...",
+      "segment": 10,
+      "timestamp": 1144.38
+    },
+    {
+      "title": "Early-life stress and adolescent circadian dysrhythmia drives unique behavioral and microbial profiles in rats.",
+      "url": "https://doi.org/10.1186/s12866-026-05287-y",
+      "source": "PubMed — BMC microbiology",
+      "one_liner": "OBJECTIVES: Early life adversity and circadian disruptions are known to impact neurodevelopment and physiology. This study investigated the effects of maternal separation (MS), adolescent circadian dysrhythmia, and their combination (double hit) on anxiety-like behavior and gut microbiota composition in rats. METHODS: Rats were divided into four groups: C...",
+      "segment": 11,
+      "timestamp": 1187.67
+    },
+    {
+      "title": "Metagenomic analysis reveals resistome characteristics and high-risk resistance genes in the pig nasal cavities, feces, and farm dust.",
+      "url": "https://doi.org/10.1186/s42523-026-00589-y",
+      "source": "PubMed — Animal microbiome",
+      "one_liner": "BACKGROUND: Antimicrobial resistance (AMR) poses a threat to global public health. Swine farms are critical AMR reservoirs. Comprehensive resistome profiling and risk assessment across pig-associated niches remain limited. Metagenomic analysis of antibiotic resistance genes (ARGs) in pig nasal cavities, feces, and farm dust was performed. RESULTS: Nasal a...",
+      "segment": 12,
+      "timestamp": 1304.66
+    },
+    {
+      "title": "Circadian gatekeepers of the gut-brain-immune axis: implications for neuroinflammation and neurodegeneration.",
+      "url": "https://doi.org/10.1186/s12974-026-03899-9",
+      "source": "PubMed — Journal of neuroinflammation",
+      "one_liner": "Circadian rhythms, primarily regulated by light-dark cycles, play a crucial role in maintaining physiological health, including metabolism and immune responses. Evidence shows that circadian rhythms are involved in modulating gut microbiota composition, peripheral and central immune systems, and neurodegenerative disease progression. Recent research has i...",
+      "segment": 13,
+      "timestamp": 1440.93
+    },
+    {
+      "title": "Insect-mediated polystyrene (PS) degradation: Mechanisms, efficiency, ecological impacts, and application prospects.",
+      "url": "https://doi.org/10.1016/j.ecoenv.2026.120243",
+      "source": "PubMed — Ecotoxicology and environmental safety",
+      "one_liner": "Plastic pollution is a critical global issue. Polystyrene (PS) is highly stable and degrades slowly, causing massive accumulation in ecosystems and severe threats to soil, marine life, and human health. Recent studies have demonstrated that the synergy between insects and their gut microbiota can achieve PS biodegradation, offering a novel green remediati...",
+      "segment": 14,
+      "timestamp": 1975.7
+    },
+    {
+      "title": "A fructan-type polysaccharide from Lycium ruthenicum attenuates liver fibrosis via microbiota-dependent ferroptosis inhibition.",
+      "url": "https://doi.org/10.1016/j.carbpol.2026.125243",
+      "source": "PubMed — Carbohydrate polymers",
+      "one_liner": "Plant-derived polysaccharides represent promising candidates for hepatic fibrosis (HF) therapy through the gut-liver axis. This study investigated the structural characteristics, anti-fibrotic efficacy, and mechanisms of LRMP1, a novel polysaccharide from Lycium ruthenicum Murr. LRMP1 was identified as a homogeneous inulin-type fructan (3.055 kDa) with a ...",
+      "segment": 15,
+      "timestamp": 2033.7
+    },
+    {
+      "title": "Gene-centric analysis of Raskinella chloraquaticus reveals a functionally conserved taxonomic group in global drinking water distribution systems.",
+      "url": "https://doi.org/10.1016/j.watres.2026.125784",
+      "source": "PubMed — Water research",
+      "one_liner": "A recent metagenomic survey of drinking water systems revealed that a highly prevalent and dominant uncultured bacterial genus (Raskinella) was represented globally by a single species (Raskinella chloraquaticus). R. chloraquaticus comprises of two sub-species groups, Lineages 1 and 2, the former representing a globally prevalent genomovar. The objective ...",
+      "segment": 16,
+      "timestamp": 2079.97
+    },
+    {
+      "title": "Artificial reef age reshapes benthic microbial communities and modulates the genetic potential for nitrogen and sulfur cycling.",
+      "url": "https://doi.org/10.1016/j.envres.2026.124314",
+      "source": "PubMed — Environmental research",
+      "one_liner": "Artificial reefs (ARs) are widely used to restore coastal ecosystems; however, the impact of reef age on microbial communities and their biogeochemical functions remains unknown. This study integrated metagenomic sequencing with physicochemical analysis to examine successional changes in benthic nitrogen and sulfur cycling along a chronosequence spanning ...",
+      "segment": 17,
+      "timestamp": 2121.65
+    },
+    {
+      "title": "Maternal choline and prebiotic supplementation ameliorate PCOS traits and reduce intergenerational transmission in rats.",
+      "url": "https://doi.org/10.1016/j.lfs.2026.124385",
+      "source": "PubMed — Life sciences",
+      "one_liner": "Polycystic ovary syndrome (PCOS) is a common endocrine disorder with strong heritability, driven by complex metabolic, epigenetic, and gut-microbial dysregulation. While both epigenetic and microbial axes are implicated in PCOS, their integration and contribution to intergenerational transmission remain poorly understood. We investigated whether maternal ...",
+      "segment": 18,
+      "timestamp": 2172.24
+    },
+    {
+      "title": "Hollow-core wood hemicellulose-based microcapsules entrap probiotics within protective walls.",
+      "url": "https://doi.org/10.1016/j.jcis.2026.140135",
+      "source": "PubMed — Journal of colloid and interface science",
+      "one_liner": "Microencapsulation of bioactive compounds, particularly solid cores with biopolymer protective materials, is limited by an incomplete understanding of the internal microstructure and protective layer architecture of microcapsules, due to the heterogeneity and complexity of multicomponent protective materials. Such understanding is critical for optimizing ...",
+      "segment": 19,
+      "timestamp": 2216.25
+    },
+    {
+      "title": "Optimization of solid-state fermentation process of diets and its effects on growth performance and intestinal function in growing pigs.",
+      "url": "https://doi.org/10.1186/s42523-026-00540-1",
+      "source": "PubMed — Animal microbiome",
+      "one_liner": "BACKGROUND: Biological fermentation can improve animal growth performance and meat quality by optimizing feed nutritional properties. However, the complex fermentation parameters require further systematic optimization. This study aimed to establish and optimize a solid-state fermentation (SSF) process, evaluate changes in the feed microbial community and...",
+      "segment": 20,
+      "timestamp": 2260.43
+    },
+    {
+      "title": "Dietary inclusion of Asparagopsis taxiformis significantly reduces methane emissions in dairy cows by mechanistically altering vitamin B12-dependent and other methanogenesis precursor pathways.",
+      "url": "https://doi.org/10.1186/s40168-026-02447-0",
+      "source": "PubMed — Microbiome",
+      "one_liner": "BACKGROUND: Ruminant products are widely consumed due to their high protein and micronutrient content, but ruminant production contributes significantly to greenhouse gas emissions, with methane (CH₄) accounting for 33% of anthropogenic emissions. CH₄ is generated via fermentative processes by the rumen microbiome, primarily through hydrogen utilisation b...",
+      "segment": 21,
+      "timestamp": 2389.38
+    },
+    {
+      "title": "Preoperative gut microbial network alterations and BCAA-Related metabolic disturbance in postoperative delirium after cardiac surgery: a prospective matched multi-omic study.",
+      "url": "https://doi.org/10.1038/s41398-026-04161-9",
+      "source": "PubMed — Translational psychiatry",
+      "one_liner": "Postoperative delirium (POD) is a frequent neuropsychiatric complication after cardiac surgery, yet the biological basis of individual susceptibility remains unclear. In this prospective cohort study, 317 adults undergoing elective on-pump cardiac surgery were enrolled and followed for POD during the first 7 postoperative days. Thirty patients who develop...",
+      "segment": 22,
+      "timestamp": 2521.57
+    },
+    {
+      "title": "Age differences in overnight breath hydrogen dynamics and their association with sleep physiology.",
+      "url": "https://doi.org/10.1088/1752-7163/ae7ca2",
+      "source": "PubMed — Journal of breath research",
+      "one_liner": "Oxidative stress increases with aging and may influence both sleep physiology and gut microbial activity. Molecular hydrogen, produced by intestinal fermentation, acts as an endogenous antioxidant and can be measured noninvasively in exhaled breath. However, age- and sex-related differences in nocturnal changes of breath hydrogen remain unclear.\rWe an...",
+      "segment": 23,
+      "timestamp": 2565.53
+    },
+    {
+      "title": "Treatment of waste activated sludge and the enhancement mechanism for electron transfer in an osmotic microbial fuel cell.",
+      "url": "https://doi.org/10.1016/j.watres.2026.125808",
+      "source": "PubMed — Water research",
+      "one_liner": "The osmotic microbial fuel cell (OsMFC) is a novel technology that can achieve electricity generation and water recovery while stabilizing and dewatering waste activated sludge (WAS). By examining electricity generation, WAS stabilization, microbial community shifts, meta-transcriptomic changes, and the enhancement mechanism of electron transfer, this stu...",
+      "segment": 24,
+      "timestamp": 2607.89
+    },
+    {
+      "title": "Metabolism of β-mannans by representative, understudied Bacillota species from the human colon.",
+      "url": "https://doi.org/10.1093/femsec/fiag063",
+      "source": "PubMed — FEMS microbiology ecology",
+      "one_liner": "The macronutrients in our diets including non-starch polysaccharides such as β-mannans, found in plant cell walls, can impact on human gut health. There is however a paucity of data regarding the ability of gut bacteria, in particular those belonging to the Bacillota (previously Firmicutes) phylum, to depolymerise and ferment β-mannans. In this study, we ...",
+      "segment": 25,
+      "timestamp": 2652.5
+    },
+    {
+      "title": "Distinct Ocular Surface Microbial Profiles in Corneal Transplant Candidates.",
+      "url": "https://doi.org/10.1097/ICO.0000000000004088",
+      "source": "PubMed — Cornea",
+      "one_liner": "PURPOSE: To characterize the ocular surface microbiome in patients undergoing corneal transplantation and to evaluate microbial shifts associated with corneal endothelial decompensation and surgical history. METHODS: In this single-center case-control study, conjunctival swabs were collected from 54 adults scheduled for lamellar or penetrating keratoplast...",
+      "segment": 26,
+      "timestamp": 2693.15
+    }
+  ]
+}

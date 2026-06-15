@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Jun 2026 07:19:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 09:16:50 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-06-15</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-15/podcast_2026-06-15.mp3</guid>
+      <pubDate>Mon, 15 Jun 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-15/podcast_2026-06-15.mp3" length="20540516" type="audio/mpeg" />
+      <description>Postoperative exercise may influence rotator cuff tear healing by altering the gut microbiota and its metabolite profile, according to a study published in BMC Musculoskeletal Disorders. | To investigate this possibility, the team designed an animal experiment with three groups. | The study’s primary aim was to compare gut microbial composition and associated metabolic pathways across these groups, and to relate any observed changes to outcomes in bone‑tendon healing at the surgical site.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Postoperative exercise may influence rotator cuff tear healing by altering the gut microbiota and its metabolite profile, according to a study published in BMC Musculoskeletal Disorders. | To investigate this possibility, the team designed an animal experiment with three groups. | The study’s primary aim was to compare gut microbial composition and associated metabolic pathways across these groups, and to relate any observed changes to outcomes in bone‑tendon healing at the surgical site.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-06-13</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-13/podcast_2026-06-13.mp3</guid>
       <pubDate>Sat, 13 Jun 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-13/podcast_2026-06-13.mp3" length="25993364" type="audio/mpeg" />
-      <description>A recent review in Pest Management Science (PubMed) shows that insect-associated microbiota directly shape the semiochemicals that govern aggregation, mating, foraging and host‑selection behaviors. | Researchers developed a dietary index reflecting gut‑microbiota friendliness and tested its link to metabolic dysfunction‑associated fatty liver disease (MAFLD) in overweight and obese children and adolescents. | Functional PET imaging of gut microbiota aims to make the invisible metabolic activity of intestinal bacteria visible in living subjects.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-13/podcast_2026-06-13.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>A recent review in Pest Management Science (PubMed) shows that insect-associated microbiota directly shape the semiochemicals that govern aggregation, mating, foraging and host‑selection behaviors. | Researchers developed a dietary index reflecting gut‑microbiota friendliness and tested its link to metabolic dysfunction‑associated fatty liver disease (MAFLD) in overweight and obese children and adolescents. | Functional PET imaging of gut microbiota aims to make the invisible metabolic activity of intestinal bacteria visible in living subjects.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-11/podcast_2026-04-11.mp3</guid>
       <pubDate>Sat, 11 Apr 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-11/podcast_2026-04-11.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-04-10</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-10/podcast_2026-04-10.mp3</guid>
-      <pubDate>Fri, 10 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-10/podcast_2026-04-10.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
