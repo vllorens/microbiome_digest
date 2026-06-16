@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Jun 2026 09:16:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 09:18:02 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-06-16</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-16/podcast_2026-06-16.mp3</guid>
+      <pubDate>Tue, 16 Jun 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-16/podcast_2026-06-16.mp3" length="37699052" type="audio/mpeg" />
+      <description>Trimethylamine N‑oxide, or TMAO, is a gut microbiota‑derived metabolite that has long been viewed primarily as a biomarker of cardiovascular and metabolic disease risk. | While the title signals an investigation into these linkages, the available text does not provide details on the specific mechanisms proposed, the types of exercise protocols examined, or the quantitative outcomes reported in the synthesized studies. | What is clear from the source material is that the authors aim to shift the conversation from a purely pathogenic view of TMAO toward a nuanced understanding that incorporates its potential signaling functions in the physiological response to exercise.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Trimethylamine N‑oxide, or TMAO, is a gut microbiota‑derived metabolite that has long been viewed primarily as a biomarker of cardiovascular and metabolic disease risk. | While the title signals an investigation into these linkages, the available text does not provide details on the specific mechanisms proposed, the types of exercise protocols examined, or the quantitative outcomes reported in the synthesized studies. | What is clear from the source material is that the authors aim to shift the conversation from a purely pathogenic view of TMAO toward a nuanced understanding that incorporates its potential signaling functions in the physiological response to exercise.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-06-15</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-15/podcast_2026-06-15.mp3</guid>
       <pubDate>Mon, 15 Jun 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-15/podcast_2026-06-15.mp3" length="20540516" type="audio/mpeg" />
-      <description>Postoperative exercise may influence rotator cuff tear healing by altering the gut microbiota and its metabolite profile, according to a study published in BMC Musculoskeletal Disorders. | To investigate this possibility, the team designed an animal experiment with three groups. | The study’s primary aim was to compare gut microbial composition and associated metabolic pathways across these groups, and to relate any observed changes to outcomes in bone‑tendon healing at the surgical site.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-15/podcast_2026-06-15.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Postoperative exercise may influence rotator cuff tear healing by altering the gut microbiota and its metabolite profile, according to a study published in BMC Musculoskeletal Disorders. | To investigate this possibility, the team designed an animal experiment with three groups. | The study’s primary aim was to compare gut microbial composition and associated metabolic pathways across these groups, and to relate any observed changes to outcomes in bone‑tendon healing at the surgical site.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-12/podcast_2026-04-12.mp3</guid>
       <pubDate>Sun, 12 Apr 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-12/podcast_2026-04-12.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-04-11</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-11/podcast_2026-04-11.mp3</guid>
-      <pubDate>Sat, 11 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-11/podcast_2026-04-11.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
