@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jun 2026 09:18:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 08:49:45 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-06-17</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-17/podcast_2026-06-17.mp3</guid>
+      <pubDate>Wed, 17 Jun 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-17/podcast_2026-06-17.mp3" length="21246356" type="audio/mpeg" />
+      <description>The study set out to uncover how zinc (Zn) eases sepsis‑associated acute kidney injury (AKI) in pregnant mice, focusing on the gut‑kidney axis. | From the findings reported in the title, Zn appears to act on two interconnected pathways. | The available text does not provide details on the dosing regimen, timing, or formulation of the Zn treatment, nor does it specify which bacterial taxa were altered or the quantitative magnitude of microbiota shifts.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>The study set out to uncover how zinc (Zn) eases sepsis‑associated acute kidney injury (AKI) in pregnant mice, focusing on the gut‑kidney axis. | From the findings reported in the title, Zn appears to act on two interconnected pathways. | The available text does not provide details on the dosing regimen, timing, or formulation of the Zn treatment, nor does it specify which bacterial taxa were altered or the quantitative magnitude of microbiota shifts.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-06-16</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-16/podcast_2026-06-16.mp3</guid>
       <pubDate>Tue, 16 Jun 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-16/podcast_2026-06-16.mp3" length="37699052" type="audio/mpeg" />
-      <description>Trimethylamine N‑oxide, or TMAO, is a gut microbiota‑derived metabolite that has long been viewed primarily as a biomarker of cardiovascular and metabolic disease risk. | While the title signals an investigation into these linkages, the available text does not provide details on the specific mechanisms proposed, the types of exercise protocols examined, or the quantitative outcomes reported in the synthesized studies. | What is clear from the source material is that the authors aim to shift the conversation from a purely pathogenic view of TMAO toward a nuanced understanding that incorporates its potential signaling functions in the physiological response to exercise.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-16/podcast_2026-06-16.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Trimethylamine N‑oxide, or TMAO, is a gut microbiota‑derived metabolite that has long been viewed primarily as a biomarker of cardiovascular and metabolic disease risk. | While the title signals an investigation into these linkages, the available text does not provide details on the specific mechanisms proposed, the types of exercise protocols examined, or the quantitative outcomes reported in the synthesized studies. | What is clear from the source material is that the authors aim to shift the conversation from a purely pathogenic view of TMAO toward a nuanced understanding that incorporates its potential signaling functions in the physiological response to exercise.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-13/podcast_2026-04-13.mp3</guid>
       <pubDate>Mon, 13 Apr 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-13/podcast_2026-04-13.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-04-12</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-12/podcast_2026-04-12.mp3</guid>
-      <pubDate>Sun, 12 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-12/podcast_2026-04-12.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>

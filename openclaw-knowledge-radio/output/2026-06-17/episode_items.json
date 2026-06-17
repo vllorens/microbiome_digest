@@ -1,0 +1,339 @@
+{
+  "timestamps": [
+    0.0,
+    128.52,
+    224.25,
+    343.64,
+    456.01,
+    501.96,
+    891.65,
+    934.7,
+    1036.29,
+    1153.21,
+    1202.48,
+    1249.71,
+    1352.5,
+    1469.11,
+    1592.42,
+    1720.09,
+    1762.57,
+    1804.9,
+    1855.13,
+    1979.13,
+    2093.27,
+    2133.32,
+    2176.52,
+    2224.78,
+    2266.54,
+    2309.95,
+    2358.52,
+    2404.33,
+    2441.38,
+    2470.8,
+    2516.52,
+    2563.51,
+    2602.6,
+    2650.88,
+    2695.69,
+    2738.36,
+    2775.82
+  ],
+  "items": [
+    {
+      "title": "Zinc regulates the balance of specific gut microbiota through MTF1/Nrf2 and mitigates ferroptosis through activation of PINK1/Parkin/mitophagy via the gut-kidney axis in sepsis-associated acute kidney injury in pregnant mice.",
+      "url": "https://doi.org/10.1007/s10495-026-02353-8",
+      "source": "PubMed — Apoptosis : an international journal on programmed cell death",
+      "one_liner": "This research intends to explore the molecular mechanism by which Zn alleviates septic AKI in pregnant mice, with a focus on the gut-kidney axis. A septic AKI model was established in non-pregnant and pregnant mice using the cecal ligation and puncture (CLP) method. The changes in serum Zn over time after modeling were observed. Mice were administered wit...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Diet-Dependent Variations in the Gut Microbiota and Metabolic Pathways of the land slug Deroceras laeve.",
+      "url": "https://doi.org/10.1007/s00248-026-02811-5",
+      "source": "PubMed — Microbial ecology",
+      "one_liner": "The slug Deroceras laeve has emerged as a valuable model for biological research, but limited knowledge exists of the microbiota that inhabit the digestive tract of this species. This study assessed the bacterial microbiota of the stomach and intestine of D. laeve fed either a diet formulated for rodents (RD) or a diet of fresh vegetables (VD). Pseudomona...",
+      "segment": 1,
+      "timestamp": 128.52
+    },
+    {
+      "title": "Multi-omics profiling and bile-acid exposure assays implicate a gut microbiome-parasite axis linked to persistent Entamoeba histolytica carriage.",
+      "url": "https://doi.org/10.1186/s13099-026-00845-1",
+      "source": "PubMed — Gut pathogens",
+      "one_liner": "Asymptomatic Entamoeba histolytica (Eh) carriage is a major transmission reservoir, yet how the gut ecosystem-particularly microbiota-derived metabolites such as secondary bile acids-supports persistent colonization remains unclear. We investigated whether gut microbiome-metabolite features are associated with Eh carriage and could influence parasite phen...",
+      "segment": 2,
+      "timestamp": 224.25
+    },
+    {
+      "title": "The potential role of the gut microbiota in the development of autoantibodies associated with Spondyloarthritis: a narrative review.",
+      "url": "https://doi.org/10.1186/s12865-026-00855-3",
+      "source": "PubMed — BMC immunology",
+      "one_liner": "Spondyloarthritis (SpA) is a set of immune-inflammatory conditions characterized by musculoskeletal and extra-articular manifestations. Increasing evidence indicates that alterations in the gut microbiota (dysbiosis) may influence both mucosal and systemic immune responses, potentially contributing to the loss of tolerance and the development of autoantib...",
+      "segment": 3,
+      "timestamp": 343.64
+    },
+    {
+      "title": "Animal-based diets and the human gut microbiota: an integrative review",
+      "url": "https://doi.org/10.1039/d6fo00371k",
+      "source": "PubMed — Food & function",
+      "one_liner": "This review examines the relationships between animal-based diets, gut microbiota architecture, and human health by integrating insights from metagenomic studies and literature-based graphical representations. The gut microbiota is a complex microbial ecosystem, whose organization is closely linked to intestinal homeostasis and host health. Drawing on pub...",
+      "segment": 4,
+      "timestamp": 456.01
+    },
+    {
+      "title": "An alkaline-extracted low-molecular-weight heteroglucan from Ganoderma lucidum enhances immunity by modulating the gut microbiota.",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2026.153083",
+      "source": "PubMed — International journal of biological macromolecules",
+      "one_liner": "Ganoderma lucidum polysaccharides exhibit various biological activities, but conventional extraction is biased toward high-molecular-weight (Mw) polymers. This study aimed to explore the structure and bioactivity of low-Mw polysaccharides from G. lucidum (AGLP1). A low-Mw heteroglucan from G. lucidum was purified and identified as a heteroglucan mainly co...",
+      "segment": 5,
+      "timestamp": 501.96
+    },
+    {
+      "title": "Gut Microbiome Associations With Depressive Symptoms in Women With Gynecologic Cancer: A Longitudinal Study.",
+      "url": "https://doi.org/10.1177/10998004261461549",
+      "source": "PubMed — Biological research for nursing",
+      "one_liner": "About one-quarter of women diagnosed with gynecologic cancer experience depressive symptoms. While the precise mechanism remains unclear, little is known about the association between gut microbiota and depressive symptoms in gynecologic cancer. Thus, this study aimed to evaluate the associations between gut microbiota and depressive symptoms in women wit...",
+      "segment": 6,
+      "timestamp": 891.65
+    },
+    {
+      "title": "Uterine microbiome signatures associated with endometriosis.",
+      "url": "https://doi.org/10.1186/s12915-026-02659-8",
+      "source": "PubMed — BMC biology",
+      "one_liner": "BACKGROUND: Endometriosis is a chronic inflammatory disorder affecting ~ 10% of reproductive-age women, often causing pelvic pain and infertility. Despite its prevalence, diagnosis remains delayed due to non-specific symptoms and lack of reliable non-invasive biomarkers. Emerging evidence implicates the microbiome in disease pathogenesis. RESULTS: We anal...",
+      "segment": 7,
+      "timestamp": 934.7
+    },
+    {
+      "title": "Decoding the functional landscape and resistome profile of the gut microbiome in the Pangwala tribal community of India.",
+      "url": "https://doi.org/10.1186/s12866-026-05248-5",
+      "source": "PubMed — BMC microbiology",
+      "one_liner": "BACKGROUND: The human gut microbiome consists of a complex and diverse community of commensal microorganisms and has been under extensive research consideration in the past few decades. Although several recent studies have targeted the determination of bacterial composition of the ecosystem, the knowledge about the mycobiome, virome, and functional attrib...",
+      "segment": 8,
+      "timestamp": 1036.29
+    },
+    {
+      "title": "Power and sample-size estimation in human microbiome research.",
+      "url": "https://doi.org/10.1016/j.medj.2026.101174",
+      "source": "PubMed — Med (New York, N.Y.)",
+      "one_liner": "Human microbiome research has become pivotal in advancing our understanding of complex diseases such as diabetes, inflammatory bowel disease, and cancer. Much of this work relies on comparing microbial communities across health and disease states, or case-control cohorts, using high-throughput metagenomic sequencing. Yet the very nature of sequencing-deri...",
+      "segment": 9,
+      "timestamp": 1153.21
+    },
+    {
+      "title": "Microbiome Science Certificate Program for workforce development and multi-omics expertise.",
+      "url": "https://doi.org/10.1128/jmbe.00012-26",
+      "source": "PubMed — Journal of microbiology & biology education",
+      "one_liner": "Microbiome research is a dynamic, rapidly growing, and interdisciplinary field that generates valuable insights across the human health, agricultural, and environmental sectors. Despite this growth, gaps remain in educational content and professional development opportunities specifically tailored for microbiome science rather than traditional microbiolog...",
+      "segment": 10,
+      "timestamp": 1202.48
+    },
+    {
+      "title": "Enhanced antitumor efficacy of sulfasalazine and mesalazine in colorectal cancer through modulatory action of Lacticaseibacillus rhamnosus GG.",
+      "url": "https://doi.org/10.1007/s00210-026-05523-2",
+      "source": "PubMed — Naunyn-Schmiedeberg's archives of pharmacology",
+      "one_liner": "Colorectal cancer (CRC) ranks as the second most lethal cancer worldwide. Probiotics have long been utilized to treat gastrointestinal diseases. Probiotics may play a role in the prevention and treatment of CRC. Additionally, the anti-inflammatory drugs sulfasalazine (SSA) and mesalazine (MESA) have a preventive role in CRC. This study investigates the mo...",
+      "segment": 11,
+      "timestamp": 1249.71
+    },
+    {
+      "title": "Bioinformatic identification of CD8+ T cell activation mediated by key genes in fecal microbiota transplantation for irritable bowel syndrome.",
+      "url": "https://doi.org/10.1371/journal.pone.0351574",
+      "source": "PubMed — PloS one",
+      "one_liner": "BACKGROUND: The effect of fecal microbiota transplantation (FMT) in treating irritable bowel syndrome (IBS) may be attributed to the modulation of CD8 + T cells. This study aims to identify FMT-mediated key genes to explore the underlying mechanism. METHODS: Transcriptomic datasets GSE138297 (colonic biopsies from 8 IBS patients pre- and post-FMT) and GSE...",
+      "segment": 12,
+      "timestamp": 1352.5
+    },
+    {
+      "title": "Cross-kingdom microbial associations characterize responsiveness to fecal microbiota transplantation in patients with irritable bowel syndrome.",
+      "url": "https://doi.org/10.1186/s12967-026-08269-w",
+      "source": "PubMed — Journal of translational medicine",
+      "one_liner": "BACKGROUND: Precise outcome prediction for fecal microbiota transplantation (FMT) in irritable bowel syndrome (IBS) remains a clinical challenge. The roles of the gut virome and its interplay with bacteria in FMT efficacy are particularly underexplored. This secondary analysis aimed to conduct an exploratory, hypothesis-generating investigation into these...",
+      "segment": 13,
+      "timestamp": 1469.11
+    },
+    {
+      "title": "Enteropathy produced in mice by intergenerational transmission of small intestinal microbiota from undernourished children.",
+      "url": "https://doi.org/10.1038/s41564-026-02394-4",
+      "source": "PubMed — Nature microbiology",
+      "one_liner": "Environmental enteric dysfunction (EED), a small intestinal disorder prevalent in undernourished children with stunted growth and their undernourished mothers, is associated with gut mucosal barrier disruption and decreased absorptive capacity. Here we provide preclinical evidence that intergenerational transmission of a perturbed small intestinal microbi...",
+      "segment": 14,
+      "timestamp": 1592.42
+    },
+    {
+      "title": "Microbial metabolites at the front line: Orchestrating gastrointestinal and systemic barrier immunity across the lifespan.",
+      "url": "https://doi.org/10.1016/j.celrep.2026.117556",
+      "source": "PubMed — Cell reports",
+      "one_liner": "Microbiota-derived metabolites are central mediators between commensal microbes and host immune system at mucosal barrier surfaces. Insights from mouse models have revealed precise molecular mechanisms by which numerous metabolites, including short-chain fatty acids, tryptophan catabolites and bile acid derivatives, regulate epithelial integrity, innate i...",
+      "segment": 15,
+      "timestamp": 1720.09
+    },
+    {
+      "title": "Lactobacillus reuteri targets FXR-dependent bile acid homeostasis to ameliorate alcoholic liver disease.",
+      "url": "https://doi.org/10.1093/ismejo/wrag153",
+      "source": "PubMed — The ISME journal",
+      "one_liner": "Alcoholic liver disease (ALD) is characterized by gut dysbiosis, yet the functional contribution of specific commensals remains largely unexplored. Here, we identify a significant reduction of Lactobacillus reuteri in both ALD patients and mouse models compared with their respective healthy controls. Using fecal microbiota transplantation (FMT), we first ...",
+      "segment": 16,
+      "timestamp": 1762.57
+    },
+    {
+      "title": "Gut microbial markers of immunotherapy response in melanoma: a cross-cohort analysis including the first Russian dataset.",
+      "url": "https://doi.org/10.1080/19490976.2026.2681788",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Melanoma is an aggressive malignancy with a significant risk of mortality. In recent years, treatment strategies have undergone a paradigm shift with the advent of immunotherapy, particularly immune checkpoint inhibitors (ICIs). Despite notable clinical success, a substantial proportion of patients fail to respond or eventually develop resistance to ICIs....",
+      "segment": 17,
+      "timestamp": 1804.9
+    },
+    {
+      "title": "Detoxification mechanisms of black soldier fly larvae against microcystin-LR.",
+      "url": "https://doi.org/10.1007/s10142-026-01939-4",
+      "source": "PubMed — Functional & integrative genomics",
+      "one_liner": "This study aimed to elucidate the detoxification mechanisms of black soldier fly larvae (BSFL) against microcystin-LR (MC-LR). Using concentration-gradient exposure (0 - 400 µg/L) and integrated metagenomic and transcriptomic analyses, we investigated the growth responses, gut microbiota alterations, and synergistic detoxification mechanisms of BSFL. The ...",
+      "segment": 18,
+      "timestamp": 1855.13
+    },
+    {
+      "title": "Fecal and colonic microbiota differ in composition, function, diagnostic utility and correlation with inflammatory cytokines in ulcerative colitis.",
+      "url": "https://doi.org/10.1038/s41598-026-56144-x",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "Fecal samples have been frequently used to investigate ulcerative colitis (UC)-related gut microbiota study due to their easy availability. However, whether fecal microbiota accurately represents the mucosal microbiome of UC patients remains controversial. This study aims to analyze the gut microbiota in feces and colonic tissue, and to demonstrate from d...",
+      "segment": 19,
+      "timestamp": 1979.13
+    },
+    {
+      "title": "Chlorella pyrenoidosa reduces fecal heavy metal concentrations and antibiotic resistance gene abundance in lambs by modulating the gastrointestinal microbiota.",
+      "url": "https://doi.org/10.1016/j.biortech.2026.135186",
+      "source": "PubMed — Bioresource technology",
+      "one_liner": "Using feed additives and their residues leads to the accumulation of heavy metals and antibiotics in the feces of fattening sheep, thereby posing a threat to the surrounding soil and ecological cycle. Chlorella, a novel feed raw material or additive widely applied in aquaculture, has the potential to mitigate such ecological risks. In this study, we inves...",
+      "segment": 20,
+      "timestamp": 2093.27
+    },
+    {
+      "title": "The Regulatory Mechanisms of Indole-3-Carboxaldehyde in Immune Cells and Its Role in Autoimmune Diseases.",
+      "url": "https://doi.org/10.1016/j.phrs.2026.108303",
+      "source": "PubMed — Pharmacological research",
+      "one_liner": "Immune cells play a central role in the pathogenesis and progression of autoimmune diseases. Recent evidence indicates that metabolites produced by the gut microbiota are essential for maintaining immune cell homeostasis. Indole-3-carboxaldehyde (IAld), a key gut microbial metabolite, has garnered considerable attention due to its immunomodulatory propert...",
+      "segment": 21,
+      "timestamp": 2133.32
+    },
+    {
+      "title": "Fecal Microbiota Transplantation in Parkinson Disease: A Systematic Review, Meta-Analysis, and Meta-Regression.",
+      "url": "https://doi.org/10.1212/WNL.0000000000218175",
+      "source": "PubMed — Neurology",
+      "one_liner": "BACKGROUND AND OBJECTIVES: Parkinson disease (PD) is a progressive neurodegenerative disorder increasingly linked to gut microbiota dysbiosis, which may influence disease mechanisms and symptom expression. Fecal microbiota transplantation (FMT) targets the gut-brain axis, but clinical evidence remains inconsistent. This study aimed to evaluate the efficac...",
+      "segment": 22,
+      "timestamp": 2176.52
+    },
+    {
+      "title": "Optimized Extraction Process of Fu Brick Tea Polysaccharides Using Ultrasound-Assisted Enzymatic Strategy and Their Enhanced Antioxidant and Immunoprotective Activities.",
+      "url": "https://doi.org/10.1021/acs.jafc.6c01025",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "The immunomodulatory mechanisms of Fu brick tea polysaccharides (FBTPs) remain poorly defined, particularly regarding their structure-bioactivity relationship and the causal involvement of the gut microbiota. To address this, we investigated structurally distinct FBTPs prepared via an optimized ultrasound-assisted enzymatic extraction protocol (designated...",
+      "segment": 23,
+      "timestamp": 2224.78
+    },
+    {
+      "title": "Pulmonary lesions reshape swine respiratory microbiota: evidence of bacterial dysbiosis and reduced diversity.",
+      "url": "https://doi.org/10.1007/s42770-026-01981-1",
+      "source": "PubMed — Brazilian journal of microbiology : [publication of the Brazilian Society for Microbiology]",
+      "one_liner": "The swine lower respiratory tract (LRT) microbiota has increasingly been investigated, but important knowledge gaps remain, limiting our understanding of microbial communities involved in respiratory health and disease. This longitudinal study evaluated the LRT bacterial composition of pigs with pulmonary lesions (PL+) compatible with Mycoplasma hyopneumo...",
+      "segment": 24,
+      "timestamp": 2266.54
+    },
+    {
+      "title": "Integrative analysis of the gut-liver-heart axis in coronary artery disease: From chronic metabolic dysbiosis to acute cardiogenic shock.",
+      "url": "https://doi.org/10.1556/030.2026.02892",
+      "source": "PubMed — Acta microbiologica et immunologica Hungarica",
+      "one_liner": "The complex interplay between chronic metabolic disorders and acute cardiovascular decompensation represents a critical frontier in cardiology. This integrative research program conducted at Chongqing Medical University systematically examines the gut-liver-heart axis across the cardiovascular disease spectrum through three interconnected studies. First, ...",
+      "segment": 25,
+      "timestamp": 2309.95
+    },
+    {
+      "title": "Fecal short-chain fatty acids in infants with cow's milk protein allergy ‒ A systematic review.",
+      "url": "https://doi.org/10.20960/nh.06162",
+      "source": "PubMed — Nutricion hospitalaria",
+      "one_liner": "Introduction: gut microbiota dysbiosis is closely associated with the development of allergic diseases. Short-chain fatty acids (SCFAs), as microbial metabolites, regulate immune responses and may represent a therapeutic target. Cow's milk protein allergy (CMPA) is one of the most common food allergies in infancy, making SCFAs a potential biomarker and mo...",
+      "segment": 26,
+      "timestamp": 2358.52
+    },
+    {
+      "title": "Redefining radiotherapy: the gut as an active target in Immuno-Oncology.",
+      "url": "https://doi.org/10.1158/1078-0432.CCR-26-1177",
+      "source": "PubMed — Clinical cancer research : an official journal of the American Association for Cancer Research",
+      "one_liner": "Low-dose intestinal irradiation challenges the long-standing view of the gut as a radiation-sensitive organ to avoid. Clinical and mechanistic data suggest that targeted exposure of the small intestine within a 1 to 3 Gy window can remodel the microbiome and enhance systemic antitumor immunity.",
+      "segment": 27,
+      "timestamp": 2404.33
+    },
+    {
+      "title": "Bile Salts and Bacterial Bile Salt Hydrolase Activity Influence Escherichia coli Colonization and FXR Signaling in Colorectal Cancer Organoids.",
+      "url": "https://doi.org/10.1007/s10439-026-04226-2",
+      "source": "PubMed — Annals of biomedical engineering",
+      "one_liner": "Bile salts are key regulators of intestinal homeostasis and host-microbe interactions in the intestine. While bile salt hydrolase (BSH) activity is known to modulate host metabolism, the direct interplay between bile salt signaling, microbial BSH activity, bile acid signaling, and epithelial responses in colorectal cancer remains poorly understood. Here, ...",
+      "segment": 28,
+      "timestamp": 2441.38
+    },
+    {
+      "title": "Tryptophan metabolism as a key integrator within the gut-lung-brain axis: Mechanistic insights and nutritional therapeutic strategies for inflammatory and neuropsychiatric disorders.",
+      "url": "https://doi.org/10.1016/j.biopha.2026.119527",
+      "source": "PubMed — Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "one_liner": "The gut-lung-brain (GLB) axis is a multidirectional communication network linking the gastrointestinal tract, respiratory system, and central nervous system (CNS) through neural, endocrine, and immune pathways. Emerging evidence suggests that tryptophan (Trp) metabolism serves as a key integrating node within this axis, modulating host-microbe interaction...",
+      "segment": 29,
+      "timestamp": 2470.8
+    },
+    {
+      "title": "Species- and salt-dependent Mg",
+      "url": "https://doi.org/10.1016/j.ijfoodmicro.2026.111758",
+      "source": "PubMed — International journal of food microbiology",
+      "one_liner": "Magnesium is an essential cofactor in microbial metabolism, and its availability during fermentation can substantially influence probiotic growth, metabolic activity, and intracellular mineral handling. This study aimed to evaluate the influence of four magnesium salts, bisglycinate, malate, citrate, and taurate, on fermentation performance, metabolism, a...",
+      "segment": 30,
+      "timestamp": 2516.52
+    },
+    {
+      "title": "Metagenome-assembled genome sequence of an uncultured",
+      "url": "https://doi.org/10.1128/mra.01047-25",
+      "source": "PubMed — Microbiology resource announcements",
+      "one_liner": "The effects of spaceflight stressors, such as microgravity, cosmic radiation, and confinement, on the host physiology and gut microbiome remain unclear. Here, we report the metagenome-assembled genome (MAG) sequence of an uncultured",
+      "segment": 31,
+      "timestamp": 2563.51
+    },
+    {
+      "title": "Probiotic, synbiotic effects on the gut-liver axis: omics-enabled mechanisms and therapeutic windows.",
+      "url": "https://doi.org/10.1080/17460913.2026.2684877",
+      "source": "PubMed — Future microbiology",
+      "one_liner": "The gut-liver axis is a two-way communication network where gut microbes and their metabolites affect liver function, while the liver regulates the intestinal environment through bile acids, immune factors, and antimicrobial substances. Disruption of this balance contributes to various liver diseases, including nonalcoholic fatty liver disease, alcohol-as...",
+      "segment": 32,
+      "timestamp": 2602.6
+    },
+    {
+      "title": "Chocolate and Cardiovascular Disease.",
+      "url": "https://doi.org/10.1097/CRD.0000000000001372",
+      "source": "PubMed — Cardiology in review",
+      "one_liner": "Moderate dark chocolate consumption may serve as a possible adjunct strategy to diminish cardiometabolic and cardiovascular (CV) risks due to its physiological and potential CV and general health effects, such as the regulation of blood pressure, insulin levels, vascular functions, oxidation processes, prebiotic effects, glucose homeostasis, lipid metabol...",
+      "segment": 33,
+      "timestamp": 2650.88
+    },
+    {
+      "title": "Nasal Biomarkers of Acute Illness Severity and Predictors of Recurrent Wheeze in Infants Infected With Respiratory Syncytial Virus.",
+      "url": "https://doi.org/10.1093/infdis/jiag049",
+      "source": "PubMed — The Journal of infectious diseases",
+      "one_liner": "BACKGROUND: Respiratory syncytial virus (RSV) is a leading cause of hospitalization in infants, and those with RSV disease appear more likely to develop recurrent wheeze. We examined nasal airway gene expression and microbiome composition during primary RSV infection to test associations with illness severity and identify infants with recurrent wheeze. ME...",
+      "segment": 34,
+      "timestamp": 2695.69
+    },
+    {
+      "title": "Longitudinal fecal amino acid profiles in extremely preterm infants: early-life determinants and associations with late-onset sepsis.",
+      "url": "https://doi.org/10.1007/s11306-026-02483-9",
+      "source": "PubMed — Metabolomics : Official journal of the Metabolomic Society",
+      "one_liner": "INTRODUCTION: Fecal microbiome and metabolome alterations precede late-onset sepsis (LOS) in preterm infants, but clinical determinants of fecal amino acid (AA) composition and association with LOS development remain poorly understood. OBJECTIVES: This study assessed the early-life determinants of fecal AA composition and AA profiles prior to clinical LOS...",
+      "segment": 35,
+      "timestamp": 2738.36
+    },
+    {
+      "title": "Specific and broad-spectrum antibacterial effectors of type VI secretion system drive competition of",
+      "url": "https://doi.org/10.1128/spectrum.03532-25",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "The type VI secretion system (T6SS) is a bacterial weapon that injects deadly effectors (T6Es) directly into a target competitor encountered in a microbial community.",
+      "segment": 36,
+      "timestamp": 2775.82
+    }
+  ]
+}
