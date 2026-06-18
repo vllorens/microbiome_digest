@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Jun 2026 08:49:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 08:26:38 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-06-18</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-18/podcast_2026-06-18.mp3</guid>
+      <pubDate>Thu, 18 Jun 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-18/podcast_2026-06-18.mp3" length="12678308" type="audio/mpeg" />
+      <description>The study presented in the World Journal of Microbiology &amp; Biotechnology applies metagenomic and metatranscriptomic approaches to characterize both prokaryotic and fungal microbiomes in produced water from an oil terminal in Brazil, with a focus on organisms linked to petroleum degradation and pipeline corrosion. | Using wearable device data from 743 older adults across eastern, central and northern China, researchers linked real‑world physical activity patterns to gut microbiota composition. | The gut microbiota directs vitamin A flux to shape intestinal T cell development, according to a study in Cell Host &amp; Microbe accessed via PubMed.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>The study presented in the World Journal of Microbiology &amp; Biotechnology applies metagenomic and metatranscriptomic approaches to characterize both prokaryotic and fungal microbiomes in produced water from an oil terminal in Brazil, with a focus on organisms linked to petroleum degradation and pipeline corrosion. | Using wearable device data from 743 older adults across eastern, central and northern China, researchers linked real‑world physical activity patterns to gut microbiota composition. | The gut microbiota directs vitamin A flux to shape intestinal T cell development, according to a study in Cell Host &amp; Microbe accessed via PubMed.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-06-17</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-17/podcast_2026-06-17.mp3</guid>
       <pubDate>Wed, 17 Jun 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-17/podcast_2026-06-17.mp3" length="21246356" type="audio/mpeg" />
-      <description>The study set out to uncover how zinc (Zn) eases sepsis‑associated acute kidney injury (AKI) in pregnant mice, focusing on the gut‑kidney axis. | From the findings reported in the title, Zn appears to act on two interconnected pathways. | The available text does not provide details on the dosing regimen, timing, or formulation of the Zn treatment, nor does it specify which bacterial taxa were altered or the quantitative magnitude of microbiota shifts.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-17/podcast_2026-06-17.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>The study set out to uncover how zinc (Zn) eases sepsis‑associated acute kidney injury (AKI) in pregnant mice, focusing on the gut‑kidney axis. | From the findings reported in the title, Zn appears to act on two interconnected pathways. | The available text does not provide details on the dosing regimen, timing, or formulation of the Zn treatment, nor does it specify which bacterial taxa were altered or the quantitative magnitude of microbiota shifts.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-14/podcast_2026-04-14.mp3</guid>
       <pubDate>Tue, 14 Apr 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-14/podcast_2026-04-14.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-04-13</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-13/podcast_2026-04-13.mp3</guid>
-      <pubDate>Mon, 13 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-13/podcast_2026-04-13.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
