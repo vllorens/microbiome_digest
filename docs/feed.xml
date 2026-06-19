@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jun 2026 08:26:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 08:47:45 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-06-19</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-19/podcast_2026-06-19.mp3</guid>
+      <pubDate>Fri, 19 Jun 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-19/podcast_2026-06-19.mp3" length="16089068" type="audio/mpeg" />
+      <description>Researchers report that a metabolite produced by gut bacteria, succinate, directly links loss of protein homeostasis to the buildup of α‑synuclein and age‑related decline in a Parkinson’s disease model. | A recent review in iScience (PubMed) highlights how the gut microbiota‑brain axis operates as a dynamic, bidirectional network linking neural, endocrine, immune and metabolic signals to shape physiology and behavior. | Depression symptoms in early pregnancy are tied to more sedentary time and less sleep, according to a multimodal study of 161 women published in iScience via PubMed.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Researchers report that a metabolite produced by gut bacteria, succinate, directly links loss of protein homeostasis to the buildup of α‑synuclein and age‑related decline in a Parkinson’s disease model. | A recent review in iScience (PubMed) highlights how the gut microbiota‑brain axis operates as a dynamic, bidirectional network linking neural, endocrine, immune and metabolic signals to shape physiology and behavior. | Depression symptoms in early pregnancy are tied to more sedentary time and less sleep, according to a multimodal study of 161 women published in iScience via PubMed.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-06-18</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-18/podcast_2026-06-18.mp3</guid>
       <pubDate>Thu, 18 Jun 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-18/podcast_2026-06-18.mp3" length="12678308" type="audio/mpeg" />
-      <description>The study presented in the World Journal of Microbiology &amp; Biotechnology applies metagenomic and metatranscriptomic approaches to characterize both prokaryotic and fungal microbiomes in produced water from an oil terminal in Brazil, with a focus on organisms linked to petroleum degradation and pipeline corrosion. | Using wearable device data from 743 older adults across eastern, central and northern China, researchers linked real‑world physical activity patterns to gut microbiota composition. | The gut microbiota directs vitamin A flux to shape intestinal T cell development, according to a study in Cell Host &amp; Microbe accessed via PubMed.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-18/podcast_2026-06-18.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>The study presented in the World Journal of Microbiology &amp; Biotechnology applies metagenomic and metatranscriptomic approaches to characterize both prokaryotic and fungal microbiomes in produced water from an oil terminal in Brazil, with a focus on organisms linked to petroleum degradation and pipeline corrosion. | Using wearable device data from 743 older adults across eastern, central and northern China, researchers linked real‑world physical activity patterns to gut microbiota composition. | The gut microbiota directs vitamin A flux to shape intestinal T cell development, according to a study in Cell Host &amp; Microbe accessed via PubMed.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-15/podcast_2026-04-15.mp3</guid>
       <pubDate>Wed, 15 Apr 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-15/podcast_2026-04-15.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-04-14</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-14/podcast_2026-04-14.mp3</guid>
-      <pubDate>Tue, 14 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-14/podcast_2026-04-14.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>

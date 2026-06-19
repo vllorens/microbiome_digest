@@ -1,0 +1,258 @@
+{
+  "timestamps": [
+    0.0,
+    37.68,
+    88.43,
+    135.85,
+    258.1,
+    396.58,
+    509.06,
+    631.1,
+    677.66,
+    720.4,
+    760.11,
+    802.66,
+    848.21,
+    1200.76,
+    1252.07,
+    1292.12,
+    1334.1,
+    1377.96,
+    1494.67,
+    1611.43,
+    1659.14,
+    1704.85,
+    1751.34,
+    1798.18,
+    1942.66,
+    1988.28,
+    2042.42,
+    2092.0
+  ],
+  "items": [
+    {
+      "title": "Gut microbiota-derived succinate links proteostasis collapse to α-synuclein pathology and aging.",
+      "url": "https://doi.org/10.1016/j.isci.2026.115941",
+      "source": "PubMed — iScience",
+      "one_liner": "The gut microbiome profoundly influences brain health, yet the specific microbial metabolites and mechanisms contributing to Parkinson's disease pathology remain poorly defined. Using the",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Unraveling the gut microbiota-brain axis: Mechanisms, pathophysiology, and therapeutic opportunities.",
+      "url": "https://doi.org/10.1016/j.isci.2026.116224",
+      "source": "PubMed — iScience",
+      "one_liner": "The gut microbiota-brain axis constitutes a dynamic, bidirectional communication network that integrates neural, endocrine, immune, and metabolic pathways to regulate host physiology and behavior. Accumulating evidence indicates that disturbances within this axis have been consistently associated with metabolic, autoimmune, and neuropsychiatric disorders;...",
+      "segment": 1,
+      "timestamp": 37.68
+    },
+    {
+      "title": "Mental health in early pregnancy: Interplay of objectively measured lifestyles, gut microbiota, and metabolomics.",
+      "url": "https://doi.org/10.1016/j.isci.2026.116178",
+      "source": "PubMed — iScience",
+      "one_liner": "Prenatal anxiety symptoms (AS) and depression symptoms (DS) in early pregnancy substantially impact maternal-infant health, but their pathophysiological mechanisms remain unclear. We conducted a multimodal assessment of 161 early-pregnant women. DS exhibited significantly longer standing/sitting durations and shorter nocturnal sleep and nap times (",
+      "segment": 2,
+      "timestamp": 88.43
+    },
+    {
+      "title": "Comparative analysis of gut microbiome alterations in early- and late-onset preeclampsia: A case control study.",
+      "url": "https://doi.org/10.1371/journal.pone.0348943",
+      "source": "PubMed — PloS one",
+      "one_liner": "Preeclampsia (PE) is a complication during pregnancy characterized by hypertension, organ damage, and systemic inflammation. Increasing evidence suggests that the gut microbiome may play a role in the pathophysiology of PE. However, previous studies on the gut microbiome have generally overlooked the distinction between subgroups of PE, although clinical ...",
+      "segment": 3,
+      "timestamp": 135.85
+    },
+    {
+      "title": "Comparative gut microbiota profiling of obese and normal-weight indian adults using 16S rRNA sequencing.",
+      "url": "https://doi.org/10.1007/s11033-026-12104-2",
+      "source": "PubMed — Molecular biology reports",
+      "one_liner": "BACKGROUND: Obesity rates are rising globally, placing a significant strain on individuals, society, and economies. The gut microbiota (GM) plays a pivotal role in the development of obesity. Many studies have identified differences in GM composition between obese and normal-weight people worldwide. However, there is limited data on the GM profiles of obe...",
+      "segment": 4,
+      "timestamp": 258.1
+    },
+    {
+      "title": "Gut microbiota dysbiosis in intensive care unit patients with acute kidney injury: insights from 16S sequencing and mediation analysis.",
+      "url": "https://doi.org/10.1186/s12882-026-05134-2",
+      "source": "PubMed — BMC nephrology",
+      "one_liner": "BACKGROUND: The gut-kidney axis is critical in acute kidney injury (AKI) pathophysiology, but its specific characteristics in intensive care unit (ICU) patients remain unclear. This study aimed to investigate compositional and functional alterations of gut microbiota in AKI patients. METHODS: Patients were divided into AKI and non_AKI groups. Rectal swabs...",
+      "segment": 5,
+      "timestamp": 396.58
+    },
+    {
+      "title": "Stellate ganglion block attenuates gut barrier injury in sleep-deprived rats in a gut microbiota-dependent manner.",
+      "url": "https://doi.org/10.1038/s41598-026-57990-5",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "Patients with sleep disorders often suffer from gastrointestinal diseases such as abdominal pain and diarrhea, which severely affect their quality of life. Therefore, identifying interventions to mitigate sleep deprivation (SD)-induced intestinal barrier damage is an important clinical objective. The potential of stellate ganglion block (SGB) to improve g...",
+      "segment": 6,
+      "timestamp": 509.06
+    },
+    {
+      "title": "Hyaluronan exerts unique microbiome and metabolic effects compared with pectin: a multi-omics study of dietary polysaccharides.",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2026.153043",
+      "source": "PubMed — International journal of biological macromolecules",
+      "one_liner": "Dietary polysaccharides are increasingly recognized as modulators of host metabolism through intestinal interactions, yet not all exert comparable systemic effects. In this context, dietary hyaluronan (HA) is distinguished by its clinical efficacy on connective tissues. We investigated whether oral HA modulates the small-intestinal microbiome, systemic me...",
+      "segment": 7,
+      "timestamp": 631.1
+    },
+    {
+      "title": "Gut Microbiota-Generated Trimethylamine",
+      "url": "https://doi.org/10.1152/ajpendo.00160.2026",
+      "source": "PubMed — American journal of physiology. Endocrinology and metabolism",
+      "one_liner": "The causal relationship between gut microbiota-generated trimethylamine N-oxide (TMAO) and type 2 diabetes remains unclear. We tested the hypothesis that gut microbiota-generated increases in plasma TMAO concentrations will impair insulin sensitivity and glucose tolerance in healthy, sedentary humans. To address this, we performed two studies utilizing a ...",
+      "segment": 8,
+      "timestamp": 677.66
+    },
+    {
+      "title": "Heading Toward a Different Future: The Microbiome, Dysbiosis, Microbial Translocation, and Beyond.",
+      "url": "https://doi.org/10.2106/JBJS.25.01100",
+      "source": "PubMed — The Journal of bone and joint surgery. American volume",
+      "one_liner": "➢ The relationship between the gastrointestinal tract and joint diseases has garnered increased attention over recent decades, leading to the introduction of the gut-joint axis concept.➢ Infections at sites such as joints and the spine may originate endogenously from the gut microbiome.➢ The idea of microbial translocation through a compromised epithelial...",
+      "segment": 9,
+      "timestamp": 720.4
+    },
+    {
+      "title": "The follicular microbiome in hair-follicle-associated inflammatory diseases: A systematic review.",
+      "url": "https://doi.org/10.1093/ced/llag251",
+      "source": "PubMed — Clinical and experimental dermatology",
+      "one_liner": "BACKGROUND: Hair follicles represent distinct cutaneous microenvironments that host microbial communities. Dysbiosis has been increasingly associated with inflammatory skin and hair disorders, but available studies were limited in scope and sample size, limiting confidence in the conclusions that can be drawn. OBJECTIVES: To assess the bacterial microbiom...",
+      "segment": 10,
+      "timestamp": 760.11
+    },
+    {
+      "title": "Dysfunction in the SOCE/EDH-mediated vasorelaxation of mesenteric arteries impairs intestinal barrier integrity in irritable bowel syndrome.",
+      "url": "https://doi.org/10.1016/j.bcp.2026.118179",
+      "source": "PubMed — Biochemical pharmacology",
+      "one_liner": "Irritable bowel syndrome (IBS) is a prevalent functional gastrointestinal disorder with an incompletely understood pathogenesis. Although dysregulation of the enteric nervous system, mucosal barrier, brain-gut axis, and immune-microbiota interactions has been extensively investigated, the contribution of intestinal microcirculatory dysfunction remains lar...",
+      "segment": 11,
+      "timestamp": 802.66
+    },
+    {
+      "title": "Cohesive modules of engraftment in fecal microbiota transplantation.",
+      "url": "https://doi.org/10.1016/j.isci.2026.116025",
+      "source": "PubMed — iScience",
+      "one_liner": "While single-strain probiotics fail to address community-level microbiota injuries in dysbiosis-related conditions and fecal microbiota transplantation (FMT) produces unpredictable communities, a middle-ground approach has emerged. This approach involves using small consortia of species, combining the precision of single-strain probiotics and the holistic...",
+      "segment": 12,
+      "timestamp": 848.21
+    },
+    {
+      "title": "A tumor-resident",
+      "url": "https://doi.org/10.1016/j.isci.2026.116084",
+      "source": "PubMed — iScience",
+      "one_liner": "Although bacteria have been detected in hepatocellular carcinoma (HCC), the low microbial biomass has hindered isolation of viable intratumoral strains and evaluation of their functional relevance. Intratumoral microbiota profiling by 5R 16S rRNA sequencing, together with a stringent contamination-controlled workflow, identified enrichment of",
+      "segment": 13,
+      "timestamp": 1200.76
+    },
+    {
+      "title": "A meta-analysis of infant gut viromes reveals global patterns in bacteriophage community assembly and functional capacity over the first three years of life.",
+      "url": "https://doi.org/10.1038/s41467-026-74609-5",
+      "source": "PubMed — Nature communications",
+      "one_liner": "Assembly of the gut microbiota in infancy is an important health determinant, yet the viral component, the virome, remains poorly described. Here, we conduct a meta-analysis of 12 infant cohorts across 8 countries to model gut virome development over the first three years of life. Our results revealed distinct diversity patterns, where viral richness incr...",
+      "segment": 14,
+      "timestamp": 1252.07
+    },
+    {
+      "title": "High thrombin activity associated with crohn's disease induces microbiota pathogenicity contributing to mucosal inflammation.",
+      "url": "https://doi.org/10.1080/19490976.2026.2687903",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Thrombin is a serine protease produced by the intestinal epithelium that contributes to mucosal homeostasis by limiting microbial encroachment. In Crohn's disease, mucosal thrombin activity is markedly increased, suggesting a role in disease pathophysiology. We hypothesized that excessive luminal thrombin disrupts host-microbiota interactions and promotes...",
+      "segment": 15,
+      "timestamp": 1292.12
+    },
+    {
+      "title": "Cross-study metagenomics analysis reveals distinct microbial signatures of urinary tract infections",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.06.17.732905",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Background: Urinary tract infections (UTIs) represent a major public health concern, increasingly complicated by rising antibiotic resistance, diminishing treatment efficacy, and increasing prevalence of recurrence. The urinary tract microbiome (urobiome) remains poorly characterized, despite its potential role in UTIs. Results: To provide a comprehensive...",
+      "segment": 16,
+      "timestamp": 1334.1
+    },
+    {
+      "title": "Traditional fermented camel milk from Xinjiang, China, used as a starter culture exhibits stable fermentation characteristics and anti-colitis effects.",
+      "url": "https://doi.org/10.1039/d5fo05107j",
+      "source": "PubMed — Food & function",
+      "one_liner": "In this study, five traditional fermented camel milks obtained from five different pasturing areas in Xinjiang, China, were evaluated for their fermentation stability, microbiota composition, and amino acid and peptide profiles. The results demonstrated that traditional fermented camel milk from Xinjiang, when used as a starter culture, maintains stable p...",
+      "segment": 17,
+      "timestamp": 1377.96
+    },
+    {
+      "title": "Bacterial Microbiota Signatures Suggest Acclimation of the Gorgonian Leptogorgia sarmentosa to Highly Impacted Environments in the Mediterranean Sea.",
+      "url": "https://doi.org/10.1007/s00248-026-02809-z",
+      "source": "PubMed — Microbial ecology",
+      "one_liner": "Anthropogenic disturbances increasingly compromise marine environments, with severe consequences for vulnerable coral ecosystems. While global stressor impacts on stony corals are well-documented, the mechanisms by which local perturbations influence gorgonians remain poorly characterized. This limits our ability to predict the tolerance of temperate octo...",
+      "segment": 18,
+      "timestamp": 1494.67
+    },
+    {
+      "title": "Short-chain fatty acids modulate the development and the cell surface molecule expression of DCs by epigenetic regulation.",
+      "url": "https://doi.org/10.1016/j.alit.2026.05.005",
+      "source": "PubMed — Allergology international : official journal of the Japanese Society of Allergology",
+      "one_liner": "BACKGROUND: Short-chain fatty acids (SCFAs) are produced by the gut microbiota as secondary metabolites during fermentation process of dietary fibers. Although SCFAs are beneficial for immuno-related diseases because they regulate the gene expression and functions of myeloid cells, the effects of SCFAs on the development of DCs remain unclear. METHODS: We...",
+      "segment": 19,
+      "timestamp": 1611.43
+    },
+    {
+      "title": "Metagenomic analysis of water column samples collected from Green Canyon 233 prior to the Deepwater Horizon incident.",
+      "url": "https://doi.org/10.1128/aem.00799-26",
+      "source": "PubMed — Applied and environmental microbiology",
+      "one_liner": "UNLABELLED: The Gulf of Mexico/Gulf of America provides ecosystem services derived from marine biodiversity and oil and gas resources. Threats posed by unintended releases of oil and gas can be attenuated by microbial processes, necessitating the documentation of baseline microbial diversity to better understand spill dynamics and to inform bioremediation...",
+      "segment": 20,
+      "timestamp": 1659.14
+    },
+    {
+      "title": "The gut mycobiome is shaped by interactions with the bacterial community in twins.",
+      "url": "https://doi.org/10.1016/j.isci.2026.115786",
+      "source": "PubMed — iScience",
+      "one_liner": "The human gut microbiome comprises bacteria, viruses, and fungi, yet the fungal component (mycobiome) remains poorly characterized. Here, we investigated gut fungal composition and fungal-bacterial interactions in healthy monozygotic and dizygotic twins. Fungal communities showed substantially higher inter-individual variability than bacterial communities...",
+      "segment": 21,
+      "timestamp": 1704.85
+    },
+    {
+      "title": "Disease-specific gut microbial signatures generate model-derived cancer probability scores through targeted fecal qPCR profiling.",
+      "url": "https://doi.org/10.1093/bbb/zbag090",
+      "source": "PubMed — Bioscience, biotechnology, and biochemistry",
+      "one_liner": "The gut microbiome is a potential source of non-invasive cancer biomarkers. We evaluated six fecal microbial markers and developed targeted qPCR-based logistic models for colorectal cancer (CRC) and pancreatic cancer (PC). Using LASSO with the 1-standard-error rule, four markers were selected for CRC (afb, nan, fsr, and 5ar) and three for PC (but, fsr, an...",
+      "segment": 22,
+      "timestamp": 1751.34
+    },
+    {
+      "title": "Effects of guava pomace combined with gut modulators on growth performance, cecal histomorphology and gene expression in rabbits.",
+      "url": "https://doi.org/10.1038/s41598-026-57446-w",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "Sustainable intensification of rabbit production necessitates the exploration of non-conventional feed resources to mitigate the rising costs and limited availability of conventional ingredients. The present study evaluated the effects of dietary inclusion of dried guava pomace (DGP), alone or combined with a prebiotic source of mannan-oligosaccharides an...",
+      "segment": 23,
+      "timestamp": 1798.18
+    },
+    {
+      "title": "Exploring biohydrogen producing potential of Arctic ice and water through metagenomics and dark fermentation kinetics.",
+      "url": "https://doi.org/10.1038/s41598-026-57926-z",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "Cryospheric ecosystems in the high Arctic harbor largely unexplored microbiomes with significant biotechnological potential. The present study evaluates the biohydrogen production capabilities of the indigenous microbiome of Ny-Ålesund, Svalbard, using glacial ice and surface water samples. Dark fermentation batch assays were performed at 4 °C and 20 °C w...",
+      "segment": 24,
+      "timestamp": 1942.66
+    },
+    {
+      "title": "A causal inference framework to bridge association and mechanism in the gut-brain axis.",
+      "url": "https://doi.org/10.1016/j.pnpbp.2026.111797",
+      "source": "PubMed — Progress in neuro-psychopharmacology & biological psychiatry",
+      "one_liner": "The gut-brain axis represents a major paradigm shift in how we evaluate diseases in neuroscience, with microbial dysbiosis affecting many neurological and psychiatric disorders. However, the clinical translation of these findings into effective therapies is currently stalled at a methodological impasse. This Causality Conundrum arises due to the fact that...",
+      "segment": 25,
+      "timestamp": 1988.28
+    },
+    {
+      "title": "Beyond AMGs: Phage-encoded transcription and sigma factors as understudied virocell reprogramming tools.",
+      "url": "https://doi.org/10.1016/j.tim.2026.05.019",
+      "source": "PubMed — Trends in microbiology",
+      "one_liner": "Phages, the most abundant biological entities on Earth, infect bacteria and reprogram them into 'virocells' with altered physiology and ecology. While metagenomic studies have largely inferred reprogramming through virus-encoded auxiliary metabolic genes (AMGs), phages can reprogram cells through many other tools. In this review, we explore how phage-enco...",
+      "segment": 26,
+      "timestamp": 2042.42
+    },
+    {
+      "title": "Role of oral bacteria composition and functional gene profiles in respiratory diseases.",
+      "url": "https://doi.org/10.1136/bmjresp-2025-003938",
+      "source": "PubMed — BMJ open respiratory research",
+      "one_liner": "INTRODUCTION: The oral microbiome has been shown to be associated with respiratory health, primarily in adult case studies or among children. This relationship has been scarcely investigated in adult population-based cohorts. OBJECTIVES: To investigate the association between oral microbiome and respiratory health, more specifically asthma, chronic rhinos...",
+      "segment": 27,
+      "timestamp": 2092.0
+    }
+  ]
+}
