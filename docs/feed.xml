@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Sun, 21 Jun 2026 08:16:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 07:04:16 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-06-23</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-23/podcast_2026-06-23.mp3</guid>
+      <pubDate>Tue, 23 Jun 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-23/podcast_2026-06-23.mp3" length="26960372" type="audio/mpeg" />
+      <description>Gut microbiota contributions to anorexia nervosa pathogenesis: insights from the activity‑based anorexia model is the focus of a June 23 2026 article in npj Biofilms and Microbiomes. | The available text does not provide details on the experimental design—such as whether the work relied on germ‑free mice, antibiotic treatments, fecal microbiota transplants, or longitudinal sequencing of fecal samples. | Despite these gaps, the study’s relevance is clear: anorexia nervosa remains a challenging psychiatric disorder with limited treatment options, and emerging evidence implicates the gut‑brain axis in appetite regulation, mood, and stress responsiveness.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Gut microbiota contributions to anorexia nervosa pathogenesis: insights from the activity‑based anorexia model is the focus of a June 23 2026 article in npj Biofilms and Microbiomes. | The available text does not provide details on the experimental design—such as whether the work relied on germ‑free mice, antibiotic treatments, fecal microbiota transplants, or longitudinal sequencing of fecal samples. | Despite these gaps, the study’s relevance is clear: anorexia nervosa remains a challenging psychiatric disorder with limited treatment options, and emerging evidence implicates the gut‑brain axis in appetite regulation, mood, and stress responsiveness.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-06-21</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-21/podcast_2026-06-21.mp3</guid>
       <pubDate>Sun, 21 Jun 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-21/podcast_2026-06-21.mp3" length="25654364" type="audio/mpeg" />
-      <description>We need to write a deep dive segment about the paper: &quot;A Risk Score for Polycystic Ovary Syndrome Based on Meta-Analysis and Machine Learning of Gut Microbiota Signatures.&quot; The notes from pipeline only give the intro snippet, not details. | We must not invent details. | We need about 220-340 words.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-21/podcast_2026-06-21.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>We need to write a deep dive segment about the paper: &quot;A Risk Score for Polycystic Ovary Syndrome Based on Meta-Analysis and Machine Learning of Gut Microbiota Signatures.&quot; The notes from pipeline only give the intro snippet, not details. | We must not invent details. | We need about 220-340 words.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-17/podcast_2026-04-17.mp3</guid>
       <pubDate>Fri, 17 Apr 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-17/podcast_2026-04-17.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-04-16</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-16/podcast_2026-04-16.mp3</guid>
-      <pubDate>Thu, 16 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-16/podcast_2026-04-16.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
