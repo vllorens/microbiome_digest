@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2026 07:04:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 06:59:23 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-06-25</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-25/podcast_2026-06-25.mp3</guid>
+      <pubDate>Thu, 25 Jun 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-25/podcast_2026-06-25.mp3" length="22252892" type="audio/mpeg" />
+      <description>A meta‑analysis of gut‑microbiome data shows that specific microbial signatures linked to colorectal cancer are consistent across all age groups and independent of whether shotgun or amplicon sequencing was used. | Gut microbiota‑derived lysine phenylacetylation (Kpaa) impairs mitochondrial function and is reversed by the deacetylase SIRT3, according to a study in Cell Metabolism. | The review highlights that, while the microbiome’s impact on carcinogenesis, tumor immunity and immunotherapy response is well established in melanoma and colorectal cancer, its role in genitourinary malignancies—particularly urothelial carcinoma—remains less clear.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>A meta‑analysis of gut‑microbiome data shows that specific microbial signatures linked to colorectal cancer are consistent across all age groups and independent of whether shotgun or amplicon sequencing was used. | Gut microbiota‑derived lysine phenylacetylation (Kpaa) impairs mitochondrial function and is reversed by the deacetylase SIRT3, according to a study in Cell Metabolism. | The review highlights that, while the microbiome’s impact on carcinogenesis, tumor immunity and immunotherapy response is well established in melanoma and colorectal cancer, its role in genitourinary malignancies—particularly urothelial carcinoma—remains less clear.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-06-23</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-23/podcast_2026-06-23.mp3</guid>
       <pubDate>Tue, 23 Jun 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-23/podcast_2026-06-23.mp3" length="26960372" type="audio/mpeg" />
-      <description>Gut microbiota contributions to anorexia nervosa pathogenesis: insights from the activity‑based anorexia model is the focus of a June 23 2026 article in npj Biofilms and Microbiomes. | The available text does not provide details on the experimental design—such as whether the work relied on germ‑free mice, antibiotic treatments, fecal microbiota transplants, or longitudinal sequencing of fecal samples. | Despite these gaps, the study’s relevance is clear: anorexia nervosa remains a challenging psychiatric disorder with limited treatment options, and emerging evidence implicates the gut‑brain axis in appetite regulation, mood, and stress responsiveness.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-23/podcast_2026-06-23.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Gut microbiota contributions to anorexia nervosa pathogenesis: insights from the activity‑based anorexia model is the focus of a June 23 2026 article in npj Biofilms and Microbiomes. | The available text does not provide details on the experimental design—such as whether the work relied on germ‑free mice, antibiotic treatments, fecal microbiota transplants, or longitudinal sequencing of fecal samples. | Despite these gaps, the study’s relevance is clear: anorexia nervosa remains a challenging psychiatric disorder with limited treatment options, and emerging evidence implicates the gut‑brain axis in appetite regulation, mood, and stress responsiveness.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-18/podcast_2026-04-18.mp3</guid>
       <pubDate>Sat, 18 Apr 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-18/podcast_2026-04-18.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-04-17</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-17/podcast_2026-04-17.mp3</guid>
-      <pubDate>Fri, 17 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-17/podcast_2026-04-17.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
