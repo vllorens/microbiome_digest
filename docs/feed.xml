@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Jun 2026 06:36:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 07:13:32 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-06-30</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-30/podcast_2026-06-30.mp3</guid>
+      <pubDate>Tue, 30 Jun 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-30/podcast_2026-06-30.mp3" length="25543148" type="audio/mpeg" />
+      <description>A study published in Environmental Science &amp; Technology (via PubMed) shows that the common indoor pollutant 1,4‑dichlorobenzene triggers colonic inflammation in juvenile male mice. | Cyanidin-3‑O‑glucoside (C3G) markedly reduces gastrointestinal damage caused by the dietary carcinogen 2‑amino‑3‑methylimidazo[4,5‑f]quinoline (IQ) by targeting oxidative stress, inflammation, barrier integrity and gut microbiota, according to a study in the Journal of the Science of Food and Agriculture (PubMed). | Transarterial chemoembolization (TACE) remains a cornerstone locoregional therapy for hepatocellular carcinoma, but its repeated use in cirrhotic livers often triggers liver injury that limits treatment efficacy.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>A study published in Environmental Science &amp; Technology (via PubMed) shows that the common indoor pollutant 1,4‑dichlorobenzene triggers colonic inflammation in juvenile male mice. | Cyanidin-3‑O‑glucoside (C3G) markedly reduces gastrointestinal damage caused by the dietary carcinogen 2‑amino‑3‑methylimidazo[4,5‑f]quinoline (IQ) by targeting oxidative stress, inflammation, barrier integrity and gut microbiota, according to a study in the Journal of the Science of Food and Agriculture (PubMed). | Transarterial chemoembolization (TACE) remains a cornerstone locoregional therapy for hepatocellular carcinoma, but its repeated use in cirrhotic livers often triggers liver injury that limits treatment efficacy.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-06-27</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-27/podcast_2026-06-27.mp3</guid>
       <pubDate>Sat, 27 Jun 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-27/podcast_2026-06-27.mp3" length="18723044" type="audio/mpeg" />
-      <description>Potassium diformate supplementation reduces inflammation and strengthens the intestinal barrier in nursery piglets by reshaping the gut microbiota, according to a study published in Food Science &amp; Nutrition via PubMed. | Thepaper from *NPJ Biofilms and Microbiomes* investigates whether a polysaccharide extracted from *Atractylodes macrocephala* — abbreviated PAMK — can counteract colorectal cancer in a preclinical setting. | The study’s title hints at a proposed “dual‑network mechanism” whereby PAMK simultaneously influences the gut microbiota and the spleen to orchestrate anti‑tumor immunity.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-27/podcast_2026-06-27.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Potassium diformate supplementation reduces inflammation and strengthens the intestinal barrier in nursery piglets by reshaping the gut microbiota, according to a study published in Food Science &amp; Nutrition via PubMed. | Thepaper from *NPJ Biofilms and Microbiomes* investigates whether a polysaccharide extracted from *Atractylodes macrocephala* — abbreviated PAMK — can counteract colorectal cancer in a preclinical setting. | The study’s title hints at a proposed “dual‑network mechanism” whereby PAMK simultaneously influences the gut microbiota and the spleen to orchestrate anti‑tumor immunity.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-21/podcast_2026-04-21.mp3</guid>
       <pubDate>Tue, 21 Apr 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-21/podcast_2026-04-21.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-04-20</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-20/podcast_2026-04-20.mp3</guid>
-      <pubDate>Mon, 20 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-20/podcast_2026-04-20.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
