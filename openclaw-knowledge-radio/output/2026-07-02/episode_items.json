@@ -1,0 +1,366 @@
+{
+  "timestamps": [
+    0.0,
+    40.72,
+    396.83,
+    445.86,
+    491.79,
+    543.77,
+    642.7,
+    778.89,
+    906.93,
+    953.2,
+    995.48,
+    1041.92,
+    1454.4,
+    1500.69,
+    1544.92,
+    1587.13,
+    1636.88,
+    1684.95,
+    1737.79,
+    2298.12,
+    2417.58,
+    2463.44,
+    2507.05,
+    2549.74,
+    2673.82,
+    3243.67,
+    3389.75,
+    3499.07,
+    3627.82,
+    3742.04,
+    3850.25,
+    3970.68,
+    4104.83,
+    4219.93,
+    4321.71,
+    4444.88,
+    4480.73,
+    4530.91,
+    4572.59,
+    4620.8
+  ],
+  "items": [
+    {
+      "title": "Sarcandra glabra alleviates intestinal injury via modulating gut microbiota and suppressing the IL-6/SOCS3 signaling pathway.",
+      "url": "https://doi.org/10.1038/s41538-026-00968-4",
+      "source": "PubMed — NPJ science of food",
+      "one_liner": "Ulcerative colitis (UC) is a refractory inflammatory bowel disease characterized by gut microbiota dysbiosis and mucosal barrier disruption. Sarcandra glabra (Sg), a traditional herbal tea and dietary supplement, has been widely used to alleviate intestinal inflammation; however, its gut microbiota-dependent mechanism remains insufficiently clarified. In ...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "The gut microbiome of a Northern Plains tribe is in transition between global Indigenous and industrialized populations.",
+      "url": "https://doi.org/10.1016/j.celrep.2025.116334",
+      "source": "PubMed — Cell reports",
+      "one_liner": "The human gut is shaped by environmental factors, producing distinct microbial communities. Indigenous individuals practicing traditional lifestyles often harbor more diverse microbiota, with taxa often absent in industrialized people. However, little engagement has occurred with American Indian communities in North America who experienced forced relocati...",
+      "segment": 1,
+      "timestamp": 40.72
+    },
+    {
+      "title": "Roasting enhances antioxidant, anti-glycation, and gut microbiota-modulating activities of burdock root tea in mice fed a high-sucrose, low-fibre diet.",
+      "url": "https://doi.org/10.1002/jsfa.70853",
+      "source": "PubMed — Journal of the science of food and agriculture",
+      "one_liner": "BACKGROUND: Although burdock tea is widely consumed for its health benefits, the impact of roasting on its bioactive composition and gut microbiota-modulating effects remains unclear. We examined the effects of roasting on the functional properties of burdock root tea in vitro and its modulatory effects on the gut microbiota. Burdock tea was prepared with...",
+      "segment": 2,
+      "timestamp": 396.83
+    },
+    {
+      "title": "Effects of probiotics BB-12 and Bifico on radiation-induced brain injury, cognitive dysfunction and gut microbiota composition.",
+      "url": "https://doi.org/10.1080/1028415X.2025.2595176",
+      "source": "PubMed — Nutritional neuroscience",
+      "one_liner": "BACKGROUND: Whole brain irradiation (WBI) is an essential treatment for brain tumors and metastases, but often leads to radiation-induced brain injury (RIBI), and cognitive dysfunction, significantly impairing patients' quality of life. Emerging evidence highlights the role of gut microbiota dysbiosis in neurological disorders via the microbiota-gut-brain...",
+      "segment": 3,
+      "timestamp": 445.86
+    },
+    {
+      "title": "Multi-omics analysis of saccharomyces boulardii supplementation reveals coordinated microbiome, metabolic, and immune signaling changes accompanying tumor suppression.",
+      "url": "https://doi.org/10.1080/19490976.2026.2690687",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "The gut microbiome shapes cancer progression and treatment responses, yet scalable microbiome-targeted interventions remain limited. We screened commercial probiotics for activation of the host aryl hydrocarbon receptor (AhR) and identified the yeast",
+      "segment": 4,
+      "timestamp": 491.79
+    },
+    {
+      "title": "An exercise-associated gut microbiota signature enhances endurance performance: A study combining a human cohort and a mice FMT model.",
+      "url": "https://doi.org/10.1371/journal.pone.0351316",
+      "source": "PubMed — PloS one",
+      "one_liner": "BACKGROUND: The gut microbiota is closely related to exercise, but the interrelationship between the two remains elusive. In this study, we aimed to explore differences in the gut microbiota between young adults with exercise and sedentary lifestyles. In addition, we evaluated the effects of gut microbiota from these different lifestyle populations on end...",
+      "segment": 5,
+      "timestamp": 543.77
+    },
+    {
+      "title": "Effect of different dietary regimes on gut microbiota in water buffalo calves during the preweaning period.",
+      "url": "https://doi.org/10.1186/s12866-026-05356-2",
+      "source": "PubMed — BMC microbiology",
+      "one_liner": "BACKGROUND: Early-life nutrition plays a crucial role in shaping gut microbiota and growth performance in ruminants. In water buffalo calves, the pre-weaning period is particularly critical, as the gastrointestinal tract undergoes rapid development and is highly susceptible to environmental and dietary influences. This study aimed to characterize fecal mi...",
+      "segment": 6,
+      "timestamp": 642.7
+    },
+    {
+      "title": "Application of gut microbiota metabolites in the treatment of knee osteoarthritis: a network pharmacology study.",
+      "url": "https://doi.org/10.1186/s13018-026-07023-8",
+      "source": "PubMed — Journal of orthopaedic surgery and research",
+      "one_liner": "BACKGROUND: Knee osteoarthritis (KOA) is a prevalent degenerative joint disease affecting approximately 654 million people worldwide. The gut-joint axis theory suggests a intrinsic link between gut microbiota(GM) metabolites and KOA pathogenesis. This study employs network pharmacology to investigate the protective effects of GM metabolites against KOA an...",
+      "segment": 7,
+      "timestamp": 778.89
+    },
+    {
+      "title": "Computational identification of putative GyrA and AcrR inhibitors from gut microbiota and natural products targeting multidrug-resistant Salmonella enterica.",
+      "url": "https://doi.org/10.1038/s41598-026-59419-5",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "The emergence of multidrug-resistant (MDR) Salmonella enterica poses a critical threat to global health due to its capacity to evade conventional antibiotic therapies. In this study, we employed an integrated in silico strategy combining network pharmacology, molecular docking, ADMET profiling, and molecular simulations to explore diverse metabolites from...",
+      "segment": 8,
+      "timestamp": 906.93
+    },
+    {
+      "title": "Body site-dependent variation in the human forensic microbiome: A comparative analysis of publicly available 16S rRNA gene amplicon data.",
+      "url": "https://doi.org/10.1016/j.mimet.2026.107611",
+      "source": "PubMed — Journal of microbiological methods",
+      "one_liner": "Microbiome-based human identification has emerged as a promising complementary forensic tool. We performed a re-analysis of longitudinal Human Microbiome Project 16S rRNA gene amplicon sequencing data targeting the V3-V5 hypervariable region to assess intra and interindividual variation across multiple human body subsites. Stool microbiome exhibited the s...",
+      "segment": 9,
+      "timestamp": 953.2
+    },
+    {
+      "title": "Berberine as an Antimicrobial Agent and Gut Microbiota Modulator: Mechanisms and Therapeutic Potential.",
+      "url": "https://doi.org/10.2174/0109298673438854260616102433",
+      "source": "PubMed — Current medicinal chemistry",
+      "one_liner": "Berberine exhibits remarkable antimicrobial properties against various pathogens, including bacteria, fungi and viruses. It has long been used to treat gastrointestinal disorders like diarrhea. Importantly, berberine exerts profound effects on the gut microbiota. The mechanisms of action are complex and diverse, including but not limited to modulating mic...",
+      "segment": 10,
+      "timestamp": 995.48
+    },
+    {
+      "title": "Suggestive associations between genetically predicted gut microbiota and endometriosis: a two-sample Mendelian randomization study.",
+      "url": "https://doi.org/10.1099/jmm.0.002174",
+      "source": "PubMed — Journal of medical microbiology",
+      "one_liner": "",
+      "segment": 11,
+      "timestamp": 1041.92
+    },
+    {
+      "title": "Multiomics Integration Reveals AFB1 Causes Liver Damage Involving the Gut-Microbiota-Lipid Metabolism Axis in Piglet.",
+      "url": "https://doi.org/10.1021/acs.jafc.5c17707",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "Prolonged exposure to aflatoxin B1 (AFB1) poses a significant threat to livestock production. The liver is the main target, but the role of the gut-liver axis and lipid metabolism in pig hepatic toxicity is not well understood. This study evaluates the impact of AFB1 on piglet liver injury via the gut-liver axis using multiomics analysis. Chronic AFB1 exp...",
+      "segment": 12,
+      "timestamp": 1454.4
+    },
+    {
+      "title": "Peripheral biochemical correlates of social anxiety disorder: a systematic review focused on inflammatory markers, neuropeptides, hormones, and gut microbiota.",
+      "url": "https://doi.org/10.1080/15622975.2026.2692488",
+      "source": "PubMed — The world journal of biological psychiatry : the official journal of the World Federation of Societies of Biological Psychiatry",
+      "one_liner": "OBJECTIVE: Social anxiety disorder (SAD) is common debilitating condition marked by intense fear of negative evaluation in social situations. It frequently co-occurs with other psychiatric disorders and substantially impairs quality of life. Although its aetiology remains unclear, like many other complex psychiatric disorders, SAD is thought to arise from...",
+      "segment": 13,
+      "timestamp": 1500.69
+    },
+    {
+      "title": "From Dysbiosis to Diabetes: How Gut Microbiome Interventions Influence Type 2 Diabetes.",
+      "url": "https://doi.org/10.2174/0115733998435997260311014501",
+      "source": "PubMed — Current diabetes reviews",
+      "one_liner": "Type 2 Diabetes (T2D) is a complex metabolic disorder associated with insulin resistance (IR), chronic low-grade inflammation, and dysregulated glucose metabolism. Increasing evidence suggests that gut microbiota imbalances, or dysbiosis, may play a key role in its development and progression. This review aims to critically evaluate the existing literatur...",
+      "segment": 14,
+      "timestamp": 1544.92
+    },
+    {
+      "title": "High-throughput Profiling of Pseudouridines in Microbiome-derived Bacterial RNA.",
+      "url": "https://doi.org/10.1002/cpz1.70411",
+      "source": "PubMed — Current protocols",
+      "one_liner": "Pseudouridine (Ψ) is a widespread RNA modification that influences RNA stability, structure, and translation. However, its role in bacterial mRNA, particularly within complex microbiomes, remains poorly defined. Here, we describe a bisulfite-based sequencing workflow coupled with a scalable computational pipeline for base-resolution, quantitative mapping ...",
+      "segment": 15,
+      "timestamp": 1587.13
+    },
+    {
+      "title": "Integrated network pharmacology, gut microbiome, and metabolomics analyses reveal the protective mechanism of Guizhi Gegen decoction against influenza.",
+      "url": "https://doi.org/10.1016/j.jchromb.2026.125201",
+      "source": "PubMed — Journal of chromatography. B, Analytical technologies in the biomedical and life sciences",
+      "one_liner": "Guizhi Gegen Decoction (GGD), a classical formula first recorded in the Treatise on Febrile Diseases, has been commonly used in clinical practice for the treatment of influenza, but its underlying mechanism remains unclear. This study aimed to elucidate the protective mechanisms of GGD against influenza using an integrated approach combining network pharm...",
+      "segment": 16,
+      "timestamp": 1636.88
+    },
+    {
+      "title": "Review Article: The Impact of the Gut Microbiome on Ulcerative Colitis Pharmacotherapy.",
+      "url": "https://doi.org/10.1111/apt.70826",
+      "source": "PubMed — Alimentary pharmacology & therapeutics",
+      "one_liner": "BACKGROUND: Ulcerative colitis (UC) is a chronic immune-mediated condition of the gastrointestinal tract with highly variable treatment responses. Current therapies focus on suppressing inflammation through aminosalicylates, corticosteroids, immunomodulators, biologics, and small molecules, yet many patients experience suboptimal outcomes, including non-r...",
+      "segment": 17,
+      "timestamp": 1684.95
+    },
+    {
+      "title": "Microbiome immune crosstalk in Sjögren's syndrome: mechanistic insights and translational perspectives.",
+      "url": "https://doi.org/10.1007/s12026-026-09800-3",
+      "source": "PubMed — Immunologic research",
+      "one_liner": "Sjögren's syndrome (SS) is a systemic autoimmune disorder driven by interactions among genetic susceptibility, environmental factors, and alterations in mucosal microbial ecosystems. Emerging evidence from studies of the gut, oral cavity, and ocular surface indicates that microbial dysbiosis is closely associated with SS. Patients frequently exhibit reduc...",
+      "segment": 18,
+      "timestamp": 1737.79
+    },
+    {
+      "title": "Delayed maturation of the milk microbiome in women with type 1 diabetes.",
+      "url": "https://doi.org/10.1007/s00125-026-06791-6",
+      "source": "PubMed — Diabetologia",
+      "one_liner": "AIMS/HYPOTHESIS: The breastmilk microbiome plays a crucial role in gut microbial colonisation and immune development, but little is known about how it is influenced by type 1 diabetes. METHODS: We conducted a longitudinal 16S rRNA gene sequencing study of milk from women with type 1 diabetes (n=69 pregnancies; 174 samples) and women who did not have type ...",
+      "segment": 19,
+      "timestamp": 2298.12
+    },
+    {
+      "title": "The host-microbiome dimension of ecological regime shifts.",
+      "url": "https://doi.org/10.1016/j.tree.2026.06.004",
+      "source": "PubMed — Trends in ecology & evolution",
+      "one_liner": "Rising climate and local pressures increase the risk of regime shifts, yet despite progress, thresholds remain difficult to identify early enough to take action. We argue that this shortfall reflects a host-centric view that largely omits host-associated microbiomes, which can shape resilience by modulating stress tolerance, aiding recovery, and stabilizi...",
+      "segment": 20,
+      "timestamp": 2417.58
+    },
+    {
+      "title": "Decoding gut microbiome alterations in celiac disease: Implications for pathogenesis and treatment.",
+      "url": "https://doi.org/10.1016/j.autrev.2026.104127",
+      "source": "PubMed — Autoimmunity reviews",
+      "one_liner": "Celiac disease (CD) is a chronic immune-mediated disorder triggered by dietary gluten in genetically predisposed individuals and characterized by intestinal inflammation, epithelial damage, and loss of immune tolerance. While a strict lifelong gluten-free diet (GFD) remains the cornerstone of treatment, accumulating evidence indicates that it does not con...",
+      "segment": 21,
+      "timestamp": 2463.44
+    },
+    {
+      "title": "Vaginal Microbiome and Preterm Birth in Pregnant Women From India.",
+      "url": "https://doi.org/10.1111/jog.70381",
+      "source": "PubMed — The journal of obstetrics and gynaecology research",
+      "one_liner": "OBJECTIVE: Preterm birth (PTB) is a leading cause of neonatal morbidity and mortality worldwide, with India alone contributing nearly 27% of the global PTB burden. Although alterations in the vaginal microbiome have been implicated in PTB, its association in the Indian context is underexplored. This study aimed to investigate the association of the vagina...",
+      "segment": 22,
+      "timestamp": 2507.05
+    },
+    {
+      "title": "Linking shelter conditions to health: A multisystem analysis of stress, metabolism, and fecal microbiota in dogs.",
+      "url": "https://doi.org/10.1371/journal.pone.0350401",
+      "source": "PubMed — PloS one",
+      "one_liner": "Variations in space allocation and husbandry practices can significantly affect the health and welfare of long-term shelter dogs. This study compared adrenal, metabolic, and microbiological health indicators among dogs from three shelters in Thailand: Shelter A - low-density (20.3 m²/dog), adequate enclosure size (101.9 m²), and an enrichment program; She...",
+      "segment": 23,
+      "timestamp": 2549.74
+    },
+    {
+      "title": "Prostate Cancer at the Microbial Crossroads: Illuminating a New Frontier in Precision Medicine.",
+      "url": "https://doi.org/10.5534/wjmh.250045",
+      "source": "PubMed — The world journal of men's health",
+      "one_liner": "The human body harbors a complex, dynamic community of trillions of microbes, collectively termed the microbiota, which profoundly affects homeostasis and disease processes, including cancer. Prostate cancer remains a major cause of morbidity and mortality among men worldwide; however, critical questions remain regarding its etiology, progression, and res...",
+      "segment": 24,
+      "timestamp": 2673.82
+    },
+    {
+      "title": "IL-17A deficiency in HLA-DR3 transgenic mice enriches beneficial Prevotella species in gut to promote Tregs and reduce CNS autoimmunity.",
+      "url": "https://doi.org/10.1186/s40168-026-02394-w",
+      "source": "PubMed — Microbiome",
+      "one_liner": "BACKGROUND: Human Leukocyte Antigen (HLA) class-II genes, particularly HLA-DR2 and HLA-DR3, and the gut microbiota are intricately linked to the pathobiology of multiple sclerosis (MS) through their ability to regulate host immunity, a critical factor in disease pathogenesis. An imbalance between anti-inflammatory CD4 RESULTS: Utilizing IL-17A-deficient (...",
+      "segment": 25,
+      "timestamp": 3243.67
+    },
+    {
+      "title": "Towards ecological psychiatry: The herbicide glyphosate disrupts behavior through microbiota-gut-brain axis.",
+      "url": "https://doi.org/10.1038/s41380-026-03693-2",
+      "source": "PubMed — Molecular psychiatry",
+      "one_liner": "Planetary and human health including mental health are closely interrelated. Increasing evidence also points to a role for the microbiota-gut-brain axis in maintaining optimum mental health. Emerging evidence raises concerns about the unintended toxicity of environmental exposure to xenobiotics, any substance foreign to the body, on the brain and behavior...",
+      "segment": 26,
+      "timestamp": 3389.75
+    },
+    {
+      "title": "The involvement of Anaeroplasma, caproic acid, and interleukins through the brain-gut axis may contribute to IgAV with neurological involvement.",
+      "url": "https://doi.org/10.1038/s41390-026-05247-2",
+      "source": "PubMed — Pediatric research",
+      "one_liner": "BACKGROUND: Immunoglobulin A vasculitis (IgAV), the most prevalent pediatric systemic vasculitis, may involve central nervous system (CNS) manifestations with unknown mechanisms. METHODS: To investigate gut-brain axis interactions, human gut microbiota from IgAV with or without neurological involvement and healthy children were transplanted into specific ...",
+      "segment": 27,
+      "timestamp": 3499.07
+    },
+    {
+      "title": "The dual role of gastric microbiota dysbiosis in gastric cancer progression and therapy.",
+      "url": "https://doi.org/10.1007/s10147-026-03052-9",
+      "source": "PubMed — International journal of clinical oncology",
+      "one_liner": "Gastric cancer (GC) ranks among the most prevalent malignant neoplasms globally and is one of the leading causes of cancer-related mortality. The gastric microbiota, as a crucial component of the human microecosystem, plays a pivotal role in maintaining human health through its ecological balance. In recent years, with the advancement of technologies such...",
+      "segment": 28,
+      "timestamp": 3627.82
+    },
+    {
+      "title": "The microbiota-mitochondria axis: linking metabolic dysfunction to neurodegeneration.",
+      "url": "https://doi.org/10.1007/s11011-026-01914-9",
+      "source": "PubMed — Metabolic brain disease",
+      "one_liner": "The interplay between gut microbiota and mitochondria represents a dynamic relationship that profoundly impacts host physiology, ranging from maintaining intestinal homeostasis to regulating systemic metabolic and neurological functions. Microbial metabolites such as short-chain-fatty-acids, bile acids, and amino acid derivatives serve as pivotal modulato...",
+      "segment": 29,
+      "timestamp": 3742.04
+    },
+    {
+      "title": "Stage-Specific carcinogenic mechanisms and intervention strategies for pks",
+      "url": "https://doi.org/10.1007/s00203-026-05023-0",
+      "source": "PubMed — Archives of microbiology",
+      "one_liner": "Colorectal cancer (CRC) incidence is increasing in many regions, particularly among individuals younger than 50 years. The gut microbiota has emerged as an important regulator of CRC development and treatment response. Among microbial factors, Escherichia coli (E. coli) strains harboring the polyketide synthase (pks) gene island are of particular interest...",
+      "segment": 30,
+      "timestamp": 3850.25
+    },
+    {
+      "title": "R-5780, a SagA-engineered Lactococcus lactis, is a safe oral synthetic-biology microbial therapy that potentiates PD-1 blockade.",
+      "url": "https://doi.org/10.1007/s00262-026-04480-2",
+      "source": "PubMed — Cancer immunology, immunotherapy : CII",
+      "one_liner": "Immune checkpoint inhibitors (ICIs) targeting programmed cell death protein 1 (PD-1) have transformed cancer therapy, yet response rates remain limited across solid tumors. Modulation of the gut microbiome has emerged as a promising strategy to enhance immunotherapy efficacy. R-5780 is an engineered Lactococcus lactis strain expressing the peptidoglycan h...",
+      "segment": 31,
+      "timestamp": 3970.68
+    },
+    {
+      "title": "Exploratory analysis of genotoxic Escherichia coli and Helicobacter pylori virulence in gastrointestinal carcinogenesis.",
+      "url": "https://doi.org/10.1186/s13568-026-02084-8",
+      "source": "PubMed — AMB Express",
+      "one_liner": "Gastrointestinal cancers remain among the leading causes of cancer-related mortality worldwide. Beyond environmental and hereditary determinants, increasing evidence suggests that the gut microbiota may contribute to carcinogenesis through persistent infection, expression of virulence factors, and production of genotoxic metabolites. In this context, Heli...",
+      "segment": 32,
+      "timestamp": 4104.83
+    },
+    {
+      "title": "Fasting-mimicking diet counteracts gut microbial dysbiosis in experimental lynch syndrome.",
+      "url": "https://doi.org/10.1186/s40170-026-00446-1",
+      "source": "PubMed — Cancer & metabolism",
+      "one_liner": "The development of colorectal cancer (CRC) is largely influenced by hereditary factors, with up to one-third of cases linked to genetic predisposition. In parallel, environmental factors such as diet and intestinal microbiota play a significant role. Lynch syndrome (LS), the most common form of hereditary CRC, is due to mutations in DNA mismatch repair ge...",
+      "segment": 33,
+      "timestamp": 4219.93
+    },
+    {
+      "title": "Effectiveness of adjunctive use of antibiotics in acute severe ulcerative colitis: a propensity score matching analysis.",
+      "url": "https://doi.org/10.5217/ir.2025.00341",
+      "source": "PubMed — Intestinal research",
+      "one_liner": "BACKGROUND/AIMS: The exact cause of ulcerative colitis (UC) remains unclear but likely involves an immune response to an unidentified component of gut microbiota. The use of antibiotics in treating acute severe UC (ASUC) remains controversial. This study aimed to assess the benefits of adding antibiotics to corticosteroids for managing ASUC. METHODS: This...",
+      "segment": 34,
+      "timestamp": 4321.71
+    },
+    {
+      "title": "The combined effect of early-life Bisphenol A (BPA) exposure and post-weaning high-fat diet on the intestinal health of mice.",
+      "url": "https://doi.org/10.1016/j.fct.2026.116233",
+      "source": "PubMed — Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association",
+      "one_liner": "Exposure to bisphenol A (BPA) and long-term high-fat diet (HFD) have been proven to have adverse effects on human health. This study demonstrated that the sequential exposure to BPA in early life and high-fat diet after weaning jointly impaired intestinal health. We found that BPA altered the gut microbiota composition of offspring, reducing microbial div...",
+      "segment": 35,
+      "timestamp": 4444.88
+    },
+    {
+      "title": "Short-Chain Fatty Acids in Livestock and Aquatic Animals: Metabolic Divergence, Physiological Functions, and Product Development.",
+      "url": "https://doi.org/10.1016/j.tjnut.2026.101698",
+      "source": "PubMed — The Journal of nutrition",
+      "one_liner": "The gastrointestinal tract of livestock, poultry, and aquatic animals harbors a vast and complex microbial community, which engages in intricate and interdependent interactions with the host. Short-chain fatty acids (SCFAs), a major class of metabolites produced by the gut microbiota, play pivotal roles in intestinal health, immune regulation, and energy ...",
+      "segment": 36,
+      "timestamp": 4480.73
+    },
+    {
+      "title": "BAMBI: A novel regulator of intestinal epithelial integrity in the control of colitis and colon cancer progression.",
+      "url": "https://doi.org/10.1016/j.mucimm.2026.100373",
+      "source": "PubMed — Mucosal immunology",
+      "one_liner": "Inflammatory bowel disease (IBD), including ulcerative colitis (UC) and Crohn's disease affects approximately 7 million individuals worldwide. Its pathogenesis involves genetic susceptibility, alterations in the gut microbiota, and immune system imbalance, with both innate and adaptive components contributing through aberrant cytokine signaling. The Trans...",
+      "segment": 37,
+      "timestamp": 4530.91
+    },
+    {
+      "title": "Metatranscriptomic analysis of lanthanum driven multi-element metabolic regulation in a rare earth tolerant microbial consortium.",
+      "url": "https://doi.org/10.1016/j.envres.2026.125150",
+      "source": "PubMed — Environmental research",
+      "one_liner": "The biological functions of rare earth elements (REEs) are gaining increasing attention, however, their systematic regulatory mechanisms regarding the metabolism and biogeochemical cycling of complex soil microbial communities remain unclear. In this study, a highly tolerant and stable microbial consortium (La-T18) was enriched and acclimated from REE-con...",
+      "segment": 38,
+      "timestamp": 4572.59
+    },
+    {
+      "title": "Advanced computational analysis in metagenomic studies to support precision medicine.",
+      "url": "https://doi.org/10.1016/j.cmi.2026.02.018",
+      "source": "PubMed — Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases",
+      "one_liner": "BACKGROUND: The human microbiome has been linked to host health and is suggested to play a direct role in the onset of certain human diseases, as well as in impacting treatment efficacy. Characterizing the microbiome composition and its interaction with the host is now supported by an established, continuously improving set of bioinformatic and statistica...",
+      "segment": 39,
+      "timestamp": 4620.8
+    }
+  ]
+}
