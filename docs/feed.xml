@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Jul 2026 07:13:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 06:44:01 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-07-03</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-03/podcast_2026-07-03.mp3</guid>
+      <pubDate>Fri, 03 Jul 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-03/podcast_2026-07-03.mp3" length="27532796" type="audio/mpeg" />
+      <description>We need to produce a concise roundup 80-130 words for the single item. | We need to incorporate details: synbiotic alginate microcapsules with date seed polysaccharide-stabilized Pickering emulsion improve probiotic GI survival and modulate SCFA production, gut microbiota, fecal metabolome. | We must not invent details beyond given.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>We need to produce a concise roundup 80-130 words for the single item. | We need to incorporate details: synbiotic alginate microcapsules with date seed polysaccharide-stabilized Pickering emulsion improve probiotic GI survival and modulate SCFA production, gut microbiota, fecal metabolome. | We must not invent details beyond given.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-07-02</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-02/podcast_2026-07-02.mp3</guid>
       <pubDate>Thu, 02 Jul 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-02/podcast_2026-07-02.mp3" length="34870028" type="audio/mpeg" />
-      <description>Sarcandra glabra, a traditional herbal tea and dietary supplement, reduces intestinal injury in ulcerative colitis by reshaping the gut microbiota and dampening the IL‑6/SOCS3 signaling cascade. | We need to produce a concise roundup of 80-130 words, covering the item. | We have limited info: The gut microbiome of a Northern Plains tribe is in transition between global Indigenous and industrialized populations.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-02/podcast_2026-07-02.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Sarcandra glabra, a traditional herbal tea and dietary supplement, reduces intestinal injury in ulcerative colitis by reshaping the gut microbiota and dampening the IL‑6/SOCS3 signaling cascade. | We need to produce a concise roundup of 80-130 words, covering the item. | We have limited info: The gut microbiome of a Northern Plains tribe is in transition between global Indigenous and industrialized populations.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-24/podcast_2026-04-24.mp3</guid>
       <pubDate>Fri, 24 Apr 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-24/podcast_2026-04-24.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-04-23</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-23/podcast_2026-04-23.mp3</guid>
-      <pubDate>Thu, 23 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-23/podcast_2026-04-23.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
