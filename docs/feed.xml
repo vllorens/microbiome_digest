@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Jul 2026 06:44:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 06:33:06 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-07-04</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-04/podcast_2026-07-04.mp3</guid>
+      <pubDate>Sat, 04 Jul 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-04/podcast_2026-07-04.mp3" length="31934972" type="audio/mpeg" />
+      <description>The study titled “Enriched environment inhibits melanoma by reshaping gut microbiota and enriching Parabacteroides distasonis” reports that psychological eustress induced by an enriched environment (EE) can suppress melanoma growth. | The available text does not provide details on the experimental design, such as how the enriched environment was constituted, the duration of exposure, or the specific melanoma models used. | Because the pipeline notes contain only the purpose paragraph, we cannot confirm whether the study demonstrated causal links between EE, gut microbiota shifts, and melanoma inhibition, or whether Parabacteroides distasonis was shown to be necessary or sufficient for the observed effect.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>The study titled “Enriched environment inhibits melanoma by reshaping gut microbiota and enriching Parabacteroides distasonis” reports that psychological eustress induced by an enriched environment (EE) can suppress melanoma growth. | The available text does not provide details on the experimental design, such as how the enriched environment was constituted, the duration of exposure, or the specific melanoma models used. | Because the pipeline notes contain only the purpose paragraph, we cannot confirm whether the study demonstrated causal links between EE, gut microbiota shifts, and melanoma inhibition, or whether Parabacteroides distasonis was shown to be necessary or sufficient for the observed effect.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-07-03</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-03/podcast_2026-07-03.mp3</guid>
       <pubDate>Fri, 03 Jul 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-03/podcast_2026-07-03.mp3" length="27532796" type="audio/mpeg" />
-      <description>We need to produce a concise roundup 80-130 words for the single item. | We need to incorporate details: synbiotic alginate microcapsules with date seed polysaccharide-stabilized Pickering emulsion improve probiotic GI survival and modulate SCFA production, gut microbiota, fecal metabolome. | We must not invent details beyond given.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-03/podcast_2026-07-03.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>We need to produce a concise roundup 80-130 words for the single item. | We need to incorporate details: synbiotic alginate microcapsules with date seed polysaccharide-stabilized Pickering emulsion improve probiotic GI survival and modulate SCFA production, gut microbiota, fecal metabolome. | We must not invent details beyond given.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-25/podcast_2026-04-25.mp3</guid>
       <pubDate>Sat, 25 Apr 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-25/podcast_2026-04-25.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-04-24</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-24/podcast_2026-04-24.mp3</guid>
-      <pubDate>Fri, 24 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-24/podcast_2026-04-24.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
