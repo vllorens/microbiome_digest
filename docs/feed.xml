@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Jul 2026 06:33:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 06:46:09 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-07-05</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-05/podcast_2026-07-05.mp3</guid>
+      <pubDate>Sun, 05 Jul 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-05/podcast_2026-07-05.mp3" length="22344548" type="audio/mpeg" />
+      <description>Lactiplantibacillus plantarum SLpl116 markedly reduces OVA‑induced food allergy in mice by repairing gut dysbiosis and rebalancing immune responses. | We need to produce a deep dive segment about the paper: &quot;The mouse gut microbiota responds to predator odor and predicts host behavior.&quot; Source: NPJ Biofilms and Microbiomes. | We need to ensure we don&#x27;t invent.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Lactiplantibacillus plantarum SLpl116 markedly reduces OVA‑induced food allergy in mice by repairing gut dysbiosis and rebalancing immune responses. | We need to produce a deep dive segment about the paper: &quot;The mouse gut microbiota responds to predator odor and predicts host behavior.&quot; Source: NPJ Biofilms and Microbiomes. | We need to ensure we don&#x27;t invent.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-07-04</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-04/podcast_2026-07-04.mp3</guid>
       <pubDate>Sat, 04 Jul 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-04/podcast_2026-07-04.mp3" length="31934972" type="audio/mpeg" />
-      <description>The study titled “Enriched environment inhibits melanoma by reshaping gut microbiota and enriching Parabacteroides distasonis” reports that psychological eustress induced by an enriched environment (EE) can suppress melanoma growth. | The available text does not provide details on the experimental design, such as how the enriched environment was constituted, the duration of exposure, or the specific melanoma models used. | Because the pipeline notes contain only the purpose paragraph, we cannot confirm whether the study demonstrated causal links between EE, gut microbiota shifts, and melanoma inhibition, or whether Parabacteroides distasonis was shown to be necessary or sufficient for the observed effect.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-04/podcast_2026-07-04.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>The study titled “Enriched environment inhibits melanoma by reshaping gut microbiota and enriching Parabacteroides distasonis” reports that psychological eustress induced by an enriched environment (EE) can suppress melanoma growth. | The available text does not provide details on the experimental design, such as how the enriched environment was constituted, the duration of exposure, or the specific melanoma models used. | Because the pipeline notes contain only the purpose paragraph, we cannot confirm whether the study demonstrated causal links between EE, gut microbiota shifts, and melanoma inhibition, or whether Parabacteroides distasonis was shown to be necessary or sufficient for the observed effect.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-27/podcast_2026-04-27.mp3</guid>
       <pubDate>Mon, 27 Apr 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-27/podcast_2026-04-27.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-04-25</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-25/podcast_2026-04-25.mp3</guid>
-      <pubDate>Sat, 25 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-25/podcast_2026-04-25.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
