@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Jul 2026 06:46:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 07:11:14 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-07-06</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-06/podcast_2026-07-06.mp3</guid>
+      <pubDate>Mon, 06 Jul 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-06/podcast_2026-07-06.mp3" length="4852988" type="audio/mpeg" />
+      <description>Polysaccharides from food and medicinal sources show promise as nutritional interventions for chronic metabolic diseases, but their poorly absorbed nature means systemic effects arise mainly through gut microbiota modulation rather than direct absorption. | Adaptive laboratory evolution of the dairy‑manure microbiome yielded a hyperthermophilic anaerobic acidification reactor that maintains stable volatile‑fatty‑acid production at short hydraulic retention times. | Baseline gut microbiome diversity and metabolic potential predict how well N‑803, an IL‑15 superagonist, boosts cytotoxic and natural killer cell activity in people with HIV on suppressive ART.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Polysaccharides from food and medicinal sources show promise as nutritional interventions for chronic metabolic diseases, but their poorly absorbed nature means systemic effects arise mainly through gut microbiota modulation rather than direct absorption. | Adaptive laboratory evolution of the dairy‑manure microbiome yielded a hyperthermophilic anaerobic acidification reactor that maintains stable volatile‑fatty‑acid production at short hydraulic retention times. | Baseline gut microbiome diversity and metabolic potential predict how well N‑803, an IL‑15 superagonist, boosts cytotoxic and natural killer cell activity in people with HIV on suppressive ART.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-07-05</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-05/podcast_2026-07-05.mp3</guid>
       <pubDate>Sun, 05 Jul 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-05/podcast_2026-07-05.mp3" length="22344548" type="audio/mpeg" />
-      <description>Lactiplantibacillus plantarum SLpl116 markedly reduces OVA‑induced food allergy in mice by repairing gut dysbiosis and rebalancing immune responses. | We need to produce a deep dive segment about the paper: &quot;The mouse gut microbiota responds to predator odor and predicts host behavior.&quot; Source: NPJ Biofilms and Microbiomes. | We need to ensure we don&#x27;t invent.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-05/podcast_2026-07-05.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Lactiplantibacillus plantarum SLpl116 markedly reduces OVA‑induced food allergy in mice by repairing gut dysbiosis and rebalancing immune responses. | We need to produce a deep dive segment about the paper: &quot;The mouse gut microbiota responds to predator odor and predicts host behavior.&quot; Source: NPJ Biofilms and Microbiomes. | We need to ensure we don&#x27;t invent.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-28/podcast_2026-04-28.mp3</guid>
       <pubDate>Tue, 28 Apr 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-28/podcast_2026-04-28.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-04-27</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-27/podcast_2026-04-27.mp3</guid>
-      <pubDate>Mon, 27 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-27/podcast_2026-04-27.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
