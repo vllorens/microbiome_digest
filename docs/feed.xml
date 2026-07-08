@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Jul 2026 07:11:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 06:05:46 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-07-08</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-08/podcast_2026-07-08.mp3</guid>
+      <pubDate>Wed, 08 Jul 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-08/podcast_2026-07-08.mp3" length="28381748" type="audio/mpeg" />
+      <description>Cyanobacterial blooms are worsening worldwide as nutrient runoff and warming waters fuel growth, and they now release a broad mix of bioactive peptides beyond the infamous microcystins. | Gut microbes shape bone‑marrow output and can worsen or ease chemotherapy‑induced myelosuppression, according to a new review in NPJ Biofilms and Microbiomes accessed via PubMed. | New analysis in mBio challenges the idea that human gut microbes have tightly codiversified with their hosts.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Cyanobacterial blooms are worsening worldwide as nutrient runoff and warming waters fuel growth, and they now release a broad mix of bioactive peptides beyond the infamous microcystins. | Gut microbes shape bone‑marrow output and can worsen or ease chemotherapy‑induced myelosuppression, according to a new review in NPJ Biofilms and Microbiomes accessed via PubMed. | New analysis in mBio challenges the idea that human gut microbes have tightly codiversified with their hosts.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-07-06</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-06/podcast_2026-07-06.mp3</guid>
       <pubDate>Mon, 06 Jul 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-06/podcast_2026-07-06.mp3" length="4852988" type="audio/mpeg" />
-      <description>Polysaccharides from food and medicinal sources show promise as nutritional interventions for chronic metabolic diseases, but their poorly absorbed nature means systemic effects arise mainly through gut microbiota modulation rather than direct absorption. | Adaptive laboratory evolution of the dairy‑manure microbiome yielded a hyperthermophilic anaerobic acidification reactor that maintains stable volatile‑fatty‑acid production at short hydraulic retention times. | Baseline gut microbiome diversity and metabolic potential predict how well N‑803, an IL‑15 superagonist, boosts cytotoxic and natural killer cell activity in people with HIV on suppressive ART.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-06/podcast_2026-07-06.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Polysaccharides from food and medicinal sources show promise as nutritional interventions for chronic metabolic diseases, but their poorly absorbed nature means systemic effects arise mainly through gut microbiota modulation rather than direct absorption. | Adaptive laboratory evolution of the dairy‑manure microbiome yielded a hyperthermophilic anaerobic acidification reactor that maintains stable volatile‑fatty‑acid production at short hydraulic retention times. | Baseline gut microbiome diversity and metabolic potential predict how well N‑803, an IL‑15 superagonist, boosts cytotoxic and natural killer cell activity in people with HIV on suppressive ART.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-29/podcast_2026-04-29.mp3</guid>
       <pubDate>Wed, 29 Apr 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-29/podcast_2026-04-29.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-04-28</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-28/podcast_2026-04-28.mp3</guid>
-      <pubDate>Tue, 28 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-28/podcast_2026-04-28.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
