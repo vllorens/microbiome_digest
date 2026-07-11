@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Jul 2026 07:02:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 05:51:43 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-07-11</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-11/podcast_2026-07-11.mp3</guid>
+      <pubDate>Sat, 11 Jul 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-11/podcast_2026-07-11.mp3" length="27884588" type="audio/mpeg" />
+      <description>RiboZAP introduces a species‑agnostic pipeline for designing ribosomal RNA depletion probes tailored to metatranscriptomic studies. | The pipeline is described as species‑agnostic, suggesting it relies on conserved rRNA regions or a computational strategy that can adapt to novel or uncultivated lineages. | In summary, while RiboZAP promises a universal solution for rRNA depletion in metatranscriptomics, the specifics of its design methodology, validation results, and practical advantages over existing approaches remain unspecified in the provided information.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>RiboZAP introduces a species‑agnostic pipeline for designing ribosomal RNA depletion probes tailored to metatranscriptomic studies. | The pipeline is described as species‑agnostic, suggesting it relies on conserved rRNA regions or a computational strategy that can adapt to novel or uncultivated lineages. | In summary, while RiboZAP promises a universal solution for rRNA depletion in metatranscriptomics, the specifics of its design methodology, validation results, and practical advantages over existing approaches remain unspecified in the provided information.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-07-09</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-09/podcast_2026-07-09.mp3</guid>
       <pubDate>Thu, 09 Jul 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-09/podcast_2026-07-09.mp3" length="24673964" type="audio/mpeg" />
-      <description>The human gut microbiota has been confirmed as a key player in how drugs are metabolized and how well they work, according to a new review in Cell Host &amp; Microbe indexed on PubMed. | Targeted changes to single gut microbes can ripple through the whole community, reshaping its structure and function, according to a new perspective in Cell Host &amp; Microbe indexed on PubMed. | Gut microbiota and their metabolites shape the colorectal cancer tumor microenvironment and dictate how well immune checkpoint inhibitors work, according to a review in PubMed‑Life Sciences.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-09/podcast_2026-07-09.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>The human gut microbiota has been confirmed as a key player in how drugs are metabolized and how well they work, according to a new review in Cell Host &amp; Microbe indexed on PubMed. | Targeted changes to single gut microbes can ripple through the whole community, reshaping its structure and function, according to a new perspective in Cell Host &amp; Microbe indexed on PubMed. | Gut microbiota and their metabolites shape the colorectal cancer tumor microenvironment and dictate how well immune checkpoint inhibitors work, according to a review in PubMed‑Life Sciences.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-01/podcast_2026-05-01.mp3</guid>
       <pubDate>Fri, 01 May 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-01/podcast_2026-05-01.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-04-30</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-30/podcast_2026-04-30.mp3</guid>
-      <pubDate>Thu, 30 Apr 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-04-30/podcast_2026-04-30.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
