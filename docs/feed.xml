@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Jul 2026 05:51:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 05:36:21 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-07-14</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-14/podcast_2026-07-14.mp3</guid>
+      <pubDate>Tue, 14 Jul 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-14/podcast_2026-07-14.mp3" length="21196676" type="audio/mpeg" />
+      <description>A recent study in NPJ Science of Food shows that protein‑rich matrices from both conventional and alternative sources affect gut microbiota, metabolic function and muscle protein synthesis differently in rats. | Red palm oil (RPO) given by oral gavage to mice fed a high‑fat diet improved metabolic markers linked to oxidative stress and dysbiosis. | Researchers studying the tomato microbiome have shown that fungicide stress can elevate antibiotic resistance risk by reshaping microbial ecology.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>A recent study in NPJ Science of Food shows that protein‑rich matrices from both conventional and alternative sources affect gut microbiota, metabolic function and muscle protein synthesis differently in rats. | Red palm oil (RPO) given by oral gavage to mice fed a high‑fat diet improved metabolic markers linked to oxidative stress and dysbiosis. | Researchers studying the tomato microbiome have shown that fungicide stress can elevate antibiotic resistance risk by reshaping microbial ecology.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-07-11</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-11/podcast_2026-07-11.mp3</guid>
       <pubDate>Sat, 11 Jul 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-11/podcast_2026-07-11.mp3" length="27884588" type="audio/mpeg" />
-      <description>RiboZAP introduces a species‑agnostic pipeline for designing ribosomal RNA depletion probes tailored to metatranscriptomic studies. | The pipeline is described as species‑agnostic, suggesting it relies on conserved rRNA regions or a computational strategy that can adapt to novel or uncultivated lineages. | In summary, while RiboZAP promises a universal solution for rRNA depletion in metatranscriptomics, the specifics of its design methodology, validation results, and practical advantages over existing approaches remain unspecified in the provided information.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-11/podcast_2026-07-11.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>RiboZAP introduces a species‑agnostic pipeline for designing ribosomal RNA depletion probes tailored to metatranscriptomic studies. | The pipeline is described as species‑agnostic, suggesting it relies on conserved rRNA regions or a computational strategy that can adapt to novel or uncultivated lineages. | In summary, while RiboZAP promises a universal solution for rRNA depletion in metatranscriptomics, the specifics of its design methodology, validation results, and practical advantages over existing approaches remain unspecified in the provided information.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-02/podcast_2026-05-02.mp3</guid>
       <pubDate>Sat, 02 May 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-02/podcast_2026-05-02.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-05-01</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-01/podcast_2026-05-01.mp3</guid>
-      <pubDate>Fri, 01 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-01/podcast_2026-05-01.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
