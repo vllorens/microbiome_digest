@@ -1,0 +1,366 @@
+{
+  "timestamps": [
+    0.0,
+    31.51,
+    74.61,
+    123.08,
+    169.5,
+    284.55,
+    327.7,
+    378.6,
+    418.1,
+    465.44,
+    505.04,
+    550.56,
+    595.58,
+    646.32,
+    693.74,
+    738.97,
+    861.46,
+    974.67,
+    1086.62,
+    1140.12,
+    1193.01,
+    1238.82,
+    1286.94,
+    1327.76,
+    1374.5,
+    1417.53,
+    1474.67,
+    1519.0,
+    1569.37,
+    1695.6,
+    1822.32,
+    1871.78,
+    1921.29,
+    1963.31,
+    2005.35,
+    2051.07,
+    2088.53,
+    2414.06,
+    2456.7,
+    2500.04
+  ],
+  "items": [
+    {
+      "title": "Black tea ethanol soluble fraction restores intestinal homeostasis by modulating PI3K/AKT signaling and gut microbiota.",
+      "url": "https://doi.org/10.1038/s41538-026-00999-x",
+      "source": "PubMed — NPJ science of food",
+      "one_liner": "While black tea's oxidized polyphenols hold potential for gut health, the specific protective mechanisms of its ethanol-soluble fraction (BES), particularly regarding host-microbiota interactions, remain poorly defined. This study elucidated the dual mechanisms through which BES ameliorates dextran sulfate sodium (DSS)-induced colitis in mice. By integrat...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Consumption of hydrogen-rich water ameliorates atherosclerosis by modulating gut microbiota and enhancing short-chain fatty acid levels.",
+      "url": "https://doi.org/10.1016/j.lfs.2026.124418",
+      "source": "PubMed — Life sciences",
+      "one_liner": "AIMS: Molecular hydrogen (H MATERIALS AND METHODS: ApoE KEY FINDINGS: H SIGNIFICANCE: This study demonstrates that H",
+      "segment": 1,
+      "timestamp": 31.51
+    },
+    {
+      "title": "Branched-chain amino acids and gut microbiota: coregulation and impact on neurological function via the gut-brain axis.",
+      "url": "https://doi.org/10.1080/19490976.2026.2698204",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Diseases that cause neurological dysfunction, such as Parkinson's disease (PD), Alzheimer's disease (AD), and maple syrup urine disease (MSUD), among others, are characterized by complex and multifaceted etiologies. There is growing evidence that branched-chain amino acids (BCAAs), regulated by the gut microbiota, play a critical role in the development o...",
+      "segment": 2,
+      "timestamp": 74.61
+    },
+    {
+      "title": "Intestinal gases as markers to study the diet-gut microbiota-host metabolism axis in humans and their relationship to metabolic health.",
+      "url": "https://doi.org/10.1080/19490976.2026.2701495",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "The gut microbiota‒host metabolism axis is a critical determinant of metabolic health, yet its functional activity remains difficult to monitor",
+      "segment": 3,
+      "timestamp": 123.08
+    },
+    {
+      "title": "Toward disease-associated fecal microbiome signatures for domestic mammals.",
+      "url": "https://doi.org/10.1038/s42003-026-10647-5",
+      "source": "PubMed — Communications biology",
+      "one_liner": "Conserved fecal microbiome signatures of intestinal diseases across domestic mammals offer a non-invasive avenue to monitor animal health and advance One Health, yet systematic meta-analysis with cross-study, cross-disease, and cross-host validation remains lacking. We present a leave-one-dataset-out meta-analysis defining generalizable intestinal disease...",
+      "segment": 4,
+      "timestamp": 169.5
+    },
+    {
+      "title": "Differential effects of antibiotic exposure on gut microbiota homeostasis and functional dynamics in a stable real-time simulated intestinal system.",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.142511",
+      "source": "PubMed — Journal of hazardous materials",
+      "one_liner": "The composition and function of human gut microbiota are influenced by antibiotics; however, the real-time dynamic effects of different antibiotic classes have remained elusive due to ethical constraints. In this study, a stable, long-term, continuous simulated intestinal culture system was established to evaluate the impacts exerted by three antibiotics,...",
+      "segment": 5,
+      "timestamp": 284.55
+    },
+    {
+      "title": "An integrative strategy combining network pharmacology, metabolomics, and gut microbiota analyses to elucidate the bioactive ingredients and underlying mechanisms of Xin-Shu-Ning tablets against myocardial ischemia.",
+      "url": "https://doi.org/10.1016/j.jpba.2026.117419",
+      "source": "PubMed — Journal of pharmaceutical and biomedical analysis",
+      "one_liner": "Xin-Shu-Ning tablets (XSNT) are clinically used for the treatment of angina pectoris and coronary insufficiency; however, their bioactive constituents and cardioprotective mechanisms remain insufficiently clarified. In this study, an integrated strategy combining network pharmacology, metabolomics, and 16S rDNA amplicon sequencing was employed to systemat...",
+      "segment": 6,
+      "timestamp": 327.7
+    },
+    {
+      "title": "Tissue-specific metabolism of Naringin and its modulation of the UA metabolism and gut microbiota in hyperuricemia mice.",
+      "url": "https://doi.org/10.1016/j.bioorg.2026.109888",
+      "source": "PubMed — Bioorganic chemistry",
+      "one_liner": "Hyperuricemia (HUA) is a metabolic disorder caused by purine metabolism dysfunction or impaired uric acid excretion. With the change of lifestyle, the incidence of HUA has been increasing annually. Naringin (NAR) is a natural dietary flavonoid compound with extensive biological activities. However, its potential ameliorative effects on HUA and the underly...",
+      "segment": 7,
+      "timestamp": 378.6
+    },
+    {
+      "title": "A Phenotype-Embedded Mapper Framework Links Microbiome-Metabolome Interaction Modules to Colorectal Cancer.",
+      "url": "https://doi.org/10.1021/acs.jproteome.6c00192",
+      "source": "PubMed — Journal of proteome research",
+      "one_liner": "Integrative analysis of the gut microbiome and metabolome can help characterize colorectal cancer (CRC)-associated molecular changes that are difficult to resolve from either omics layer alone. However, microbiome-metabolome data are high-dimensional, heterogeneous, and often contain nonlinear or locally confined associations that may be obscured by globa...",
+      "segment": 8,
+      "timestamp": 418.1
+    },
+    {
+      "title": "Longitudinal analysis of the hand microbiome in response to chlorine-based antiseptic use during a military field exercise.",
+      "url": "https://doi.org/10.1128/spectrum.03771-25",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "Hand hygiene is essential for infection control, yet the impact of frequent antiseptic use on the skin microbiome, which is crucial for skin barrier function and pathogen exclusion, remains underexplored, especially in field conditions. In high-risk military settings, there is a need for safe, multipurpose antiseptics that avoid the drawbacks of alcohol-b...",
+      "segment": 9,
+      "timestamp": 465.44
+    },
+    {
+      "title": "Effects of inulin-derived difructose anhydrides on DSS-induced colitis-associated behavioral alterations and gut microbiota-related responses in mice.",
+      "url": "https://doi.org/10.1039/d6fo00833j",
+      "source": "PubMed — Food & function",
+      "one_liner": "Ulcerative colitis (UC) has shown a significant upward trend in global incidence and is frequently accompanied by psychiatric comorbidities such as anxiety and depression, severely impairing patients' quality of life. This study investigated the effects of inulin-derived difructose anhydride I (DFA-I) and difructose anhydride III (DFA-III) on dextran sulf...",
+      "segment": 10,
+      "timestamp": 505.04
+    },
+    {
+      "title": "Gut microbiota-supportive dietary patterns and rheumatoid arthritis: the mediating role of the systemic immune-inflammation index.",
+      "url": "https://doi.org/10.20960/nh.06113",
+      "source": "PubMed — Nutricion hospitalaria",
+      "one_liner": "Background: the gut microbiota has emerged as a potential contributor to autoimmune diseases, including rheumatoid arthritis (RA), through its role in modulating systemic inflammation. However, few studies have evaluated whether adherence to microbiota-supportive dietary patterns is associated with RA in population-based settings. Methods: this study anal...",
+      "segment": 11,
+      "timestamp": 550.56
+    },
+    {
+      "title": "Gut microbiome in pediatric acute pancreatitis and Crohn's disease versus irritable bowel syndrome and healthy controls.",
+      "url": "https://doi.org/10.1002/jpn3.70504",
+      "source": "PubMed — Journal of pediatric gastroenterology and nutrition",
+      "one_liner": "OBJECTIVES: Pediatric acute pancreatitis (AP), Crohn's disease (CD), and irritable bowel syndrome (IBS) are associated with gut dysbiosis, but differences and similarities between conditions are unknown. We hypothesized that gut microbial ecology would differ across these disorders. METHODS: Stool was collected from 120 subjects (AP [n = 30], CD [n = 29],...",
+      "segment": 12,
+      "timestamp": 595.58
+    },
+    {
+      "title": "Harmonized metagenomic signatures of the gut microbiome reveal robust species, functions, and strain links to inflammatory bowel disease.",
+      "url": "https://doi.org/10.1053/j.gastro.2026.06.023",
+      "source": "PubMed — Gastroenterology",
+      "one_liner": "BACKGROUND & AIMS: Coupled with well-characterized host genetic and environmental risk factors, alterations of gut microbial communities contribute to risk and severity of inflammatory bowel disease (IBD) and its subtypes, Crohn's disease (CD) and ulcerative colitis (UC). In a rapidly advancing field in which diverse multinational cohorts and molecular me...",
+      "segment": 13,
+      "timestamp": 646.32
+    },
+    {
+      "title": "Distinct trajectories of urbanization shape the human gut microbiome across South Asia.",
+      "url": "https://doi.org/10.1080/19490976.2026.2700042",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Human gut microbiomes respond to lifestyle transitions, yet the extent to which these responses are conserved across spatio-cultural contexts remains undercharacterized. We present the South Asian MicroBiome ARray (SAMBAR), a population-scale 16S gut microbiome study of 575 adults from ten geographically and socio-culturally diverse South Asian communitie...",
+      "segment": 14,
+      "timestamp": 693.74
+    },
+    {
+      "title": "Gut microbiome modulation by Veillonella ratti induces resistance to EAE pathogenesis via microbe-derived metabolites.",
+      "url": "https://doi.org/10.1038/s12276-026-01779-z",
+      "source": "PubMed — Experimental & molecular medicine",
+      "one_liner": "The progression of multiple sclerosis (MS) is potentially influenced by the microbiome. Elucidating host-microbiome interactions in MS may aid in developing microbiome-based applications; however, these interactions remain unclear. Here, we aimed to elucidate how Veillonella ratti MHL0042, isolated from human infant feces, modulates neuroinflammation and ...",
+      "segment": 15,
+      "timestamp": 738.97
+    },
+    {
+      "title": "The effect of different milk pretreatment methods on microbiome community development during Herrgårds cheese production and ripening.",
+      "url": "https://doi.org/10.1371/journal.pone.0350187",
+      "source": "PubMed — PloS one",
+      "one_liner": "One of the biggest challenges for dairy producers is the substantial variability in final product properties caused by changes in the production environment. In cheese production, this variation is influenced by several factors, particularly the milk base and its pretreatment, which shape the microbiome throughout the process and ultimately affect the che...",
+      "segment": 16,
+      "timestamp": 861.46
+    },
+    {
+      "title": "Acute myeloid leukemia and gut microbiome: bidirectional effects and opportunities for intervention.",
+      "url": "https://doi.org/10.1007/s00277-026-07176-w",
+      "source": "PubMed — Annals of hematology",
+      "one_liner": "Acute myeloid leukaemia (AML) is characterized by substantial treatment-related morbidity that is not fully explained by cytogenetic or molecular risk stratification alone. Emerging evidence implicates the gut microbiome as a critical, modifiable determinant of AML pathogenesis, therapeutic response, and treatment-related complications. Patients with AML ...",
+      "segment": 17,
+      "timestamp": 974.67
+    },
+    {
+      "title": "Microbiome-based control of postharvest mycotoxin-producing fungi in cereals.",
+      "url": "https://doi.org/10.1016/j.jfp.2026.100860",
+      "source": "PubMed — Journal of food protection",
+      "one_liner": "Mycotoxin contamination caused by fungal pathogens remains a persistent threat to global food security, while the long-standing reliance on synthetic fungicides is increasingly challenged by resistance development and toxicological concerns. Here, we synthesize current knowledge on mycotoxin ecology and present to our knowledge, for the first time an inte...",
+      "segment": 18,
+      "timestamp": 1086.62
+    },
+    {
+      "title": "Biotic therapies for irritable bowel syndrome: current interventions.",
+      "url": "https://doi.org/10.1093/gastro/goag062",
+      "source": "PubMed — Gastroenterology report",
+      "one_liner": "Irritable bowel syndrome (IBS) is a common functional gastrointestinal disorder characterized by recurrent abdominal pain and changes in bowel habits without measurable disease processes. Recent research emphasizes the gut-brain-microbiome (GBM) axis and explores how microbiota influence gastrointestinal and central nervous system functions. Here, we firs...",
+      "segment": 19,
+      "timestamp": 1140.12
+    },
+    {
+      "title": "Microbiota-dependent biotransformation of apiin drives butyrate-associated protection against colitis.",
+      "url": "https://doi.org/10.1038/s41538-026-00992-4",
+      "source": "PubMed — NPJ science of food",
+      "one_liner": "Dietary glycosides represent an important class of microbiota-responsive food components with potential benefits for intestinal health, yet their biotransformation and functional mechanisms remain incompletely understood. Here, we investigated the protective effects of apiin (apigenin-7-O-apiosylglucoside), a naturally occurring flavone glycoside abundant...",
+      "segment": 20,
+      "timestamp": 1193.01
+    },
+    {
+      "title": "Tryptophan degradation by intestinal Bacteroides induces anti-tumor immunity and limits melanoma growth.",
+      "url": "https://doi.org/10.1016/j.xcrm.2026.102921",
+      "source": "PubMed — Cell reports. Medicine",
+      "one_liner": "Study of gut microbiota control of anti-tumor immunity (ATI) identifies Bacteroides rodentium and the human-related Bacteroides uniformis species to be capable of inducing ATI and limiting melanoma development in germ-free (GF), complex microbiome, or wild-type (WT) mice. Enhanced CD8",
+      "segment": 21,
+      "timestamp": 1238.82
+    },
+    {
+      "title": "HumanFilt: a multi-reference host depletion pipeline improves",
+      "url": "https://doi.org/10.1128/msystems.00550-26",
+      "source": "PubMed — mSystems",
+      "one_liner": "UNLABELLED: The study of tumor-associated microbiomes using whole-genome sequencing (WGS) has attracted considerable attention, but microbial signal detection remains controversial due to host contamination and methodological artifacts. As the necessity of human-read removal becomes increasingly evident, many groups now include this step in their data pre...",
+      "segment": 22,
+      "timestamp": 1286.94
+    },
+    {
+      "title": "Insights into the mechanism of treatment of ulcerative colitis with pre- and post-processed dried ginger through perspective of metabolomics and intestinal microbiomics research.",
+      "url": "https://doi.org/10.1016/j.jpba.2026.117420",
+      "source": "PubMed — Journal of pharmaceutical and biomedical analysis",
+      "one_liner": "Numerous experiments and clinical practices have demonstrated the distinct therapeutic effect of dried ginger (DG) and processed ginger (PG) in the treatment of ulcerative colitis (UC), while, the differences in efficacy and mechanisms are not yet fully understood. By integrating metabolomics and gut microbiome analyses, combined with liquid chromatograph...",
+      "segment": 23,
+      "timestamp": 1327.76
+    },
+    {
+      "title": "An integrated in silico and multi-omics workflow identifies novel microbiota-derived umami peptides and elucidates T1R1/T1R3 binding mechanisms.",
+      "url": "https://doi.org/10.1016/j.foodchem.2026.149468",
+      "source": "PubMed — Food chemistry",
+      "one_liner": "Microbiota-derived umami peptides show strong potential for industrial applications, yet efficient high-throughput screening remains challenging. To address this limitation, this study developed an integrated workflow combining multi-omics analysis with in silico screening. Integration of two machine-learning predictors improved screening accuracy to 91.8...",
+      "segment": 24,
+      "timestamp": 1374.5
+    },
+    {
+      "title": "Gum arabic-coated urolithin A liposome nanoparticles: Fabrication, characterization, bioavailability and improved alleviation on NAFLD activity in vivo.",
+      "url": "https://doi.org/10.1016/j.carbpol.2026.125343",
+      "source": "PubMed — Carbohydrate polymers",
+      "one_liner": "Urolithin A (UroA), a gut microbiota-derived metabolite of ellagitannins, has diverse biological activities but suffers from low water solubility and poor bioavailability. To address these challenges, this study developed gum arabic (GA)-coated UroA liposomes (UA-LPs-GA). The GA coating significantly enhanced the encapsulation efficiency, stability, and b...",
+      "segment": 25,
+      "timestamp": 1417.53
+    },
+    {
+      "title": "Hollow Cu",
+      "url": "https://doi.org/10.1002/advs.76598",
+      "source": "PubMed — Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "one_liner": "Inflammatory bowel disease (IBD) progression is sustained by a positive feedback loop. Excessive mucosal ROS activate the TXNIP/NLRP3 inflammasome axis, which in turn drives interleukin-1β-mediated epithelial barrier disruption and dysbiosis. Conventional solid nanozymes suffer from limited catalytic efficiency because dense interiors restrict substrate a...",
+      "segment": 26,
+      "timestamp": 1474.67
+    },
+    {
+      "title": "Discontinuing Ciprofloxacin Prophylaxis in Allogeneic Stem Cell Transplantation Does Not Result in Inferior Outcomes.",
+      "url": "https://doi.org/10.1016/j.jtct.2026.07.012",
+      "source": "PubMed — Transplantation and cellular therapy",
+      "one_liner": "BACKGROUND: The role of fluoroquinolone (FQ) prophylaxis during neutropenia after allogeneic stem cell transplantation (alloSCT) remains unclear due to concerns about antimicrobial resistance, microbiome disruption, and potential effects on graft-versus-host disease (GvHD). However, data comparing outcomes before and after FQ discontinuation remain limite...",
+      "segment": 27,
+      "timestamp": 1519.0
+    },
+    {
+      "title": "Blood mNGS: an effective non-invasive diagnostic tool for Pneumocystis jirovecii pneumonia.",
+      "url": "https://doi.org/10.1186/s12866-026-05408-7",
+      "source": "PubMed — BMC microbiology",
+      "one_liner": "BACKGROUND: Pneumocystis jirovecii pneumonia (PJP) is a life-threatening opportunistic infection. Colonization is prevalent but cannot be reliably distinguished from active infection by conventional methods. Metagenomic next-generation sequencing (mNGS) is a promising diagnostic tool, but the value of blood mNGS for diagnosis, microbial community comparis...",
+      "segment": 28,
+      "timestamp": 1569.37
+    },
+    {
+      "title": "Biosocial influences of gender identity and geography on mucosal microbial phenotypes.",
+      "url": "https://doi.org/10.1038/s43856-026-01780-7",
+      "source": "PubMed — Communications medicine",
+      "one_liner": "BACKGROUND: Transgender women (TGW) experience unique hormonal contexts and high HIV incidence, yet the mucosal microbiome among TGW remains understudied. Sex hormones and geography may shape microbial composition, but the relative contributions of gender identity, feminizing hormone therapy (FHT), and location are unclear. METHODS: We conducted a multi-s...",
+      "segment": 29,
+      "timestamp": 1695.6
+    },
+    {
+      "title": "Pigmented region transcriptomics identifies molecular pathways potentially associated with microbial transport in the female squid accessory Nidamental Gland.",
+      "url": "https://doi.org/10.1038/s41598-026-62275-y",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "In certain cephalopods, the female-specific accessory nidamental gland (ANG) harbors dense microbial communities that are transported to the nidamental gland, incorporated into glandular secretions, and delivered to egg capsules to protect embryos. In mature females, the ANG shows pigmented regions with distinct microbiomes, though host responses remain u...",
+      "segment": 30,
+      "timestamp": 1822.32
+    },
+    {
+      "title": "Host-microbe signatures of oxidative stress and epithelial apoptosis in bacterial vaginosis during pregnancy.",
+      "url": "https://doi.org/10.1016/j.micpath.2026.108704",
+      "source": "PubMed — Microbial pathogenesis",
+      "one_liner": "BACKGROUND: Bacterial vaginosis (BV) is a common vaginal dysbiosis associated with adverse pregnancy outcomes. However, the extent to which microbial indicators of dysbiosis covary with host oxidative stress and epithelial apoptotic responses during pregnancy remains unclear. METHODS: In this analytical cross-sectional study, 220 pregnant women were scree...",
+      "segment": 31,
+      "timestamp": 1871.78
+    },
+    {
+      "title": "Prenatal Bifidobacterium bifidum Intervention Alleviates Early-Life Stress-Induced Neurobehavioral Abnormalities via Inhibiting Neuroinflammation in Offspring Mice.",
+      "url": "https://doi.org/10.1016/j.neuropharm.2026.111109",
+      "source": "PubMed — Neuropharmacology",
+      "one_liner": "Early-life stress is a key environmental risk factor for neurobehavioral abnormalities in offspring, which disrupts gut-brain axis homeostasis and causes neurodevelopmental damage. Probiotics have shown important potential in improving neurodevelopmental abnormalities. As a dominant gut microbe in healthy mother-infant pairs, Bifidobacterium bifidum is cl...",
+      "segment": 32,
+      "timestamp": 1921.29
+    },
+    {
+      "title": "Divergent structure but convergent metabolic organization of tetrabromobisphenol A degrading microbial consortia from aerobic and anaerobic conditions.",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.142454",
+      "source": "PubMed — Journal of hazardous materials",
+      "one_liner": "Microbial consortia drive the degradation of persistent pollutants through complex metabolic interactions. However, how these interactions are reconfigured under contrasting redox conditions to maintain functional efficiency remains a fundamental question in microbial ecology. Here, we used a top-down enrichment approach to investigate the collaborative d...",
+      "segment": 33,
+      "timestamp": 1963.31
+    },
+    {
+      "title": "Self-assembling gardenia pectin gel for cholestatic liver injury: Dual mechanisms of hepatoprotection via PPARα activation and gut microbial modulation.",
+      "url": "https://doi.org/10.1016/j.carbpol.2026.125332",
+      "source": "PubMed — Carbohydrate polymers",
+      "one_liner": "Bioactive pectin is a considerable candidate for drug delivery to improve stability and bioavailability. Geniposide (GS) is a hepatoprotective compound with poor bioavailability, limiting its application. Herein, we first designed a self-assembled Gardenia Pectin Gel (GPG) from pectin-rich Gardenia jasminoides Ellis fruit extracts (GE), spontaneously enca...",
+      "segment": 34,
+      "timestamp": 2005.35
+    },
+    {
+      "title": "Pasteurized",
+      "url": "https://doi.org/10.1128/spectrum.03226-25",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "Obesity and excess body weight in companion animals represent significant and growing health concerns. Accumulating evidence indicates that obesity-associated metabolic and inflammatory dysfunction may be mitigated through dietary modulation of host-microbiome interactions. In this controlled dietary intervention study, healthy Beagle dogs were fed a comm...",
+      "segment": 35,
+      "timestamp": 2051.07
+    },
+    {
+      "title": "Urolithin A Mitigates Renal Fibrosis by Promoting Fatty Acid Oxidation Through Orchestrating β-Catenin Signaling.",
+      "url": "https://doi.org/10.1096/fj.202601350RR",
+      "source": "PubMed — FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "one_liner": "Kidney fibrosis, a progressive outcome of various chronic kidney diseases (CKD), features tubule atrophy, chronic interstitial inflammation, and abnormal metabolic changes. Urolithin A (UA), a gut microbiome metabolite derived from ellagic acid and ellagitannins, has anti-inflammatory and anti-obesity effects and enhances cellular health by promoting mito...",
+      "segment": 36,
+      "timestamp": 2088.53
+    },
+    {
+      "title": "Impact of preparation methods and storage conditions for optimization of the fecal metabolome storage stability.",
+      "url": "https://doi.org/10.1039/d6an00237d",
+      "source": "PubMed — The Analyst",
+      "one_liner": "Untargeted fecal metabolomics has gained a higher scientific interest in the past decade, due to the increased importance of the gut microbiome metabolism. It is highly sensitive to preanalytical variations. However, the impact of sample collection, storage, and preparation on the metabolome composition remains insufficiently studied. In this study, we ha...",
+      "segment": 37,
+      "timestamp": 2414.06
+    },
+    {
+      "title": "Genome-guided characterization of",
+      "url": "https://doi.org/10.1128/spectrum.00331-26",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "UNLABELLED: The genus IMPORTANCE: Microbial traits relevant to food fermentation, probiotic performance, and safety emerge from complex interactions among core metabolism, accessory genes, and genome plasticity; however, these relationships remain poorly resolved at the genus scale. By analyzing 347 high-quality genomes spanning 16",
+      "segment": 38,
+      "timestamp": 2456.7
+    },
+    {
+      "title": "The Diversity of Bacterial Symbionts in Major Agricultural Lepidopteran Pests in Australia.",
+      "url": "https://doi.org/10.1155/ijm/6897546",
+      "source": "PubMed — International journal of microbiology",
+      "one_liner": "Lepidopteran pests are among the most destructive insects in agriculture, causing major yield losses across a wide range of crops worldwide. With growing emphasis on reducing chemical pesticide use, there is increasing interest in understanding their associated microbiomes and endosymbiotic bacteria. These microbial associates can influence host physiolog...",
+      "segment": 39,
+      "timestamp": 2500.04
+    }
+  ]
+}

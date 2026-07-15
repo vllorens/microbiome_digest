@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 05:36:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 05:40:24 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-07-15</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-15/podcast_2026-07-15.mp3</guid>
+      <pubDate>Wed, 15 Jul 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-15/podcast_2026-07-15.mp3" length="18693884" type="audio/mpeg" />
+      <description>Black tea’s ethanol‑soluble fraction (BES) restores intestinal homeostasis in mice by simultaneously activating the PI3K/AKT signaling pathway and reshaping the gut microbiota, thereby ameliorating dextran sulfate sodium‑induced colitis. | Consuming hydrogen‑rich water reduces atherosclerotic lesions by reshaping the gut microbiome and boosting short‑chain fatty acid production, according to a new study reported in PubMed’s Life sciences collection. | New research shows that gut microbes directly regulate levels of branched‑chain amino acids, and that this microbial‑BCAA interplay influences neurological conditions such as Parkinson’s disease, Alzheimer’s disease and maple syrup urine disease through the gut‑brain axis.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Black tea’s ethanol‑soluble fraction (BES) restores intestinal homeostasis in mice by simultaneously activating the PI3K/AKT signaling pathway and reshaping the gut microbiota, thereby ameliorating dextran sulfate sodium‑induced colitis. | Consuming hydrogen‑rich water reduces atherosclerotic lesions by reshaping the gut microbiome and boosting short‑chain fatty acid production, according to a new study reported in PubMed’s Life sciences collection. | New research shows that gut microbes directly regulate levels of branched‑chain amino acids, and that this microbial‑BCAA interplay influences neurological conditions such as Parkinson’s disease, Alzheimer’s disease and maple syrup urine disease through the gut‑brain axis.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-07-14</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-14/podcast_2026-07-14.mp3</guid>
       <pubDate>Tue, 14 Jul 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-14/podcast_2026-07-14.mp3" length="21196676" type="audio/mpeg" />
-      <description>A recent study in NPJ Science of Food shows that protein‑rich matrices from both conventional and alternative sources affect gut microbiota, metabolic function and muscle protein synthesis differently in rats. | Red palm oil (RPO) given by oral gavage to mice fed a high‑fat diet improved metabolic markers linked to oxidative stress and dysbiosis. | Researchers studying the tomato microbiome have shown that fungicide stress can elevate antibiotic resistance risk by reshaping microbial ecology.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-14/podcast_2026-07-14.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>A recent study in NPJ Science of Food shows that protein‑rich matrices from both conventional and alternative sources affect gut microbiota, metabolic function and muscle protein synthesis differently in rats. | Red palm oil (RPO) given by oral gavage to mice fed a high‑fat diet improved metabolic markers linked to oxidative stress and dysbiosis. | Researchers studying the tomato microbiome have shown that fungicide stress can elevate antibiotic resistance risk by reshaping microbial ecology.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-03/podcast_2026-05-03.mp3</guid>
       <pubDate>Sun, 03 May 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-03/podcast_2026-05-03.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-05-02</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-02/podcast_2026-05-02.mp3</guid>
-      <pubDate>Sat, 02 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-02/podcast_2026-05-02.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
