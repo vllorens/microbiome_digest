@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jul 2026 05:40:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 05:57:07 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-07-17</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-17/podcast_2026-07-17.mp3</guid>
+      <pubDate>Fri, 17 Jul 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-17/podcast_2026-07-17.mp3" length="28736972" type="audio/mpeg" />
+      <description>Dietary patterns directly shape gut microbiota composition and function, which in turn drives the onset and severity of irritable bowel syndrome and inflammatory bowel disease, according to a review in PubMed’s Reviews on environmental health. | Gut microbes enable the woodboring beetle Streltzoviella insularis to break down the defensive secondary metabolites of green ash (Fraxinus pennsylvanica), boosting its ability to feed on this widespread urban tree. | The meta‑analysis published in BMC Gastroenterology set out to clarify two linked questions: how gut microbiota dysbiosis relates to the development of ulcerative colitis, and whether fecal microbiota transplantation (FMT) can effectively treat the condition.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Dietary patterns directly shape gut microbiota composition and function, which in turn drives the onset and severity of irritable bowel syndrome and inflammatory bowel disease, according to a review in PubMed’s Reviews on environmental health. | Gut microbes enable the woodboring beetle Streltzoviella insularis to break down the defensive secondary metabolites of green ash (Fraxinus pennsylvanica), boosting its ability to feed on this widespread urban tree. | The meta‑analysis published in BMC Gastroenterology set out to clarify two linked questions: how gut microbiota dysbiosis relates to the development of ulcerative colitis, and whether fecal microbiota transplantation (FMT) can effectively treat the condition.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-07-15</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-15/podcast_2026-07-15.mp3</guid>
       <pubDate>Wed, 15 Jul 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-15/podcast_2026-07-15.mp3" length="18693884" type="audio/mpeg" />
-      <description>Black tea’s ethanol‑soluble fraction (BES) restores intestinal homeostasis in mice by simultaneously activating the PI3K/AKT signaling pathway and reshaping the gut microbiota, thereby ameliorating dextran sulfate sodium‑induced colitis. | Consuming hydrogen‑rich water reduces atherosclerotic lesions by reshaping the gut microbiome and boosting short‑chain fatty acid production, according to a new study reported in PubMed’s Life sciences collection. | New research shows that gut microbes directly regulate levels of branched‑chain amino acids, and that this microbial‑BCAA interplay influences neurological conditions such as Parkinson’s disease, Alzheimer’s disease and maple syrup urine disease through the gut‑brain axis.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-15/podcast_2026-07-15.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Black tea’s ethanol‑soluble fraction (BES) restores intestinal homeostasis in mice by simultaneously activating the PI3K/AKT signaling pathway and reshaping the gut microbiota, thereby ameliorating dextran sulfate sodium‑induced colitis. | Consuming hydrogen‑rich water reduces atherosclerotic lesions by reshaping the gut microbiome and boosting short‑chain fatty acid production, according to a new study reported in PubMed’s Life sciences collection. | New research shows that gut microbes directly regulate levels of branched‑chain amino acids, and that this microbial‑BCAA interplay influences neurological conditions such as Parkinson’s disease, Alzheimer’s disease and maple syrup urine disease through the gut‑brain axis.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-04/podcast_2026-05-04.mp3</guid>
       <pubDate>Mon, 04 May 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-04/podcast_2026-05-04.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-05-03</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-03/podcast_2026-05-03.mp3</guid>
-      <pubDate>Sun, 03 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-03/podcast_2026-05-03.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
