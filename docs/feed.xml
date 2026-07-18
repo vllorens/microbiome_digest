@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jul 2026 05:57:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 05:37:32 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-07-18</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-18/podcast_2026-07-18.mp3</guid>
+      <pubDate>Sat, 18 Jul 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-18/podcast_2026-07-18.mp3" length="24649628" type="audio/mpeg" />
+      <description>Researchers reviewing gut microbiota–nanoparticle interactions in Parkinson’s disease propose a ‘nanomaterial‑microbiome‑brain interface’ that links gut microbes, engineered particles, and neurodegeneration. | Fresh Chinese quince (Chaenomeles sinensis) is naturally tough and astringent, making it unsuitable for direct consumption. | The study published in BMC Microbiology investigates whether the human salivary microbiome can serve as a non‑invasive biomarker for early‑onset colorectal cancer (EOCRC) screening.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Researchers reviewing gut microbiota–nanoparticle interactions in Parkinson’s disease propose a ‘nanomaterial‑microbiome‑brain interface’ that links gut microbes, engineered particles, and neurodegeneration. | Fresh Chinese quince (Chaenomeles sinensis) is naturally tough and astringent, making it unsuitable for direct consumption. | The study published in BMC Microbiology investigates whether the human salivary microbiome can serve as a non‑invasive biomarker for early‑onset colorectal cancer (EOCRC) screening.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-07-17</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-17/podcast_2026-07-17.mp3</guid>
       <pubDate>Fri, 17 Jul 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-17/podcast_2026-07-17.mp3" length="28736972" type="audio/mpeg" />
-      <description>Dietary patterns directly shape gut microbiota composition and function, which in turn drives the onset and severity of irritable bowel syndrome and inflammatory bowel disease, according to a review in PubMed’s Reviews on environmental health. | Gut microbes enable the woodboring beetle Streltzoviella insularis to break down the defensive secondary metabolites of green ash (Fraxinus pennsylvanica), boosting its ability to feed on this widespread urban tree. | The meta‑analysis published in BMC Gastroenterology set out to clarify two linked questions: how gut microbiota dysbiosis relates to the development of ulcerative colitis, and whether fecal microbiota transplantation (FMT) can effectively treat the condition.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-17/podcast_2026-07-17.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Dietary patterns directly shape gut microbiota composition and function, which in turn drives the onset and severity of irritable bowel syndrome and inflammatory bowel disease, according to a review in PubMed’s Reviews on environmental health. | Gut microbes enable the woodboring beetle Streltzoviella insularis to break down the defensive secondary metabolites of green ash (Fraxinus pennsylvanica), boosting its ability to feed on this widespread urban tree. | The meta‑analysis published in BMC Gastroenterology set out to clarify two linked questions: how gut microbiota dysbiosis relates to the development of ulcerative colitis, and whether fecal microbiota transplantation (FMT) can effectively treat the condition.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-05/podcast_2026-05-05.mp3</guid>
       <pubDate>Tue, 05 May 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-05/podcast_2026-05-05.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-05-04</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-04/podcast_2026-05-04.mp3</guid>
-      <pubDate>Mon, 04 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-04/podcast_2026-05-04.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
