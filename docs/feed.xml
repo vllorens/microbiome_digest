@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Jul 2026 05:37:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 05:54:53 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-07-19</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-19/podcast_2026-07-19.mp3</guid>
+      <pubDate>Sun, 19 Jul 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-19/podcast_2026-07-19.mp3" length="17859740" type="audio/mpeg" />
+      <description>Metatranscriptomics reveals urbanization‑driven divergence in rodent viromes and zoonotic risks in Chinese megacities. | The core finding, as reported, is that rodent viromes differ measurably between less‑urban and more‑urban sites, and that this divergence correlates with changes in zoonotic risk. | What the paper does highlight is the power of metatranscriptomics for surveillance: by focusing on RNA, it captures the dynamic, expression‑based layer of viral communities that DNA‑only metagenomics might miss.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Metatranscriptomics reveals urbanization‑driven divergence in rodent viromes and zoonotic risks in Chinese megacities. | The core finding, as reported, is that rodent viromes differ measurably between less‑urban and more‑urban sites, and that this divergence correlates with changes in zoonotic risk. | What the paper does highlight is the power of metatranscriptomics for surveillance: by focusing on RNA, it captures the dynamic, expression‑based layer of viral communities that DNA‑only metagenomics might miss.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-07-18</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-18/podcast_2026-07-18.mp3</guid>
       <pubDate>Sat, 18 Jul 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-18/podcast_2026-07-18.mp3" length="24649628" type="audio/mpeg" />
-      <description>Researchers reviewing gut microbiota–nanoparticle interactions in Parkinson’s disease propose a ‘nanomaterial‑microbiome‑brain interface’ that links gut microbes, engineered particles, and neurodegeneration. | Fresh Chinese quince (Chaenomeles sinensis) is naturally tough and astringent, making it unsuitable for direct consumption. | The study published in BMC Microbiology investigates whether the human salivary microbiome can serve as a non‑invasive biomarker for early‑onset colorectal cancer (EOCRC) screening.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-18/podcast_2026-07-18.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Researchers reviewing gut microbiota–nanoparticle interactions in Parkinson’s disease propose a ‘nanomaterial‑microbiome‑brain interface’ that links gut microbes, engineered particles, and neurodegeneration. | Fresh Chinese quince (Chaenomeles sinensis) is naturally tough and astringent, making it unsuitable for direct consumption. | The study published in BMC Microbiology investigates whether the human salivary microbiome can serve as a non‑invasive biomarker for early‑onset colorectal cancer (EOCRC) screening.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-06/podcast_2026-05-06.mp3</guid>
       <pubDate>Wed, 06 May 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-06/podcast_2026-05-06.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-05-05</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-05/podcast_2026-05-05.mp3</guid>
-      <pubDate>Tue, 05 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-05/podcast_2026-05-05.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
