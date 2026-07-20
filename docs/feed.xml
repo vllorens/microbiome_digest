@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Jul 2026 05:54:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 06:16:02 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-07-20</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-20/podcast_2026-07-20.mp3</guid>
+      <pubDate>Mon, 20 Jul 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-20/podcast_2026-07-20.mp3" length="2629196" type="audio/mpeg" />
+      <description>Gut microbiota‑derived metabolites directly influence the onset and progression of stress‑related mental disorders such as depression, anxiety, and post‑traumatic stress disorder, according to a review in Translational Psychiatry indexed on PubMed. | Researchers have linked specific molecular signatures of the gut microbiota to human longevity, showing that the colonic microbiome’s metabolic output can influence aging processes. | Tormentil rhizome ethanolic extract (TR‑EtOH), a polyphenol‑rich preparation traditionally used in functional alcoholic beverages, was examined for how its gut microbiota‑derived metabolites influence intestinal barrier function and inflammation.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Gut microbiota‑derived metabolites directly influence the onset and progression of stress‑related mental disorders such as depression, anxiety, and post‑traumatic stress disorder, according to a review in Translational Psychiatry indexed on PubMed. | Researchers have linked specific molecular signatures of the gut microbiota to human longevity, showing that the colonic microbiome’s metabolic output can influence aging processes. | Tormentil rhizome ethanolic extract (TR‑EtOH), a polyphenol‑rich preparation traditionally used in functional alcoholic beverages, was examined for how its gut microbiota‑derived metabolites influence intestinal barrier function and inflammation.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-07-19</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-19/podcast_2026-07-19.mp3</guid>
       <pubDate>Sun, 19 Jul 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-19/podcast_2026-07-19.mp3" length="17859740" type="audio/mpeg" />
-      <description>Metatranscriptomics reveals urbanization‑driven divergence in rodent viromes and zoonotic risks in Chinese megacities. | The core finding, as reported, is that rodent viromes differ measurably between less‑urban and more‑urban sites, and that this divergence correlates with changes in zoonotic risk. | What the paper does highlight is the power of metatranscriptomics for surveillance: by focusing on RNA, it captures the dynamic, expression‑based layer of viral communities that DNA‑only metagenomics might miss.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-19/podcast_2026-07-19.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Metatranscriptomics reveals urbanization‑driven divergence in rodent viromes and zoonotic risks in Chinese megacities. | The core finding, as reported, is that rodent viromes differ measurably between less‑urban and more‑urban sites, and that this divergence correlates with changes in zoonotic risk. | What the paper does highlight is the power of metatranscriptomics for surveillance: by focusing on RNA, it captures the dynamic, expression‑based layer of viral communities that DNA‑only metagenomics might miss.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-07/podcast_2026-05-07.mp3</guid>
       <pubDate>Thu, 07 May 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-07/podcast_2026-05-07.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-05-06</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-06/podcast_2026-05-06.mp3</guid>
-      <pubDate>Wed, 06 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-06/podcast_2026-05-06.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
