@@ -1,0 +1,312 @@
+{
+  "timestamps": [
+    0.0,
+    117.28,
+    161.42,
+    286.86,
+    338.34,
+    467.55,
+    578.81,
+    619.8,
+    661.79,
+    704.92,
+    748.81,
+    801.84,
+    847.66,
+    960.69,
+    1095.02,
+    1140.44,
+    1184.7,
+    1319.84,
+    1436.95,
+    1577.28,
+    1697.51,
+    1750.26,
+    1797.1,
+    1840.92,
+    1888.01,
+    1926.81,
+    1967.75,
+    2007.85,
+    2053.3,
+    2091.34,
+    2240.16,
+    2362.24,
+    2470.34,
+    2517.9
+  ],
+  "items": [
+    {
+      "title": "The Roles of Gut Microbiota in the Pathogenesis of Acute Pancreatitis.",
+      "url": "https://doi.org/10.12659/MSM.952647",
+      "source": "PubMed — Medical science monitor : international medical journal of experimental and clinical research",
+      "one_liner": "Acute pancreatitis (AP), among the most common causes of acute abdomen, is characterized by persistent left upper abdominal pain and vomiting, without pain relief after vomiting. Its pathological features include abnormal activation of pancreatic enzymes and induction of pancreatic autodigestion by various etiologies. Emerging evidence indicates a strong ...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Targeted β-Glucan-Veiled Oral Apremilast Nanotherapy Modulates Key Dysbiosis-Associated Gut Microbiota and Alleviates Ulcerative Colitis-Associated Anxiety, Depression, and Neuropsychiatric Behaviors.",
+      "url": "https://doi.org/10.1002/advs.76566",
+      "source": "PubMed — Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "one_liner": "Oral nanomedicines that modulate gut microbiota and gut-brain interactions are crucial for effectively treating inflammatory bowel disease (IBD) and associated psychiatric disorders, such as anxiety and depression. However, the underlying causes of psychiatric disorders in patients with IBD remain unclear, and effective treatment strategies have yet to be...",
+      "segment": 1,
+      "timestamp": 117.28
+    },
+    {
+      "title": "Longitudinal multi-omics analysis identify multi-kingdom microbiome-host interaction dynamics and diagnostic biomarkers of postoperative infection after kidney transplantation.",
+      "url": "https://doi.org/10.1038/s41522-026-01099-0",
+      "source": "PubMed — NPJ biofilms and microbiomes",
+      "one_liner": "Despite recent progresses in microbiome and infection, the role of multi-kingdom gut microbiome in kidney transplantation (KT) infection remains unexplored. Here we performed a longitudinal and integrative multi-omics analysis of the gut microbiome, fecal metabolome and plasma metabolome in 169 KT recipients across 5 different transplantation centers, com...",
+      "segment": 2,
+      "timestamp": 161.42
+    },
+    {
+      "title": "Gut microbiota in health and disease.",
+      "url": "https://doi.org/10.1186/s43556-026-00512-6",
+      "source": "PubMed — Molecular biomedicine",
+      "one_liner": "The gut microbiota is integral to host physiology, contributing to metabolic homeostasis, epithelial barrier integrity, immune balance, and bidirectional communication along gut-organ axes. Disruption of this ecosystem, commonly referred to as dysbiosis, is increasingly implicated in a wide range of gastrointestinal and extra-intestinal diseases. Rather t...",
+      "segment": 3,
+      "timestamp": 286.86
+    },
+    {
+      "title": "Causal relationship between gut microbiota, circulating inflammatory proteins, and IgA nephropathy: two-sample and mediated Mendelian randomization analysis.",
+      "url": "https://doi.org/10.1007/s11255-026-05284-0",
+      "source": "PubMed — International urology and nephrology",
+      "one_liner": "BACKGROUND: IgA nephropathy (IgAN) is an immune-inflammatory glomerulonephritis mediated by both genetic and environmental factors. Recent research indicates a close association between gut microbiota dysbiosis and IgAN development. Additionally, circulating inflammatory proteins also play a significant role in the progression of IgAN. However, the causal...",
+      "segment": 4,
+      "timestamp": 338.34
+    },
+    {
+      "title": "Exploring differences in alveolar microbiome between pulmonary tuberculosis patients with different treatment outcomes: a metagenomic study from China.",
+      "url": "https://doi.org/10.1186/s12890-026-04500-y",
+      "source": "PubMed — BMC pulmonary medicine",
+      "one_liner": "This study aimed to investigate differences in the composition and functional characteristics of alveolar microbiota in patients with pulmonary tuberculosis (PTB) exhibiting differential therapeutic responses. Thirty-two patients with drug-sensitive PTB who had completed standard anti-tuberculosis therapy were enrolled and classified into good-response (n...",
+      "segment": 5,
+      "timestamp": 467.55
+    },
+    {
+      "title": "Gut microbiota mediates dietary adaptation across spatially varying diets in the endangered Przewalski's gazelle (Procapra przewalskii).",
+      "url": "https://doi.org/10.1038/s42003-026-10717-8",
+      "source": "PubMed — Communications biology",
+      "one_liner": "The extreme and heterogeneous Qinghai-Tibet Plateau challenges wildlife survival. Przewalski's gazelle (Procapra przewalskii) is confined to the northeastern Plateau around Qinghai Lake, where habitat fragmentation exposes isolated populations to distinct plant resources. How this species adapts to dietary heterogeneity via internal physiology remains unc...",
+      "segment": 6,
+      "timestamp": 578.81
+    },
+    {
+      "title": "From association to causality: mechanistic pathways linking the gut microbiome to psychiatric disorders.",
+      "url": "https://doi.org/10.1038/s41398-026-04305-x",
+      "source": "PubMed — Translational psychiatry",
+      "one_liner": "The microbiota-gut-brain axis (MGBA) has emerged as a key framework for understanding how peripheral biological systems influence brain function and behaviour. However, despite extensive associative evidence linking gut microbiome to psychiatric disorders, robust causal and mechanistic insights remain limited. This review critically evaluates current evid...",
+      "segment": 7,
+      "timestamp": 619.8
+    },
+    {
+      "title": "Callistephus A from Callistephus chinensis Alleviates DSS-Induced Ulcerative Colitis and Gut-liver Axis Disruption by Targeting the JAK2/STAT1 Pathway and Remodeling Gut Microbiota.",
+      "url": "https://doi.org/10.1016/j.jep.2026.122213",
+      "source": "PubMed — Journal of ethnopharmacology",
+      "one_liner": "ETHNOPHARMACOLOGICAL RELEVANCE: Callistephus chinensis, a plant belonging to the genus Callistephus in the family Asteraceae, is a traditional Mongolian medicinal herb. In ancient times, it was commonly used for clearing heat, detoxifying, reducing swelling and relieving pain. CA is a 6/7-thickened sesquiterpenoid component isolated from the flowers of Ca...",
+      "segment": 8,
+      "timestamp": 661.79
+    },
+    {
+      "title": "Impact of Tilapinevirus tilapiae (TiLV) infection on the composition and functional dynamics of gut microbiota in Nile Tilapia (Oreochromis niloticus) (Linnaeus, 1758).",
+      "url": "https://doi.org/10.1556/004.2026.01216",
+      "source": "PubMed — Acta veterinaria Hungarica",
+      "one_liner": "Tilapinevirus tilapiae (TiLV) (formerly Tilapia Lake Virus) is a highly prevalent pathogen capable of inducing significant mortality rates in Nile tilapia (Oreochromis niloticus). The alterations induced by Tilapia Lake Virus (TiLV) in the gut microbiota composition, diversity and functional prediction of Nile tilapia have not been thoroughly investigated...",
+      "segment": 9,
+      "timestamp": 704.92
+    },
+    {
+      "title": "Paliurus ramosissimus extract partially ameliorates AOM/DSS-induced colitis-associated colorectal cancer in mice: insights from transcriptomic and gut microbiota analyses.",
+      "url": "https://doi.org/10.1016/j.jep.2026.122217",
+      "source": "PubMed — Journal of ethnopharmacology",
+      "one_liner": "ETHNOPHARMACOLOGICAL RELEVANCE: Paliurus ramosissimus (PR) is a traditional folk medicinal plant recorded in Zhonghua Bencao (Chinese Materia Medica) and local medicinal records. In this study, Paliurus ramosissimus extract (PRex) was defined as an ethanol extract prepared from PR leaves. PR leaves have traditionally been used for heat-clearing and detoxi...",
+      "segment": 10,
+      "timestamp": 748.81
+    },
+    {
+      "title": "Comment on \"Compositional and Metabolomic Shifts of the Gut Microbiome in Alcohol-Related Liver Disease\".",
+      "url": "https://doi.org/10.1111/jgh.70602",
+      "source": "PubMed — Journal of gastroenterology and hepatology",
+      "one_liner": "",
+      "segment": 11,
+      "timestamp": 801.84
+    },
+    {
+      "title": "Identification of Microbiome Associations with Tacrolimus Pharmacokinetics in Adult Hematopoietic Cell Transplantation Using Population Pharmacokinetic and Machine Learning.",
+      "url": "https://doi.org/10.1007/s11095-026-04152-x",
+      "source": "PubMed — Pharmaceutical research",
+      "one_liner": "PURPOSE: Tacrolimus (TAC) is known for its high pharmacokinetic variability which cannot be fully explained by pharmacogenomic (PGx) and clinical variables. We identified gut microbiome associated with TAC pharmacokinetic variability in allogeneic hematopoietic cell transplant (HCT) recipients. METHODS: In this observational study, metagenomic shotgun seq...",
+      "segment": 12,
+      "timestamp": 847.66
+    },
+    {
+      "title": "Associations of self-reported toothbrushing frequency with salivary microbiome in caries, fluorosis, and healthy subjects.",
+      "url": "https://doi.org/10.1038/s41598-026-62911-7",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "Toothbrushing is a fundamental oral hygiene behavior associated with differences in the composition of salivary microbiome, yet whether its relationship with microbial profiles differs across oral conditions remains unclear. In this study, 300 participants were initially enrolled, including healthy controls and patients with dental caries or dental fluoro...",
+      "segment": 13,
+      "timestamp": 960.69
+    },
+    {
+      "title": "Unraveling the diversity and functional potential of cyanosphere microbiomes assembled from terrestrial cyanobacteria.",
+      "url": "https://doi.org/10.1128/aem.01043-26",
+      "source": "PubMed — Applied and environmental microbiology",
+      "one_liner": "The cyanosphere is composed of non-cyanobacterial microorganisms living within the exopolysaccharide sheath of cyanobacteria, interacting with the cyanobacterial hosts and their surrounding environment. Understanding the interactions between cyanobacteria and their cyanospheres can help predict the success of terrestrial cyanobacteria in providing ecosyst...",
+      "segment": 14,
+      "timestamp": 1095.02
+    },
+    {
+      "title": "Hydroxyurea and Gut Microbiome Interactions in Sickle Cell Disease: Toward Adjunctive Microbiome-based Therapy.",
+      "url": "https://doi.org/10.1080/03630269.2026.2702342",
+      "source": "PubMed — Hemoglobin",
+      "one_liner": "Sickle cell disease (SCD) is a monogenic disorder marked by hemoglobin S polymerization, resulting in chronic hemolysis, vaso-occlusion, systemic inflammation, and progressive multiorgan damage. Despite major therapeutic advances, SCD remains a complex inflammatory condition with significant morbidity. Hydroxyurea is the cornerstone of treatment, primaril...",
+      "segment": 15,
+      "timestamp": 1140.44
+    },
+    {
+      "title": "Trimethylamine N-oxide activates cardiac fibroblasts transformation through NLRP3 inflammasome activation with changes in mitochondrial dynamics and ER-mitochondrial contact under ER stress.",
+      "url": "https://doi.org/10.1007/s11010-026-05658-z",
+      "source": "PubMed — Molecular and cellular biochemistry",
+      "one_liner": "Trimethylamine N-oxide (TMAO), a gut microbiota-derived metabolite, has been linked to cardiovascular diseases. This study aimed to explore the role of TMAO in cardiac fibrosis by examining its effects on the NLRP3 inflammasome, endoplasmic reticulum stress (ERS), mitochondria-associated membranes (MAMs), and mitochondrial dynamics in cardiac fibroblasts ...",
+      "segment": 16,
+      "timestamp": 1184.7
+    },
+    {
+      "title": "Aripiprazole modulates splenic microbiota and immune response elicited by single prolonged stress in rats.",
+      "url": "https://doi.org/10.1007/s43440-026-00882-2",
+      "source": "PubMed — Pharmacological reports : PR",
+      "one_liner": "BACKGROUND: Post-traumatic stress disorder (PTSD) is associated with dysregulation of the hypothalamic-pituitary-adrenal (HPA) axis and the sympatho-adrenomedullary system, leading to immune imbalance and alterations in microbiota composition. Stress-induced disruption of intestinal barrier integrity may promote bacterial translocation to peripheral organ...",
+      "segment": 17,
+      "timestamp": 1319.84
+    },
+    {
+      "title": "Probiotics in pediatric functional abdominal pain disorders: a systematic review and meta-analysis.",
+      "url": "https://doi.org/10.1007/s00431-026-07161-5",
+      "source": "PubMed — European journal of pediatrics",
+      "one_liner": "UNLABELLED: Functional abdominal pain disorders (FAPDs), currently referred to as abdominal pain-related disorders of gut-brain interaction (AP-DGBIs), are characterized by recurrent abdominal discomfort in children that cannot be fully explained by an identifiable organic disorder. Probiotics are increasingly used as microbiota-targeted treatments, altho...",
+      "segment": 18,
+      "timestamp": 1436.95
+    },
+    {
+      "title": "Oral microbiota mediates the association of healthy dietary patterns with lower risk of advanced cardiovascular-kidney-metabolic syndrome.",
+      "url": "https://doi.org/10.1038/s41387-026-00455-5",
+      "source": "PubMed — Nutrition & diabetes",
+      "one_liner": "OBJECTIVES: Existing evidence links diet and the oral microbiota to individual cardiovascular, kidney, and metabolic conditions, but these relationships have not been extended to the progressive stages of cardiovascular-kidney-metabolic (CKM) syndrome. We therefore investigated the associations among dietary patterns, the oral microbiome, and CKM stages. ...",
+      "segment": 19,
+      "timestamp": 1577.28
+    },
+    {
+      "title": "Lambda-cyhalothrin exposure disrupts microbiota-associated bile acid metabolism and enterohepatic feedback in mice.",
+      "url": "https://doi.org/10.1016/j.envpol.2026.128813",
+      "source": "PubMed — Environmental pollution (Barking, Essex : 1987)",
+      "one_liner": "Lambda-cyhalothrin (LCT) is a widely used pyrethroid insecticide frequently detected in environmental and food-associated matrices, yet its effects on host bile acid metabolism remain unclear. Male C57BL/6 mice were orally exposed to LCT for 28 days and analyzed using integrated bile acid metabolomics, hepatic and ileal gene-expression profiling, 16S rRNA...",
+      "segment": 20,
+      "timestamp": 1697.51
+    },
+    {
+      "title": "Expanded virome analysis of metatranscriptomes from grapevine downy mildew lesions reveals novel viral segments, novel viruses and viroid-like RNAs.",
+      "url": "https://doi.org/10.1016/j.virusres.2026.199780",
+      "source": "PubMed — Virus research",
+      "one_liner": "Grapevine downy mildew, caused by the obligate biotrophic oomycete Plasmopara viticola, represents a major constraint to viticulture worldwide. Previous metatranscriptomic analyses revealed an unexpectedly rich viral diversity associated with downy mildew leaf lesions and in this study we re-analyzed the same RNA-seq libraries to complete viral genomes an...",
+      "segment": 21,
+      "timestamp": 1750.26
+    },
+    {
+      "title": "[Nutrition, microbiota and respiratory infections: key aspects of their interaction].",
+      "url": "https://doi.org/10.20960/nh.06966",
+      "source": "PubMed — Nutricion hospitalaria",
+      "one_liner": "Introduction: respiratory infections (RI) have experienced a rebound following the lifting of COVID-19 restrictions, constituting a major public health problem. Diet and nutritional status are determining factors in the competence of the immune system, where the gut-lung axis has been identified as a key mechanism in regulating the immune response against...",
+      "segment": 22,
+      "timestamp": 1797.1
+    },
+    {
+      "title": "Akkermansia muciniphila enhances washed microbiota transplantation in the treatment of epilepsy.",
+      "url": "https://doi.org/10.1097/CM9.0000000000004146",
+      "source": "PubMed — Chinese medical journal",
+      "one_liner": "BACKGROUND: Refractory epilepsy remains a global clinical challenge. This first-in-human cohort study aimed to evaluate the efficacy and safety of washed microbiota transplantation (WMT) in the treatment of epilepsy. METHODS: A prospective, single-center, open-label study of WMT in patients with epilepsy was conducted at the Second Affiliated Hospital of ...",
+      "segment": 23,
+      "timestamp": 1840.92
+    },
+    {
+      "title": "[Clinical evidence on kefir consumption and human health].",
+      "url": "https://doi.org/10.20960/nh.06955",
+      "source": "PubMed — Nutricion hospitalaria",
+      "one_liner": "Introduction: kefir is a fermented drink rich in bioactive metabolites and microorganisms with potential as a functional food. Emerging evidence suggests positive effects on metabolism, gut microbiota, inflammation and the gut-brain axis, although its clinical relevance has not yet been clearly established. Objective: to synthesise the existing clinical e...",
+      "segment": 24,
+      "timestamp": 1888.01
+    },
+    {
+      "title": "Safety and efficacy of fecal microbiota transplantation in solid cancers resistant to immune checkpoint inhibitors: results of the MITRIC trial.",
+      "url": "https://doi.org/10.1136/jitc-2026-015122",
+      "source": "PubMed — Journal for immunotherapy of cancer",
+      "one_liner": "BACKGROUND: Fecal microbiota transplantation (FMT) has shown promise in overcoming resistance to immune checkpoint inhibitors (ICIs) in early-phase cancer trials. We investigated the safety, feasibility and efficacy of FMT from ICI responders to patients with advanced cancers progressing on ICIs. METHODS: This was a single-arm phase IIa basket trial (MITR...",
+      "segment": 25,
+      "timestamp": 1926.81
+    },
+    {
+      "title": "Gut Microbial Release of Ferulic Acid From Germinated Quinoa Alleviates Obesity-Associated Cognitive Impairment by Activating Hippocampal Mitophagy Associated with PINK1/Parkin Pathway.",
+      "url": "https://doi.org/10.1002/advs.76686",
+      "source": "PubMed — Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "one_liner": "Obesity is a major risk factor for cognitive impairment and related neurodegenerative disorders. Whole grains are rich in polyphenols and dietary fiber, with intake associated with improvements in obesity and cognitive deficits. Gut microbial genes encode enzymes that metabolize dietary polyphenols, thereby influencing host metabolic and neurological heal...",
+      "segment": 26,
+      "timestamp": 1967.75
+    },
+    {
+      "title": "Salinity-Driven Microbial Community Engineering for Safer Ultrafiltration Water Reuse.",
+      "url": "https://doi.org/10.1021/acs.est.6c05538",
+      "source": "PubMed — Environmental science & technology",
+      "one_liner": "Ultrafiltration is central to water reclamation but faces two critical challenges: microbial regrowth that threatens biostability and pathogen invasion that undermines biosafety. Here, we proposed an ecological strategy that transformed backwash from a cleaning procedure into a microbiome engineering tool, thereby simultaneously addressing both challenges...",
+      "segment": 27,
+      "timestamp": 2007.85
+    },
+    {
+      "title": "Morphogenomic description of Cranifera cranifera (Chitwood, 1932) Kloss, 1960 from captive Blaptica dubia Serville, 1838 cockroach",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.17.739199",
+      "source": "bioRxiv — zoology",
+      "one_liner": "Nematodes of the superfamily Thelastomatoidea are found in the digestive system of various arthropods, feeding on their host microbiome. They are sometimes considered to be ecologically intermediate forms between free-living rhabditids and parasitic Spirurina, while phylogenetically they are nested within the latter. In addition to new morphological data ...",
+      "segment": 28,
+      "timestamp": 2053.3
+    },
+    {
+      "title": "Increased nutrient diversity can induce loss of microbial diversity through enhanced resource uptake.",
+      "url": "https://doi.org/10.1038/s41559-026-03111-4",
+      "source": "PubMed — Nature ecology & evolution",
+      "one_liner": "The origin of biodiversity is a central question in ecology, particularly how numerous microbial species co-exist within a single community. A prevailing hypothesis holds that microbial species co-exist by specializing on different resources, thereby reducing competition. Accordingly, increasing resource diversity is expected to promote species co-existen...",
+      "segment": 29,
+      "timestamp": 2091.34
+    },
+    {
+      "title": "Association of vaginal dysbiosis with cervical lesions among women with non-16/18 high-risk HPV infections: a cross-sectional study of 2,264 women in Eastern China.",
+      "url": "https://doi.org/10.1186/s12905-026-04714-6",
+      "source": "PubMed — BMC women's health",
+      "one_liner": "BACKGROUND: To investigate whether vaginal dysbiosis is associated with an increased risk of cervical lesions infected with non-16/18 high-risk human papillomavirus (HR-HPV) genotypes and to inform risk-stratified cervical cancer screening strategies. METHODS: This cross‑sectional study included 2,264 women attending Jiaxing Maternal and Child Health Hosp...",
+      "segment": 30,
+      "timestamp": 2240.16
+    },
+    {
+      "title": "Integrating transcriptome, metabolome and 16S rRNA sequencing to reveal the effect of celastrol on Alzheimer's disease in rats.",
+      "url": "https://doi.org/10.1038/s41598-026-61602-7",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "Celastrol is a promising therapeutic candidate for neurodegenerative diseases. However, the underlying mechanism of celastrol on Alzheimer's disease (AD) remains poorly understood. This study aims to investigate the potential effect of celastrol on treating AD using multi-omics. The AD rat model was established using D-galactose combined with Aβ",
+      "segment": 31,
+      "timestamp": 2362.24
+    },
+    {
+      "title": "Comparative Metabolomics Reveals the Production of Sulfated Metabolites by Human Gut Bacteria.",
+      "url": "https://doi.org/10.1021/jacs.6c02487",
+      "source": "PubMed — Journal of the American Chemical Society",
+      "one_liner": "The sulfated metabolome─the collection of sulfate-containing metabolites─is an emerging source of structurally unique bioactive compounds that influence metabolism, immune responses, and neurological function. Recent studies have shown that, in addition to host enzymes, gut bacteria also encode sulfotransferase enzymes (SULTs) that generate sulfated metab...",
+      "segment": 32,
+      "timestamp": 2470.34
+    },
+    {
+      "title": "Anaerobic riboflavin degradation by human gut",
+      "url": "https://doi.org/10.1128/jb.00108-26",
+      "source": "PubMed — Journal of bacteriology",
+      "one_liner": "Vitamins mediate a web of cross-feeding interactions in the human gut. Many gram-positive gut microbes, in particular, are predicted to be vitamin auxotrophs. Previous studies of these microbes, however, have tended to use rich media, precluding controlled perturbations of low-abundance nutrients. We tested the ability of diverse",
+      "segment": 33,
+      "timestamp": 2517.9
+    }
+  ]
+}
