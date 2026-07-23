@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Jul 2026 05:55:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 06:06:00 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-07-23</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-23/podcast_2026-07-23.mp3</guid>
+      <pubDate>Thu, 23 Jul 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-23/podcast_2026-07-23.mp3" length="21734780" type="audio/mpeg" />
+      <description>An integrative multicohort analysis of gut microbiota in multiple sclerosis patients has uncovered robust, sex‑specific microbial signatures. | The study titled “Evaluation of gossypetin’s effects on gut microbiota profile and TLR4, Myd88, NFKB, and NLRP3 signaling pathways in rats” appears in Naunyn‑Schmiedeberg&#x27;s archives of pharmacology and is indexed under the microbiome bucket. | The accompanying notes reiterate a well‑established premise: gut microbiota is crucial for host homeostasis, regulating metabolic processes and immune responses, and disturbances in microbial composition are tightly linked to inflammatory diseases through activation of pathways such as TLR4/MyD88/NFKB/NLRP3.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>An integrative multicohort analysis of gut microbiota in multiple sclerosis patients has uncovered robust, sex‑specific microbial signatures. | The study titled “Evaluation of gossypetin’s effects on gut microbiota profile and TLR4, Myd88, NFKB, and NLRP3 signaling pathways in rats” appears in Naunyn‑Schmiedeberg&#x27;s archives of pharmacology and is indexed under the microbiome bucket. | The accompanying notes reiterate a well‑established premise: gut microbiota is crucial for host homeostasis, regulating metabolic processes and immune responses, and disturbances in microbial composition are tightly linked to inflammatory diseases through activation of pathways such as TLR4/MyD88/NFKB/NLRP3.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-07-22</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-22/podcast_2026-07-22.mp3</guid>
       <pubDate>Wed, 22 Jul 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-22/podcast_2026-07-22.mp3" length="15951620" type="audio/mpeg" />
-      <description>The study investigates whether adding the quorum‑sensing molecule autoinducer‑2 (AI‑2) to the probiotic Lactobacillus rhamnosus GG (LGG) can improve outcomes in a neonatal mouse model of necrotizing enterocolitis (NEC). | To test this, the team induced NEC in neonatal mice, a standard approach that mimics the inflammatory and barrier‑failure features seen in human infants. | Because the extracted notes cut off after the randomization step, we lack concrete results on how the AI‑2 + LGG combination altered microbial community structure, which taxa increased or decreased, or whether oxidative‑stress markers were significantly lowered compared with LGG alone or untreated NEC pups.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-22/podcast_2026-07-22.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>The study investigates whether adding the quorum‑sensing molecule autoinducer‑2 (AI‑2) to the probiotic Lactobacillus rhamnosus GG (LGG) can improve outcomes in a neonatal mouse model of necrotizing enterocolitis (NEC). | To test this, the team induced NEC in neonatal mice, a standard approach that mimics the inflammatory and barrier‑failure features seen in human infants. | Because the extracted notes cut off after the randomization step, we lack concrete results on how the AI‑2 + LGG combination altered microbial community structure, which taxa increased or decreased, or whether oxidative‑stress markers were significantly lowered compared with LGG alone or untreated NEC pups.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-10/podcast_2026-05-10.mp3</guid>
       <pubDate>Sun, 10 May 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-10/podcast_2026-05-10.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-05-09</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-09/podcast_2026-05-09.mp3</guid>
-      <pubDate>Sat, 09 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-09/podcast_2026-05-09.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
