@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2026 06:06:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 05:58:28 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-07-24</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-24/podcast_2026-07-24.mp3</guid>
+      <pubDate>Fri, 24 Jul 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-24/podcast_2026-07-24.mp3" length="21265844" type="audio/mpeg" />
+      <description>A multi‑strain probiotic significantly improved bile acid handling, gut microbiome composition and metabolomic signatures in patients with a history of bile acid malabsorption, according to a randomized, double‑blind, placebo‑controlled trial published in Alimentary Pharmacology &amp; Therapeutics via PubMed. | The study titled “Distinct effects of supplementation with resistant starch and polydextrose on plasma and faecal bile acid profile and associations with gut microbiota: a randomised, controlled intervention in healthy participants” appears in the European Journal of Nutrition. | According to the methods outlined in the notes, bile‑acid profiles were analysed in plasma and faecal samples from healthy participants who received the fibre supplements in a randomised, controlled design.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>A multi‑strain probiotic significantly improved bile acid handling, gut microbiome composition and metabolomic signatures in patients with a history of bile acid malabsorption, according to a randomized, double‑blind, placebo‑controlled trial published in Alimentary Pharmacology &amp; Therapeutics via PubMed. | The study titled “Distinct effects of supplementation with resistant starch and polydextrose on plasma and faecal bile acid profile and associations with gut microbiota: a randomised, controlled intervention in healthy participants” appears in the European Journal of Nutrition. | According to the methods outlined in the notes, bile‑acid profiles were analysed in plasma and faecal samples from healthy participants who received the fibre supplements in a randomised, controlled design.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-07-23</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-23/podcast_2026-07-23.mp3</guid>
       <pubDate>Thu, 23 Jul 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-23/podcast_2026-07-23.mp3" length="21734780" type="audio/mpeg" />
-      <description>An integrative multicohort analysis of gut microbiota in multiple sclerosis patients has uncovered robust, sex‑specific microbial signatures. | The study titled “Evaluation of gossypetin’s effects on gut microbiota profile and TLR4, Myd88, NFKB, and NLRP3 signaling pathways in rats” appears in Naunyn‑Schmiedeberg&#x27;s archives of pharmacology and is indexed under the microbiome bucket. | The accompanying notes reiterate a well‑established premise: gut microbiota is crucial for host homeostasis, regulating metabolic processes and immune responses, and disturbances in microbial composition are tightly linked to inflammatory diseases through activation of pathways such as TLR4/MyD88/NFKB/NLRP3.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-23/podcast_2026-07-23.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>An integrative multicohort analysis of gut microbiota in multiple sclerosis patients has uncovered robust, sex‑specific microbial signatures. | The study titled “Evaluation of gossypetin’s effects on gut microbiota profile and TLR4, Myd88, NFKB, and NLRP3 signaling pathways in rats” appears in Naunyn‑Schmiedeberg&#x27;s archives of pharmacology and is indexed under the microbiome bucket. | The accompanying notes reiterate a well‑established premise: gut microbiota is crucial for host homeostasis, regulating metabolic processes and immune responses, and disturbances in microbial composition are tightly linked to inflammatory diseases through activation of pathways such as TLR4/MyD88/NFKB/NLRP3.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-11/podcast_2026-05-11.mp3</guid>
       <pubDate>Mon, 11 May 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-11/podcast_2026-05-11.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-05-10</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-10/podcast_2026-05-10.mp3</guid>
-      <pubDate>Sun, 10 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-10/podcast_2026-05-10.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
