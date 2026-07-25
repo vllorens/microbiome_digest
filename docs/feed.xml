@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Jul 2026 05:58:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 05:54:00 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-07-25</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-25/podcast_2026-07-25.mp3</guid>
+      <pubDate>Sat, 25 Jul 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-25/podcast_2026-07-25.mp3" length="25159364" type="audio/mpeg" />
+      <description>Da‑Jian‑Zhong decoction (DJZD), a traditional Chinese herbal formula, restores gut‑brain balance in diarrhea‑predominant irritable bowel syndrome (IBS‑D) rats by modulating the gut microbiota‑bile acid axis. | The study explores whether Polygonatum polysaccharides (PSP) can ease psoriasis‑like skin inflammation by reshaping the gut microbiota in mice. | PFAS exposure is tied to neurodevelopmental, neurodegenerative, and neurological disorders, and new research shows it remodels the gut microbiome, disrupting gut‑brain signaling and affecting brain function and behavior.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Da‑Jian‑Zhong decoction (DJZD), a traditional Chinese herbal formula, restores gut‑brain balance in diarrhea‑predominant irritable bowel syndrome (IBS‑D) rats by modulating the gut microbiota‑bile acid axis. | The study explores whether Polygonatum polysaccharides (PSP) can ease psoriasis‑like skin inflammation by reshaping the gut microbiota in mice. | PFAS exposure is tied to neurodevelopmental, neurodegenerative, and neurological disorders, and new research shows it remodels the gut microbiome, disrupting gut‑brain signaling and affecting brain function and behavior.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-07-24</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-24/podcast_2026-07-24.mp3</guid>
       <pubDate>Fri, 24 Jul 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-24/podcast_2026-07-24.mp3" length="21265844" type="audio/mpeg" />
-      <description>A multi‑strain probiotic significantly improved bile acid handling, gut microbiome composition and metabolomic signatures in patients with a history of bile acid malabsorption, according to a randomized, double‑blind, placebo‑controlled trial published in Alimentary Pharmacology &amp; Therapeutics via PubMed. | The study titled “Distinct effects of supplementation with resistant starch and polydextrose on plasma and faecal bile acid profile and associations with gut microbiota: a randomised, controlled intervention in healthy participants” appears in the European Journal of Nutrition. | According to the methods outlined in the notes, bile‑acid profiles were analysed in plasma and faecal samples from healthy participants who received the fibre supplements in a randomised, controlled design.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-24/podcast_2026-07-24.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>A multi‑strain probiotic significantly improved bile acid handling, gut microbiome composition and metabolomic signatures in patients with a history of bile acid malabsorption, according to a randomized, double‑blind, placebo‑controlled trial published in Alimentary Pharmacology &amp; Therapeutics via PubMed. | The study titled “Distinct effects of supplementation with resistant starch and polydextrose on plasma and faecal bile acid profile and associations with gut microbiota: a randomised, controlled intervention in healthy participants” appears in the European Journal of Nutrition. | According to the methods outlined in the notes, bile‑acid profiles were analysed in plasma and faecal samples from healthy participants who received the fibre supplements in a randomised, controlled design.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-12/podcast_2026-05-12.mp3</guid>
       <pubDate>Tue, 12 May 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-12/podcast_2026-05-12.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-05-11</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-11/podcast_2026-05-11.mp3</guid>
-      <pubDate>Mon, 11 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-11/podcast_2026-05-11.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
