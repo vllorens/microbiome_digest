@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Jul 2026 06:38:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 06:06:00 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-08-02</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-02/podcast_2026-08-02.mp3</guid>
+      <pubDate>Sun, 02 Aug 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-02/podcast_2026-08-02.mp3" length="22332140" type="audio/mpeg" />
+      <description>High‑resolution taxonomic profiling combined with metatranscriptomics has mapped the microbial, biochemical, host and ecological drivers of peri‑implant mucositis and peri‑implantitis, revealing how dysbiotic biofilms trigger disease. | Gut microbiota transform the herbal constituents of Sishen wan into different toxicant profiles depending on the source fruit and the physiological context, according to an in vitro study using mouse fecal flora. | Research highlighted in PubMed’s Food Science &amp; Nutrition shows that rheumatoid arthritis patients exhibit distinct oral‑gut microbiota profiles compared with healthy controls, underscoring the microbiome’s role alongside genetics and environment in disease onset.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>High‑resolution taxonomic profiling combined with metatranscriptomics has mapped the microbial, biochemical, host and ecological drivers of peri‑implant mucositis and peri‑implantitis, revealing how dysbiotic biofilms trigger disease. | Gut microbiota transform the herbal constituents of Sishen wan into different toxicant profiles depending on the source fruit and the physiological context, according to an in vitro study using mouse fecal flora. | Research highlighted in PubMed’s Food Science &amp; Nutrition shows that rheumatoid arthritis patients exhibit distinct oral‑gut microbiota profiles compared with healthy controls, underscoring the microbiome’s role alongside genetics and environment in disease onset.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-07-31</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-31/podcast_2026-07-31.mp3</guid>
       <pubDate>Fri, 31 Jul 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-31/podcast_2026-07-31.mp3" length="41611268" type="audio/mpeg" />
-      <description>The article “The Role of Gut Microbiota in Osteoporosis Triggered by High‑Fat Diets: Mechanisms and Targeted Therapeutic Strategies” examines how a high‑fat diet—defined in the notes as one where more than 30 % of total energy comes from fat—contributes to osteoporosis through gut‑microbiota‑mediated pathways. | What the available text does **not** reveal are the particular microbial alterations that the authors link to bone loss, the metabolites or signaling cascades (e.g., short‑chain fatty acids, lipopolysaccharide, immune‑modulating molecules) they propose as mechanistic bridges, or the specific therapeutic approaches they evaluate—such as probiotic supplementation, prebiotic fibers, fecal microbiota transplantation, or targeted antibiotics. | In short, while the source establishes the epidemiological connection between high‑fat intake and osteoporosis risk, the deeper mechanistic insights and therapeutic proposals discussed in the paper remain unspecified in the provided material.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-31/podcast_2026-07-31.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>The article “The Role of Gut Microbiota in Osteoporosis Triggered by High‑Fat Diets: Mechanisms and Targeted Therapeutic Strategies” examines how a high‑fat diet—defined in the notes as one where more than 30 % of total energy comes from fat—contributes to osteoporosis through gut‑microbiota‑mediated pathways. | What the available text does **not** reveal are the particular microbial alterations that the authors link to bone loss, the metabolites or signaling cascades (e.g., short‑chain fatty acids, lipopolysaccharide, immune‑modulating molecules) they propose as mechanistic bridges, or the specific therapeutic approaches they evaluate—such as probiotic supplementation, prebiotic fibers, fecal microbiota transplantation, or targeted antibiotics. | In short, while the source establishes the epidemiological connection between high‑fat intake and osteoporosis risk, the deeper mechanistic insights and therapeutic proposals discussed in the paper remain unspecified in the provided material.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-17/podcast_2026-05-17.mp3</guid>
       <pubDate>Sun, 17 May 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-17/podcast_2026-05-17.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-05-16</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-16/podcast_2026-05-16.mp3</guid>
-      <pubDate>Sat, 16 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-16/podcast_2026-05-16.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
