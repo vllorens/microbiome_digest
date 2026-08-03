@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Sun, 02 Aug 2026 06:06:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 06:31:48 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-08-03</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-03/podcast_2026-08-03.mp3</guid>
+      <pubDate>Mon, 03 Aug 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-03/podcast_2026-08-03.mp3" length="23852420" type="audio/mpeg" />
+      <description>Infants born with hypoplastic left heart syndrome harbor gut microbiomes that are unusually rich in pathogenic bacteria and respond differently to nutritional interventions than healthy peers, according to a new bioRxiv preprint. | vvvtrrh vtrrh vtrrhxr vtrrhvvtrvvvvvvvvvtrrhvvvvvvvvv1rhvr vtrrhxvv vvtrrhxvvhvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvbvbvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvbvbvbvbvbvb | Ma-Xing-Shi-Gan decoction eases allergic asthma by reshaping the gut microbiota‑tryptophan‑ILC2 circuit.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Infants born with hypoplastic left heart syndrome harbor gut microbiomes that are unusually rich in pathogenic bacteria and respond differently to nutritional interventions than healthy peers, according to a new bioRxiv preprint. | vvvtrrh vtrrh vtrrhxr vtrrhvvtrvvvvvvvvvtrrhvvvvvvvvv1rhvr vtrrhxvv vvtrrhxvvhvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvbvbvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvbvbvbvbvbvb | Ma-Xing-Shi-Gan decoction eases allergic asthma by reshaping the gut microbiota‑tryptophan‑ILC2 circuit.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-08-02</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-02/podcast_2026-08-02.mp3</guid>
       <pubDate>Sun, 02 Aug 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-02/podcast_2026-08-02.mp3" length="22332140" type="audio/mpeg" />
-      <description>High‑resolution taxonomic profiling combined with metatranscriptomics has mapped the microbial, biochemical, host and ecological drivers of peri‑implant mucositis and peri‑implantitis, revealing how dysbiotic biofilms trigger disease. | Gut microbiota transform the herbal constituents of Sishen wan into different toxicant profiles depending on the source fruit and the physiological context, according to an in vitro study using mouse fecal flora. | Research highlighted in PubMed’s Food Science &amp; Nutrition shows that rheumatoid arthritis patients exhibit distinct oral‑gut microbiota profiles compared with healthy controls, underscoring the microbiome’s role alongside genetics and environment in disease onset.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-02/podcast_2026-08-02.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>High‑resolution taxonomic profiling combined with metatranscriptomics has mapped the microbial, biochemical, host and ecological drivers of peri‑implant mucositis and peri‑implantitis, revealing how dysbiotic biofilms trigger disease. | Gut microbiota transform the herbal constituents of Sishen wan into different toxicant profiles depending on the source fruit and the physiological context, according to an in vitro study using mouse fecal flora. | Research highlighted in PubMed’s Food Science &amp; Nutrition shows that rheumatoid arthritis patients exhibit distinct oral‑gut microbiota profiles compared with healthy controls, underscoring the microbiome’s role alongside genetics and environment in disease onset.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-18/podcast_2026-05-18.mp3</guid>
       <pubDate>Mon, 18 May 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-18/podcast_2026-05-18.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-05-17</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-17/podcast_2026-05-17.mp3</guid>
-      <pubDate>Sun, 17 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-17/podcast_2026-05-17.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
