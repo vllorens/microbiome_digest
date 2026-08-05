@@ -1,0 +1,249 @@
+{
+  "timestamps": [
+    0.0,
+    45.84,
+    160.82,
+    334.4,
+    375.99,
+    414.77,
+    759.6,
+    804.19,
+    914.2,
+    959.77,
+    1008.08,
+    1402.3,
+    1457.04,
+    1501.41,
+    1547.7,
+    1645.72,
+    1697.67,
+    1739.5,
+    1784.18,
+    1894.22,
+    1943.73,
+    1989.73,
+    2034.13,
+    2080.35,
+    2120.3,
+    2510.83,
+    2553.57
+  ],
+  "items": [
+    {
+      "title": "Gut microbiota-derived deoxycholic acid shapes an immunosuppressive tumor microenvironment and promotes breast cancer progression.",
+      "url": "https://doi.org/10.1016/j.cmet.2026.04.011",
+      "source": "PubMed — Cell metabolism",
+      "one_liner": "The gut microbiota is increasingly recognized as a contributor to breast cancer progression. Here, we report that the gut bacterium Enterocloster bolteae, a member of the Lachnospiraceae family, is progressively enriched during tumor development and is associated with increased levels of the microbiota-derived metabolite deoxycholic acid. Deoxycholic acid...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Recent insights in pathogenesis of endometriosis with focus on gut microbiota.",
+      "url": "https://doi.org/10.1007/s11033-026-12520-4",
+      "source": "PubMed — Molecular biology reports",
+      "one_liner": "EMs is a chronic, estrogen-dependent systemic inflammatory disorder defined by the ectopic implantation of endometrial glands and stroma and is frequently associated with dysmenorrhea, chronic pelvic pain, infertility, and substantial impairment in quality of life. Despite its high prevalence and socioeconomic burden, the etiopathogenesis of EMs remains i...",
+      "segment": 1,
+      "timestamp": 45.84
+    },
+    {
+      "title": "The microbiome-mitochondria axis: the context-dependent role of urolithin A in aging and cancer via mitophagy.",
+      "url": "https://doi.org/10.1007/s11033-026-12542-y",
+      "source": "PubMed — Molecular biology reports",
+      "one_liner": "Urolithin A (UA) is a gut microbiota-derived metabolite formed from dietary ellagitannins and ellagic acid. It has drawn sustained interest because it can influence mitochondrial quality control, but the evidence does not support a simple anti-aging or anticancer label. In this review, UA is examined across microbial metabolism, urolithin metabotypes, pha...",
+      "segment": 2,
+      "timestamp": 160.82
+    },
+    {
+      "title": "Gut microbiome and avascular necrosis: A scoping review of current evidence and knowledge gaps.",
+      "url": "https://doi.org/10.1016/j.bone.2026.118041",
+      "source": "PubMed — Bone",
+      "one_liner": "Avascular necrosis (AVN) is a progressive bone disorder characterized by impaired blood supply, osteocyte death, and structural collapse, most commonly affecting the femoral head. In recent years, growing evidence has suggested that gut microbiota may influence skeletal health through immune, metabolic, and vascular pathways. This scoping review aimed to ...",
+      "segment": 3,
+      "timestamp": 334.4
+    },
+    {
+      "title": "Gut Microbiota and Intestinal Monodomination as a Predictor for Bacteremia in Allogeneic Hematopoietic Cell Transplant Recipients.",
+      "url": "https://doi.org/10.1093/infdis/jiag005",
+      "source": "PubMed — The Journal of infectious diseases",
+      "one_liner": "BACKGROUND: Bacteremia is a frequent complication in patients undergoing allogeneic hematopoietic cell transplantation (HCT). Alterations to the gut microbiota after HCT have been associated with adverse outcomes including bacteremia and reduced overall survival. Previous studies suggest that loss of gut bacterial diversity and domination by a single spec...",
+      "segment": 4,
+      "timestamp": 375.99
+    },
+    {
+      "title": "PBM's effects on plaque microbiome for periodontal-orthodontic patients during retention.",
+      "url": "https://doi.org/10.1080/20002297.2026.2693412",
+      "source": "PubMed — Journal of oral microbiology",
+      "one_liner": "OBJECTIVES: This pilot study aimed to determine whether adjunctive photobiomodulation (PBM) alters dental plaque microbiota and clinical parameters in periodontitis patients during orthodontic retention. METHODS: Six stage IV, grade C periodontitis patients entering orthodontic retention were enrolled in this split-mouth study. One arch side received mont...",
+      "segment": 5,
+      "timestamp": 414.77
+    },
+    {
+      "title": "The Causal Role of Gut Microbiota in Pulmonary Embolism and the Mediating Effects of Circulating Metabolites: A Mendelian Randomization Study.",
+      "url": "https://doi.org/10.1002/pul2.70376",
+      "source": "PubMed — Pulmonary circulation",
+      "one_liner": "The gut microbiota has been implicated in pulmonary vascular diseases, yet a direct causal link to pulmonary embolism (PE) remains unestablished. This study aimed to investigate the causal effects of gut microbiota on PE and to explore the mediating role of circulating metabolites in this relationship. We performed a two-sample Mendelian randomization (MR...",
+      "segment": 6,
+      "timestamp": 759.6
+    },
+    {
+      "title": "Multidisciplinary Delphi consensus statement on minimal standards for clinical metadata and end points in microbiome studies.",
+      "url": "https://doi.org/10.1038/s41575-026-01229-1",
+      "source": "PubMed — Nature reviews. Gastroenterology & hepatology",
+      "one_liner": "The lack of harmonization for microbiome-based clinical studies represents a critical issue for microbiome researchers and stakeholders, although microbiome research and clinical studies on the gut microbiome have been intensively conducted for more than a decade. The selection of a minimum metadata set to be analysed and reported during clinical studies ...",
+      "segment": 7,
+      "timestamp": 804.19
+    },
+    {
+      "title": "Microbial signatures of the vaginal microbiome associated with pregnancy outcome in central Anatolian Merino sheep.",
+      "url": "https://doi.org/10.1016/j.theriogenology.2026.118119",
+      "source": "PubMed — Theriogenology",
+      "one_liner": "Reproductive efficiency is a key determinant of sustainability and profitability in sheep farming systems; however, the role of the vaginal microbiome in shaping pregnancy outcomes remains insufficiently understood. This study aimed to characterise the vaginal microbial communities of Central Anatolian Merino sheep using 16S rRNA gene amplicon sequencing ...",
+      "segment": 8,
+      "timestamp": 914.2
+    },
+    {
+      "title": "Nanopesticides-rhizo-microbiome interactions: Biochemical mechanisms, ecotoxicological effects and implications for pesticide fate and transformation.",
+      "url": "https://doi.org/10.1016/j.cbpc.2026.110651",
+      "source": "PubMed — Comparative biochemistry and physiology. Toxicology & pharmacology : CBP",
+      "one_liner": "Nano-enabled pesticides (NanoPs) formulations have emerged as promising alternative to conventional pesticides by improving ingredient stability, delivery, and controlled release. However, their unique physicochemical properties also influence interactions with soil microorganisms, raising concerns regarding ecological safety and long-term impacts on soil...",
+      "segment": 9,
+      "timestamp": 959.77
+    },
+    {
+      "title": "Association of anti-anaerobic antibiotics with mortality and the gut microbiome: a sub-study of the BALANCE randomized clinical trial.",
+      "url": "https://doi.org/10.1093/cid/ciag460",
+      "source": "PubMed — Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+      "one_liner": "BACKGROUND: Patients with suspected bloodstream infection often receive broad-spectrum antibiotics with anaerobic activity in the absence of clinical indication for anaerobic coverage. Anti-anaerobic antibiotics have been linked to adverse clinical outcomes in other populations, potentially by depleting intestinal anaerobes. METHODS: We conducted a planne...",
+      "segment": 10,
+      "timestamp": 1008.08
+    },
+    {
+      "title": "Gut microbial metabolism via hippocampal indole-AhR signaling regulates emotional symptoms.",
+      "url": "https://doi.org/10.1016/j.cmet.2026.03.003",
+      "source": "PubMed — Cell metabolism",
+      "one_liner": "Gut microbiota modulate emotion, yet mechanistic insight and therapeutic targets remain limited. Here, we identify reduced gut microbiota-derived indole causally modulating emotion through hippocampal aryl hydrocarbon receptor (AhR). We found that decreased abundance of Alistipes shahii reduced intestinal indole levels via loss of tryptophanase, the rate-...",
+      "segment": 11,
+      "timestamp": 1402.3
+    },
+    {
+      "title": "Group recognition in the German cockroach, a subsocial omnivore, is based on faecal odour preference that is modulated by coprophagy, diet and learning.",
+      "url": "https://doi.org/10.1098/rspb.2025.3042",
+      "source": "PubMed — Proceedings. Biological sciences",
+      "one_liner": "Faecal odours attract cockroaches to aggregations, where conspecific faeces provide nutrients and seed the gut microbiota. Because these odours arise from the gut and faecal microbial communities, which are shaped by coprophagy and diet, discrete aggregations within a heterogeneous landscape can produce distinct faecal odour profiles. How such odour diver...",
+      "segment": 12,
+      "timestamp": 1457.04
+    },
+    {
+      "title": "The FERM guild: a differentially correlated microbial module drives hypertension via metabolic flux perturbations.",
+      "url": "https://doi.org/10.1128/msystems.00358-26",
+      "source": "PubMed — mSystems",
+      "one_liner": "UNLABELLED: Hypertension is a major risk factor for cardiovascular diseases, with changes in gut microbiota composition and function being closely associated with its onset and progression. However, the high inter-individual variability in gut microbiota complicates the identification of pathogenic mechanisms using traditional methods. In contrast, the sm...",
+      "segment": 13,
+      "timestamp": 1501.41
+    },
+    {
+      "title": "Niche exclusion of a lung pathogen in mice with designed probiotic communities.",
+      "url": "https://doi.org/10.7554/eLife.108304",
+      "source": "PubMed — eLife",
+      "one_liner": "For years, the airway microbiota have been theorized to be gatekeepers of respiratory health, as pathogens entering the airway make contact with resident microbes prior to or coincident with their interaction with host cells. Thus, modification of the native airway community may serve as a means of altering the local environment in favor of health. In thi...",
+      "segment": 14,
+      "timestamp": 1547.7
+    },
+    {
+      "title": "Microbial influence on tryptophan metabolism in tumors:Mechanisms and potential clinical applications.",
+      "url": "https://doi.org/10.1016/j.bbadis.2026.168395",
+      "source": "PubMed — Biochimica et biophysica acta. Molecular basis of disease",
+      "one_liner": "Tryptophan (Trp) metabolism represents a major biochemical interface between the gut microbiota, host immunity, and tumor biology. Trp is metabolized through three interconnected routes: the kynurenine (Kyn) pathway, mainly regulated by indoleamine 2,3-dioxygenase 1 (IDO1) and tryptophan 2,3-dioxygenase 2 (TDO2); the serotonin/5-hydroxytryptamine (5-HT) p...",
+      "segment": 15,
+      "timestamp": 1645.72
+    },
+    {
+      "title": "Sex differences in fecal microbiota transplantation for mitigating radiation-induced thrombocytopenia in mice: efficacy amplified by inulin.",
+      "url": "https://doi.org/10.1080/09537104.2026.2701022",
+      "source": "PubMed — Platelets",
+      "one_liner": "BACKGROUND: Fecal microbiota transplantation (FMT) shows potential in promoting hematopoiesis, with efficacy influenced by donor sex. However, its role in radiation-induced thrombocytopenia (RIT) and its sex-specific effects remain unclear. While inulin may enhance FMT efficacy, this has not been explored in the context of RIT. METHODS: We established an ...",
+      "segment": 16,
+      "timestamp": 1697.67
+    },
+    {
+      "title": "The Vaginal Microbiota of Adult Malagasy Women of Reproductive Age in the Marovoay District: First Characterization and Exploration of Associations With Human Papillomavirus and Schistosoma haematobium Infections.",
+      "url": "https://doi.org/10.1093/infdis/jiag065",
+      "source": "PubMed — The Journal of infectious diseases",
+      "one_liner": "BACKGROUND: The vaginal microbiome plays an important role for women's health. Changes in its composition have been associated with several sexually transmitted infections, including human papillomavirus (HPV) or parasitic infections such as Schistosoma haematobium. In Madagascar, gynecological conditions such as chronic manifestations of S. haematobium i...",
+      "segment": 17,
+      "timestamp": 1739.5
+    },
+    {
+      "title": "Postbiotics: a promising tool in personalized medicine approach for the inflammatory disorders.",
+      "url": "https://doi.org/10.1007/s11010-026-05597-9",
+      "source": "PubMed — Molecular and cellular biochemistry",
+      "one_liner": "Epidemiological studies indicate that modern lifestyle choices are closely linked to the global rise in chronic inflammatory diseases. While considerable research has explored the role of the microbiome in inflammation, a definitive causal relationship has yet to be established. Intestinal epithelial cells (IECs) play a critical role in maintaining a prot...",
+      "segment": 18,
+      "timestamp": 1784.18
+    },
+    {
+      "title": "Combined administration of fructooligosaccharides and Clostridium butyricum attenuates bowel cleansing-induced dysbiosis and safeguards mucosal defense in a murine model.",
+      "url": "https://doi.org/10.1042/CS20261277",
+      "source": "PubMed — Clinical science (London, England : 1979)",
+      "one_liner": "Bowel preparation with polyethylene glycol electrolyte solution (PEG-ELS) is indispensable for gastrointestinal endoscopy and related procedures. However, it disrupts gut microbial homeostasis and increases host vulnerability to ensuing infection. In a murine model, we optimized a synbiotic intervention consisting of fructooligosaccharides (FOS) and Clost...",
+      "segment": 19,
+      "timestamp": 1894.22
+    },
+    {
+      "title": "Microecological modulation of Faecalibacterium spp.: Prebiotic-mediated cross-feeding networks.",
+      "url": "https://doi.org/10.1016/j.micres.2026.128657",
+      "source": "PubMed — Microbiological research",
+      "one_liner": "As a paradigmatic next-generation probiotic, Faecalibacterium species play a major role in butyrate generation, intestinal barrier integrity, and immune homeostasis. However, its clinical translation is severely hindered by profound physiological fragility-namely, extreme oxygen sensitivity and inherent metabolic bottlenecks, such as its strict dependence...",
+      "segment": 20,
+      "timestamp": 1943.73
+    },
+    {
+      "title": "Vancomycin enriches Parabacteroides goldsteinii in the gut and promotes reconstruction of the hepatobiliary system in cholestasis.",
+      "url": "https://doi.org/10.1002/path.70101",
+      "source": "PubMed — The Journal of pathology",
+      "one_liner": "Impaired bile secretion disrupts the gut microbiome and perpetuates cholestatic liver injury. Vancomycin (VCM) has been shown to improve cholestasis in human patients, but its biological effects remain unclear. This study aimed to investigate the therapeutic effects of VCM on microbiome modulation and the restoration of liver function. VCM was administere...",
+      "segment": 21,
+      "timestamp": 1989.73
+    },
+    {
+      "title": "Association between dietary polyphenol intake and polyphenol-utilizing bacteria in healthy adults.",
+      "url": "https://doi.org/10.1039/d6fo00158k",
+      "source": "PubMed — Food & function",
+      "one_liner": "Dietary polyphenols are bioactive compounds with a bidirectional impact on the gut microbiome; they shape the microbial community and are transformed through bacterial metabolism. However, there are limited studies pairing metagenomic and dietary data to investigate the relationship between polyphenol intake and the taxonomic and functional profiles of th...",
+      "segment": 22,
+      "timestamp": 2034.13
+    },
+    {
+      "title": "Xylitol ameliorates ASD-like behavior in",
+      "url": "https://doi.org/10.1039/d6fo01006g",
+      "source": "PubMed — Food & function",
+      "one_liner": "Autism spectrum disorder (ASD) is a neurodevelopmental condition with complex etiology involving gut-brain axis interactions. It remains elusive how prebiotics modulate this axis to alleviate ASD symptoms. This study aimed to investigate whether xylitol, a potential prebiotic, improves behavioral and neural deficits in",
+      "segment": 23,
+      "timestamp": 2080.35
+    },
+    {
+      "title": "Probiotic",
+      "url": "https://doi.org/10.1128/spectrum.01351-26",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "This study investigated the capacity of",
+      "segment": 24,
+      "timestamp": 2120.3
+    },
+    {
+      "title": "DNA sequencing for microbial surveillance in cystic fibrosis airways: advances, challenges, and clinical translation.",
+      "url": "https://doi.org/10.1128/cmr.00352-25",
+      "source": "PubMed — Clinical microbiology reviews",
+      "one_liner": "SUMMARYDNA sequencing has revolutionized microbial surveillance in cystic fibrosis (CF), transforming pathogen identification from culture-dependent to total microbial community identification using molecular-based approaches. Techniques such as 16S rRNA gene sequencing have uncovered the complexity of the CF airway microbiome, while shotgun metagenomics,...",
+      "segment": 25,
+      "timestamp": 2510.83
+    },
+    {
+      "title": "Structural insights into xyloglucan recognition by an ABC transporter from a Gram-positive, thermophilic bacterium.",
+      "url": "https://doi.org/10.1111/febs.70667",
+      "source": "PubMed — The FEBS journal",
+      "one_liner": "Xyloglucan (an α-1,6-xylosyl-substituted β-1,4-glucan) is a major hemicellulose of the primary cell wall of many plants and an important growth substrate for biomass-degrading bacteria in diverse ecological niches, including the gut microbiome and hot springs. In Gram-positive bacteria, xyloglucan is deconstructed into soluble oligosaccharides in the extr...",
+      "segment": 26,
+      "timestamp": 2553.57
+    }
+  ]
+}
