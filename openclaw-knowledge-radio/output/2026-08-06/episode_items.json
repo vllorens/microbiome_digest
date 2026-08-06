@@ -1,0 +1,123 @@
+{
+  "timestamps": [
+    0.0,
+    44.18,
+    94.65,
+    142.26,
+    189.27,
+    313.08,
+    354.94,
+    399.26,
+    543.93,
+    695.53,
+    737.84,
+    1130.55,
+    1175.28
+  ],
+  "items": [
+    {
+      "title": "Pasteurized Akkermansia muciniphila AKK PROBIO ameliorates inflammation and metabolic disorder in db/db mice with alterations in gut microbiota and hepatic TLR4/NF-κB and SREBP2/HMGCR signaling.",
+      "url": "https://doi.org/10.1002/jsfa.70969",
+      "source": "PubMed — Journal of the science of food and agriculture",
+      "one_liner": "BACKGROUND: Diabetes mellitus, especially type 2 diabetes mellitus (T2DM), represents a significant global health challenge. Growing evidence indicates that Akkermansia muciniphila, a promising next-generation beneficial microorganism, could help alleviate metabolic disorders. Nevertheless, its strain-specific effects and associated mechanisms require fur...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Gut Microbiota Reshaping by Sparassis latifolia Polysaccharides Ameliorates Glucose Metabolism through Microbiota-Mediated Activation of Intestinal Gluconeogenesis.",
+      "url": "https://doi.org/10.1021/acs.jafc.6c04853",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "Gut microbiota dysbiosis is a key contributor to glucose metabolism disorders. Sparassis latifolia polysaccharides (SLPs) may regulate microbiota-host metabolic interactions. Here, we evaluated the hypoglycemic effects of SLPs in mice with high-fat/high-sugar diet and streptozotocin-induced glucose metabolism disorders. SLPs improved glucose tolerance, re...",
+      "segment": 1,
+      "timestamp": 44.18
+    },
+    {
+      "title": "A Genomically Safe Lactobacillus johnsonii Lacking Mobile Antimicrobial Resistance Genes Suppresses Escherichia coli and Modulates Gut Microbiota and Diarrhea Incidence in Suckling Piglets.",
+      "url": "https://doi.org/10.1021/acs.jafc.6c04192",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "Enterotoxigenic Escherichia coli (ETEC) causes significant mortality and economic losses in piglet production. This study aimed to identify a safe, effective probiotic for E. coli control under practical conditions. Using a green fluorescent protein-tagged ETEC screening platform, we identified three Lactobacillus johnsonii (LJ) strains with potent antimi...",
+      "segment": 2,
+      "timestamp": 94.65
+    },
+    {
+      "title": "Fecal microbiome transplant in food allergy in humans and mice identifies a role for bile acid metabolites in oral tolerance.",
+      "url": "https://doi.org/10.1126/scitranslmed.aee3263",
+      "source": "PubMed — Science translational medicine",
+      "one_liner": "The gut microbiome has been implicated in the pathogenesis of food allergy (FA), prompting microbiome-focused interventions. We evaluated, in a phase 1 open-label trial (NCT02960074), the safety and efficacy of oral encapsulated fecal microbiome transplantation (FMT) in 15 adults with peanut allergies. An increase in the peanut reactivity threshold was no...",
+      "segment": 3,
+      "timestamp": 142.26
+    },
+    {
+      "title": "Dynamic balance of the lung microbiome in health and respiratory diseases.",
+      "url": "https://doi.org/10.1097/CM9.0000000000003712",
+      "source": "PubMed — Chinese medical journal",
+      "one_liner": "Recent studies have challenged the once prevalent notion that the human lungs are sterile, instead unveiling a dynamic microbial environment that interacts intricately with both the host and external factors. This review describes the distinct microbial compositions between healthy individuals and those with respiratory diseases, as well as discussing the...",
+      "segment": 4,
+      "timestamp": 189.27
+    },
+    {
+      "title": "Effect of alcohol and smoking on methamphetamine users' oral microbiome and metabolome.",
+      "url": "https://doi.org/10.1080/00952990.2026.2697752",
+      "source": "PubMed — The American journal of drug and alcohol abuse",
+      "one_liner": "",
+      "segment": 5,
+      "timestamp": 313.08
+    },
+    {
+      "title": "Early-life microbiota in the LIMIT cohort: unveiling meconium microbiota types beyond maternal lifestyle.",
+      "url": "https://doi.org/10.1080/19490976.2026.2712811",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "INTRODUCTION: Early gut microbiota development plays an important role in lifelong human health, and meconium offers a unique matrix to understand prenatal microbial exposures. This study from the LIMIT cohort aimed at investigating associations between maternal pre-pregnancy body mass index (pre-BMI) and gestational weight gain (GWG), as well as other ma...",
+      "segment": 6,
+      "timestamp": 354.94
+    },
+    {
+      "title": "Nasopharyngeal microbiota profiles and lytA-PCR status in adult pneumococcal pneumonia: distinct microbial communities and diagnostic implications.",
+      "url": "https://doi.org/10.1186/s41479-026-00205-2",
+      "source": "PubMed — Pneumonia (Nathan Qld.)",
+      "one_liner": "BACKGROUND: Streptococcus pneumoniae is a leading cause of community-acquired pneumonia (CAP) in adults, yet microbiological diagnosis remains challenging. Quantitative lytA-PCR on nasopharyngeal samples has improved diagnostic yield; however, a substantial proportion of patients with confirmed pneumococcal pneumonia (PPn) remain lytA-negative. We hypothe...",
+      "segment": 7,
+      "timestamp": 399.26
+    },
+    {
+      "title": "Comparative Effects of Probiotics, Prebiotics, and Synbiotics on Clinical Outcomes in Coronary Artery Disease: A Systematic Review and Meta-Analysis.",
+      "url": "https://doi.org/10.1007/s12602-026-11158-9",
+      "source": "PubMed — Probiotics and antimicrobial proteins",
+      "one_liner": "Coronary artery disease (CAD) remains a leading cause of mortality worldwide, driven by persistent inflammation, metabolic dysfunction, and endothelial impairment despite optimal medical therapy. Modulating the gut microbiota through probiotics, prebiotics, or synbiotics has emerged as a potential adjunctive strategy. This study aimed to assess the effect...",
+      "segment": 8,
+      "timestamp": 543.93
+    },
+    {
+      "title": "The Gut Speaks to the Lung: Fecal Microbiota and Survival in Idiopathic Pulmonary Fibrosis.",
+      "url": "https://doi.org/10.1093/ajrccm/aamag410",
+      "source": "PubMed — American journal of respiratory and critical care medicine",
+      "one_liner": "",
+      "segment": 9,
+      "timestamp": 695.53
+    },
+    {
+      "title": "Mechanistic and machine learning models design human gut consortia that robustly inhibit Clostridioides difficile",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.08.04.742850",
+      "source": "bioRxiv — systems biology",
+      "one_liner": "Identifying design principles for robust inhibition of human pathogens is a major goal of microbiome engineering. By building synthetic microbial communities from the bottom-up guided by Bayesian active learning, we investigate the Clostridioides difficile growth landscape across thousands of species-metabolite conditions. Mechanistic consumer resource an...",
+      "segment": 10,
+      "timestamp": 737.84
+    },
+    {
+      "title": "Multi-omics analyses reveal host-microbe interactions in atopic dermatitis and psoriasis.",
+      "url": "https://doi.org/10.1111/jdv.70654",
+      "source": "PubMed — Journal of the European Academy of Dermatology and Venereology : JEADV",
+      "one_liner": "BACKGROUND: Atopic dermatitis (AD) and psoriasis (PSO) are chronic inflammatory skin diseases that impose substantial physical and psychological burdens. Although fungal-bacterial balance is important for skin immune homeostasis, the role of the skin mycobiome and its interaction with bacterial communities and host immunity in these diseases remains poorl...",
+      "segment": 11,
+      "timestamp": 1130.55
+    },
+    {
+      "title": "16S/18S metabarcoding versus culture for aetiological assessment in infectious keratitis: A prospective paired-sample study.",
+      "url": "https://doi.org/10.1111/aos.70218",
+      "source": "PubMed — Acta ophthalmologica",
+      "one_liner": "PURPOSE: Infectious keratitis (IK) is a vision-threatening condition with diverse microbial aetiologies, yet conventional culture-based diagnostics often have limited sensitivity. We investigated whether 16S/18S rRNA amplicon-based next-generation sequencing (NGS) can enhance aetiological assessment when used alongside standard microbiological methods. ME...",
+      "segment": 12,
+      "timestamp": 1175.28
+    }
+  ]
+}

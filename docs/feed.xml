@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Aug 2026 05:58:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 05:52:41 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-08-06</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-06/podcast_2026-08-06.mp3</guid>
+      <pubDate>Thu, 06 Aug 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-06/podcast_2026-08-06.mp3" length="8967020" type="audio/mpeg" />
+      <description>Pasteurized Akkermansia muciniphila strain AKK PROBIO reduced inflammation and improved metabolic health in diabetic db/db mice, reshaping gut microbiota composition and dampening hepatic TLR4/NF‑κB and SREBP2/HMGCR pathways. | Sparassis latifolia polysaccharides (SLPs) improve glucose metabolism by reshaping the gut microbiota and activating intestinal gluconeogenesis, according to a study in the Journal of Agricultural and Food Chemistry accessed via PubMed. | A genomically safe Lactobacillus johnsonii strain that carries no mobile antimicrobial resistance genes was shown to suppress enterotoxigenic Escherichia coli and lower diarrhea rates in suckling piglets.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Pasteurized Akkermansia muciniphila strain AKK PROBIO reduced inflammation and improved metabolic health in diabetic db/db mice, reshaping gut microbiota composition and dampening hepatic TLR4/NF‑κB and SREBP2/HMGCR pathways. | Sparassis latifolia polysaccharides (SLPs) improve glucose metabolism by reshaping the gut microbiota and activating intestinal gluconeogenesis, according to a study in the Journal of Agricultural and Food Chemistry accessed via PubMed. | A genomically safe Lactobacillus johnsonii strain that carries no mobile antimicrobial resistance genes was shown to suppress enterotoxigenic Escherichia coli and lower diarrhea rates in suckling piglets.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-08-05</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-05/podcast_2026-08-05.mp3</guid>
       <pubDate>Wed, 05 Aug 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-05/podcast_2026-08-05.mp3" length="19213268" type="audio/mpeg" />
-      <description>Gut microbiota-derived deoxycholic acid fuels an immunosuppressive tumor microenvironment that drives breast cancer progression, according to a new study in Cell Metabolism. | Endometriosis—often abbreviated as EMs—is a chronic, estrogen‑dependent systemic inflammatory disorder characterized by the ectopic implantation of endometrial glands and stroma outside the uterus. | The paper’s title signals a focus on recent insights linking the gut microbiota to endometriosis pathogenesis, suggesting that researchers are exploring how microbial communities in the gastrointestinal tract might influence immune modulation, hormone metabolism, or inflammatory pathways that contribute to lesion establishment.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-05/podcast_2026-08-05.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Gut microbiota-derived deoxycholic acid fuels an immunosuppressive tumor microenvironment that drives breast cancer progression, according to a new study in Cell Metabolism. | Endometriosis—often abbreviated as EMs—is a chronic, estrogen‑dependent systemic inflammatory disorder characterized by the ectopic implantation of endometrial glands and stroma outside the uterus. | The paper’s title signals a focus on recent insights linking the gut microbiota to endometriosis pathogenesis, suggesting that researchers are exploring how microbial communities in the gastrointestinal tract might influence immune modulation, hormone metabolism, or inflammatory pathways that contribute to lesion establishment.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-21/podcast_2026-05-21.mp3</guid>
       <pubDate>Thu, 21 May 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-21/podcast_2026-05-21.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-05-20</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-20/podcast_2026-05-20.mp3</guid>
-      <pubDate>Wed, 20 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-20/podcast_2026-05-20.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
