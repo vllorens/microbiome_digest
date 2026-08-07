@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 05:52:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 04:58:36 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-08-07</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-07/podcast_2026-08-07.mp3</guid>
+      <pubDate>Fri, 07 Aug 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-07/podcast_2026-08-07.mp3" length="9855284" type="audio/mpeg" />
+      <description>Astragalus polysaccharides (APS) blocked kidney stone formation in rats treated with ethylene glycol by reshaping the gut microbiome and boosting short‑chain fatty acid levels. | A polysaccharide extracted from the lichen Usnea longissima (USLP) markedly eased dextran sulfate sodium‑induced colitis in mice, restoring gut‑microbial balance and dampening the NF‑κB and PI3K‑Akt inflammatory cascades. | Researchers reporting in PubMed‑Life Sciences found that the gut microbiome shifts as Huntington’s disease progresses, distinguishing pre‑manifest from manifest stages.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Astragalus polysaccharides (APS) blocked kidney stone formation in rats treated with ethylene glycol by reshaping the gut microbiome and boosting short‑chain fatty acid levels. | A polysaccharide extracted from the lichen Usnea longissima (USLP) markedly eased dextran sulfate sodium‑induced colitis in mice, restoring gut‑microbial balance and dampening the NF‑κB and PI3K‑Akt inflammatory cascades. | Researchers reporting in PubMed‑Life Sciences found that the gut microbiome shifts as Huntington’s disease progresses, distinguishing pre‑manifest from manifest stages.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-08-06</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-06/podcast_2026-08-06.mp3</guid>
       <pubDate>Thu, 06 Aug 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-06/podcast_2026-08-06.mp3" length="8967020" type="audio/mpeg" />
-      <description>Pasteurized Akkermansia muciniphila strain AKK PROBIO reduced inflammation and improved metabolic health in diabetic db/db mice, reshaping gut microbiota composition and dampening hepatic TLR4/NF‑κB and SREBP2/HMGCR pathways. | Sparassis latifolia polysaccharides (SLPs) improve glucose metabolism by reshaping the gut microbiota and activating intestinal gluconeogenesis, according to a study in the Journal of Agricultural and Food Chemistry accessed via PubMed. | A genomically safe Lactobacillus johnsonii strain that carries no mobile antimicrobial resistance genes was shown to suppress enterotoxigenic Escherichia coli and lower diarrhea rates in suckling piglets.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-06/podcast_2026-08-06.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Pasteurized Akkermansia muciniphila strain AKK PROBIO reduced inflammation and improved metabolic health in diabetic db/db mice, reshaping gut microbiota composition and dampening hepatic TLR4/NF‑κB and SREBP2/HMGCR pathways. | Sparassis latifolia polysaccharides (SLPs) improve glucose metabolism by reshaping the gut microbiota and activating intestinal gluconeogenesis, according to a study in the Journal of Agricultural and Food Chemistry accessed via PubMed. | A genomically safe Lactobacillus johnsonii strain that carries no mobile antimicrobial resistance genes was shown to suppress enterotoxigenic Escherichia coli and lower diarrhea rates in suckling piglets.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-23/podcast_2026-05-23.mp3</guid>
       <pubDate>Sat, 23 May 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-23/podcast_2026-05-23.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-05-21</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-21/podcast_2026-05-21.mp3</guid>
-      <pubDate>Thu, 21 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-21/podcast_2026-05-21.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
