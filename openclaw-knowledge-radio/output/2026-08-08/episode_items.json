@@ -1,0 +1,195 @@
+{
+  "timestamps": [
+    0.0,
+    96.86,
+    202.0,
+    324.13,
+    425.7,
+    470.38,
+    509.26,
+    556.68,
+    596.51,
+    718.52,
+    838.06,
+    956.5,
+    1066.78,
+    1179.67,
+    1306.62,
+    1354.12,
+    1409.41,
+    1459.64,
+    1586.74,
+    1722.45,
+    1824.98
+  ],
+  "items": [
+    {
+      "title": "Gut microbiota modulation of gastrointestinal cancers: from dysbiosis signatures to therapeutic interventions.",
+      "url": "https://doi.org/10.1038/s41401-026-01882-x",
+      "source": "PubMed — Acta pharmacologica Sinica",
+      "one_liner": "The human gut microbiota constitutes the largest and most metabolically active microbial ecosystem in the body, and accumulating evidence links dynamic alterations in microbial composition and function to the initiation, progression, and treatment responses of multiple gastrointestinal (GI) cancers, including esophageal, gastric, hepatocellular, pancreati...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Live Biotherapeutic Products (LBPs) as Promising Microbiome-Based Medicines for Colorectal Cancer (CRC): Mechanistic Basis, Therapeutic Applications, and Translational Challenges.",
+      "url": "https://doi.org/10.1007/s12602-026-11164-x",
+      "source": "PubMed — Probiotics and antimicrobial proteins",
+      "one_liner": "Colorectal cancer (CRC) is the third most prevalent and second deadliest cancer worldwide. The gut microbiota profoundly influences this cancer by modulating immune responses and therapeutic efficacy. Recently, live biotherapeutic products (LBPs), comprising live resident microorganisms in the gut, have emerged as promising agents to reprogram host immuni...",
+      "segment": 1,
+      "timestamp": 96.86
+    },
+    {
+      "title": "Causal associations between gut microbiota and five common oral lesions: A two-sample Mendelian randomization study.",
+      "url": "https://doi.org/10.1097/MD.0000000000049705",
+      "source": "PubMed — Medicine",
+      "one_liner": "Previous studies have investigated the relationship between gut microbiota (GM) and oral lesions, but the reported associations across microbial taxa and oral conditions have been inconsistent. This 2-sample Mendelian randomization study using summary-level GWAS data aimed to clarify the causal links between GM and 5 oral conditions: loose teeth, toothach...",
+      "segment": 2,
+      "timestamp": 202.0
+    },
+    {
+      "title": "Gut microbiota‑immune crosstalk in recurrent pregnancy loss: Mechanisms and therapeutic perspectives (Review).",
+      "url": "https://doi.org/10.3892/mmr.2026.13979",
+      "source": "PubMed — Molecular medicine reports",
+      "one_liner": "Recent studies have indicated the relationships between the human reproductive system, gut microbiota and immune crosstalk. These interactions can influence pregnancy outcomes, which occasionally result in adverse consequences for the mother and fetus. However, key questions remain unresolved, such as identifying the microbiota capable of modulating immun...",
+      "segment": 3,
+      "timestamp": 324.13
+    },
+    {
+      "title": "The efficacy of microbiome transplantation in treating vaginosis and its impact on vaginosis recurrence: a meta-analysis of randomized controlled trials.",
+      "url": "https://doi.org/10.5603/gpl.106234",
+      "source": "PubMed — Ginekologia polska",
+      "one_liner": "OBJECTIVES: Bacterial vaginosis (BV) is a recurrent condition with significant health implications. Microbiome transplantation has emerged as a potential treatment strategy. This meta-analysis assesses its efficacy in treating vaginosis and preventing recurrence. METHODS: A systematic review and meta-analysis of randomized controlled trials (RCTs) evaluat...",
+      "segment": 4,
+      "timestamp": 425.7
+    },
+    {
+      "title": "Long-Term Effects of Nalmefene on Alcohol Consumption, Liver Function, and Gut Microbiota in Patients With Alcohol-Related Liver Disease.",
+      "url": "https://doi.org/10.1111/hepr.70257",
+      "source": "PubMed — Hepatology research : the official journal of the Japan Society of Hepatology",
+      "one_liner": "AIM: Evidence concerning the long-term efficacy of nalmefene in alcohol-related liver disease (ALD) remains insufficient, particularly regarding gut microbiota alterations. This study evaluated the 12-month effects of nalmefene on alcohol consumption, liver function, and microbiota in the gut of patients with ALD. METHODS: This single-center retrospective...",
+      "segment": 5,
+      "timestamp": 470.38
+    },
+    {
+      "title": "From Dysbiosis to systemic health: Microbiome modulation as a unified therapeutic framework.",
+      "url": "https://doi.org/10.1556/030.2026.03015",
+      "source": "PubMed — Acta microbiologica et immunologica Hungarica",
+      "one_liner": "The gut microbiome is a dynamic microbial ecosystem regulating gastrointestinal, metabolic, immune, and neurobehavioral physiology. Dysbiosis has been linked to irritable bowel syndrome (IBS), inflammatory bowel disease (IBD), and systemic disorders including metabolic syndrome, autoimmune conditions, and neurodegenerative diseases. This narrative review ...",
+      "segment": 6,
+      "timestamp": 509.26
+    },
+    {
+      "title": "The Gut Microbiome and Diet Interact to Dictate Personalized Response to Broccoli Sprout Consumption.",
+      "url": "https://doi.org/10.1002/fsn3.72211",
+      "source": "PubMed — Food science & nutrition",
+      "one_liner": "Broccoli sprouts produce sulforaphane (SFN), a dietary isothiocyanate with anti-cancer and anti-inflammatory properties. Human intervention trials observe large variation in metabolite generation and bioactivity with broccoli sprout consumption across individuals. We hypothesize that interactions between pre-intervention diet and personalized gut microbio...",
+      "segment": 7,
+      "timestamp": 556.68
+    },
+    {
+      "title": "Co-supplementation of fructooligosaccharide with soy isoflavone restores the gut-brain axis dysfunction via modulation of gut microbiome in estrogen-deprived rat model.",
+      "url": "https://doi.org/10.1007/s11033-026-12492-5",
+      "source": "PubMed — Molecular biology reports",
+      "one_liner": "BACKGROUND: The gut-brain axis (GBA) plays a critical role in regulating neurocognitive and gastrointestinal functions through integrated neuronal, immune, endocrine, and microbial pathways. Estrogen deficiency causes gut dysbiosis and associated GBA dysfunction. Strategies that may modulate GBA dysfunction in the postmenopausal phase need to be explored....",
+      "segment": 8,
+      "timestamp": 596.51
+    },
+    {
+      "title": "A total infectome framework for resolving complex disease etiology in aquaculture.",
+      "url": "https://doi.org/10.1007/s44307-026-00125-8",
+      "source": "PubMed — Advanced biotechnology",
+      "one_liner": "Traditional pathogen isolation can establish disease causality but often fails in complex infections involving unknown or multiple microbial backgrounds, whereas metatranscriptomics comprehensively captures the total infectome without directly resolving the primary etiological agent. Here, using overwintering syndrome (OWS) in grass carp, a widespread but...",
+      "segment": 9,
+      "timestamp": 718.52
+    },
+    {
+      "title": "Fecal microbiota profiling in patients with irritable bowel syndrome and small intestinal bacterial overgrowth.",
+      "url": "https://doi.org/10.1097/MD.0000000000049955",
+      "source": "PubMed — Medicine",
+      "one_liner": "Small intestinal bacterial overgrowth (SIBO) is common in irritable bowel syndrome (IBS) and has been proposed as an etiologic factor. This study aimed to identify potential fecal microbiota profiles in patients with IBS and SIBO. A total of 52 subjects were enrolled in this study, of whom 18 were normal controls (NCs). Patients were divided into 2 groups...",
+      "segment": 10,
+      "timestamp": 838.06
+    },
+    {
+      "title": "The gut-immune-brain axis in CNS tumors: Causal roles of microbiota and inflammatory proteins unveiled by Mendelian randomization and single-cell transcriptomics.",
+      "url": "https://doi.org/10.1097/MD.0000000000050109",
+      "source": "PubMed — Medicine",
+      "one_liner": "There is a growing number of research suggesting that there is an association between gut microbiota and central nervous system (CNS) tumor. However, the causal relationships and the mediation effects of inflammatory proteins in the associations are unclear. We extracted genetic variants associated with gut microbiota, inflammatory proteins, and 4 subtype...",
+      "segment": 11,
+      "timestamp": 956.5
+    },
+    {
+      "title": "Host Gnmt coordinates with Limosilactobacillus reuteri to alleviate ionizing radiation injury via microbiota remodeling and metabolic regulation in Drosophila melanogaster.",
+      "url": "https://doi.org/10.1007/s00203-026-05083-2",
+      "source": "PubMed — Archives of microbiology",
+      "one_liner": "Organismal health is dictated by the interplay between host genetics, microbiota, and environmental stressors like ionizing radiation (IR). However, the role of potential metabolic factors, such as Glycine N-methyltransferase (Gnmt), in coordinating this stress response remains largely unexplored. We aimed to investigate whether a candidate host factor, G...",
+      "segment": 12,
+      "timestamp": 1066.78
+    },
+    {
+      "title": "Role of microbial metabolites in the pathogenesis of hypertensive disorders of pregnancy: From short‑chain fatty acids to tryptophan metabolites (Review).",
+      "url": "https://doi.org/10.3892/mmr.2026.13981",
+      "source": "PubMed — Molecular medicine reports",
+      "one_liner": "Hypertensive disorders of pregnancy (HDP) are a leading cause of maternal and perinatal morbidity worldwide, and their pathogenesis involves complex interactions among vascular dysfunction, placental ischemia and immune dysregulation. The gut microbiota has been highlighted as a key upstream modulator, with microbial metabolites serving as key functional ...",
+      "segment": 13,
+      "timestamp": 1179.67
+    },
+    {
+      "title": "Oral microbiota dysbiosis related to the cortical thinning and cognitive impairment in cerebral small vessel disease.",
+      "url": "https://doi.org/10.1080/20002297.2026.2705667",
+      "source": "PubMed — Journal of oral microbiology",
+      "one_liner": "BACKGROUND: Prior studies have linked the microbiota to brain diseases, whereas the longitudinal effects of the oral microbiota on cortical thinning and cognitive impairments in cerebral small vessel disease (CSVD) remain unexplored. METHODS: We recruited 120 CSVD patients and 40 healthy controls (HCs). The subgingival plaque microbiota was sequenced by a...",
+      "segment": 14,
+      "timestamp": 1306.62
+    },
+    {
+      "title": "Mechanistic pathways linking gut microbial metabolites, microbial structural products, and host-microbe co-metabolites to mitochondrial function.",
+      "url": "https://doi.org/10.1080/19490976.2026.2694140",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Gut-derived microbial metabolites modulate host mitochondrial function. To our knowledge, no prior systematic review has synthesized evidence linking these metabolites to direct mitochondrial endpoints across all major metabolite classes. PubMed, Scopus, and Web of Science were systematically searched through March 2026 for studies examining direct mitoch...",
+      "segment": 15,
+      "timestamp": 1354.12
+    },
+    {
+      "title": "Phylosymbiosis and the hologenome in fungus-gardening ants",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.08.02.742319",
+      "source": "bioRxiv — evolutionary biology",
+      "one_liner": "Hosts and their microbiomes can be extensively integrated so that they behave across evolutionary scales as a single unit or as a hologenome. Hosts and their associated microbiomes can potentially exhibit concordance among their respective phylogenetic histories, a phenomenon known as phylosymbiosis. The obligate symbiosis of fungus-gardening ants represe...",
+      "segment": 16,
+      "timestamp": 1409.41
+    },
+    {
+      "title": "Gut-protective metabolic phenotype for diarrhoeal remission caused by an environmental probiotic thermophile.",
+      "url": "https://doi.org/10.1186/s40168-026-02476-9",
+      "source": "PubMed — Microbiome",
+      "one_liner": "BACKGROUND: Controlling diarrhoea in humans and livestock is a global challenge with diverse aetiologies. However, the dynamics of the microbiome for diarrhoeal remission are not sufficiently understood, and effective intervention strategies based on environmental microorganisms have not been fully explored. METHODS: We investigated the metabolic structur...",
+      "segment": 17,
+      "timestamp": 1459.64
+    },
+    {
+      "title": "Optimization and application of probiotics complex for grouper based on dynamic model.",
+      "url": "https://doi.org/10.1007/s11274-026-05163-x",
+      "source": "PubMed — World journal of microbiology & biotechnology",
+      "one_liner": "This study applied systematic microecological method to develop multi-strain probiotics for grouper aquaculture, focusing on rational strain selection and interaction optimization. Five strains from marine source were initially screened through functional and safety assessments. Based on single-strain growth kinetics and pairwise interaction data, the gen...",
+      "segment": 18,
+      "timestamp": 1586.74
+    },
+    {
+      "title": "Context Dependent Effects of Probiotics: A Systems Perspective on the Interpretation of Experimental Findings.",
+      "url": "https://doi.org/10.1007/s12602-026-11169-6",
+      "source": "PubMed — Probiotics and antimicrobial proteins",
+      "one_liner": "Current definitions of probiotics emphasize their beneficial effects on the host but do not fully capture the complexity of their interactions within the host. Most experimental models remain reductionist, focusing on individual probiotic strains rather than the biological systems in which they operate. However, the effects of probiotics emerge within a d...",
+      "segment": 19,
+      "timestamp": 1722.45
+    },
+    {
+      "title": "Early-Life Antibiotic Exposure Disrupts Bifidobacterium in Infants: A qPCR-Based Cohort Study.",
+      "url": "https://doi.org/10.1097/INF.0000000000005360",
+      "source": "PubMed — The Pediatric infectious disease journal",
+      "one_liner": "BACKGROUND: Early infancy represents a critical window for establishing the gut microbiome, during which Bifidobacterium species dominate and play essential roles in metabolic, immune and intestinal maturation. Antibiotic exposure during this sensitive period may disrupt microbial development, yet quantitative data on its longitudinal impact remain limite...",
+      "segment": 20,
+      "timestamp": 1824.98
+    }
+  ]
+}

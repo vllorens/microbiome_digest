@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 04:58:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 04:17:44 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-08-08</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-08/podcast_2026-08-08.mp3</guid>
+      <pubDate>Sat, 08 Aug 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-08/podcast_2026-08-08.mp3" length="15254828" type="audio/mpeg" />
+      <description>This review in Acta Pharmacologica Sinica emphasizes that the human gut microbiota represents the body’s largest and most metabolically active microbial ecosystem, and that accumulating evidence ties shifts in its composition and function to the initiation, progression, and treatment responses of multiple gastrointestinal cancers, including esophageal, gastric, hepatocellular, and pancreatic malignancies. | Colorectal cancer remains the third most prevalent and second deadliest malignancy worldwide, and the gut microbiota is known to shape its progression by modulating immune responses and influencing therapeutic efficacy. | The available text does not provide details on the specific microbial strains or consortia investigated, nor does it describe the mechanistic pathways through which these LBPs are hypothesized to exert anti‑tumor effects, such as modulation of cytokine profiles, barrier integrity, or metabolite production.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>This review in Acta Pharmacologica Sinica emphasizes that the human gut microbiota represents the body’s largest and most metabolically active microbial ecosystem, and that accumulating evidence ties shifts in its composition and function to the initiation, progression, and treatment responses of multiple gastrointestinal cancers, including esophageal, gastric, hepatocellular, and pancreatic malignancies. | Colorectal cancer remains the third most prevalent and second deadliest malignancy worldwide, and the gut microbiota is known to shape its progression by modulating immune responses and influencing therapeutic efficacy. | The available text does not provide details on the specific microbial strains or consortia investigated, nor does it describe the mechanistic pathways through which these LBPs are hypothesized to exert anti‑tumor effects, such as modulation of cytokine profiles, barrier integrity, or metabolite production.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-08-07</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-07/podcast_2026-08-07.mp3</guid>
       <pubDate>Fri, 07 Aug 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-07/podcast_2026-08-07.mp3" length="9855284" type="audio/mpeg" />
-      <description>Astragalus polysaccharides (APS) blocked kidney stone formation in rats treated with ethylene glycol by reshaping the gut microbiome and boosting short‑chain fatty acid levels. | A polysaccharide extracted from the lichen Usnea longissima (USLP) markedly eased dextran sulfate sodium‑induced colitis in mice, restoring gut‑microbial balance and dampening the NF‑κB and PI3K‑Akt inflammatory cascades. | Researchers reporting in PubMed‑Life Sciences found that the gut microbiome shifts as Huntington’s disease progresses, distinguishing pre‑manifest from manifest stages.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-07/podcast_2026-08-07.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Astragalus polysaccharides (APS) blocked kidney stone formation in rats treated with ethylene glycol by reshaping the gut microbiome and boosting short‑chain fatty acid levels. | A polysaccharide extracted from the lichen Usnea longissima (USLP) markedly eased dextran sulfate sodium‑induced colitis in mice, restoring gut‑microbial balance and dampening the NF‑κB and PI3K‑Akt inflammatory cascades. | Researchers reporting in PubMed‑Life Sciences found that the gut microbiome shifts as Huntington’s disease progresses, distinguishing pre‑manifest from manifest stages.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-24/podcast_2026-05-24.mp3</guid>
       <pubDate>Sun, 24 May 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-24/podcast_2026-05-24.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-05-23</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-23/podcast_2026-05-23.mp3</guid>
-      <pubDate>Sat, 23 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-23/podcast_2026-05-23.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
