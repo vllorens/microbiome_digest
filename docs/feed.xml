@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Aug 2026 04:17:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 04:34:29 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-08-10</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-10/podcast_2026-08-10.mp3</guid>
+      <pubDate>Mon, 10 Aug 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-10/podcast_2026-08-10.mp3" length="10057556" type="audio/mpeg" />
+      <description>Cod‑skin collagen peptides can ease ulcerative colitis by reshaping the gut microbiome and dampening the NLRP3 inflammasome, according to a new study in Food Science &amp; Nutrition. | Aging weakens the blood‑brain barrier, driving cognitive decline and neurodegeneration, and this breakdown stems from endothelial senescence, altered barrier regulation, and chronic low‑grade inflammation. | Yeasts are ubiquitous members of microbial communities in terrestrial, aquatic and host‑associated habitats, yet they are often missed in microbiome surveys because of their low abundance and technical biases.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Cod‑skin collagen peptides can ease ulcerative colitis by reshaping the gut microbiome and dampening the NLRP3 inflammasome, according to a new study in Food Science &amp; Nutrition. | Aging weakens the blood‑brain barrier, driving cognitive decline and neurodegeneration, and this breakdown stems from endothelial senescence, altered barrier regulation, and chronic low‑grade inflammation. | Yeasts are ubiquitous members of microbial communities in terrestrial, aquatic and host‑associated habitats, yet they are often missed in microbiome surveys because of their low abundance and technical biases.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-08-08</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-08/podcast_2026-08-08.mp3</guid>
       <pubDate>Sat, 08 Aug 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-08/podcast_2026-08-08.mp3" length="15254828" type="audio/mpeg" />
-      <description>This review in Acta Pharmacologica Sinica emphasizes that the human gut microbiota represents the body’s largest and most metabolically active microbial ecosystem, and that accumulating evidence ties shifts in its composition and function to the initiation, progression, and treatment responses of multiple gastrointestinal cancers, including esophageal, gastric, hepatocellular, and pancreatic malignancies. | Colorectal cancer remains the third most prevalent and second deadliest malignancy worldwide, and the gut microbiota is known to shape its progression by modulating immune responses and influencing therapeutic efficacy. | The available text does not provide details on the specific microbial strains or consortia investigated, nor does it describe the mechanistic pathways through which these LBPs are hypothesized to exert anti‑tumor effects, such as modulation of cytokine profiles, barrier integrity, or metabolite production.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-08/podcast_2026-08-08.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>This review in Acta Pharmacologica Sinica emphasizes that the human gut microbiota represents the body’s largest and most metabolically active microbial ecosystem, and that accumulating evidence ties shifts in its composition and function to the initiation, progression, and treatment responses of multiple gastrointestinal cancers, including esophageal, gastric, hepatocellular, and pancreatic malignancies. | Colorectal cancer remains the third most prevalent and second deadliest malignancy worldwide, and the gut microbiota is known to shape its progression by modulating immune responses and influencing therapeutic efficacy. | The available text does not provide details on the specific microbial strains or consortia investigated, nor does it describe the mechanistic pathways through which these LBPs are hypothesized to exert anti‑tumor effects, such as modulation of cytokine profiles, barrier integrity, or metabolite production.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-25/podcast_2026-05-25.mp3</guid>
       <pubDate>Mon, 25 May 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-25/podcast_2026-05-25.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-05-24</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-24/podcast_2026-05-24.mp3</guid>
-      <pubDate>Sun, 24 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-24/podcast_2026-05-24.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>

@@ -1,0 +1,186 @@
+{
+  "timestamps": [
+    0.0,
+    43.1,
+    90.98,
+    133.31,
+    248.22,
+    294.27,
+    334.63,
+    376.72,
+    516.4,
+    648.04,
+    752.6,
+    798.51,
+    845.71,
+    899.85,
+    942.81,
+    993.49,
+    1133.22,
+    1177.73,
+    1233.96,
+    1287.91
+  ],
+  "items": [
+    {
+      "title": "Cod Skin Collagen Peptides Alleviate Ulcerative Colitis by Regulating Gut Microbiota to Inhibit NLRP3 Inflammasome Activation.",
+      "url": "https://doi.org/10.1002/fsn3.72162",
+      "source": "PubMed — Food science & nutrition",
+      "one_liner": "Enteral nutrition is an important intervention for ulcerative colitis, and collagen can improve immune responses and repair the intestinal barrier. Low-molecular-weight peptides from cod skin have demonstrated anti-inflammatory and mucosal protective effects; however, the mechanism by which they alleviate colitis through gut microbiota modulation remains ...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Microbiome-blood-brain barrier interactions in aging - mechanisms and therapeutic potential.",
+      "url": "https://doi.org/10.1002/1873-3468.70412",
+      "source": "PubMed — FEBS letters",
+      "one_liner": "Age-related decline in neurovascular integrity is an increasingly recognized contributor to cognitive impairment and neurodegenerative vulnerability. A central feature is blood-brain barrier (BBB) dysfunction arising from endothelial senescence, altered barrier regulation, and chronic low-grade inflammation. In parallel, aging remodels the gut microbiota,...",
+      "segment": 1,
+      "timestamp": 43.1
+    },
+    {
+      "title": "A Global Synthesis of Yeast in Microbiomes.",
+      "url": "https://doi.org/10.1002/yea.70039",
+      "source": "PubMed — Yeast (Chichester, England)",
+      "one_liner": "Yeasts are widespread members of microbial communities across terrestrial, aquatic, and host-associated environments, yet they remain underrepresented in microbiome studies due to low abundance and methodological biases. By combining a literature review with a meta-analysis of ~44,000 fungal metabarcoding samples from the GlobalFungi database, we show tha...",
+      "segment": 2,
+      "timestamp": 90.98
+    },
+    {
+      "title": "Systematic profiling of growth interactions in human gut microbiome species.",
+      "url": "https://doi.org/10.1038/s41467-026-76526-z",
+      "source": "PubMed — Nature communications",
+      "one_liner": "Microbial interactions shape the composition and stability of the human gut microbiome. Yet, few studies have systematically investigated species-species growth interactions and the mechanisms behind these. Here we show that among 36 representative gut bacterial strains, when two species interact, the interactions are mostly inhibitory. To provide biologi...",
+      "segment": 3,
+      "timestamp": 133.31
+    },
+    {
+      "title": "Microbiome Stewardship: re-defining high-risk antibiotics.",
+      "url": "https://doi.org/10.1016/j.anaerobe.2026.103072",
+      "source": "PubMed — Anaerobe",
+      "one_liner": "Healthy human gut microbiomes are essential for overall wellness and must be safeguarded by incorporating preservation into clinical decision-making processes and policies. Given the paradigm shift of single-acting bacteria causing infectious diseases to a new understanding of interacting communities of bacteria that build up stable network structures and...",
+      "segment": 4,
+      "timestamp": 248.22
+    },
+    {
+      "title": "Detection, occurrence, development, diagnosis and treatment of vaginal microbiome in gynecological cancers.",
+      "url": "https://doi.org/10.1016/j.critrevonc.2026.105531",
+      "source": "PubMed — Critical reviews in oncology/hematology",
+      "one_liner": "Gynecological cancers, including cervical, endometrial, and ovarian cancers, represent a growing global health burden with increasing incidence and mortality. The vaginal microbiome has emerged as a promising target for early cancer diagnosis and therapeutic intervention. Therefore, this review summarizes the composition and dynamics of the vaginal microb...",
+      "segment": 5,
+      "timestamp": 294.27
+    },
+    {
+      "title": "Associations of self-reported and actigraphic sleep with gut microbiome composition and diversity among older adults.",
+      "url": "https://doi.org/10.1093/sleep/zsag217",
+      "source": "PubMed — Sleep",
+      "one_liner": "STUDY OBJECTIVES: Poor sleep is linked to adverse health outcomes. Animal studies suggest the gut microbiome may influence sleep, but human findings remain inconsistent. We examined associations of self-reported insomnia symptoms, daytime sleepiness, and actigraphy-measured sleep with gut microbiome diversity and composition in older adults. METHODS: We s...",
+      "segment": 6,
+      "timestamp": 334.63
+    },
+    {
+      "title": "Identification of hypertension-associated bacterial key genes as potential targets and therapeutic agents through integrated bioinformatics approach.",
+      "url": "https://doi.org/10.1007/s10123-026-00879-0",
+      "source": "PubMed — International microbiology : the official journal of the Spanish Society for Microbiology",
+      "one_liner": "Hypertension (HTN) is a major global health burden and a leading risk factor for cardiovascular morbidity and mortality. Although numerous studies have explored host genetic factors and molecular mechanisms underlying HTN, increasing evidence indicates that gut microbiota dysbiosis also contributes to disease development. However, the specific microbial g...",
+      "segment": 7,
+      "timestamp": 376.72
+    },
+    {
+      "title": "A three-metabolite microbiota-associated signature for early risk stratification of gestational diabetes mellitus.",
+      "url": "https://doi.org/10.1186/s12933-026-03278-x",
+      "source": "PubMed — Cardiovascular diabetology",
+      "one_liner": "BACKGROUND: Gestational diabetes mellitus (GDM) is associated with adverse pregnancy outcomes and long-term metabolic and cardiovascular risk. However, oral glucose tolerance testing at 24-28 gestational weeks limits early risk stratification. Gut microbiota-associated metabolites may reflect early metabolic abnormalities, including those relevant to card...",
+      "segment": 8,
+      "timestamp": 516.4
+    },
+    {
+      "title": "Changes in bacterial and metabolic profiles in breastfed infants during dietary transition to solids.",
+      "url": "https://doi.org/10.1038/s41390-026-05354-0",
+      "source": "PubMed — Pediatric research",
+      "one_liner": "BACKGROUND: Early-life microbiota plays a crucial role in immune and metabolic development, yet its maturation during the key dietary transition from human milk to solid food remains poorly characterized. METHODS: In this pilot study, we aimed to characterize changes in the oral and fecal bacteriomes of breastfed infants throughout this period. Oral swabs...",
+      "segment": 9,
+      "timestamp": 648.04
+    },
+    {
+      "title": "Role of pks + Escherichia coli in colorectal cancer: Mechanisms, clinical evidence, and therapeutic perspective.",
+      "url": "https://doi.org/10.1016/j.meegid.2026.106003",
+      "source": "PubMed — Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases",
+      "one_liner": "Colorectal cancer (CRC) is a multifactorial disease influenced by genetic, environmental, and microbial factors. Among gut microbiota, pks",
+      "segment": 10,
+      "timestamp": 752.6
+    },
+    {
+      "title": "Targeting the gut-joint axis: Ferrostatin-1 alleviates Collagen-Induced arthritis and is associated with alterations in microbiota-derived metabolites.",
+      "url": "https://doi.org/10.1016/j.gene.2026.150349",
+      "source": "PubMed — Gene",
+      "one_liner": "Rheumatoid arthritis (RA) is a chronic autoimmune disorder characterized by synovial inflammation and progressive bone destruction. While ferroptosis has recently been implicated in RA pathogenesis, the mechanisms linking ferroptosis inhibition to the gut-joint axis remain poorly understood. This study investigated the therapeutic efficacy of the specific...",
+      "segment": 11,
+      "timestamp": 798.51
+    },
+    {
+      "title": "From Indirect Regulation to Multi-Layered Metabolic Control in MASLD: Multi-Receptor Agonism and Microbiota-Metabolite Functional Convergence.",
+      "url": "https://doi.org/10.1016/j.phrs.2026.108369",
+      "source": "PubMed — Pharmacological research",
+      "one_liner": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have shown clinical efficacy in metabolic dysfunction-associated steatotic liver disease (MASLD), yet their therapeutic performance appears limited in several recurring settings, including advanced fibrosis, metabolically milder populations, and treatment discontinuation. These limitations suggest that ...",
+      "segment": 12,
+      "timestamp": 845.71
+    },
+    {
+      "title": "High-fat diet and age disrupt a Muribaculaceae-associated SCFA network linked to gut barrier and cognitive deficits.",
+      "url": "https://doi.org/10.1016/j.jnutbio.2026.110481",
+      "source": "PubMed — The Journal of nutritional biochemistry",
+      "one_liner": "Both diet and aging shape the gut microbiota, yet how their combined remodeling propagates across microbial function to host barrier and brain outcomes remains poorly understood. Despite abundant links between Short-chain fatty acids (SCFAs) and intestinal health, integrative studies that connect community ecology with SCFA linked metabolism, epithelial s...",
+      "segment": 13,
+      "timestamp": 899.85
+    },
+    {
+      "title": "Genome-scale modeling of the influence of microbiota-derived butyrate on the regulation of human metabolism by the histone deacetylase SIRT1.",
+      "url": "https://doi.org/10.1016/j.ajcnut.2026.101465",
+      "source": "PubMed — The American journal of clinical nutrition",
+      "one_liner": "BACKGROUND: Genome-scale metabolic models predict metabolic flux distributions but typically lack explicit transcriptional regulation, limiting their ability to simulate graded effects of epigenetic modulators such as Sirtuin1. OBJECTIVE: To develop and validate a continuous regulatory-metabolic framework integrating Sirtuin T1-dependent transcriptional c...",
+      "segment": 14,
+      "timestamp": 942.81
+    },
+    {
+      "title": "Precision periodontology in clinical practice: bridging omics and clinical decision-making.",
+      "url": "https://doi.org/10.1007/s00784-026-07059-4",
+      "source": "PubMed — Clinical oral investigations",
+      "one_liner": "BACKGROUND: Precision periodontology integrates molecular diagnostics, genomics, and advanced imaging into clinical decision-making. Despite major advances in microbiome characterisation, host genetics, and inflammatory biomarkers, their translation into routine care remains limited. OBJECTIVES: To critically appraise current evidence on microbiome-based ...",
+      "segment": 15,
+      "timestamp": 993.49
+    },
+    {
+      "title": "The adjunct use of Bifidobacterium animalis subsp. lactis BAMA-B06/BAu-B0111 improves the therapeutic efficacy of Liuwei'anxiao Capsule in alleviating constipation in Parkinson's Disease: A randomized controlled study.",
+      "url": "https://doi.org/10.1016/j.jep.2026.121694",
+      "source": "PubMed — Journal of ethnopharmacology",
+      "one_liner": "ETHNOPHARMACOLOGICAL RELEVANCE: Liuwei'anxiao Capsule (LAC), a well-established Chinese patent medicine (CPM) that derived from the Mongolian and Tibetan folk prescription \"Liuwei Anxiao San\", has demonstrated efficacy in treating constipation but can cause side effects when used improperly. Probiotics offer a promising adjunct to enhance CPM efficacy and...",
+      "segment": 16,
+      "timestamp": 1133.22
+    },
+    {
+      "title": "Therapeutic application of probiotic extracellular vesicles in inflammatory bowel disease.",
+      "url": "https://doi.org/10.1016/j.jare.2026.08.016",
+      "source": "PubMed — Journal of advanced research",
+      "one_liner": "BACKGROUND: The chronic, recurring nature of Inflammatory bowel disease (IBD) and the complications associated with conventional drugs have driven the search for next-generation therapies capable of overcoming the limitations of current treatment regimens. As functional proxies of their parent bacteria, probiotic extracellular vesicles (PEVs) have become ...",
+      "segment": 17,
+      "timestamp": 1177.73
+    },
+    {
+      "title": "Lactiplantibacillus plantarum WY2401 promotes myogenesis via riboflavin-mediated modulation of METTL3-dependent mRNA m",
+      "url": "https://doi.org/10.1016/j.jare.2026.08.015",
+      "source": "PubMed — Journal of advanced research",
+      "one_liner": "INTRODUCTION: Lactiplantibacillus plantarum (L. plantarum) is a well-characterized probiotic with a long history of safe application, exhibiting prominent potential in improving skeletal muscle function. As the most prevalent and plentiful mRNA modification in eukaryotes, extensive research has highlighted the non-negligible role of N OBJECTIVE: To explor...",
+      "segment": 18,
+      "timestamp": 1233.96
+    },
+    {
+      "title": "Natural modulators of epithelial-immune signaling in atopic dermatitis: Molecular immunological mechanisms and translational perspectives.",
+      "url": "https://doi.org/10.1016/j.molimm.2026.08.006",
+      "source": "PubMed — Molecular immunology",
+      "one_liner": "Atopic dermatitis (AD) is a self-reinforcing epithelial-immune disorder in which barrier failure, alarmin release, type 2 cytokines, oxidative stress and dysbiosis converge on interconnected signaling circuits. This review critically evaluates natural products by mode of action rather than by pathway name alone. The available evidence supports coordinated...",
+      "segment": 19,
+      "timestamp": 1287.91
+    }
+  ]
+}
