@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2026 04:34:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 04:31:05 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-08-11</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-11/podcast_2026-08-11.mp3</guid>
+      <pubDate>Tue, 11 Aug 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-11/podcast_2026-08-11.mp3" length="9669044" type="audio/mpeg" />
+      <description>Alkali treatment and amidation of citrus pectin change how much naringin becomes available during digestion and how the gut microbial community responds, according to a study in the Journal of the Science of Food and Agriculture accessed via PubMed. | Profiling the aromatic amino acid metabolome in the human gut microbiota shows that these privileged substrates generate a diverse array of bioactive metabolites, uncovering a previously hidden chemical richness. | The systematic review titled *Microbiome‑Driven Therapeutic Strategies for Type 2 Diabetes: A Systematic Review of Microbiota Modulation, Glycaemic Outcomes, and Transplantation* surveys the current evidence linking gut microbiome alterations to type 2 diabetes mellitus and evaluates interventions that target the microbiota to improve glycaemic control.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Alkali treatment and amidation of citrus pectin change how much naringin becomes available during digestion and how the gut microbial community responds, according to a study in the Journal of the Science of Food and Agriculture accessed via PubMed. | Profiling the aromatic amino acid metabolome in the human gut microbiota shows that these privileged substrates generate a diverse array of bioactive metabolites, uncovering a previously hidden chemical richness. | The systematic review titled *Microbiome‑Driven Therapeutic Strategies for Type 2 Diabetes: A Systematic Review of Microbiota Modulation, Glycaemic Outcomes, and Transplantation* surveys the current evidence linking gut microbiome alterations to type 2 diabetes mellitus and evaluates interventions that target the microbiota to improve glycaemic control.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-08-10</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-10/podcast_2026-08-10.mp3</guid>
       <pubDate>Mon, 10 Aug 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-10/podcast_2026-08-10.mp3" length="10057556" type="audio/mpeg" />
-      <description>Cod‑skin collagen peptides can ease ulcerative colitis by reshaping the gut microbiome and dampening the NLRP3 inflammasome, according to a new study in Food Science &amp; Nutrition. | Aging weakens the blood‑brain barrier, driving cognitive decline and neurodegeneration, and this breakdown stems from endothelial senescence, altered barrier regulation, and chronic low‑grade inflammation. | Yeasts are ubiquitous members of microbial communities in terrestrial, aquatic and host‑associated habitats, yet they are often missed in microbiome surveys because of their low abundance and technical biases.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-10/podcast_2026-08-10.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Cod‑skin collagen peptides can ease ulcerative colitis by reshaping the gut microbiome and dampening the NLRP3 inflammasome, according to a new study in Food Science &amp; Nutrition. | Aging weakens the blood‑brain barrier, driving cognitive decline and neurodegeneration, and this breakdown stems from endothelial senescence, altered barrier regulation, and chronic low‑grade inflammation. | Yeasts are ubiquitous members of microbial communities in terrestrial, aquatic and host‑associated habitats, yet they are often missed in microbiome surveys because of their low abundance and technical biases.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-26/podcast_2026-05-26.mp3</guid>
       <pubDate>Tue, 26 May 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-26/podcast_2026-05-26.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-05-25</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-25/podcast_2026-05-25.mp3</guid>
-      <pubDate>Mon, 25 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-25/podcast_2026-05-25.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>

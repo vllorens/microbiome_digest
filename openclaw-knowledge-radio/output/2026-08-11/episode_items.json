@@ -1,0 +1,168 @@
+{
+  "timestamps": [
+    0.0,
+    45.07,
+    87.09,
+    230.1,
+    275.38,
+    317.72,
+    366.55,
+    378.45,
+    418.36,
+    469.38,
+    570.94,
+    689.19,
+    730.9,
+    778.1,
+    912.23,
+    1010.77,
+    1126.04,
+    1234.25
+  ],
+  "items": [
+    {
+      "title": "Pectin modification affects naringin bioaccessibility and gut microbiota regulation in citrus pectin-naringin-zein complexes.",
+      "url": "https://doi.org/10.1002/jsfa.70942",
+      "source": "PubMed — Journal of the science of food and agriculture",
+      "one_liner": "BACKGROUND: Understanding how food matrix interactions influence flavonoid digestion and gut microbiota modulation is essential for designing functional foods. This study investigated citrus pectin-naringin-zein ternary complexes, focusing on the effects of pectin modification (alkali treatment versus amidation) on naringin bioaccessibility and gut microb...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Profiling the aromatic amino acid metabolome in the human gut microbiota reveals",
+      "url": "https://doi.org/10.1128/msystems.00779-26",
+      "source": "PubMed — mSystems",
+      "one_liner": "Owing to its compositional and chemical complexity, much of the gut microbiota metabolome remains poorly characterized. Aromatic amino acids (AAAs) have a history of being privileged substrates for the biosynthesis of diverse bioactive metabolites and thus represent a potentially rich source of bioactive molecules within the microbiota metabolome. In this...",
+      "segment": 1,
+      "timestamp": 45.07
+    },
+    {
+      "title": "Microbiome-Driven Therapeutic Strategies for Type 2 Diabetes: A Systematic Review of Microbiota Modulation, Glycaemic Outcomes, and Transplantation.",
+      "url": "https://doi.org/10.1007/s12010-026-05860-1",
+      "source": "PubMed — Applied biochemistry and biotechnology",
+      "one_liner": "Type 2 diabetes mellitus (T2DM) arises from the body's ineffective use or production of insulin. Recent research highlights the significant role of the gut microbiome in metabolism and immunity, indicating that microbial dysbiosis may be associated with T2DM development. This systematic review will explore the link between gut dysbiosis and Type 2 Diabete...",
+      "segment": 2,
+      "timestamp": 87.09
+    },
+    {
+      "title": "Multi-level aggregation analysis of microbiome composition and host gene expression reveals associations with systemic and local immunity.",
+      "url": "https://doi.org/10.1128/spectrum.03593-25",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "The human gut microbiome plays a critical role in immune regulation, yet the molecular links between microbiome composition and host gene expression remain incompletely understood. We analyzed associations between host gene expression and microbiome composition in a cohort of 315 healthy individuals, integrating microarray-based gene expression data from ...",
+      "segment": 3,
+      "timestamp": 230.1
+    },
+    {
+      "title": "Chicken bone-derived peptides: characterization and effects on human gut microbiota using the Simulator of the Human Intestinal Microbial Ecosystem (SHIME®).",
+      "url": "https://doi.org/10.1039/d6fo01753c",
+      "source": "PubMed — Food & function",
+      "one_liner": "Collagen peptides obtained from by-products have gained attention as functional ingredients due to their potential to interact with gut microbiota and related metabolic outcomes. This study characterized collagen peptides, extracted from chicken bones by enzymatic hydrolysis, and investigated how they interact with human gut microbiota using the dynamic S...",
+      "segment": 4,
+      "timestamp": 275.38
+    },
+    {
+      "title": "Mare milk and its extracellular vesicles alleviate DSS-induced colitis in mice by modulating immune responses and reshaping gut microbiota.",
+      "url": "https://doi.org/10.1039/d6fo01504b",
+      "source": "PubMed — Food & function",
+      "one_liner": "Ulcerative colitis (UC) is a chronic inflammatory disorder driven by gut dysbiosis and immune dysfunction. This study evaluated the protective effects of mare milk (MM) and its extracellular vesicles (MM-EVs) in DSS-induced UC. Both interventions alleviated clinical symptoms, restored colonic architecture, and rebalanced mucosal and systemic T-cell immuni...",
+      "segment": 5,
+      "timestamp": 317.72
+    },
+    {
+      "title": "Shotgun Metagenomic Analysis Reveals Taxonomic and Functional Transitions in the Salivary Microbiome During Periodontal Disease Progression.",
+      "url": "https://doi.org/10.1111/jcpe.70184",
+      "source": "PubMed — Journal of clinical periodontology",
+      "one_liner": "AIM: To characterise multi-kingdom salivary microbiome profiles across clinically defined periodontal states and identify stage-specific taxonomic and functional alterations using shotgun metagenomic sequencing. MATERIALS AND METHODS: In this cross-sectional study, 204 adults (mean age 40.3 ± 7.6 years) from the SECRETO study (NCT01934725) underwent clini...",
+      "segment": 6,
+      "timestamp": 366.55
+    },
+    {
+      "title": "Associations of smoking, aging, and their interplay with the gut microbiome and chronic disease risk profiles.",
+      "url": "https://doi.org/10.1093/ntr/ntag174",
+      "source": "PubMed — Nicotine & tobacco research : official journal of the Society for Research on Nicotine and Tobacco",
+      "one_liner": "INTRODUCTION: Smoking and aging are both linked to chronic disease and gut microbiome, but their joint relationship with microbiome composition remains uncharacterized. This study examined the overlap between smoking- and age-associated gut microbial signals and their associations with cardiovascular diseases. METHODS: We analyzed 6676 participants from a...",
+      "segment": 7,
+      "timestamp": 378.45
+    },
+    {
+      "title": "State of oral innate immunity and salivary microbiome with allogeneic hematopoietic stem cell transplant.",
+      "url": "https://doi.org/10.1128/spectrum.00118-26",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "Allogeneic hematopoietic stem cell transplantation (allo-HSCT) and the use of chemotherapy and antibiotics cause large changes in the gut and oral microbiomes. In patients, these differences in the oral microbiome may be related to the re-establishment of the innate immunity in the oral cavity. Saliva samples were collected from a pilot group of allo-HSCT...",
+      "segment": 8,
+      "timestamp": 418.36
+    },
+    {
+      "title": "Systematic pathway engineering of Escherichia coli for enhanced 3'-sialyllactose production.",
+      "url": "https://doi.org/10.1186/s40643-026-01110-8",
+      "source": "PubMed — Bioresources and bioprocessing",
+      "one_liner": "3'-Sialyllactose (3'-SL), the simplest sialylated human milk oligosaccharide (HMO), is widely incorporated into infant formula due to its roles in shaping the gut microbiota, inhibiting pathogen adhesion, and supporting neurodevelopment. In this study, we developed an efficient microbial cell factory for 3'-SL production by enhancing carbon utilization an...",
+      "segment": 9,
+      "timestamp": 469.38
+    },
+    {
+      "title": "Modulating the gut-joint axis: Bifidobacterium longum subsp. infantis B8762 is associated with selective gut microbial and metabolic alterations in knee osteoarthritis.",
+      "url": "https://doi.org/10.1007/s11274-026-05182-8",
+      "source": "PubMed — World journal of microbiology & biotechnology",
+      "one_liner": "Knee osteoarthritis (KOA) is a debilitating degenerative joint disorder characterized by chronic low-grade inflammation and metabolic dysregulation. The gut microbiota has emerged as an important regulator of systemic inflammatory responses. Building upon our previous clinical findings that Bifidobacterium longum subsp. infantis B8762 (B8762) improved cli...",
+      "segment": 10,
+      "timestamp": 570.94
+    },
+    {
+      "title": "Fecal microbiota transplantation in Parkinson's disease: a systematic review.",
+      "url": "https://doi.org/10.1080/17582024.2026.2715585",
+      "source": "PubMed — Neurodegenerative disease management",
+      "one_liner": "INTRODUCTION: Current Parkinson's disease (PD) treatments offer limited, temporary relief. Fecal microbiota transplantation (FMT) is a potential therapy, but its safety and efficacy remain unclear. METHODS: PubMed, Scopus, Cochrane Library, and Web of Science were searched on 20 July 2026. Eligible studies included adults with PD receiving FMT reporting m...",
+      "segment": 11,
+      "timestamp": 689.19
+    },
+    {
+      "title": "Utilizing natural competence to genetically manipulate",
+      "url": "https://doi.org/10.1128/aem.00441-26",
+      "source": "PubMed — Applied and environmental microbiology",
+      "one_liner": "UNLABELLED: The healthy human vaginal microbiota is typically dominated by one species of IMPORTANCE: This study describes, to our knowledge, the first method for genetically manipulating",
+      "segment": 12,
+      "timestamp": 730.9
+    },
+    {
+      "title": "Immunomodulatory effect of Lacticaseibacillus rhamnosus and Lactobacillus acidophilus in human dendritic cells.",
+      "url": "https://doi.org/10.1007/s00203-026-05135-7",
+      "source": "PubMed — Archives of microbiology",
+      "one_liner": "This study explored the immunomodulatory properties of the probiotic strains Lacticaseibacillus rhamnosus LR-32 and Lactobacillus acidophilus LA-5 by evaluating their effects on human dendritic cell (DC) responses. Immature DCs were obtained from human CD14⁺ monocytes and challenged with E. coli LPS and/or probiotic lactobacilli at a DC ratio of 1:10. Rel...",
+      "segment": 13,
+      "timestamp": 778.1
+    },
+    {
+      "title": "Pathogenic mechanisms of Aeromonas hydrophila and the protective role of probiotics in sustainable aquaculture.",
+      "url": "https://doi.org/10.1007/s00203-026-05138-4",
+      "source": "PubMed — Archives of microbiology",
+      "one_liner": "Aeromonas hydrophila (A. hydrophila) is a pervasive opportunistic fish pathogen responsible for hemorrhagic septicemia and gastrointestinal disease and, together with other motile aeromonads (e.g., A. veronii, A. caviae, and A. dhakensis), for motile aeromonad septicemia (MAS), which cause significant economic losses in the global freshwater aquaculture i...",
+      "segment": 14,
+      "timestamp": 912.23
+    },
+    {
+      "title": "Characterizing the role of the urobiome in the pathogenesis of recurrent urinary tract infections (rUTIs): a systematic review.",
+      "url": "https://doi.org/10.1007/s11255-026-05317-8",
+      "source": "PubMed — International urology and nephrology",
+      "one_liner": "PURPOSE: Recurrent urinary tract infections (rUTIs) are associated with substantial morbidity, repeated antibiotic exposure, and increasing antimicrobial resistance. Emerging evidence suggests that alterations in the urinary microbiome (urobiome) may contribute to rUTI pathogenesis. This systematic review evaluated the role of the urobiome in the developm...",
+      "segment": 15,
+      "timestamp": 1010.77
+    },
+    {
+      "title": "Beyond Passive Congestion: The Inflammatory Gut-Liver Axis in Fontan Circulation.",
+      "url": "https://doi.org/10.1007/s00246-026-04418-6",
+      "source": "PubMed — Pediatric cardiology",
+      "one_liner": "Fontan circulation has traditionally been viewed as passive venous congestion caused by absence of a subpulmonary ventricle. Emerging multi-omic data suggest a broader inflammatory gut-liver-heart syndrome. This viewpoint integrates findings from metabolomics, lipidomics, microbiome-derived metabolites, cytokine-chemokine profiling, and tryptophan-kynuren...",
+      "segment": 16,
+      "timestamp": 1126.04
+    },
+    {
+      "title": "Gut microbial DL-endopeptidase protects against alcohol-associated liver disease via hepatocyte NOD2 signaling.",
+      "url": "https://doi.org/10.1016/j.freeradbiomed.2026.08.020",
+      "source": "PubMed — Free radical biology & medicine",
+      "one_liner": "Chronic alcohol consumption disrupts gut-liver homeostasis not only by inducing direct hepatotoxic injury, but also by perturbing host-microbial defense mechanisms that normally protect the liver from metabolic and inflammatory stress. We show that hepatocyte-specific deletion of Nod2 exacerbates ethanol-induced steatosis, oxidative stress, and mitochondr...",
+      "segment": 17,
+      "timestamp": 1234.25
+    }
+  ]
+}
