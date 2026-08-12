@@ -1,0 +1,294 @@
+{
+  "timestamps": [
+    0.0,
+    117.62,
+    215.97,
+    327.71,
+    380.82,
+    427.83,
+    476.71,
+    506.83,
+    550.84,
+    592.52,
+    641.29,
+    697.11,
+    746.18,
+    794.49,
+    835.79,
+    879.42,
+    932.7,
+    980.62,
+    1029.36,
+    1073.3,
+    1205.66,
+    1322.89,
+    1375.23,
+    1420.61,
+    1774.25,
+    1819.05,
+    1864.74,
+    1906.67,
+    1955.84,
+    2056.08,
+    2180.59,
+    2510.73
+  ],
+  "items": [
+    {
+      "title": "Antisense transcription reveals disease-associated adaptations in the human gut microbiome.",
+      "url": "https://doi.org/10.1038/s41564-026-02442-z",
+      "source": "PubMed — Nature microbiology",
+      "one_liner": "The gut microbiome is a dynamic ecosystem in which microorganisms constantly adjust their transcriptional programmes. Here we developed metastrand, a framework that integrates strand-aware metatranscriptomics and metagenomics to quantify mRNAs and antisense RNAs (asRNAs) in complex microbial communities at gene-level resolution. In inflammatory bowel dise...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Dysbiosis of the oral-gut microbiome axis in a mouse model of depression.",
+      "url": "https://doi.org/10.1371/journal.pone.0355302",
+      "source": "PubMed — PloS one",
+      "one_liner": "This study aimed to characterize the alterations in both oral and gut microbiota in a mouse model of depression and to explore their potential role in the pathogenesis of major depressive disorder (MDD) through the oral-gut-brain axis. A depression model was established in male C57BL/6J mice using chronic social defeat stress (CSDS) paradigm. Depressive p...",
+      "segment": 1,
+      "timestamp": 117.62
+    },
+    {
+      "title": "Prevalence and chronology of colibactin-associated mutational processes and their microbiome spectra in Japanese colorectal cancer.",
+      "url": "https://doi.org/10.1038/s41588-026-02692-x",
+      "source": "PubMed — Nature genetics",
+      "one_liner": "The incidence of colorectal cancer (CRC) has risen in recent decades, with a disproportionate increase observed among younger individuals in Japan and other countries. The etiological contribution of the gut microbiota to CRC pathogenesis is recognized, yet the mechanisms involved remain to be fully clarified. Here we integrated whole-genome sequencing (W...",
+      "segment": 2,
+      "timestamp": 215.97
+    },
+    {
+      "title": "The Giardia secretome disrupts gut microbiota biofilms.",
+      "url": "https://doi.org/10.1016/j.pt.2026.07.011",
+      "source": "PubMed — Trends in parasitology",
+      "one_liner": "This review provides a state-of-the-art update on Giardia intestinalis pathogenesis and its immunomodulatory effects during enteric coinfections. We examine mechanisms underlying abnormalities in mucus structure and glycosylation, alongside parasite-induced alterations in host immunity. Recent evidence reveals a protective role for gut microbiota biofilms...",
+      "segment": 3,
+      "timestamp": 327.71
+    },
+    {
+      "title": "Surfactant-tailored alginate/pectin hydrogel beads delivering polydeoxyribonucleotide for inflammatory symptom alleviation and gut microbiota regulation.",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2026.154008",
+      "source": "PubMed — International journal of biological macromolecules",
+      "one_liner": "Inflammatory bowel disease (IBD) is a condition characterized by high incidence and severe detrimental impact, which strongly associated with excessive oxidative stress. Polydeoxyribonucleotide (PDRN), a natural bioactive compound with demonstrated antioxidant and anti-inflammatory properties, presents a promising therapeutic candidate. To enhance targete...",
+      "segment": 4,
+      "timestamp": 380.82
+    },
+    {
+      "title": "Engineered PEA-producing Lactobacillus paracasei F19 prevents colitis-associated colorectal cancer in mice by modulating inflammatory-angiogenic signaling and beneficially reshapes gut microbiota composition.",
+      "url": "https://doi.org/10.1016/j.biopha.2026.119838",
+      "source": "PubMed — Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "one_liner": "Colitis-associated colorectal cancer (CAC) arises from the interplay between chronic inflammation, epithelial dysregulation, angiogenesis, and microbiota alterations. Palmitoylethanolamide (PEA) is an endogenous lipid mediator with anti-inflammatory and anti-angiogenic properties, but despite its promise, insufficient bioavailability at the intestinal muc...",
+      "segment": 5,
+      "timestamp": 427.83
+    },
+    {
+      "title": "Role of Circulating Immune Cells in Mediating the Effect of Gut Microbiota on Central Serous Chorioretinopathy: A Mendelian Randomization and Mediation Analysis.",
+      "url": "https://doi.org/10.1080/02713683.2026.2694111",
+      "source": "PubMed — Current eye research",
+      "one_liner": "PURPOSE: Recent observational studies have revealed gut microbiota influences the development and progression of several retinal diseases. However, the causal relationship between gut microbiota and central serous chorioretinopathy (CSCR) are still not understood. METHODS: The data of gut microbiota and circulating immune cell traits were identifed from l...",
+      "segment": 6,
+      "timestamp": 476.71
+    },
+    {
+      "title": "Global gut microbiome atlas identifies epidemiologic-stage-specific signatures in inflammatory bowel disease.",
+      "url": "https://doi.org/10.1016/j.xcrm.2026.102974",
+      "source": "PubMed — Cell reports. Medicine",
+      "one_liner": "The global rise of inflammatory bowel disease (IBD) reflects environmental shifts, yet how these changes are embedded in the gut microbial ecology remains unclear. We construct a microbiome atlas comprising 245,627 profiles. By classifying countries into three epidemiologic stages, we establish a framework. As the IBD burden increases, the gut microbial a...",
+      "segment": 7,
+      "timestamp": 506.83
+    },
+    {
+      "title": "Gut microbiome: a key driver and therapeutic target of intestinal fibrosis in Crohn's disease.",
+      "url": "https://doi.org/10.5217/ir.2026.00013",
+      "source": "PubMed — Intestinal research",
+      "one_liner": "Intestinal fibrosis is a debilitating complication of Crohn's disease that often leads to stricture formation, requiring surgical intervention. Despite its clinical significance, effective anti-fibrotic therapies remain an unmet need. Emerging evidence highlights the gut microbiome as a central orchestrator of fibrogenesis, beyond its role in inflammation...",
+      "segment": 8,
+      "timestamp": 550.84
+    },
+    {
+      "title": "Correction: Pathology-derived clinical micro-architectural diagnostics of tumour-microbiome interactions in colorectal cancer.",
+      "url": "https://doi.org/10.1186/s12967-026-08715-9",
+      "source": "PubMed — Journal of translational medicine",
+      "one_liner": "",
+      "segment": 9,
+      "timestamp": 592.52
+    },
+    {
+      "title": "Bifid triple viable tablets are associated with renal biochemical improvement and qualitative gastrointestinal changes in 5/6-nephrectomized rats: An exploratory microbiome-metabolome study.",
+      "url": "https://doi.org/10.1016/j.bbagen.2026.130987",
+      "source": "PubMed — Biochimica et biophysica acta. General subjects",
+      "one_liner": "BACKGROUND: Chronic kidney disease (CKD) is accompanied by renal injury, gut-barrier disruption, dysbiosis, inflammation, and disordered iron regulation. We examined whether a clinical multi-strain probiotic produces coordinated renal, intestinal, and metabolic effects in experimental CKD. METHODS: Male Sprague-Dawley rats underwent 5/6 nephrectomy (5/6 N...",
+      "segment": 10,
+      "timestamp": 641.29
+    },
+    {
+      "title": "Antibiotic Mixture Exposure in Meconium Affects Child Neurodevelopment via Altering Early-Life Gut Microbiome and Metabolome.",
+      "url": "https://doi.org/10.1016/j.envpol.2026.128942",
+      "source": "PubMed — Environmental pollution (Barking, Essex : 1987)",
+      "one_liner": "Previous evidence has established associations of antibiotic exposure in early life with neurodevelopmental disorders. However, previous studies have often relied on self-reported or record-based exposure measures that may not accurately reflect internal fetal exposure, and few have integrated prenatal exposure biomarkers with infant microbiome, metabolom...",
+      "segment": 11,
+      "timestamp": 697.11
+    },
+    {
+      "title": "Resistome and microbiome-immune interactions in an Eastern European population with high antibiotic use.",
+      "url": "https://doi.org/10.1128/spectrum.00528-26",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "The gut microbiome influences host health, affecting gastrointestinal, metabolic, immune, cardiovascular, and neurological functions. A balanced microbiome is associated with favorable health outcomes. However, excessive antibiotic use and dietary habits can disrupt this ecosystem, leading to dysbiosis and affecting body homeostasis. This first comprehens...",
+      "segment": 12,
+      "timestamp": 746.18
+    },
+    {
+      "title": "A gut microbiome-lipid axis in early pregnancy is associated with metabolic dysregulation and diabetes risk.",
+      "url": "https://doi.org/10.1002/imt2.70166",
+      "source": "PubMed — iMeta",
+      "one_liner": "Gestational diabetes mellitus (GDM) reflects metabolic dysregulation that becomes clinically apparent during pregnancy and shares key pathophysiological features with broader forms of diabetes. Gut microbiome-host metabolic interactions may contribute to this process, yet their role in early pregnancy remains incompletely understood. In this prospective n...",
+      "segment": 13,
+      "timestamp": 794.49
+    },
+    {
+      "title": "Oral Nicotine Pouch Use and Associations with Periodontal Status and Salivary Microbiome Dysbiosis.",
+      "url": "https://doi.org/10.1177/23800844261469532",
+      "source": "PubMed — JDR clinical and translational research",
+      "one_liner": "OBJECTIVES: Oral nicotine pouches (ONPs) are increasing in use, yet data on potential oral health effects are scarce. We evaluated whether ONP use is associated with clinical periodontal measures and salivary microbiome dysbiosis in a field-based regional sample. We recruited firefighters, as this population has historically featured an elevated prevalenc...",
+      "segment": 14,
+      "timestamp": 835.79
+    },
+    {
+      "title": "Lower Respiratory Microbiome Dysbiosis Is Associated With Poor Prognosis in Acute Severe Lower Respiratory Tract Infection.",
+      "url": "https://doi.org/10.1002/mco2.70907",
+      "source": "PubMed — MedComm",
+      "one_liner": "Acute severe lower respiratory tract infections (asLRTIs) pose a significant clinical challenge, especially in critically ill patients, but the role of the lower respiratory tract microbiome (LRTM) remains unclear. This study aimed to characterize LRTM composition and host immune factors to identify prognostic features of clinical outcomes. The study incl...",
+      "segment": 15,
+      "timestamp": 879.42
+    },
+    {
+      "title": "Melatonin system integrity shapes gut-brain interaction in schizophrenia-derived microbiota transplant phenotype in mice.",
+      "url": "https://doi.org/10.1016/j.lfs.2026.124633",
+      "source": "PubMed — Life sciences",
+      "one_liner": "AIMS: This study investigates whether the melatonin (MLT) system modulates the behavioral, neurophysiological and neurochemical effects of fecal microbiota transplantation (FMT) from individuals with schizophrenia (SCZ), highlighting the role of the tryptophan (Trp) to MLT and kynurenine (Kyn) pathways. MATERIALS AND METHODS: FMT was performed using fecal...",
+      "segment": 16,
+      "timestamp": 932.7
+    },
+    {
+      "title": "Microbiota-derived isovalerate ameliorates sex-specific gut barrier dysfunction in malnutrition.",
+      "url": "https://doi.org/10.1073/pnas.2611392123",
+      "source": "PubMed — Proceedings of the National Academy of Sciences of the United States of America",
+      "one_liner": "Malnutrition increases intestinal permeability and the risk of sepsis, yet mechanisms underlying malnutrition-induced gut barrier dysfunction are poorly defined. Here, we aimed to determine how the gut microbiome and microbiota-derived metabolites influence intestinal barrier function in the malnourished host. We induced malnutrition in specific pathogen-...",
+      "segment": 17,
+      "timestamp": 980.62
+    },
+    {
+      "title": "Integrated multi-omics analysis identifies microbial and metabolic signatures and drivers of CNS autoimmunity.",
+      "url": "https://doi.org/10.1128/msystems.00002-26",
+      "source": "PubMed — mSystems",
+      "one_liner": "Multiple sclerosis (MS) is an autoimmune disease of the central nervous system (CNS), driven by genetic and environmental determinants. The gut microbiome of people with MS (pwMS) is distinct and influences disease through immunomodulatory metabolite production. Circulating metabolites are altered in pwMS, but identifying microbial-metabolic drivers remai...",
+      "segment": 18,
+      "timestamp": 1029.36
+    },
+    {
+      "title": "Microbiotas from extremely preterm infants with growth faltering impair postnatal growth and metabolism in mice.",
+      "url": "https://doi.org/10.1172/jci.insight.199097",
+      "source": "PubMed — JCI insight",
+      "one_liner": "Postnatal growth faltering is a pervasive problem among extremely preterm infants that is independently associated with adverse neurodevelopmental outcomes. We previously observed that preterm infants with poor postnatal growth have altered development of the intestinal microbiota relative to preterm infants with appropriate postnatal growth. Here, we use...",
+      "segment": 19,
+      "timestamp": 1073.3
+    },
+    {
+      "title": "Impact of acetaminophen on the growth kinetics and metabolite production of probiotic lactic acid bacteria.",
+      "url": "https://doi.org/10.1007/s10529-026-03765-x",
+      "source": "PubMed — Biotechnology letters",
+      "one_liner": "Bacterial interactions within the human gut microbiota are dynamic and closely linked to host health. These interactions are time-dependent and can be modulated by probiotic bacteria through metabolite production, environmental modification such as pH changes, and niche occupation. However, commonly used human-targeted drugs may alter these microbial dyna...",
+      "segment": 20,
+      "timestamp": 1205.66
+    },
+    {
+      "title": "The Exposome-Autoimmunity Axis: Environmental Xenobiotics, Gut Dysbiosis, and Potential Pathways to Immunosenescence.",
+      "url": "https://doi.org/10.1016/j.fct.2026.116331",
+      "source": "PubMed — Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association",
+      "one_liner": "The escalating incidence of autoimmune diseases cannot be fully explained by genetics alone. It is increasingly linked to the exposome-the cumulative burden of lifelong environmental exposures. This review examines how pollutants (particulate matter, microplastics, agrochemicals, heavy metals) reshape the gut microbiota-immune axis and disrupt intestinal ...",
+      "segment": 21,
+      "timestamp": 1322.89
+    },
+    {
+      "title": "Bile acids as mediators of microbiota signaling in entero-hepatic disorders.",
+      "url": "https://doi.org/10.1016/j.bcp.2026.118341",
+      "source": "PubMed — Biochemical pharmacology",
+      "one_liner": "This review examines the structure and the functional role of the signaling network formed by bile acids as their receptors in mediating chemical communication between the intestinal microbiota and host in entero-hepatic disorders, such as inflammatory bowel disease (IBD) and Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD). In the last de...",
+      "segment": 22,
+      "timestamp": 1375.23
+    },
+    {
+      "title": "A qPCR-based approach targeting the microbial gene marker",
+      "url": "https://doi.org/10.1177/1877718X261462342",
+      "source": "PubMed — Journal of Parkinson's disease",
+      "one_liner": "BackgroundParkinson's disease (PD) is a multifactorial neurodegenerative disorder increasingly linked to gut microbiota alterations. However, despite advances in fecal microbiota profiling as a non-invasive approach to disease risk assessment, its clinical utility remains limited by a lack of functionally relevant microbial biomarkers.ObjectiveThis cross-...",
+      "segment": 23,
+      "timestamp": 1420.61
+    },
+    {
+      "title": "Exploring the hypothetical role of",
+      "url": "https://doi.org/10.1128/spectrum.03153-24",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "Depression, a psychiatric disorder with significant morbidity and mortality, has a complex etiology. Recent advances in microbiome research have highlighted the potential role of fecal microbiota in depression pathogenesis. This study utilized shotgun metagenomic sequencing to compare the fecal microbiota of 28 depression patients and 26 healthy individua...",
+      "segment": 24,
+      "timestamp": 1774.25
+    },
+    {
+      "title": "Myokines, Microbiota, and Neuroinflammation: Physical Activity Modulates the Gut-Brain Axis.",
+      "url": "https://doi.org/10.1080/08820139.2026.2689670",
+      "source": "PubMed — Immunological investigations",
+      "one_liner": "BACKGROUND: Neurodegenerative diseases such as Alzheimer's disease, Parkinson's disease, and amyotrophic lateral sclerosis are increasingly recognized as disorders influenced not only by intrinsic neural pathology but also by systemic physiological networks, including the gut-brain axis. Emerging evidence highlights physical activity as a potent modulator...",
+      "segment": 25,
+      "timestamp": 1819.05
+    },
+    {
+      "title": "Development and Functional Evaluation of a Pharmabiotic Food Supplement Containing Microencapsulated",
+      "url": "https://doi.org/10.1002/fsn3.72243",
+      "source": "PubMed — Food science & nutrition",
+      "one_liner": "Oral microbiome dysbiosis is associated with biofilm-related diseases, including dental caries and periodontal infections. This study aimed to develop and evaluate a pharmabiotic oral spray containing microencapsulated Lactiplantibacillus pentosus, sodium hyaluronate, and licorice (",
+      "segment": 26,
+      "timestamp": 1864.74
+    },
+    {
+      "title": "Root Metabolic Shifts Drive Genome-Resolved Cometabolism of Phthalates and Coupled Humification in Mollisols.",
+      "url": "https://doi.org/10.1021/acs.est.6c05506",
+      "source": "PubMed — Environmental science & technology",
+      "one_liner": "Extensive import of mixed phthalate esters (PAEs) threatens Mollisol ecosystems. Nevertheless, mechanisms through which plant roots orchestrate the cometabolic degradation of PAEs and couple this with soil humification remain unclear. This study integrated plant physiology, untargeted metabolomics, and genome-resolved metagenomics to decipher response tra...",
+      "segment": 27,
+      "timestamp": 1906.67
+    },
+    {
+      "title": "Oral nano-delivery of a gut microbial metabolite enhances T cell stemness for cancer immunotherapy.",
+      "url": "https://doi.org/10.1038/s41565-026-02235-9",
+      "source": "PubMed — Nature nanotechnology",
+      "one_liner": "Gut microbial metabolites play crucial roles in regulating systemic immunity, but their mechanisms and limited drug-like properties remain unresolved. Here we report an oral nano-formulation that leverages gut microbial metabolites to modulate T cell metabolism and amplify antitumour immunity. Through an in vitro screening of gut microbial metabolites, we...",
+      "segment": 28,
+      "timestamp": 1955.84
+    },
+    {
+      "title": "Microbial community restoration in abandoned coal mine lands: ecological assembly, functional mechanisms, and restoration strategies.",
+      "url": "https://doi.org/10.1007/s00203-026-05130-y",
+      "source": "PubMed — Archives of microbiology",
+      "one_liner": "Coal mining creates coupled physicochemical stresses, including extreme pH, nutrient depletion, metal enrichment, compaction, and loss of plant-derived carbon, that reduce microbial biomass, simplify interaction networks, and suppress biogeochemical functions. This review synthesizes recent evidence on microbial community restoration in abandoned coal min...",
+      "segment": 29,
+      "timestamp": 2056.08
+    },
+    {
+      "title": "Hemerocallis lilioasphodelus root water extract ameliorates non-alcoholic fatty liver disease by regulating the gut-liver axis and activating AMPK-mediated lipid metabolism: an integrated study based on metabolomics and 16S rRNA sequencing.",
+      "url": "https://doi.org/10.1016/j.jep.2026.122287",
+      "source": "PubMed — Journal of ethnopharmacology",
+      "one_liner": "ETHNOPHARMACOLOGICAL RELEVANCE: Hemerocallis lilioasphodelus L. is a traditional medicinal herb used for liver and spleen disorders. However, its pharmacological effects and underlying mechanisms against nonalcoholic fatty liver disease (NAFLD) remain unclear. AIM OF THE STUDY: This study aimed to investigate the protective effects of Hemerocallis lilioas...",
+      "segment": 30,
+      "timestamp": 2180.59
+    },
+    {
+      "title": "Geographic Variation in Diagnostic Performance of Amsel Criteria and Nugent Score for Vaginal Dysbiosis Defined by 16S rRNA Gene Sequencing.",
+      "url": "https://doi.org/10.1093/infdis/jiag399",
+      "source": "PubMed — The Journal of infectious diseases",
+      "one_liner": "BACKGROUND: Vaginal dysbiosis characterized by low abundance of vaginal lactobacilli and increased bacterial community diversity, is implicated in multiple adverse health outcomes and is an emerging target for preventive interventions, including live biotherapeutic products (LBPs). The most common clinical presentation of vaginal dysbiosis is bacterial va...",
+      "segment": 31,
+      "timestamp": 2510.73
+    }
+  ]
+}

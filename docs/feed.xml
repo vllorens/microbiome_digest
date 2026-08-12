@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Aug 2026 04:31:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 05:13:57 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-08-12</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-12/podcast_2026-08-12.mp3</guid>
+      <pubDate>Wed, 12 Aug 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-12/podcast_2026-08-12.mp3" length="19069988" type="audio/mpeg" />
+      <description>The study introduces metastrand, a computational framework designed to capture both messenger RNAs and antisense RNAs from complex microbial communities at the level of individual genes. | The available text does not provide details on the specific biological findings, such as which genes showed altered antisense expression, how those changes correlated with host inflammation, or any validation experiments performed. | What is clear is that metastrand expands the analytical toolbox for metatranscriptomics by explicitly measuring antisense RNAs, which are often overlooked in standard pipelines.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>The study introduces metastrand, a computational framework designed to capture both messenger RNAs and antisense RNAs from complex microbial communities at the level of individual genes. | The available text does not provide details on the specific biological findings, such as which genes showed altered antisense expression, how those changes correlated with host inflammation, or any validation experiments performed. | What is clear is that metastrand expands the analytical toolbox for metatranscriptomics by explicitly measuring antisense RNAs, which are often overlooked in standard pipelines.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-08-11</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-11/podcast_2026-08-11.mp3</guid>
       <pubDate>Tue, 11 Aug 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-11/podcast_2026-08-11.mp3" length="9669044" type="audio/mpeg" />
-      <description>Alkali treatment and amidation of citrus pectin change how much naringin becomes available during digestion and how the gut microbial community responds, according to a study in the Journal of the Science of Food and Agriculture accessed via PubMed. | Profiling the aromatic amino acid metabolome in the human gut microbiota shows that these privileged substrates generate a diverse array of bioactive metabolites, uncovering a previously hidden chemical richness. | The systematic review titled *Microbiome‑Driven Therapeutic Strategies for Type 2 Diabetes: A Systematic Review of Microbiota Modulation, Glycaemic Outcomes, and Transplantation* surveys the current evidence linking gut microbiome alterations to type 2 diabetes mellitus and evaluates interventions that target the microbiota to improve glycaemic control.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-11/podcast_2026-08-11.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Alkali treatment and amidation of citrus pectin change how much naringin becomes available during digestion and how the gut microbial community responds, according to a study in the Journal of the Science of Food and Agriculture accessed via PubMed. | Profiling the aromatic amino acid metabolome in the human gut microbiota shows that these privileged substrates generate a diverse array of bioactive metabolites, uncovering a previously hidden chemical richness. | The systematic review titled *Microbiome‑Driven Therapeutic Strategies for Type 2 Diabetes: A Systematic Review of Microbiota Modulation, Glycaemic Outcomes, and Transplantation* surveys the current evidence linking gut microbiome alterations to type 2 diabetes mellitus and evaluates interventions that target the microbiota to improve glycaemic control.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-27/podcast_2026-05-27.mp3</guid>
       <pubDate>Wed, 27 May 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-27/podcast_2026-05-27.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-05-26</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-26/podcast_2026-05-26.mp3</guid>
-      <pubDate>Tue, 26 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-26/podcast_2026-05-26.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
