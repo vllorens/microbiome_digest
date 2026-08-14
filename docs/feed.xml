@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Aug 2026 05:15:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 04:54:57 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-08-14</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-14/podcast_2026-08-14.mp3</guid>
+      <pubDate>Fri, 14 Aug 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-14/podcast_2026-08-14.mp3" length="14952140" type="audio/mpeg" />
+      <description>A new microbiome‑aware computational framework links machine learning with genome‑scale metabolic models to predict synergistic drug combinations for colorectal cancer. | The paper’s core aim, as stated in its objective, was to pinpoint and rank host‑derived immune candidates that are linked to gut‑microbiota metabolites in patients with high‑risk primary biliary cholangitis (PBC) by means of an integrative multi‑omics pipeline followed by external validation. | We need to write a deep dive segment based only on provided item block and notes.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>A new microbiome‑aware computational framework links machine learning with genome‑scale metabolic models to predict synergistic drug combinations for colorectal cancer. | The paper’s core aim, as stated in its objective, was to pinpoint and rank host‑derived immune candidates that are linked to gut‑microbiota metabolites in patients with high‑risk primary biliary cholangitis (PBC) by means of an integrative multi‑omics pipeline followed by external validation. | We need to write a deep dive segment based only on provided item block and notes.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-08-13</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-13/podcast_2026-08-13.mp3</guid>
       <pubDate>Thu, 13 Aug 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-13/podcast_2026-08-13.mp3" length="19562708" type="audio/mpeg" />
-      <description>Uric acid directly reshapes the gut microbiome to drive obesity, according to Tian et al. | A new review in Current Opinion in Insect Science (PubMed) shows that the gut microbiota of lepidopteran insects does more than block gut pathogens—it actively shapes antiviral immunity, forming a microbiome‑immunity‑virus axis. | Burial of rat carcasses triggers a predictable shift in both the resident microbiome and the antibiotic‑resistance gene (resistome) profile as decomposition progresses, according to a new mSphere study.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-13/podcast_2026-08-13.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Uric acid directly reshapes the gut microbiome to drive obesity, according to Tian et al. | A new review in Current Opinion in Insect Science (PubMed) shows that the gut microbiota of lepidopteran insects does more than block gut pathogens—it actively shapes antiviral immunity, forming a microbiome‑immunity‑virus axis. | Burial of rat carcasses triggers a predictable shift in both the resident microbiome and the antibiotic‑resistance gene (resistome) profile as decomposition progresses, according to a new mSphere study.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-29/podcast_2026-05-29.mp3</guid>
       <pubDate>Fri, 29 May 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-29/podcast_2026-05-29.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-05-28</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-28/podcast_2026-05-28.mp3</guid>
-      <pubDate>Thu, 28 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-28/podcast_2026-05-28.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>

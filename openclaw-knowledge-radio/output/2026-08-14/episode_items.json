@@ -1,0 +1,186 @@
+{
+  "timestamps": [
+    0.0,
+    45.93,
+    163.31,
+    734.7,
+    867.08,
+    979.97,
+    1037.88,
+    1079.11,
+    1122.54,
+    1249.86,
+    1297.28,
+    1343.72,
+    1385.11,
+    1433.97,
+    1477.48,
+    1523.8,
+    1567.02,
+    1701.53,
+    1821.94,
+    1927.39
+  ],
+  "items": [
+    {
+      "title": "Modeling microbiome modulation of tumor metabolic networks to predict synergistic therapies.",
+      "url": "https://doi.org/10.1016/j.crmeth.2026.101549",
+      "source": "PubMed — Cell reports methods",
+      "one_liner": "Differences in microbiome composition profoundly influence drug response, yet methods to model the metabolic impact of microbes on host cells and therapeutics remain limited. We present a microbiome-aware computational framework combining machine learning and genome-scale metabolic models to predict combination therapies for colorectal cancer (CRC) in the...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Integrative bioinformatics analysis identifies gut microbiota-derived metabolite-associated immune candidate targets in high-risk primary biliary cholangitis.",
+      "url": "https://doi.org/10.1371/journal.pone.0356008",
+      "source": "PubMed — PloS one",
+      "one_liner": "OBJECTIVE: This study aimed to identify and prioritize gut microbiota-derived metabolite-associated host candidate targets in high-risk primary biliary cholangitis (PBC) through integrative multi-omics analysis and external validation. METHODS: Differentially expressed genes between high-risk and low-risk PBC liver samples were identified using GSE79850. ...",
+      "segment": 1,
+      "timestamp": 45.93
+    },
+    {
+      "title": "Study protocol: Effect of inulin supplementation on gut microbiota in patients with oral lichen planus - A double-blind, randomised, placebo-controlled parallel-group trial.",
+      "url": "https://doi.org/10.1371/journal.pone.0356180",
+      "source": "PubMed — PloS one",
+      "one_liner": "Oral lichen planus is a chronic inflammatory disease of the oral mucosa characterised by immune dysregulation, but its pathogenesis remains incompletely understood and no curative treatment has been established. Our previous work showed that patients with oral lichen planus exhibit gut dysbiosis, including reduced microbial diversity and depletion of buty...",
+      "segment": 2,
+      "timestamp": 163.31
+    },
+    {
+      "title": "Association Between Gut Microbiota Dysbiosis and Bilirubin Metabolism Dysregulation in Children with Heart Failure.",
+      "url": "https://doi.org/10.1007/s12265-026-10834-z",
+      "source": "PubMed — Journal of cardiovascular translational research",
+      "one_liner": "Patients with heart failure (HF) demonstrate dysregulation in bilirubin metabolism. The specific characteristics of intestinal bilirubin metabolism in HF remain unclear. This study involved metagenomic sequencing and metabolomic profiling of fecal samples from 45 children with HF and 32 healthy children. Serum total bilirubin levels were 11.3umol/L, 19.4u...",
+      "segment": 3,
+      "timestamp": 734.7
+    },
+    {
+      "title": "Treatment with Roseburia intestinalis Relieves Symptoms of Chronic Kidney Disease (CKD) by Altering the Gut Microbiota and Increasing the Levels of Fecal SCFAs in Adriamycin-Induced CKD Rats.",
+      "url": "https://doi.org/10.1007/s00284-026-05084-w",
+      "source": "PubMed — Current microbiology",
+      "one_liner": "This study investigated the therapeutic potential of the probiotic Roseburia intestinalis (R. intestinalis) in alleviating chronic kidney disease (CKD) symptoms and explored whether these effects are mediated through the modulation of the gut microbiota and fecal short-chain fatty acids (SCFAs). An Adriamycin (ADR)-induced CKD rat model was established, a...",
+      "segment": 4,
+      "timestamp": 867.08
+    },
+    {
+      "title": "Gut microbiota-derived TMA/TMAO and IRAK4 signaling in type 2 diabetes: Current evidence, knowledge gaps and future therapeutic opportunities.",
+      "url": "https://doi.org/10.1016/j.intimp.2026.117240",
+      "source": "PubMed — International immunopharmacology",
+      "one_liner": "Diabetes mellitus type 2 (T2DM) is now considered an immunometabolic condition with a long-term low-grade inflammatory state, insulin resistance, and host-microbiome interactions. Emerging evidence suggests that gut microbiota-derived trimethylamine (TMA), its hepatic metabolite trimethylamine N-oxide (TMAO), and IRAK4-mediated innate immune signaling may...",
+      "segment": 5,
+      "timestamp": 979.97
+    },
+    {
+      "title": "Gut microbiota dysbiosis and plasma lipidomic signatures in systemic lupus erythematosus.",
+      "url": "https://doi.org/10.1177/09612033261477298",
+      "source": "PubMed — Lupus",
+      "one_liner": "ObjectivesSystemic lupus erythematosus (SLE) is a major autoimmune disease. Recent studies have found that changes in lipid metabolism and gut microbes are associated with the pathogenesis of SLE. However, the coordination of gut commensal bacteria and SLE lipid metabolism is not clear.MethodsGut microbiota profiling was performed using 16S rRNA gene sequ...",
+      "segment": 6,
+      "timestamp": 1037.88
+    },
+    {
+      "title": "Gut microbiota-derived imidazole propionate predicts cardiometabolic risk in patients with coronary artery disease.",
+      "url": "https://doi.org/10.1093/eurheartj/ehaf661",
+      "source": "PubMed — European heart journal",
+      "one_liner": "BACKGROUND AND AIMS: The gut microbiota is a modulator of cardiometabolic disease. Circulating imidazole propionate (ImP) is a microbiota-derived proatherogenic amino acid metabolite modulating the inflammatory response of myeloid cells, endothelial function, and glucose metabolism. This study examined the prognostic value of ImP in patients with coronary...",
+      "segment": 7,
+      "timestamp": 1079.11
+    },
+    {
+      "title": "Maternal influences on infant gut microbiome and health.",
+      "url": "https://doi.org/10.1038/s41586-026-10922-9",
+      "source": "PubMed — Nature",
+      "one_liner": "The establishment of the infant gut microbiome is critical for later health",
+      "segment": 8,
+      "timestamp": 1122.54
+    },
+    {
+      "title": "The association of gut microbiome composition with musculoskeletal features in middle-aged and older adults: A two-cohort joint study.",
+      "url": "https://doi.org/10.1016/j.bone.2026.118051",
+      "source": "PubMed — Bone",
+      "one_liner": "BACKGROUND: Bones and muscles are connected chemically, anatomically, and functionally. While animal studies suggest the gut microbiome influences musculoskeletal aging, human evidence remains limited. We assessed associations between musculoskeletal phenotypes and gut microbiome composition in community-dwelling middle-aged and older adults. METHODS: We ...",
+      "segment": 9,
+      "timestamp": 1249.86
+    },
+    {
+      "title": "Hydrological regime modulates nitrogen retention-removal shifts in a glacier-oasis alpine river by restructuring multi-trophic interactions and microbial assembly.",
+      "url": "https://doi.org/10.1016/j.jenvman.2026.130604",
+      "source": "PubMed — Journal of environmental management",
+      "one_liner": "Nitrogen (N) cycling in glacier-oasis alpine rivers exhibits distinct spatiotemporal patterns driven by multi-trophic community interactions. This study integrated 16S/18S rRNA sequencing with metagenomic analysis to investigate N-transformation dynamics across trophic levels and their response to varying hydrological regimes. The α-diversity of multi-tro...",
+      "segment": 10,
+      "timestamp": 1297.28
+    },
+    {
+      "title": "Natural Products for Depression: Preclinical Insights into Microbiota-Gut-Brain Axis Modulation and Pharmacological Potential.",
+      "url": "https://doi.org/10.1016/j.phrs.2026.108390",
+      "source": "PubMed — Pharmacological research",
+      "one_liner": "The microbiota-gut-brain axis (MGBA) is progressively associated with the pathophysiology of depression. This analysis consolidates existing preclinical findings on MGBA mechanisms associated with depression and assesses natural-product therapies through three key metabolite-related pathways: bile acid-responsive signaling via the farnesoid X receptor, G ...",
+      "segment": 11,
+      "timestamp": 1343.72
+    },
+    {
+      "title": "Systematic Screening of Tryptophan Metabolism Identifies Site- and Microbiota-Dependent Signatures of Tryptophan Utilization in Experimental Colitis.",
+      "url": "https://doi.org/10.1177/11786469261472316",
+      "source": "PubMed — International journal of tryptophan research : IJTR",
+      "one_liner": "BACKGROUND: Altered tryptophan (Trp) metabolism and disrupted nicotinamide adenine dinucleotide (NAD METHODS: We used targeted metabolomics to systematically profile Trp- and NAD RESULTS: Microbial depletion significantly attenuated colitis and increased host Trp bioavailability, implicating the gut microbiota as a competitive Trp consumer. In DSS colitis...",
+      "segment": 12,
+      "timestamp": 1385.11
+    },
+    {
+      "title": "Physiological Function of Inulin and Its Application in Livestock Production.",
+      "url": "https://doi.org/10.1111/jpn.70106",
+      "source": "PubMed — Journal of animal physiology and animal nutrition",
+      "one_liner": "Inulin is a natural, plant-derived soluble dietary fibre that functions as an indigestible carbohydrate and acts as a prebiotic. Inulin is fermented by the gut microbiota into short-chain fatty acids (SCFAs) in the rumen of ruminants and in the hindgut of monogastric animals. These SCFAs exert biological effects through activation of G protein-coupled rec...",
+      "segment": 13,
+      "timestamp": 1433.97
+    },
+    {
+      "title": "Occupational exposure to Baijiu fermentation environments alters nasal microbiota composition: a comparative analysis of Strong-flavor and Sesame-flavor production systems.",
+      "url": "https://doi.org/10.1128/spectrum.02202-25",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "UNLABELLED: Traditional Chinese Baijiu fermentation environments harbor complex microbial consortia critical for product quality, yet their effects on human nasal microbiota remain poorly characterized. This cross-sectional study compared nasal microbiota profiles of Strong-flavor ( IMPORTANCE: This study is the first to systematically compare how two maj...",
+      "segment": 14,
+      "timestamp": 1477.48
+    },
+    {
+      "title": "Crude proline modulates the microbiota-gut-brain axis by attenuating curli-associated α-synuclein accumulation and regulating Wnt/β-catenin signaling in Parkinson's disease.",
+      "url": "https://doi.org/10.1039/d6fo02214f",
+      "source": "PubMed — Food & function",
+      "one_liner": "This study investigated whether crude proline (CP), a metabolite fraction derived from heat-killed",
+      "segment": 15,
+      "timestamp": 1523.8
+    },
+    {
+      "title": "Integrated multi-omics reveals dysbiosis in hemodialysis patients: A multi-center study.",
+      "url": "https://doi.org/10.1371/journal.pone.0355698",
+      "source": "PubMed — PloS one",
+      "one_liner": "INTRODUCTION: The gut microbiome-metabolome interplay in hemodialysis (HD) patients remains poorly characterized. Using multi-omics approaches, we compared HD patients with healthy controls (HC) to identify microbial signatures, metabolic perturbations, and their integrated correlations. METHODS: This case-control study included 192 participants (96 HD-HC...",
+      "segment": 16,
+      "timestamp": 1567.02
+    },
+    {
+      "title": "Safety, tolerability, and gastrointestinal effect of a Bifidobacterium-based synergistic synbiotic in infants and toddlers.",
+      "url": "https://doi.org/10.1038/s41390-026-05318-4",
+      "source": "PubMed — Pediatric research",
+      "one_liner": "BACKGROUND: Bifidobacterium are critical components of the infant gut microbiome, yet most infants in developed countries are deficient. METHODS: The ARTEMIS trial is the first clinical study in the United States to evaluate a synergistic synbiotic supplement in infants. It enrolled 114 participants in a randomized, double-blind, placebo-controlled study ...",
+      "segment": 17,
+      "timestamp": 1701.53
+    },
+    {
+      "title": "Human milk oligosaccharides, brain structure, and cognitive development in infants: A narrative review.",
+      "url": "https://doi.org/10.17305/bb.2026.14466",
+      "source": "PubMed — Biomolecules & biomedicine",
+      "one_liner": "Human milk oligosaccharides (HMOs) are bioactive components of human milk that support gut microbial development and may also contribute to early brain maturation and cognitive function. This narrative review aimed to synthesize preclinical and clinical evidence on the associations between HMOs, brain structure, and neurodevelopment and to examine the bio...",
+      "segment": 18,
+      "timestamp": 1821.94
+    },
+    {
+      "title": "Gut Bacterial β-Glucuronidase Blockade by 1,3,4-Thiadiazole-Containing Thioester Inhibitors Mitigates Irinotecan-Induced Gastrointestinal Toxicity.",
+      "url": "https://doi.org/10.1021/acs.jmedchem.6c00742",
+      "source": "PubMed — Journal of medicinal chemistry",
+      "one_liner": "Gut microbial β-glucuronidase has attracted attention as a potential therapeutic target for mitigating irinotecan (CPT-11)-induced late-onset diarrhea and intestinal injury. Here, we designed and synthesized 60 thioester derivatives bearing a 1,3,4-thiadiazole moiety and evaluated their biological activities. In vitro, 3-5B (IC50 = 0.39 μM) exhibited pote...",
+      "segment": 19,
+      "timestamp": 1927.39
+    }
+  ]
+}
