@@ -1,0 +1,285 @@
+{
+  "timestamps": [
+    0.0,
+    48.88,
+    96.09,
+    138.56,
+    255.87,
+    368.04,
+    533.45,
+    664.03,
+    714.93,
+    759.49,
+    811.9,
+    851.04,
+    973.18,
+    1015.24,
+    1059.21,
+    1183.91,
+    1228.06,
+    1271.72,
+    1316.06,
+    1428.79,
+    1474.22,
+    1592.82,
+    1714.16,
+    1755.41,
+    1796.4,
+    1835.95,
+    1884.16,
+    1928.94,
+    1979.89,
+    2026.83,
+    2068.54
+  ],
+  "items": [
+    {
+      "title": "Lactobacillus rhamnosus modulates gut microbiota and tyrosine metabolism to potentiate PD-1-mediated anti-tumor immunity in triple-negative breast cancer.",
+      "url": "https://doi.org/10.1016/j.intimp.2026.116874",
+      "source": "PubMed — International immunopharmacology",
+      "one_liner": "Triple-negative breast cancer (TNBC) is an aggressive breast cancer (BC) subtype with limited benefit from immune checkpoint blockade (ICB) and frequent immune-related adverse events (irAEs). We achieved stable overexpression of PD-1 in tumor cells through intratumoral injection of a PD-1-overexpressing plasmid. The results indicated that intratumoral PD-...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Synthetic microbial communities: emerging live biotherapeutics for targeted gut microbiome modulation.",
+      "url": "https://doi.org/10.1080/19490976.2026.2719056",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Gut microbiome dysbiosis causes various intestinal diseases. However, an undefined composition and potential biosafety risks limit the applicability of traditional fecal microbiota transplantation (FMT). Synthetic microbial communities (SynComs), which are compositionally defined and rationally designed emerging live biotherapeutics, offer a novel alterna...",
+      "segment": 1,
+      "timestamp": 48.88
+    },
+    {
+      "title": "Gut microbiota as a driver of variable antihypertensive drug response: A narrative review.",
+      "url": "https://doi.org/10.1080/29933935.2026.2717017",
+      "source": "PubMed — Gut microbes reports",
+      "one_liner": "Hypertension is a major global burden to human health. Despite the availability of multiple classes of antihypertensive medications, a considerable number of patients still have uncontrolled or treatment-resistant hypertension. The gut microbiota is increasingly recognized as a regulator of blood pressure, and fecal microbiota transfer from hypertensive p...",
+      "segment": 2,
+      "timestamp": 96.09
+    },
+    {
+      "title": "Environmental enrichment attenuates chronic stress-induced disruptions in the gut microbiota, intestinal barrier, and brain.",
+      "url": "https://doi.org/10.1371/journal.pone.0355857",
+      "source": "PubMed — PloS one",
+      "one_liner": "Major depressive disorder is a prevalent mood disorder characterized by affective and cognitive impairment. Alterations in gut microbiota have been implicated in its pathophysiology, as stress-related microbial changes can disrupt intestinal barrier integrity and promote inflammatory activation along the microbiota-gut-brain axis. Although environmental e...",
+      "segment": 3,
+      "timestamp": 138.56
+    },
+    {
+      "title": "Gut microbiota alterations and their correlation with constipation in older adults with Alzheimer's disease or mild cognitive impairment: A cross-sectional study.",
+      "url": "https://doi.org/10.1097/MD.0000000000050227",
+      "source": "PubMed — Medicine",
+      "one_liner": "Previous studies have suggested a link between gut microbiota, constipation and Alzheimer's disease (AD) as well as mild cognitive impairment (MCI). In this study, we aimed to investigate the changes in the gut microbiota and their relationship with constipation in patients with AD and MCI. A total of 90 participants (30 with AD, 30 with MCI, and 30 norma...",
+      "segment": 4,
+      "timestamp": 255.87
+    },
+    {
+      "title": "Integrated analysis of the diabetic foot ulcer microbiome and host transcriptome supports a microenvironment-microbiota-host repair framework.",
+      "url": "https://doi.org/10.1007/s12020-026-04754-w",
+      "source": "PubMed — Endocrine",
+      "one_liner": "BACKGROUND: Diabetic foot ulcers (DFUs) arise from interacting clinical, microbial, and host processes, yet public datasets differ substantially in design, scale, and evidentiary strength. METHODS: We curated eight public DFU cohorts and defined an evidence hierarchy. PRJNA287759 was reprocessed from raw 16 S reads; outcome tests used one baseline sample ...",
+      "segment": 5,
+      "timestamp": 368.04
+    },
+    {
+      "title": "Melatonin Ameliorates Neuropathic Pain in Mice by Regulating Pyroptosis Through Gut Microbiota-Mediated Linoleic Acid.",
+      "url": "https://doi.org/10.1007/s12035-026-06124-z",
+      "source": "PubMed — Molecular neurobiology",
+      "one_liner": "Neuropathic pain (NP) presents a significant challenge for patients with chronic diseases, characterized by spontaneous pain and hyperalgesia, with recent studies highlighting the involvement of the gut microbiota in its pathogenesis. Increasing evidence suggests that melatonin mitigates systemic inflammation and remodels gut microbiota. The present study...",
+      "segment": 6,
+      "timestamp": 533.45
+    },
+    {
+      "title": "Astragalus polysaccharides ameliorate irinotecan-induced gut toxicity by regulating gut microbiota and suppressing the MAPK signaling.",
+      "url": "https://doi.org/10.1016/j.jep.2026.122312",
+      "source": "PubMed — Journal of ethnopharmacology",
+      "one_liner": "ETHNOPHARMACOLOGICAL RELEVANCE: Astragalus membranaceus var. mongholicus (Bunge) P.K.Hsiao (AM), a classic Qi-tonifying herb, has been widely used for treating a range of inflammatory diseases. Nevertheless, the protective effects of AM against irinotecan-induced gut toxicity (IGT) remains insufficiently characterized, while the active pharmacological fra...",
+      "segment": 7,
+      "timestamp": 664.03
+    },
+    {
+      "title": "Periodontitis in a Large Cohort of Young Chinese Adults: Associated Factors and Salivary Microbiome-Metabolome Profiles.",
+      "url": "https://doi.org/10.1016/j.identj.2026.109813",
+      "source": "PubMed — International dental journal",
+      "one_liner": "INTRODUCTION AND AIMS: Periodontitis is a chronic multifactorial inflammatory disease that damages periodontal tissues and is associated with systemic diseases. It shows a global younger onset trend, with rising incidence in Chinese young adults, but studies mostly focus on those ≥35 years, lacking systematic exploration of 18 to 35-year-olds. METHODS: Fr...",
+      "segment": 8,
+      "timestamp": 714.93
+    },
+    {
+      "title": "Harnessing the gut microbiome for MASLD management: opportunities and challenges.",
+      "url": "https://doi.org/10.1016/j.scib.2026.05.017",
+      "source": "PubMed — Science bulletin",
+      "one_liner": "",
+      "segment": 9,
+      "timestamp": 759.49
+    },
+    {
+      "title": "Ingestible probes for breath-based monitoring of drug-metabolizing activity from the microbiome.",
+      "url": "https://doi.org/10.1126/sciadv.aee2632",
+      "source": "PubMed — Science advances",
+      "one_liner": "Due to their effects on drug activity and safety, drug-metabolizing enzymes (DMEs) from the gut microbiome are attractive drug targets, and noninvasive strategies are needed to measure their activities. Here, we report the development of ingestible probes that sense and produce breath signals for β-glucuronidase (GUS), a microbiome DME that causes drug to...",
+      "segment": 10,
+      "timestamp": 811.9
+    },
+    {
+      "title": "Sex differences in the effects of shift work-like schedules on gut microbiome and intestinal barrier in relation to stroke survival.",
+      "url": "https://doi.org/10.1371/journal.pone.0355842",
+      "source": "PubMed — PloS one",
+      "one_liner": "Disturbances of 24-hour or circadian rhythms imposed by everyday irregular work and/or social schedules have been linked to vascular disease, including ischemic stroke. Using an established shift work-like paradigm and preclinical model for ischemic stroke, we have shown that environment-induced circadian dysregulation exacerbates stroke outcomes differen...",
+      "segment": 11,
+      "timestamp": 851.04
+    },
+    {
+      "title": "Prospective associations of tea consumption with skeletal muscle mass and strength: Insights from the gut microbiome and proteomics.",
+      "url": "https://doi.org/10.1016/j.phrs.2026.108398",
+      "source": "PubMed — Pharmacological research",
+      "one_liner": "Tea consumption may be associated with skeletal muscle health, but longitudinal evidence based on repeated assessments remains limited. We examined the associations of tea intake and serum biomarkers with repeated skeletal muscle measures and explored whether these associations might be partly explained by multi-omics features. In this prospective cohort,...",
+      "segment": 12,
+      "timestamp": 973.18
+    },
+    {
+      "title": "Seasonal Dynamics of Community and Function of Gut Microbiome in Taihangshan Macaque (Macaca mulatta tcheliensis): Inferred From Metagenomic Data.",
+      "url": "https://doi.org/10.1111/1749-4877.70163",
+      "source": "PubMed — Integrative zoology",
+      "one_liner": "The gut microbiome is a key regulator of host nutritional intake, growth, and health, playing an essential role in mediating host adaptation to environmental changes. The northernmost population of rhesus macaque, Taihangshan macaque (Macaca mulatta tcheliensis), faces severe survival challenges, such as food shortages and harsh temperatures during winter...",
+      "segment": 13,
+      "timestamp": 1015.24
+    },
+    {
+      "title": "Biomarkers in Irritable Bowel Syndrome: Bridging Gut-Brain Mechanisms to Precision Care.",
+      "url": "https://doi.org/10.1007/s11894-026-01053-2",
+      "source": "PubMed — Current gastroenterology reports",
+      "one_liner": "Irritable bowel syndrome is a common disorder of gut-brain interaction characterized by chronic abdominal pain and altered bowel habits in the absence of structural pathology. Its pathophysiology reflects a complex interplay between the central nervous system, enteric nervous system, microbiota, immune signaling, epithelial barrier dysfunction etc. Despit...",
+      "segment": 14,
+      "timestamp": 1059.21
+    },
+    {
+      "title": "myo-Inositol's role in laying hens' active gastrointestinal microbiota: a strain comparison.",
+      "url": "https://doi.org/10.1002/jsfa.70984",
+      "source": "PubMed — Journal of the science of food and agriculture",
+      "one_liner": "BACKGROUND: myo-Inositol (MI) is a cyclitol involved in cellular metabolism and phytate degradation, yet its influence on the gastrointestinal tract (GIT) microbiota of laying hens remains poorly understood. This study investigated the effects of graded dietary MI supplementation on the active GIT microbial communities of two commercial laying hen strains...",
+      "segment": 15,
+      "timestamp": 1183.91
+    },
+    {
+      "title": "Distinct postnatal trajectories of mouse dendritic epidermal T cells and Langerhans cells independent of microbiota.",
+      "url": "https://doi.org/10.1126/sciadv.aec9180",
+      "source": "PubMed — Science advances",
+      "one_liner": "The mouse epidermis harbors two key resident immune populations-dendritic epidermal T cells (DETCs), a subset of invariant γδ T cells, and Langerhans cells (LCs), specialized tissue-resident macrophages-both of which play critical roles in immune surveillance, barrier integrity, and tissue homeostasis. While their fetal origin has been defined, the mechan...",
+      "segment": 16,
+      "timestamp": 1228.06
+    },
+    {
+      "title": "Dietary tryptophan mitigates lung ischemia-reperfusion injury in association with increased indole-3-propionate and aryl hydrocarbon receptor signaling.",
+      "url": "https://doi.org/10.1080/19490976.2026.2715839",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "BACKGROUND: Lung ischemia-reperfusion (IR) injury drives early morbidity after lung transplantation and cardiothoracic surgery, yet targeted preventive therapies are lacking. The gut-lung axis and microbiota-derived tryptophan metabolites, including indole-3-propionate (IPA), may regulate pulmonary immunity and inflammation. We investigated whether a tryp...",
+      "segment": 17,
+      "timestamp": 1271.72
+    },
+    {
+      "title": "A microbiota-responsive polyfunctional cytotoxic CD4+ T-cell state promotes mucosal inflammation in ulcerative colitis",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.08.10.743953",
+      "source": "bioRxiv — immunology",
+      "one_liner": "Ulcerative colitis (UC) is characterised by chronic colonic inflammation with marked heterogeneity in disease severity and therapeutic outcomes. Here, we define a spatially organised, polyfunctional cytotoxic CD4+ T-cell state associated with mucosal inflammation and adverse therapeutic outcomes in UC. Integrating ex vivo T-cell receptor stimulation with ...",
+      "segment": 18,
+      "timestamp": 1316.06
+    },
+    {
+      "title": "D-Mannose treats obesity by increasing adipose Treg cells and suppressing gut Firmicutes",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.08.10.743951",
+      "source": "bioRxiv — immunology",
+      "one_liner": "Early-life microbiota represent an indispensable factor for the proper development and function of host metabolism and the immune system. We have demonstrated that neonatal exposure to antibiotics for the first 3 weeks (NeoATB) leads to obesity in adulthood, characterized by gut microbiota dysbiosis and dysregulated immune responses. Here, we demonstrate ...",
+      "segment": 19,
+      "timestamp": 1428.79
+    },
+    {
+      "title": "Engineered Lactobacillus paracasei 3×pBD1/ΔHLJ-27 as a novel antibiotic alternative for livestock: Dual efficacy in growth promotion and protection against Salmonella infection via integrated host-microbiota-immune regulation.",
+      "url": "https://doi.org/10.1371/journal.ppat.1014367",
+      "source": "PubMed — PLoS pathogens",
+      "one_liner": "To address the antimicrobial resistance (AMR) crisis driven by livestock agriculture, effective antibiotic alternatives are urgently needed. However, current probiotic and antimicrobial peptide strategies are critically hindered by limited efficacy, poor stability, and a lack of systemic protection. This study employed recombinant Lactobacillus paracasei ...",
+      "segment": 20,
+      "timestamp": 1474.22
+    },
+    {
+      "title": "Associations of host gene expression in the brain, liver, muscle with fecal and cecal microbiota composition in pigs.",
+      "url": "https://doi.org/10.1007/s10142-026-02009-5",
+      "source": "PubMed — Functional & integrative genomics",
+      "one_liner": "Understanding the genetic regulation underlying host-microbiota interactions is key to elucidating how microbial communities influence host metabolism, immunity, and physiology. In this context, the main objective of this study was to integrate genomic, transcriptomic, and microbial data to identify shared regulatory variants, highlight key microbial taxa...",
+      "segment": 21,
+      "timestamp": 1592.82
+    },
+    {
+      "title": "DC vaccine loaded with Bacteroides fragilis elicits functional cross-reactivity and enhances anti-PD-1 immunotherapy.",
+      "url": "https://doi.org/10.1016/j.ymthe.2026.08.021",
+      "source": "PubMed — Molecular therapy : the journal of the American Society of Gene Therapy",
+      "one_liner": "The gut microbiome profoundly influences the clinical benefits of antitumor immunotherapy. Although various gut microbiota have been shown to enhance immunotherapy, their clinical application remains unexplored. In this study, a dendritic cell (DC) vaccine loaded with the gut commensal Bacteroides fragilis (DC-Bf) was used as a therapeutic cancer vaccine....",
+      "segment": 22,
+      "timestamp": 1714.16
+    },
+    {
+      "title": "Unveiling the role of functional strains in flavor and bioactive compound formation of Cili (Rosa roxburghii Tratt) kombucha during fermentation by microbiota and metabolome.",
+      "url": "https://doi.org/10.1016/j.foodchem.2026.149865",
+      "source": "PubMed — Food chemistry",
+      "one_liner": "Cili (Rosa roxburghii Tratt) represents a promising novel substrate of kombucha. This study investigates the dynamic changes and interrelationships among bioactive compounds, flavor components, microbial communities, and metabolites during the fermentation of Cili kombucha. The results indicate that kombucha fermentation significantly increases the conten...",
+      "segment": 23,
+      "timestamp": 1755.41
+    },
+    {
+      "title": "Combined oral and peripheral blood detection of",
+      "url": "https://doi.org/10.1080/20002297.2026.2712022",
+      "source": "PubMed — Journal of oral microbiology",
+      "one_liner": "BACKGROUND: Periodontal pathogens are associated with cardiovascular disease, but clinical evidence linking Porphyromonas gingivalis (Pg) detection with coronary heart disease (CHD) and gut microbiota features remains limited. This study evaluated associations between oral and peripheral blood Pg detection status, CHD prevalence and exploratory gut microb...",
+      "segment": 24,
+      "timestamp": 1796.4
+    },
+    {
+      "title": "Associations Between Benzoxazinoids, Plant Development and Nutritional Parameters in Different Maize Maturing Genotypes.",
+      "url": "https://doi.org/10.1111/jpn.70105",
+      "source": "PubMed — Journal of animal physiology and animal nutrition",
+      "one_liner": "Maize (Zea mays L.) silage is a major energy source in ruminant diets and provides fermentable substrate for the rumen microbiota. In addition, forage maize contains benzoxazinoids (BXs), defence-related secondary metabolites with antimicrobial activity that remain detectable after ensiling. For ruminant nutrition, it is important to know whether variatio...",
+      "segment": 25,
+      "timestamp": 1835.95
+    },
+    {
+      "title": "Low-Dose Intestinal Irradiation Enhances the Efficacy and Prognosis of PD-1 Blockade in Metastatic Non-Small Cell Lung Cancer.",
+      "url": "https://doi.org/10.1158/1078-0432.CCR-25-4153",
+      "source": "PubMed — Clinical cancer research : an official journal of the American Association for Cancer Research",
+      "one_liner": "PURPOSE: Intestinal low-dose irradiation (ILDR) may enhance immunotherapy efficacy by modulating the gut microbiota and metabolism; however, its role in metastatic non-small cell lung cancer (mNSCLC), particularly in the first-line setting, remains unclear. EXPERIMENTAL DESIGN: This multicenter retrospective and prospective study included patients with mN...",
+      "segment": 26,
+      "timestamp": 1884.16
+    },
+    {
+      "title": "2'-Fucosyllactose attenuates estrogen-deficiency-associated bone loss and intestinal dysfunction in ovariectomized rats.",
+      "url": "https://doi.org/10.1002/jsfa.70980",
+      "source": "PubMed — Journal of the science of food and agriculture",
+      "one_liner": "BACKGROUND: Postmenopausal osteoporosis (PMO), driven primarily by estrogen deficiency, is the most prevalent form of osteoporosis and a major global health burden. Estrogen deficiency disrupts gut microbial homeostasis, compromises intestinal barrier integrity and promotes inflammatory bone loss partly through dysregulation of the osteoprotegerin (OPG)/r...",
+      "segment": 27,
+      "timestamp": 1928.94
+    },
+    {
+      "title": "Longitudinal multi-omic dynamics in hospitalized COVID-19 patients based on disease severity.",
+      "url": "https://doi.org/10.1080/29933935.2026.2712728",
+      "source": "PubMed — Gut microbes reports",
+      "one_liner": "Despite a decline in global COVID-19 cases, severe disease requiring hospitalization remains a significant health burden. Microbial dysbiosis and microbial translocation have been implicated in COVID-19 severity through their contributions to systemic inflammation, yet the temporal dynamics of the microbiome and related metabolites across disease severity...",
+      "segment": 28,
+      "timestamp": 1979.89
+    },
+    {
+      "title": "Disruption of gut bacterial symbiont homeostasis in Streltzoviella insularis larvae under sublethal chlorantraniliprole exposure.",
+      "url": "https://doi.org/10.1016/j.jinsphys.2026.105048",
+      "source": "PubMed — Journal of insect physiology",
+      "one_liner": "Chemical insecticides remain a cornerstone of contemporary integrated pest management (IPM). However, the toxicological profile of Streltzoviella insularis, an economically important wood-boring pest, remains insufficiently characterized. In this study, a laboratory rearing system for S. insularis was established using a customized artificial diet, provid...",
+      "segment": 29,
+      "timestamp": 2026.83
+    },
+    {
+      "title": "Serum-Cecal Metabolome Integration Predicts Gut Microbial Communities and Reveals Pathway-Level Host-Microbe Crosstalk Under Disease-Induced Dysbiosis.",
+      "url": "https://doi.org/10.1177/15578100261479266",
+      "source": "PubMed — Omics : a journal of integrative biology",
+      "one_liner": "The gut microbiome shapes systemic physiology through metabolites that enter circulation, yet most computational approaches focus on predicting metabolite profiles from microbial features rather than inferring microbial composition from host metabolomes. Here, we investigate whether host-derived metabolomic profiles can be leveraged to predict gut microbi...",
+      "segment": 30,
+      "timestamp": 2068.54
+    }
+  ]
+}
