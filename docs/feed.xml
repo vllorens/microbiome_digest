@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Aug 2026 03:52:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 03:59:41 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-08-19</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-19/podcast_2026-08-19.mp3</guid>
+      <pubDate>Wed, 19 Aug 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-19/podcast_2026-08-19.mp3" length="25298012" type="audio/mpeg" />
+      <description>Gut microbiota can reprogram host amino acid metabolism, creating a novel metabolic checkpoint that shapes the tumor microenvironment and influences cancer progression. | Gut microbiota transmits osteoimmune dysregulation and worsens trabecular bone loss in mice lacking tristetraprolin, according to a study published in the Journal of Bone and Mineral Metabolism. | The researchers set out to test the causal contribution of the gut flora by comparing TTP‑deficient mice harboring a conventional microbiota with those in which the microbial community was depleted or replaced.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Gut microbiota can reprogram host amino acid metabolism, creating a novel metabolic checkpoint that shapes the tumor microenvironment and influences cancer progression. | Gut microbiota transmits osteoimmune dysregulation and worsens trabecular bone loss in mice lacking tristetraprolin, according to a study published in the Journal of Bone and Mineral Metabolism. | The researchers set out to test the causal contribution of the gut flora by comparing TTP‑deficient mice harboring a conventional microbiota with those in which the microbial community was depleted or replaced.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-08-16</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-16/podcast_2026-08-16.mp3</guid>
       <pubDate>Sun, 16 Aug 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-16/podcast_2026-08-16.mp3" length="15872732" type="audio/mpeg" />
-      <description>Lactobacillus rhamnosus boosts anti‑tumor immunity in triple‑negative breast cancer by reshaping the gut microbiome and altering tyrosine metabolism, thereby enhancing the effect of PD‑1 checkpoint blockade. | Synthetic microbial communities (SynComs) provide a compositionally defined, rationally designed live biotherapeutic that overcomes the undefined makeup and biosafety concerns of traditional fecal microbiota transplantation for gut microbiome modulation. | Gut microbiota shapes how well antihypertensive drugs work, according to a narrative review in PubMed’s Gut Microbes Reports.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-16/podcast_2026-08-16.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Lactobacillus rhamnosus boosts anti‑tumor immunity in triple‑negative breast cancer by reshaping the gut microbiome and altering tyrosine metabolism, thereby enhancing the effect of PD‑1 checkpoint blockade. | Synthetic microbial communities (SynComs) provide a compositionally defined, rationally designed live biotherapeutic that overcomes the undefined makeup and biosafety concerns of traditional fecal microbiota transplantation for gut microbiome modulation. | Gut microbiota shapes how well antihypertensive drugs work, according to a narrative review in PubMed’s Gut Microbes Reports.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-31/podcast_2026-05-31.mp3</guid>
       <pubDate>Sun, 31 May 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-31/podcast_2026-05-31.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-05-30</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-30/podcast_2026-05-30.mp3</guid>
-      <pubDate>Sat, 30 May 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-05-30/podcast_2026-05-30.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>

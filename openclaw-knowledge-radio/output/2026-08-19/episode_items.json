@@ -1,0 +1,366 @@
+{
+  "timestamps": [
+    0.0,
+    46.6,
+    186.54,
+    308.65,
+    421.83,
+    447.15,
+    502.78,
+    549.48,
+    590.97,
+    637.62,
+    687.8,
+    806.4,
+    932.28,
+    1462.39,
+    1505.61,
+    1552.43,
+    1595.94,
+    1647.6,
+    1691.76,
+    1738.0,
+    1790.01,
+    1830.92,
+    1874.38,
+    1977.39,
+    2093.28,
+    2430.31,
+    2482.7,
+    2522.44,
+    2566.74,
+    2616.77,
+    2659.46,
+    2697.98,
+    2808.4,
+    2848.72,
+    2897.02,
+    2940.24,
+    2984.54,
+    3109.7,
+    3224.34,
+    3339.97
+  ],
+  "items": [
+    {
+      "title": "Amino acid metabolic reprogramming by gut microbiota: a novel metabolic checkpoint in the tumor microenvironment.",
+      "url": "https://doi.org/10.1080/19490976.2026.2719116",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "The gut microbiota plays a crucial role in human health, significantly influencing various physiological functions such as amino acid metabolism, which is essential for maintaining homeostasis and preventing disease. Recent progress in gut microbiota research has highlighted the intricate relationships between gut microbial communities and host amino acid...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Gut microbiota transmits osteoimmune dysregulation and exacerbates trabecular bone loss in tristetraprolin-deficient mice.",
+      "url": "https://doi.org/10.1007/s00774-026-01753-9",
+      "source": "PubMed — Journal of bone and mineral metabolism",
+      "one_liner": "INTRODUCTION: Tristetraprolin (TTP) is an RNA-binding protein essential for controlling cytokine production, and its deficiency leads to profound skeletal deterioration. Although TTP deficiency is associated with systemic inflammation and microbial dysbiosis, the contribution of the gut microbiota to bone pathology remains poorly defined. MATERIALS AND ME...",
+      "segment": 1,
+      "timestamp": 46.6
+    },
+    {
+      "title": "Geographical distribution and seasonality of insect species and gut microbiota of fly larvae from 65 real cases in China.",
+      "url": "https://doi.org/10.1007/s00414-026-03966-z",
+      "source": "PubMed — International journal of legal medicine",
+      "one_liner": "Forensic entomology can be pivotal for minimum postmortem interval (PMImin) estimation. Case-based studies can support forensic investigations and guide laboratory research, but systematic data from real cases in China remain limited. In this study, 65 forensic entomology cases collected from 2017 to 2024 in two regions of China, Beijing and Hunan, were a...",
+      "segment": 2,
+      "timestamp": 186.54
+    },
+    {
+      "title": "Prebiotic raffinose attenuates surgery-induced delirium-like behaviors through gut microbiota-mediated serotonergic signaling in frail senescence-accelerated mice: an experimental study using SAMP10 mice.",
+      "url": "https://doi.org/10.1007/s00540-026-03873-y",
+      "source": "PubMed — Journal of anesthesia",
+      "one_liner": "BACKGROUND: Postoperative delirium (POD) is a severe neuropsychiatric complication characterized by acute cognitive dysfunction and neuroinflammation, particularly prevalent in frail elderly patients. While the gut-brain axis is recognized as a regulator of neuroinflammation, specific preventive strategies remain limited. We investigated whether preoperat...",
+      "segment": 3,
+      "timestamp": 308.65
+    },
+    {
+      "title": "Polyphenols, Gut Microbiota, and Exercise Triad Supports Performance.",
+      "url": "https://doi.org/10.1016/j.tjnut.2026.101791",
+      "source": "PubMed — The Journal of nutrition",
+      "one_liner": "Polyphenols are bioactive compounds commonly found in foods like fruits, vegetables, and cocoa. These compounds have the potential to impact the gut microbiota and metabolism to support exercise and recovery through both direct and indirect mechanisms. The purpose of this narrative review is to present evidence for a triad relationship between polyphenoli...",
+      "segment": 4,
+      "timestamp": 421.83
+    },
+    {
+      "title": "Tire wear particle leachate-induced hepatotoxicity in Carassius auratus: Associations with gut microbiota dysbiosis and disrupted lipid metabolism.",
+      "url": "https://doi.org/10.1016/j.cbpc.2026.110660",
+      "source": "PubMed — Comparative biochemistry and physiology. Toxicology & pharmacology : CBP",
+      "one_liner": "Tire wear particles (TWPs), which are increasingly released into aquatic environments, pose a potential threat to aquatic organisms. Clarifying the hepatotoxic effects and underlying mechanisms of TWP leachate is important for ecological risk assessment and aquatic health protection. In this study, crucian carp (Carassius auratus) were exposed to environm...",
+      "segment": 5,
+      "timestamp": 447.15
+    },
+    {
+      "title": "Early metabolic and gut microbiota alterations during antipsychotic‑lithium treatment in acute bipolar mania: A prospective follow-up study.",
+      "url": "https://doi.org/10.1016/j.jad.2026.122389",
+      "source": "PubMed — Journal of affective disorders",
+      "one_liner": "OBJECTIVE: To investigate early metabolic changes, gut microbiota alterations, and the correlations between key bacterial genera and metabolic indices in patients with bipolar disorder experiencing manic episodes who were treated with different antipsychotics combined with lithium carbonate. METHODS: This prospective observational follow-up study enrolled...",
+      "segment": 6,
+      "timestamp": 502.78
+    },
+    {
+      "title": "An Adaptive In Situ Biointerfacial Armoring Platform for Long-Term Gut Microbiota Modulation.",
+      "url": "https://doi.org/10.1021/acsnano.6c06780",
+      "source": "PubMed — ACS nano",
+      "one_liner": "Despite the immense potential against diverse chronic inflammatory and metabolic disorders, the clinical translation of microbial therapies is largely thwarted by the delivery challenges of live biotherapeutics. Probiotics often succumb to harsh gastrointestinal conditions and oxidative stress. We report ARMOG, a microenvironment responsive platform achie...",
+      "segment": 7,
+      "timestamp": 549.48
+    },
+    {
+      "title": "Pectic oligosaccharides reshape the gut microbiota-mediated intestinal vitamin B",
+      "url": "https://doi.org/10.1039/d6fo02576e",
+      "source": "PubMed — Food & function",
+      "one_liner": "Metabolic dysfunction-associated steatotic liver disease (MASLD) represents a prevalent and severe global health burden closely associated with gut dysbiosis and systemic metabolic disorders. Pectic oligosaccharides (POS) are functional prebiotics with metabolic regulatory potential, yet their exact efficacy and microecological mechanisms against MASLD",
+      "segment": 8,
+      "timestamp": 590.97
+    },
+    {
+      "title": "Efficacy of Gut Microbiota-Targeted Interventions for Major Depressive Disorder: A Systematic Review and Network Meta-Analysis.",
+      "url": "https://doi.org/10.1093/nutrit/nuag117",
+      "source": "PubMed — Nutrition reviews",
+      "one_liner": "CONTEXT: Evidence associating gut microbiota dysbiosis with the pathophysiology of major depressive disorder (MDD) via the gut-brain axis provides rationale for microbiota-targeted interventions, yet the comparative efficacy of different microbial modulation strategies remains unclear. OBJECTIVE: The aims for this study was to determine the most effective...",
+      "segment": 9,
+      "timestamp": 637.62
+    },
+    {
+      "title": "The gut microbiome and allograft outcomes: implications for heart transplantation.",
+      "url": "https://doi.org/10.1172/JCI207999",
+      "source": "PubMed — The Journal of clinical investigation",
+      "one_liner": "Heart transplantation remains the gold standard therapy for patients with end-stage heart failure. However, post-transplant complications are considerable. Emerging evidence implicates the gut microbiome as a modifiable determinant of post-heart transplant outcomes through its influence on host immunity, metabolism, and inflammation. This Review synthesiz...",
+      "segment": 10,
+      "timestamp": 687.8
+    },
+    {
+      "title": "Siwa spring microbiomes as reservoirs of biosynthetic gene clusters: Unlocking natural product potential.",
+      "url": "https://doi.org/10.1007/s11274-026-05208-1",
+      "source": "PubMed — World journal of microbiology & biotechnology",
+      "one_liner": "The rising demand for novel therapeutics, including antimicrobial, anticancer, and anti-inflammatory agents, underscores the need for new drug discovery strategies. Microbial communities represent rich reservoirs of bioactive compounds encoded by biosynthetic gene clusters (BGCs), yet traditional approaches remain limited by the inability to culture most ...",
+      "segment": 11,
+      "timestamp": 806.4
+    },
+    {
+      "title": "Leukocyte telomere length and gut microbiome profiles in pancreatic ductal adenocarcinoma and at-risk conditions.",
+      "url": "https://doi.org/10.17305/bb.2026.14506",
+      "source": "PubMed — Biomolecules & biomedicine",
+      "one_liner": "Pancreatic ductal adenocarcinoma (PDAC) is often diagnosed at an advanced stage, highlighting the need for minimally invasive biomarkers capable of distinguishing it from related risk conditions. This study evaluated relative leukocyte telomere length (LTL) and gut microbiome profiles as potential biomarkers for PDAC. The study included 244 participants w...",
+      "segment": 12,
+      "timestamp": 932.28
+    },
+    {
+      "title": "A Tri-Source Microbiome Dataset from Human Sleep Environments: Saliva, Pillow Dust, and Bedroom Air.",
+      "url": "https://doi.org/10.1159/lfg/adlag001",
+      "source": "PubMed — Lifestyle genomics",
+      "one_liner": "Despite the established importance of the human microbiome in health, the integrated microbial exposures occurring within the sleep environment remain poorly understood. Sleep represents a critical period of prolonged exposure to indoor microbial reservoirs, yet no study has simultaneously examined the connectivity between environmental sources and the hu...",
+      "segment": 13,
+      "timestamp": 1462.39
+    },
+    {
+      "title": "Exercise-driven microbiome changes regulate host immunity.",
+      "url": "https://doi.org/10.1016/j.it.2026.08.001",
+      "source": "PubMed — Trends in immunology",
+      "one_liner": "Exercise reshapes host physiology and immunity, yet the mechanisms linking physical activity to disease protection remain incompletely defined. Emerging evidence indicates that exercise remodels the gut microbiome, producing compositional and metabolic adaptations that can regulate immune function. In this Review, we discuss how exercise-responsive microb...",
+      "segment": 14,
+      "timestamp": 1505.61
+    },
+    {
+      "title": "Prenatal exposure to organophosphate esters and infantile neurobehavior: Integrating the gut microbiome and metabolome.",
+      "url": "https://doi.org/10.1016/j.envres.2026.125494",
+      "source": "PubMed — Environmental research",
+      "one_liner": "Organophosphate esters (OPEs) are widely used flame retardants and plasticizers. Given their structural similarity to neurotoxic organophosphorus pesticides, concerns have been raised regarding their potential developmental neurotoxicity. However, epidemiologic evidence remains limited, and the roles of gut microbial and metabolic perturbations in these a...",
+      "segment": 15,
+      "timestamp": 1552.43
+    },
+    {
+      "title": "Changes in the gut microbiome and neurotransmitters induced by mancozeb.",
+      "url": "https://doi.org/10.1016/j.envpol.2026.128977",
+      "source": "PubMed — Environmental pollution (Barking, Essex : 1987)",
+      "one_liner": "Mancozeb is widely used as a broad-spectrum fungicide, and its potential effects on the gut-liver-kidney axis remain incompletely understood. In this study, we used an experimental oral exposure model to identify dose-associated effects and underlying mechanisms associated with mancozeb exposure. Following exposure to mancozeb at doses of 1, 10, and 100 m...",
+      "segment": 16,
+      "timestamp": 1595.94
+    },
+    {
+      "title": "Gut microbiome facilitates black soldier fly-mediated bioconversion under zinc stress.",
+      "url": "https://doi.org/10.1016/j.biortech.2026.135651",
+      "source": "PubMed — Bioresource technology",
+      "one_liner": "The microbiome plays an important role in manure transformation in the black soldier fly (BSF), yet the mechanisms by which it promotes host tolerance to zinc stress remain poorly understood. Here, we show that the gut microbiome promotes larval growth using a controlled zinc-supplemented wheat bran model. High dietary zinc significantly impairs BSF larva...",
+      "segment": 17,
+      "timestamp": 1647.6
+    },
+    {
+      "title": "Gut microbiome crosstalk in acute myeloid leukemia: mechanisms, treatment-associated dysbiosis, and translational opportunities.",
+      "url": "https://doi.org/10.1016/j.bcp.2026.118369",
+      "source": "PubMed — Biochemical pharmacology",
+      "one_liner": "Acute myeloid leukemia (AML) is accompanied by perturbations of the intestinal microbiome, but causal relationships remain incompletely defined because most patient data are cross-sectional and confounded by age, diet, antibiotic exposure, hospitalization, neutropenia, and chemotherapy. This review evaluates current evidence for AML-microbiome crosstalk, ...",
+      "segment": 18,
+      "timestamp": 1691.76
+    },
+    {
+      "title": "A modern toolbox to elucidate the role of the human microbiome in modulating mycobacterial gut infections.",
+      "url": "https://doi.org/10.1098/rsob.250258",
+      "source": "PubMed — Open biology",
+      "one_liner": "Inflammatory bowel diseases (IBDs) are a major public and veterinary health concern, but the causes are poorly understood. In this review, we discuss the potential of mycobacteria as causative factors for such diseases. We focus on similarities between the most common human IBD, Crohn's disease, and a common IBD in cattle, Johne's disease. Both are multif...",
+      "segment": 19,
+      "timestamp": 1738.0
+    },
+    {
+      "title": "Exploring the Early-Life Microbiomes of Preterm Infants and Their Childhood Health Outcomes (The BLOOM Study): Protocol for a Prospective, Observational Cohort Study.",
+      "url": "https://doi.org/10.2196/95658",
+      "source": "PubMed — JMIR research protocols",
+      "one_liner": "BACKGROUND: Establishment of the gut microbiome during the first years of life is critically important for long-term health and development. In preterm infants, microbial colonization is disrupted due to their developmental immaturity and the myriad of pre- and postnatal exposures. Unfortunately, this places them at an elevated risk for adverse health out...",
+      "segment": 20,
+      "timestamp": 1790.01
+    },
+    {
+      "title": "2'-FL's Depiction of the Human Physiological Function Landscape.",
+      "url": "https://doi.org/10.1002/fsn3.72220",
+      "source": "PubMed — Food science & nutrition",
+      "one_liner": "2'-fucosyllactose (2'-FL) is a major fucosylated human milk oligosaccharide characterized by a terminal α1,2-linked fucose residue, which supports its interactions with gut microbes, host glycan-recognition systems, and pathogen-binding sites. This review proposes that 2'-FL acts mainly through a hierarchical host-microbiota mechanism: it first shapes gut...",
+      "segment": 21,
+      "timestamp": 1830.92
+    },
+    {
+      "title": "Probiotics in Autoimmune Disease: Strain-specific Mechanisms and Therapeutic Perspectives.",
+      "url": "https://doi.org/10.1007/s12016-026-09190-2",
+      "source": "PubMed — Clinical reviews in allergy & immunology",
+      "one_liner": "The gut microbiota plays a crucial role in human health and is increasingly recognized as a potential therapeutic target for various diseases. Current standard-of-care treatments for autoimmune diseases often include immunosuppressive agents aimed at controlling immune activation and limiting tissue injury rather than solely suppressing autoantibody produ...",
+      "segment": 22,
+      "timestamp": 1874.38
+    },
+    {
+      "title": "Hematogenous vertebral osteomyelitis caused by vaginal microbiota: metagenomic resolution of a polymicrobial anaerobic case.",
+      "url": "https://doi.org/10.1007/s15010-026-02926-4",
+      "source": "PubMed — Infection",
+      "one_liner": "We describe a rare case of a 35-year-old female patient suffering from polymicrobial hematogenous vertebral osteomyelitis caused by vaginal microbiota following sexual intercourse. Anaerobic blood cultures yielded Fannyhessea vaginae and Gemelliphila asaccharolytica, and intraoperative tissue cultures from decompression surgery identified Gardnerella vagi...",
+      "segment": 23,
+      "timestamp": 1977.39
+    },
+    {
+      "title": "Machine learning prediction of human antibiotic resistance risk using 16S rRNA profiles.",
+      "url": "https://doi.org/10.1016/j.envpol.2026.128988",
+      "source": "PubMed — Environmental pollution (Barking, Essex : 1987)",
+      "one_liner": "Antimicrobial resistance poses a growing global health threat, yet large-scale surveillance and risk evaluation remain constrained by the cost and accessibility of metagenomic sequencing. Here, we demonstrate that antibiotic resistance risk, integrating gene mobility, human accessibility, clinical relevance, and host pathogenicity, can be quantitatively i...",
+      "segment": 24,
+      "timestamp": 2093.28
+    },
+    {
+      "title": "Microbiota-derived short-chain fatty acids are associated with symptoms in chronic prostatitis/chronic pelvic pain syndrome through the production of proinflammatory cytokines: Results from a comparative study.",
+      "url": "https://doi.org/10.1177/03915603261476871",
+      "source": "PubMed — Urologia",
+      "one_liner": "In recent years we have witnessed increasing interest for the role of microbiota in the pathophysiology and management of prostatic diseases. However, there are several aspects to comprehend. Here, we aim to assess the gut microbiota composition and faecal microbiota-derived short-chain fatty acids production (SCFAs) in the pathogenesis of CP/CPPS. All pa...",
+      "segment": 25,
+      "timestamp": 2430.31
+    },
+    {
+      "title": "Microbiota and Mycobiota Dysbiosis in Sinonasal Fungus Ball: A Paired Lesional and Contralateral Analysis.",
+      "url": "https://doi.org/10.1002/lio2.70534",
+      "source": "PubMed — Laryngoscope investigative otolaryngology",
+      "one_liner": "OBJECTIVES: Fungus ball (FB) is a unilateral form of fungal rhinosinusitis, but it remains unclear whether associated microbial dysbiosis is restricted to the lesional sinus or extends across the sinonasal cavity. This study aimed to determine whether bacterial and fungal dysbiosis in maxillary sinus FB is spatially localized by comparing paired lesional ...",
+      "segment": 26,
+      "timestamp": 2482.7
+    },
+    {
+      "title": "Chlamydia trachomatis incidence in relation to vaginal microbiota dynamics, immunogenetics and exposures in a cohort of young student women in France.",
+      "url": "https://doi.org/10.1093/infdis/jiag410",
+      "source": "PubMed — The Journal of infectious diseases",
+      "one_liner": "BACKGROUND: Given the potential role of the vaginal microbiota in the acquisition of Chlamydia trachomatis infections, we aim to investigate its contribution together with immunogenetics and epidemiological exposures to the incidence of C. trachomatis in young women. METHODS: This study involved 313 female students aged 18-24 years from the i-Predict prev...",
+      "segment": 27,
+      "timestamp": 2522.44
+    },
+    {
+      "title": "Identification of Differentially Abundant Microorganisms Associated with Sjögren's Syndrome: A 16S rRNA Sequencing Data Mining Approach.",
+      "url": "https://doi.org/10.1093/femsle/fnag094",
+      "source": "PubMed — FEMS microbiology letters",
+      "one_liner": "Manifestations of Sjögren's syndrome (SS) considerably affect the quality of life. Owing to the multifactorial nature of the syndrome, some individuals present alterations in oral microbiota profiles. This study analysed the oral cavity microbiota profiles of 242 samples -168 from pSS group and 74 from control group- using metabarcoding technique based on...",
+      "segment": 28,
+      "timestamp": 2566.74
+    },
+    {
+      "title": "Commensal Skin Microbiota Modulate Responses to Ultraviolet Radiation in Humans.",
+      "url": "https://doi.org/10.1093/bjd/ljag334",
+      "source": "PubMed — The British journal of dermatology",
+      "one_liner": "BACKGROUND: The skin and its commensal microbiota are regularly exposed to ultraviolet radiation (UVR) in sunlight. While UVR is a major environmental factor affecting human skin, the influence of skin microbiota on skin's UVR response remains underexplored. OBJECTIVES: We have investigated the impact of the skin microbiota on UVR-induced inflammation (su...",
+      "segment": 29,
+      "timestamp": 2616.77
+    },
+    {
+      "title": "Fermented goat milk powder promotes intestinal development and enhances splenic antioxidant function in mice.",
+      "url": "https://doi.org/10.1039/d6fo00370b",
+      "source": "PubMed — Food & function",
+      "one_liner": "Fermented goat milk powder, containing probiotic bacteria, may regulate intestinal flora and modulate immunity. This study aimed to evaluate the effects of fermented goat milk powder on intestinal development, gut microbiota composition, and splenic antioxidant capacity in young mice, and to explore the potential underlying mechanisms. Metabolomics result...",
+      "segment": 30,
+      "timestamp": 2659.46
+    },
+    {
+      "title": "Chronotherapy in Inflammatory Bowel Disease: Biological Rationale, Human Evidence, and a Clinical Implementation Framework.",
+      "url": "https://doi.org/10.1007/s10620-026-10196-1",
+      "source": "PubMed — Digestive diseases and sciences",
+      "one_liner": "Inflammatory bowel disease (IBD) is a chronic condition driven by a dysregulated immune response to the gut microbiome in genetically susceptible individuals. This process may be influenced by the circadian rhythm, the body's internal 24-h clock that coordinates physiology with the day-night cycle. Disruption of this rhythm, whether from behavior or intri...",
+      "segment": 31,
+      "timestamp": 2697.98
+    },
+    {
+      "title": "Mutually beneficial interactions between bacteria and Arabidopsis promote phosphorus nutrition and growth.",
+      "url": "https://doi.org/10.1016/j.cell.2026.07.048",
+      "source": "PubMed — Cell",
+      "one_liner": "It remains unknown whether plants establish mutualistic relationships with any bacteria to cope with phosphorus (P) limitation. We characterized root-bacterial microbiome members to show that many of them may cooperate with Arabidopsis to promote seedling P nutrition and growth. In-depth analyses uncovered an intricate interaction between Arabidopsis and ...",
+      "segment": 32,
+      "timestamp": 2808.4
+    },
+    {
+      "title": "Physiological and gut microbial responses of Apis cerana to sub-chronic exposure to binary pesticide mixtures at environmentally relevant concentrations.",
+      "url": "https://doi.org/10.1002/ps.71212",
+      "source": "PubMed — Pest management science",
+      "one_liner": "BACKGROUND: As an irreplaceable indigenous pollinator safeguarding biodiversity and crop productivity across mountainous Southwest China, Apis cerana is commonly exposed to pesticide mixtures. The neonicotinoid thiamethoxam (TMX), diamide chlorantraniliprole (CAP) and triazole difenoconazole (DIF) are widely detected in its beehives across Guizhou karst r...",
+      "segment": 33,
+      "timestamp": 2848.72
+    },
+    {
+      "title": "Secreted nuclease effector neutralization by active site mimicry in Bacillota.",
+      "url": "https://doi.org/10.1128/mbio.01516-26",
+      "source": "PubMed — mBio",
+      "one_liner": "Polymorphic toxins mediate interbacterial antagonism among competitors in the gut microbiome. Nuclease effectors, distantly related to the type VI-secreted Bacteroidales Tde, are enriched in human gut Bacillota. Tde mediates antagonism among Bacillota, and expression of the cognate immunity, Tdi, in recipients is protective. Crystal structures of Tde/Tdi ...",
+      "segment": 34,
+      "timestamp": 2897.02
+    },
+    {
+      "title": "Gut metaproteomics reveals activated arginine catabolism and impaired arginine biosynthesis in systemic lupus erythematosus.",
+      "url": "https://doi.org/10.1128/msystems.00467-26",
+      "source": "PubMed — mSystems",
+      "one_liner": "UNLABELLED: The resilience of microbial metabolic functions during gut microbiome dysbiosis depends on functional redundancy across taxa. However, this ecological principle remains largely unexplored in human autoimmune diseases such as systemic lupus erythematosus (SLE). Here, we utilized quantitative metaproteomics to analyze fecal samples from 103 SLE ...",
+      "segment": 35,
+      "timestamp": 2940.24
+    },
+    {
+      "title": "Joint-RPCA: domain-aware multi-omics integration for systems microbiology.",
+      "url": "https://doi.org/10.1038/s44320-026-00236-3",
+      "source": "PubMed — Molecular systems biology",
+      "one_liner": "Integrating multi-omics data is essential for microbiome research, as microbial communities are shaped by and respond to interdependent processes, including taxonomic composition, metabolite production and utilization, and gene expression. However, accurately capturing ecosystem-wide patterns across these modalities is statistically challenging due to dif...",
+      "segment": 36,
+      "timestamp": 2984.54
+    },
+    {
+      "title": "Potential Role of Prebiotics and Probiotics on Oocyte Quality, Embryo Development, Endometrial Health, and Fertility Outcomes in Assisted Reproductive Technologies.",
+      "url": "https://doi.org/10.1007/s12602-026-10917-y",
+      "source": "PubMed — Probiotics and antimicrobial proteins",
+      "one_liner": "Assisted reproductive technologies (ART) have transformed infertility treatment over recent decades, yet success rates remain inconsistent. Beyond the established embryological and hormonal determinants, emerging research identifies the human microbiome-particularly gut and reproductive tract communities-as a critical regulator of reproductive efficiency....",
+      "segment": 37,
+      "timestamp": 3109.7
+    },
+    {
+      "title": "SARS‑CoV‑2 Associated Shifts in the Upper Respiratory Tract Mycobiome in Non-hospitalized Cases.",
+      "url": "https://doi.org/10.1007/s11046-026-01096-z",
+      "source": "PubMed — Mycopathologia",
+      "one_liner": "SARS‑CoV‑2 infection is associated with marked changes of the upper respiratory tract mycobiome. URT mycobiome Changes in non-hospitalized patients however, remains poorly defined. We performed shotgun metagenomic sequencing of 95 upper respiratory tract swab samples from 48 symptomatic SARS‑CoV‑2-positive individuals and 47 healthy controls from central ...",
+      "segment": 38,
+      "timestamp": 3224.34
+    },
+    {
+      "title": "Multivariable-adjusted multi-omics signatures reveal gut microbial functional alterations and metabolic dysregulation in intrinsic capacity decline.",
+      "url": "https://doi.org/10.1016/j.jnha.2026.100945",
+      "source": "PubMed — The journal of nutrition, health & aging",
+      "one_liner": "BACKGROUND: Intrinsic capacity (IC) decline is inherently correlated with aging, yet distinguishing specific IC-related biomarkers from general physiological aging markers remains a significant challenge. We aimed to identify multi-omics signatures associated with IC decline after adjustment for relevant covariates and to explore the functional pathways p...",
+      "segment": 39,
+      "timestamp": 3339.97
+    }
+  ]
+}
