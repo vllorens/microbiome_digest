@@ -1,0 +1,357 @@
+{
+  "timestamps": [
+    0.0,
+    40.87,
+    87.76,
+    210.66,
+    258.37,
+    307.9,
+    359.06,
+    413.37,
+    458.3,
+    568.14,
+    614.72,
+    656.88,
+    779.76,
+    833.37,
+    882.26,
+    974.48,
+    1018.74,
+    1061.4,
+    1108.01,
+    1154.52,
+    1288.38,
+    1422.08,
+    1467.51,
+    1824.17,
+    1876.87,
+    1917.55,
+    1958.8,
+    2005.93,
+    2043.97,
+    2089.13,
+    2134.75,
+    2176.15,
+    2219.58,
+    2261.89,
+    2314.81,
+    2357.5,
+    2401.46,
+    2449.15,
+    2500.02
+  ],
+  "items": [
+    {
+      "title": "Gut microbiota generate dinitrosyl iron complexes with cardiometabolic benefits.",
+      "url": "https://doi.org/10.1016/j.cell.2026.07.055",
+      "source": "PubMed — Cell",
+      "one_liner": "Gut bacteria affect host physiology, but the underlying mechanisms are not completely understood. We identify a pathway whereby gut microbes convert inorganic nitrate and non-heme iron into mobile bioactive dinitrosyl iron complexes (DNICs) that are distributed systemically and affect host metabolism. Electron paramagnetic resonance detected DNICs in tiss...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Fermentation capacity of the gut microbiota influences exercise motivation and neuroendocrine integration.",
+      "url": "https://doi.org/10.1128/msystems.00876-26",
+      "source": "PubMed — mSystems",
+      "one_liner": "UNLABELLED: Physical inactivity contributes substantially to global disease burden, yet the physiological mechanisms underlying exercise motivation remain poorly understood. The gut-brain axis presents a potentially modifiable target for behavioral intervention. Emerging evidence demonstrates that the gut microbiota influences motivated behaviors, but the...",
+      "segment": 1,
+      "timestamp": 40.87
+    },
+    {
+      "title": "Effects of traditional Chinese medicine directional drug penetration therapy on gastrointestinal function, gut microbiota, and sleep quality in postoperative ovarian cancer patients: a randomized controlled trial.",
+      "url": "https://doi.org/10.1007/s00520-026-11096-w",
+      "source": "PubMed — Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+      "one_liner": "PURPOSE: To investigate the intervention effects of TCM directional drug penetration therapy on gastrointestinal function, gut microbiota, and sleep quality in postoperative ovarian cancer patients. METHODS: A total of 112 postoperative ovarian cancer patients were randomly divided into an observation group and a control group, with 56 cases in each group...",
+      "segment": 2,
+      "timestamp": 87.76
+    },
+    {
+      "title": "Investigating AHL-associated quorum sensing impact on antibiotic-driven resistome expansion in anaerobic fermentation microbiomes: Metagenomic insights.",
+      "url": "https://doi.org/10.1016/j.jenvman.2026.130711",
+      "source": "PubMed — Journal of environmental management",
+      "one_liner": "Previous studies have demonstrated that quorum sensing (QS) can mitigate the impact of antibiotics on environmental microbial communities. Metagenomic analysis was used to examine AHL effects on the resistome in anaerobic fermentation microbiomes under antibiotic stress in this research. AHLs reduced ARGs, MGEs, and phage abundance compared to antibiotic-...",
+      "segment": 3,
+      "timestamp": 210.66
+    },
+    {
+      "title": "Improving Folate Bioaccessibility and Modulating Gut Microbiota Profile with Folate-Enriched Purple Cabbage Juice by Optimized Lactiplantibacillus plantarum Fermentation.",
+      "url": "https://doi.org/10.1021/acs.jafc.6c08410",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "Folate biofortification of plant-based foods via lactic acid bacteria fermentation is a strategy to alleviate folate deficiency; however, the effects of fermentation on folate stability and bioaccessibility remain unclear. In this study, purple cabbage juice was fermented with Lactiplantibacillus plantarum strains (1.1797 and YaXin) to enhance folate prod...",
+      "segment": 4,
+      "timestamp": 258.37
+    },
+    {
+      "title": "Wheat Germ Glycoprotein (WGPII) Alleviates Cyclophosphamide-Induced Intestinal Injury: Integrative Multiomics Reveals a Potential miRNA-Gut Microbiota-Metabolite Regulatory Network.",
+      "url": "https://doi.org/10.1021/acs.jafc.6c05499",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "Wheat germ glycoprotein (WGPII) exhibits immunomodulatory activity; however, its protective mechanisms against intestinal injury remain unclear. This study investigated WGPII effects in cyclophosphamide (CTX)-induced intestinal injury mice. WGPII significantly reversed immunosuppression by increasing serum cytokines and immunoglobulins and mitigated intes...",
+      "segment": 5,
+      "timestamp": 307.9
+    },
+    {
+      "title": "Structural Characterization of a Glucan from Zingiber officinale and Its Efficacy in Alleviating Ulcerative Colitis by Ameliorating Gut Microbiota Imbalance.",
+      "url": "https://doi.org/10.1021/acs.jafc.6c05577",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "Natural polysaccharides derived from Zingiber officinale (ZO) can alleviate ulcerative colitis (UC). In this study, a homogeneous glucan, ZOP-1a (250.39 kDa), was isolated from ZO and structurally characterized. ZOP-1a possessed an α-1,4-d-Glcp backbone, with branches substituted at H-6 by α-d-Glcp-(1 → 6)-α-d-Glcp-(1→ and at H-3 by α-d-Glcp-(1 → 3)-β-d-G...",
+      "segment": 6,
+      "timestamp": 359.06
+    },
+    {
+      "title": "Programming Gut Microbiome Function Through Cross-Feeding: From Ecological Mechanisms to Live Biotherapeutics.",
+      "url": "https://doi.org/10.1002/advs.77267",
+      "source": "PubMed — Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "one_liner": "Gut microbial cross-feeding links the production, release, and reutilization of resources across community members, but its ecological consequences are shaped by competition, antagonism, host selection, and recipient identity. Despite rapid advances, major gaps remain between predicting metabolic complementarity, demonstrating causal donor-resource-recipi...",
+      "segment": 7,
+      "timestamp": 413.37
+    },
+    {
+      "title": "High-resolution multi-omics defines respiratory microbiome and host signatures of COVID-19 severity",
+      "url": "https://www.nature.com/articles/s42003-026-10774-z",
+      "source": "Nature - Microbiome Topic",
+      "one_liner": "",
+      "segment": 8,
+      "timestamp": 458.3
+    },
+    {
+      "title": "Microbial metabolite-driven mechanisms linking the gut microbiome to atherosclerosis: multi-omic and translational perspectives.",
+      "url": "https://doi.org/10.1080/19490976.2026.2718621",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Atherosclerotic cardiovascular disease remains the leading cause of mortality worldwide, and a substantial residual risk persists despite optimal management of traditional risk factors. Increasing evidence implicates the gut microbiome as a mechanistic contributor to atherogenesis, not merely through taxonomic shifts but via the production of bioactive mi...",
+      "segment": 9,
+      "timestamp": 568.14
+    },
+    {
+      "title": "Gut microbiome signatures during acute infection are associated with long COVID.",
+      "url": "https://doi.org/10.1080/19490976.2026.2718581",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "BACKGROUND: Long COVID (LC) manifests in 10%-30% of non-hospitalized individuals post-SARS-CoV-2 infection, leading to significant morbidity. The predictive role of gut microbiome composition during acute infection in the development of LC is not well understood, partly because of the heterogeneous nature of the disease. OBJECTIVES: To determine whether t...",
+      "segment": 10,
+      "timestamp": 614.72
+    },
+    {
+      "title": "Endocannabinoids and related lipids in host metabolism-gut microbiome signalling.",
+      "url": "https://doi.org/10.1038/s41574-026-01289-y",
+      "source": "PubMed — Nature reviews. Endocrinology",
+      "one_liner": "Over the past two decades, it has become clear that the two endocannabinoids, anandamide and 2-arachidonoyl-glycerol, are only the tip of an iceberg of a larger signalling system composed of hundreds of chemically similar fatty acid derivatives, including 2-monoacylglycerols, N-acylethanolamines and other N-acylamines. Unlike the endocannabinoids, these l...",
+      "segment": 11,
+      "timestamp": 656.88
+    },
+    {
+      "title": "Microbiome-Driven Precision Medicine in Asthma: Roles of Targeted Therapies and Artificial Intelligence.",
+      "url": "https://doi.org/10.1080/02770903.2026.2721181",
+      "source": "PubMed — The Journal of asthma : official journal of the Association for the Care of Asthma",
+      "one_liner": "OBJECTIVE: To evaluate the current evidence regarding airway and gut microbiome alterations in asthma pathogenesis and therapeutic response, and to examine the potential of microbiome-targeted interventions and artificial intelligence (AI)-based precision medicine. DATA SOURCES: A structured narrative literature review was conducted using PubMed, Scopus, ...",
+      "segment": 12,
+      "timestamp": 779.76
+    },
+    {
+      "title": "First-void urine and cervicovaginal brushes for vaginal microbiome profiling: a proof-of-concept study.",
+      "url": "https://doi.org/10.1128/spectrum.00096-26",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "UNLABELLED: The human vaginal microbiome is a cornerstone of female reproductive health, influencing susceptibility to vaginal conditions, pregnancy complications, and urogenital infections. Understanding this microbiome is critical for advancing preventive, diagnostic, and therapeutic interventions, yet its intimate and dynamic nature poses challenges fo...",
+      "segment": 13,
+      "timestamp": 833.37
+    },
+    {
+      "title": "Curcumin blocks Fusobacterium nucleatum-driven tumor progression and carcinogenesis in ESCC via inhibiting the TLR4/MYD88/TRIF/STAT3 axis.",
+      "url": "https://doi.org/10.1007/s00535-026-02499-x",
+      "source": "PubMed — Journal of gastroenterology",
+      "one_liner": "BACKGROUND: The molecular mechanisms by which the epidemiologically linked bacterium Fusobacterium nucleatum (Fn) promotes Esophageal Squamous Cell Carcinoma (ESCC) malignancy are poorly defined. Here, we identify the key signaling pathways involved. METHODS: We first established the intratumoral microbiota profile to focus on Fn's role in ESCC. Using int...",
+      "segment": 14,
+      "timestamp": 882.26
+    },
+    {
+      "title": "Host-Microbe Mechanisms of Fusobacterium nucleatum in Colorectal Cancer.",
+      "url": "https://doi.org/10.1111/omi.70038",
+      "source": "PubMed — Molecular oral microbiology",
+      "one_liner": "The oral-derived pathobiont Fusobacterium nucleatum has increasingly been implicated in colorectal cancer (CRC) progression through its ability to modulate inflammatory, immunological, and molecular pathways. F. nucleatum has emerged as a key oral-derived pathobiont frequently associated with tumor aggressiveness and alterations in the colorectal tumor mi...",
+      "segment": 15,
+      "timestamp": 974.48
+    },
+    {
+      "title": "Heat stress-induced enrichment of Klebsiella pneumoniae links mammary microbiota dysbiosis with inflammatory responses.",
+      "url": "https://doi.org/10.3168/jds.2026-28555",
+      "source": "PubMed — Journal of dairy science",
+      "one_liner": "Heat stress is a major challenge to dairy production and leads to substantial losses in milk yield and quality. Although reduced feed intake is recognized as an important contributor to heat stress-induced production decline, evidence from pair-fed studies suggests that intake reduction alone cannot fully explain impaired mammary performance. Mammary infl...",
+      "segment": 16,
+      "timestamp": 1018.74
+    },
+    {
+      "title": "Dietary",
+      "url": "https://doi.org/10.1002/fsn3.72215",
+      "source": "PubMed — Food science & nutrition",
+      "one_liner": "Dietary polysaccharides are important bioactive components of functional foods and play a key role in modulating host metabolism through interactions with the gut microbiota.",
+      "segment": 17,
+      "timestamp": 1061.4
+    },
+    {
+      "title": "Effects of probiotic intervention on serum lipid profiles: current evidence from systematic review and meta-analysis of randomized controlled trials.",
+      "url": "https://doi.org/10.1080/10408398.2026.2714684",
+      "source": "PubMed — Critical reviews in food science and nutrition",
+      "one_liner": "Dyslipidemia is a major risk factor for cardiovascular and metabolic diseases. Evidence suggests that probiotics may improve serum lipid profiles through multiple mechanisms, including bile salt hydrolase activity, cholesterol assimilation, conversion of cholesterol into coprostanol, deconjugation and precipitation of cholesterol by probiotic enzymes, reg...",
+      "segment": 18,
+      "timestamp": 1108.01
+    },
+    {
+      "title": "Putative anaerobic transformation pathway of microcystin-RR inferred from 15N labeling and multi-omics in an enriched shrimp pond sediment microbial community.",
+      "url": "https://doi.org/10.1371/journal.pone.0355950",
+      "source": "PubMed — PloS one",
+      "one_liner": "The degradation mechanism of MC-RR by an anaerobic degrading microbial community (ADMC), enriched from shrimp pond sediment, was investigated using LC-MS/MS, metagenomic, and metatranscriptomic analyses. Three key degradation products of 15N-labeled MC-RR were tentatively identified: Adda-Glu-Mdha-Ala (m/z 618.3216), a deamination product (m/z 600.2965), ...",
+      "segment": 19,
+      "timestamp": 1154.52
+    },
+    {
+      "title": "Fecal microbiota transplantation in the treatment of acute graft-versus-host disease: A retrospective study performed by the Complications Working Party and Pediatric Diseases Working Party of the EBMT.",
+      "url": "https://doi.org/10.1038/s41409-026-03010-z",
+      "source": "PubMed — Bone marrow transplantation",
+      "one_liner": "Acute graft-versus-host disease (aGvHD) is a major cause of non-relapse mortality following allogeneic hematopoietic stem cell transplantation (alloHSCT). While corticosteroids are the standard first-line therapy, approximately half of the patients become steroid-refractory or -dependent (SR/D). Fecal microbiota transplantation (FMT) has emerged as a ther...",
+      "segment": 20,
+      "timestamp": 1288.38
+    },
+    {
+      "title": "Immuno-Metabolic Interactions Along the Microbiota-Gut-Brain Axis in Ischemic Stroke: A Narrative Review.",
+      "url": "https://doi.org/10.1016/j.jstrokecerebrovasdis.2026.108731",
+      "source": "PubMed — Journal of stroke and cerebrovascular diseases : the official journal of National Stroke Association",
+      "one_liner": "BACKGROUND AND PURPOSE: Ischemic stroke (IS) remains a leading global cause of mortality and disability. Although current reperfusion strategies have advanced, the complex pathological mechanisms underlying IS continue to significantly limit clinical prognosis. Recently, the pivotal role of the microbiota-gut-brain axis (MGBA) in the pathological evolutio...",
+      "segment": 21,
+      "timestamp": 1422.08
+    },
+    {
+      "title": "Faecalibacterium prausnitzii attenuates diabetes-associated affective disorders by suppressing neuroinflammation through the SCFAs/FFAR3/NF-κB/NLRP3 pathway.",
+      "url": "https://doi.org/10.1016/j.intimp.2026.117314",
+      "source": "PubMed — International immunopharmacology",
+      "one_liner": "BACKGROUND: Diabetes-associated affective disorders are a global health burden tightly linked to the gut microbiota. The depletion of Faecalibacterium prausnitzii (F. prausnitzii) is a shared feature of diabetes and depression, yet its therapeutic potential and mechanisms remain unclear. METHODS: We first analyzed the microbial composition of populations ...",
+      "segment": 22,
+      "timestamp": 1467.51
+    },
+    {
+      "title": "Biomaterial-Based Microbiota Strategies for Targeting the Intestinal Immune Microenvironment in Inflammatory Bowel Disease.",
+      "url": "https://doi.org/10.1016/j.ejphar.2026.179259",
+      "source": "PubMed — European journal of pharmacology",
+      "one_liner": "Inflammatory bowel disease (IBD) is a chronic inflammatory disorder of the gastrointestinal tract with an unclear etiology. Its onset and progression are closely associated with gut microbiota dysbiosis and immune dysfunction. Microbiota-based therapeutic strategies can alleviate intestinal inflammation to some extent. However, their clinical efficacy rem...",
+      "segment": 23,
+      "timestamp": 1824.17
+    },
+    {
+      "title": "AI-Guided Computational Design of Synthetic Microbiota for Next-Generation Immunomodulatory Applications.",
+      "url": "https://doi.org/10.1016/j.slast.2026.100460",
+      "source": "PubMed — SLAS technology",
+      "one_liner": "The growing recognition of the human microbiome as a key regulator of immune homeostasis has accelerated the application of computational intelligence for microbiome-driven disease understanding and therapeutic design. However, existing microbiome studies largely rely on classical machine learning or shallow deep learning models that fail to capture highe...",
+      "segment": 24,
+      "timestamp": 1876.87
+    },
+    {
+      "title": "Structural Characterization, Physicochemical Properties, and Ameliorating Effect on Age-Related Constipation of an Arabinogalactan from Peach Gum.",
+      "url": "https://doi.org/10.1021/acs.jafc.6c00384",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "Peach gum (PG), a resin secreted from Prunus persica or Prunus davidiana, is used to support gut health. In this study, an arabinogalactan, PG-2, was isolated and purified from PG. The structural and physicochemical properties of PG-2 were analyzed. The efficacy of PG-2 in alleviating constipation and its effects on gut microbiota, its metabolites, coloni...",
+      "segment": 25,
+      "timestamp": 1917.55
+    },
+    {
+      "title": "Dietary Modulation of Osteoporosis via Probiotics and the Gut-Bone Axis: From Mechanisms to Food Applications.",
+      "url": "https://doi.org/10.1021/acs.jafc.5c17737",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "Osteoporosis, a metabolic bone disorder affecting nearly one-third of women and one-fifth of men globally, poses a major public health burden. Current pharmacological treatments face limitations, driving interest in safer nutritional interventions. The gut-bone axis, through which gut microbiota modulate bone homeostasis, offers a promising target. This r...",
+      "segment": 26,
+      "timestamp": 1958.8
+    },
+    {
+      "title": "Nutraceutical Intervention of Probiotics in Vision Science: A Systematic Review of Evolving Perspective.",
+      "url": "https://doi.org/10.1155/joph/5690407",
+      "source": "PubMed — Journal of ophthalmology",
+      "one_liner": "Probiotics are active elements of the gastrointestinal tract that, when administered in adequate quantities, confer prolonged health efficacy on host organisms by enhancing the equilibrium of their gut microbiota (GM). This GM regulates numerous aspects of human wellness and is required for sustaining metabolic equilibrium. A gut-eye axis is a bidirection...",
+      "segment": 27,
+      "timestamp": 2005.93
+    },
+    {
+      "title": "Empagliflozin improves gut microbial disturbances and intestinal barrier integrity in STZ-induced type 2 diabetic mice.",
+      "url": "https://doi.org/10.1530/JOE-26-0110",
+      "source": "PubMed — The Journal of endocrinology",
+      "one_liner": "BACKGROUND: Intestinal barrier dysfunction and gut microbiota dysbiosis contribute to the pathogenesis of type 2 diabetes mellitus (T2DM). However, the effects of empagliflozin on the gut microbiota-intestinal barrier axis remain incompletely understood. This study investigated whether empagliflozin improves intestinal barrier integrity and gut microbiota...",
+      "segment": 28,
+      "timestamp": 2043.97
+    },
+    {
+      "title": "Targeted genomic editing of human gut Bacteroides species based on CRISPR-associated transposases.",
+      "url": "https://doi.org/10.1016/j.cels.2026.101650",
+      "source": "PubMed — Cell systems",
+      "one_liner": "Gut Bacteroides are abundant and critical to human health, yet most are genetically cumbersome, non-model microbes. A widely applicable editing tool for Bacteroides is essential for gut microbiome manipulation. Here, we develop STIB (ShCAST-based transient insertion system for Bacteroides), an efficient genome-editing tool derived from CRISPR-associated t...",
+      "segment": 29,
+      "timestamp": 2089.13
+    },
+    {
+      "title": "A data-driven modeling framework for mapping genotypes to synthetic microbial community functions.",
+      "url": "https://doi.org/10.1016/j.cels.2026.101652",
+      "source": "PubMed — Cell systems",
+      "one_liner": "Synthetic microbial communities offer valuable insights into the mechanisms that govern community functions, and they can be designed to achieve desired functions in order to address societal challenges in precision medicine and agriculture. Existing computational models for predicting synthetic community functions use species abundances as inputs; this m...",
+      "segment": 30,
+      "timestamp": 2134.75
+    },
+    {
+      "title": "Oral administration of probiotic Limosilactobacillus reuteri DSM 17938 suppresses dry eye disease in the desiccating stress mouse model.",
+      "url": "https://doi.org/10.1016/j.jtos.2026.08.005",
+      "source": "PubMed — The ocular surface",
+      "one_liner": "PURPOSE: Gut dysbiosis can adversely affect the ocular surface, resulting in inflammation and dry eye. We investigated the potential of an orally administered probiotic bacteria, Limosilactobacillus reuteri DSM17938 (LR17938), on dry eye disease in the desiccating stress (DS) mouse model. METHODS: C57BL/6J mice were treated with antibiotics (ABX) to induc...",
+      "segment": 31,
+      "timestamp": 2176.15
+    },
+    {
+      "title": "Integrated multi-omics profiling identifies a convergent gut-metabolic-immune signature in Alzheimer's disease.",
+      "url": "https://doi.org/10.1016/j.freeradbiomed.2026.08.023",
+      "source": "PubMed — Free radical biology & medicine",
+      "one_liner": "Alzheimer's disease (AD) is a progressive neurodegenerative disorder with rising global prevalence, yet the peripheral mechanisms linking gut dysbiosis, systemic redox imbalance, and immune activation remain poorly understood. Here, we performed integrated multi-omics profiling of fecal microbiome, serum metabolome, and circulating cytokines in 40 patient...",
+      "segment": 32,
+      "timestamp": 2219.58
+    },
+    {
+      "title": "Applications of machine learning in microbial source tracking.",
+      "url": "https://doi.org/10.1016/j.tim.2026.07.010",
+      "source": "PubMed — Trends in microbiology",
+      "one_liner": "Microbial source tracking (MST) has become important in environmental ecology, food safety, and forensic investigation. With advances in microbiome technologies, MST has shifted from single-indicator methods to community-level inference, creating demand for stronger analytical frameworks. Machine learning (ML) now plays a central role in handling large-sc...",
+      "segment": 33,
+      "timestamp": 2261.89
+    },
+    {
+      "title": "Beyond Pathogen or Commensal: Emerging Evidence on Blastocystis in Food, Environment, and Human Health.",
+      "url": "https://doi.org/10.1177/15353141261479390",
+      "source": "PubMed — Foodborne pathogens and disease",
+      "one_liner": "SCOPE: This review summarizes recent findings (2021-2026) on the epidemiology, transmission, pathogenicity, host-microbiome interactions, and subtype-specific characteristics of KEY FINDINGS: Current evidence indicates that CONCLUSION: Understanding the dual roles of",
+      "segment": 34,
+      "timestamp": 2314.81
+    },
+    {
+      "title": "Beyond stool: sampling context and inferential scope in gut mechanistic studies.",
+      "url": "https://doi.org/10.1128/mmbr.00212-26",
+      "source": "PubMed — Microbiology and molecular biology reviews : MMBR",
+      "one_liner": "SUMMARYHuman gut microbiome research still relies heavily on fecal sampling because stool is noninvasive, scalable, repeatable, and essential for population-level and longitudinal studies. These strengths have made stool central to human microbiome science, but fecal output is not a neutral representation of every intestinal compartment. It reflects mater...",
+      "segment": 35,
+      "timestamp": 2357.5
+    },
+    {
+      "title": "The Oral-Hepatic Axis: Epidemiological and Mechanistic Links Between Periodontal and Liver Diseases.",
+      "url": "https://doi.org/10.1111/jre.70159",
+      "source": "PubMed — Journal of periodontal research",
+      "one_liner": "Chronic liver diseases and periodontitis are prevalent inflammatory disorders that impose substantial global health and economic burdens. Increasing evidence supports an oral-hepatic axis through which periodontal dysbiosis and chronic oral inflammation may influence hepatic homeostasis and disease progression. Epidemiologic studies have linked periodonti...",
+      "segment": 36,
+      "timestamp": 2401.46
+    },
+    {
+      "title": "Artificial intelligence in food and nutrition science: a paradigm-centric review of computational frameworks and system-level integration.",
+      "url": "https://doi.org/10.1039/d6fo02990f",
+      "source": "PubMed — Food & function",
+      "one_liner": "Precision nutrition on a global scale necessitates an understanding of food not as static collections of so-called macronutrients but rather as dynamic and heterogeneous biochemical matrices. These complex non-linear interactions between food composition, gastrointestinal digestion and the human microbiome are difficult to capture using traditional empiri...",
+      "segment": 37,
+      "timestamp": 2449.15
+    },
+    {
+      "title": "TMAO Correlates with Transcriptomic Signatures of Leukocyte Activation and Systemic Inflammation Following Burn Injury.",
+      "url": "https://doi.org/10.1093/jbcr/irag147",
+      "source": "PubMed — Journal of burn care & research : official publication of the American Burn Association",
+      "one_liner": "BACKGROUND: Severe burn injury induces gastrointestinal dysfunction and bacterial dysbiosis, yet the systemic impact of altered bacterial metabolites remains poorly understood. We assessed whether changes in plasma levels of trimethylamine N-oxide (TMAO), a gut-derived metabolite, have a relationship with changes in the whole blood transcriptomic profile ...",
+      "segment": 38,
+      "timestamp": 2500.02
+    }
+  ]
+}
