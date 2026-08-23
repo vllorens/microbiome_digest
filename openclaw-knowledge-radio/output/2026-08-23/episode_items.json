@@ -1,0 +1,240 @@
+{
+  "timestamps": [
+    0.0,
+    114.6,
+    247.91,
+    369.25,
+    503.41,
+    643.4,
+    681.05,
+    721.87,
+    766.62,
+    815.29,
+    854.38,
+    1261.25,
+    1313.74,
+    1368.48,
+    1418.27,
+    1460.58,
+    1508.05,
+    1549.97,
+    1591.51,
+    1703.16,
+    1808.34,
+    1858.52,
+    1903.9,
+    1942.32,
+    1993.1,
+    2039.59
+  ],
+  "items": [
+    {
+      "title": "Gut microbiota, inflammatory proteins, and allergic diseases: A bidirectional Mendelian randomization study.",
+      "url": "https://doi.org/10.1097/MD.0000000000050266",
+      "source": "PubMed — Medicine",
+      "one_liner": "Some authors suggest a link between gut microbiota and allergic diseases; however, the genetically predicted relationship and the role of inflammatory proteins as mediators are still uncertain. Gut microbiota, inflammatory proteins, and 5 types of allergic diseases, namely allergic rhinitis (AR), atopic dermatitis, allergic conjunctivitis, food allergy, a...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Impact of Infant Feeding Mode on Gut Microbiome Composition in Early Life: Evidence from an Egyptian Cohort.",
+      "url": "https://doi.org/10.1038/s41598-026-66403-6",
+      "source": "PubMed — Scientific reports",
+      "one_liner": "The infant gut microbiome develops rapidly in early life, shaping immune maturation and metabolic pathways. Data from Middle Eastern populations remain limited. We studied Egyptian infants aged 1 to 6 months to assess feeding related differences in gut microbiome composition. Stool samples were collected and the gut microbiota was profiled using 16S rRNA ...",
+      "segment": 1,
+      "timestamp": 114.6
+    },
+    {
+      "title": "Gut microbiota signatures associated with spermatogenic capacity and sperm retrieval outcomes in non-obstructive azoospermia.",
+      "url": "https://doi.org/10.1007/s10815-026-04002-0",
+      "source": "PubMed — Journal of assisted reproduction and genetics",
+      "one_liner": "PURPOSE: To characterize gut microbiota composition in men with non-obstructive azoospermia (NOA) and evaluate associations with sperm retrieval outcomes following microdissection testicular sperm extraction (mTESE). METHODS: In this prospective cohort, fecal samples from 39 azoospermic men (obstructive azoospermia [OA], n = 14; NOA, n = 25) were analyzed...",
+      "segment": 2,
+      "timestamp": 247.91
+    },
+    {
+      "title": "Exploration of the mechanism of gut microbiota-mediated immune modulation in the pathogenesis of pancreatic cancer: A Mendelian randomization study.",
+      "url": "https://doi.org/10.1097/MD.0000000000050399",
+      "source": "PubMed — Medicine",
+      "one_liner": "The pathogenesis of pancreatic cancer is complex. While immune dysregulation and gut microbiota disturbances are considered key factors, the causal pathway between them remains unclear. This study employs a 2-step Mendelian randomization (MR) approach to empirically investigate the \"immune cells - gut microbiota - pancreatic cancer\" mediation pathway from...",
+      "segment": 3,
+      "timestamp": 369.25
+    },
+    {
+      "title": "Gut microbiota, immune cell traits, and major adverse cardiac events: A joint analysis of global burden of disease study and Mendelian randomization.",
+      "url": "https://doi.org/10.1097/MD.0000000000050188",
+      "source": "PubMed — Medicine",
+      "one_liner": "As one of the primary composite endpoints in cardiovascular clinical research, major adverse cardiac events (MACE) are associated with poor clinical outcomes in patients with cardiovascular diseases. Gut microbiota and immune cells are increasingly recognized to be associated with MACE. However, the precise mechanisms remain unclear. We retrospectively an...",
+      "segment": 4,
+      "timestamp": 503.41
+    },
+    {
+      "title": "[Tremella fuciformispolysaccharide retards the progression of colorectal cancer by regulating the gut microbiota-metabolome axis].",
+      "url": "https://doi.org/10.3760/cma.j.cn112152-20250925-00485",
+      "source": "PubMed — Zhonghua zhong liu za zhi [Chinese journal of oncology]",
+      "one_liner": "",
+      "segment": 5,
+      "timestamp": 643.4
+    },
+    {
+      "title": "Contribution of a combined approach using refined enterotyping and non-negative matrix factorization (NMF) to the characterization of the gut microbiota in Tunisia, North Africa.",
+      "url": "https://doi.org/10.1093/femsle/fnag095",
+      "source": "PubMed — FEMS microbiology letters",
+      "one_liner": "This pilot study aimed to assess the enhanced capabilities of a combined approach using refined enterotyping and non-negative matrix factorization (NMF) for identifying specific microbiota patterns in healthy adults in Tunisia. Shotgun metagenomic sequencing was performed on 21 stool samples. Taxonomic classification was carried out using Kraken2, followe...",
+      "segment": 6,
+      "timestamp": 681.05
+    },
+    {
+      "title": "[Association between 473 gut microbiota and Alzheimer's disease: a Mendelian randomization mediation analysis of 233 circulating metabolites].",
+      "url": "https://doi.org/10.12122/j.issn.1673-4254.2026.08.20",
+      "source": "PubMed — Nan fang yi ke da xue xue bao = Journal of Southern Medical University",
+      "one_liner": "OBJECTIVES: To investigate the causal associations between gut microbiota (GM) and Alzheimer's disease (AD) and the mediating role of circulating metabolites using Mendelian randomization (MR) analysis. METHODS: A two-sample MR analysis was conducted based on genome-wide association study (GWAS) summary data. Valid instrumental variables for 473 GM taxa a...",
+      "segment": 7,
+      "timestamp": 721.87
+    },
+    {
+      "title": "Nationwide multi-omics profiling of Japanese jack mackerel reveals geographic gut microbiome structuring despite host panmixia",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.08.20.745924",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Host genetic markers often fail to resolve regional origins in highly connected or panmictic marine species. The Japanese jack mackerel, Trachurus japonicus, is a commercially important fishery species around Japan that shows little or no detectable population structure. Here, we used nationwide multi-omics profiling to compare host genomic variation and ...",
+      "segment": 8,
+      "timestamp": 766.62
+    },
+    {
+      "title": "The gut microbiome organ.",
+      "url": "https://doi.org/10.1002/imt2.70144",
+      "source": "PubMed — iMeta",
+      "one_liner": "The human gut microbiome is increasingly viewed as an active regulator of host physiology, extending beyond earlier taxonomy-centered descriptions of a complex microbial community. Accumulating evidence supports an organ-like conceptual framework in which the gut microbiome exhibits spatially structured organization, extensive metabolic capacity, and cont...",
+      "segment": 9,
+      "timestamp": 815.29
+    },
+    {
+      "title": "Protal: Ultra-fast metagenomic profiling and strain-resolved analysis",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.08.03.742433",
+      "source": "bioRxiv — bioinformatics",
+      "one_liner": "Large-scale metagenomic studies increasingly require taxonomic profiles that are sensitive, precise, strain-resolved and computationally tractable. Existing profilers typically trade taxonomic breadth, sensitivity, precision and speed against one another, limiting their utility for high-resolution microbiome analyses. Here we present protal -- profiling t...",
+      "segment": 10,
+      "timestamp": 854.38
+    },
+    {
+      "title": "Indole-3-acetic acid alleviates intestinal failure associated liver disease via the miR-216a-5p/LRH-1 axis.",
+      "url": "https://doi.org/10.1016/j.jnutbio.2026.110488",
+      "source": "PubMed — The Journal of nutritional biochemistry",
+      "one_liner": "BACKGROUND: Long-term total parenteral nutrition can cause intestinal failure-associated liver disease (IFALD). Gut microbiota-derived indole-3-acetic acid (IAA) has been linked to liver disease, but mechanisms remain unclear. This study aimed to verify the protective role of Lactobacillus reuteri and IAA in IFALD and to investigate whether IAA acts throu...",
+      "segment": 11,
+      "timestamp": 1261.25
+    },
+    {
+      "title": "Tear film Microbiota in Meibomian gland dysfunction: Compositional changes and their correlation with meibum lipids and tear film parameters.",
+      "url": "https://doi.org/10.1016/j.exer.2026.111212",
+      "source": "PubMed — Experimental eye research",
+      "one_liner": "Meibomian gland dysfunction (MGD) is the leading cause of evaporative dry eye disease. The multifactorial pathogenesis of MGD remains poorly understood, with limited understanding of the interplay between the microbiome and meibum lipid composition. This study investigates the ocular microbiota and lipid profiles in patients with MGD (n = 20, diagnosed ac...",
+      "segment": 12,
+      "timestamp": 1313.74
+    },
+    {
+      "title": "Microbial Metabolites and Neural Epigenetic Circuitry in Emotional Homeostasis and Depression.",
+      "url": "https://doi.org/10.1093/nutrit/nuag119",
+      "source": "PubMed — Nutrition reviews",
+      "one_liner": "The objective of this study was to review current evidence on how dietary polyphenols alleviate mood disorders through gut microbiota-mediated metabolism and epigenetic regulation, with emphasis on the molecular mechanisms underlying the microbiota-gut-brain axis. Mood disorders are associated with gut microbiota dysbiosis, neuroinflammation, impaired neu...",
+      "segment": 13,
+      "timestamp": 1368.48
+    },
+    {
+      "title": "Impact of Intestinal Propionate Metabolism on Systemic Metabolic Homeostasis.",
+      "url": "https://doi.org/10.1152/ajpendo.00168.2026",
+      "source": "PubMed — American journal of physiology. Endocrinology and metabolism",
+      "one_liner": "Propionate is an abundant short-chain fatty acid largely derived from gut microbiota in mammals. Propionate metabolism is essential to maintain systemic homeostasis and inborn errors of essential metabolic enzymes in this pathway cause severe illness. The juxtaposition of high concentrations of propionate with the intestinal epithelium suggests a need for...",
+      "segment": 14,
+      "timestamp": 1418.27
+    },
+    {
+      "title": "Characterization of the intestinal microbial profile in mild cognitive impairment and Alzheimer's disease.",
+      "url": "https://doi.org/10.1590/1980-5764-DN-2025-0440",
+      "source": "PubMed — Dementia & neuropsychologia",
+      "one_liner": "UNLABELLED: Alzheimer's disease (AD) and mild cognitive impairment (MCI) are major contributors to dementia, with growing prevalence in Latin America. Evidence suggests that gut microbiota alterations may influence neurodegeneration, but data on Hispanic population are lacking. OBJECTIVE: Characterize gut microbiota in individuals with AD, MCI, and contro...",
+      "segment": 15,
+      "timestamp": 1460.58
+    },
+    {
+      "title": "Mouth-to-gut microbial transmission signatures enable robust, non-invasive diagnosis of gastrointestinal cancers.",
+      "url": "https://doi.org/10.1016/j.chom.2026.07.007",
+      "source": "PubMed — Cell host & microbe",
+      "one_liner": "The human microbiome is spatially compartmentalized, yet oral bacteria can ectopically colonize distal sites such as the gut, potentially influencing disease. By analyzing paired oral and fecal microbiomes from 507 participants across healthy controls and patients with metabolic disorders or gastrointestinal cancers, we established a quantitative mouth-to...",
+      "segment": 16,
+      "timestamp": 1508.05
+    },
+    {
+      "title": "Age-adjusted machine learning identifies facial skin microbes associated with skin quality among Korean women.",
+      "url": "https://doi.org/10.1128/msystems.00840-26",
+      "source": "PubMed — mSystems",
+      "one_liner": "Recognizing specific microbes that significantly influence skin quality is becoming an essential aspect of personalized skincare. However, conventional large-scale cohort skin microbiome studies often overlook important confounders, such as age, leading to missing meaningful microbe-skin relationships. In this study, we developed an age-adjusted machine l...",
+      "segment": 17,
+      "timestamp": 1549.97
+    },
+    {
+      "title": "The underexplored mycobiome: insights from Drosophila into human health and disease.",
+      "url": "https://doi.org/10.1007/s10482-026-02412-9",
+      "source": "PubMed — Antonie van Leeuwenhoek",
+      "one_liner": "Drosophila melanogaster serves as a powerful and experimentally tractable genetic model for microbiome research due to its relatively simple gut community, ease of genetic manipulation, and the ability to generate germ-free flies. Despite extensive research on bacterial components of the human microbiome, the role of the mycobiome in host health and disea...",
+      "segment": 18,
+      "timestamp": 1591.51
+    },
+    {
+      "title": "Phyllanthus emblica as a prebiotic modulator of the gut-endocrine axis in polycystic ovary syndrome: a translational perspective on synbiotic therapeutics.",
+      "url": "https://doi.org/10.1007/s12223-026-01577-0",
+      "source": "PubMed — Folia microbiologica",
+      "one_liner": "Polycystic Ovary Syndrome (PCOS) is a complex endocrine-metabolic disorder characterized by insulin resistance, chronic inflammation, and hyperandrogenism, with emerging evidence implicating gut microbiome dysbiosis in its pathogenesis. This review explores the therapeutic potential of Phyllanthus emblica (Amla) as a prebiotic scaffold within synbiotic sy...",
+      "segment": 19,
+      "timestamp": 1703.16
+    },
+    {
+      "title": "Systemic Interventions Targeting Epidermal Barrier Function: Translational Insights from Oral Probiotics.",
+      "url": "https://doi.org/10.1159/spp/aetag003",
+      "source": "PubMed — Skin pharmacology and physiology",
+      "one_liner": "The epidermal barrier is increasingly recognized as a dynamic and pharmacologically targetable system that extends beyond its traditional role as a passive structural defense. In inflammatory skin diseases such as atopic dermatitis and psoriasis, barrier dysfunction contributes not only to increased permeability and environmental susceptibility but also t...",
+      "segment": 20,
+      "timestamp": 1808.34
+    },
+    {
+      "title": "Virulence studies of the human gut pathobiont Bilophila wadsworthia using Galleria mellonella as model host.",
+      "url": "https://doi.org/10.1016/j.micpath.2026.108792",
+      "source": "PubMed — Microbial pathogenesis",
+      "one_liner": "Bilophila wadsworthia is a gut pathobiont implicated in dysbiosis-driven inflammation, yet its pathogenic mechanisms remain poorly investigated. Here, we evaluated the suitability of Galleria mellonella larvae as an in vivo model to study B. wadsworthia infection. Two infection routes were compared: oral inoculation to mimic gastrointestinal colonization ...",
+      "segment": 21,
+      "timestamp": 1858.52
+    },
+    {
+      "title": "Effects of probiotic supplementation on sleep and psychological outcomes in adults with mild-to-moderate insomnia symptoms and work-related stress: A randomized, placebo-controlled, double-blind trial.",
+      "url": "https://doi.org/10.1016/j.sleep.2026.109223",
+      "source": "PubMed — Sleep medicine",
+      "one_liner": "This study aimed to investigate the effects of the Cerebiome® probiotic supplement on mild to moderate insomnia symptoms associated with work-related stress. Using a randomized, placebo-controlled, double-blind, parallel design, adults aged 18-65 with mild to moderate insomnia symptoms but no diagnosis of mental disorder or severe psychosocial distress, w...",
+      "segment": 22,
+      "timestamp": 1903.9
+    },
+    {
+      "title": "Lipoprotein components of probiotics act as negative regulators of bone metabolism via the dual modulation of osteoclast and osteoblast differentiation.",
+      "url": "https://doi.org/10.1016/j.bcp.2026.118385",
+      "source": "PubMed — Biochemical pharmacology",
+      "one_liner": "Bacterial lipoproteins are recognized as key virulence factors that contribute to bone destruction at bacterial infections. Probiotics are widely known for the beneficial effects on bone health, however, the role of their lipoproteins remains poorly understood. In the current study, we investigated the role of lipoproteins derived from the representative ...",
+      "segment": 23,
+      "timestamp": 1942.32
+    },
+    {
+      "title": "Eubiosis and dysbiosis in periodontitis-related systemic diseases.",
+      "url": "https://doi.org/10.1002/jper.70188",
+      "source": "PubMed — Journal of periodontology",
+      "one_liner": "BACKGROUND: This narrative review examines the eubiosis-dysbiosis spectrum in periodontitis and its systemic implications. Evidence is drawn from the literature through 2026; as a narrative review, some selection bias cannot be excluded. Periodontitis, affecting 10%-15% of adults globally, drives systemic health disorders through microbial dysbiosis. OBJE...",
+      "segment": 24,
+      "timestamp": 1993.1
+    },
+    {
+      "title": "Clinical, microbiological, and immune marker improvement with adjunctive vaginal-spray spore-forming probiotics in women with vaginal infections.",
+      "url": "https://doi.org/10.1163/18762891-bja00131",
+      "source": "PubMed — Beneficial microbes",
+      "one_liner": "Symptomatic vaginal and cervicovaginal conditions include bacterial vaginosis (BV), vulvovaginal candidiasis (VVC), and other sexually transmitted infection (STI)-related conditions with overlapping clinical features. Adjunctive probiotic therapies are increasingly explored to complement standard antimicrobial treatment. This randomised, double-blind, con...",
+      "segment": 25,
+      "timestamp": 2039.59
+    }
+  ]
+}

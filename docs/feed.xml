@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Aug 2026 03:53:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 03:54:34 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-08-23</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-23/podcast_2026-08-23.mp3</guid>
+      <pubDate>Sun, 23 Aug 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-23/podcast_2026-08-23.mp3" length="15704564" type="audio/mpeg" />
+      <description>This study uses bidirectional Mendelian randomization to probe whether gut microbiota influences allergic diseases, whether allergic diseases shape the gut microbiome, and whether circulating inflammatory proteins mediate any of these relationships. | The available text does not provide details on the specific microbial taxa or proteins selected, the source of the genome‑wide association summary statistics, or the statistical thresholds used to define strong instruments. | What is clear from the description is the study’s ambition to untangle a complex, potentially bidirectional web: gut microbes → immune signaling → allergic outcomes, and the possible feedback from allergic inflammation to microbial composition.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>This study uses bidirectional Mendelian randomization to probe whether gut microbiota influences allergic diseases, whether allergic diseases shape the gut microbiome, and whether circulating inflammatory proteins mediate any of these relationships. | The available text does not provide details on the specific microbial taxa or proteins selected, the source of the genome‑wide association summary statistics, or the statistical thresholds used to define strong instruments. | What is clear from the description is the study’s ambition to untangle a complex, potentially bidirectional web: gut microbes → immune signaling → allergic outcomes, and the possible feedback from allergic inflammation to microbial composition.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-08-22</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-22/podcast_2026-08-22.mp3</guid>
       <pubDate>Sat, 22 Aug 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-22/podcast_2026-08-22.mp3" length="20455556" type="audio/mpeg" />
-      <description>Multi‑omics profiling of gut microbes has uncovered signatures tied to cognitive decline in Alzheimer’s disease. | High‑protein intake is the main driver of muscle anabolism and gut‑microbiota shifts during resistance training, with the training itself adding further neuromuscular and metabolic gains, according to a new Life Sciences study indexed in PubMed. | Glasmacinal (EP395) is an oral macrolide that shares the immunomodulatory profile of antibiotic macrolides such as azithromycin, yet shows negligible in vitro antimicrobial activity.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-22/podcast_2026-08-22.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Multi‑omics profiling of gut microbes has uncovered signatures tied to cognitive decline in Alzheimer’s disease. | High‑protein intake is the main driver of muscle anabolism and gut‑microbiota shifts during resistance training, with the training itself adding further neuromuscular and metabolic gains, according to a new Life Sciences study indexed in PubMed. | Glasmacinal (EP395) is an oral macrolide that shares the immunomodulatory profile of antibiotic macrolides such as azithromycin, yet shows negligible in vitro antimicrobial activity.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-04/podcast_2026-06-04.mp3</guid>
       <pubDate>Thu, 04 Jun 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-04/podcast_2026-06-04.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-06-02</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-02/podcast_2026-06-02.mp3</guid>
-      <pubDate>Tue, 02 Jun 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-02/podcast_2026-06-02.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
