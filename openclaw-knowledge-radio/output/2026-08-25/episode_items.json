@@ -1,0 +1,213 @@
+{
+  "timestamps": [
+    0.0,
+    42.64,
+    170.13,
+    276.66,
+    325.93,
+    367.68,
+    413.88,
+    459.09,
+    506.49,
+    551.05,
+    594.99,
+    624.56,
+    674.59,
+    711.88,
+    755.75,
+    795.44,
+    904.38,
+    1022.6,
+    1060.78,
+    1104.91,
+    1148.61,
+    1204.26,
+    1250.19
+  ],
+  "items": [
+    {
+      "title": "Integrative microbiome-methylome analysis links bacterial taxa to colorectal cancer histological subtypes.",
+      "url": "https://doi.org/10.1128/msystems.00622-26",
+      "source": "PubMed — mSystems",
+      "one_liner": "Colorectal cancer (CRC) arises through distinct molecular and histological routes that may be shaped by interactions between the mucosa-associated microbiota and host epigenetic regulation. We analyzed paired tumor and adjacent non-tumor colorectal mucosa from CRC patients stratified by histological subtype (conventional vs serrated-pathway groups). Micro...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Metagenomic analysis of gut microbiota and its correlation with thyroid hormones in papillary thyroid cancer before and after operation.",
+      "url": "https://doi.org/10.1371/journal.pone.0356770",
+      "source": "PubMed — PloS one",
+      "one_liner": "BACKGROUND: The changes of intestinal flora and thyroid hormone levels before and after operation for papillary thyroid cancer (PTC) and their relationship are not clear. It may interfere with the intestinal thyroid axis, change the systemic thyroid hormone regulation and exogenous treatment response. It is recognized that this microbial involvement is cl...",
+      "segment": 1,
+      "timestamp": 42.64
+    },
+    {
+      "title": "Osteoporosis from the perspective of the gut-bone axis: gut microbiota, metabolites, and multi-system synergistic regulation.",
+      "url": "https://doi.org/10.1007/s40618-026-03022-y",
+      "source": "PubMed — Journal of endocrinological investigation",
+      "one_liner": "PURPOSE: Evidence increasingly implicates the gut microbiota in skeletal homeostasis, but the mechanisms and clinical relevance of the gut-bone axis remain unclear. This narrative review aimed to synthesize evidence linking the gut microbiota and its metabolites to osteoporosis, delineate key regulatory pathways, and assess the potential of microbiota-tar...",
+      "segment": 2,
+      "timestamp": 170.13
+    },
+    {
+      "title": "Maternal di(2-ethylhexyl) phthalate (DEHP) exposure alters offspring gut microbiota and the colonic transcriptome in a sex-specific manner.",
+      "url": "https://doi.org/10.1016/j.ecoenv.2026.120702",
+      "source": "PubMed — Ecotoxicology and environmental safety",
+      "one_liner": "Maternal exposure to the plasticizer DEHP during gestation and lactation programs lasting sex-specific alterations in offspring intestinal health. This study investigated the transgenerational effects of perinatal DEHP exposure on offspring intestinal health using a C57BL/6 mouse model. Dams were exposed to 0, 40, or 400 ppm DEHP via their diet during ges...",
+      "segment": 3,
+      "timestamp": 276.66
+    },
+    {
+      "title": "The gut microbiome in chemotherapy-induced fatigue: Exploring clinical associations and modulation via fecal microbiota transplantation in female mice.",
+      "url": "https://doi.org/10.1016/j.intimp.2026.117318",
+      "source": "PubMed — International immunopharmacology",
+      "one_liner": "BACKGROUND: Fatigue is a common and debilitating side effect of chemotherapy, negatively affecting treatment adherence and survival. Chemotherapy alters gut microbiome composition, and accumulating evidence suggests that gut microbes contribute to chemotherapy-induced fatigue. Because the gut microbiome is modifiable through targeted interventions, such a...",
+      "segment": 4,
+      "timestamp": 325.93
+    },
+    {
+      "title": "The Effect of Microbiome-Modulating Therapeutics on Anthropometric and Hemodynamic Biomarkers in Metabolic Syndrome: A Systematic Review, Meta-Analysis, and Meta-Regression of Clinical Trials.",
+      "url": "https://doi.org/10.1111/obr.70215",
+      "source": "PubMed — Obesity reviews : an official journal of the International Association for the Study of Obesity",
+      "one_liner": "BACKGROUND: Metabolic syndrome (MetS) is a prevalent cardiometabolic disorder characterized by central obesity, insulin resistance, dyslipidemia, and hypertension. Microbiome-targeted therapies with probiotics, prebiotics, and synbiotics may improve outcomes by modulating metabolism, inflammation, and blood pressure. METHODS: We conducted a systematic rev...",
+      "segment": 5,
+      "timestamp": 367.68
+    },
+    {
+      "title": "Gut microbiome-metabolome interactions during varied low-carbohydrate food consumption.",
+      "url": "https://doi.org/10.1073/pnas.2533462123",
+      "source": "PubMed — Proceedings of the National Academy of Sciences of the United States of America",
+      "one_liner": "Low-carbohydrate (LC) foods have been associated with weight loss, insulin resistance, and reduced inflammation. Gut microbes may drive these effects by changing the host's immune and metabolic state, yet the optimal replacement strategies (e.g., protein vs. fat) and the biochemical impacts are still uncertain. Thus, we conducted a randomized cross-over s...",
+      "segment": 6,
+      "timestamp": 413.88
+    },
+    {
+      "title": "The black soldier fly bioreactor: host-microbiome synergy in pathogen neutralization, xenobiotic remediation, and downstream feed safety.",
+      "url": "https://doi.org/10.1002/jsfa.70995",
+      "source": "PubMed — Journal of the science of food and agriculture",
+      "one_liner": "Black soldier fly larvae (BSFL) are critical to the circular economy, transforming hazardous organic wastes into sustainable agricultural feed. However, processing high-bioburden substrates presents severe biosafety challenges. This review synthesizes recent advancements (2021-2026) regarding the multidimensional role of the BSFL gut bioreactor in waste s...",
+      "segment": 7,
+      "timestamp": 459.09
+    },
+    {
+      "title": "Baseline gut microbiome ecology predicts long-term fat mass loss after bariatric surgery: evidence for a thrifty",
+      "url": "https://doi.org/10.1080/19490976.2026.2719294",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Bariatric surgery (BS) induces weight loss, but long-term success involves complex host-microbiome interactions. We evaluated the longitudinal impact of BS, microbiome resilience, and Mediterranean Diet (MedDiet) adherence up to 24 months. This prospective observational study included 85 patients with severe obesity undergoing BS and 21 normal-weight heal...",
+      "segment": 8,
+      "timestamp": 506.49
+    },
+    {
+      "title": "Identification and Classification of Expressed Orphan Genes, Spurious Orphan Genes, and Conserved Genes in the Human Gut Microbiome.",
+      "url": "https://doi.org/10.1093/gbe/evag211",
+      "source": "PubMed — Genome biology and evolution",
+      "one_liner": "Orphan genes - genes lacking detectable homologs outside a species - are widespread in microbial genomes and are thought to contribute to their adaptation and molecular innovation. However, not all predicted orphan genes may represent novel functional coding sequences. False positive orphan genes, also called spurious orphan genes, can arise from gene pre...",
+      "segment": 9,
+      "timestamp": 551.05
+    },
+    {
+      "title": "The microbiota-gut-brain axis as a driver of secondary brain injury after aneurysmal subarachnoid hemorrhage: from bidirectional vicious cycle to therapeutic opportunities.",
+      "url": "https://doi.org/10.1515/revneuro-2026-0040",
+      "source": "PubMed — Reviews in the neurosciences",
+      "one_liner": "Aneurysmal subarachnoid hemorrhage (aSAH) is a devastating stroke subtype with high morbidity and mortality, significantly contributed to by secondary brain injuries such as early brain injury and delayed cerebral ischemia. Despite advances in acute management, effective neuroprotective strategies remain an unmet need. The microbiota-gut-brain axis (MGBA)...",
+      "segment": 10,
+      "timestamp": 594.99
+    },
+    {
+      "title": "Enterochromaffin cells as a cellular integration hub for cooperative microbial signaling to modulate gut serotonin and motility.",
+      "url": "https://doi.org/10.1073/pnas.2533336123",
+      "source": "PubMed — Proceedings of the National Academy of Sciences of the United States of America",
+      "one_liner": "The intestinal epithelium is exposed to diverse combinations of microbiota-derived compounds; however, the mechanisms by which the host integrates these signals remain poorly defined. Studying two highly abundant microbial metabolites, we identified the purine metabolite hypoxanthine as an effector metabolite that directly drives signaling and the short-c...",
+      "segment": 11,
+      "timestamp": 624.56
+    },
+    {
+      "title": "Altered flagellin-TLR5 signaling pathway in the interaction between the host and laboratory Escherichia coli strains engineered for enhanced intestinal colonization in mice.",
+      "url": "https://doi.org/10.1093/bbb/zbag079",
+      "source": "PubMed — Bioscience, biotechnology, and biochemistry",
+      "one_liner": "The intestinal microbiota is essential for maintaining intestinal homeostasis by regulating mucosal immune responses. Identifying bacterial traits that support stable host interactions is therefore crucial for developing next-generation mucosal probiotics. RNase T2 is a conserved ribonuclease with species-specific functions. In Escherichia coli, RNase T2 ...",
+      "segment": 12,
+      "timestamp": 674.59
+    },
+    {
+      "title": "Separating extracellular from intracellular fecal metabolites exposes cross-feeding architecture in the gut: exploring metabolite partitioning and ecological associations.",
+      "url": "https://doi.org/10.1080/19490976.2026.2719062",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "The gut microbiota forms a complex ecosystem through metabolic interdependence (cross-feeding). However, conventional fecal metabolomics typically quantifies only total metabolite pools, making it difficult to distinguish extracellular-enriched metabolite pools from predominantly cell-associated ones, and thus limiting reconstruction of in situ metabolic ...",
+      "segment": 13,
+      "timestamp": 711.88
+    },
+    {
+      "title": "Natural microbiota confer life-long protection against obesity via an early-life, immune-mediated effect on brown adipocytes.",
+      "url": "https://doi.org/10.1080/19490976.2026.2718613",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Obesity, a major risk factor for metabolic disease, has increased in industrialized nations alongside a reduction in gut microbiota diversity. Reconstituting laboratory mice with complex, natural microbiota and commensals from wild mice resulted in protection against diet-induced obesity. These natural microbiota reduced weight gain in both male and femal...",
+      "segment": 14,
+      "timestamp": 755.75
+    },
+    {
+      "title": "The Role of Akkermansia muciniphila in Obesity: Benefit or Harm?",
+      "url": "https://doi.org/10.1007/s12602-026-11144-1",
+      "source": "PubMed — Probiotics and antimicrobial proteins",
+      "one_liner": "The global prevalence of obesity continues to increase, and several studies have demonstrated that modulating the composition and function of gut microbiota can significantly impact on people with overweight and obesity. Akkermansia muciniphila is a commensal gut bacterium associated with beneficial effects on human metabolism. Its abundance is linked to ...",
+      "segment": 15,
+      "timestamp": 795.44
+    },
+    {
+      "title": "Postbiotic-Based Regenerative Therapy for Intrauterine Adhesions: Mechanisms, Microbiota Crosstalk, and Translational Perspectives.",
+      "url": "https://doi.org/10.1007/s12602-026-11179-4",
+      "source": "PubMed — Probiotics and antimicrobial proteins",
+      "one_liner": "Intrauterine adhesions (IUA) correlate with reproductive tract dysbiosis, including reduced Lactobacillus, overgrowth of Gardnerella, Prevotella, and Klebsiella, and fungal imbalance involving Candida albicans. These changes promote endometrial fibrosis through TGF-β/Smad activation, TLR4/NF-κB-driven inflammation, and ferroptosis. Postbiotics, probiotic-...",
+      "segment": 16,
+      "timestamp": 904.38
+    },
+    {
+      "title": "Comment on \"Associations of almond, dark chocolate, and cocoa consumption with stool microbial diversity and composition among adults with overweight or obesity: An analysis of secondary outcomes from a 4-period crossover clinical trial\".",
+      "url": "https://doi.org/10.1016/j.clnesp.2026.105029",
+      "source": "PubMed — Clinical nutrition ESPEN",
+      "one_liner": "",
+      "segment": 17,
+      "timestamp": 1022.6
+    },
+    {
+      "title": "Nutrition and microbiota in ocular surface and dry eye disease.",
+      "url": "https://doi.org/10.1016/j.oftale.2026.502652",
+      "source": "PubMed — Archivos de la Sociedad Espanola de Oftalmologia",
+      "one_liner": "Nutrition plays a crucial role in the prevention and management of dry eye disease (DED. Polyunsaturated fatty acids ω-3 and ω-6, known for their anti-inflammatory properties, improve ocular surface health. Similarly, antioxidants found in diets like the Mediterranean diet stabilize the tear film and reduce oxidative stress (OXs); however, food additives ...",
+      "segment": 18,
+      "timestamp": 1060.78
+    },
+    {
+      "title": "Borrelia burgdorferi disrupts gut barrier functions and microbiota-antibody interactions.",
+      "url": "https://doi.org/10.1084/jem.20252380",
+      "source": "PubMed — The Journal of experimental medicine",
+      "one_liner": "Lyme disease, an emerging tickborne disease caused by Borrelia burgdorferi (Bb), can result in myriad symptoms of unknown causes in humans. Here, we show that Bb rapidly disrupts the gastrointestinal immune barrier in infected mice, inducing a \"leaky gut\" syndrome, characterized by increased gut permeability, systemic endotoxemia, elevated LPS binding pro...",
+      "segment": 19,
+      "timestamp": 1104.91
+    },
+    {
+      "title": "Corrigendum to \"Traditional Mongolian medicine Batri-7 exhibits chemopreventive activity in colitis-associated colorectal cancer through microbiota modulation and NLRP3 inflammasome targeting\" [J. Ethnopharmacol. 355 (2026) 120696/ JETHNO-D-25-09107].",
+      "url": "https://doi.org/10.1016/j.jep.2026.122319",
+      "source": "PubMed — Journal of ethnopharmacology",
+      "one_liner": "",
+      "segment": 20,
+      "timestamp": 1148.61
+    },
+    {
+      "title": "Species-specific prophage induction by ciprofloxacin in human gut metagenomes.",
+      "url": "https://doi.org/10.1128/msystems.00303-26",
+      "source": "PubMed — mSystems",
+      "one_liner": "Antibiotics are known to trigger prophage induction in controlled laboratory settings, but it remains unclear whether this also occurs within microbiomes in nature. Current methods investigating the link between antibiotics and prophage induction within the human gut rely on",
+      "segment": 21,
+      "timestamp": 1204.26
+    },
+    {
+      "title": "Microbial-Metabolite Signatures Are Associated With Glucocorticoid Responsiveness in Chronic Rhinosinusitis With Nasal Polyps.",
+      "url": "https://doi.org/10.1002/alr.70246",
+      "source": "PubMed — International forum of allergy & rhinology",
+      "one_liner": "BACKGROUND: Patients with chronic rhinosinusitis with nasal polyps (CRSwNP) exhibit heterogeneous responses to oral glucocorticoids (GCs), but the biological basis of this variability remains unclear. OBJECTIVE: To identify gut microbiome‒plasma metabolomic signatures associated with GC responsiveness in CRSwNP patients and to compare their predictive val...",
+      "segment": 22,
+      "timestamp": 1250.19
+    }
+  ]
+}
