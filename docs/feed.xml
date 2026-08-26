@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 03:50:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 04:00:30 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-08-26</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-26/podcast_2026-08-26.mp3</guid>
+      <pubDate>Wed, 26 Aug 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-26/podcast_2026-08-26.mp3" length="19877180" type="audio/mpeg" />
+      <description>Baseline gut microbial diversity determines how individuals respond to a paraprobiotic aimed at obesity management, according to a study published in Gut Microbes via PubMed. | Gut microbes do more than produce toxic ammonia; they actively shape host nitrogen balance. | Researchers linked oral microbiome shifts to nasopharyngeal carcinoma by performing multi‑cohort saliva microbiota profiling combined with functional analysis, pinpointing specific microbial drivers of the disease.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Baseline gut microbial diversity determines how individuals respond to a paraprobiotic aimed at obesity management, according to a study published in Gut Microbes via PubMed. | Gut microbes do more than produce toxic ammonia; they actively shape host nitrogen balance. | Researchers linked oral microbiome shifts to nasopharyngeal carcinoma by performing multi‑cohort saliva microbiota profiling combined with functional analysis, pinpointing specific microbial drivers of the disease.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-08-25</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-25/podcast_2026-08-25.mp3</guid>
       <pubDate>Tue, 25 Aug 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-25/podcast_2026-08-25.mp3" length="9718892" type="audio/mpeg" />
-      <description>An integrative microbiome‑methylome study links specific gut bacteria to the two main histological pathways of colorectal cancer. | The study set out to fill a notable gap in our understanding of how gut microbes and thyroid hormone levels interact in patients with papillary thyroid cancer before and after surgery. | What the available text does not reveal, however, are the specifics of how the researchers went about testing these ideas.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-25/podcast_2026-08-25.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>An integrative microbiome‑methylome study links specific gut bacteria to the two main histological pathways of colorectal cancer. | The study set out to fill a notable gap in our understanding of how gut microbes and thyroid hormone levels interact in patients with papillary thyroid cancer before and after surgery. | What the available text does not reveal, however, are the specifics of how the researchers went about testing these ideas.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-06/podcast_2026-06-06.mp3</guid>
       <pubDate>Sat, 06 Jun 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-06/podcast_2026-06-06.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-06-05</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-05/podcast_2026-06-05.mp3</guid>
-      <pubDate>Fri, 05 Jun 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-05/podcast_2026-06-05.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>

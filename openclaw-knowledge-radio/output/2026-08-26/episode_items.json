@@ -1,0 +1,303 @@
+{
+  "timestamps": [
+    0.0,
+    41.78,
+    86.82,
+    132.47,
+    257.38,
+    354.92,
+    486.94,
+    607.87,
+    652.48,
+    1049.7,
+    1188.06,
+    1296.36,
+    1404.5,
+    1459.05,
+    1499.03,
+    1541.63,
+    1582.93,
+    1624.11,
+    1677.02,
+    1723.63,
+    1853.75,
+    1900.31,
+    2011.52,
+    2094.34,
+    2139.26,
+    2183.11,
+    2237.01,
+    2286.18,
+    2334.99,
+    2384.79,
+    2439.58,
+    2478.36,
+    2522.63
+  ],
+  "items": [
+    {
+      "title": "Gut microbial diversity at baseline conditions the clinical, microbiome, and metabolic response to paraprobiotic",
+      "url": "https://doi.org/10.1080/19490976.2026.2722835",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "The gut microbiota is increasingly recognized as a target for obesity management; however, whether baseline gut microbial diversity conditions responsiveness to microbiota-targeted interventions remains unclear. We aimed to investigate whether baseline gut microbial diversity is associated with responsiveness to a paraprobiotic derived from",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Revisiting gut microbiota-driven ammonia metabolism: from disease burden to physiological adaptation.",
+      "url": "https://doi.org/10.1080/19490976.2026.2722486",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Ammonia homeostasis is governed by interconnected host and microbial pathways, including hepatic ureagenesis, glutamine synthesis, and gut microbiota-mediated urea hydrolysis, proteolysis, and amino acid deamination. Ammonia has historically been viewed primarily as a nitrogenous waste product and neurotoxic molecule, a concept strongly supported by studi...",
+      "segment": 1,
+      "timestamp": 41.78
+    },
+    {
+      "title": "Integrative microbiome and functional profiling identify",
+      "url": "https://doi.org/10.1128/msystems.00357-26",
+      "source": "PubMed — mSystems",
+      "one_liner": "Oral microbial dysbiosis is associated with nasopharyngeal carcinoma (NPC), yet specific microbial drivers within this niche remain poorly characterized. Through multi-cohort profiling of saliva microbiota, we identified",
+      "segment": 2,
+      "timestamp": 86.82
+    },
+    {
+      "title": "The gut microbiota-miRNA axis in multiple sclerosis: Mechanisms and therapeutic potentials.",
+      "url": "https://doi.org/10.1007/s12223-026-01574-3",
+      "source": "PubMed — Folia microbiologica",
+      "one_liner": "Multiple sclerosis (MS) is a chronic immune-mediated neuroinflammatory and neurodegenerative disease characterized by demyelination, blood-brain barrier disruption, and progressive neurological disability. Increasing evidence identifies the gut microbiota (GM) as a key environmental factor in MS pathogenesis, with microbial dysbiosis contributing to immun...",
+      "segment": 3,
+      "timestamp": 132.47
+    },
+    {
+      "title": "Microbiome and pancreatic ductal adenocarcinoma: mechanistic insights, microenvironmental interactions, and therapeutic implications.",
+      "url": "https://doi.org/10.1007/s11033-026-12639-4",
+      "source": "PubMed — Molecular biology reports",
+      "one_liner": "Pancreatic ductal adenocarcinoma (PDAC) remains one of the most lethal malignancies, characterized by late diagnosis, rapid progression, therapeutic resistance, and a highly immunosuppressive tumor microenvironment (TME). Increasing evidence indicates that the microbiome represents an additional layer of host-tumor interaction influencing PDAC development...",
+      "segment": 4,
+      "timestamp": 257.38
+    },
+    {
+      "title": "Yeast Culture Improves Intestinal Barrier Function and Growth Performance in Yaks by Modulating Gut Microbiota and Microbial-Derived Metabolites.",
+      "url": "https://doi.org/10.1007/s12602-026-11173-w",
+      "source": "PubMed — Probiotics and antimicrobial proteins",
+      "one_liner": "This study investigated the effects of yeast culture supplementation on intestinal health and growth performance in male yaks. A total of four dietary treatments were established, including a basal diet (CON) and diets supplemented with 0.1, 0.5, and 1.0 g/kg yeast culture (CEL1, CEL2, and CEL3, respectively). Results showed that yaks in the CEL2 group ex...",
+      "segment": 5,
+      "timestamp": 354.92
+    },
+    {
+      "title": "Integrated Multi-Omics Analysis of Gut Microbiota-Associated Metabolites and Related Host Molecular Signatures in Cervical Squamous Cell Carcinoma.",
+      "url": "https://doi.org/10.1007/s12010-026-05891-8",
+      "source": "PubMed — Applied biochemistry and biotechnology",
+      "one_liner": "Cervical squamous cell carcinoma and endocervical adenocarcinoma (CESC) is a common female malignancy. Gut microbiota and metabolites are critical regulators of tumor immunity and therapy, but their roles in CESC remain unclear. This study integrated TCGA and GEO datasets with gut microbiota information to construct a protein-protein interaction network. ...",
+      "segment": 6,
+      "timestamp": 486.94
+    },
+    {
+      "title": "Native dietary fiber-bound phenolics complex from Lentinula edodes alleviate colitis through gut microbiota and metabolic remodeling.",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2026.154210",
+      "source": "PubMed — International journal of biological macromolecules",
+      "one_liner": "Dietary fiber-bound phenolics are naturally occurring complexes in foods, yet the functional significance of preserving their native dietary fiber-phenolic assembly remains poorly understood. In this study, using a removal-reconstitution strategy, we compared native soluble dietary fiber-bound phenolics (SDF-BP) from Lentinula edodes with its bound phenol...",
+      "segment": 7,
+      "timestamp": 607.87
+    },
+    {
+      "title": "The protein extracted from fermented Zanthoxylum bungeanum seeds mitigates DSS-induced ulcerative colitis by orchestrating inflammatory cytokine modulation, counteracting oxidative stress, and safeguarding gut microbiota homeostasis.",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2026.154218",
+      "source": "PubMed — International journal of biological macromolecules",
+      "one_liner": "Zanthoxylum bungeanum seeds (ZBS) are protein-rich by-products with limited high-value utilization, and fermentation may provide an effective strategy to improve the functional properties and bioactivity of their proteins. In this study, fermented ZBS protein (FZP) was prepared, and its physicochemical properties, antioxidant activity, gastrointestinal di...",
+      "segment": 8,
+      "timestamp": 652.48
+    },
+    {
+      "title": "Leveraging the salivary microbiome profile to stratify REM sleep behavior disorder and synucleinopathies",
+      "url": "https://www.nature.com/articles/s41522-026-01138-w",
+      "source": "npj Biofilms and Microbiomes",
+      "one_liner": "npj Biofilms and Microbiomes, Published online: 26 August 2026; doi:10.1038/s41522-026-01138-w Leveraging the salivary microbiome profile to stratify REM sleep behavior disorder and synucleinopathies",
+      "segment": 9,
+      "timestamp": 1049.7
+    },
+    {
+      "title": "The multi-omics fallacy in microbiome science.",
+      "url": "https://doi.org/10.1371/journal.pcbi.1014700",
+      "source": "PubMed — PLoS computational biology",
+      "one_liner": "Artificial intelligence and machine-learning-assisted multi-omics have expanded the scale and ambition of microbiome research, but they have also sharpened an older interpretive problem. Biologically plausible structure is too easily mistaken for biological explanation. This Perspective defines the multi-omics fallacy as claim inflation that occurs when i...",
+      "segment": 10,
+      "timestamp": 1188.06
+    },
+    {
+      "title": "Host ecological context influences taxonomic diversity and functional conservation of gut microbiome across anthropogenic habitats in macaques",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.08.24.746638",
+      "source": "bioRxiv — ecology",
+      "one_liner": "Gut microbiome responses to anthropogenic disturbance vary across wildlife species, even within similarly disturbed landscapes. What drives this variation is unclear: whether it reflects anthropogenic exposure itself or broader ecological differences among hosts. We tested this using three macaque species with contrasting ecology, Bonnet, Rhesus, and Lion...",
+      "segment": 11,
+      "timestamp": 1296.36
+    },
+    {
+      "title": "Microbiome-metabolome multi-omics biomarkers for infectious disease prognosis: Current evidence, AI-driven integration, and translational challenges.",
+      "url": "https://doi.org/10.1016/j.jfma.2026.08.043",
+      "source": "PubMed — Journal of the Formosan Medical Association = Taiwan yi zhi",
+      "one_liner": "Microbiome-metabolome interactions are emerging as promising predictors of infectious disease, beyond conventional pathogen detection. Growing evidence shows that microbial dysbiosis, altered microbial-derived metabolites, and host metabolic reprogramming are associated with disease severity, immune dysfunction, treatment response, and mortality across in...",
+      "segment": 12,
+      "timestamp": 1404.5
+    },
+    {
+      "title": "Oral Microbiome Alterations in Oral Lichen Planus Across Saliva, Dental Plaque, and Tongue Coating.",
+      "url": "https://doi.org/10.1111/odi.70480",
+      "source": "PubMed — Oral diseases",
+      "one_liner": "OBJECTIVE: To characterise oral lichen planus-associated oral microbiome alterations separately in saliva, supragingival dental plaque, and tongue coating. METHODS: In this cross-sectional study, samples from patients with oral lichen planus and healthy controls were analysed using bacterial amplicon sequencing. Microbial diversity, taxonomic composition,...",
+      "segment": 13,
+      "timestamp": 1459.05
+    },
+    {
+      "title": "Childhood exposure to a sibling with Crohn's disease alters gut microbiome and Crohn's disease susceptibility.",
+      "url": "https://doi.org/10.1136/gutjnl-2026-339257",
+      "source": "PubMed — Gut",
+      "one_liner": "BACKGROUND: Siblings of individuals with Crohn's disease (CD) are at increased risk for developing CD but the underlying mechanisms remain unclear. OBJECTIVE: We hypothesised that childhood (vs adult) exposure to a sibling with CD drives microbial perturbations, increasing CD susceptibility. DESIGN: We used the prospective Genetic Environmental Microbial ...",
+      "segment": 14,
+      "timestamp": 1499.03
+    },
+    {
+      "title": "Host phylogeny and microbiome composition predict gut nematode community composition within a diverse assemblage of African herbivores.",
+      "url": "https://doi.org/10.1098/rsbl.2026.0248",
+      "source": "PubMed — Biology letters",
+      "one_liner": "Gut nematodes influence animal health and fitness, with effects shaped by their abundance and community composition. While closely related host species tend to harbour similar nematodes, the relative roles of host ecology and phylogeny in structuring nematode communities remain unclear. Here, we assess how host holobiont traits-body size, diet, space use,...",
+      "segment": 15,
+      "timestamp": 1541.63
+    },
+    {
+      "title": "Multi-kingdom signatures of the gut microbiome in Lynch syndrome: a prospective model for colorectal cancer evolution.",
+      "url": "https://doi.org/10.1136/gutjnl-2026-339088",
+      "source": "PubMed — Gut",
+      "one_liner": "",
+      "segment": 16,
+      "timestamp": 1582.93
+    },
+    {
+      "title": "Microbiome-Driven Risk Stratification and Biotherapeutics in Radiation Enteritis.",
+      "url": "https://doi.org/10.34133/csbj.0207",
+      "source": "PubMed — Computational and structural biotechnology journal",
+      "one_liner": "Radiation enteritis (RE) is a severe, dose-limiting complication of cancer radiotherapy that affects the therapeutic outcomes of patients and their quality of life. Current risk assessments primarily rely on physical dosimetry. However, this approach inherently ignores the substantial individual variability in radiation susceptibility, creating an urgent ...",
+      "segment": 17,
+      "timestamp": 1624.11
+    },
+    {
+      "title": "Engineered bacterial therapeutics from synthetic biology to clinical translation: A multi-database scientometric analysis, 2000-2026.",
+      "url": "https://doi.org/10.1080/21645515.2026.2720162",
+      "source": "PubMed — Human vaccines & immunotherapeutics",
+      "one_liner": "Engineered bacterial therapeutics integrate programmable strain engineering with biomedical functions such as sensing, delivery, immune modulation, microbiome intervention, and disease management. This study conducted a multi-database bibliometric analysis to map the knowledge structure, collaboration patterns, and translational direction of this field. B...",
+      "segment": 18,
+      "timestamp": 1677.02
+    },
+    {
+      "title": "Mannooligosaccharides modulate mucin O-glycan-gut microbe interactions and preserve the intestinal barrier in weaned piglets.",
+      "url": "https://doi.org/10.1186/s40104-026-01492-x",
+      "source": "PubMed — Journal of animal science and biotechnology",
+      "one_liner": "BACKGROUND: The intestinal microbiota and mucosal barrier are closely intertwined, with mucin O-glycans playing a key role in maintaining intestinal homeostasis. However, how nutrition regulates mucin O-glycans remains poorly understood. This study investigated the regulatory effects of mannooligosaccharides (MOS) on mucin secretion and O-glycan modificat...",
+      "segment": 19,
+      "timestamp": 1723.63
+    },
+    {
+      "title": "A gut symbiotic filamentous fungus reprograms host metabolism and the microbiota to confer radioprotection.",
+      "url": "https://doi.org/10.1073/pnas.2608386123",
+      "source": "PubMed — Proceedings of the National Academy of Sciences of the United States of America",
+      "one_liner": "The gut mycobiome is increasingly linked to host physiology, yet functional insights are dominated by yeasts, leaving the roles of filamentous fungi largely unexplored. Here, we identify",
+      "segment": 20,
+      "timestamp": 1853.75
+    },
+    {
+      "title": "Significant changes in the fecal bacteriobiota richness and diversity in patients with relapsing-remitting multiple sclerosis compared to healthy individuals.",
+      "url": "https://doi.org/10.1007/s10096-026-05642-x",
+      "source": "PubMed — European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology",
+      "one_liner": "PURPOSE: The aim of this study was to analyze gut microbiota composition and the distribution of Escherichia coli virulence-associated genes in patients with relapsing-remitting multiple sclerosis (RRMS) compared with healthy controls. The gut microbiota has been increasingly implicated in the pathogenesis of multiple sclerosis (MS) through its role in im...",
+      "segment": 21,
+      "timestamp": 1900.31
+    },
+    {
+      "title": "A barrier-centered perspective on the gut-barrier-bone axis: a review of the core role of the intestinal barrier and related probiotics with nanocoatings.",
+      "url": "https://doi.org/10.1007/s00203-026-05165-1",
+      "source": "PubMed — Archives of microbiology",
+      "one_liner": "Osteoporosis (OP) is a major public health problem characterized by reduced bone mass, deterioration of bone microarchitecture, and increased fracture risk. Growing evidence links the gut microbiota (GM) to bone remodeling, but the intestinal barrier is often treated as one component of microbiota-driven inflammation rather than as an interface that coord...",
+      "segment": 22,
+      "timestamp": 2011.52
+    },
+    {
+      "title": "Innate Lymphoid Cells and diet: the multitask cells in metabolic syndrome progression.",
+      "url": "https://doi.org/10.1016/j.imlet.2026.107237",
+      "source": "PubMed — Immunology letters",
+      "one_liner": "Innate lymphoid cells (ILCs) are innate-like lymphocytes that contribute to tissue homeostasis, barrier immunity, inflammation, and host defense. In metabolic syndrome (MetS), a condition estimated to affect more than 1.5 billion adults worldwide, dietary patterns and gut microbial metabolites are increasingly recognized as regulators of immune and metabo...",
+      "segment": 23,
+      "timestamp": 2094.34
+    },
+    {
+      "title": "Integrative systems-level analysis identifies potential gut microbial metabolite-host signaling networks in lung adenocarcinoma.",
+      "url": "https://doi.org/10.1016/j.compbiolchem.2026.109350",
+      "source": "PubMed — Computational biology and chemistry",
+      "one_liner": "The gut microbiome has emerged as a potential modulator of the immune system, host metabolism, and cancer progression; however, the effects of microbiota-derived metabolites on distal lung cancer remain poorly understood. The current study adopts a systems biology approach integrating gut microbial metabolite annotation, metabolite-associated gene identif...",
+      "segment": 24,
+      "timestamp": 2139.26
+    },
+    {
+      "title": "Limosilactobacillus reuteri and Lactobacillus johnsonii intervention ameliorates gestational diabetes mellitus-associated sex-specific placental nutrient transporter abnormalities: Links with tryptophan metabolism and aryl hydrocarbon receptor signaling.",
+      "url": "https://doi.org/10.1016/j.diabres.2026.113510",
+      "source": "PubMed — Diabetes research and clinical practice",
+      "one_liner": "AIMS: Gestational diabetes mellitus (GDM) is a common pregnancy complication associated with maternal metabolic abnormalities and adverse offspring outcomes. Although GDM is closely linked to gut microbiota dysbiosis, key probiotic strains and underlying mechanisms remain unclear. This study aimed to identify potential probiotics using microbial signals f...",
+      "segment": 25,
+      "timestamp": 2183.11
+    },
+    {
+      "title": "ZiBuPiYin recipe mediates BDNF/TrkB/CREB regulation of synaptic plasticity: Key role of SYT1 acetylation modification.",
+      "url": "https://doi.org/10.1016/j.jep.2026.122342",
+      "source": "PubMed — Journal of ethnopharmacology",
+      "one_liner": "ETHNOPHARMACOLOGICAL RELEVANCE: ZiBuPiYin recipe (ZBPYR) has been verified to ameliorate insulin resistance, alleviate neuroinflammation, mitigate oxidative stress, and remodel gut microbiota in type 2 diabetes mellitus (T2DM) rats, thereby exerting definite therapeutic efficacy against diabetes-associated cognitive decline (DACD). As the core preventive ...",
+      "segment": 26,
+      "timestamp": 2237.01
+    },
+    {
+      "title": "Novel Clinical Intervention Pathway Based on the Pathogenesis Mechanism of Enterotoxigenic Bacteroides fragilis.",
+      "url": "https://doi.org/10.1016/j.critrevonc.2026.105562",
+      "source": "PubMed — Critical reviews in oncology/hematology",
+      "one_liner": "Enterotoxigenic Bacteroides fragilis (ETBF) is a pivotal pathogenic microbe associated with intestinal dysbiosis. Its major virulence factor, Bacteroides fragilis toxin (BFT), is a zinc-dependent metalloproteinase that disrupts intestinal barrier function by degrading adhesion molecules in epithelial cells, thereby triggering inflammatory signaling cascad...",
+      "segment": 27,
+      "timestamp": 2286.18
+    },
+    {
+      "title": "Probiotics in Human Health: Current Evidence, Mechanism of Action, and Future Perspectives.",
+      "url": "https://doi.org/10.1155/ijm/1721210",
+      "source": "PubMed — International journal of microbiology",
+      "one_liner": "Probiotics are widely recognized for their potential to promote human health through diverse mechanisms that influence host physiology and microbial ecology. This review synthesizes current evidence on the biological functions, mechanisms of action, and therapeutic applications of probiotics. A comprehensive narrative literature review was conducted, with...",
+      "segment": 28,
+      "timestamp": 2334.99
+    },
+    {
+      "title": "Integrated Molecular, Epigenetic, Microbial, and Liquid Biopsy Biomarkers in Colorectal Cancer: Implications for Prognosis and Precision Therapy.",
+      "url": "https://doi.org/10.1080/1354750X.2026.2715050",
+      "source": "PubMed — Biomarkers : biochemical indicators of exposure, response, and susceptibility to chemicals",
+      "one_liner": "BackgroundColorectal cancer (CRC) is a biologically diverse malignancy driven by a complex interplay of genetic mutations, epigenetic changes, tumour microenvironmental factors, and host-microbial interactions. Foundational molecular events including APC-associated Wnt/β-catenin dysregulation, TP53 inactivation, KRAS and BRAF mutations, and aberrant PI3K/...",
+      "segment": 29,
+      "timestamp": 2384.79
+    },
+    {
+      "title": "Valorization of spent black tea polyphenols as a functional coating for probiotic protection and colitis alleviation.",
+      "url": "https://doi.org/10.1039/d6fo01720g",
+      "source": "PubMed — Food & function",
+      "one_liner": "Excessive reactive oxygen species (ROS) play a central role in the development of inflammatory bowel disease (IBD). A promising therapeutic strategy involves delivering probiotics alongside polyphenolic antioxidants, which can protect the probiotics while scavenging ROS. Although biomass is a versatile source of polyphenols, abundant agro-industrial waste...",
+      "segment": 30,
+      "timestamp": 2439.58
+    },
+    {
+      "title": "Community-driven updates for comprehensive long-read metagenomics and enhanced binning in nf-core/mag v5.",
+      "url": "https://doi.org/10.1093/bioinformatics/btag628",
+      "source": "PubMed — Bioinformatics (Oxford, England)",
+      "one_liner": "SUMMARY: nf-core/mag is a reproducible Nextflow pipeline for best-practice metagenomic de novo assembly, and binning within the nf-core framework. Here we present a major update that adds support for long-read-only assembly and bin refinement, includes five new binning tools, expands taxonomic classification to viruses and eukaryotes, and improves bin qua...",
+      "segment": 31,
+      "timestamp": 2478.36
+    },
+    {
+      "title": "The multi-omics fallacy in microbiome science",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014700",
+      "source": "PLOS Computational Biology",
+      "one_liner": "by Rebecca Lewandowski Artificial intelligence and machine-learning-assisted multi-omics have expanded the scale and ambition of microbiome research, but they have also sharpened an older interpretive problem. Biologically plausible structure is too easily mistaken for biological explanation. This Perspective defines the multi-omics fallacy as cla...",
+      "segment": 32,
+      "timestamp": 2522.63
+    }
+  ]
+}
