@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 04:00:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 13:59:35 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-08-27</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-27/podcast_2026-08-27.mp3</guid>
+      <pubDate>Thu, 27 Aug 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-27/podcast_2026-08-27.mp3" length="24382988" type="audio/mpeg" />
+      <description>Emerging research shows that gut microbiota and their metabolites directly influence uric acid levels, opening microbiome‑based nutritional strategies as a complement to standard urate‑lowering drugs for hyperuricemia and gout. | Red meat intake worsens endometriosis by reshaping the gut microbiome, according to a new study in Food Science &amp; Nutrition. | Camellia oleifera seed oil can modulate gut microbiota and ease colitis symptoms, according to a new study in the Journal of the Science of Food and Agriculture (PubMed).</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Emerging research shows that gut microbiota and their metabolites directly influence uric acid levels, opening microbiome‑based nutritional strategies as a complement to standard urate‑lowering drugs for hyperuricemia and gout. | Red meat intake worsens endometriosis by reshaping the gut microbiome, according to a new study in Food Science &amp; Nutrition. | Camellia oleifera seed oil can modulate gut microbiota and ease colitis symptoms, according to a new study in the Journal of the Science of Food and Agriculture (PubMed).</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-08-26</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-26/podcast_2026-08-26.mp3</guid>
       <pubDate>Wed, 26 Aug 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-26/podcast_2026-08-26.mp3" length="19877180" type="audio/mpeg" />
-      <description>Baseline gut microbial diversity determines how individuals respond to a paraprobiotic aimed at obesity management, according to a study published in Gut Microbes via PubMed. | Gut microbes do more than produce toxic ammonia; they actively shape host nitrogen balance. | Researchers linked oral microbiome shifts to nasopharyngeal carcinoma by performing multi‑cohort saliva microbiota profiling combined with functional analysis, pinpointing specific microbial drivers of the disease.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-26/podcast_2026-08-26.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Baseline gut microbial diversity determines how individuals respond to a paraprobiotic aimed at obesity management, according to a study published in Gut Microbes via PubMed. | Gut microbes do more than produce toxic ammonia; they actively shape host nitrogen balance. | Researchers linked oral microbiome shifts to nasopharyngeal carcinoma by performing multi‑cohort saliva microbiota profiling combined with functional analysis, pinpointing specific microbial drivers of the disease.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-07/podcast_2026-06-07.mp3</guid>
       <pubDate>Sun, 07 Jun 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-07/podcast_2026-06-07.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-06-06</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-06/podcast_2026-06-06.mp3</guid>
-      <pubDate>Sat, 06 Jun 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-06/podcast_2026-06-06.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
