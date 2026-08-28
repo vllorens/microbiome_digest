@@ -1,0 +1,69 @@
+{
+  "timestamps": [
+    0.0,
+    43.41,
+    91.38,
+    138.68,
+    250.57,
+    382.06,
+    423.62
+  ],
+  "items": [
+    {
+      "title": "Microbiome-based therapeutics for",
+      "url": "https://doi.org/10.1080/19490976.2026.2722482",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Microbiome-based therapeutics have rapidly evolved into a transformative field at the intersection of infectious diseases, microbial ecology, and precision medicine.",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Latent tuberculosis infection shapes gut microbiome and immune-metabolic interactions in people living with HIV.",
+      "url": "https://doi.org/10.1080/19490976.2026.2721739",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "The silent presence of latent tuberculosis infection (LTBI) in people living with HIV (PLHIV) increases the annual risk of tuberculosis (TB) reactivation by 3%-16%. Although gut dysbiosis is well documented in HIV, microbiome alterations associated with LTBI in PLHIV remain poorly characterized. Using integrated cross-sectional and exploratory longitudina...",
+      "segment": 1,
+      "timestamp": 43.41
+    },
+    {
+      "title": "Integrated microbiome and metabolome profiling in prepubertal girls with vulvar lichen sclerosus.",
+      "url": "https://doi.org/10.1128/spectrum.04058-25",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "UNLABELLED: Vulvar lichen sclerosus (VLS) is a chronic anogenital disease with long-term risks of genital disfigurement and squamous cell cancer. The involvement of the gut-skin axis in prepubertal VLS remains unclear. We conducted a cross-sectional study of 43 prepubertal VLS patients and 46 healthy controls, performing fecal 16S rRNA sequencing and seru...",
+      "segment": 2,
+      "timestamp": 91.38
+    },
+    {
+      "title": "Oral iron-induced stunting is associated with increased Christensenella abundance in a piglet model for human infants.",
+      "url": "https://doi.org/10.1007/s00394-026-04082-9",
+      "source": "PubMed — European journal of nutrition",
+      "one_liner": "PURPOSE: Iron deficiency anaemia (IDA) affects around 40% of < 5-year-olds globally. Unfortunately, IDA treatment by oral iron intervention often causes diarrhoea, thought to be linked to iron-induced changes in the gut microbiota. Piglets are valuable preclinical models for human infants since they share many physiological characteristics, have similar g...",
+      "segment": 3,
+      "timestamp": 138.68
+    },
+    {
+      "title": "Breastmilk microbiota and its association with infant iron deficiency anaemia: A 16S rRNA metagenomic study in Peruvian mothers cohort.",
+      "url": "https://doi.org/10.1371/journal.pone.0352428",
+      "source": "PubMed — PloS one",
+      "one_liner": "Anaemia is one of the most important public health challenges in developing countries. The global burden is estimated at 1.8 billion people, affecting approximately 30% of all children. Despite the implementation of multiple strategies over several decades, up to 42.5% of children under 3 years of age suffer anaemia in rural areas of Peru. We studied the ...",
+      "segment": 4,
+      "timestamp": 250.57
+    },
+    {
+      "title": "Complete genome-derived metabolic interactions reveal the impact of gut ecology on human health.",
+      "url": "https://doi.org/10.1016/j.celrep.2026.117913",
+      "source": "PubMed — Cell reports",
+      "one_liner": "Metabolic interactions govern gut microbiome assembly, yet their functional rules remain obscured by genomic incompleteness and fragmentation. Here, we leverage 1,150 complete genomes to construct genome-scale metabolic models, demonstrating that draft assemblies introduce systematic artifacts and omit critical transport functions. We observe that genomic...",
+      "segment": 5,
+      "timestamp": 382.06
+    },
+    {
+      "title": "Megascale microbiome analysis with DartUniFrac",
+      "url": "https://www.nature.com/articles/s41587-026-03260-8",
+      "source": "Nature Biotechnology",
+      "one_liner": "Nature Biotechnology, Published online: 28 August 2026; doi:10.1038/s41587-026-03260-8 DartUniFrac enables scalable microbiome analysis of up to millions of samples and taxa.",
+      "segment": 6,
+      "timestamp": 423.62
+    }
+  ]
+}
