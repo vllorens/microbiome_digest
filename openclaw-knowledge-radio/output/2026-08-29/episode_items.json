@@ -1,0 +1,258 @@
+{
+  "timestamps": [
+    0.0,
+    58.03,
+    109.24,
+    152.77,
+    204.42,
+    269.88,
+    675.26,
+    719.3,
+    761.15,
+    889.12,
+    938.02,
+    983.55,
+    1024.46,
+    1148.37,
+    1156.0,
+    1197.78,
+    1241.53,
+    1288.01,
+    1329.02,
+    1375.58,
+    1420.94,
+    1473.66,
+    1517.31,
+    1627.8,
+    1739.33,
+    1784.64,
+    1832.1,
+    1875.3
+  ],
+  "items": [
+    {
+      "title": "Megascale microbiome analysis with DartUniFrac.",
+      "url": "https://doi.org/10.1038/s41587-026-03260-8",
+      "source": "PubMed — Nature biotechnology",
+      "one_liner": "UniFrac measures phylogeny-aware differences between microbiome samples but scales poorly with modern dataset sizes. We introduce an algorithm, DartUniFrac, and a near-optimal implementation with graphics processing unit acceleration that is up to three orders of magnitude faster than UniFrac and scales to millions of samples (pairwise) and billions of ta...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Gut microbiota dysbiosis in spinal cord injuries: immune impairment and therapeutic potential of microbiome modulation.",
+      "url": "https://doi.org/10.1016/j.lfs.2026.124659",
+      "source": "PubMed — Life sciences",
+      "one_liner": "The gut microbiota plays a fundamental role maintaining homeostasis by regulating neuroglial maturation, immune function, and the production of gut derived metabolites (e.g short chain fatty acids and neurotransmitters), while also preventing pathogen colonization. Disruption of this microbial ecosystem characterized by changes in gut microbiota abundance...",
+      "segment": 1,
+      "timestamp": 58.03
+    },
+    {
+      "title": "Gut Microbiota-Isoallolithocholic Acid Crosstalk Promotes Calcium Oxalate Kidney Stone Formation via PARP1-Mediated Parthanatos.",
+      "url": "https://doi.org/10.1002/advs.77289",
+      "source": "PubMed — Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "one_liner": "Bile acids have been implicated in calcium oxalate (CaOx) nephrolithiasis. Here, we employ multi-omics approaches to identify isoallolithocholic acid (isoalloLCA) as the key bile acid elevated in the feces, serum, kidney, and urine of CaOx rats, confirmed by spatial metabolomics. 16S sequencing and metagenomic analyses indicate that elevated isoalloLCA le...",
+      "segment": 2,
+      "timestamp": 109.24
+    },
+    {
+      "title": "Mechanisms by which sialic acid influences the gut microbiota and its metabolism in infants, based on an in vitro spatiotemporal dynamic digestion model.",
+      "url": "https://doi.org/10.1002/jsfa.71023",
+      "source": "PubMed — Journal of the science of food and agriculture",
+      "one_liner": "BACKGROUND: Sialic acid (SA), chemically known as N-acetylneuraminic acid (NANA), is a key bioactive component of breast milk. It reaches the infant's colon largely intact for utilization by the gut microbiota; however, its dynamic fermentation and specific regulatory mechanisms remain unclear. RESULTS: An in vitro biomimetic gut digestion system (BGR-7) ...",
+      "segment": 3,
+      "timestamp": 152.77
+    },
+    {
+      "title": "The gut microbiota in malnutrition.",
+      "url": "https://doi.org/10.1038/s41579-026-01359-y",
+      "source": "PubMed — Nature reviews. Microbiology",
+      "one_liner": "Malnutrition poses a substantial global health burden with long-lasting physical, social and economic effects. Now recognized as an spectrum of interrelated conditions, malnutrition manifests differently based on an individual's geography, health-care access and lifestyle. There is growing evidence that malnutrition is also driven by defects in the compos...",
+      "segment": 4,
+      "timestamp": 204.42
+    },
+    {
+      "title": "Integrated microbiome and metabolomics analysis of the mechanism of inflammation-reducing effects of cyanidin-3-glucoside and blueberry pectin complexes in mice with ulcerative colitis.",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2026.154226",
+      "source": "PubMed — International journal of biological macromolecules",
+      "one_liner": "The combination of anthocyanins and pectin offers substantial symptomatic relief in ulcerative colitis (UC); however, the underlying mechanism remains unclear. This study employed 6-8-week-old male BALB/c mice as experimental subjects. A UC model was induced using dextran sulfate sodium (DSS), and a 200 mg/kg C3G-BP complex was administered daily by gavag...",
+      "segment": 5,
+      "timestamp": 269.88
+    },
+    {
+      "title": "PREVENT 1, a nationwide Swedish infant cohort for longitudinal gut microbiome profiling and early-life health outcomes: cohort profile.",
+      "url": "https://doi.org/10.1136/bmjopen-2026-118233",
+      "source": "PubMed — BMJ open",
+      "one_liner": "PURPOSE: PREVENT 1 is a nationwide, prospective Swedish infant cohort established to characterise gut microbiome development during the first 2 years of life and to relate microbial trajectories to feeding, infections, growth and everyday well-being. The study integrates repeated infant stool sampling with shotgun metagenomics analysis with aligned parent...",
+      "segment": 6,
+      "timestamp": 675.26
+    },
+    {
+      "title": "The oral microbiome in relation to systemic maternal conditions and pregnancy complications: a systematic review and meta-analysis.",
+      "url": "https://doi.org/10.1080/20002297.2026.2717774",
+      "source": "PubMed — Journal of oral microbiology",
+      "one_liner": "BACKGROUND: Alterations in the oral microbiome have been associated with systemic diseases, but evidence regarding maternal conditions and pregnancy complications remains limited. This systematic review evaluated these associations. METHODS: PubMed, Web of Science, and Embase were searched for studies using high-throughput sequencing to profile the oral m...",
+      "segment": 7,
+      "timestamp": 719.3
+    },
+    {
+      "title": "Gut biogeographical microbiome in dyspepsia links duodenal ecology and opportunistic pathogens with plasma biomarkers",
+      "url": "https://www.nature.com/articles/s41522-026-01101-9",
+      "source": "Nature - Microbiome Topic",
+      "one_liner": "",
+      "segment": 8,
+      "timestamp": 761.15
+    },
+    {
+      "title": "Clinical application of BALF-mNGS in immunocompromised and immunocompetent patients with suspected invasive pulmonary aspergillosis: differentiating infection from colonization, microbiome features, and clinical impact.",
+      "url": "https://doi.org/10.1128/spectrum.01045-26",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "Invasive pulmonary aspergillosis (IPA) not only causes high morbidity and mortality, especially in immunocompromised patients, but also occurs in immunocompetent individuals. Differentiating infection from colonization is challenging, and bronchoalveolar lavage fluid metagenomic next-generation sequencing (BALF-mNGS) may aid diagnosis, microbiome profilin...",
+      "segment": 9,
+      "timestamp": 889.12
+    },
+    {
+      "title": "Lactobacillus salivarius potentiates gastrointestinal cancer immunotherapy through its metabolite chenodeoxycholic acid.",
+      "url": "https://doi.org/10.1016/j.xcrm.2026.103009",
+      "source": "PubMed — Cell reports. Medicine",
+      "one_liner": "Immune checkpoint inhibitor therapy has improved gastrointestinal (GI) cancer management; however, many patients exhibit resistance. Although gut microbiota influences immunotherapeutic responses, the underlying mechanisms remain unclear. Metagenomic analysis of 278 GI cancer patients reveals that Lactobacillus salivarius (L. salivarius) is enriched in re...",
+      "segment": 10,
+      "timestamp": 938.02
+    },
+    {
+      "title": "The HDAC Inhibitor Butyrate Reduces SOD1 Aggregation and Improves Motor Function in",
+      "url": "https://doi.org/10.1155/ijcb/3022967",
+      "source": "PubMed — International journal of cell biology",
+      "one_liner": "Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disease characterised by motor neuron loss and protein aggregation, commonly driven by mutations in superoxide dismutase 1 (Sod1). Recent evidence implicates gut microbiota-derived metabolites, such as butyrate, in modulating neurodegeneration, but the underlying mechanisms remain uncl...",
+      "segment": 11,
+      "timestamp": 983.55
+    },
+    {
+      "title": "ELAplus: Fast and accurate analysis platform for energy landscape analysis facilitated by fine-tuning optimization algorithm.",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.08.26.747178",
+      "source": "bioRxiv — ecology",
+      "one_liner": "1. Large-scale community-composition datasets, especially from microbiome studies, increasingly provide opportunities to identify major community compositional types (e.g., enterotypes in human microbiomes) and potential transitions depending on environmental factors. Energy landscape analysis based on maximum entropy models has emerged as a promising fra...",
+      "segment": 12,
+      "timestamp": 1024.46
+    },
+    {
+      "title": "Mechanisms and prospects of fecal microbiota transplantation in urticaria treatment via the gut skin axis.",
+      "url": "https://doi.org/10.1097/ACI.0000000000001193",
+      "source": "PubMed — Current opinion in allergy and clinical immunology",
+      "one_liner": "PURPOSE OF REVIEW: This review focuses on fecal microbiota transplantation (FMT) for urticaria via the gut skin axis, highlighting its timeliness and clinical relevance as an emerging strategy for refractory urticaria. RECENT FINDINGS: Recent studies confirm that gut microbiota dysbiosis drives urticaria pathogenesis via immune regulation and mast cell ac...",
+      "segment": 13,
+      "timestamp": 1148.37
+    },
+    {
+      "title": "Elucidating the aromatic formation of humus via quorum sensing and redox function of thermophilic microbiota in compost.",
+      "url": "https://doi.org/10.1016/j.biortech.2026.135739",
+      "source": "PubMed — Bioresource technology",
+      "one_liner": "Quorum sensing (QS) modulates bacterial metabolism to regulate humus formation. However, the functional interaction modes of signal molecules, QS-related proteins, and microbial humification function during composting remain unclear. This study aimed to clarify the role of QS-related gene expression in regulating humification via applying metagenomics and...",
+      "segment": 14,
+      "timestamp": 1156.0
+    },
+    {
+      "title": "Effect of Probiotics Duration, Delivery Vehicle, and Dose on caries-related variables: A Systematic Review and Meta-Analysis.",
+      "url": "https://doi.org/10.1016/j.jdent.2026.107008",
+      "source": "PubMed — Journal of dentistry",
+      "one_liner": "BACKGROUND: Probiotics have been proposed as a promising adjunctive strategy for caries prevention. However, uncertainty remains regarding the most effective protocol of administration. In this context, the aim of this review was to evaluate the effects of probiotic administration on caries-related variables, with particular attention to duration of use, ...",
+      "segment": 15,
+      "timestamp": 1197.78
+    },
+    {
+      "title": "Fecal microbiota transplantation versus vancomycin or fidaxomicin in",
+      "url": "https://doi.org/10.1136/bmjopen-2026-119480",
+      "source": "PubMed — BMJ open",
+      "one_liner": "METHODS AND ANALYSIS: This is a multicentre, randomised, open-label, pragmatic phase III superiority clinical trial conducted across eight Swiss clinical centres. A total of 100 adults will be enrolled. Patients with either (1) a first CDI episode and risk factors for recurrence or (2) a first CDI recurrence and who first receive the real-world standard o...",
+      "segment": 16,
+      "timestamp": 1241.53
+    },
+    {
+      "title": "Cellulose-fueled extracellular electron transfer in termite gut microbes.",
+      "url": "https://doi.org/10.1128/aem.01272-26",
+      "source": "PubMed — Applied and environmental microbiology",
+      "one_liner": "Termites decompose billions of tons of lignocellulosic material annually through the cellulolytic metabolism of their gut microbiota. However, the mechanisms by which cellulose degradation drives anaerobic metabolism of the gut microbiome remain poorly understood. Here, we demonstrate cellulose-driven extracellular electron transfer (EET) in both a termit...",
+      "segment": 17,
+      "timestamp": 1288.01
+    },
+    {
+      "title": "Lyophilised faecal microbiota transplantation capsules for intestinal multidrug-resistant organism decolonisation: protocol for a randomised, double-blind, placebo-controlled trial.",
+      "url": "https://doi.org/10.1136/bmjopen-2026-119249",
+      "source": "PubMed — BMJ open",
+      "one_liner": "INTRODUCTION: Antimicrobial resistance is a major global health threat. Intestinal carriage of multidrug-resistant organisms (MDRO) increases the risk of subsequent infection and contributes to onward transmission. Current decolonisation strategies are limited by insufficient evidence of efficacy and safety. Faecal microbiota transplantation (FMT) has eme...",
+      "segment": 18,
+      "timestamp": 1329.02
+    },
+    {
+      "title": "Genomes of cressdnaviricots and phixviricots in a freshwater lake sample from Arizona, USA.",
+      "url": "https://doi.org/10.1128/mra.00920-26",
+      "source": "PubMed — Microbiology resource announcements",
+      "one_liner": "A viral metagenomic analysis of a 40 ml water sample from a small freshwater lake near Flagstaff, Arizona, USA, resulted in the identification of 295 circular viral genome sequences. Of these, 126 are members of",
+      "segment": 19,
+      "timestamp": 1375.58
+    },
+    {
+      "title": "Evidence Synthesis of Probiotic Supplementation for Allergic Rhinitis in Adults: A Systematic Review and Network Meta-Analysis.",
+      "url": "https://doi.org/10.1177/19458924261461323",
+      "source": "PubMed — American journal of rhinology & allergy",
+      "one_liner": "BackgroundProbiotics are increasingly explored as a potential adjunctive treatment for allergic rhinitis, a condition affecting approximately one in five adults worldwide. Despite distinctive age-related differences in gut microbiota composition, immunologic characteristics, and clinical profiles, no previous systematic review has comprehensively evaluate...",
+      "segment": 20,
+      "timestamp": 1420.94
+    },
+    {
+      "title": "Microbial epigenetic regulation as a multilevel regulatory interface in host-microbe interactions.",
+      "url": "https://doi.org/10.1080/19490976.2026.2725428",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Animals coexist with complex microbial communities that influence their development, immunity, metabolism, and behavior. Evidence shows these effects arise not just from metabolic and immune signaling but also from epigenetic mechanisms that alter host gene expression. Microbial signals can modulate DNA methylation, histone modification, chromatin accessi...",
+      "segment": 21,
+      "timestamp": 1473.66
+    },
+    {
+      "title": "Selective statin therapy and nasal staphylococcal colonisation: a retrospective case-control study.",
+      "url": "https://doi.org/10.1007/s10096-026-05646-7",
+      "source": "PubMed — European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology",
+      "one_liner": "BACKGROUND: Nasal Staphylococcus aureus (S. aureus) colonisation is a key risk factor for serious infections. Statins, used for hypercholesterolaemia and cardiovascular disease prevention, have been linked to gut microbiome dysbiosis, but their impact on nasal bacterial colonisation remains unclear. PURPOSE: To examine whether statin use, individual stati...",
+      "segment": 22,
+      "timestamp": 1517.31
+    },
+    {
+      "title": "Weissella as an emerging probiotic candidate for IBD: current evidence, challenges, and future perspectives\".",
+      "url": "https://doi.org/10.1007/s10482-026-02360-4",
+      "source": "PubMed — Antonie van Leeuwenhoek",
+      "one_liner": "Inflammatory Bowel Disease (IBD) is a chronic, relapsing inflammatory affliction that causes gut dysbiosis, impaired mucosal integrity and disrupted immune regulation/responses. Conventional therapies, which aim to suppress inflammation or immune flare-ups, are associated with adverse effects and have limited long-term management efficacy. Therefore, the ...",
+      "segment": 23,
+      "timestamp": 1627.8
+    },
+    {
+      "title": "Metagenomic Characterization of Potential Exposure to Genetic Hazards at the Interface Between Grazing Livestock and Przewalski's Gazelle.",
+      "url": "https://doi.org/10.1016/j.envpol.2026.129059",
+      "source": "PubMed — Environmental pollution (Barking, Essex : 1987)",
+      "one_liner": "Livestock and endangered wildlife increasingly share grazing landscapes, yet the sources, mobility-associated contexts, and bacterial hosts of livestock-associated genetic hazards in wildlife microbiomes remain poorly resolved. We analyzed metagenomes from yak, Tibetan sheep, Przewalski's gazelle, and local topsoil within an Acquired Genetic Risk (AGR) co...",
+      "segment": 24,
+      "timestamp": 1739.33
+    },
+    {
+      "title": "Polystyrene nanoplastics exposure induces reproductive toxicity in male mice associated with the gut-liver/testis axis.",
+      "url": "https://doi.org/10.1016/j.taap.2026.118022",
+      "source": "PubMed — Toxicology and applied pharmacology",
+      "one_liner": "Environmental nanoplastics are increasingly prevalent in global environments and represent an emerging systemic health risk, yet the mechanistic links between nanoplastic exposure and multi-organ dysfunction in mammals remain incompletely characterized. We integrated phenotypic assessments, gut shotgun metagenomics, and dual-organ transcriptomics to inves...",
+      "segment": 25,
+      "timestamp": 1784.64
+    },
+    {
+      "title": "Engineered P. distasonis-Derived Membrane Vesicles Ameliorate Gut-Liver Axis Disorders by Remodeling Intestinal Immunity and Bile Acid Homeostasis.",
+      "url": "https://doi.org/10.1002/smll.75446",
+      "source": "PubMed — Small (Weinheim an der Bergstrasse, Germany)",
+      "one_liner": "The gut-liver axis is a central conduit through which intestinal immunity and metabolism regulate liver health. Although gut probiotics such as Parabacteroides distasonis (P. distasonis) and their postbiotics show promise for treating related disorders, safety and stability concerns and inconsistent efficacy limit their further application. Here, outer me...",
+      "segment": 26,
+      "timestamp": 1832.1
+    },
+    {
+      "title": "Multistrain probiotics modulate tau pathology and preserve visuospatial cognition in early cognitive impairment: A double-blind, randomized, placebo-controlled trial.",
+      "url": "https://doi.org/10.1177/13872877261477084",
+      "source": "PubMed — Journal of Alzheimer's disease : JAD",
+      "one_liner": "BackgroundThe gut-brain axis is increasingly implicated in Alzheimer's disease (AD) pathogenesis.ObjectiveTo investigate whether a multistrain probiotic supplement is associated with changes in AD-related plasma biomarkers and cognitive function in older adults with early cognitive impairment.MethodsIn this randomized, double-blind, placebo-controlled tri...",
+      "segment": 27,
+      "timestamp": 1875.3
+    }
+  ]
+}
