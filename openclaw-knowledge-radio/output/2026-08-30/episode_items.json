@@ -1,0 +1,105 @@
+{
+  "timestamps": [
+    0.0,
+    139.99,
+    181.05,
+    228.18,
+    279.27,
+    331.28,
+    375.86,
+    415.39,
+    459.93,
+    570.95,
+    693.61
+  ],
+  "items": [
+    {
+      "title": "Gut Microbiota from Patients with Long COVID Persisting for 2 Years Result in Alterations in Mice that Resemble Post-COVID Symptoms.",
+      "url": "https://doi.org/10.1007/s12602-026-11197-2",
+      "source": "PubMed — Probiotics and antimicrobial proteins",
+      "one_liner": "Human gut microbiota (GM) has been identified as a potentially important factor influencing the development of long COVID (LCOVID). The aim of this study was to understand the GM of LCOVID, which lasted for two years, in order to improve public awareness. Human gut microbiota and its metabolites were assessed in a healthy control group (n = 11) (HC) unexp...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Subacute oral toxicity of Sinopodophyllum hexandrum fruit in mice: Integrated assessment of target-organ injury and gut microbiota alteration.",
+      "url": "https://doi.org/10.1016/j.jep.2026.122350",
+      "source": "PubMed — Journal of ethnopharmacology",
+      "one_liner": "ETHNOPHARMACOLOGICAL RELEVANCE: Sinopodophyllum hexandrum (Royle) T.S. Ying fruit (SHF) is recorded in the Chinese Pharmacopoeia as a Tibetan medicine for regulating menstruation and promoting blood circulation. Although its pharmacological potential (e.g., anticancer, hypolipidemic) is recognized, little is known about the subacute toxicity and the assoc...",
+      "segment": 1,
+      "timestamp": 139.99
+    },
+    {
+      "title": "Lycopus lucidus Extract Improves Experimental Polycystic Ovary Syndrome with Gut Microbiota and Metabolome Remodeling.",
+      "url": "https://doi.org/10.3791/71084",
+      "source": "PubMed — Journal of visualized experiments : JoVE",
+      "one_liner": "This study investigated the therapeutic effects of ZeLan extract on polycystic ovary syndrome (PCOS) and evaluated its association with gut microbiota-metabolome remodeling. Twenty-four female Sprague-Dawley rats were randomly divided into Control, PCOS Model induced by dehydroepiandrosterone (DHEA), and ZeLan treatment groups (n = 8 each). After 28 days ...",
+      "segment": 2,
+      "timestamp": 181.05
+    },
+    {
+      "title": "Bushen Jianpi Qingchang Formula Ameliorates Colitis in Rats by Regulating Bile Acid Metabolism and Gut Microbiota.",
+      "url": "https://doi.org/10.3791/72117",
+      "source": "PubMed — Journal of visualized experiments : JoVE",
+      "one_liner": "Traditional Chinese medicine (TCM) is widely used for the management of ulcerative colitis (UC) owing to its validated efficacy and favorable safety profile. The core pathogenesis of chronic refractory UC involves spleen and kidney deficiency accompanied by intestinal dampness-heat accumulation, and the Bushen-Jianpi-Qingchang formula (BJQF) is a clinical...",
+      "segment": 3,
+      "timestamp": 228.18
+    },
+    {
+      "title": "Marked sex differences and frequent carriage of recognized uropathogens in the human urogenital microbiome: urine profiles from a population-level shotgun metagenomics study",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.02.25.707997",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Background: The urinary tract was long considered sterile. The discovery of the urinary microbiome has attracted interest in its role in urinary health and disease. Population-level urinary microbiome composition remains poorly defined and previous studies relied on selected populations and low-resolution sequencing. We characterized the microbial composi...",
+      "segment": 4,
+      "timestamp": 279.27
+    },
+    {
+      "title": "Robust taxonomic classification in gut and vaginal microbiomes demonstrated through benchmarking with age-specific synthetic communities",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.06.736764",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Accurate taxonomic profiling of human microbiomes is essential for advancing research and understanding the complex role microbial communities play in human health. When using shotgun metagenomics, the sequencing data is analyzed through metagenomic pipelines, which incorporate various open-source tools and classify microbes based on matched paired-end DN...",
+      "segment": 5,
+      "timestamp": 331.28
+    },
+    {
+      "title": "Gut Microbiomes of Two Bamboo Locusts Reveal Divergent Metabolic Potentials.",
+      "url": "https://doi.org/10.1002/ece3.74143",
+      "source": "PubMed — Ecology and evolution",
+      "one_liner": "The yellow-spined bamboo locust (",
+      "segment": 6,
+      "timestamp": 375.86
+    },
+    {
+      "title": "Trimethylamine N-oxide, a bariatric surgery-associated host-microbial co-metabolite, reduces colonic tumorigenesis in a sex-dependent manner.",
+      "url": "https://doi.org/10.1016/j.jcmgh.2026.101869",
+      "source": "PubMed — Cellular and molecular gastroenterology and hepatology",
+      "one_liner": "BACKGROUND & AIMS: Trimethylamine N-oxide (TMAO) is a host-microbial co-metabolite that significantly increases following Roux-en-Y gastric bypass (RYGB). While TMAO is associated with cardiovascular diseases, its role in colorectal cancer (CRC) remains unclear. METHODS: FabplCre;Apc RESULTS: TMAO supplementation significantly reduced the colonic tumor lo...",
+      "segment": 7,
+      "timestamp": 415.39
+    },
+    {
+      "title": "Effects of imbalanced gut microbial on mice with type a hepatic encephalopathy through the gut-liver-brain axis.",
+      "url": "https://doi.org/10.1007/s11011-026-01964-z",
+      "source": "PubMed — Metabolic brain disease",
+      "one_liner": "BACKGROUND AND AIMS: The relationship between type A hepatic encephalopathy, a highly lethal disease, and gut microbiota remains unclear, and research on this topic is limited. The objective of our study was to investigate the correlation between an imbalance in the gut microbiota and type A hepatic encephalopathy and the impact of fecal microbiota transp...",
+      "segment": 8,
+      "timestamp": 459.93
+    },
+    {
+      "title": "From traditional retting to precision bioprocessing: microbial ecology, enzymatic selectivity, and systems biology of jute retting.",
+      "url": "https://doi.org/10.1007/s10482-026-02419-2",
+      "source": "PubMed — Antonie van Leeuwenhoek",
+      "one_liner": "Jute is one of the world's most important lignocellulosic fibre crops, yet its commercial value remains highly dependent on retting, a biologically mediated fibre extraction process still largely governed by empirical practices and variable environmental conditions. Recent advances in microbial ecology, enzymology, molecular biology, and bioprocess engine...",
+      "segment": 9,
+      "timestamp": 570.95
+    },
+    {
+      "title": "Efficacy of Compound Acid Chemical Peeling in Patients with Moderate Acne: A Prospective Study with Comprehensive Facial Evaluation.",
+      "url": "https://doi.org/10.3791/72116",
+      "source": "PubMed — Journal of visualized experiments : JoVE",
+      "one_liner": "Compound acid chemical peeling is widely used to treat acne vulgaris (AV), but the biological mechanisms underlying its clinical effects remain incompletely understood. We hypothesized that compound acid chemical peeling would improve acne severity and would be associated with changes in the skin microbiome and a reduction in local inflammatory responses ...",
+      "segment": 10,
+      "timestamp": 693.61
+    }
+  ]
+}

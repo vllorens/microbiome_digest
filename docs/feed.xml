@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Aug 2026 09:49:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 08:55:44 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-08-30</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-30/podcast_2026-08-30.mp3</guid>
+      <pubDate>Sun, 30 Aug 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-30/podcast_2026-08-30.mp3" length="5586404" type="audio/mpeg" />
+      <description>The study’s core claim is straightforward: gut microbiota taken from people whose long‑COVID symptoms had persisted for two years can, when transferred to mice, produce changes that resemble post‑COVID‑like phenotypes. | What the available text actually tells us is limited. | In short, while the title suggests a causal link between persistent long‑COVID gut flora and mouse phenotypes that mirror the human condition, the extract supplied here leaves the methodology, the microbial signatures, and the phenotypic readouts unspecified.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>The study’s core claim is straightforward: gut microbiota taken from people whose long‑COVID symptoms had persisted for two years can, when transferred to mice, produce changes that resemble post‑COVID‑like phenotypes. | What the available text actually tells us is limited. | In short, while the title suggests a causal link between persistent long‑COVID gut flora and mouse phenotypes that mirror the human condition, the extract supplied here leaves the methodology, the microbial signatures, and the phenotypic readouts unspecified.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-08-29</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-29/podcast_2026-08-29.mp3</guid>
       <pubDate>Sat, 29 Aug 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-29/podcast_2026-08-29.mp3" length="14304812" type="audio/mpeg" />
-      <description>UniFrac has long been the go‑to metric for quantifying phylogeny‑aware differences between microbiome samples, but its computational cost grows quickly as datasets swell to the size now common in large‑scale studies. | Gut microbiota dysbiosis after spinal cord injury disrupts immune homeostasis, worsening neuroinflammation and impairing recovery, according to a review in PubMed‑indexed Life Sciences. | Researchers have identified isoallolithocholic acid (isoalloLCA) as a pivotal bile acid that drives calcium oxalate kidney stone formation in rats by triggering PARP1‑dependent parthanatos.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-08-29/podcast_2026-08-29.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>UniFrac has long been the go‑to metric for quantifying phylogeny‑aware differences between microbiome samples, but its computational cost grows quickly as datasets swell to the size now common in large‑scale studies. | Gut microbiota dysbiosis after spinal cord injury disrupts immune homeostasis, worsening neuroinflammation and impairing recovery, according to a review in PubMed‑indexed Life Sciences. | Researchers have identified isoallolithocholic acid (isoalloLCA) as a pivotal bile acid that drives calcium oxalate kidney stone formation in rats by triggering PARP1‑dependent parthanatos.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-10/podcast_2026-06-10.mp3</guid>
       <pubDate>Wed, 10 Jun 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-10/podcast_2026-06-10.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-06-09</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-09/podcast_2026-06-09.mp3</guid>
-      <pubDate>Tue, 09 Jun 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-09/podcast_2026-06-09.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
