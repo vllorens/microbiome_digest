@@ -1,0 +1,366 @@
+{
+  "timestamps": [
+    0.0,
+    130.48,
+    175.79,
+    216.97,
+    269.82,
+    312.1,
+    360.02,
+    405.19,
+    445.26,
+    487.21,
+    532.74,
+    648.7,
+    768.98,
+    891.33,
+    996.62,
+    1123.4,
+    1169.48,
+    1573.49,
+    1623.02,
+    1652.01,
+    1698.45,
+    1739.12,
+    1791.01,
+    1837.06,
+    1884.6,
+    2240.44,
+    2292.06,
+    2415.35,
+    2453.34,
+    2497.61,
+    2540.76,
+    2647.46,
+    2769.78,
+    2891.53,
+    2935.26,
+    2977.44,
+    3335.66,
+    3381.81,
+    3425.75,
+    3471.06
+  ],
+  "items": [
+    {
+      "title": "Host genetic and gut microbiota interactions regulating intramuscular fat deposition in livestock: mechanistic insights and implications for meat quality.",
+      "url": "https://doi.org/10.5713/ab.260478",
+      "source": "PubMed — Animal bioscience",
+      "one_liner": "Intramuscular fat (IMF) is a major determinant of meat quality, influencing tenderness, juiciness, flavor, oxidative stability, and nutritional value in livestock products. Increasing evidence indicates that IMF deposition is regulated by complex interactions between host genetics and gut microbial metabolism. This review summarizes current advances in th...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Effects of L-selenomethylselenocysteine-fortified milk powder on immune homeostasis, intestinal integrity, and gut microbiota in immunosuppressed mice.",
+      "url": "https://doi.org/10.3168/jds.2026-28349",
+      "source": "PubMed — Journal of dairy science",
+      "one_liner": "Immunosuppression is strongly associated with impaired intestinal health and perturbations in gut microbial composition. This study aimed to evaluate the regulatory effects of L-selenomethylselenocysteine (L-SeMC) fortified milk powder on immune function and gut microbiota in cyclophosphamide (CTX)-induced immunosuppressed mice, and to compare its efficac...",
+      "segment": 1,
+      "timestamp": 130.48
+    },
+    {
+      "title": "Environmental-dose chlorpyrifos disrupts gut microbiota and microbial metabolite profiles: An indirect mechanism promoting breast tumor growth.",
+      "url": "https://doi.org/10.1016/j.jes.2025.10.059",
+      "source": "PubMed — Journal of environmental sciences (China)",
+      "one_liner": "Chlorpyrifos (CPF), a persistent organic pollutant prevalent in the environment, has been associated with an increased risk of breast cancer through mechanisms that remain incompletely elucidated. Since microorganisms are more susceptible to CPF than animals, this study employed a 24-week exposure mouse model to investigate the impacts of environmental-do...",
+      "segment": 2,
+      "timestamp": 175.79
+    },
+    {
+      "title": "From dysbiosis to precision oncology: translational role of the microbiome in gastrointestinal cancer.",
+      "url": "https://doi.org/10.1080/15384101.2026.2725418",
+      "source": "PubMed — Cell cycle (Georgetown, Tex.)",
+      "one_liner": "Gastrointestinal (GI) cancers, including colorectal, gastric, pancreatic, hepatocellular, and esophageal malignancies, remain a leading cause of cancer-related mortality worldwide. Emerging evidence identifies the gut microbiome as a critical regulator of GI carcinogenesis, influencing tumor initiation, immune evasion, therapeutic response, and clinical o...",
+      "segment": 3,
+      "timestamp": 216.97
+    },
+    {
+      "title": "Pesticide Residues, Gut Microbiota, and Gastrointestinal Outcomes: A Scoping Review of Human Evidence.",
+      "url": "https://doi.org/10.1111/1541-4337.70622",
+      "source": "PubMed — Comprehensive reviews in food science and food safety",
+      "one_liner": "Vegetables anchor healthy-diet recommendations yet are the principal nonoccupational route by which residues of organophosphate (OP), pyrethroid, neonicotinoid, organochlorine (OC), and glyphosate herbicide enter the diet, with the gut microbiota a plausible mediator linking these residues to functional gastrointestinal (GI) and inflammatory bowel outcome...",
+      "segment": 4,
+      "timestamp": 269.82
+    },
+    {
+      "title": "Gut microbiota and metabolic alterations in participants with flatulence identify",
+      "url": "https://doi.org/10.1080/19490976.2026.2728332",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Flatulence is closely associated with gut dysbiosis, yet the characteristic microbial signatures, metabolic alterations, and actionable intervention targets remain unclear. This limited mechanistic understanding has hindered the development of precise microbiota-based strategies for managing flatulence. Here, we found that participants with flatulence exh...",
+      "segment": 5,
+      "timestamp": 312.1
+    },
+    {
+      "title": "Metagenome-scale modeling to assess microbiome metabolic complementarity for precision microbiota transplantation therapies.",
+      "url": "https://doi.org/10.1080/19490976.2026.2725403",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Fecal microbiota transplantation (FMT) holds therapeutic promise beyond recurrent",
+      "segment": 6,
+      "timestamp": 360.02
+    },
+    {
+      "title": "Unraveling the drug resistance web in IBD: The gut microbiota-immunity-epigenetics axis.",
+      "url": "https://doi.org/10.1080/19490976.2026.2725430",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Drug resistance in inflammatory bowel disease (IBD) precision therapy remains a critical barrier to clinical outcomes, with traditional studies focusing on single molecules or isolated pathways but failing to systematically dissect the bidirectional, context-dependent dynamic crosstalk among gut microbiota, immunity, and epigenetic modifications. This rev...",
+      "segment": 7,
+      "timestamp": 405.19
+    },
+    {
+      "title": "Multi-kingdom gut microbiota analyses identify biomarkers of different types of pediatric short bowel syndrome.",
+      "url": "https://doi.org/10.1128/msystems.00316-26",
+      "source": "PubMed — mSystems",
+      "one_liner": "Despite recent advances in bacterial profiling across the three anatomical types of pediatric short bowel syndrome (SBS), the gut multi-kingdom remains unexplored. We characterized the four-kingdom gut microbiota using modified DNA extraction and deep shotgun metagenomic sequencing of fecal samples from 26 healthy controls and 34 pediatric SBS patients co...",
+      "segment": 8,
+      "timestamp": 445.26
+    },
+    {
+      "title": "Global and local trajectories of infant gut microbiota development in Bangladesh across the COVID-19 pandemic.",
+      "url": "https://doi.org/10.1128/msystems.00101-26",
+      "source": "PubMed — mSystems",
+      "one_liner": "The establishment of the gut microbiota in early life is fundamental to lifelong health, yet this process remains poorly explored outside Western and high-income settings. We investigated microbial maturation in a non-Western context, by longitudinally characterizing the gut microbiota of 20 healthy infants from urban Bangladesh (",
+      "segment": 9,
+      "timestamp": 487.21
+    },
+    {
+      "title": "Gut microbiota-bile acid axis in cardiovascular disease: a spatiotemporal framework for predictive, preventive and personalised medicine.",
+      "url": "https://doi.org/10.1007/s13167-026-00464-5",
+      "source": "PubMed — The EPMA journal",
+      "one_liner": "Cardiovascular disease (CVD) retains a substantial residual burden despite control of conventional risk factors, indicating contributions from additional metabolic, inflammatory and host-microbial pathways. The gut microbiota-bile acid axis links diet and environmental exposures to microbial metabolism, enterohepatic signalling and cardiovascular homeosta...",
+      "segment": 10,
+      "timestamp": 532.74
+    },
+    {
+      "title": "A Critical Synthesis of Machine Learning in Autism Spectrum Disorder Genomic Research: From Transcriptomics to Microbiome.",
+      "url": "https://doi.org/10.4274/MMJ.galenos.2026.69259",
+      "source": "PubMed — Medeniyet medical journal",
+      "one_liner": "Autism spectrum disorder (ASD) is a complex neurodevelopmental condition characterized by persistent impairments in social communication, restricted interests, and repetitive behaviors. This narrative review synthesizes advances in machine learning applications to ASD genomic research through May 2026, spanning gene expression analysis, whole-exome sequen...",
+      "segment": 11,
+      "timestamp": 648.7
+    },
+    {
+      "title": "Comparison of clinical efficacy and gut microbiota characteristics in children with ASD treated with fecal microbiota transplantation and ketogenic diet.",
+      "url": "https://doi.org/10.1186/s12888-026-08547-3",
+      "source": "PubMed — BMC psychiatry",
+      "one_liner": "OBJECTIVE: Autism Spectrum Disorder (ASD) is a neurodevelopmental disorder characterized by impairments in social communication and interaction, along with restricted, repetitive patterns of behavior. It is often accompanied by gastrointestinal dysfunction and gut microbiota dysbiosis. Fecal Microbiota Transplantation (FMT) and the Ketogenic Diet (KD) are...",
+      "segment": 12,
+      "timestamp": 768.98
+    },
+    {
+      "title": "Unveiling the mechanism of metabolites derived from gut microbiota in the treatment of acute kidney injury via network pharmacology and bioinformatics.",
+      "url": "https://doi.org/10.1186/s40643-026-01122-4",
+      "source": "PubMed — Bioresources and bioprocessing",
+      "one_liner": "BACKGROUND: Acute kidney injury (AKI) affects a considerable proportion of patients that represents a major challenge for clinical treatment. Gut microbiota metabolites have been reported to attenuate acute kidney injury (AKI), yet their underlying mechanisms remain largely elusive. The present study aimed to explore the protective mechanisms of these met...",
+      "segment": 13,
+      "timestamp": 891.33
+    },
+    {
+      "title": "Oral and gut microbiota profiles in patients with locally advanced rectal cancer with varying responses to neoadjuvant chemoradiotherapy.",
+      "url": "https://doi.org/10.1007/s10142-026-02025-5",
+      "source": "PubMed — Functional & integrative genomics",
+      "one_liner": "Recent research has focused on gut bacteria in colorectal cancer, but the influence of other microbiota, including oral and nonbacterial gut microbiota, on treatment efficacy remains insufficiently explored. This study aimed to investigate their relationship with the efficacy of neoadjuvant chemoradiotherapy (nCRT) in locally advanced rectal cancer (LARC)...",
+      "segment": 14,
+      "timestamp": 996.62
+    },
+    {
+      "title": "The gut microbiota and gut-brain axis in Alzheimer's disease: From pathogenesis to treatment.",
+      "url": "https://doi.org/10.1016/j.arr.2026.103345",
+      "source": "PubMed — Ageing research reviews",
+      "one_liner": "Alzheimer's disease (AD) is a progressive neurodegenerative disorder whose pathological course involves amyloid-β (Aβ) deposition, tau abnormalities, neuroinflammation, and neurovascular dysfunction. Interest in the microbiota-gut-brain axis does not arise because gut dysbiosis has been established as an independent initiating cause of sporadic AD, but be...",
+      "segment": 15,
+      "timestamp": 1123.4
+    },
+    {
+      "title": "Targeting cystathionine-β-synthase (CBS)-mediated cell stemness and gut microbiome homeostasis: mechanism and clinical study of combined resveratrol-curcumin treatment for ulcerative colitis.",
+      "url": "https://doi.org/10.1016/j.phymed.2026.158625",
+      "source": "PubMed — Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "one_liner": "BACKGROUND: Durable mucosal healing is the primary therapeutic goal in ulcerative colitis (UC). Intestinal epithelial stemness and microbiota homeostasis drive this healing process. Cystathionine-β-synthase (CBS) is a key enzyme in endogenous sulfur metabolism. Sulfur metabolism is essential for mitochondrial energy production and mucosal integrity. Howev...",
+      "segment": 16,
+      "timestamp": 1169.48
+    },
+    {
+      "title": "Integrated Analysis of Gut Microbiota and Bile Acid Metabolism Reveals a Distinct Pro-fibrotic Profile in Non-obese Patients With Nonalcoholic Fatty Liver Disease.",
+      "url": "https://doi.org/10.1016/j.jceh.2026.103601",
+      "source": "PubMed — Journal of clinical and experimental hepatology",
+      "one_liner": "BACKGROUND/AIMS: This study aims to comprehensively analyze alterations in bile acid (BA) metabolism and gut microbiota composition to identify distinct metabolic signatures and microbial patterns associated with the development of nonalcoholic fatty liver disease (NAFLD) in non-obese individuals. METHODS: This cross-sectional study enrolled 57 NAFLD pati...",
+      "segment": 17,
+      "timestamp": 1573.49
+    },
+    {
+      "title": "Mechanistic Study of Inulin in Ameliorating Heat Stroke-Induced Intestinal Barrier Damage via Modulation of Gut Microbiota- Butyrate-GPR43 Axis.",
+      "url": "https://doi.org/10.1021/acs.jafc.5c13669",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "This study investigated how the prebiotic inulin protects against heat-stroke-induced intestinal barrier damage. A classic/passive heat-stroke model was established in C57BL/6J mice. After 4 weeks of dietary intervention with 5% inulin, gut microbiota, fecal short-chain fatty acids, intestinal barrier function, and signaling pathways were examined using 1...",
+      "segment": 18,
+      "timestamp": 1623.02
+    },
+    {
+      "title": "Theabrownin Alleviates Alcoholic Liver Disease in Mice by Improving Gut Microbiota and Tryptophan Metabolism.",
+      "url": "https://doi.org/10.1002/mnfr.70586",
+      "source": "PubMed — Molecular nutrition & food research",
+      "one_liner": "Theabrownin (TB) is a bioactive compound derived from tea. Alcoholic liver disease (ALD), caused by chronic alcohol consumption, leads to progressive liver damage associated with inflammation and steatosis. This study aimed to investigate TB's protective effects against ALD and elucidate its mechanisms. A chronic-binge ethanol feeding model was used to in...",
+      "segment": 19,
+      "timestamp": 1652.01
+    },
+    {
+      "title": "Rosmarinic acid alleviates colitis and repairs mucus barrier damage in a gut microbiota-dependent manner.",
+      "url": "https://doi.org/10.1039/d6fo03083a",
+      "source": "PubMed — Food & function",
+      "one_liner": "Rosmarinic acid (RA) significantly alleviates DSS-induced colitis by repairing the damaged colonic mucus barrier and reversing gut microbiota dysbiosis. However, it remains unclear whether the gut microbiota is required for this protective effect. To address this, pseudo-germ-free mouse models and fecal microbiota transplantation (FMT) were used to evalua...",
+      "segment": 20,
+      "timestamp": 1698.45
+    },
+    {
+      "title": "Impact of Gut Microbiota Dysbiosis in Treatment Outcomes of Guillain-Barré Syndrome.",
+      "url": "https://doi.org/10.1111/jns.70141",
+      "source": "PubMed — Journal of the peripheral nervous system : JPNS",
+      "one_liner": "BACKGROUND AND AIMS: The gut-microbiota plays a significant role in neuro-autoimmune diseases, like Guillain-Barré syndrome (GBS), a post-infectious disorder of the peripheral nervous system (PNS). By altering host immunity, gut dysbiosis may impact the standard therapeutic efficacy of intravenous immunoglobulin (IVIg) and plasma exchange (PE) and thereby...",
+      "segment": 21,
+      "timestamp": 1739.12
+    },
+    {
+      "title": "Differential Expression of Human and Bacterial Proteins Reveals Microbiome-Host Crosstalk in Metabolic Disorders.",
+      "url": "https://doi.org/10.1002/prca.70054",
+      "source": "PubMed — Proteomics. Clinical applications",
+      "one_liner": "PURPOSE: The growing prevalence of obesity, MetS, and T2DM highlights the need to better understand host-microbiota interactions. While gut microbiota has been widely investigated, interactions between the oral microbiota and human salivary proteins remain largely unexplored. EXPERIMENTAL DESIGN: This study investigated the integrated human salivary prote...",
+      "segment": 22,
+      "timestamp": 1791.01
+    },
+    {
+      "title": "Catechins and Their Effect on the Gut Microbiome in Health and Cancer.",
+      "url": "https://doi.org/10.1002/ptr.70435",
+      "source": "PubMed — Phytotherapy research : PTR",
+      "one_liner": "Catechins are a group of flavonoids found primarily in green tea, fruits, and berries; they play a significant role in the modulation of the gut microbiota, thereby having an impact on gut health and cancer prevention. Owing to their low bioavailability, catechins are transformed by the gut microbiota into various bioactive metabolites such as valerolacto...",
+      "segment": 23,
+      "timestamp": 1837.06
+    },
+    {
+      "title": "Impact of Chicken Protein Hydrolysate in Complementary Baby Food on Protein Quality, Antioxidant Status, and Gut Microbiota in Wistar Rats.",
+      "url": "https://doi.org/10.1002/mnfr.70537",
+      "source": "PubMed — Molecular nutrition & food research",
+      "one_liner": "This study investigates functional advantages of chicken meat protein hydrolysate (CMPH) as novel protein source for complementary baby food (CBF), focusing on its enhanced bioavailability, bioactivity, and gut-modulating potential. CMPH was produced via Pediococcus pentosaceus fermentation using 45% chicken (Gallus gallus domesticus) meat with 2% dextros...",
+      "segment": 24,
+      "timestamp": 1884.6
+    },
+    {
+      "title": "Mechanistic Insights Into the Association Between Gut Microbiota Diversity and Atherosclerosis, Acute Coronary Syndrome, and Peripheral Arterial Disease Progression.",
+      "url": "https://doi.org/10.1002/clc.70455",
+      "source": "PubMed — Clinical cardiology",
+      "one_liner": "BACKGROUND: The gut microbiome has emerged as a potential contributor to cardiovascular diseases (CVDs), including atherosclerosis, acute coronary syndrome (ACS), and peripheral arterial disease (PAD). While observational studies link dysbiosis to CVD, causal relationships remain uncertain. METHODS: This narrative review synthesizes evidence from human ob...",
+      "segment": 25,
+      "timestamp": 2240.44
+    },
+    {
+      "title": "Antifungal therapy improves microbiome dynamics in inflammatory bowel disease.",
+      "url": "https://doi.org/10.1038/s41591-026-04616-y",
+      "source": "PubMed — Nature medicine",
+      "one_liner": "Gut fungal dysbiosis has been implicated in inflammatory bowel disease (IBD), yet strategies for targeting the gut mycobiota in IBD remain unexplored. Here we leveraged the observation that Candida albicans strains are shared between the oral cavity and gut in patients with IBD with mild oral thrush, a condition caused by Candida overgrowth, to design a p...",
+      "segment": 26,
+      "timestamp": 2292.06
+    },
+    {
+      "title": "Gut-Intervertebral Disc Axis: Gut Microbiome-Driven Immune-Metabolic Imbalance and Intervertebral Disc Degeneration.",
+      "url": "https://doi.org/10.1002/jcp.70222",
+      "source": "PubMed — Journal of cellular physiology",
+      "one_liner": "Intervertebral disc degeneration (IDD) serves as a critical structural basis for chronic low back pain, severely impairing patients' quality of life and imposing a significant socioeconomic burden. Current interventions remain largely limited to symptomatic treatments including pharmacological analgesia and surgical intervention. The recently proposed \"gu...",
+      "segment": 27,
+      "timestamp": 2415.35
+    },
+    {
+      "title": "Ecological Filtering by Tuber Compartments Shapes Stable Core Microbiomes That Underpin Potato Plant Growth Across Environments.",
+      "url": "https://doi.org/10.1111/pce.70843",
+      "source": "PubMed — Plant, cell & environment",
+      "one_liner": "Harnessing plant microbiomes for sustainable agriculture requires understanding not only whether they can boost crop performance, but also how ecological processes govern their assembly, stability, and functional contributions across environments. While we previously showed that seed tuber microbiomes can predict potato vigour using machine learning, it r...",
+      "segment": 28,
+      "timestamp": 2453.34
+    },
+    {
+      "title": "Protease-serpin-microbiome interactions in inflammatory bowel disease: toward integrated biomarkers of gut health.",
+      "url": "https://doi.org/10.1080/19490976.2026.2726641",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Proteolytic imbalance involving host and microbial serine proteases and their inhibitors (serpins) contributes to intestinal barrier disruption and chronic inflammation in inflammatory bowel disease (IBD). However, the interplay among these components remains insufficiently characterized. Here, we survey 13,304 publications over five decades, to map prote...",
+      "segment": 29,
+      "timestamp": 2497.61
+    },
+    {
+      "title": "Nutritional Modulation of the Gut Microbiome-Metabolite Axis in Cardiovascular Disease: From Dietary Patterns to Cardiovascular Risk.",
+      "url": "https://doi.org/10.1007/s13668-026-00795-9",
+      "source": "PubMed — Current nutrition reports",
+      "one_liner": "PURPOSE OF REVIEW: Cardiovascular disease (CVD) remains the leading cause of mortality worldwide, and dietary modification represents one of the most important modifiable strategies for its prevention and management. Increasing evidence indicates that the cardiovascular effects of diet extend beyond direct effects of nutrients and are partly mediated by i...",
+      "segment": 30,
+      "timestamp": 2540.76
+    },
+    {
+      "title": "Diet-driven shifts in microbiome composition and predicted metabolic functions of Mytilus coruscus larvae.",
+      "url": "https://doi.org/10.1007/s00203-026-05158-0",
+      "source": "PubMed — Archives of microbiology",
+      "one_liner": "Different microalgal diets can shape the bacterial and fungal communities associated with mussel larvae. This study investigates the composition, diversity, and functional roles of bacterial and fungal communities in Mytilus coruscus planktonic larvae at the veliconcha stage, under different mixed microalgal diets. Mussel larvae were cultured under contro...",
+      "segment": 31,
+      "timestamp": 2647.46
+    },
+    {
+      "title": "The role of the human microbiome in prostate cancer: a systematic review from diagnosis to treatment.",
+      "url": "https://doi.org/10.1038/s41391-025-01028-w",
+      "source": "PubMed — Prostate cancer and prostatic diseases",
+      "one_liner": "BACKGROUND: Prostate cancer (PC) heterogeneity and treatment resistance remain major clinical challenges, with emerging evidence implicating the microbiome as a key modulator of disease pathogenesis. While microbial dysbiosis has been linked to PC diagnosis, progression, and therapeutic outcomes, the mechanisms underlying these associations are poorly und...",
+      "segment": 32,
+      "timestamp": 2769.78
+    },
+    {
+      "title": "Methanogens: vital but threatened members of the human microbiome?",
+      "url": "https://doi.org/10.1016/j.tim.2026.08.008",
+      "source": "PubMed — Trends in microbiology",
+      "one_liner": "Methanogens are an ancestral group of archaea that occupy a unique niche within the human gut microbiome by virtue of their methane production. In this process, they serve as hydrogen sinks, allowing continued bacterial fermentation and influencing short-chain fatty acid production. Available evidence suggests that methanogen abundance may be declining in...",
+      "segment": 33,
+      "timestamp": 2891.53
+    },
+    {
+      "title": "Dual-omics links host genomic variation to gut microbiome restructuring under Mycobacterium marinum challenge in Cynoglossus semilaevis.",
+      "url": "https://doi.org/10.1016/j.cbd.2026.101838",
+      "source": "PubMed — Comparative biochemistry and physiology. Part D, Genomics & proteomics",
+      "one_liner": "Disease outbreaks caused by Mycobacterium marinum pose a major challenge to marine aquaculture and threaten the sustainable production of Cynoglossus semilaevis. Increasing evidence suggests that host genetic variation and gut microbial communities may jointly influence disease-related phenotypes, yet their interaction under mycobacterial challenge remain...",
+      "segment": 34,
+      "timestamp": 2935.26
+    },
+    {
+      "title": "Hepatic encephalopathy in chronic liver disease: Emerging insights from the gut microbiome.",
+      "url": "https://doi.org/10.1016/j.jhepr.2026.102022",
+      "source": "PubMed — JHEP reports : innovation in hepatology",
+      "one_liner": "Hepatic encephalopathy remains an underserved complication of chronic liver disease. Reliable diagnostic and prognostic biomarkers linked to disease pathophysiology are currently lacking, as are options for treatment that reduce mortality beyond lactulose and rifaximin. However, with the advent of high-throughput sequencing and multi-omics techniques to i...",
+      "segment": 35,
+      "timestamp": 2977.44
+    },
+    {
+      "title": "Rapid species-level discrimination of pulmonary TB and NTM by metagenomic next-generation sequencing with concurrent respiratory microbiome profiling.",
+      "url": "https://doi.org/10.1016/j.diagmicrobio.2026.117442",
+      "source": "PubMed — Diagnostic microbiology and infectious disease",
+      "one_liner": "INTRODUCTION: Rapid discrimination between Mycobacterium tuberculosis (MTB) and nontuberculous mycobacteria (NTM) remains clinically challenging, especially when conventional microbiological evidence is limited. Whether metagenomic next-generation sequencing (mNGS) can provide rapid species-level identification while simultaneously characterizing the resp...",
+      "segment": 36,
+      "timestamp": 3335.66
+    },
+    {
+      "title": "Microbiome Insights Into Zoonotic Risk at Wildlife-Human Interfaces in a Transitioning Landscape in Thailand.",
+      "url": "https://doi.org/10.1111/1749-4877.70167",
+      "source": "PubMed — Integrative zoology",
+      "one_liner": "Land-use change is accelerating worldwide and is one of the strongest predictors of emerging zoonotic disease. These ecological transitions can disrupt host microbiomes, change pathogen carriage, and create novel opportunities for spillover at wildlife-livestock-human interfaces. Yet, little is known about how reforested landscapes influence microbiome di...",
+      "segment": 37,
+      "timestamp": 3381.81
+    },
+    {
+      "title": "Microbiome and Metabolomics in Obesity: Advances in Understanding and Interventions Across the Lifespan.",
+      "url": "https://doi.org/10.1111/obr.70220",
+      "source": "PubMed — Obesity reviews : an official journal of the International Association for the Study of Obesity",
+      "one_liner": "Obesity arises from intertwined and reciprocal diet-microbiome-host pathways that reshape energy balance, insulin sensitivity, and inflammation. This review synthesizes mechanistic links between microbial functions and metabolic control, charts lifestyle-related lifecourse dynamics from birth to older age, examines how GLP-1-based therapies may perturb gu...",
+      "segment": 38,
+      "timestamp": 3425.75
+    },
+    {
+      "title": "Efficacy and safety evaluation of Weifuchun in preventing recurrence and treating mucosal lesions after endoscopic resection of intestinal polyps: A potential modulation of gut microbiome.",
+      "url": "https://doi.org/10.1556/030.2026.03051",
+      "source": "PubMed — Acta microbiologica et immunologica Hungarica",
+      "one_liner": "We evaluated Weifuchun tablets (composed of red ginseng, chamomile, and roasted shell) for preventing intestinal polyp recurrence and treating mucosal lesions after endoscopic resection, and to analyze its mechanism via gut microbiome regulation. This study prospectively enrolled 218 patients who underwent endoscopic intestinal polyp resection (April 2022...",
+      "segment": 39,
+      "timestamp": 3471.06
+    }
+  ]
+}
