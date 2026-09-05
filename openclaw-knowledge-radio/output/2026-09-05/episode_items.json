@@ -1,0 +1,348 @@
+{
+  "timestamps": [
+    0.0,
+    42.74,
+    147.57,
+    190.0,
+    235.04,
+    286.2,
+    329.35,
+    373.41,
+    416.39,
+    461.8,
+    506.7,
+    549.32,
+    596.04,
+    646.94,
+    690.09,
+    735.8,
+    780.61,
+    909.1,
+    1020.65,
+    1147.29,
+    1242.74,
+    1286.36,
+    1332.27,
+    1382.26,
+    1425.1,
+    1477.05,
+    1521.09,
+    1568.99,
+    1609.33,
+    1656.15,
+    1775.47,
+    1824.84,
+    1954.31,
+    2081.96,
+    2127.56,
+    2174.28,
+    2226.38,
+    2276.97
+  ],
+  "items": [
+    {
+      "title": "Si-Si-Gu-Ben granules alleviate diarrhea-predominant irritable bowel syndrome by modulating gut microbiota and suppressing the TLR4/NF-κB pathway: A combined clinical and animal study.",
+      "url": "https://doi.org/10.1016/j.jep.2026.122352",
+      "source": "PubMed — Journal of ethnopharmacology",
+      "one_liner": "ETHNOPHARMACOLOGICAL RELEVANCE: Si-Si-Gu-Ben (SSGB), a traditional Chinese medicinal formula derived from the theory of \"warming the spleen and kidney to arrest diarrhea,\" is frequently prescribed for diarrhea-predominant irritable bowel syndrome (IBS-D) in clinical practice, yet its pharmacological mechanisms remain insufficiently elucidated. This study ...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Reduced gut microbiota-derived indole-3-carboxaldehyde and 5-hydroxyindole-3-acetic acid are associated with intestinal barrier dysfunction and inflammation in diarrheic suckling lambs.",
+      "url": "https://doi.org/10.1186/s40104-026-01493-w",
+      "source": "PubMed — Journal of animal science and biotechnology",
+      "one_liner": "BACKGROUND: Diarrhea in suckling lambs is associated with gut microbiota dysbiosis, impaired intestinal barrier function, and enhanced inflammatory responses. However, the specific intestinal microbes and microbial metabolites linked to intestinal homeostasis in suckling lambs remain unclear. RESULTS: In this study, diarrheic lambs showed significantly hi...",
+      "segment": 1,
+      "timestamp": 42.74
+    },
+    {
+      "title": "Multiomics analyses identify diet-derived creatine and α-linolenic acid linking with metastatic thyroid cancer.",
+      "url": "https://doi.org/10.1016/j.mcp.2026.102086",
+      "source": "PubMed — Molecular and cellular probes",
+      "one_liner": "BACKGROUND: Thyroid cancer (TC) has traditionally been regarded as an indolent malignancy. However, it retains the potential for metastasis and lethality, underscoring its status as a malignant tumor. To explore the interplay between serum metabolite profiles, gut microbial communities, and TC metastasis, we conducted a comprehensive study. METHODS: Serum...",
+      "segment": 2,
+      "timestamp": 147.57
+    },
+    {
+      "title": "Targeting Nrf2 in oxidative liver injury: expanding the role of gut microbiota and metabolites.",
+      "url": "https://doi.org/10.1016/j.jare.2026.09.006",
+      "source": "PubMed — Journal of advanced research",
+      "one_liner": "BACKGROUND: Liver diseases are a major cause of illness and death worldwide. Oxidative stress is a pivotal driver in the pathogenesis of a spectrum of liver diseases, including alcoholic liver disease (ALD), metabolic dysfunction-associated fatty liver disease (MAFLD), drug-induced liver injury (DILI), and hepatocellular carcinoma (HCC). The transcription...",
+      "segment": 3,
+      "timestamp": 190.0
+    },
+    {
+      "title": "Antibiotics and nanoparticles in Parkinson's disease: From gut microbiota dysbiosis to neuroprotection and targeted nanotherapies.",
+      "url": "https://doi.org/10.1016/j.biopha.2026.119903",
+      "source": "PubMed — Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "one_liner": "Parkinson's disease (PD) is increasingly linked to gut-brain axis dysfunction. While broad-spectrum antibiotics may contribute to gut dysbiosis, which has been associated with an increased abundance of curli-producing Enterobacteriaceae and processes implicated in α-synuclein aggregation, certain antibiotic classes, particularly tetracyclines and β-lactam...",
+      "segment": 4,
+      "timestamp": 235.04
+    },
+    {
+      "title": "Gut Microbiota Analysis and Comparison in Forest Musk Deer (Moschus berezovskii) of Different Ages and Musk-Secreting Periods.",
+      "url": "https://doi.org/10.1111/1749-4877.70181",
+      "source": "PubMed — Integrative zoology",
+      "one_liner": "Under homeostatic conditions, the gut microbiota are closely associated with host health, undergoing co-evolution with the host through complex interactions to maintain mutually beneficial symbiosis. However, dynamic changes in the gut microbiota of forest musk deer (Moschus berezovskii; FMD) at different age stages and musk-secreting periods remain uncle...",
+      "segment": 5,
+      "timestamp": 286.2
+    },
+    {
+      "title": "Lesion-specific oral microbiome signatures and predicted carcinogenic pathways in oral squamous cell carcinoma: a paired-site study in Pakistan.",
+      "url": "https://doi.org/10.1080/20002297.2026.2721025",
+      "source": "PubMed — Journal of oral microbiology",
+      "one_liner": "BACKGROUND: Oral squamous cell carcinoma accounts for over 90% of oral neoplasms. Despite therapeutic advances, the lack of reliable, non-invasive biomarkers and delayed diagnosis continues to impede effective clinical management. By combining paired lesion and non-lesion sampling with predictive metagenomics analysis, our study addresses this gap and adv...",
+      "segment": 6,
+      "timestamp": 329.35
+    },
+    {
+      "title": "D-Tagatose ameliorates diet-induced glucose and lipid metabolic dysfunction by reshaping gut microbiota and restoring metabolic homeostasis.",
+      "url": "https://doi.org/10.1039/d6fo00563b",
+      "source": "PubMed — Food & function",
+      "one_liner": "Obesity is a major global health concern that significantly increases the risk of chronic metabolic diseases, including type 2 diabetes and cardiovascular diseases. This study investigated the ameliorative effects of D-tagatose on glucose and lipid metabolic disorders induced by a high-fat and high-sucrose diet (HFHSD) in obese rats, and systematically ex...",
+      "segment": 7,
+      "timestamp": 373.41
+    },
+    {
+      "title": "Salivary Extracellular Vesicles from Host, Bacteria and Fungus as Nanomessengers Reflecting Host-Microbiome Interaction in Periodontal Inflammation.",
+      "url": "https://doi.org/10.1021/acsami.6c09503",
+      "source": "PubMed — ACS applied materials & interfaces",
+      "one_liner": "Extracellular vesicles (EVs) secreted by the host and polymicrobial oral community are natural endogenous biological nanoparticles that mediate host-microbe interactions. Given their abundance in biofluids, host, fungal and bacterial EVs circulating in saliva may reflect periodontitis-associated microbial dysbiosis and inflammation. In this study, salivar...",
+      "segment": 8,
+      "timestamp": 416.39
+    },
+    {
+      "title": "Integrated Oral Microbiome and Metabolome Profiling Identifies Disease-Associated Multi-Omics Signatures in Alström and Bardet-Biedl Syndromes.",
+      "url": "https://doi.org/10.34133/csbj.0211",
+      "source": "PubMed — Computational and structural biotechnology journal",
+      "one_liner": "",
+      "segment": 9,
+      "timestamp": 461.8
+    },
+    {
+      "title": "Correction to: Pseudomonas aeruginosa adaptation and persistence in the aspergilloma microbiome revealed by integrated multi-omics.",
+      "url": "https://doi.org/10.1093/g3journal/jkag236",
+      "source": "PubMed — G3 (Bethesda, Md.)",
+      "one_liner": "",
+      "segment": 10,
+      "timestamp": 506.7
+    },
+    {
+      "title": "Microbiota-derived metabolite-GPCR signalling in neurodegeneration.",
+      "url": "https://doi.org/10.1016/j.neuroscience.2026.09.001",
+      "source": "PubMed — Neuroscience",
+      "one_liner": "The gut microbiome acts as a primary regulator of host homeostasis, influencing the entire body through bidirectional communication along the gut-brain axis (GBA). Dysbiosis, which is defined as a state of microbial imbalance involving alterations in community composition and function, can disrupt the synthesis of important microbiota-derived metabolites,...",
+      "segment": 11,
+      "timestamp": 549.32
+    },
+    {
+      "title": "Bacteroides acidifaciens enriched by KRAS mutation promotes colorectal tumorigenesis.",
+      "url": "https://doi.org/10.1016/j.chom.2026.08.010",
+      "source": "PubMed — Cell host & microbe",
+      "one_liner": "Colorectal cancer (CRC) is a multifactorial disease impacted by the tumor microbiome and host genetics, notably mutations that activate KRAS to stimulate a RAF-MEK-extracellular signal-regulated kinase (ERK) proliferative cascade. However, whether host genetics interplays with the tumor microbiome remains unclear. Here, we profiled intratumoral microbiome...",
+      "segment": 12,
+      "timestamp": 596.04
+    },
+    {
+      "title": "Indole-3-propionic acid is an endogenic agonist of hypoxia-inducible factor-1α to protect the heart against hypoxia.",
+      "url": "https://doi.org/10.1093/procel/pwag067",
+      "source": "PubMed — Protein & cell",
+      "one_liner": "Tryptophan catabolism by the gut microbiota is increasingly recognized as a hub connecting environmental challenges to cardiovascular health. By systematically profiling tryptophan metabolites in humans who had moved from low altitude to an altitude of 4300 m and in mice exposed to hypobaric hypoxia, we found that circulating and fecal levels of indole-3-...",
+      "segment": 13,
+      "timestamp": 646.94
+    },
+    {
+      "title": "Gut microbial H2S promotes metabolic dysfunction in mice via hepatic PPARα suppression.",
+      "url": "https://doi.org/10.1093/ismejo/wrag226",
+      "source": "PubMed — The ISME journal",
+      "one_liner": "This study investigates the role of gut microbiota-derived hydrogen sulfide (H2S) in obesity and glucose metabolism disorders. By integrating human gut metagenomic data, intervention experiments in mouse models, and in vitro cellular assays, we identified a signature of microbial sulfur metabolism in human cohorts and provided experimental evidence for it...",
+      "segment": 14,
+      "timestamp": 690.09
+    },
+    {
+      "title": "Nutritional regulation of gut-brain immune crosstalk across the lifespan.",
+      "url": "https://doi.org/10.1080/19490976.2026.2725371",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "The gut-brain immune axis integrates microbial, immune, and neural signals to regulate neurodevelopment, homeostasis, and disease susceptibility. Early-life nutrition, particularly human milk oligosaccharides, shapes beneficial microbiota composition, enhances hippocampal plasticity, promotes anti-inflammatory microglia polarization, and fosters immune to...",
+      "segment": 15,
+      "timestamp": 735.8
+    },
+    {
+      "title": "From metabolites to membrane vesicles: Unifying gut microbial signals in obesity, t2dm, and MASLD.",
+      "url": "https://doi.org/10.1007/s11274-026-05249-6",
+      "source": "PubMed — World journal of microbiology & biotechnology",
+      "one_liner": "Obesity, Type 2 diabetes mellitus (T2DM) and metabolic dysfunction-associated steatotic liver disease (MASLD) represent interconnected global health problems that can be caused by dietary factors, life-style changes and alterations in the gut microbiota composition. While numerous reports highlight the connections between microbial taxa and the host disea...",
+      "segment": 16,
+      "timestamp": 780.61
+    },
+    {
+      "title": "Eagle-Derived Weissella confusa EG05 Prevents LPS-Induced Enteritis Through Modulation of Inflammation, Gut Barrier, And Microbiota.",
+      "url": "https://doi.org/10.1007/s12602-026-11202-8",
+      "source": "PubMed — Probiotics and antimicrobial proteins",
+      "one_liner": "Intestinal enteric inflammation can seriously harm animal health and lead to massive economic losses in livestock production. Probiotics have become a promising alternative to antibiotics for preventing and controlling enteritis. In this study, a novel lactic acid bacterium (LAB) was isolated from eagle feces and identified as Weissella confusa EG05 (W. c...",
+      "segment": 17,
+      "timestamp": 909.1
+    },
+    {
+      "title": "Integrative multi-omics analyses suggest a candidate microbial metabolite-associated host gene network in ulcerative colitis.",
+      "url": "https://doi.org/10.1007/s12026-026-09837-4",
+      "source": "PubMed — Immunologic research",
+      "one_liner": "Ulcerative colitis (UC) is associated with gut microbial dysbiosis, but the host molecular alterations potentially linked to microbially derived metabolites remain incompletely understood. We integrated Mendelian randomization (MR), microbial metabolite annotation, computational target prediction, colonic transcriptomics, network analysis, and machine lea...",
+      "segment": 18,
+      "timestamp": 1020.65
+    },
+    {
+      "title": "Identification and phylogenetic analysis of Mannheimia haemolytica isolated from nasal samples of horses.",
+      "url": "https://doi.org/10.1007/s12223-026-01578-z",
+      "source": "PubMed — Folia microbiologica",
+      "one_liner": "The Mannheimia genus, which is part of the upper respiratory tract microbiota, harbours species that have the potential to cause progressive infections, such as haemorrhagic septicaemia and enzootic pneumonia, when the host immune system is suppressed. Among these species, Mannheimia haemolytica is considered the most pathogenic, and horses can be a host ...",
+      "segment": 19,
+      "timestamp": 1147.29
+    },
+    {
+      "title": "Microbial modulation of CFTR modulator exposure: In vitro interactions between elexacaftor-tezacaftor-ivacaftor and pulmonary and gut bacteria from people with cystic fibrosis.",
+      "url": "https://doi.org/10.1016/j.biopha.2026.119892",
+      "source": "PubMed — Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "one_liner": "BACKGROUND: Elexacaftor-tezacaftor-ivacaftor (ETI) has transformed cystic fibrosis (CF) care, but individual responses remain variable. Although longitudinal studies indicate that ETI reshapes lung and gut microbiota, the contribution of direct drug-microbe interactions remains unclear. We used an in vitro pharmacomicrobiomics approach to screen bidirecti...",
+      "segment": 20,
+      "timestamp": 1242.74
+    },
+    {
+      "title": "Coordinated changes in oral propionate, oral microbiota, and peripheral blood inflammatory processes during peanut oral immunotherapy.",
+      "url": "https://doi.org/10.1016/j.jaci.2026.08.015",
+      "source": "PubMed — The Journal of allergy and clinical immunology",
+      "one_liner": "BACKGROUND: Peanut allergy is an increasingly prevalent condition without curative treatment. Oral immunotherapy (OIT) can induce desensitization, but its mechanisms are not fully understood. Administration of oral short-chain fatty acids (SCFAs) in murine models induces favorable immunomodulation that overlaps with processes observed in OIT. We hypothesi...",
+      "segment": 21,
+      "timestamp": 1286.36
+    },
+    {
+      "title": "A comprehensive meta-analysis on probiotic metabolites and inflammatory biomarkers in obesity.",
+      "url": "https://doi.org/10.1080/13813455.2026.2718752",
+      "source": "PubMed — Archives of physiology and biochemistry",
+      "one_liner": "",
+      "segment": 22,
+      "timestamp": 1332.27
+    },
+    {
+      "title": "Emerging Microbial Lipid Shifts in a Multistage Simulated Gut Inoculated with Human Fecal Microbiota.",
+      "url": "https://doi.org/10.1021/acs.jproteome.6c00050",
+      "source": "PubMed — Journal of proteome research",
+      "one_liner": "Food residues that bypass human digestion are further digested by gut microbes, leading to the production of diverse metabolites, including lipids. To investigate how lipids in our intestine are affected during this transition, we used a colon simulator with four distinct vessels (V1-V4) that mimic the proximal to distal part of the human colon. In total,...",
+      "segment": 23,
+      "timestamp": 1382.26
+    },
+    {
+      "title": "Structure of In Vitro Digestion Residues from High-Amylose Starch Impacts Colonic Microbial Composition and Metabolic Activity.",
+      "url": "https://doi.org/10.1021/acs.jafc.6c06220",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "Resistant starch (RS) is a nondigestible carbohydrate that serves as a prebiotic and is fermented by colonic bacteria to produce short-chain fatty acids (SCFAs). Here, in vitro digestion-derived residues (RSs) from five high-amylose starches (HASs; four RS2 and one RS3) were evaluated for their effects on microbiota composition and SCFA production using a...",
+      "segment": 24,
+      "timestamp": 1425.1
+    },
+    {
+      "title": "Seasonal dynamics of microbial communities and potential human pathogens in",
+      "url": "https://doi.org/10.1128/aem.01056-26",
+      "source": "PubMed — Applied and environmental microbiology",
+      "one_liner": "UNLABELLED: Oysters are a popular raw seafood worldwide, yet their contamination with human pathogens poses substantial public health risks. However, the seasonal dynamics of host-associated microbiota and the environmental drivers of pathogen accumulation in IMPORTANCE: Mariculture of",
+      "segment": 25,
+      "timestamp": 1477.05
+    },
+    {
+      "title": "Astaxanthin Alleviates Intestinal Ferroptosis through Gut Commensal",
+      "url": "https://doi.org/10.34133/research.1421",
+      "source": "PubMed — Research (Washington, D.C.)",
+      "one_liner": "Intestinal epithelial injury is increasingly linked to ferroptosis, yet how dietary bioactives engage the gut microbiota to restrain this process remains largely unresolved. Here, astaxanthin (ASTA) was identified as a microbiota-engaged regulator of intestinal ferroptosis and lipid peroxidation. ASTA markedly ameliorated dexamethasone-induced intestinal ...",
+      "segment": 26,
+      "timestamp": 1521.09
+    },
+    {
+      "title": "Methyl indole-3-acetate mediates myricetin-induced brown adipose tissue activation and reproductive-metabolic improvement in PCOS mice.",
+      "url": "https://doi.org/10.1093/reprod/xaag110",
+      "source": "PubMed — Reproduction (Cambridge, England)",
+      "one_liner": "Polycystic ovary syndrome (PCOS) is frequently associated with alterations in gut microbiota composition, although the specific microbial metabolites that influence ovarian function remain incompletely understood. Myricetin has been reported to improve reproductive and metabolic features in experimental PCOS models and to activate brown adipose tissue (BA...",
+      "segment": 27,
+      "timestamp": 1568.99
+    },
+    {
+      "title": "Intra-individual genetic diversity of vaginal Lactobacillus crispatus revealed through citizen science-driven isolation and pangenome analysis.",
+      "url": "https://doi.org/10.1093/jambio/lxag218",
+      "source": "PubMed — Journal of applied microbiology",
+      "one_liner": "AIMS: A vaginal microbiome dominated by Lactobacillus crispatus is associated with positive reproductive and sexual health outcomes, yet intra-individual genetic diversity within this species remains largely unexplored. This study characterised inter- and intra-individual genomic variation in L. crispatus strains isolated through a citizen science initiat...",
+      "segment": 28,
+      "timestamp": 1609.33
+    },
+    {
+      "title": "Genetically Proxied Associations Among 473 Gut Microbial Taxa, 1,400 Circulating Metabolites, and Mental and Behavioral Disorders: A Mendelian Randomization Study.",
+      "url": "https://doi.org/10.1007/s12031-026-02596-9",
+      "source": "PubMed — Journal of molecular neuroscience : MN",
+      "one_liner": "Mental and behavioural disorders substantially impair everyday functioning, yet the biological mechanisms through which the gut microbiome may contribute to psychiatric vulnerability remain insufficiently characterized. We jointly analysed genome-wide association study data for 473 gut microbial taxa, approximately 1,400 circulating metabolites, and seven...",
+      "segment": 29,
+      "timestamp": 1656.15
+    },
+    {
+      "title": "Decoupling developmental and physiological adaptations: a strategy to unleash nutrient use efficiency in plants?",
+      "url": "https://doi.org/10.1016/j.tplants.2026.08.003",
+      "source": "PubMed — Trends in plant science",
+      "one_liner": "Plants respond to spatially and temporally variable soil nutrients through root architectural plasticity, regulation of uptake and assimilation per root unit, and plant-soil-microbiome interactions. Although often viewed as complementary, these responses can also behave as compensatory strategies. Under non-optimal nutrient distributions, plants may inves...",
+      "segment": 30,
+      "timestamp": 1775.47
+    },
+    {
+      "title": "Lactococcus Lactis Subsp. Lactis CAB701 Reduces Body fat mass in Adults with Overweight or Obesity: A Randomized, Double-Blind, Placebo-Controlled Trial.",
+      "url": "https://doi.org/10.1007/s12602-026-11198-1",
+      "source": "PubMed — Probiotics and antimicrobial proteins",
+      "one_liner": "Probiotic-based strategies have gained increasing attention as potential interventions for obesity and metabolic disorders. Lactococcus lactis subsp. lactis CAB701 (CAB701), a cabbage-derived probiotic strain, has demonstrated anti-adipogenic activity in preclinical studies; however, its clinical efficacy has not been established. We conducted a single-ce...",
+      "segment": 31,
+      "timestamp": 1824.84
+    },
+    {
+      "title": "Anti-hyperuricemia therapy alleviates diet-induced gut inflammation via AhR-IL-22-signalling.",
+      "url": "https://doi.org/10.1007/s00109-026-02713-6",
+      "source": "PubMed — Journal of molecular medicine (Berlin, Germany)",
+      "one_liner": "High-fat diets (HFD) are implicated in metabolic disorders through mechanisms involving hyperuricemia, gut dysbiosis, and intestinal barrier dysfunction. This study investigated the effects of pharmacological uric acid reduction on gut homeostasis in HFD-fed mice. We assessed serum uric acid, gut microbial composition, pro- and anti-inflammatory cytokine ...",
+      "segment": 32,
+      "timestamp": 1954.31
+    },
+    {
+      "title": "The cystic fibrosis gut microbial dysbiosis index (CF-GMDI): a quantitative measure of gut microbial imbalance in children with cystic fibrosis.",
+      "url": "https://doi.org/10.1016/j.jcf.2026.08.007",
+      "source": "PubMed — Journal of cystic fibrosis : official journal of the European Cystic Fibrosis Society",
+      "one_liner": "BACKGROUND: Gut dysbiosis is a hallmark of cystic fibrosis (CF), typically characterised using non-specific diversity metrics and study-specific taxonomic lists, limiting comparability across studies. We aimed to develop a metagenomic, species-level CF Gut Microbial Dysbiosis Index (CF-GMDI) to standardise measurement of gut microbial imbalance in childre...",
+      "segment": 33,
+      "timestamp": 2081.96
+    },
+    {
+      "title": "A bioinformatics framework using public 16S rRNA gene amplicon data to assess the presence of target bacteria in bat and rodent samples.",
+      "url": "https://doi.org/10.1016/j.mimet.2026.107684",
+      "source": "PubMed — Journal of microbiological methods",
+      "one_liner": "Validating the ecological distribution of a newly isolated bacterial species in natural hosts remains challenging due to the lack of specific detection assays and the cost of large-scale screening. Here, we describe a dual-strategy bioinformatics pipeline that leverages publicly available 16S rRNA gene amplicon sequencing data to reliably and inexpensivel...",
+      "segment": 34,
+      "timestamp": 2127.56
+    },
+    {
+      "title": "Solubilized lignin promotes the growth of Akkermansia muciniphila and improves insulin sensitivity.",
+      "url": "https://doi.org/10.1016/j.bbrc.2026.154147",
+      "source": "PubMed — Biochemical and biophysical research communications",
+      "one_liner": "Solubilized lignin (SL) is a water-soluble derivative of lignin, which is typically classified as an insoluble dietary fiber and is predicted to possess structural and physicochemical properties that are distinct from those of conventional dietary fibers. In this study, we evaluated the effects of SL intake on gut microbial composition, intestinal barrier...",
+      "segment": 35,
+      "timestamp": 2174.28
+    },
+    {
+      "title": "Exploring the ecological drivers of bacteriophage diversity and functional viral potential in the skin of the axolotl Ambystoma altamirani.",
+      "url": "https://doi.org/10.1093/femsec/fiag103",
+      "source": "PubMed — FEMS microbiology ecology",
+      "one_liner": "Bacteriophages play important roles in shaping microbial community dynamics across diverse environments. In the amphibian skin, most microbiome studies have focused on bacteria and their interactions with the fungus Batrachochytrium dendrobatidis (Bd), leaving other microbial components, including viruses, largely unexplored. Here, we present the first ch...",
+      "segment": 36,
+      "timestamp": 2226.38
+    },
+    {
+      "title": "It takes a village: how plant-associated bacterial communities socialise to shape plant growth and health.",
+      "url": "https://doi.org/10.1042/EBC20250038",
+      "source": "PubMed — Essays in biochemistry",
+      "one_liner": "Plants outsource many functions to an associated microbiome, an 'outside gut' composed of socially interacting bacterial communities that support plant growth and health. These dynamic and diverse microbiomes span different plant microenvironments and form complex networks shaped by the environmental context and the plant's genetics. While some microbes c...",
+      "segment": 37,
+      "timestamp": 2276.97
+    }
+  ]
+}

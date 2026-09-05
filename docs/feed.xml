@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Sep 2026 07:57:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 07:31:46 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-09-05</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-05/podcast_2026-09-05.mp3</guid>
+      <pubDate>Sat, 05 Sep 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-05/podcast_2026-09-05.mp3" length="17447924" type="audio/mpeg" />
+      <description>Si‑Si‑Gu‑Ben granules significantly improve symptoms of diarrhea‑predominant irritable bowel syndrome by reshaping the gut microbiome and dampening the TLR4/NF‑κB inflammatory cascade, according to a combined clinical and animal investigation published in the Journal of Ethnopharmacology via PubMed. | Diarrhea in suckling lambs is linked to gut microbiota dysbiosis, a compromised intestinal barrier, and heightened inflammation, yet the particular microbes and their metabolites that sustain intestinal homeostasis in this age group remain undefined. | Multiomics analyses link diet‑derived creatine and α‑linolenic acid to metastatic thyroid cancer, according to a study published in Molecular and Cellular Probes via PubMed.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Si‑Si‑Gu‑Ben granules significantly improve symptoms of diarrhea‑predominant irritable bowel syndrome by reshaping the gut microbiome and dampening the TLR4/NF‑κB inflammatory cascade, according to a combined clinical and animal investigation published in the Journal of Ethnopharmacology via PubMed. | Diarrhea in suckling lambs is linked to gut microbiota dysbiosis, a compromised intestinal barrier, and heightened inflammation, yet the particular microbes and their metabolites that sustain intestinal homeostasis in this age group remain undefined. | Multiomics analyses link diet‑derived creatine and α‑linolenic acid to metastatic thyroid cancer, according to a study published in Molecular and Cellular Probes via PubMed.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-09-04</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-04/podcast_2026-09-04.mp3</guid>
       <pubDate>Fri, 04 Sep 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-04/podcast_2026-09-04.mp3" length="26378516" type="audio/mpeg" />
-      <description>This review article, published in Animal Bioscience, focuses on how host genetics and gut microbiota jointly influence intramuscular fat (IMF) deposition in livestock, a key factor shaping meat quality traits such as tenderness, juiciness, flavor, oxidative stability, and nutritional value. | Because the provided notes contain only the abstract‑level summary, the specific details of those advances are not available here. | What can be affirmed from the snippet is that the review positions IMF as a phenotype situated at the intersection of host genetics and gut microbiome activity, and that understanding this interaction could inform breeding strategies, feed formulations, or microbiome‑targeted interventions to improve meat quality.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-04/podcast_2026-09-04.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>This review article, published in Animal Bioscience, focuses on how host genetics and gut microbiota jointly influence intramuscular fat (IMF) deposition in livestock, a key factor shaping meat quality traits such as tenderness, juiciness, flavor, oxidative stability, and nutritional value. | Because the provided notes contain only the abstract‑level summary, the specific details of those advances are not available here. | What can be affirmed from the snippet is that the review positions IMF as a phenotype situated at the intersection of host genetics and gut microbiome activity, and that understanding this interaction could inform breeding strategies, feed formulations, or microbiome‑targeted interventions to improve meat quality.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-13/podcast_2026-06-13.mp3</guid>
       <pubDate>Sat, 13 Jun 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-13/podcast_2026-06-13.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-06-12</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-12/podcast_2026-06-12.mp3</guid>
-      <pubDate>Fri, 12 Jun 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-12/podcast_2026-06-12.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
