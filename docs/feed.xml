@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Sep 2026 07:31:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 07:56:15 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-09-07</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-07/podcast_2026-09-07.mp3</guid>
+      <pubDate>Mon, 07 Sep 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-07/podcast_2026-09-07.mp3" length="6542588" type="audio/mpeg" />
+      <description>Gut microbiota‑derived imidazole propionate promotes primary sclerosing cholangitis via p38 signalling, according to the study titled exactly that in Nature Metabolism. | The authors report that a specific microbial metabolite, imidazole propionate, is elevated in the context of PSC‑associated dysbiosis and that this molecule can drive disease‑relevant pathways in liver or bile‑duct cells. | Because the provided notes truncate the detailed findings after “Here we show that the …”, the available text does not specify the experimental models used—whether human tissue samples, mouse models, or cultured cells—nor does it disclose the size of patient cohorts, the methods for measuring imidazole propionate levels, or the precise downstream effectors of p38 activation that were examined.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Gut microbiota‑derived imidazole propionate promotes primary sclerosing cholangitis via p38 signalling, according to the study titled exactly that in Nature Metabolism. | The authors report that a specific microbial metabolite, imidazole propionate, is elevated in the context of PSC‑associated dysbiosis and that this molecule can drive disease‑relevant pathways in liver or bile‑duct cells. | Because the provided notes truncate the detailed findings after “Here we show that the …”, the available text does not specify the experimental models used—whether human tissue samples, mouse models, or cultured cells—nor does it disclose the size of patient cohorts, the methods for measuring imidazole propionate levels, or the precise downstream effectors of p38 activation that were examined.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-09-05</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-05/podcast_2026-09-05.mp3</guid>
       <pubDate>Sat, 05 Sep 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-05/podcast_2026-09-05.mp3" length="17447924" type="audio/mpeg" />
-      <description>Si‑Si‑Gu‑Ben granules significantly improve symptoms of diarrhea‑predominant irritable bowel syndrome by reshaping the gut microbiome and dampening the TLR4/NF‑κB inflammatory cascade, according to a combined clinical and animal investigation published in the Journal of Ethnopharmacology via PubMed. | Diarrhea in suckling lambs is linked to gut microbiota dysbiosis, a compromised intestinal barrier, and heightened inflammation, yet the particular microbes and their metabolites that sustain intestinal homeostasis in this age group remain undefined. | Multiomics analyses link diet‑derived creatine and α‑linolenic acid to metastatic thyroid cancer, according to a study published in Molecular and Cellular Probes via PubMed.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-05/podcast_2026-09-05.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Si‑Si‑Gu‑Ben granules significantly improve symptoms of diarrhea‑predominant irritable bowel syndrome by reshaping the gut microbiome and dampening the TLR4/NF‑κB inflammatory cascade, according to a combined clinical and animal investigation published in the Journal of Ethnopharmacology via PubMed. | Diarrhea in suckling lambs is linked to gut microbiota dysbiosis, a compromised intestinal barrier, and heightened inflammation, yet the particular microbes and their metabolites that sustain intestinal homeostasis in this age group remain undefined. | Multiomics analyses link diet‑derived creatine and α‑linolenic acid to metastatic thyroid cancer, according to a study published in Molecular and Cellular Probes via PubMed.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-15/podcast_2026-06-15.mp3</guid>
       <pubDate>Mon, 15 Jun 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-15/podcast_2026-06-15.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-06-13</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-13/podcast_2026-06-13.mp3</guid>
-      <pubDate>Sat, 13 Jun 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-13/podcast_2026-06-13.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>

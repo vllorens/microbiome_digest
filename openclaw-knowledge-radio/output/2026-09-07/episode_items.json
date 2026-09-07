@@ -1,0 +1,123 @@
+{
+  "timestamps": [
+    0.0,
+    111.43,
+    228.9,
+    357.9,
+    403.18,
+    449.38,
+    495.48,
+    524.73,
+    567.59,
+    612.32,
+    652.28,
+    701.31,
+    746.06
+  ],
+  "items": [
+    {
+      "title": "Gut microbiota-derived imidazole propionate promotes primary sclerosing cholangitis via p38 signalling.",
+      "url": "https://doi.org/10.1038/s42255-026-01600-1",
+      "source": "PubMed — Nature metabolism",
+      "one_liner": "Primary sclerosing cholangitis (PSC) is a chronic inflammatory disease of the bile ducts that can lead to biliary cancer and end-stage liver disease. PSC is associated with inflammatory bowel disease and an altered gut microbiota. However, the molecular mechanisms underlying gut-liver interactions in PSC remain poorly characterized. Here we show that the ...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Decoding dysbiosis: the role of gut microbiota in MASLD progression and emerging therapeutic interventions.",
+      "url": "https://doi.org/10.1007/s13105-026-01199-7",
+      "source": "PubMed — Journal of physiology and biochemistry",
+      "one_liner": "Metabolic dysfunction-associated steatotic liver disease (MASLD), affects a substantial proportion of the global population and is closely associated with metabolic disorders. The gut microbiota, comprising a diverse community of microorganisms within the gastrointestinal tract, plays a crucial role in maintaining host health. Dysbiosis, defined as an imb...",
+      "segment": 1,
+      "timestamp": 111.43
+    },
+    {
+      "title": "Exploring the role of gut microbiota in coronary atherosclerosis through lipoprotein-mediated cholesterol transport and distribution: A Mendelian randomization analysis.",
+      "url": "https://doi.org/10.1097/MD.0000000000050447",
+      "source": "PubMed — Medicine",
+      "one_liner": "We employed Mendelian randomization (MR) to explore causal relationships between gut microbiota (GM), coronary atherosclerotic heart disease (CAHD), and potential metabolic mediators. We utilized summary statistics from genome-wide association studies (GWAS), encompassing data on 473 GM traits from comprehensive microbiome GWAS, 61 lipoprotein-mediated ch...",
+      "segment": 2,
+      "timestamp": 228.9
+    },
+    {
+      "title": "Sodium fluoride induces hepatic and intestinal injury via gut microbiota dysbiosis and inflammatory activation: insights from network toxicology and 16S rRNA sequencing.",
+      "url": "https://doi.org/10.1016/j.fct.2026.116358",
+      "source": "PubMed — Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association",
+      "one_liner": "Fluoride is an essential trace element for human health. However, excessive intake of sodium fluoride (NaF) can induce fluorosis and lead to liver and intestinal injury. The mechanisms underlying NaF-induced hepatic and intestinal damage remain unclear. In this study, network toxicology was integrated with 16S rRNA high-throughput sequencing to elucidate ...",
+      "segment": 3,
+      "timestamp": 357.9
+    },
+    {
+      "title": "Angelica sinensis polysaccharide ameliorates chemotherapy-induced intestinal mucositis by regulating gut microbiota-mediated innate immunity and short-chain fatty acid production in Drosophila and mice.",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2026.154376",
+      "source": "PubMed — International journal of biological macromolecules",
+      "one_liner": "Intestinal mucositis is one of the most debilitating side effects of chemotherapeutic agents. Angelica sinensis polysaccharide (ASP), the crucial active ingredient of Angelica sinensis, has been reported to possess anti-colitis activity. However, the efficacy of ASP against chemotherapy-induced intestinal mucositis (CIM) remain to be clarified. The aim of...",
+      "segment": 4,
+      "timestamp": 403.18
+    },
+    {
+      "title": "Antimony species-dependent enrichment and transcriptional activity of antibiotic and metal resistance genes in the gut microbiome of male mice.",
+      "url": "https://doi.org/10.1016/j.jenvman.2026.130867",
+      "source": "PubMed — Journal of environmental management",
+      "one_liner": "The gut microbiome is a reservoir for antibiotic resistance genes (ARGs) and is sensitive to environmental pollutants. ARGs in environmental and host-associated microbiomes can be enriched by metal(loid)s through co-selection with metal resistance genes (MRGs). However, as a ubiquitous toxic metalloid, antimony (Sb) induced alterations of ARGs in the gut ...",
+      "segment": 5,
+      "timestamp": 449.38
+    },
+    {
+      "title": "Fecal microbiota transplantation alleviates sepsis-associated encephalopathy by reshaping gut microbiota and metabolism.",
+      "url": "https://doi.org/10.1016/j.micpath.2026.108815",
+      "source": "PubMed — Microbial pathogenesis",
+      "one_liner": "BACKGROUND: Sepsis-associated encephalopathy (SAE) is a diffuse brain dysfunction secondary to sepsis; however, its pathogenesis remains poorly defined. This study characterizes gut-microbiota-brain axis dysbiosis and aberrant tryptophan metabolism in SAE, providing a multi-dimensional framework to understand the underlying pathways. METHODS: SAE was indu...",
+      "segment": 6,
+      "timestamp": 495.48
+    },
+    {
+      "title": "Gut microbiome profiling at multiple sclerosis onset as a potential early prognostic marker of disease course: evidence from an observational cohort study.",
+      "url": "https://doi.org/10.1016/j.ebiom.2026.106470",
+      "source": "PubMed — EBioMedicine",
+      "one_liner": "BACKGROUND: Alterations in gut microbiome composition have been associated with multiple sclerosis (MS), but their impact on disease severity and early progression remains poorly understood. In this study we investigated whether gut microbiome profiling at diagnosis could identify microbial signatures associated with clinical and radiological features of ...",
+      "segment": 7,
+      "timestamp": 524.73
+    },
+    {
+      "title": "Gut microbiome-targeted bile acid metabolomics integration reveals dietary cordycepin alleviates NAFLD in diabetic mice by enriching Clostridia and affecting the PXR/Sult2a1/CA7S.",
+      "url": "https://doi.org/10.1016/j.jnutbio.2026.110500",
+      "source": "PubMed — The Journal of nutritional biochemistry",
+      "one_liner": "Non-alcoholic fatty liver disease (NAFLD) frequently coexists with type 2 diabetes mellitus (T2DM), posing a significant metabolic disorder with limited dietary intervention options. Cordycepin, a food‑derived nucleoside from the edible fungus Cordyceps militaris, exhibits hypoglycemic and hypolipidemic effects, but its role in T2DM combined with NAFLD re...",
+      "segment": 8,
+      "timestamp": 567.59
+    },
+    {
+      "title": "Can microaeration and hydraulic retention time steer anaerobic microbiomes toward efficient linear alkylbenzene sulfonate degradation?",
+      "url": "https://doi.org/10.1016/j.biortech.2026.135794",
+      "source": "PubMed — Bioresource technology",
+      "one_liner": "The sustainable treatment of surfactant-rich wastewater in anaerobic systems is often hindered by the biochemical recalcitrance of linear alkylbenzene sulfonate (LAS) and its inhibitory effects on methanogenesis. This study investigated controlled microaeration under two hydraulic retention time (HRT) and organic loading rate (OLR) regimes as a strategy t...",
+      "segment": 9,
+      "timestamp": 612.32
+    },
+    {
+      "title": "Ultrastructural remodeling of mitochondria-associated vesicular structures in the rat medial prefrontal cortex following Propionic acid exposure.",
+      "url": "https://doi.org/10.1016/j.brainres.2026.150529",
+      "source": "PubMed — Brain research",
+      "one_liner": "Propionic acid (PPA), a short-chain fatty acid produced by the gut microbiota, has been implicated in neurodevelopmental and neurological disorders, including autism. The PPA animal model is widely used to investigate mitochondrial dysfunction and associated cellular alterations; however, ultrastructural changes in mitochondrial quality-control pathways, ...",
+      "segment": 10,
+      "timestamp": 652.28
+    },
+    {
+      "title": "Tumor-linked microbiota in the breast: a systematic review and meta-analysis.",
+      "url": "https://doi.org/10.1080/17460913.2026.2728819",
+      "source": "PubMed — Future microbiology",
+      "one_liner": "AIMS: Breast cancer is the most common cancer among women worldwide. Recent research suggests that the microbiota may contribute to tumorigenesis via immune, inflammatory, or metabolic mechanisms. This meta-analysis aimed to compare the relative abundance of bacteria among cancerous(C), adjacent normal (NAT) and non-cancerous(N) breast tissues to identify...",
+      "segment": 11,
+      "timestamp": 701.31
+    },
+    {
+      "title": "Depleting luminal cysteine with engineered bacteroides vulgatus alleviates experimental colitis by suppressing Th17 differentiation through an ATF6-dependent mechanism.",
+      "url": "https://doi.org/10.1007/s00011-026-02341-3",
+      "source": "PubMed — Inflammation research : official journal of the European Histamine Research Society ... [et al.]",
+      "one_liner": "BACKGROUND: Ulcerative colitis (UC) is a chronic inflammatory bowel disease driven by dysregulated immune responses, particularly the aberrant activation of T helper 17 (Th17) cells. While microbiome-based therapies show promise, wild-type probiotics often lack specific mechanisms to target the metabolic and immunological drivers of inflammation. METHODS:...",
+      "segment": 12,
+      "timestamp": 746.06
+    }
+  ]
+}
