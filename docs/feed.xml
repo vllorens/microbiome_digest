@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Sep 2026 07:56:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 07:52:51 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-09-08</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-08/podcast_2026-09-08.mp3</guid>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-08/podcast_2026-09-08.mp3" length="8321108" type="audio/mpeg" />
+      <description>TRPV4 deletion reshapes the gut microbiome and raises colonic ammonia, according to a new study in Life Sciences. | ON-Time delivers a streamlined workflow that accelerates microbiome sequencing and analysis, making precision‑medicine approaches feasible in the intensive care unit where rapid treatment decisions are critical. | Small litter size during early life creates a metabolic imprint that protects gut microbiota diversity and short‑chain fatty acid production even when animals later consume a high‑sucrose diet, according to a study in The Journal of Nutritional Biochemistry indexed on PubMed.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>TRPV4 deletion reshapes the gut microbiome and raises colonic ammonia, according to a new study in Life Sciences. | ON-Time delivers a streamlined workflow that accelerates microbiome sequencing and analysis, making precision‑medicine approaches feasible in the intensive care unit where rapid treatment decisions are critical. | Small litter size during early life creates a metabolic imprint that protects gut microbiota diversity and short‑chain fatty acid production even when animals later consume a high‑sucrose diet, according to a study in The Journal of Nutritional Biochemistry indexed on PubMed.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-09-07</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-07/podcast_2026-09-07.mp3</guid>
       <pubDate>Mon, 07 Sep 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-07/podcast_2026-09-07.mp3" length="6542588" type="audio/mpeg" />
-      <description>Gut microbiota‑derived imidazole propionate promotes primary sclerosing cholangitis via p38 signalling, according to the study titled exactly that in Nature Metabolism. | The authors report that a specific microbial metabolite, imidazole propionate, is elevated in the context of PSC‑associated dysbiosis and that this molecule can drive disease‑relevant pathways in liver or bile‑duct cells. | Because the provided notes truncate the detailed findings after “Here we show that the …”, the available text does not specify the experimental models used—whether human tissue samples, mouse models, or cultured cells—nor does it disclose the size of patient cohorts, the methods for measuring imidazole propionate levels, or the precise downstream effectors of p38 activation that were examined.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-07/podcast_2026-09-07.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Gut microbiota‑derived imidazole propionate promotes primary sclerosing cholangitis via p38 signalling, according to the study titled exactly that in Nature Metabolism. | The authors report that a specific microbial metabolite, imidazole propionate, is elevated in the context of PSC‑associated dysbiosis and that this molecule can drive disease‑relevant pathways in liver or bile‑duct cells. | Because the provided notes truncate the detailed findings after “Here we show that the …”, the available text does not specify the experimental models used—whether human tissue samples, mouse models, or cultured cells—nor does it disclose the size of patient cohorts, the methods for measuring imidazole propionate levels, or the precise downstream effectors of p38 activation that were examined.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-16/podcast_2026-06-16.mp3</guid>
       <pubDate>Tue, 16 Jun 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-16/podcast_2026-06-16.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-06-15</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-15/podcast_2026-06-15.mp3</guid>
-      <pubDate>Mon, 15 Jun 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-15/podcast_2026-06-15.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>

@@ -1,0 +1,150 @@
+{
+  "timestamps": [
+    0.0,
+    46.03,
+    83.32,
+    123.13,
+    159.61,
+    516.17,
+    561.86,
+    606.76,
+    704.92,
+    811.91,
+    853.78,
+    898.11,
+    940.63,
+    979.51,
+    1031.06,
+    1075.09
+  ],
+  "items": [
+    {
+      "title": "TRPV4 deletion remodels the gut microbiota and increases colonic ammonia levels.",
+      "url": "https://doi.org/10.1016/j.lfs.2026.124671",
+      "source": "PubMed — Life sciences",
+      "one_liner": "AIMS: The transient receptor potential vanilloid 4 ion channel is widely expressed in the gastrointestinal tract and contributes to epithelial barrier regulation, mechanosensation and innate immune signaling. However, its role in shaping gut microbiota composition and intestinal metabolic homeostasis remains unclear. This study aimed to determine whether ...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "ON-Time enables rapid microbiome sequencing and analysis for precision medicine.",
+      "url": "https://doi.org/10.1016/j.crmeth.2026.101593",
+      "source": "PubMed — Cell reports methods",
+      "one_liner": "Clinical application of microbiome-guided therapies in the intensive care unit (ICU) requires a method to rapidly analyze patient microbiomes to guide urgent treatment decisions. Conventional microbiome sequencing and analysis methods require long turnaround times, methodological complexity, and high costs that are barriers to clinical application. Here, ...",
+      "segment": 1,
+      "timestamp": 46.03
+    },
+    {
+      "title": "Metabolic imprinting due to small litter size preserves gut microbiota diversity and SCFA output despite high-sucrose diet.",
+      "url": "https://doi.org/10.1016/j.jnutbio.2026.110486",
+      "source": "PubMed — The Journal of nutritional biochemistry",
+      "one_liner": "According to the Developmental Origins of Health and Disease (DOHaD), early-life nutritional exposure can affect long-term metabolic health. Gut microbiota development during lactation plays a pivotal role in regulating metabolism, with short-chain fatty acids (SCFAs) serving as key mediators connecting early microbial colonization to future metabolic out...",
+      "segment": 2,
+      "timestamp": 83.32
+    },
+    {
+      "title": "Natural products alleviate exercise-induced fatigue by modulating gut microbiota: a systematic review.",
+      "url": "https://doi.org/10.1080/15502783.2026.2728356",
+      "source": "PubMed — Journal of the International Society of Sports Nutrition",
+      "one_liner": "BACKGROUND: Exercise-induced fatigue critically impairs athletic performance and training quality. The gut microbiota, as a key regulator of the \"gut-muscle axis,\" has emerged as a promising anti-fatigue target. Natural products - owing to their diverse sources, structural complexity, and favorable safety profiles - have attracted growing research interes...",
+      "segment": 3,
+      "timestamp": 123.13
+    },
+    {
+      "title": "Urban wastewater microbiomes reveal distinct taxonomic and functional variation across seasons and locations in Aizawl, Mizoram.",
+      "url": "https://doi.org/10.1016/j.meegid.2026.106020",
+      "source": "PubMed — Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases",
+      "one_liner": "Wastewater microbiomes provide valuable information on environmental processes and community health while supporting wastewater-based epidemiology. This study investigated relationships among wastewater source, seasonality and SARS-CoV-2 occurrence on microbial community dynamics in Aizawl, Mizoram, India, using full length 16S rRNA nanopore sequencing. T...",
+      "segment": 4,
+      "timestamp": 159.61
+    },
+    {
+      "title": "Predicted microbiome-associated metabolic pathways are linked to immune checkpoint modulation in chronic lymphocytic leukaemia.",
+      "url": "https://doi.org/10.1111/bjh.70797",
+      "source": "PubMed — British journal of haematology",
+      "one_liner": "Microbial metabolites are key regulators of host immunity, yet their functional impact in chronic lymphocytic leukaemia (CLL) remains unclear. Following up on our earlier observations of microbiome dysbiosis in CLL, we performed predictive metabolic profiling based on 16S ribosomal RNA (rRNA) sequencing of oral and stool samples collected from 81 newly di...",
+      "segment": 5,
+      "timestamp": 516.17
+    },
+    {
+      "title": "Hidden palette: Culturing the sauropsid gut microbiome reveals a high prevalence and diversity of bacteria that undergo carotenoid biosynthesis.",
+      "url": "https://doi.org/10.1093/femsec/fiag100",
+      "source": "PubMed — FEMS microbiology ecology",
+      "one_liner": "Pigments play essential roles in communication, physiology, and ecological adaptation in taxa across the tree of life and are especially important for animals, where carotenoid pigments contribute to diverse functions including coloration, antioxidant defense, and immune function. One potentially important yet largely overlooked source of carotenoids is h...",
+      "segment": 6,
+      "timestamp": 561.86
+    },
+    {
+      "title": "Do Multi-Omics Approaches Improve the Diagnosis of Microbial Overgrowth Syndromes?",
+      "url": "https://doi.org/10.1007/s11894-026-01057-y",
+      "source": "PubMed — Current gastroenterology reports",
+      "one_liner": "PURPOSE OF REVIEW: This review investigates how advances in breath testing (BT), small bowel (SB) culture, metagenomics, metatranscriptomics, transcriptomics and proteomics are reshaping the definition and diagnosis of small intestinal bacterial overgrowth (SIBO). It also discusses whether SIBO should be redefined as part of a larger group of microbial ov...",
+      "segment": 7,
+      "timestamp": 606.76
+    },
+    {
+      "title": "Microbiota-Gut-Brain Axis Mechanisms in Cognitive Impairment Associated with Central Obesity.",
+      "url": "https://doi.org/10.1007/s13679-026-00755-y",
+      "source": "PubMed — Current obesity reports",
+      "one_liner": "PURPOSE OF REVIEW: Central obesity (CO), characterized by excessive visceral adipose tissue (VAT) accumulation, is increasingly recognized as a risk factor for cognitive decline, dementia, and Alzheimer's disease (AD). This review summarizes current evidence linking CO, particularly VAT accumulation, to cognitive impairment and discusses the microbiota-gu...",
+      "segment": 8,
+      "timestamp": 704.92
+    },
+    {
+      "title": "Mucin hydrogel fibers enable oxygen-limited co-culture of Bifidobacterium bifidum and intestinal epithelial cells.",
+      "url": "https://doi.org/10.1016/j.bioadv.2026.215166",
+      "source": "PubMed — Biomaterials advances",
+      "one_liner": "The intestinal mucus layer forms the interface between the gut microbiota and the epithelium, and in vitro platforms are needed to study host-microbe interactions at this interface. However, such platforms must reconcile conflicting conditions: obligately anaerobic bacteria require a low-oxygen environment, whereas epithelial cells require conditions comp...",
+      "segment": 9,
+      "timestamp": 811.91
+    },
+    {
+      "title": "A functional immune-based platform for donor-recipient matching in faecal microbiota transplantation for inflammatory bowel disease.",
+      "url": "https://doi.org/10.1016/j.ebiom.2026.106475",
+      "source": "PubMed — EBioMedicine",
+      "one_liner": "BACKGROUND: Faecal microbiota transplantation (FMT) shows variable efficacy in inflammatory bowel disease (IBD), and current donor selection strategies rely primarily on microbiome characteristics, while host immune responses to donor microbiota remain largely unexplored. Here, we investigated whether recipient-specific immune responses to donor microbiot...",
+      "segment": 10,
+      "timestamp": 853.78
+    },
+    {
+      "title": "Comparative Diagnostic Performance of Oral Microbial Habitats for Periodontitis.",
+      "url": "https://doi.org/10.1177/00220345261473819",
+      "source": "PubMed — Journal of dental research",
+      "one_liner": "Periodontitis affects more than 1 billion people worldwide but remains largely underdiagnosed. The oral microbiota offers a noninvasive diagnostic window, but studies based on 16S rRNA data have reported heterogeneous and often suboptimal performance. It remains unclear which oral habitat and modeling strategy best support clinical decision making. We ana...",
+      "segment": 11,
+      "timestamp": 898.11
+    },
+    {
+      "title": "Calcium homeostasis as a food-science framework linking food-derived nutrients and bioactive compounds to glucose regulation and metabolic health.",
+      "url": "https://doi.org/10.1039/d6fo02927b",
+      "source": "PubMed — Food & function",
+      "one_liner": "Calcium homeostasis is increasingly recognized as a mechanistic hub linking food-derived nutrients, bioactive compounds, gut-derived signals, and host glucose regulation. However, existing reviews have generally examined dietary bioactives, the gut microbiota, or metabolic disorders separately, without establishing calcium signaling as an integrated food-...",
+      "segment": 12,
+      "timestamp": 940.63
+    },
+    {
+      "title": "Ethanol pretreatment drives microbial community adaptation to overcome acidification in high-solid anaerobic digestion of food waste under rapid organic loading shock.",
+      "url": "https://doi.org/10.1016/j.biortech.2026.135803",
+      "source": "PubMed — Bioresource technology",
+      "one_liner": "This study investigated how ethanol pretreatment (EP) enhances the resilience of high-solid anaerobic digestion against rapid organic loading shocks. Semi-continuous reactors fed with either untreated or EP-treated food waste were compared, and the underlying mechanisms were elucidated by integrating thermodynamic calculations with metagenomic analyses. A...",
+      "segment": 13,
+      "timestamp": 979.51
+    },
+    {
+      "title": "Decoding preeclampsia: A fusion of multi-view machine learning and multi-omics to identify putative inflammation-related mechanisms.",
+      "url": "https://doi.org/10.1016/j.omtn.2026.102992",
+      "source": "PubMed — Molecular therapy. Nucleic acids",
+      "one_liner": "Preeclampsia (PE) is a leading cause of maternal and fetal morbidity and mortality worldwide, with placental inflammation recognized as a central pathogenic feature, yet the upstream triggers and inflammatory mechanisms remain incompletely understood. Here, we combined placental single-cell transcriptomics with gut metagenomic and metabolomic profiling to...",
+      "segment": 14,
+      "timestamp": 1031.06
+    },
+    {
+      "title": "Maternal Tuberculosis and Infant Gut and Immune Development: Implications for Maternal-Child Health.",
+      "url": "https://doi.org/10.1080/08820139.2026.2719706",
+      "source": "PubMed — Immunological investigations",
+      "one_liner": "BACKGROUND: Maternal tuberculosis (TB) during pregnancy involves chronic infection, immune activation, and antimicrobial therapy, which may alter the maternal gut, vaginal, and breast milk microbiomes and influence neonatal immune development. METHODS: We conducted a narrative review of studies identified through PubMed and GoogleScholar addressing the ma...",
+      "segment": 15,
+      "timestamp": 1075.09
+    }
+  ]
+}
