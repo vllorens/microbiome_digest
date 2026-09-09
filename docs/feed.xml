@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 07:52:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 07:59:06 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-09-09</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-09/podcast_2026-09-09.mp3</guid>
+      <pubDate>Wed, 09 Sep 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-09/podcast_2026-09-09.mp3" length="12900020" type="audio/mpeg" />
+      <description>Phenformin’s classic biguanide action is linked to lethal lactic acidosis, yet why some individuals succumb while others tolerate it has been unclear. | Pregnancy reshapes the maternal gut microbiota in ways that foster fetal growth and neurodevelopment, but psychotropic medications can disrupt this balance. | Alpha‑lipoic acid supplementation eases high‑fat‑diet‑induced fatty liver and inflammation by reshaping the gut microbiota and restoring the primary bile‑acid pool, according to a study in the Journal of the Science of Food and Agriculture.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Phenformin’s classic biguanide action is linked to lethal lactic acidosis, yet why some individuals succumb while others tolerate it has been unclear. | Pregnancy reshapes the maternal gut microbiota in ways that foster fetal growth and neurodevelopment, but psychotropic medications can disrupt this balance. | Alpha‑lipoic acid supplementation eases high‑fat‑diet‑induced fatty liver and inflammation by reshaping the gut microbiota and restoring the primary bile‑acid pool, according to a study in the Journal of the Science of Food and Agriculture.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-09-08</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-08/podcast_2026-09-08.mp3</guid>
       <pubDate>Tue, 08 Sep 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-08/podcast_2026-09-08.mp3" length="8321108" type="audio/mpeg" />
-      <description>TRPV4 deletion reshapes the gut microbiome and raises colonic ammonia, according to a new study in Life Sciences. | ON-Time delivers a streamlined workflow that accelerates microbiome sequencing and analysis, making precision‑medicine approaches feasible in the intensive care unit where rapid treatment decisions are critical. | Small litter size during early life creates a metabolic imprint that protects gut microbiota diversity and short‑chain fatty acid production even when animals later consume a high‑sucrose diet, according to a study in The Journal of Nutritional Biochemistry indexed on PubMed.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-08/podcast_2026-09-08.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>TRPV4 deletion reshapes the gut microbiome and raises colonic ammonia, according to a new study in Life Sciences. | ON-Time delivers a streamlined workflow that accelerates microbiome sequencing and analysis, making precision‑medicine approaches feasible in the intensive care unit where rapid treatment decisions are critical. | Small litter size during early life creates a metabolic imprint that protects gut microbiota diversity and short‑chain fatty acid production even when animals later consume a high‑sucrose diet, according to a study in The Journal of Nutritional Biochemistry indexed on PubMed.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-17/podcast_2026-06-17.mp3</guid>
       <pubDate>Wed, 17 Jun 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-17/podcast_2026-06-17.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-06-16</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-16/podcast_2026-06-16.mp3</guid>
-      <pubDate>Tue, 16 Jun 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-16/podcast_2026-06-16.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>

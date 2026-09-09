@@ -1,0 +1,213 @@
+{
+  "timestamps": [
+    0.0,
+    42.48,
+    87.21,
+    131.63,
+    256.38,
+    303.46,
+    349.42,
+    396.62,
+    444.26,
+    489.97,
+    585.44,
+    636.15,
+    684.65,
+    796.8,
+    844.84,
+    1224.47,
+    1268.48,
+    1387.66,
+    1509.55,
+    1552.96,
+    1604.44,
+    1651.57,
+    1694.55
+  ],
+  "items": [
+    {
+      "title": "In vivo pharmacokinetics and lactic acidosis toxicity of Phenformin mediated by gut microbiota in control and pseudo-germ-free rats.",
+      "url": "https://doi.org/10.1016/j.lfs.2026.124673",
+      "source": "PubMed — Life sciences",
+      "one_liner": "AIMS: Phenformin, a classic biguanide, was withdrawn clinically due to severe lactic acidosis, while the non-genetic causes of interindividual toxic susceptibility remain elusive. This study aimed to clarify pharmacokinetics and lactic acidosis toxicity of phenformin mediated by gut microbiota. MATERIALS AND METHODS: Antibiotic cocktails were used to buil...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Maternal gut microbiota-psychotropic drug interactions and their impact on offspring neurodevelopment.",
+      "url": "https://doi.org/10.1042/CS20250049",
+      "source": "PubMed — Clinical science (London, England : 1979)",
+      "one_liner": "Pregnancy is associated with a unique and dynamic gut microbiota profile that supports fetal growth and neurodevelopment. Psychotropic drug-gut microbiota interactions are documented in the general population, yet less well described in pregnant women. Research has independently linked both perinatal psychotropic exposure and alterations to the maternal g...",
+      "segment": 1,
+      "timestamp": 42.48
+    },
+    {
+      "title": "Dietary alpha-lipoic acid supplementation alleviates high-fat diet-induced hepatic steatosis and inflammation by remodeling the gut microbiota and restoring the primary bile acid pool.",
+      "url": "https://doi.org/10.1002/jsfa.71071",
+      "source": "PubMed — Journal of the science of food and agriculture",
+      "one_liner": "BACKGROUND: Metabolic dysfunction-associated steatotic liver disease (MASLD) is a prevalent global health concern with limited therapeutic options. Alpha-lipoic acid (ALA), a naturally occurring organosulfur compound with potent antioxidant activity, shows hepatoprotective potential, but its mechanisms along the gut-liver axis remain poorly understood. Th...",
+      "segment": 2,
+      "timestamp": 87.21
+    },
+    {
+      "title": "Gut microbiome taxonomic and predicted functional profiles in Tunisian individuals with hypercholesterolemia: a pilot study.",
+      "url": "https://doi.org/10.1007/s11274-026-05228-x",
+      "source": "PubMed — World journal of microbiology & biotechnology",
+      "one_liner": "Hypercholesterolemia is a major cardiovascular risk factor that has been increasingly associated with alterations of the gut microbiota. However, microbial signatures remain inconsistent across populations, and data from North African populations are currently lacking. This study aimed to characterize gut microbiota alterations associated with hypercholes...",
+      "segment": 3,
+      "timestamp": 131.63
+    },
+    {
+      "title": "Characterizing the role of the gut microbiota-inflammation-brain axis in major depressive disorder: an integrative multi-omics study.",
+      "url": "https://doi.org/10.1016/j.neuroimage.2026.122205",
+      "source": "PubMed — NeuroImage",
+      "one_liner": "BACKGROUND: Gut microbial dysbiosis and inflammation have been implicated in the pathophysiology of major depressive disorder (MDD). However, no attempts have been made to comprehensively investigate the potential relationship between gut microbiota, inflammation, brain function, and clinical features in MDD. METHODS: We conducted an integrative multi-omi...",
+      "segment": 4,
+      "timestamp": 256.38
+    },
+    {
+      "title": "Host detoxification and gut microbiota are associated with chlorantraniliprole resistance in Spodoptera frugiperda.",
+      "url": "https://doi.org/10.1016/j.jinsphys.2026.105062",
+      "source": "PubMed — Journal of insect physiology",
+      "one_liner": "Spodoptera frugiperda is a major agricultural pest that causes severe damage in China. Chlorantraniliprole (CAP) is the primary insecticide used for control; however, it is yet unknown how much the intrinsic detoxification system and gut microbiota of the host contribute to resistance. In this study, we used a resistant strain (CR) with a 71.85-fold resis...",
+      "segment": 5,
+      "timestamp": 303.46
+    },
+    {
+      "title": "Gut microbiota correlating with glycerophospholipid metabolism dysregulation is associated with brain functional alterations in adolescent depression.",
+      "url": "https://doi.org/10.1016/j.bbi.2026.107005",
+      "source": "PubMed — Brain, behavior, and immunity",
+      "one_liner": "Gut microbiota dysbiosis has been linked to depression; however, evidence regarding this association in adolescents remains scarce, and the underlying molecular and neuropathological mechanisms are poorly understood. We conducted an integrative multi-omics study combining fecal metagenomic sequencing, serum untargeted metabolomics, resting-state fMRI, and...",
+      "segment": 6,
+      "timestamp": 349.42
+    },
+    {
+      "title": "Breast Milk Feeding and the Middle Ear Microbiome of Children With Cleft Palate.",
+      "url": "https://doi.org/10.1177/10556656261483549",
+      "source": "PubMed — The Cleft palate-craniofacial journal : official publication of the American Cleft Palate-Craniofacial Association",
+      "one_liner": "ObjectiveTo delineate the impact of breast milk feeding (BMF) on the middle ear (ME) and nasopharyngeal (NP) microbiota of children with and without cleft palate with or without cleft lip (CP ± L); to define differences in ME and NP bacterial composition.DesignProspective cohort.SettingTertiary children's hospital.ParticipantsChildren aged <24 months unde...",
+      "segment": 7,
+      "timestamp": 396.62
+    },
+    {
+      "title": "Species and strain sharing in the vaginal microbiome of mothers and their adult daughters.",
+      "url": "https://doi.org/10.1016/j.celrep.2026.117942",
+      "source": "PubMed — Cell reports",
+      "one_liner": "The vaginal microbiome is key for women's health. However, its establishment, interindividual variation and dynamics remain poorly understood. Here, we investigate bacterial relatedness at species and strain level in adult mother-daughter pairs from the large-scale citizen-science program Isala. Using metagenomic sequencing with quality control including ...",
+      "segment": 8,
+      "timestamp": 444.26
+    },
+    {
+      "title": "Bile acid sequestration reveals microbiome remodeling that dominates FXR signaling to shape host responses to enteric infection.",
+      "url": "https://doi.org/10.1371/journal.ppat.1014558",
+      "source": "PubMed — PLoS pathogens",
+      "one_liner": "Approximately 90 million American adults are hypercholesterolemic, with an estimated 43 million individuals either already using or eligible to receive cholesterol-lowering medications, such as bile acid sequestrants. Although bile acid sequestrants have demonstrated therapeutic efficacy in lowering cholesterol levels in individuals with hypercholesterole...",
+      "segment": 9,
+      "timestamp": 489.97
+    },
+    {
+      "title": "Longitudinal ecological disruption and metabolite associations of the gut microbiome during acute myeloid leukemia therapy.",
+      "url": "https://doi.org/10.1128/spectrum.02578-26",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "Acute myeloid leukemia therapy is accompanied by antibiotic exposure and marked gut microbiome disruption. We analyzed 508 longitudinal stool 16S rRNA gene profiles from 67 patients in PRJNA451154. We summarized the depletion of putative short-chain fatty acid (SCFA)-associated genera, pathobiont expansion, and domination with an ecological composite scor...",
+      "segment": 10,
+      "timestamp": 585.44
+    },
+    {
+      "title": "Hippuric acid metabolism by Corynebacteriumglucuronolyticum-like bacteria promotes calcium oxalate crystallization.",
+      "url": "https://doi.org/10.1016/j.chom.2026.08.009",
+      "source": "PubMed — Cell host & microbe",
+      "one_liner": "Nephrolithiasis (kidney stone disease) incidence is rising, and microbes have been implicated in kidney stone formation, yet the underlying mechanisms remain incompletely defined. Here, urinary microbiome analysis reveals enrichment of Corynebacterium glucuronolyticum-like (C. glucuronolyticum-like) bacteria in calcium oxalate (CaOx) stone patients. In vi...",
+      "segment": 11,
+      "timestamp": 636.15
+    },
+    {
+      "title": "Selenium, Selenoprotein P, and Gut Dysbiosis are Associated with Cartilage Damage in Osteoarthritis Patients.",
+      "url": "https://doi.org/10.1007/s12011-026-05331-y",
+      "source": "PubMed — Biological trace element research",
+      "one_liner": "The objective of the present study was to evaluate markers of selenium (Se) metabolism and taxonomic characteristics of gut microbiota, as well as their relationship to markers of inflammation and cartilage damage in patients with osteoarthritis (OA). The study enrolled 50 healthy controls, 45 patients with knee OA (kOA), and 41 patients with knee and one...",
+      "segment": 12,
+      "timestamp": 684.65
+    },
+    {
+      "title": "Senotherapeutic Potential of Anti-Diabetic Medications: Bridging Type 2 Diabetes and Accelerated Aging.",
+      "url": "https://doi.org/10.1016/j.phrs.2026.108443",
+      "source": "PubMed — Pharmacological research",
+      "one_liner": "Aging and type 2 diabetes (T2D) are increasingly recognized as interconnected biological processes that share core pathogenic mechanisms, including cellular senescence, mitochondrial dysfunction, chronic low-grade inflammation, impaired autophagy, stem cell exhaustion, dysregulated nutrient sensing, and gut microbiota imbalance. Chronic hyperglycemia and ...",
+      "segment": 13,
+      "timestamp": 796.8
+    },
+    {
+      "title": "Genome-resolved analysis reveals disruption of gut microbial vitamin B and K",
+      "url": "https://doi.org/10.1128/spectrum.01564-26",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "IMPORTANCE: Gut microbes can synthesize essential vitamins, but how infection alters this function is poorly understood. By integrating mouse gut metagenomes with genome-resolved microbial data, we show that",
+      "segment": 14,
+      "timestamp": 844.84
+    },
+    {
+      "title": "Major Depressive Disorder Signatures: A Review of Artificial Intelligence (AI)-Powered Insights Into Gut Dysbiosis.",
+      "url": "https://doi.org/10.1002/hsr2.73159",
+      "source": "PubMed — Health science reports",
+      "one_liner": "BACKGROUND AND AIMS: Major Depressive Disorder (MDD) is a highly common neuropsychiatric disorder globally. A variety of factors contribute to the neuropathology of MDD. Microbiome research in neuropsychiatric disorders such as MDD has recently attracted attention. Indeed, the gut-brain axis could influence the course of MDD through metabolites such as Ga...",
+      "segment": 15,
+      "timestamp": 1224.47
+    },
+    {
+      "title": "Microbiological properties, biogenic amines, total phenolic contents and antioxidant activities of goat kefir fortified with locust bean gum.",
+      "url": "https://doi.org/10.1017/S0022029926102647",
+      "source": "PubMed — The Journal of dairy research",
+      "one_liner": "Kefir from goat milk is a functional fermented dairy product with probiotics, enhanced digestibility and a distinct nutritional profile. This study aimed to investigate the effects of the addition of different concentrations (0.05%, 0.1% and 0.2%) of locust bean gum (LBG) on some biofunctional and microbiological properties of goat milk kefir during 28 da...",
+      "segment": 16,
+      "timestamp": 1268.48
+    },
+    {
+      "title": "Altered gut microbial networks and metabolic homeostasis in grass carp exposed to Microcystis aeruginosa.",
+      "url": "https://doi.org/10.1007/s00360-026-01704-w",
+      "source": "PubMed — Journal of comparative physiology. B, Biochemical, systemic, and environmental physiology",
+      "one_liner": "Environmental proliferation of Microcystis aeruginosa poses a significant toxicological threat to farmed fish. This study investigated the intestinal toxicity of M. aeruginosa in grass carp using integrated histological, biochemical, molecular, microbiome, and metabolomic analyses. Histological observations revealed epithelial disorganization, villus shor...",
+      "segment": 17,
+      "timestamp": 1387.66
+    },
+    {
+      "title": "Bifidobacterium longum subsp. infantis M-63 can reach the neonatal gut following World Health Organization-recommended infant formula preparation at ≥70 °C.",
+      "url": "https://doi.org/10.1016/j.tjnut.2026.101825",
+      "source": "PubMed — The Journal of nutrition",
+      "one_liner": "BACKGROUND: The World Health Organization (WHO) recommends reconstituting powdered infant formula with water at ≥70 °C to reduce the risk of bacterial contamination. While this practice is important for microbiological safety, it may also reduce the viability and/or functional activity of heat-sensitive bioactive components, such as probiotics. However, i...",
+      "segment": 18,
+      "timestamp": 1509.55
+    },
+    {
+      "title": "Rewiring lactobacilli: challenges, opportunities, and the translational path to therapeutics.",
+      "url": "https://doi.org/10.1016/j.mib.2026.102826",
+      "source": "PubMed — Current opinion in microbiology",
+      "one_liner": "Lactobacilli have long been regarded as promising probiotic bacteria due to their safety profile, host compatibility, and beneficial roles in modulating human health. However, the therapeutic efficacy of wild-type probiotics remains constrained by limited target specificity, lack of control over their activity, and variability in clinical responses. Recen...",
+      "segment": 19,
+      "timestamp": 1552.96
+    },
+    {
+      "title": "Farming reshapes the gut resistome, virulome, and mobilome of Cervidae.",
+      "url": "https://doi.org/10.1080/21505594.2026.2728506",
+      "source": "PubMed — Virulence",
+      "one_liner": "The rapid expansion of cervid farming raises concerns about antimicrobial resistance (AMR) dissemination, yet its impact on the Cervidae gut microbiome remains poorly characterized. We integrated 89 newly sequenced fecal metagenomes with 599 publicly available datasets, comprising 285 metagenomes from farmed cervids and 370 from wild cervids, to construct...",
+      "segment": 20,
+      "timestamp": 1604.44
+    },
+    {
+      "title": "Microbial and functional shifts between flare and remission in a single-center cohort of children with inflammatory bowel disease.",
+      "url": "https://doi.org/10.5409/wjcp.120066",
+      "source": "PubMed — World journal of clinical pediatrics",
+      "one_liner": "BACKGROUND: Gut microbial dysbiosis is central to the pathogenesis of inflammatory bowel disease (IBD). While gut microbiome differences between patients with and without IBD are well established, microbiome changes associated with disease activity and remission remain limited, particularly in paediatric populations. AIM: To examine intra-individual taxon...",
+      "segment": 21,
+      "timestamp": 1651.57
+    },
+    {
+      "title": "Decoupling Ecological and Pathogenic Roles: Helicobacter pylori as a Gastric Hegemon Maintaining Order or Amplifying Dysbiotic Chaos.",
+      "url": "https://doi.org/10.1093/femsle/fnag101",
+      "source": "PubMed — FEMS microbiology letters",
+      "one_liner": "Gastric dysbiosis refers to disease-associated alterations in microbial composition and between-individual variability. We postulate that Helicobacter pylori (H. pylori or Hp) exerts a context-dependent ecological effect across the Correa cascade-the histopathological progression from chronic gastritis through atrophic gastritis and intestinal metaplasia ...",
+      "segment": 22,
+      "timestamp": 1694.55
+    }
+  ]
+}
