@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Sep 2026 07:59:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 08:10:38 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-09-10</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-10/podcast_2026-09-10.mp3</guid>
+      <pubDate>Thu, 10 Sep 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-10/podcast_2026-09-10.mp3" length="24095876" type="audio/mpeg" />
+      <description>Blautia wexlerae HGD16 supplementation markedly improves ulcerative colitis by reshaping the gut microbiome and restoring butyrate production. | Strain‑specific Bifidobacterium variants can ease loperamide‑induced constipation by reshaping the gut microbiome and activating the abfA gene cluster, according to a new study in the Journal of the Science of Food and Agriculture (PubMed). | Researchers used an integrative multi‑omics and network analysis to map immune regulatory circuits linked to gut microbiota in endometriosis, revealing that specific microbial metabolites modulate key immune pathways driving lesion growth.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Blautia wexlerae HGD16 supplementation markedly improves ulcerative colitis by reshaping the gut microbiome and restoring butyrate production. | Strain‑specific Bifidobacterium variants can ease loperamide‑induced constipation by reshaping the gut microbiome and activating the abfA gene cluster, according to a new study in the Journal of the Science of Food and Agriculture (PubMed). | Researchers used an integrative multi‑omics and network analysis to map immune regulatory circuits linked to gut microbiota in endometriosis, revealing that specific microbial metabolites modulate key immune pathways driving lesion growth.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-09-09</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-09/podcast_2026-09-09.mp3</guid>
       <pubDate>Wed, 09 Sep 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-09/podcast_2026-09-09.mp3" length="12900020" type="audio/mpeg" />
-      <description>Phenformin’s classic biguanide action is linked to lethal lactic acidosis, yet why some individuals succumb while others tolerate it has been unclear. | Pregnancy reshapes the maternal gut microbiota in ways that foster fetal growth and neurodevelopment, but psychotropic medications can disrupt this balance. | Alpha‑lipoic acid supplementation eases high‑fat‑diet‑induced fatty liver and inflammation by reshaping the gut microbiota and restoring the primary bile‑acid pool, according to a study in the Journal of the Science of Food and Agriculture.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-09/podcast_2026-09-09.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Phenformin’s classic biguanide action is linked to lethal lactic acidosis, yet why some individuals succumb while others tolerate it has been unclear. | Pregnancy reshapes the maternal gut microbiota in ways that foster fetal growth and neurodevelopment, but psychotropic medications can disrupt this balance. | Alpha‑lipoic acid supplementation eases high‑fat‑diet‑induced fatty liver and inflammation by reshaping the gut microbiota and restoring the primary bile‑acid pool, according to a study in the Journal of the Science of Food and Agriculture.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-18/podcast_2026-06-18.mp3</guid>
       <pubDate>Thu, 18 Jun 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-18/podcast_2026-06-18.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-06-17</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-17/podcast_2026-06-17.mp3</guid>
-      <pubDate>Wed, 17 Jun 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-17/podcast_2026-06-17.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>

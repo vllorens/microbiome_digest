@@ -1,0 +1,366 @@
+{
+  "timestamps": [
+    0.0,
+    42.96,
+    87.59,
+    130.0,
+    201.37,
+    337.66,
+    470.71,
+    613.58,
+    716.34,
+    846.88,
+    966.44,
+    1009.92,
+    1051.54,
+    1099.72,
+    1144.34,
+    1182.32,
+    1227.25,
+    1592.64,
+    1645.61,
+    1687.53,
+    1781.13,
+    1905.76,
+    1949.6,
+    1996.59,
+    2041.7,
+    2087.54,
+    2205.76,
+    2249.7,
+    2297.31,
+    2664.99,
+    2706.55,
+    2749.34,
+    2797.43,
+    2837.94,
+    2889.1,
+    2930.6,
+    2974.39,
+    3026.01,
+    3070.0,
+    3116.82
+  ],
+  "items": [
+    {
+      "title": "Blautia wexlerae ameliorates ulcerative colitis via metabolic remodeling of the gut microbiota.",
+      "url": "https://doi.org/10.1016/j.celrep.2026.117977",
+      "source": "PubMed — Cell reports",
+      "one_liner": "This study aimed to explore regulatory strategies for ulcerative colitis (UC) and to elucidate their potential mechanisms. Blautia abundance and butyric acid concentration in the intestines of patients with UC are markedly lower compared to healthy volunteers. Supplementation with B. wexlerae HGD16 demonstrates superior therapeutic effects in alleviating ...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Strain-dependent effects of Bifidobacterium on loperamide-induced constipation via gut microbiota and abfA cluster.",
+      "url": "https://doi.org/10.1002/jsfa.71070",
+      "source": "PubMed — Journal of the science of food and agriculture",
+      "one_liner": "BACKGROUND: Constipation is a common gastrointestinal disorder. Although conventional treatments can alleviate symptoms, they often cause side effects. Bifidobacterium, a safe and well-tolerated probiotic, has demonstrated potential in constipation management; however, functional variability among strains limits its broad application. RESULTS: This study ...",
+      "segment": 1,
+      "timestamp": 42.96
+    },
+    {
+      "title": "Immune regulatory networks and gut microbiota-associated targets in endometriosis: an integrative multi-omics and network analysis.",
+      "url": "https://doi.org/10.1515/biol-2025-1372",
+      "source": "PubMed — Open life sciences",
+      "one_liner": "Endometriosis is an estrogen-dependent disorder characterized by chronic inflammation, immune dysregulation, and altered hormone metabolism. Although gut microbiota-derived metabolites have been implicated in shaping immune microenvironments and lesion development, the underlying regulatory mechanisms remain incompletely understood. Here, we integrated mu...",
+      "segment": 2,
+      "timestamp": 87.59
+    },
+    {
+      "title": "Integrating multi-omics technologies to decipher microbiome functions.",
+      "url": "https://doi.org/10.1038/s41467-026-77539-4",
+      "source": "PubMed — Nature communications",
+      "one_liner": "Multi-omics approaches have revolutionized our understanding of microbial communities by enabling simultaneous interrogation of genomic, transcriptomic, proteomic, and metabolomic data. The systematic integration and analysis of these deep datasets help decipher the functional roles of microbiomes, providing critical insights into microbial activities, in...",
+      "segment": 3,
+      "timestamp": 130.0
+    },
+    {
+      "title": "Gut microbiota as a modulator of HDAC: insights into Alzheimer's disease treatment.",
+      "url": "https://doi.org/10.1007/s43440-026-00897-9",
+      "source": "PubMed — Pharmacological reports : PR",
+      "one_liner": "The human gut microbiota (GMB) has a significant impact on physiological function, including gastrointestinal health, immune regulation, and redox homeostasis. It consists of diverse microorganisms that support digestion, nutrient absorption, and intestinal barrier function. Emerging evidence suggests that gut microbiota-derived metabolites may influence ...",
+      "segment": 4,
+      "timestamp": 201.37
+    },
+    {
+      "title": "Analysis of the pulmonary microbiome in ARDS patients using bronchoalveolar lavage fluid metagenomic next-generation sequencing: a retrospective observational study.",
+      "url": "https://doi.org/10.1186/s40560-026-00940-0",
+      "source": "PubMed — Journal of intensive care",
+      "one_liner": "BACKGROUND: Acute respiratory distress syndrome (ARDS) exhibits significant clinical heterogeneity, with inflammatory subphenotypes (hypoinflammatory and hyperinflammatory) representing a key axis for precision medicine. The role of the pulmonary microbiome in these subphenotypes remains poorly understood. METHODS: This retrospective study enrolled 159 AR...",
+      "segment": 5,
+      "timestamp": 337.66
+    },
+    {
+      "title": "Effects of dietary interventions on gut microbiota and related cardiometabolic changes in pediatric obesity: a systematic review and meta-analysis.",
+      "url": "https://doi.org/10.1038/s41390-026-05312-w",
+      "source": "PubMed — Pediatric research",
+      "one_liner": "BACKGROUND: Gut microbiota imbalances may contribute to obesity, yet whether dietary interventions can modulate the microbiota and improve metabolic health in pediatrics has not been thoroughly reviewed. This systematic review and meta-analysis explores the impact of dietary interventions on the gut microbiota of children and adolescents with overweight o...",
+      "segment": 6,
+      "timestamp": 470.71
+    },
+    {
+      "title": "Accessible, robust ultrahigh-throughput microbiome analysis via integration of uniform droplet-templated emulsification and FACS.",
+      "url": "https://doi.org/10.1371/journal.pone.0356887",
+      "source": "PubMed — PloS one",
+      "one_liner": "Microbial phenotypes vary at the single-cell level, shaping key community traits like resilience and adaptability. Yet, current methods either lack resolution (e.g., culturing, sequencing), are too costly, or technically complex, limiting widespread use. To address this gap, we introduce and validate a workflow called DE-SWIRL (Double Emulsion-Sorting Wor...",
+      "segment": 7,
+      "timestamp": 613.58
+    },
+    {
+      "title": "Gut microbiota and ABC transporter pathway: potential links to the therapeutic efficacy of Shen-Ling-Bai-Zhu-San against antibiotic-associated diarrhea in juvenile rats.",
+      "url": "https://doi.org/10.1007/s10123-026-00891-4",
+      "source": "PubMed — International microbiology : the official journal of the Spanish Society for Microbiology",
+      "one_liner": "BACKGROUND: Shen-Ling-Bai-Zhu-San (SLBZS) recorded in the Song Dynasty text \"Tai Ping Hui Min He Ji Ju Fang,\" is traditionally used to \"strengthen the spleen, eliminate dampness and stop diarrhea.\" making it a commonly used prescription for treating antibiotic-associated diarrhea (AAD). This study examined microbial and metabolite changes accompanying SLB...",
+      "segment": 8,
+      "timestamp": 716.34
+    },
+    {
+      "title": "Understanding the gut microbiota to shape the future of intestinal failure care: a systematic review of the evidence.",
+      "url": "https://doi.org/10.1007/s00431-026-07376-6",
+      "source": "PubMed — European journal of pediatrics",
+      "one_liner": "Intestinal failure (IF) patients suffer a loss of intestinal mass or function and alterations in gut microbiota (GM) composition and function. Our objectives are to (1) characterise GM in IF, (2) explore associations between GM and IF health outcomes, and (3) analyse the effect of GM-based interventions on disease course. A systematic review was conducted...",
+      "segment": 9,
+      "timestamp": 846.88
+    },
+    {
+      "title": "Castanea henryi-resistant starch prepared with autoclave-assisted pullulanase treatment attenuated high-fat diet-induced obesity by regulating gut microbiota and metabolism.",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2026.154408",
+      "source": "PubMed — International journal of biological macromolecules",
+      "one_liner": "The high glycemic index of Castanea henryi has significantly hampered its utilization for new product development. In this study, Castanea henryi starch was processed by autoclave-assisted pullulanase treatment (AAPT) to prepare resistant starch (RS). The structural property, crystal structure and thermal stability of the modified starch were investigated...",
+      "segment": 10,
+      "timestamp": 966.44
+    },
+    {
+      "title": "Ginger-Processed American Ginseng Alleviates Myocardial Injury Induced by Acute Cold Exposure/Rewarming by Remodeling Gut Microbiota to Activate the AMPK/PGC-1α/PPARα Pathway.",
+      "url": "https://doi.org/10.1021/acs.jafc.6c04969",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "Acute cold exposure/rewarming (ACE/R) disrupts cardiovascular homeostasis and causes severe myocardial injury, yet effective countermeasures are scarce. Ginger-processed American ginseng (GPAG), a medicine-food homologous herb, exerts anti-inflammatory, antioxidant, and metabolic-regulatory effects; however, its cardioprotective mechanisms against ACE/R r...",
+      "segment": 11,
+      "timestamp": 1009.92
+    },
+    {
+      "title": "Emulsified Mulberry Extract Alleviates CUMS-Induced Anxiety- and Depressive-Like Behaviors in Mice in Association with Gut Microbiota and Short-Chain Fatty Acids.",
+      "url": "https://doi.org/10.1021/acs.jafc.6c03546",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "Mulberry, a traditional medicinal and edible plant rich in polysaccharides and flavonoids, has potential in regulating emotional behaviors. This study compared emulsified mulberry extract (EME) and aqueous mulberry extract (AME) on anxiety- and depression-like behaviors in male C57BL/6J mice exposed to chronic unpredictable mild stress (CUMS), and explore...",
+      "segment": 12,
+      "timestamp": 1051.54
+    },
+    {
+      "title": "Gut Microbiota and Aldosterone Regulate Natriuretic Peptide B Expression to Drive Mitophagy and Metabolic Reprogramming in Sepsis-Like Model of Myocardial Injury.",
+      "url": "https://doi.org/10.1161/JAHA.125.046120",
+      "source": "PubMed — Journal of the American Heart Association",
+      "one_liner": "BACKGROUND: Myocardial injury is a major contributor to mortality in sepsis, yet the mechanisms underlying gut-heart communication in sepsis-induced myocardial injury remain insufficiently defined. Natriuretic peptide B (NPPB) is a cardiac stress-responsive gene, but its involvement in mitochondrial homeostasis and metabolic regulation is unclear. This st...",
+      "segment": 13,
+      "timestamp": 1099.72
+    },
+    {
+      "title": "Unraveling the bidirectional interplay of the gut microbiota with chemotherapy and radiotherapy in colorectal cancer: from pathogenesis to probiotic interventions.",
+      "url": "https://doi.org/10.1080/17460913.2026.2720339",
+      "source": "PubMed — Future microbiology",
+      "one_liner": "Colorectal cancer remains a leading cause of cancer-related mortality worldwide. While chemotherapy and radiotherapy serve as a cornerstone of treatment, their clinical efficacy is frequently compromised by therapeutic resistance and gastrointestinal toxicity. Accumulating evidence indicates that the gut microbiota is a critical determinant of both treatm...",
+      "segment": 14,
+      "timestamp": 1144.34
+    },
+    {
+      "title": "6'-Sialyllactose alleviates loperamide-induced constipation and depressive-like behaviors in mice by modulating gut microbiota and short-chain fatty acids.",
+      "url": "https://doi.org/10.1039/d6fo03584a",
+      "source": "PubMed — Food & function",
+      "one_liner": "Constipation is a common gastrointestinal disorder, which impairs the quality of life. This study investigated the ameliorative effects of 6'-sialyllactose (6'-SL) in a loperamide-induced murine model of constipation and associated depressive-like behaviors. Constipation was induced in mice by loperamide and subsequently treated by administering 6'-SL at ...",
+      "segment": 15,
+      "timestamp": 1182.32
+    },
+    {
+      "title": "Lactiplantibacillus plantarum P10 alleviates hyperuricemia-induced inflammation in mice by modulating gut microbiota and histidine metabolism.",
+      "url": "https://doi.org/10.1093/lambio/ovag068",
+      "source": "PubMed — Letters in applied microbiology",
+      "one_liner": "Hyperuricaemia is a common chronic metabolic disorder characterised by urate crystal deposition and systemic inflammation. Lactic acid bacteria have been demonstrated to exert probiotic effects against hyperuricaemia. This study investigated the probiotic effects and potential mechanisms of Lactiplantibacillus plantarum P10 in a murine hyperuricaemic mode...",
+      "segment": 16,
+      "timestamp": 1227.25
+    },
+    {
+      "title": "Integrative multi-omics profiling of insomnia-related molecular features reveals microbiome, immune, and therapy-relevant heterogeneity in colorectal cancer.",
+      "url": "https://doi.org/10.1128/spectrum.00815-26",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "Emerging evidence implicates insomnia as a potential risk factor in carcinogenesis, potentially involving systemic inflammation, circadian disruption, and microbiome alterations. However, the molecular associations linking insomnia-related features to colorectal cancer (CRC), particularly with respect to tumor biology, immune microenvironmental states, an...",
+      "segment": 17,
+      "timestamp": 1592.64
+    },
+    {
+      "title": "Integrative meta-analysis of the OSCC microbiome: from niche-specific heterogeneity to universal network and functional signatures.",
+      "url": "https://doi.org/10.1080/20002297.2026.2730638",
+      "source": "PubMed — Journal of oral microbiology",
+      "one_liner": "BACKGROUND: While the association between oral squamous cell carcinoma (OSCC) and microbial dysbiosis is well-established, high inter-study heterogeneity has historically hindered the identification of universal biomarkers. OBJECTIVE: To explore the profound influence of anatomical ecological niches on microbial profiles while identifying shared oncogenic...",
+      "segment": 18,
+      "timestamp": 1645.61
+    },
+    {
+      "title": "From bacterial to microbiome-derived vesicles: genome-informed identity, source qualification, and translational quality for skin-directed cosmetics.",
+      "url": "https://doi.org/10.1007/s13258-026-01803-6",
+      "source": "PubMed — Genes & genomics",
+      "one_liner": "Bacterial extracellular vesicles (BEVs) are increasingly proposed as materials for skin-directed cosmetics, yet rapid adoption of \"exosome\" terminology has outpaced clarity on their origin, composition, and manufacturing quality. This review argues that the value of BEVs depends on scientific discipline rather than marketing appeal, and that they are prom...",
+      "segment": 19,
+      "timestamp": 1687.53
+    },
+    {
+      "title": "Dietary macronutrient intake and the gut microbiome in adults undergoing bariatric surgery.",
+      "url": "https://doi.org/10.1038/s41430-026-01800-8",
+      "source": "PubMed — European journal of clinical nutrition",
+      "one_liner": "Information linking diet with the gut microbiome in bariatric surgery is limited. This pilot study examined correlations between macronutrient intake and gut microbiome indexes in adults undergoing bariatric surgery. Participants were 29 adults (93% female) undergoing bariatric surgery. Food records were used to estimate daily macronutrient intake. Shotgu...",
+      "segment": 20,
+      "timestamp": 1781.13
+    },
+    {
+      "title": "Identifying fundamental gaps in functional metagenomics: a step towards unlocking microbiome research potential.",
+      "url": "https://doi.org/10.1093/nargab/lqag110",
+      "source": "PubMed — NAR genomics and bioinformatics",
+      "one_liner": "Incomplete functional annotation limits biological interpretation in microbiome studies and their translational potential. Poor annotation arises from multiple causes, with incomplete gene-protein-reaction mapping being one tractable yet under-examined contributor. We address this gap by developing a comprehensive hierarchical framework that systematicall...",
+      "segment": 21,
+      "timestamp": 1905.76
+    },
+    {
+      "title": "Exploratory case comparison of gut microbiome functional potential in ultramarathoners differing in adiposity and finish time.",
+      "url": "https://doi.org/10.1080/15502783.2026.2725874",
+      "source": "PubMed — Journal of the International Society of Sports Nutrition",
+      "one_liner": "Understanding variations in gut microbial functional potential among endurance athletes may inform future personalized nutritional strategies. This exploratory case-comparison study aimed to investigate predicted microbial functional potential using shotgun metagenomic sequencing and fecal metabolites, in two post hoc-selected runners who represented extr...",
+      "segment": 22,
+      "timestamp": 1949.6
+    },
+    {
+      "title": "Microbial indole-3-acetamide alleviates polycystic ovary syndrome through HIF-2α-ceramide signaling.",
+      "url": "https://doi.org/10.1016/j.chom.2026.08.015",
+      "source": "PubMed — Cell host & microbe",
+      "one_liner": "Polycystic ovary syndrome (PCOS) is a common reproductive endocrine disease and metabolic disorder in women that is marked by abnormalities in adipose tissue and gut microbial dysbiosis. However, it remains unclear whether and how the gut microbiota affects adipose tissue, thereby leading to the development of PCOS. Here, we find that intestinal Collinsel...",
+      "segment": 23,
+      "timestamp": 1996.59
+    },
+    {
+      "title": "Effects of daytime versus nighttime feeding on nutrient digestion, blood biochemical parameters, gastrointestinal microbiota, and metabolites in sheep.",
+      "url": "https://doi.org/10.1093/jas/skag288",
+      "source": "PubMed — Journal of animal science",
+      "one_liner": "Feeding time is a modifiable management factor that regulates nutrient digestibility and circadian physiological rhythms in ruminants. Twelve 7-month-old Dorper × Hu crossbred rams with an initial body weight of 47 ± 2.42 kg were individually housed in metabolism crates and randomly allocated to two feeding groups provided with an identical basal diet: da...",
+      "segment": 24,
+      "timestamp": 2041.7
+    },
+    {
+      "title": "Postbiotics as a therapeutic frontier in Parkinson's disease: Insights into molecular pathways and neuroprotective effects.",
+      "url": "https://doi.org/10.1007/s11011-026-01978-7",
+      "source": "PubMed — Metabolic brain disease",
+      "one_liner": "Parkinson's disease (PD) is an aging neurodegenerative disease associated with dopaminergic neuronal impairment, mitochondrial dysfunction, oxidative stress, chronic neuroinflammation, and pathological deposits of misfolded α-synuclein. Gut microbiota (GM) is a general contributing factor in PD pathogenesis via the microbiota-gut-brain bidirectional axis....",
+      "segment": 25,
+      "timestamp": 2087.54
+    },
+    {
+      "title": "The gut-thyroid interplay: Emerging role of gut dysbiosis in thyroid dysregulation.",
+      "url": "https://doi.org/10.1016/j.bbrc.2026.154165",
+      "source": "PubMed — Biochemical and biophysical research communications",
+      "one_liner": "The gut-thyroid interplay is a dynamic bidirectional crosstalk among the gut microbiota, thyroid function, and immune regulation. Recent studies highlight the essential role of gut microbial metabolites in regulating thyroid hormone metabolism, immune responses, and intestinal barrier integrity. Gut dysbiosis has emerged as an important contributor to the...",
+      "segment": 26,
+      "timestamp": 2205.76
+    },
+    {
+      "title": "Immunomodulatory mechanisms of bile acids in autoimmune diseases along the gut-liver axis.",
+      "url": "https://doi.org/10.1016/j.autrev.2026.104183",
+      "source": "PubMed — Autoimmunity reviews",
+      "one_liner": "Bile acids (BAs) have evolved from simple digestive surfactants into central signaling molecules that integrate gut microbiota metabolism with host immunity. In autoimmune diseases (AIDs), alterations in the BA pool, driven by changes in microbial transformation capacity and tissue-specific receptor responsiveness, disrupt the homeostasis of the gut-liver...",
+      "segment": 27,
+      "timestamp": 2249.7
+    },
+    {
+      "title": "Pathogen capture driven spatial reprogramming microgels for oral treatment of bacterial enteritis.",
+      "url": "https://doi.org/10.1016/j.jconrel.2026.115342",
+      "source": "PubMed — Journal of controlled release : official journal of the Controlled Release Society",
+      "one_liner": "Intestinal Salmonella infections are primarily treated with antibiotics, yet non-selective bactericidal activity often disrupts the gut microbiota and limits therapeutic efficacy. Here, we introduce a precision anti-infective strategy based on spatial reprogramming, which redefines where antibacterial activity occurs rather than increasing antimicrobial p...",
+      "segment": 28,
+      "timestamp": 2297.31
+    },
+    {
+      "title": "Chronic psychological stress impairs sperm quality via a gut-endotoxin-testis axis.",
+      "url": "https://doi.org/10.1016/j.bbi.2026.107000",
+      "source": "PubMed — Brain, behavior, and immunity",
+      "one_liner": "BACKGROUND: Chronic psychological stress is increasingly recognized as a risk factor for male infertility, but the underlying mechanisms remain incompletely understood. This study aimed to investigate whether chronic stress (CS) induced-alterations of the gut microbiota and its metabolites contribute to sperm quality impairment via a gut-testis axis. METH...",
+      "segment": 29,
+      "timestamp": 2664.99
+    },
+    {
+      "title": "Lactobacillus acidophilus LA3 Suppresses Neuroinflammation via the Gut-Brain Axis.",
+      "url": "https://doi.org/10.1021/acs.jafc.6c04375",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "The gut-brain axis represents a pivotal pathway through which gut microbiota influence neuroinflammation and neurological health. This study identifies Lactobacillus acidophilus LA3 as a potent probiotic strain capable of mitigating neuroinflammation. LA3 demonstrated superior efficacy in suppressing LPS-induced proinflammatory cytokines in BV-2 microglia...",
+      "segment": 30,
+      "timestamp": 2706.55
+    },
+    {
+      "title": "Soluble, Insoluble, and Mixed Rice Bran Dietary Fibers Generate Distinct Host-Microbiota-Metabolome Responses in DSS-Induced Colitis.",
+      "url": "https://doi.org/10.1021/acs.jafc.6c10465",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "Rice bran dietary fiber comprises soluble and insoluble fractions, but their differential host, microbial, and metabolic effects remain unclear. We compared RB-SDF, RB-IDF, and their mixture (RB-MIX) at two doses in DSS-induced colitis. All formulations alleviated symptoms, histological injury, barrier dysfunction, endotoxemia, and inflammation, but their...",
+      "segment": 31,
+      "timestamp": 2749.34
+    },
+    {
+      "title": "A gut commensal",
+      "url": "https://doi.org/10.1080/21505594.2026.2721757",
+      "source": "PubMed — Virulence",
+      "one_liner": "The mosquito gut microbiota plays a pivotal role in regulating arbovirus transmission, yet the specific antiviral metabolites produced by native symbiotic bacteria and their underlying mechanisms remain poorly understood. In this study, we isolated a natural gut symbiotic bacterium,",
+      "segment": 32,
+      "timestamp": 2797.43
+    },
+    {
+      "title": "Microbiota-Metabolome Alterations Suggest Pro-Inflammatory Phenotype in Congenital Central Hypoventilation Syndrome.",
+      "url": "https://doi.org/10.1155/ijm/7551500",
+      "source": "PubMed — International journal of microbiology",
+      "one_liner": "Congenital central hypoventilation syndrome (CCHS) is a genetic disorder caused by mutations in the PHOX2B gene, characterized by impaired autonomic control of breathing and systemic consequences that may affect gut homeostasis. This study provides the first integrated multi-omics analysis in a CCHS group and matched controls, combining fecal DNA-based gu...",
+      "segment": 33,
+      "timestamp": 2837.94
+    },
+    {
+      "title": "An upside of obesity: Diet-microbe synergy aids immunotherapy.",
+      "url": "https://doi.org/10.1016/j.chom.2026.08.004",
+      "source": "PubMed — Cell host & microbe",
+      "one_liner": "While obesity is generally associated with unfavorable health outcomes, there are notable exceptions. In cancer immunotherapy, epidemiological studies consistently link obesity to improved checkpoint inhibitor responses. Desharnais et al. show in mouse models that this paradox is driven by diet-dependent interactions with the gut microbiome, not obesity i...",
+      "segment": 34,
+      "timestamp": 2889.1
+    },
+    {
+      "title": "Investigating mechanisms of divergent feed efficiency in dairy cows.",
+      "url": "https://doi.org/10.3168/jds.2026-28784",
+      "source": "PubMed — Journal of dairy science",
+      "one_liner": "Objectives were to investigate the associations between residual DMI (RFI), calculated as the difference between observed minus predicted DMI, with rumen microbiome, digestion, behavior, and metabolism that might explain the differences in RFI in lactating cows. One hundred 50 genotyped Holstein cows in 3 cohorts were used in this cohort study in which ex...",
+      "segment": 35,
+      "timestamp": 2930.6
+    },
+    {
+      "title": "Extracellular vesicles from lactic acid bacteria as multifunctional postbiotics: bridging food technology and intestinal wellness.",
+      "url": "https://doi.org/10.1080/10408398.2026.2718041",
+      "source": "PubMed — Critical reviews in food science and nutrition",
+      "one_liner": "Lactic acid bacteria are important probiotics widely found in nature and recognized for their health-promoting roles in fermented foods and their probiotic functions in the human gut. In recent years, postbiotics-defined as inanimate metabolites or components of probiotics-have gained increasing attention. Extracellular vesicles derived from lactic acid b...",
+      "segment": 36,
+      "timestamp": 2974.39
+    },
+    {
+      "title": "Towards optimizing the host response to biotics: a report of an International Scientific Association for Probiotics and Prebiotics working group.",
+      "url": "https://doi.org/10.1080/19490976.2026.2728828",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "This report summarizes the deliberations of a working group convened by the International Scientific Association for Probiotics and Prebiotics (ISAPP) at their 2025 annual meeting to identify the key targets that mediate the host response to biotics. Probiotics, prebiotics, synbiotics, and postbiotics have been explored in numerous contexts, but results o...",
+      "segment": 37,
+      "timestamp": 3026.01
+    },
+    {
+      "title": "Ecology of protection: probiotic biogeography and sepsis prevention in the neonatal intestine.",
+      "url": "https://doi.org/10.1128/mbio.01127-26",
+      "source": "PubMed — mBio",
+      "one_liner": "Neonatal infection is a leading cause of morbidity and mortality worldwide, particularly among preterm and low birth weight infants. Probiotic bacteria are widely used in peri- and postnatal care and can reduce neonatal intestinal dysbiosis. However, formulations and efficacy remain highly variable, highlighting a critical gap in our understanding of the ...",
+      "segment": 38,
+      "timestamp": 3070.0
+    },
+    {
+      "title": "Harnessing Probiotic LAB and Bacteriocins for Clean-Label Food Processing and Biopreservation: Omics, Molecular Innovations and Industrial Applications.",
+      "url": "https://doi.org/10.1007/s12602-026-11201-9",
+      "source": "PubMed — Probiotics and antimicrobial proteins",
+      "one_liner": "The persistence of microbial agents in foods, especially spore forming bacteria is one of the most significant challenges to food preservation and safety, undermining product quality, shelf life, and consumer health. The use of traditional control methods, including thermal processing and chemical preservatives, are increasingly limited by consumer demand...",
+      "segment": 39,
+      "timestamp": 3116.82
+    }
+  ]
+}
