@@ -1,0 +1,154 @@
+Herbal Baijiu and traditional Baijiu release distinct metabolite profiles during simulated gastrointestinal digestion, leading to different effects on gut microbiota growth, according to an in vitro study that compared the two spirits’ chemical matrices and microbial impacts. Using a standardized digestion model, researchers found that herbal Baijiu yielded higher levels of certain phenolics and flavonoids, while traditional Baijiu produced more fatty acid derivatives, each correlating with shifts in bacterial community composition. The work highlights how beverage‑specific chemistry can modulate digestive outcomes and microbial responses, offering insight into the functional differences between herbal and conventional Baijiu. Source: PubMed — Journal of the science of food and agriculture.
+
+[[TRANSITION]]
+
+Enlarged facial pores in young Chinese women are linked to weakened skin barrier function and an altered facial microbiome, according to a study published in the International Journal of Cosmetic Science via PubMed. Researchers observed that larger pores create a niche that harbors distinct microbial communities, coinciding with measurable declines in barrier integrity. This connection suggests that pore enlargement may reflect, or contribute to, both barrier impairment and dysbiosis, offering a new angle for cosmetic interventions targeting pore size, barrier health, and microbial balance. The findings highlight the interplay between structural skin features and microbiota in this demographic.
+
+[[TRANSITION]]
+
+Exercise can aid recovery from drug addiction by reshaping the gut microbiota, according to a review in the Journal of Zhejiang University Medical Sciences. The authors explain that physical activity alters microbial composition and metabolite production, which in turn influences the bidirectional gut‑brain axis. These changes reduce neuroinflammation, restore dopamine signaling, and curb cravings linked to substance use. By highlighting how exercise‑driven microbiota shifts affect central nervous system pathways involved in reward and stress, the paper offers a mechanistic framework for integrating microbiome‑targeted strategies into addiction treatment. Source: PubMed – Journal of Zhejiang University Medical Sciences.
+
+[[TRANSITION]]
+
+The study set out to uncover a novel link between gut‑derived metabolites and the biology of adolescent depression, focusing specifically on indole‑type molecules and their signaling through the aryl hydrocarbon receptor, or AhR, in two processes that shape brain health: neurogenesis and microglial homeostasis. By examining both unmedicated human adolescents with depression and parallel mouse models, the researchers aimed to test whether alterations in the gut microbiome’s output of indole derivatives could shift AhR activity, thereby influencing the birth of new neurons and the functional state of the brain’s resident immune cells.  
+
+The motivation for this work comes from a stark clinical reality: adolescent depression is rising sharply worldwide, yet existing treatments remain limited and often bring side effects, largely because the underlying mechanisms are still poorly understood. In recent years, the gut‑brain axis has moved into the spotlight as a plausible conduit for microbial metabolites to affect mood and cognition, making it a logical target for mechanistic exploration.  
+
+What the available text does not provide are the specific findings of the experiments—such as which indole metabolites were altered, how AhR signaling changed in the hippocampus or other brain regions, whether neurogenesis was increased or decreased, or what microglial phenotypes were observed. Likewise, we lack details on the methodological approach (e.g., metabolomics profiling, AhR antagonism or activation assays, behavioral readouts) and any quantitative results that would let us gauge the strength of the association.  
+
+In short, while the paper’s title signals a potentially important mechanistic bridge between gut microbiota‑derived indoles, AhR signaling, neurogenesis, and microglial balance in adolescent depression, the supplied notes leave the actual experimental outcomes and their implications unspecified. Further detail would be needed to assess how this work advances our understanding of the gut‑brain connection in this vulnerable population.
+
+[[TRANSITION]]
+
+Mannatide, a polysaccharide immunomodulator used in China, was shown to modulate both immune function and gut microbiota in cyclophosphamide‑induced immunosuppressed BALB/c mice, revealing a potential mechanism for its immunoprotective effect. The study, published in the International Journal of Biological Macromolecules, treated CTX‑suppressed mice with Mannatide and observed restoration of immune parameters alongside shifts in gut microbial composition and related signalling pathways. These findings begin to fill the gap in understanding how Mannatide exerts its immunomodulatory activity, highlighting the gut‑immune axis as a key mediator. Source: PubMed – International Journal of Biological Macromolecules.
+
+[[TRANSITION]]
+
+Luteolin alleviates region‑specific gut microbiota disturbances caused by Mycoplasma gallisepticum in chickens, according to a study in PubMed‑indexed Microbial Pathogenesis. Researchers found that MG infection disrupts microbial composition and co‑occurrence networks differently along the duodenum, jejunum and ileum, a pattern missed by fecal‑only analyses. Supplementing feed with luteolin restored beneficial taxa, reduced opportunistic blooms, and rebuilt the intestinal microbial network toward healthy states. The work highlights luteolin’s potential as a dietary modulator to counteract MG‑induced gut dysbiosis beyond the respiratory tract.
+
+[[TRANSITION]]
+
+Gut microbiota shapes kidney transplant outcomes by influencing rejection risk, infection susceptibility, and drug‑related toxicity, according to a review in the European Journal of Pharmacology accessed via PubMed. The authors describe how microbial metabolites and immune signaling create a bidirectional gut‑kidney axis that can either protect or jeopardize the graft. They argue that profiling a recipient’s microbiome could guide personalized immunosuppression, reducing adverse events while preserving graft function. The paper calls for longitudinal studies and microbiome‑targeted interventions—such as probiotics, diet, or fecal microbiota transplantation—to refine post‑transplant care.
+
+[[TRANSITION]]
+
+Researchers found that the gut microbiota of wild Asian elephants differs markedly between two populations in Jiangcheng and Liushun, Yunnan, China. Published in Ecology and Evolution via PubMed, the study compared fecal samples from the JC and LS herds, revealing significant variations in microbial community structure, diversity, and functional potential. Across all samples they detected 24 bacterial phyla, 48 classes, and at least 98 distinct taxonomic groups, indicating that local habitat and diet shape elephant gut ecosystems. These differences may influence the animals’ health, nutrition, and ability to adapt to their specific environments, highlighting the importance of considering microbiota in conservation strategies for Asian elephants.
+
+[[TRANSITION]]
+
+Early gut microbiome metabolites and diversity measured shortly after transplant predict GVHD‑free survival in patients receiving allogeneic hematopoietic cell transplantation, according to a study published in PubMed‑indexed Transplantation and Cellular Therapy. Researchers analyzed stool samples from recipients within the first weeks post‑HCT and found that specific microbial metabolites and higher taxonomic diversity were associated with lower incidence of grade II–IV acute GVHD and better overall transplant outcomes, whereas a depleted microbiome correlated with higher GVHD risk and mortality. The work shifts focus from isolated GVHD or mortality endpoints to an integrated measure of transplant success, highlighting the gut microbiome as an early prognostic biomarker.
+
+[[TRANSITION]]
+
+Breaking the priority effects facilitates the assembly and colonization of microbiomes toward enhanced petroleum hydrocarbon biodegradation. That is the title of a recent article in npj Biofilms and Microbiomes, published online on September 11 2026. The paper’s central idea is that the order in which microbial species arrive and establish themselves—known as priority effects—can shape the eventual structure and function of a microbiome, and that deliberately disrupting this ordering may allow a more effective community to take hold for degrading petroleum hydrocarbons.
+
+The available text does not provide details on the specific experimental system used, whether the work was conducted in soil, water, or a synthetic biofilm model, nor does it describe the microbial strains or consortia that were manipulated. It also does not share quantitative outcomes such as degradation rates, changes in community composition, or statistical comparisons to control conditions. Consequently, we cannot state what magnitude of improvement in hydrocarbon breakdown was observed, which taxa were found to be key colonizers after priority effects were disrupted, or how the intervention was applied—whether through timed inoculations, environmental perturbations, or chemical cues.
+
+What we can infer from the title and the journal’s scope is that the authors likely explored ecological assembly principles to steer microbiome development toward a functional goal. By weakening the influence of early arrivals that might otherwise monopolize resources or produce inhibitory metabolites, they may have opened niches for later‑arriving degraders with stronger hydrocarbon‑metabolizing capabilities. This approach aligns with broader research showing that priority effects can both stabilize and limit microbiome functionality, and that manipulating assembly history can be a tool for bioremediation.
+
+In short, the study proposes that breaking priority effects is a strategy to enhance microbiome‑driven petroleum hydrocarbon cleanup, but the exact methods, results, and implications remain unspecified in the extracted notes. Further inspection of the full article would be needed to evaluate the evidence behind this claim.
+
+[[TRANSITION]]
+
+In a longitudinal streptozotocin‑high‑fat diet mouse model, researchers linked early shifts in gut microbiota and circulating metabolites to the later development of histologic metabolic dysfunction‑associated steatohepatitis (MASH) before any fibrosis appears. By combining 16S rRNA sequencing with untargeted LC‑MS/MS, they identified specific bacterial taxa and metabolic signatures that emerge weeks prior to histological MASH onset, offering potential pre‑fibrotic biomarkers. The study, published in mSystems via PubMed, highlights how integrative microbiome‑metabolome profiling can detect MASH risk earlier than current methods for future therapeutic intervention.
+
+[[TRANSITION]]
+
+The gut microbiome has emerged as an important regulator of cardiovascular physiology through interconnected metabolic, immune, inflammatory, and endocrine pathways. This gut‑heart axis has been extensively investigated in adult cardiovascular disease, where alterations in microbial composition, short‑chain fatty acid production, and immune signaling have been linked to hypertension, atherosclerosis, and heart failure. In contrast, the relevance of this axis in paediatric cardiology is only beginning to be recognised, as highlighted in the recent Pediatric Cardiology article titled “The Heart‑Microbiome Axis: Emerging Relevance in Pediatric Cardiology.”  
+
+The article notes that the dynamic development of both the gut microbiome and the cardiovascular system during infancy, childhood, and adolescence creates a unique window where microbial influences could shape long‑term heart health. However, the available text does not provide details on which specific microbial taxa or metabolites have been studied in paediatric cohorts, nor does it describe any clinical outcomes such as congenital heart disease progression, arrhythmia susceptibility, or response to therapy that have been directly tied to microbiome alterations in children.  
+
+Because the source emphasizes that the field is nascent, it underscores the need for longitudinal studies that track microbiome composition alongside cardiac imaging and biomarkers from birth through adolescence. Without such data, it remains unclear whether modulating the gut microbiome—through diet, probiotics, or antibiotics—could prevent or mitigate paediatric cardiovascular conditions. In summary, while the mechanistic pathways linking gut microbes to heart function are well established in adults, their applicability to the developing cardiovascular system in children is still an open question awaiting further investigation.
+
+[[TRANSITION]]
+
+The study titled “The Effect of Pancreatic Exocrine Insufficiency and Pancreatic Enzyme Replacement Therapy on Gut Microbiome Composition in Pancreatic Disease: A Prospective Cohort Study” appears in the journal *Pancreas* and is indexed via PubMed. Its stated objective, as extracted from the article’s notes, is to determine how pancreatic exocrine insufficiency (PEI) and its standard treatment—pancreatic enzyme replacement therapy (PERT)—influence the gut microbiome in patients with pancreatic disease. The notes explain that growing evidence links PEI to detrimental shifts in microbial communities, and that PERT, while known to confer survival benefits in pancreatic disease, may also modulate these microbial changes.  
+
+Unfortunately, the provided material does not contain further specifics about the study’s design, participant characteristics, sample size, duration of follow‑up, or the analytical methods used to assess microbiome composition. Likewise, no results—such as particular bacterial taxa that were altered, the magnitude of those changes, or statistical outcomes—are included in the notes. Consequently, we cannot describe what the investigators found regarding baseline microbiome differences between PEI patients and controls, how PERT exposure correlated with microbial shifts, or whether any observed changes correlated with clinical endpoints like nutritional status or disease progression.  
+
+In summary, while the article’s objective clearly frames an investigation into the interplay between PEI, PERT, and gut microbiota in pancreatic disease, the available text does not provide details on the cohort, methodology, or findings. To evaluate the study’s contributions, one would need to consult the full article for its participant recruitment, sequencing or profiling techniques, statistical analyses, and the actual microbial and clinical results it reports.
+
+[[TRANSITION]]
+
+Researchers reviewing the link between gut microbes and type 1 diabetes argue that altered microbiota not only accompanies disease onset but may actively drive the autoimmune attack on pancreatic β‑cells. Published in Experimental Physiology via PubMed, the article outlines how microbiota‑targeted strategies—such as probiotics, prebiotics, fecal transplants, and metabolite supplementation—have shown promise in animal models and early‑phase human studies for modulating immune tolerance and preserving β‑cell function. The authors stress that translating these findings into reliable therapies will require standardized sampling, longitudinal cohorts, and safety‑focused trials before microbiome adjuncts can sit alongside insulin treatment.
+
+[[TRANSITION]]
+
+The review highlights how alterations in the gut microbiome contribute to colorectal cancer development, emphasizing specific bacterial taxa, metabolic pathways, and host‑immune interactions that drive tumorigenesis. It discusses microbial‑derived metabolites such as short‑chain fatty acids and secondary bile acids as potential mechanistic links, and explores how microbiome profiling could serve as a diagnostic biomarker or guide preventive strategies. By synthesizing recent mechanistic and clinical studies, the article underscores the promise of microbiome‑targeted interventions — like probiotics, dietary modulation, or fecal microbiota transplantation — for reducing cancer risk or enhancing treatment efficacy. Source: PubMed — Clinical microbiology reviews.
+
+[[TRANSITION]]
+
+Genetic variation in glucosamine metabolism within Bacteroides strains enhances their ability to block Salmonella colonization in the gut, according to a study published in Cell Reports via PubMed. Researchers compared Salmonella‑resistant indigenous Tibetan chickens with susceptible commercial broilers, identifying conserved microbial mechanisms that underlie colonization resistance. By linking specific glucosamine‑processing genes to reduced pathogen load, the work reveals a metabolic basis for host‑microbe protection against enteric infection. The findings highlight how natural variation in bacterial carbohydrate metabolism can shape gut microbiota defenses and suggest a target for modulating susceptibility to Salmonella.
+
+[[TRANSITION]]
+
+A secreted protein from the gut bacterium Hungatella hathewayi can suppress colorectal cancer by reprogramming intratumoral CD14b‑positive myeloid cells, turning them from tumor‑promoting to anti‑tumor effectors. In a spontaneous APC‑driven mouse model, H. hathewayi reduced intestinal tumor burden and counteracted gut dysbiosis, while also slowing the growth of allografted colon carcinoma cells. These findings reveal a protective role for a microbe previously linked to cancer and highlight a microbial‑derived factor that reshapes the immune microenvironment to inhibit CRC progression. Source: PubMed — Cell reports
+
+[[TRANSITION]]
+
+Probiotic supplementation with VSL#3 raised levels of fecal TLR4 agonists in children with juvenile idiopathic arthritis but did not translate into measurable improvements in disease activity, according to the PERMAJI multicentre randomized double‑blind placebo‑controlled trial published in Gut microbes via PubMed. The study enrolled patients across multiple sites, administering the probiotic or placebo for a defined period and measuring both immune markers and clinical scores. While the intervention successfully altered microbial‑derived signaling molecules, the lack of clinical benefit suggests that simply boosting TLR4 agonists is insufficient to modulate JIA pathogenesis, highlighting the need for more targeted microbiota‑based therapies.
+
+[[TRANSITION]]
+
+Human milk oligosaccharides, or HMOs, make up the third most abundant solid fraction in human milk, trailing only lactose and lipids. According to a review published in *Advances in Biochemical Engineering/Biotechnology* and indexed on PubMed, these complex sugars are far more than just nutritional filler; they actively shape the infant gut microbiome and modulate immune responses. The article walks through how HMOs were first discovered, how they are classified into families such as fucosylated, sialylated, and neutral types, and how their concentrations shift over the course of lactation. It also outlines their core biological roles—serving as prebiotics for beneficial bifidobacteria, acting as decoy receptors to block pathogen adhesion, and influencing systemic immunity.
+
+After establishing the functional landscape, the review turns to production strategies, noting that it summarizes three generations of HMO synthesis technologies. The available excerpt indicates that these generations span chemical and enzymatic approaches, but the text cuts off before describing the specific methods, yields, scalability, or comparative advantages of each generation. Consequently, the available text does not provide details on the individual reaction schemes, enzyme catalysts, or process innovations that define each technological wave. It also does not give quantitative comparisons—such as titers, purity levels, or cost metrics—that would let us assess how newer methods improve upon earlier ones.
+
+What is clear from the source is that the review positions advances in biosynthesis as a critical step toward making HMOs accessible for infant formula, microbiome therapeutics, and broader glyco‑engineering applications. Until the full article is consulted, the precise nature of those three generations—whether they involve chemo‑enzymatic cascades, engineered glycosyltransferases, or cell‑free systems—remains unspecified in the provided notes.
+
+[[TRANSITION]]
+
+A meta‑analysis of randomized controlled trials published in Clinics (Sao Paulo, Brazil) via PubMed shows that adding live combined Bacillus subtilis and Enterococcus faecium (LCBE) to standard Helicobacter pylori therapy improves eradication rates while maintaining safety. The pooled data indicate that LCBE adjunct therapy raises H. pylori cure compared with placebo or standard care alone, without increasing adverse events. Researchers attribute the benefit to LCBE’s modulation of gut microbiota and reduction of gastrointestinal inflammation. The authors conclude that LCBE is a promising, well‑tolerated adjunct for H. pylori treatment, though they note heterogeneity among trials and call for larger, long‑term studies.
+
+[[TRANSITION]]
+
+Researchers show that polyamines synthesized by gut bacteria can prolong the host’s lifespan. Using gnotobiotic animals colonized with bacterial strains either capable or unable to produce specific polyamines, they found that hosts harboring the polyamine‑producing microbes lived longer than those with the biosynthesis‑deficient strains. This addresses a previously noted gap in the literature, as no prior work had examined gut bacterial metabolite effects on lifespan using such defined microbial systems. The work, published in mBio via PubMed, highlights a direct microbial metabolite‑host longevity link and underscores the potential of targeting gut‑derived polyamines to influence aging.
+
+[[TRANSITION]]
+
+Probiotic and live‑biotherapeutic treatments often give mixed results, and a new hypothesis points to gut niche tension as the missing variable. Researchers argue that clinical heterogeneity stems from the gut’s ecological state at the moment of dosing: an introduced strain must invade an already‑occupied ecosystem molded by host physicochemical factors such as pH, bile acids, and mucosal immunity. When the resident community is resilient or the niche is unfavorable, the probiotic fails to establish, explaining inconsistent benefits despite strong mechanistic rationale. This ecological framing could guide personalized timing and strain selection for live biotherapeutics. Source: PubMed — Gut microbes.
+
+[[TRANSITION]]
+
+People with HIV who develop distal sensory polyneuropathy show a distinct gut microbiome signature and heightened systemic inflammation, according to a cross‑sectional study of 154 participants published in Brain, Behavior, and Immunity. Researchers found that those with DSP had higher levels of inflammatory markers such as IL‑6 and CRP, alongside reduced abundance of beneficial bacteria like Faecalibacterium prausnitzii and increased prevalence of pro‑inflammatory taxa. These microbial shifts correlated with nerve‑symptom severity, suggesting that gut dysbiosis and immune activation contribute to DSP pathogenesis in HIV. The findings highlight microbiome‑targeted strategies as a potential avenue for preventing or treating HIV‑related neuropathy. Source: PubMed — Brain, behavior, and immunity
+
+[[TRANSITION]]
+
+Diet is moving beyond basic nutrition to become a tunable immunological therapy, according to a review in PubMed’s Trends in Immunology. The article explains that by engaging conserved nutrient‑sensing pathways and shaping the gut microbiome, precise nutritional regimens—such as fasting mimetics and calibrated macronutrient mixes—can actively reshape immune function. These approaches treat food as a pharmacological tool that can rewire inflammatory and protective responses, offering a promising avenue for immune‑based disease treatment. The review highlights how defined dietary protocols may complement or even replace conventional immunomodulators in clinical settings.
+
+[[TRANSITION]]
+
+A probiotic spore‑inspired oral delivery platform has been shown to traverse gastrointestinal, mucosal and blood‑brain barriers while simultaneously influencing the microbiome‑gut‑brain axis, offering a dual‑target strategy for Parkinson’s disease. The system, described in a study published in PubMed‑indexed journal Exploration (Beijing, China), encapsulates therapeutic agents within spore‑like particles that resist stomach acid, adhere to intestinal epithelium, and release cargo in the brain. Pre‑clinical data indicate improved motor symptoms and reduced neuroinflammation, highlighting the promise of barrier‑crossing, microbiota‑modulating carriers for CNS disorders.
+
+[[TRANSITION]]
+
+The STRATUM framework introduces a structured approach for reporting, assessing, and translating metagenomic next‑generation sequencing data, aiming to harmonize analytical and interpretive standards across diverse settings such as regulatory enforcement and exploratory discovery. By defining common elements for result presentation, quality control, and clinical or public‑health relevance, the authors address the challenge of applying mNGS uniformly despite varying operational contexts. The work appears in the Journal of AOAC International, indexed via PubMed. The framework is intended to facilitate cross‑study comparison and accelerate the adoption of mNGS in diagnostics and surveillance.
+
+
+References:
+[1] Comparative metabolomic and microbiome characterization of herbal and traditional Baijiu during in vitro gastrointestinal digestion. — PubMed — Journal of the science of food and agriculture — https://doi.org/10.1002/jsfa.71052
+[2] Enlarged facial pores are associated with skin barrier impairment and microbiome dysbiosis in young Chinese women. — PubMed — International journal of cosmetic science — https://doi.org/10.1111/ics.70144
+[3] [Mechanisms of exercise-induced improvement in drug addiction via the gut microbiota: a review]. — PubMed — Zhejiang da xue xue bao. Yi xue ban = Journal of Zhejiang University. Medical sciences — https://doi.org/10.3724/zdxbyxb-2025-0859
+[4] Novel insight into the effects of the metabolites from gut microbiota in both unmedicated depressive adolescents and mice: key roles of indole derivatives-aryl hydrocarbon receptor signaling in neurogenesis and microglial homeostasis. — PubMed — Molecular psychiatry — https://doi.org/10.1038/s41380-026-03895-8
+[5] Mannatide modulates immune response and gut microbiota in cyclophosphamide-induced immunosuppressed BALB/c mice. — PubMed — International journal of biological macromolecules — https://doi.org/10.1016/j.ijbiomac.2026.154435
+[6] Luteolin mitigates region-specific gut microbiota dysbiosis and microbial network remodeling during Mycoplasma gallisepticum infection. — PubMed — Microbial pathogenesis — https://doi.org/10.1016/j.micpath.2026.108820
+[7] Gut Microbiota in Kidney Transplantation: Mechanistic Insights and Implications for Precision Immunosuppression. — PubMed — European journal of pharmacology — https://doi.org/10.1016/j.ejphar.2026.179336
+[8] Gut Microbiota Differences in Wild Asian Elephants From Pu'er, China. — PubMed — Ecology and evolution — https://doi.org/10.1002/ece3.74333
+[9] Early gut microbiome metabolites and diversity predict GVHD-free survival after allogeneic hematopoietic cell transplantation. — PubMed — Transplantation and cellular therapy — https://doi.org/10.1016/j.jtct.2026.09.012
+[10] Breaking the priority effects facilitates the assembly and colonization of microbiomes toward enhanced petroleum hydrocarbon biodegradation — npj Biofilms and Microbiomes — https://www.nature.com/articles/s41522-026-01151-z
+[11] Gut microbiome and metabolite profiles are associated with subsequent histologic MASH in a longitudinal mouse model. — PubMed — mSystems — https://doi.org/10.1128/msystems.00720-26
+[12] The Heart-Microbiome Axis: Emerging Relevance in Pediatric Cardiology. — PubMed — Pediatric cardiology — https://doi.org/10.1007/s00246-026-04449-z
+[13] The Effect of Pancreatic Exocrine Insufficiency and Pancreatic Enzyme Replacement Therapy on Gut Microbiome Composition in Pancreatic Disease: A Prospective Cohort Study. — PubMed — Pancreas — https://doi.org/10.1097/MPA.0000000000002709
+[14] Translating gut microbiome research into therapies for type 1 diabetes. — PubMed — Experimental physiology — https://doi.org/10.1113/EP093273
+[15] The gut microbiome and colorectal cancer. — PubMed — Clinical microbiology reviews — https://doi.org/10.1128/cmr.00332-25
+[16] Genetic variation in glucosamine metabolism contributes to the colonization resistance of Bacteroides to Salmonella. — PubMed — Cell reports — https://doi.org/10.1016/j.celrep.2026.117998
+[17] A secreted protein from Hungatella hathewayi inhibits colorectal cancer by reprogramming intratumoral CD14b — PubMed — Cell reports — https://doi.org/10.1016/j.celrep.2026.117988
+[18] Probiotic supplementation increases fecal TLR4 agonists without improving disease activity in juvenile idiopathic arthritis: a randomized placebo-controlled trial. — PubMed — Gut microbes — https://doi.org/10.1080/19490976.2026.2728351
+[19] Advances on Biosynthesis of Human Milk Oligosaccharides. — PubMed — Advances in biochemical engineering/biotechnology — https://doi.org/10.1007/10_2026_357
+[20] Efficacy and safety of live combined Bacillus subtilis and Enterococcus faecium in patients with Helicobacter pylori infection: A meta-analysis of randomized controlled trials. — PubMed — Clinics (Sao Paulo, Brazil) — https://doi.org/10.1016/j.clinsp.2026.101139
+[21] Extension of host lifespan by polyamines derived from gut bacteria. — PubMed — mBio — https://doi.org/10.1128/mbio.01484-26
+[22] Why probiotics fail: gut niche tension as the missing variable? — PubMed — Gut microbes — https://doi.org/10.1080/19490976.2026.2728333
+[23] Microbial and inflammatory features linked to distal sensory polyneuropathy in people with HIV. — PubMed — Brain, behavior, and immunity — https://doi.org/10.1016/j.bbi.2026.107003
+[24] Eating to heal: dietary interventions as emerging immune-based therapeutic strategies. — PubMed — Trends in immunology — https://doi.org/10.1016/j.it.2026.08.011
+[25] Probiotic Spore Inspired Oral Drug Delivery System With Multiple-Barriers-Crossing Ability Modulates Gut-Brain Axis for Parkinson's Disease Therapy. — PubMed — Exploration (Beijing, China) — https://doi.org/10.1002/exp2.70221
+[26] STRATUM-Structured Framework for Reporting, Assessment, and Translational Utility of Metagenomics. — PubMed — Journal of AOAC International — https://doi.org/10.1093/jaoacint/qsag085

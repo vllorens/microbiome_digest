@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 08:10:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 07:51:51 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-09-11</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-11/podcast_2026-09-11.mp3</guid>
+      <pubDate>Fri, 11 Sep 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-11/podcast_2026-09-11.mp3" length="11859332" type="audio/mpeg" />
+      <description>Herbal Baijiu and traditional Baijiu release distinct metabolite profiles during simulated gastrointestinal digestion, leading to different effects on gut microbiota growth, according to an in vitro study that compared the two spirits’ chemical matrices and microbial impacts. | Enlarged facial pores in young Chinese women are linked to weakened skin barrier function and an altered facial microbiome, according to a study published in the International Journal of Cosmetic Science via PubMed. | Exercise can aid recovery from drug addiction by reshaping the gut microbiota, according to a review in the Journal of Zhejiang University Medical Sciences.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Herbal Baijiu and traditional Baijiu release distinct metabolite profiles during simulated gastrointestinal digestion, leading to different effects on gut microbiota growth, according to an in vitro study that compared the two spirits’ chemical matrices and microbial impacts. | Enlarged facial pores in young Chinese women are linked to weakened skin barrier function and an altered facial microbiome, according to a study published in the International Journal of Cosmetic Science via PubMed. | Exercise can aid recovery from drug addiction by reshaping the gut microbiota, according to a review in the Journal of Zhejiang University Medical Sciences.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-09-10</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-10/podcast_2026-09-10.mp3</guid>
       <pubDate>Thu, 10 Sep 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-10/podcast_2026-09-10.mp3" length="24095876" type="audio/mpeg" />
-      <description>Blautia wexlerae HGD16 supplementation markedly improves ulcerative colitis by reshaping the gut microbiome and restoring butyrate production. | Strain‑specific Bifidobacterium variants can ease loperamide‑induced constipation by reshaping the gut microbiome and activating the abfA gene cluster, according to a new study in the Journal of the Science of Food and Agriculture (PubMed). | Researchers used an integrative multi‑omics and network analysis to map immune regulatory circuits linked to gut microbiota in endometriosis, revealing that specific microbial metabolites modulate key immune pathways driving lesion growth.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-10/podcast_2026-09-10.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Blautia wexlerae HGD16 supplementation markedly improves ulcerative colitis by reshaping the gut microbiome and restoring butyrate production. | Strain‑specific Bifidobacterium variants can ease loperamide‑induced constipation by reshaping the gut microbiome and activating the abfA gene cluster, according to a new study in the Journal of the Science of Food and Agriculture (PubMed). | Researchers used an integrative multi‑omics and network analysis to map immune regulatory circuits linked to gut microbiota in endometriosis, revealing that specific microbial metabolites modulate key immune pathways driving lesion growth.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-19/podcast_2026-06-19.mp3</guid>
       <pubDate>Fri, 19 Jun 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-19/podcast_2026-06-19.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-06-18</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-18/podcast_2026-06-18.mp3</guid>
-      <pubDate>Thu, 18 Jun 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-18/podcast_2026-06-18.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>

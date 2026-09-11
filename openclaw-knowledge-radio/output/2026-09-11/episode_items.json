@@ -1,0 +1,240 @@
+{
+  "timestamps": [
+    0.0,
+    47.3,
+    90.71,
+    137.53,
+    257.98,
+    304.66,
+    347.88,
+    392.95,
+    442.67,
+    492.9,
+    625.26,
+    669.53,
+    781.08,
+    899.13,
+    945.69,
+    996.18,
+    1041.8,
+    1083.84,
+    1130.42,
+    1252.65,
+    1301.2,
+    1344.59,
+    1390.95,
+    1444.18,
+    1486.85,
+    1529.47
+  ],
+  "items": [
+    {
+      "title": "Comparative metabolomic and microbiome characterization of herbal and traditional Baijiu during in vitro gastrointestinal digestion.",
+      "url": "https://doi.org/10.1002/jsfa.71052",
+      "source": "PubMed — Journal of the science of food and agriculture",
+      "one_liner": "BACKGROUND: Herbal Baijiu (HB) and traditional Baijiu (TB) contain complex chemical matrices whose metabolic fate during gastrointestinal digestion and subsequent impact on gut microbiota remain unclear. This study systematically compared HB and TB through in vitro gastrointestinal digestion to evaluate the differences in digestive profiles and microbial ...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Enlarged facial pores are associated with skin barrier impairment and microbiome dysbiosis in young Chinese women.",
+      "url": "https://doi.org/10.1111/ics.70144",
+      "source": "PubMed — International journal of cosmetic science",
+      "one_liner": "OBJECTIVE: Enlarged facial pores represent a prominent and widely concerning skin condition, as well as a challenging issue in skin care. The unique structure of pores provides a favourable habitat for microorganisms. Consequently, it is of great significance to explore the relationship between pore size, skin microbiota and their microenvironment. This s...",
+      "segment": 1,
+      "timestamp": 47.3
+    },
+    {
+      "title": "[Mechanisms of exercise-induced improvement in drug addiction via the gut microbiota: a review].",
+      "url": "https://doi.org/10.3724/zdxbyxb-2025-0859",
+      "source": "PubMed — Zhejiang da xue xue bao. Yi xue ban = Journal of Zhejiang University. Medical sciences",
+      "one_liner": "Drug addiction is a complex chronic brain disorder that not only affects neurotransmitter systems and reward pathways but is also accompanied by multisystemic alterations throughout the body. In recent years, the gut microbiota has been found to have a bidirectional association with the central nervous system, and drug addiction has been closely linked to...",
+      "segment": 2,
+      "timestamp": 90.71
+    },
+    {
+      "title": "Novel insight into the effects of the metabolites from gut microbiota in both unmedicated depressive adolescents and mice: key roles of indole derivatives-aryl hydrocarbon receptor signaling in neurogenesis and microglial homeostasis.",
+      "url": "https://doi.org/10.1038/s41380-026-03895-8",
+      "source": "PubMed — Molecular psychiatry",
+      "one_liner": "Adolescent depression is undergoing a rapid surge and has become a severe global public health challenge. However, current therapeutic approaches are limited and often accompanied by significant side effects primarily due to the elusive underlying mechanisms. The gut-brain axis has recently gained growing attention for its pivotal roles in neuropsychiatri...",
+      "segment": 3,
+      "timestamp": 137.53
+    },
+    {
+      "title": "Mannatide modulates immune response and gut microbiota in cyclophosphamide-induced immunosuppressed BALB/c mice.",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2026.154435",
+      "source": "PubMed — International journal of biological macromolecules",
+      "one_liner": "Mannatide, a polysaccharide-based immunomodulator, has been widely used in China to enhance immune function, yet its mechanisms remain underexplored. This study investigated the immunoprotective effects of Mannatide in cyclophosphamide (CTX)-induced immunosuppressed mice, focusing on modulation of the gut microbiota and associated signalling pathways. Res...",
+      "segment": 4,
+      "timestamp": 257.98
+    },
+    {
+      "title": "Luteolin mitigates region-specific gut microbiota dysbiosis and microbial network remodeling during Mycoplasma gallisepticum infection.",
+      "url": "https://doi.org/10.1016/j.micpath.2026.108820",
+      "source": "PubMed — Microbial pathogenesis",
+      "one_liner": "Mycoplasma gallisepticum (MG), a major cause of chronic respiratory disease in chickens, is increasingly recognized to induce pathological changes beyond the respiratory tract. However, current knowledge of MG-associated gut dysbiosis is based largely on fecal samples and does not resolve microbial responses along the intestinal tract. In this study, we c...",
+      "segment": 5,
+      "timestamp": 304.66
+    },
+    {
+      "title": "Gut Microbiota in Kidney Transplantation: Mechanistic Insights and Implications for Precision Immunosuppression.",
+      "url": "https://doi.org/10.1016/j.ejphar.2026.179336",
+      "source": "PubMed — European journal of pharmacology",
+      "one_liner": "Kidney transplantation represents the optimal treatment for eligible patients with end-stage renal disease (ESRD), yet long-term graft survival remains threatened by rejection, infection, and immunosuppressant-related toxicity. Increasing evidence identifies the gut microbiome as an important modulator of these outcomes through the bidirectional gut-kidne...",
+      "segment": 6,
+      "timestamp": 347.88
+    },
+    {
+      "title": "Gut Microbiota Differences in Wild Asian Elephants From Pu'er, China.",
+      "url": "https://doi.org/10.1002/ece3.74333",
+      "source": "PubMed — Ecology and evolution",
+      "one_liner": "The gut microbiota of Asian elephants plays a critical role in their health and habitat adaptation. This study compared the gut microbiota of two wild Asian elephant populations in Jiangcheng (JC) and Liushun (LS), Yunnan, China. Significant differences in microbial structure, diversity, and function were found. Across samples, 24 phyla, 48 classes, 98 or...",
+      "segment": 7,
+      "timestamp": 392.95
+    },
+    {
+      "title": "Early gut microbiome metabolites and diversity predict GVHD-free survival after allogeneic hematopoietic cell transplantation.",
+      "url": "https://doi.org/10.1016/j.jtct.2026.09.012",
+      "source": "PubMed — Transplantation and cellular therapy",
+      "one_liner": "BACKGROUND: Disruption of the gut microbiome has been implicated in graft‑versus‑host disease (GVHD) and mortality after allogeneic hematopoietic cell transplantation (HCT). However, prior studies have focused on GVHD‑specific or mortality endpoints in isolation rather than integrated measures of transplant success. We evaluated whether early gut microbia...",
+      "segment": 8,
+      "timestamp": 442.67
+    },
+    {
+      "title": "Breaking the priority effects facilitates the assembly and colonization of microbiomes toward enhanced petroleum hydrocarbon biodegradation",
+      "url": "https://www.nature.com/articles/s41522-026-01151-z",
+      "source": "npj Biofilms and Microbiomes",
+      "one_liner": "npj Biofilms and Microbiomes, Published online: 11 September 2026; doi:10.1038/s41522-026-01151-z Breaking the priority effects facilitates the assembly and colonization of microbiomes toward enhanced petroleum hydrocarbon biodegradation",
+      "segment": 9,
+      "timestamp": 492.9
+    },
+    {
+      "title": "Gut microbiome and metabolite profiles are associated with subsequent histologic MASH in a longitudinal mouse model.",
+      "url": "https://doi.org/10.1128/msystems.00720-26",
+      "source": "PubMed — mSystems",
+      "one_liner": "UNLABELLED: Detecting metabolic dysfunction-associated steatohepatitis (MASH) before fibrosis develops remains a major challenge. We used a longitudinal streptozotocin/high-fat diet (STAM/HFD) mouse model to identify microbial and metabolic features that emerge before histological MASH onset. Integrative 16S rRNA and untargeted LC-MS/MS analyses revealed ...",
+      "segment": 10,
+      "timestamp": 625.26
+    },
+    {
+      "title": "The Heart-Microbiome Axis: Emerging Relevance in Pediatric Cardiology.",
+      "url": "https://doi.org/10.1007/s00246-026-04449-z",
+      "source": "PubMed — Pediatric cardiology",
+      "one_liner": "The gut microbiome has emerged as an important regulator of cardiovascular physiology through interconnected metabolic, immune, inflammatory, and endocrine pathways. Although the gut-heart axis has been extensively investigated in adult cardiovascular disease, its relevance in paediatric cardiology is only beginning to be recognised. The dynamic developme...",
+      "segment": 11,
+      "timestamp": 669.53
+    },
+    {
+      "title": "The Effect of Pancreatic Exocrine Insufficiency and Pancreatic Enzyme Replacement Therapy on Gut Microbiome Composition in Pancreatic Disease: A Prospective Cohort Study.",
+      "url": "https://doi.org/10.1097/MPA.0000000000002709",
+      "source": "PubMed — Pancreas",
+      "one_liner": "OBJECTIVES: Increasing evidence demonstrates that pancreatic exocrine insufficiency (PEI) is associated with harmful changes to the gut microbiome. The mainstay of PEI treatment is with pancreatic enzyme replacement therapy (PERT), which has been shown to lead to significant survival benefit in pancreatic disease. The aim of this study was to determine ho...",
+      "segment": 12,
+      "timestamp": 781.08
+    },
+    {
+      "title": "Translating gut microbiome research into therapies for type 1 diabetes.",
+      "url": "https://doi.org/10.1113/EP093273",
+      "source": "PubMed — Experimental physiology",
+      "one_liner": "Type 1 diabetes (T1D) is characterised by the loss of functional pancreatic β-cells, for which lifelong insulin therapy remains the standard of care. Given that the gut microbiome can influence host health and that shifts in gut microbial profiles have been observed in T1D, growing interest has emerged in the role of the gut microbiome in T1D, particularl...",
+      "segment": 13,
+      "timestamp": 899.13
+    },
+    {
+      "title": "The gut microbiome and colorectal cancer.",
+      "url": "https://doi.org/10.1128/cmr.00332-25",
+      "source": "PubMed — Clinical microbiology reviews",
+      "one_liner": "",
+      "segment": 14,
+      "timestamp": 945.69
+    },
+    {
+      "title": "Genetic variation in glucosamine metabolism contributes to the colonization resistance of Bacteroides to Salmonella.",
+      "url": "https://doi.org/10.1016/j.celrep.2026.117998",
+      "source": "PubMed — Cell reports",
+      "one_liner": "The gut microbiota contributes to variation in susceptibility to enteric infection, but the underlying mechanisms remain poorly defined. Here, we leverage a natural model of disease resistance comparing Salmonella-resistant indigenous Tibetan chickens with susceptible commercial broilers to uncover conserved mechanisms of colonization resistance relevant ...",
+      "segment": 15,
+      "timestamp": 996.18
+    },
+    {
+      "title": "A secreted protein from Hungatella hathewayi inhibits colorectal cancer by reprogramming intratumoral CD14b",
+      "url": "https://doi.org/10.1016/j.celrep.2026.117988",
+      "source": "PubMed — Cell reports",
+      "one_liner": "Gut microbiota has been widely implicated in colorectal cancer (CRC). Here, we show that H. hathewayi, a commensal bacterium previously associated with CRC, is protective against intestinal tumor growth, and gut dysbiosis in a spontaneous CRC model. H. hathewayi attenuated the growth of allografted colon carcinoma cells and suppressed CRC progression in Apc",
+      "segment": 16,
+      "timestamp": 1041.8
+    },
+    {
+      "title": "Probiotic supplementation increases fecal TLR4 agonists without improving disease activity in juvenile idiopathic arthritis: a randomized placebo-controlled trial.",
+      "url": "https://doi.org/10.1080/19490976.2026.2728351",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Gut dysbiosis has been implicated in the pathogenesis of juvenile idiopathic arthritis (JIA), suggesting that microbiota-targeted interventions may influence immune signalling during early immune development. We conducted the PERMAJI multicentre randomized, double-blind, placebo-controlled trial to evaluate the effects of probiotic supplementation (VSL#3)...",
+      "segment": 17,
+      "timestamp": 1083.84
+    },
+    {
+      "title": "Advances on Biosynthesis of Human Milk Oligosaccharides.",
+      "url": "https://doi.org/10.1007/10_2026_357",
+      "source": "PubMed — Advances in biochemical engineering/biotechnology",
+      "one_liner": "Human milk oligosaccharides (HMOs), the third most abundant solid component in human milk, exert pivotal biological functions like gut microbiota modulation and immune regulation. This review details HMOs' discovery, classification, content dynamics, and core biological roles and then summarizes three generations of synthesis technologies - chemical/enzym...",
+      "segment": 18,
+      "timestamp": 1130.42
+    },
+    {
+      "title": "Efficacy and safety of live combined Bacillus subtilis and Enterococcus faecium in patients with Helicobacter pylori infection: A meta-analysis of randomized controlled trials.",
+      "url": "https://doi.org/10.1016/j.clinsp.2026.101139",
+      "source": "PubMed — Clinics (Sao Paulo, Brazil)",
+      "one_liner": "OBJECTIVE: Live Combined Bacillus subtilis and Enterococcus faecium (LCBE) regulates gut microbiota and gastrointestinal inflammation. This meta-analysis aimed to compare the efficacy and safety of interventions with or without LCBE in patients with Helicobacter pylori (H. pylori) infection. METHODS: Web of Science, PubMed, Cochrane Library, China Nationa...",
+      "segment": 19,
+      "timestamp": 1252.65
+    },
+    {
+      "title": "Extension of host lifespan by polyamines derived from gut bacteria.",
+      "url": "https://doi.org/10.1128/mbio.01484-26",
+      "source": "PubMed — mBio",
+      "one_liner": "Metabolites produced by gut bacteria are taken up by the host and have a direct impact on its health. However, to our knowledge, no studies have investigated the effects of gut bacterial metabolites on the lifespan of the host using gnotobiotic animals colonized with gut bacteria deficient in biosynthetic genes involved in the production of specific metab...",
+      "segment": 20,
+      "timestamp": 1301.2
+    },
+    {
+      "title": "Why probiotics fail: gut niche tension as the missing variable?",
+      "url": "https://doi.org/10.1080/19490976.2026.2728333",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Probiotic and live biotherapeutic interventions frequently yield inconsistent clinical benefits despite strong mechanistic rationale and widespread use. We propose that this heterogeneity reflects the ecological state of the gut at the time of dosing, in which an introduced strain must invade an already occupied ecosystem shaped by host physicochemical fi...",
+      "segment": 21,
+      "timestamp": 1344.59
+    },
+    {
+      "title": "Microbial and inflammatory features linked to distal sensory polyneuropathy in people with HIV.",
+      "url": "https://doi.org/10.1016/j.bbi.2026.107003",
+      "source": "PubMed — Brain, behavior, and immunity",
+      "one_liner": "Persistent immune activation and gut dysbiosis have been implicated in HIV-related comorbidities, but their contribution to distal sensory polyneuropathy (DSP) remains unclear. We examined relationships among systemic inflammatory markers, gut microbiome composition, and DSP in a cross-sectional cohort of 61 people with HIV (PWH) with DSP, 93 PWH without ...",
+      "segment": 22,
+      "timestamp": 1390.95
+    },
+    {
+      "title": "Eating to heal: dietary interventions as emerging immune-based therapeutic strategies.",
+      "url": "https://doi.org/10.1016/j.it.2026.08.011",
+      "source": "PubMed — Trends in immunology",
+      "one_liner": "Clinical immunology is increasingly recognizing diet not merely as baseline metabolic sustenance but as a tunable pharmacological tool. By targeting conserved nutrient-sensing networks and the microbiome, defined nutritional protocols-such as fasting mimetics and specific macronutrient titrations-can actively rewire immune responses. In this review, we ex...",
+      "segment": 23,
+      "timestamp": 1444.18
+    },
+    {
+      "title": "Probiotic Spore Inspired Oral Drug Delivery System With Multiple-Barriers-Crossing Ability Modulates Gut-Brain Axis for Parkinson's Disease Therapy.",
+      "url": "https://doi.org/10.1002/exp2.70221",
+      "source": "PubMed — Exploration (Beijing, China)",
+      "one_liner": "For Parkinson's disease (PD), the development of oral brain-targeted drug delivery is challenging due to various physiological barriers. Besides the brain, the effect of the gut on the microbiome-gut-brain axis should not be ignored. Therefore, developing a gut-brain dual-targeted delivery system with multiple-barriers-crossing ability is meaningful. Duri...",
+      "segment": 24,
+      "timestamp": 1486.85
+    },
+    {
+      "title": "STRATUM-Structured Framework for Reporting, Assessment, and Translational Utility of Metagenomics.",
+      "url": "https://doi.org/10.1093/jaoacint/qsag085",
+      "source": "PubMed — Journal of AOAC International",
+      "one_liner": "BACKGROUND: Metagenomic next-generation sequencing (mNGS) enables broad, untargeted detection of pathogens and microbial signals across complex sample types. However, the diversity of operational contexts, from regulatory enforcement to exploratory discovery, challenges the defining of analytical or interpretive standards appropriate across all applicatio...",
+      "segment": 25,
+      "timestamp": 1529.47
+    }
+  ]
+}
