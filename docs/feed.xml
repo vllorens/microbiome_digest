@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Sep 2026 07:51:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 07:47:31 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-09-12</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-12/podcast_2026-09-12.mp3</guid>
+      <pubDate>Sat, 12 Sep 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-12/podcast_2026-09-12.mp3" length="16423100" type="audio/mpeg" />
+      <description>The study examines how gut‑derived tryptophan metabolites — specifically indole‑3‑propionic acid (IPA) and kynurenine — relate to metabolic health in periparturient dairy cows. | To address this, the researchers sampled rumen and ileal contents from periparturient dairy cows — though the available text does not provide details on the number of animals, sampling time points, or exact anatomical locations beyond “rumen and ileal ca…”. | The reported outcome is an association: higher rumen and ileal concentrations of IPA and kynurenine correlate with improved metabolic adaptation in the cows during the transition period.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>The study examines how gut‑derived tryptophan metabolites — specifically indole‑3‑propionic acid (IPA) and kynurenine — relate to metabolic health in periparturient dairy cows. | To address this, the researchers sampled rumen and ileal contents from periparturient dairy cows — though the available text does not provide details on the number of animals, sampling time points, or exact anatomical locations beyond “rumen and ileal ca…”. | The reported outcome is an association: higher rumen and ileal concentrations of IPA and kynurenine correlate with improved metabolic adaptation in the cows during the transition period.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-09-11</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-11/podcast_2026-09-11.mp3</guid>
       <pubDate>Fri, 11 Sep 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-11/podcast_2026-09-11.mp3" length="11859332" type="audio/mpeg" />
-      <description>Herbal Baijiu and traditional Baijiu release distinct metabolite profiles during simulated gastrointestinal digestion, leading to different effects on gut microbiota growth, according to an in vitro study that compared the two spirits’ chemical matrices and microbial impacts. | Enlarged facial pores in young Chinese women are linked to weakened skin barrier function and an altered facial microbiome, according to a study published in the International Journal of Cosmetic Science via PubMed. | Exercise can aid recovery from drug addiction by reshaping the gut microbiota, according to a review in the Journal of Zhejiang University Medical Sciences.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-11/podcast_2026-09-11.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Herbal Baijiu and traditional Baijiu release distinct metabolite profiles during simulated gastrointestinal digestion, leading to different effects on gut microbiota growth, according to an in vitro study that compared the two spirits’ chemical matrices and microbial impacts. | Enlarged facial pores in young Chinese women are linked to weakened skin barrier function and an altered facial microbiome, according to a study published in the International Journal of Cosmetic Science via PubMed. | Exercise can aid recovery from drug addiction by reshaping the gut microbiota, according to a review in the Journal of Zhejiang University Medical Sciences.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-21/podcast_2026-06-21.mp3</guid>
       <pubDate>Sun, 21 Jun 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-21/podcast_2026-06-21.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-06-19</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-19/podcast_2026-06-19.mp3</guid>
-      <pubDate>Fri, 19 Jun 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-19/podcast_2026-06-19.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>

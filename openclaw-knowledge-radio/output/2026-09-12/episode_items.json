@@ -1,0 +1,285 @@
+{
+  "timestamps": [
+    0.0,
+    143.01,
+    183.14,
+    330.85,
+    438.15,
+    546.29,
+    588.79,
+    727.1,
+    770.01,
+    811.88,
+    867.25,
+    908.76,
+    955.85,
+    996.21,
+    1042.34,
+    1162.55,
+    1211.6,
+    1254.03,
+    1359.89,
+    1450.32,
+    1501.67,
+    1554.06,
+    1602.56,
+    1647.03,
+    1692.48,
+    1748.85,
+    1814.87,
+    1921.38,
+    2045.86,
+    2093.26,
+    2132.16
+  ],
+  "items": [
+    {
+      "title": "Gut microbiota-driven indole-3-propionic acid and kynurenine production is associated with improved metabolic adaptation in periparturient dairy cows.",
+      "url": "https://doi.org/10.1186/s40104-026-01497-6",
+      "source": "PubMed — Journal of animal science and biotechnology",
+      "one_liner": "BACKGROUND: Gastrointestinal microbes convert tryptophan into various bioactive metabolites that influence host energy metabolism; however, these mechanisms are not well understood in periparturient dairy cows, which experience marked metabolic challenges during this period. RESULTS: In this study, we used periparturient dairy cows with rumen and ileal ca...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Perturbation-Aware Neural ODE (pNODE) Learns Microbiome Dynamics from Clinical Data and Predicts Gut-Borne Bloodstream Infections in Patients Receiving Cancer Treatment",
+      "url": "https://www.biorxiv.org/content/10.1101/2025.11.26.690798",
+      "source": "bioRxiv — bioinformatics",
+      "one_liner": "Disruption of the gut microbiota during cancer treatment, particularly in allogeneic hematopoietic cell transplantation (allo-HCT), contributes to adverse clinical outcomes, including gut-borne bloodstream infections. Accurately forecasting microbial population dynamics under clinical perturbations, such as antibiotic administration, could inform treatmen...",
+      "segment": 1,
+      "timestamp": 143.01
+    },
+    {
+      "title": "Linking visceral fat accumulation to gut microbiota: key bacterial taxa and their roles in the glycogen synthesis pathway.",
+      "url": "https://doi.org/10.1038/s12276-026-01828-7",
+      "source": "PubMed — Experimental & molecular medicine",
+      "one_liner": "Obesity, marked by visceral fat accumulation, has a complex relationship with the gut microbiome that impacts body weight and fat accumulation. However, previous studies did not account for fat distribution, reflecting only overall fat mass, leaving specifics of this relationship partially understood. Here we analyzed the mechanistic links between viscera...",
+      "segment": 2,
+      "timestamp": 183.14
+    },
+    {
+      "title": "Gut microbiota-immune-metabolic crosstalk in acute lung injury: integrating the gut-lung axis from mechanism to therapeutic targeting.",
+      "url": "https://doi.org/10.1007/s00281-026-01081-0",
+      "source": "PubMed — Seminars in immunopathology",
+      "one_liner": "The gut is increasingly recognized as a central immunological organ that orchestrates host immune responses and modulates distant mucosal sites, particularly the respiratory tract. In critical illness, disruption of intestinal barrier integrity and microbial homeostasis facilitates the translocation of bacteria, endotoxins, and metabolites into the system...",
+      "segment": 3,
+      "timestamp": 330.85
+    },
+    {
+      "title": "Metagenomic analysis of the midgut microbiome in Dermacentor abaensis ticks at different feeding states.",
+      "url": "https://doi.org/10.1007/s10493-026-01193-0",
+      "source": "PubMed — Experimental & applied acarology",
+      "one_liner": "Ticks are blood-sucking ectoparasites of humans and animals, ranking second only to mosquitoes as vectors of diseases. Dermacentor abaensis is distributed in Sichuan, Qinghai, and Gansu, China. Because D. abaensis harbors several pathogens, it poses a threat to public health and livestock production. However, the midgut microbiota of D. abaensis at distin...",
+      "segment": 4,
+      "timestamp": 438.15
+    },
+    {
+      "title": "Microbiome Crosstalk Across Oral, Gut, and Breast Niches: Implications for Breast Cancer Diagnosis, Prevention, and Therapy.",
+      "url": "https://doi.org/10.1016/j.trsl.2026.09.007",
+      "source": "PubMed — Translational research : the journal of laboratory and clinical medicine",
+      "one_liner": "Breast cancer is a leading cause of morbidity and mortality in women worldwide. Breast tissue, oral and gut microbiota, are actively involved in regulating tumor onset, progression, and treatment response. Multiple factors, including ethnicity, sex, disease subtype, and stage, influence their signatures. The oral-gut-breast microbiome tripartite axis infl...",
+      "segment": 5,
+      "timestamp": 546.29
+    },
+    {
+      "title": "The Role of the Gut Microbiome in the Relationship Between the Mediterranean Diet and Cardiovascular Disease Risk.",
+      "url": "https://doi.org/10.1007/s11883-026-01463-7",
+      "source": "PubMed — Current atherosclerosis reports",
+      "one_liner": "PURPOSE OF REVIEW: This review critically summarizes evidence linking the Mediterranean diet, gut microbiome, microbial metabolites, and cardiovascular disease risk, with emphasis on the shift from microbial taxonomy to functional pathways, multiomic integration, and translation to precision nutrition. RECENT FINDINGS: Mediterranean diet adherence is asso...",
+      "segment": 6,
+      "timestamp": 588.79
+    },
+    {
+      "title": "Effects of ResB supplementation on gut microbiome composition in elderly pneumonia: a randomized pilot trial.",
+      "url": "https://doi.org/10.1038/s41430-026-01822-2",
+      "source": "PubMed — European journal of clinical nutrition",
+      "one_liner": "RATIONALE: Pneumonia remains a leading cause of morbidity and mortality in older adults, often exacerbated by immune dysregulation and prolonged hospitalization. The gut-lung axis is increasingly recognized as a modulator of respiratory immunity, yet the therapeutic potential of targeted probiotic interventions in elderly pneumonia patients remains undere...",
+      "segment": 7,
+      "timestamp": 727.1
+    },
+    {
+      "title": "The effect of a tailored dietary intervention on serum biomarkers and faecal microbiome composition in people with HIV at risk of cardiovascular disease.",
+      "url": "https://doi.org/10.1111/hiv.70291",
+      "source": "PubMed — HIV medicine",
+      "one_liner": "BACKGROUND: People with HIV (PWH) are at higher risk of cardiovascular disease (CVD) despite spontaneous or antiretroviral therapy-induced long-lasting suppressed viremia. Traditional and HIV-specific factors have been identified, but CVD incidence and mortality remain high. A microbiome is a community of germs living close to their human host, and bacter...",
+      "segment": 8,
+      "timestamp": 770.01
+    },
+    {
+      "title": "Gut Microbiome-Targeted Preventive Strategies for Polyendocrine Metabolic Ovarian Syndrome: Insights From the Prenatal and Early-Life Environment.",
+      "url": "https://doi.org/10.1002/rmb2.70097",
+      "source": "PubMed — Reproductive medicine and biology",
+      "one_liner": "BACKGROUND: Polyendocrine metabolic ovarian syndrome (PMOS), the proposed new name for polycystic ovary syndrome (PCOS), is a complex endocrine and metabolic disorder influenced by genetic and environmental factors. Despite its high prevalence and familial aggregation, no effective preventive strategy is available. Prenatal androgen exposure is considered...",
+      "segment": 9,
+      "timestamp": 811.88
+    },
+    {
+      "title": "SPFuseRanker: A Multi-Importance Score Fusion Framework for Core Microbiome Identification in Metagenomic Data.",
+      "url": "https://doi.org/10.1109/TCBBIO.2026.3733474",
+      "source": "PubMed — IEEE transactions on computational biology and bioinformatics",
+      "one_liner": "Clinical metagenomic data are typically high-dimensional, sparse, and zero-inflated, and are often characterized by limited sample sizes and measurement noise. In addition, different feature-importance methods may produce inconsistent taxon rankings, which limits the stability of single-method feature selection and complicates the identification of candid...",
+      "segment": 10,
+      "timestamp": 867.25
+    },
+    {
+      "title": "EXPRESS: Rapamycin increases cerebral blood flow and modulates metabolic, inflammatory, and microbiome profiles in healthy middle-aged APOE4 carriers: a pilot single-arm trial.",
+      "url": "https://doi.org/10.1177/0271678X261490342",
+      "source": "PubMed — Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism",
+      "one_liner": "Carriers of the apolipoprotein E4 (APOE4) allele often develop cerebrovascular dysfunction and broader systemic alterations decades before the onset of Alzheimer's disease (AD) pathology or clinical symptoms. Early interventions that can improve these functions may help delay or slow AD progression. In this study, we repurposed rapamycin (sirolimus), an F...",
+      "segment": 11,
+      "timestamp": 908.76
+    },
+    {
+      "title": "Reciprocal transport of carbon and nitrogen between plants and the hyphosphere microbiome in a temperate grassland.",
+      "url": "https://doi.org/10.1111/nph.71576",
+      "source": "PubMed — The New phytologist",
+      "one_liner": "Despite its relevance for plant nutrient acquisition, the role of the hyphosphere in structuring fungal-bacterial networks and mediating carbon-nitrogen (C-N) exchange under field conditions remains unclear. We therefore examined reciprocal C-N fluxes along the plant-fungi-bacteria continuum and their link to microbial community assembly across grassland ...",
+      "segment": 12,
+      "timestamp": 955.85
+    },
+    {
+      "title": "VISTA: a classifier for metagenomic subspecies and community state typing of the vaginal microbiome.",
+      "url": "https://doi.org/10.1128/mra.00612-26",
+      "source": "PubMed — Microbiology resource announcements",
+      "one_liner": "Metagenomic community state types (mgCSTs) capture within-species genetic and functional diversity and community structure of the vaginal microbiome, enabling precise links between microbiome composition, function, and health-related risk. VISTA, the",
+      "segment": 13,
+      "timestamp": 996.21
+    },
+    {
+      "title": "Virobiome-mediated regulation of microbiota-gut-brain axis signaling and neuroimmune homeostasis.",
+      "url": "https://doi.org/10.1186/s12964-026-03067-9",
+      "source": "PubMed — Cell communication and signaling : CCS",
+      "one_liner": "The human gut-brain axis (GBA) is increasingly recognized as a complex bidirectional communication system integrating microbial, neural, endocrine, and immune networks that shape neurological health. While bacterial contributions to this dialogue have been extensively characterized, the viral component of the gut ecosystem, the virome, has emerged as an i...",
+      "segment": 14,
+      "timestamp": 1042.34
+    },
+    {
+      "title": "Hypouricemic effect and mechanism of chitooligosaccharide-ionic water in hyperuricemic mice.",
+      "url": "https://doi.org/10.1002/jsfa.71069",
+      "source": "PubMed — Journal of the science of food and agriculture",
+      "one_liner": "BACKGROUND: Hyperuricemia is a prevalent metabolic disorder associated with excessive uric acid (UA) accumulation, oxidative stress, renal dysfunction and gut microbiota dysbiosis. Chitooligosaccharide (COS) possesses antioxidant and microbiota-regulating properties; however, the potential of mineral ion-enriched COS formulations against hyperuricemia rem...",
+      "segment": 15,
+      "timestamp": 1162.55
+    },
+    {
+      "title": "A defined microbial community remodels host metabolism and pathogen resistance in Caenorhabditis elegans",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.09.06.749774",
+      "source": "bioRxiv — physiology",
+      "one_liner": "The microbiome is an important regulator of metabolism and health, yet the mechanisms by which microbial communities influence host physiological state remain incompletely understood. Here we used a defined host-microbiota model consisting of Caenorhabditis elegans and an 11-member bacterial consortium representative of its natural microbiota (DefNatMta)....",
+      "segment": 16,
+      "timestamp": 1211.6
+    },
+    {
+      "title": "Gut microecology and cardiovascular disease: core pathogenic mechanisms and clinical intervention strategies.",
+      "url": "https://doi.org/10.1007/s12223-026-01583-2",
+      "source": "PubMed — Folia microbiologica",
+      "one_liner": "Cardiovascular diseases (CVDs) remain a leading cause of morbidity and mortality worldwide, and their burden continues to rise. The gut microbiota is a key interface linking host metabolism, environmental exposures, and immunity, and accumulating evidence implicates gut dysbiosis in the pathogenesis, progression, and clinical outcomes of CVDs. Dysbiosis m...",
+      "segment": 17,
+      "timestamp": 1254.03
+    },
+    {
+      "title": "Research advances in the microbiota‑gut‑brain axis and Parkinson's disease (Review).",
+      "url": "https://doi.org/10.3892/mmr.2026.14016",
+      "source": "PubMed — Molecular medicine reports",
+      "one_liner": "Parkinson's disease (PD) is a common neurodegenerative disease with diverse pathogenic mechanisms. The microbiota‑gut‑brain axis is closely related to the development of PD, in which non‑motor symptoms are considered to be the early manifestation and exacerbation of the disease. Nevertheless, reliable diagnostic criteria or biomarkers for PD have not been...",
+      "segment": 18,
+      "timestamp": 1359.89
+    },
+    {
+      "title": "Metataxonomic and metatranscriptomic analysis reveal microbial succession and metabolic functions activated during spontaneous and inoculated fermentation.",
+      "url": "https://doi.org/10.1016/j.ijfoodmicro.2026.112062",
+      "source": "PubMed — International journal of food microbiology",
+      "one_liner": "The use of commercial Saccharomyces cerevisiae strains is a well-established practice in winemaking, ensuring fermentation reliability. Recently, there has been growing interest in spontaneous fermentations to enhance wine regional typicity. Despite this, our understanding of how different fermentation strategies shape microbial community and metabolic fu...",
+      "segment": 19,
+      "timestamp": 1450.32
+    },
+    {
+      "title": "Microbiota-derived indole metabolites from",
+      "url": "https://doi.org/10.1039/d6fo03116a",
+      "source": "PubMed — Food & function",
+      "one_liner": "Dietary polysaccharides can be transformed by gut microbiota into bioactive metabolites, yet the chemical identity and mechanisms of such products remain poorly defined. Here, we characterized the microbial fermentation products of",
+      "segment": 20,
+      "timestamp": 1501.67
+    },
+    {
+      "title": "Metax enables accurate cross-domain taxonomic profiling of metagenomes.",
+      "url": "https://doi.org/10.1016/j.cell.2026.08.024",
+      "source": "PubMed — Cell",
+      "one_liner": "Taxonomic profiling is fundamental to microbiome research, yet achieving high species-level accuracy remains challenging for complex communities that span bacteria, viruses, eukaryotes, and archaea, and these limitations are exacerbated in low-biomass, host-dominated samples. We introduce Metax, a cross-domain taxonomic profiler that integrates coverage-b...",
+      "segment": 21,
+      "timestamp": 1554.06
+    },
+    {
+      "title": "Adhesion-Enhanced Engineered Probiotic for Prolonged Intestinal Retention and Calprotectin-Responsive IBD Therapy.",
+      "url": "https://doi.org/10.1002/advs.77743",
+      "source": "PubMed — Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "one_liner": "The clinical translation of engineered probiotics for inflammatory bowel disease (IBD) is hindered by limited intestinal retention and insufficient inflammation-responsive precision. This study utilizes a surface display strategy to construct an adhesion-enhanced Escherichia coli Nissle 1917 chassis. By presenting a truncated SpaC adhesin derived from Lac...",
+      "segment": 22,
+      "timestamp": 1602.56
+    },
+    {
+      "title": "Landscape of retron diversity across the SPIRE microbial metagenome resource reveals candidate novel type XI-like lineages.",
+      "url": "https://doi.org/10.1128/msystems.00732-26",
+      "source": "PubMed — mSystems",
+      "one_liner": "Retrons are bacterial genetic elements encoding a specialized reverse transcriptase (RT) that synthesizes multicopy single-stranded DNA and are increasingly recognized as components of bacterial anti-phage defense systems. However, their diversity and ecological distribution across large-scale genomic resources remain poorly characterized. Here, we survey...",
+      "segment": 23,
+      "timestamp": 1647.03
+    },
+    {
+      "title": "Safety Assessment on Probiotic Mixture \"Prohep\" and Longitudinal Evaluation on its Gut Microbial Modulation Ability in Mice.",
+      "url": "https://doi.org/10.1007/s12602-026-11209-1",
+      "source": "PubMed — Probiotics and antimicrobial proteins",
+      "one_liner": "The probiotic mixture Prohep has been studied as a potential therapy for liver diseases such as MASLD, MASH, and HCC. To evaluate its safety, we conducted an experiment on CD-1 mice to assess its acute, subacute, and subchronic oral toxicity. The results showed that Prohep intake did not cause any morbidity or mortality, nor did it produce adverse changes...",
+      "segment": 24,
+      "timestamp": 1692.48
+    },
+    {
+      "title": "Parasites and allergies: a complex bidirectional relationship from evolutionary origins to modern therapeutics.",
+      "url": "https://doi.org/10.1007/s10482-026-02425-4",
+      "source": "PubMed — Antonie van Leeuwenhoek",
+      "one_liner": "Parasites and allergic diseases are linked by a complex, bidirectional relationship shaped by long-term host-parasite coevolution. This review discusses how different parasites may either promote or attenuate allergic responses through immunological, epithelial, and microbiome-mediated mechanisms. IgE-mediated immunity, mast cell activation, eosinophilia,...",
+      "segment": 25,
+      "timestamp": 1748.85
+    },
+    {
+      "title": "Gram-Positive and Gram-Negative Probiotic Extracellular Vesicles: Mechanisms of Immune Modulation and Therapeutic Opportunities in Atopic Dermatitis.",
+      "url": "https://doi.org/10.1007/s12016-026-09201-2",
+      "source": "PubMed — Clinical reviews in allergy & immunology",
+      "one_liner": "Atopic dermatitis (AD) is a prevalent chronic inflammatory skin disease characterized by epidermal barrier dysfunction, type 2 immune skewing, and microbiome dysbiosis. Although live probiotics can modulate the gut-skin axis, their clinical use is limited by variable efficacy and safety concerns. Probiotic extracellular vesicles (PEVs) have emerged as cel...",
+      "segment": 26,
+      "timestamp": 1814.87
+    },
+    {
+      "title": "Advancing the Deciphering of Host-Microbe Crosstalk with Spatial Omics: A Mini-Review.",
+      "url": "https://doi.org/10.1007/s00284-026-05149-w",
+      "source": "PubMed — Current microbiology",
+      "one_liner": "Host-microbe crosstalk refers to the reciprocal influences between a host and its resident or invading microorganisms. This crosstalk plays important roles in maintaining host health, regulating physiological functions, and coordinating responses to infection. The rapid rise of spatial omics is transforming how this crosstalk is studied in both animals an...",
+      "segment": 27,
+      "timestamp": 1921.38
+    },
+    {
+      "title": "Human Milk Oligosaccharides Modulate Nitrogen Utilization in Lactobacillus crispatus in a Glucose-Dependent Manner.",
+      "url": "https://doi.org/10.1021/acsinfecdis.6c00250",
+      "source": "PubMed — ACS infectious diseases",
+      "one_liner": "The vaginal microbiome's transition to a dysbiotic state increases susceptibility to pathogens like group B Streptococcus. While human milk oligosaccharides are established prebiotics in the neonatal gut, their impact on the vaginal niche remains largely unexplored. This study investigated the effects of pooled human milk oligosaccharides on the growth an...",
+      "segment": 28,
+      "timestamp": 2045.86
+    },
+    {
+      "title": "Effects of",
+      "url": "https://doi.org/10.1177/1096620X261486094",
+      "source": "PubMed — Journal of medicinal food",
+      "one_liner": "Age-associated reductions in muscle strength and physical function have become an important public health concern among older adults, and gut microbiome-targeted interventions have emerged as a potential strategy to mitigate these declines. We evaluated the effects of",
+      "segment": 29,
+      "timestamp": 2093.26
+    },
+    {
+      "title": "A Mobile Glycosylation Locus Modulates Cell Wall Architecture in Lactobacillus crispatus.",
+      "url": "https://doi.org/10.1111/mmi.70112",
+      "source": "PubMed — Molecular microbiology",
+      "one_liner": "Lactobacillus crispatus dominance in the vaginal microbiome is associated with beneficial health outcomes, yet strain-level variation and its implications remain poorly understood. Here, we resolve the genomic context of three glycosyltransferase gene fragments (GT1-3) previously linked with dysbiotic states. Long-read resequencing revealed that GT1-3 are...",
+      "segment": 30,
+      "timestamp": 2132.16
+    }
+  ]
+}
