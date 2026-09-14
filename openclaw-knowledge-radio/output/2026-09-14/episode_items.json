@@ -1,0 +1,114 @@
+{
+  "timestamps": [
+    0.0,
+    45.79,
+    69.57,
+    118.81,
+    166.98,
+    211.06,
+    345.91,
+    478.15,
+    525.28,
+    570.23,
+    617.48,
+    663.53
+  ],
+  "items": [
+    {
+      "title": "Akkermansia muciniphila alleviates osteoporosis by suppressing bone marrow adiposity through the gut microbiota-UDCA-TGR5 axis.",
+      "url": "https://doi.org/10.1016/j.lfs.2026.124676",
+      "source": "PubMed — Life sciences",
+      "one_liner": "Osteoporosis (OP) is characterized not only by progressive bone loss but also frequently by pathological bone marrow adiposity (BMA) expansion. Akkermansia muciniphila (AKK), implicated in lipid metabolic homeostasis, was previously found to be markedly depleted during estrogen deficiency-associated bone loss. However, whether AKK suppresses pathological ...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Mangiferin monosodium salt attenuates metabolic and alcohol-associated liver disease via a novel insight into cuproptosis and improving gut microbiota.",
+      "url": "https://doi.org/10.1016/j.taap.2026.118035",
+      "source": "PubMed — Toxicology and applied pharmacology",
+      "one_liner": "Alcoholic liver disease (ALD) is a major global health burden. Cuproptosis, a form of regulated cell death, plays a critical role in multiple liver diseases, yet its role and mechanisms in ALD remain largely unknown. This study explored the preventive and therapeutic roles of mangiferin monosodium salt (MG-Na) against ALD and the associated gut-liver axis...",
+      "segment": 1,
+      "timestamp": 45.79
+    },
+    {
+      "title": "Gut microbiota mediates repeated sevoflurane-induced cognitive impairment via the gut-brain axis.",
+      "url": "https://doi.org/10.1016/j.bbr.2026.116278",
+      "source": "PubMed — Behavioural brain research",
+      "one_liner": "OBJECTIVE: This study investigated whether repeated Sev exposure induces cognitive impairment in developing rats and examined the involvement of gut-derived inflammatory mediators. METHODS: Thirty postnatal Sprague-Dawley rats were randomly assigned to five groups: control, sevoflurane (Sev), sevoflurane control (Sev-Con), antibiotic-treated (ANT), and se...",
+      "segment": 2,
+      "timestamp": 69.57
+    },
+    {
+      "title": "Microbiome-gut-brain axis modulation for the management of Parkinson's disease: Emerging mechanisms and translational insights.",
+      "url": "https://doi.org/10.1016/j.jneuroim.2026.579099",
+      "source": "PubMed — Journal of neuroimmunology",
+      "one_liner": "Parkinson's disease (PD) is a progressive neurodegenerative disease that is associated with the loss of dopaminergic neurons and the formation of α-synuclein aggregates in the brain. Changes in the gut microbiota have been closely associated with PD pathophysiology and may contribute to disease-related processes through neuroinflammatory, metabolic, and i...",
+      "segment": 3,
+      "timestamp": 118.81
+    },
+    {
+      "title": "Causal Effects of Gut Microbiota on Morning Chronotype, Insomnia and Sleep Duration: A Two-Sample Mendelian Randomization Study.",
+      "url": "https://doi.org/10.1177/11795735261488260",
+      "source": "PubMed — Journal of central nervous system disease",
+      "one_liner": "BACKGROUND: The gut microbiota has been shown to be closely associated with brain function; however, whether it exerts a causal influence on sleep traits remains to be further explored. Mendelian randomization (MR) is an emerging epidemiological approach that uses whole-genome sequencing data to infer causal relationships. In this study, we conducted a tw...",
+      "segment": 4,
+      "timestamp": 166.98
+    },
+    {
+      "title": "Assessing the potential of biologically-activated carbon treatment, pasteurization, and particle filtration as pre/pro-biotic controls on premise plumbing microbiomes",
+      "url": "https://www.nature.com/articles/s41522-026-01116-2",
+      "source": "npj Biofilms and Microbiomes",
+      "one_liner": "npj Biofilms and Microbiomes, Published online: 14 September 2026; doi:10.1038/s41522-026-01116-2 Assessing the potential of biologically-activated carbon treatment, pasteurization, and particle filtration as pre/pro-biotic controls on premise plumbing microbiomes",
+      "segment": 5,
+      "timestamp": 211.06
+    },
+    {
+      "title": "Inferred functional microbiome features are associated with clinical trajectories of low-grade cervical lesions.",
+      "url": "https://doi.org/10.1186/s12866-026-05648-7",
+      "source": "PubMed — BMC microbiology",
+      "one_liner": "BACKGROUND: The cervicovaginal microbiome has been associated with human papillomavirus (HPV)-related cervical disease, but its role in determining the clinical trajectory of low-grade squamous intraepithelial lesions (LSIL) remains unclear. We investigated whether microbial taxonomic, ecological, and inferred functional features could distinguish LSIL re...",
+      "segment": 6,
+      "timestamp": 345.91
+    },
+    {
+      "title": "Bombyx mori silk fibroin alleviates alcohol-induced liver injury via modulation of the gut-liver axis.",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2026.154496",
+      "source": "PubMed — International journal of biological macromolecules",
+      "one_liner": "Alcohol-induced liver disease (ALD) remains a major global health burden with limited therapeutic options. Modulating the gut microbiota has emerged as a promising strategy for ameliorating ALD. Bombyx mori silk fibroin (SF), an animal-derived protein with demonstrated gut microbiota-modulating properties, has shown potential in metabolic disease models, ...",
+      "segment": 7,
+      "timestamp": 478.15
+    },
+    {
+      "title": "Microbial Signals in Cancer: Dissecting Host-Microbiota-Tumor Interactions and Potential Therapeutic Strategy.",
+      "url": "https://doi.org/10.1002/mco2.70994",
+      "source": "PubMed — MedComm",
+      "one_liner": "Cancers develop within a host ecosystem in which kinds of factors such as gut and tumor-resident microbiota influence the tumor microenvironment (TME) and therapeutic response. High-throughput sequencing has revealed the presence of low-biomass bacteria, fungi, and viruses across diverse malignancies, establishing the intratumoral microbiota as a fundamen...",
+      "segment": 8,
+      "timestamp": 525.28
+    },
+    {
+      "title": "Successful Live Birth Following Treatment of Persistent Endometrial Dysbiosis and Recurrent Chronic Endometritis: A Case Report.",
+      "url": "https://doi.org/10.1002/rmb2.70098",
+      "source": "PubMed — Reproductive medicine and biology",
+      "one_liner": "CASE: To study the cause of recurrent endometritis, which recurred after standard antibiotic therapy, we report the case of a 40-year-old woman with a history of recurrent pregnancy, preterm birth, and CE. The endometritis recurred following a standard antibiotic regimen. OUTCOME: Microbiome analysis via 16S rRNA gene sequencing revealed persistent dysbio...",
+      "segment": 9,
+      "timestamp": 570.23
+    },
+    {
+      "title": "Herbal Extracts and Plant-Derived Bioactives in Atopic Dermatitis: Evidence, Mechanisms, Pediatric Safety, and Translational Priorities.",
+      "url": "https://doi.org/10.1002/fsn3.72239",
+      "source": "PubMed — Food science & nutrition",
+      "one_liner": "Atopic dermatitis (AD) is a chronic, relapsing epithelial and neuroimmune disease in which barrier failure, type 2 inflammation, microbial dysbiosis, itching, metabolism, and environmental exposures reinforce one another. This review critically synthesizes clinical and preclinical evidence for herbal medicines, standardized extracts, food-derived bioactiv...",
+      "segment": 10,
+      "timestamp": 617.48
+    },
+    {
+      "title": "Striatal 6-hydroxydopamine lesion in rats induces dysregulation of the gut barrier.",
+      "url": "https://doi.org/10.1016/j.expneurol.2026.116024",
+      "source": "PubMed — Experimental neurology",
+      "one_liner": "Gastrointestinal (GI) dysfunction is a well-recognized prodromal feature of Parkinson's disease (PD), yet the mechanisms linking central dopaminergic (DA) neurodegeneration to gut pathology remain unclear. Previous studies have reported intestinal permeability and microbiome changes in toxin-based PD models, but the specific contribution of nigrostriatal ...",
+      "segment": 11,
+      "timestamp": 663.53
+    }
+  ]
+}

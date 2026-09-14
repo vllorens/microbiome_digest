@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Sep 2026 08:02:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 08:37:07 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-09-14</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-14/podcast_2026-09-14.mp3</guid>
+      <pubDate>Mon, 14 Sep 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-14/podcast_2026-09-14.mp3" length="5291444" type="audio/mpeg" />
+      <description>Akkermansia muciniphila can ease osteoporosis by curbing pathological bone‑marrow fat buildup through a gut‑microbiota‑UDCA‑TGR5 signaling route. | Mangiferin monosodium salt (MG‑Na) reduces both metabolic and alcohol‑associated liver disease by targeting cuproptosis and reshaping the gut microbiota, according to a new study published in PubMed‑indexed Toxicology and Applied Pharmacology. | Repeated sevoflurane exposure in developing rats causes cognitive impairment that is mediated by gut‑derived inflammatory signals, according to a study in Behavioural Brain Research accessed via PubMed.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Akkermansia muciniphila can ease osteoporosis by curbing pathological bone‑marrow fat buildup through a gut‑microbiota‑UDCA‑TGR5 signaling route. | Mangiferin monosodium salt (MG‑Na) reduces both metabolic and alcohol‑associated liver disease by targeting cuproptosis and reshaping the gut microbiota, according to a new study published in PubMed‑indexed Toxicology and Applied Pharmacology. | Repeated sevoflurane exposure in developing rats causes cognitive impairment that is mediated by gut‑derived inflammatory signals, according to a study in Behavioural Brain Research accessed via PubMed.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-09-13</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-13/podcast_2026-09-13.mp3</guid>
       <pubDate>Sun, 13 Sep 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-13/podcast_2026-09-13.mp3" length="10949084" type="audio/mpeg" />
-      <description>The study examines how phenylalanine supplementation influences three key aspects of pork quality in finishing pigs: the fatty acid composition of the meat, the structure of the gut microbiota, and the profile of volatile organic compounds that contribute to aroma and flavor. | The article, published in the Journal of Animal Science and Biotechnology, frames phenylalanine as an essential amino acid whose metabolic pathways intersect with protein synthesis, neurotransmitter precursors, and potentially lipid metabolism, suggesting plausible mechanisms for altering fatty acid profiles and gut microbial communities. | However, the available text does not provide details on the experimental design, such as the number of animals per group, the dosage or duration of phenylalanine supplementation, the specific analytical methods used to assess fatty acids, microbiota sequencing depth, or VOC profiling techniques.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-13/podcast_2026-09-13.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>The study examines how phenylalanine supplementation influences three key aspects of pork quality in finishing pigs: the fatty acid composition of the meat, the structure of the gut microbiota, and the profile of volatile organic compounds that contribute to aroma and flavor. | The article, published in the Journal of Animal Science and Biotechnology, frames phenylalanine as an essential amino acid whose metabolic pathways intersect with protein synthesis, neurotransmitter precursors, and potentially lipid metabolism, suggesting plausible mechanisms for altering fatty acid profiles and gut microbial communities. | However, the available text does not provide details on the experimental design, such as the number of animals per group, the dosage or duration of phenylalanine supplementation, the specific analytical methods used to assess fatty acids, microbiota sequencing depth, or VOC profiling techniques.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-25/podcast_2026-06-25.mp3</guid>
       <pubDate>Thu, 25 Jun 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-25/podcast_2026-06-25.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-06-23</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-23/podcast_2026-06-23.mp3</guid>
-      <pubDate>Tue, 23 Jun 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-23/podcast_2026-06-23.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
