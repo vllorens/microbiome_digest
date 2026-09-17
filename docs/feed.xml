@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 08:37:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 08:35:41 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-09-17</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-17/podcast_2026-09-17.mp3</guid>
+      <pubDate>Thu, 17 Sep 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-17/podcast_2026-09-17.mp3" length="19137260" type="audio/mpeg" />
+      <description>A pangenome analysis of colorectal cancer microbiomes shows that the disease-associated gut community is shaped not by a fixed set of species but by two functional groups: lineage‑conserved specialists that consistently appear in tumors, and taxonomically diverse side‑hustlers that can perform similar metabolic roles despite different evolutionary backgrounds. | A probiotic mixture markedly lessened cisplatin‑induced kidney injury in experimental models by decreasing circulating uremic toxins and reshaping the gut microbiota, underscoring the gut‑kidney axis as a therapeutic target. | Gut microbiota functional remodeling and a drop in butyrate levels intensify anti‑Ro/La antibody‑triggered type I interferon responses in neonates with lupus, according to a study of 90 infants published in Gut Microbes via PubMed.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>A pangenome analysis of colorectal cancer microbiomes shows that the disease-associated gut community is shaped not by a fixed set of species but by two functional groups: lineage‑conserved specialists that consistently appear in tumors, and taxonomically diverse side‑hustlers that can perform similar metabolic roles despite different evolutionary backgrounds. | A probiotic mixture markedly lessened cisplatin‑induced kidney injury in experimental models by decreasing circulating uremic toxins and reshaping the gut microbiota, underscoring the gut‑kidney axis as a therapeutic target. | Gut microbiota functional remodeling and a drop in butyrate levels intensify anti‑Ro/La antibody‑triggered type I interferon responses in neonates with lupus, according to a study of 90 infants published in Gut Microbes via PubMed.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-09-14</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-14/podcast_2026-09-14.mp3</guid>
       <pubDate>Mon, 14 Sep 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-14/podcast_2026-09-14.mp3" length="5291444" type="audio/mpeg" />
-      <description>Akkermansia muciniphila can ease osteoporosis by curbing pathological bone‑marrow fat buildup through a gut‑microbiota‑UDCA‑TGR5 signaling route. | Mangiferin monosodium salt (MG‑Na) reduces both metabolic and alcohol‑associated liver disease by targeting cuproptosis and reshaping the gut microbiota, according to a new study published in PubMed‑indexed Toxicology and Applied Pharmacology. | Repeated sevoflurane exposure in developing rats causes cognitive impairment that is mediated by gut‑derived inflammatory signals, according to a study in Behavioural Brain Research accessed via PubMed.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-14/podcast_2026-09-14.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Akkermansia muciniphila can ease osteoporosis by curbing pathological bone‑marrow fat buildup through a gut‑microbiota‑UDCA‑TGR5 signaling route. | Mangiferin monosodium salt (MG‑Na) reduces both metabolic and alcohol‑associated liver disease by targeting cuproptosis and reshaping the gut microbiota, according to a new study published in PubMed‑indexed Toxicology and Applied Pharmacology. | Repeated sevoflurane exposure in developing rats causes cognitive impairment that is mediated by gut‑derived inflammatory signals, according to a study in Behavioural Brain Research accessed via PubMed.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-26/podcast_2026-06-26.mp3</guid>
       <pubDate>Fri, 26 Jun 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-26/podcast_2026-06-26.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-06-25</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-25/podcast_2026-06-25.mp3</guid>
-      <pubDate>Thu, 25 Jun 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-25/podcast_2026-06-25.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
