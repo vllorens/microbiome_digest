@@ -1,0 +1,303 @@
+{
+  "timestamps": [
+    0.0,
+    96.86,
+    153.95,
+    197.2,
+    243.03,
+    289.68,
+    329.62,
+    427.82,
+    549.21,
+    591.04,
+    636.49,
+    685.97,
+    730.32,
+    773.35,
+    876.42,
+    992.75,
+    1112.96,
+    1239.44,
+    1352.57,
+    1455.76,
+    1832.7,
+    1879.62,
+    1931.89,
+    1973.6,
+    2022.6,
+    2062.7,
+    2107.19,
+    2156.2,
+    2198.98,
+    2241.7,
+    2367.26,
+    2411.44,
+    2764.5
+  ],
+  "items": [
+    {
+      "title": "The Role of the Microbiome in Lichen Sclerosus: Pathophysiological Insights and Therapeutic Implications.",
+      "url": "https://doi.org/10.1007/s13555-026-01923-7",
+      "source": "PubMed — Dermatology and therapy",
+      "one_liner": "Lichen sclerosus (LS) is a chronic inflammatory and fibrotic dermatosis of unclear etiology, traditionally considered an autoimmune disorder. Emerging evidence suggests that microbiome dysbiosis may contribute to disease pathogenesis by modulating local immune responses and tissue remodeling. This narrative review synthesizes current data on the skin, gen...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Gut microbiota regulation of the IL-6/STAT3 pathway: Linking hematopoiesis to colorectal cancer progression.",
+      "url": "https://doi.org/10.1016/j.intimp.2026.117452",
+      "source": "PubMed — International immunopharmacology",
+      "one_liner": "BACKGROUND AND AIM: Chronic gut microbiota-driven inflammation fuels colorectal cancer (CRC) progression, but how microbial signals influence systemic immunity and tumor growth remains poorly defined. This review synthesizes evidence on gut microbiota regulation of the interleukin-6 (IL-6)/signal transducer and activator of transcription 3 (STAT3) pathway...",
+      "segment": 1,
+      "timestamp": 96.86
+    },
+    {
+      "title": "Ethyl caffeate alleviates NAFLD by modulating JNK/IRS-1/AKT signaling and the gut microbiota.",
+      "url": "https://doi.org/10.1039/d6fo03689a",
+      "source": "PubMed — Food & function",
+      "one_liner": "Non-alcoholic fatty liver disease (NAFLD) is the most prevalent chronic liver disease worldwide, yet no specific pharmacotherapy has been approved. Ethyl caffeate (EC), a natural phenolic compound with anti-inflammatory and antioxidant properties, has been suggested as a potential hepatoprotective agent, but its efficacy against NAFLD remains unexplored. ...",
+      "segment": 2,
+      "timestamp": 153.95
+    },
+    {
+      "title": "Excess iodine induces lipid metabolic disorders by the gut microbiota SCFAs/H",
+      "url": "https://doi.org/10.1039/d6fo02457b",
+      "source": "PubMed — Food & function",
+      "one_liner": "With the development of living standards, the problem of excess iodine has long been overlooked. This study aimed to investigate the detrimental effects of long-term excess iodine exposure on lipid metabolism in female Sprague-Dawley rats from the gut-liver axis perspective, and to elucidate the underlying molecular mechanisms by which the gut microbiota ...",
+      "segment": 3,
+      "timestamp": 197.2
+    },
+    {
+      "title": "Ganoderma Lucidum Polysaccharides Potentiate Low-Dose Gemcitabine Against 4T1 Breast Tumors, Associated With Immune Activation and Gut Microbiota Remodeling.",
+      "url": "https://doi.org/10.1002/mc.70178",
+      "source": "PubMed — Molecular carcinogenesis",
+      "one_liner": "Gemcitabine (GEM), a first-line chemotherapeutic agent, may fail to prevent recurrence in some settings. Traditional Chinese medicine emphasizes Yin-Yang balance and \"fuzheng\" approaches and may offer complementary strategies. Ganoderma lucidum polysaccharides (GLP) exhibit immune-enhancing activity, but evidence for direct anti-tumor efficacy, either alo...",
+      "segment": 4,
+      "timestamp": 243.03
+    },
+    {
+      "title": "Letter to the Editor: The Gut Microbiome-Endocrine Axis in Obesity: Mechanisms and Therapeutics.",
+      "url": "https://doi.org/10.1111/jgh.70772",
+      "source": "PubMed — Journal of gastroenterology and hepatology",
+      "one_liner": "Obesity therapeutics is rapidly evolving, and mechanistic frameworks linking the gut microbiome to systemic metabolism are essential for clinical translation. In this letter, I commend the invited review by Mao et al., which elegantly integrates mechanistic insights across the gut-brain, gut-adipose, and gut-pancreas axes, and we propose three extensions ...",
+      "segment": 5,
+      "timestamp": 289.68
+    },
+    {
+      "title": "Pathogen-oriented mNGS is not equivalent to microbiome profiling: interpreting BALF mNGS diversity in ARDS.",
+      "url": "https://doi.org/10.1186/s40560-026-00943-x",
+      "source": "PubMed — Journal of intensive care",
+      "one_liner": "Gao et al. provide valuable data-linking bronchoalveolar lavage fluid metagenomic next-generation sequencing with inflammatory subphenotypes of acute respiratory distress syndrome. We highlight three issues relevant to interpretation: an apparent inconsistency concerning exclusion of samples with no micro-organisms detected, use of a pathogen-oriented wor...",
+      "segment": 6,
+      "timestamp": 329.62
+    },
+    {
+      "title": "Hospitalisation in cirrhosis is linked to distinct gut microbiome structural and functional profiles: a multinational metagenomic study.",
+      "url": "https://doi.org/10.1136/gutjnl-2026-339378",
+      "source": "PubMed — Gut",
+      "one_liner": "BACKGROUND: Hospitalisations represent major clinical events in cirrhosis, yet prediction based on clinical variables alone remains limited. OBJECTIVE: Given the role of the gut microbiome in disease progression, we evaluated whether gut metagenomic profiles are associated with 90-day hospitalisation and provide additional prognostic information beyond cl...",
+      "segment": 7,
+      "timestamp": 427.82
+    },
+    {
+      "title": "Novel L-Asparaginases from the human gut microbiome: Genome mining, biochemical characterization, and in vitro anti-leukemic activity.",
+      "url": "https://doi.org/10.1016/j.bioorg.2026.110550",
+      "source": "PubMed — Bioorganic chemistry",
+      "one_liner": "L-asparaginase is essential for acute lymphoblastic leukemia treatment; however, current Escherichia coli and Erwinia chrysanthemi formulations face significant limitations, including immunogenicity, glutaminase-associated toxicity, and short plasma half-life. The human gut microbiome represents an unexplored reservoir of therapeutic enzymes that may offe...",
+      "segment": 8,
+      "timestamp": 549.21
+    },
+    {
+      "title": "Role of gut microbiome modulation in the attenuation of aging-related neuroinflammation in early brain injury after subarachnoid hemorrhage.",
+      "url": "https://doi.org/10.1016/j.brainres.2026.150559",
+      "source": "PubMed — Brain research",
+      "one_liner": "Early brain injury (EBI) critically determines post-subarachnoid hemorrhage (SAH) outcome, with worse prognosis in older patients. Aging confers exaggerated inflammation, possibly via gut microbiome (GM) alterations. We investigated whether GM alterations contribute to aging-related worsening of post-SAH EBI and whether GM modulation can reduce this infla...",
+      "segment": 9,
+      "timestamp": 591.04
+    },
+    {
+      "title": "Polycyclic aromatic hydrocarbons, gut microbiome composition, impulsivity, and attention covary in a human cohort.",
+      "url": "https://doi.org/10.1128/spectrum.00783-26",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "Polycyclic aromatic hydrocarbons (PAHs) are pervasive environmental pollutants linked to adverse neurobehavioral outcomes, yet the biological pathways coupling exposure to behavior are poorly defined. The gut microbiome is both sensitive to PAH exposure and a modulator of central nervous system function, suggesting it may mediate how PAH exposure influenc...",
+      "segment": 10,
+      "timestamp": 636.49
+    },
+    {
+      "title": "Early Broad-Spectrum Antibiotic Exposure Is Associated with Increased Relapse after Myeloablative TBI-Based Allogeneic Hematopoietic Cell Transplantation.",
+      "url": "https://doi.org/10.1016/j.jtct.2026.09.037",
+      "source": "PubMed — Transplantation and cellular therapy",
+      "one_liner": "BACKGROUND: Broad-spectrum antibiotics are frequently administered during the peri-transplant period in patients undergoing allogeneic hematopoietic cell transplantation (allo-HCT). Antibiotic exposure can disrupt the intestinal microbiota and may influence immune recovery and post-transplant outcomes. However, the impact of antibiotic timing on relapse r...",
+      "segment": 11,
+      "timestamp": 685.97
+    },
+    {
+      "title": "Mechanism of soluble dietary fiber from foxtail millet alleviating chronic colitis by reshaping intestinal fungi.",
+      "url": "https://doi.org/10.1002/jsfa.71097",
+      "source": "PubMed — Journal of the science of food and agriculture",
+      "one_liner": "BACKGROUND: Inflammatory bowel disease (IBD) is a type of persistent chronic inflammation in the colon and can cause malignant transformation of colonic mucosa through various mechanisms. The dysbiosis of gut microbiota is closely related to the development and maintenance of IBD. Studies have shown that a proper intake of dietary fiber serves to maintain...",
+      "segment": 12,
+      "timestamp": 730.32
+    },
+    {
+      "title": "Intratumoral microbiota in tumorigenesis: A double-edged sword.",
+      "url": "https://doi.org/10.1097/CM9.0000000000004178",
+      "source": "PubMed — Chinese medical journal",
+      "one_liner": "The rapid development of high-throughput sequencing technologies and bioinformatics has enabled the identification of diverse microbial communities within tumor tissues, giving rise to the concept of intratumoral microbiota. Comprising bacteria, viruses, fungi, and archaea, the intratumoral microbiota has been shown to play critical roles in tumor initiat...",
+      "segment": 13,
+      "timestamp": 773.35
+    },
+    {
+      "title": "From Dysbiosis to Blood-Brain Barrier Disruption: The Metabolite-Mediated Gut-Brain Axis in Alzheimer's Disease.",
+      "url": "https://doi.org/10.1007/s12035-026-06213-z",
+      "source": "PubMed — Molecular neurobiology",
+      "one_liner": "Alzheimer's disease (AD) is not merely a central nervous system disorder; rather, it is a systemic condition profoundly influenced by the peripheral internal environment. Recent research has revealed that imbalances in the gut microbiota (GM) and metabolite disturbances contribute to AD onset and progression. Clinical and animal studies have indicated tha...",
+      "segment": 14,
+      "timestamp": 876.42
+    },
+    {
+      "title": "Exploring glycocalyx components powering the contact between Entamoeba histolytica and bacteria during non-opsonic phagocytosis.",
+      "url": "https://doi.org/10.1371/journal.ppat.1014560",
+      "source": "PubMed — PLoS pathogens",
+      "one_liner": "Phagocytosis is a cornerstone of the immune defence, allowing cells to eliminate pathogens through both opsonic and non-opsonic pathways. In protozoa such as Entamoeba histolytica, non-opsonic phagocytosis is not only central to survival but also to its ability to cause disease, with its life cycle closely intertwined with the intestinal microbiota, which...",
+      "segment": 15,
+      "timestamp": 992.75
+    },
+    {
+      "title": "Efficacy, safety, and feasibility of youth-derived fecal microbiota transplantation among adults with type 1 diabetes mellitus: A protocol of Pilot Randomized Controlled Trial.",
+      "url": "https://doi.org/10.1371/journal.pone.0343078",
+      "source": "PubMed — PloS one",
+      "one_liner": "BACKGROUND: Dysbiosis of gut microbiota plays a key role in type 1 diabetes mellitus (T1DM). Fecal microbiota transplantation represents a novel therapeutic avenue. We hypothesize that youth-derived fecal microbiota transplantation (yFMT) can remodel the gut microecosystem and improve clinical outcomes. This pilot trial aims to assess the feasibility, saf...",
+      "segment": 16,
+      "timestamp": 1112.96
+    },
+    {
+      "title": "The Potential Role of the Gut-Vascular Axis in Ciprofloxacin-Associated Aggravation of Aortic Dissection.",
+      "url": "https://doi.org/10.1007/s12012-026-10196-7",
+      "source": "PubMed — Cardiovascular toxicology",
+      "one_liner": "Ciprofloxacin (CIP) is associated with an increased risk of aortic dissection (AD); however, the underlying mechanism remains unclear. This study investigates the potential contribution of gut microbiota and intestinal barrier alterations to CIP-associated AD progression. The AD model was established using a combination of β-aminopropionitrile and angiote...",
+      "segment": 17,
+      "timestamp": 1239.44
+    },
+    {
+      "title": "Effect of Non-viable Probiotics on Obesity-Related Outcomes in Rodent Models: A Systematic Review and Meta-Analysis.",
+      "url": "https://doi.org/10.1007/s12602-026-11206-4",
+      "source": "PubMed — Probiotics and antimicrobial proteins",
+      "one_liner": "Non-viable probiotics have been increasingly studied as a safer and more stable alternative to live probiotics to manage obesity and metabolic disorders. But efficacy across strains, doses, and treatment durations is still unknown. This systematic review and meta-analysis included 40 eligible controlled animal studies to quantify the effects of inactivate...",
+      "segment": 18,
+      "timestamp": 1352.57
+    },
+    {
+      "title": "Integrated multi-matrix bile acid metabolic metrics (BAMMs): A methodological framework for functional metabolic phenotyping in human subjects.",
+      "url": "https://doi.org/10.1016/j.aca.2026.345822",
+      "source": "PubMed — Analytica chimica acta",
+      "one_liner": "Traditional single-matrix bile acid (BA) analysis, which typically relies on a limited set of analytes in plasma or feces, often fails to capture the compartmentalized complexity of the microbiome-gut-liver axis. To address this, we developed a high-coverage, 61-analyte metabolomics platform integrated via a multifaceted Bile Acid Metabolic Metrics (BAMMs...",
+      "segment": 19,
+      "timestamp": 1455.76
+    },
+    {
+      "title": "Zearalenone exposure is associated with increased tumor burden and coordinated host-microbiota-metabolic alterations in colitis-associated colorectal cancer.",
+      "url": "https://doi.org/10.1016/j.ecoenv.2026.120811",
+      "source": "PubMed — Ecotoxicology and environmental safety",
+      "one_liner": "Zearalenone (ZEN) is a common foodborne mycotoxin with intestinal toxicity, but its role in colitis-associated colorectal cancer (CAC) remains unclear. This study evaluated the association between ZEN exposure and CAC progression and explored the related molecular, microbial, and metabolic alterations. Network toxicology was used to predict potential ZEN-...",
+      "segment": 20,
+      "timestamp": 1832.7
+    },
+    {
+      "title": "From dysbiosis to postoperative neurocognitive disorders: The anesthesia-disrupted microbiota-gut-brain axis.",
+      "url": "https://doi.org/10.1016/j.expneurol.2026.116034",
+      "source": "PubMed — Experimental neurology",
+      "one_liner": "BACKGROUND: Postoperative neurocognitive disorders (PND) remains a prevalent and debilitating complication in older surgical patients, with accumulating evidence implicating gut microbiota dysbiosis as a contributing factor. Anesthesia and surgical stress are known to disrupt intestinal microbial ecosystems, but the precise mechanisms by which these pertu...",
+      "segment": 21,
+      "timestamp": 1879.62
+    },
+    {
+      "title": "A low-molecular-weight carbohydrate fraction from Salvia miltiorrhiza mitigates DSS-induced colitis.",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2026.154516",
+      "source": "PubMed — International journal of biological macromolecules",
+      "one_liner": "Plant polysaccharides are functional carbohydrates with diverse structures and close interactions with the gut microbiota. Here, a low-molecular-weight neutral carbohydrate fraction, SMP-1, was isolated from Salvia miltiorrhiza and characterized for molecular weight, monosaccharide composition, linkage features, and selected NMR correlations. SMP-1 showed...",
+      "segment": 22,
+      "timestamp": 1931.89
+    },
+    {
+      "title": "The teneurin TEN-1 and its ligand LRON-11 support microbiota-induced neuroprotection and mechanosensory function in C. elegans.",
+      "url": "https://doi.org/10.1016/j.cub.2026.09.003",
+      "source": "PubMed — Current biology : CB",
+      "one_liner": "Neuroprotection preserves neuronal structure and function by limiting damage and cell death, and diet-associated microbiota produce metabolites capable of influencing neuronal survival.",
+      "segment": 23,
+      "timestamp": 1973.6
+    },
+    {
+      "title": "Hyaluronic acid from",
+      "url": "https://doi.org/10.1039/d6fo02328b",
+      "source": "PubMed — Food & function",
+      "one_liner": "The microbiota-gut-joint axis influences systematic and local inflammation",
+      "segment": 24,
+      "timestamp": 2022.6
+    },
+    {
+      "title": "Effect of probiotic supplementation on psychological stress in healthy adults with moderate stress levels: a randomised, double-blind, placebo-controlled clinical trial.",
+      "url": "https://doi.org/10.1080/1028415X.2026.2729710",
+      "source": "PubMed — Nutritional neuroscience",
+      "one_liner": "",
+      "segment": 25,
+      "timestamp": 2062.7
+    },
+    {
+      "title": "Fungal extracellular vesicles reshape",
+      "url": "https://doi.org/10.1080/19490976.2026.2736915",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Extracellular vesicles (EVs) are emerging mediators of intercellular and interkingdom communication. While bacterial EVs directly modulate host health, whether exogenous vesicles can reprogram gut microbial vesiculation and bioactivity remains unclear. Using a defined",
+      "segment": 26,
+      "timestamp": 2107.19
+    },
+    {
+      "title": "Effects of",
+      "url": "https://doi.org/10.1080/19490976.2026.2734705",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Gut microbial dysbiosis has been implicated in metabolic dysfunction-associated steatotic liver disease (MASLD) and diabetes, but the metabolic effects of candidate probiotic strains across this disease continuum remain incompletely understood. Based on the validation of disease-associated microbial patterns in a clinical cohort,",
+      "segment": 27,
+      "timestamp": 2156.2
+    },
+    {
+      "title": "Translational efficiency guides microbial community remodeling.",
+      "url": "https://doi.org/10.1080/19490976.2026.2736907",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "While metagenomics provides compositional insights, its correlative nature limits causal community remodeling. Overcoming this, in a recent",
+      "segment": 28,
+      "timestamp": 2198.98
+    },
+    {
+      "title": "Bacterial small RNAs and extracellular vesicles in inflammatory and osteoimmune diseases: regulatory mechanisms and host-microbe communication.",
+      "url": "https://doi.org/10.1007/s00203-026-05224-7",
+      "source": "PubMed — Archives of microbiology",
+      "one_liner": "Bacterial small RNAs (sRNAs) functions as post-transcriptional regulators that influnce microbial adaptation, pathobiont behavior, and host-microbe communication. This review analyzes bacterial sRNAs and vesicle-associated RNA signals in inflammatory and osteoimmune diseases, with a focus on gastrointestinal and oral microbial communities. Major sRNA clas...",
+      "segment": 29,
+      "timestamp": 2241.7
+    },
+    {
+      "title": "Rapidly Fermentable Prebiotic Substrates: Benefits, FODMAP Effects and Host Tolerance.",
+      "url": "https://doi.org/10.1016/j.clnesp.2026.105130",
+      "source": "PubMed — Clinical nutrition ESPEN",
+      "one_liner": "Rapidly fermentable prebiotic substrates occupy a contradictory position in human nutrition. In microbiome and functional-food research, low molecular weight non-digestible carbohydrates such as inulin, fructo-oligosaccharides, galacto-oligosaccharides are added to foods and supplements to promote bifidogenic, metabolic and gastrointestinal benefits. In p...",
+      "segment": 30,
+      "timestamp": 2367.26
+    },
+    {
+      "title": "Lactiplantibacillus plantarum YZ2 immersion reduces chloramphenicol residues in common carp (Cyprinus carpio).",
+      "url": "https://doi.org/10.1016/j.tjnut.2026.101841",
+      "source": "PubMed — The Journal of nutrition",
+      "one_liner": "BACKGROUND: The antibiotic toxicity and risks associated with their residues pose a serious threat to food safety. OBJECTIVE: The aim of this study is to investigate the mechanism by which probiotic immersion reduces antibiotic residues in common carp. METHODS: A chloramphenicol (CAP) enrichment model was established in common carp (Cyprinus carpio), foll...",
+      "segment": 31,
+      "timestamp": 2411.44
+    },
+    {
+      "title": "A",
+      "url": "https://doi.org/10.1039/d6fo03036j",
+      "source": "PubMed — Food & function",
+      "one_liner": "Prebiotic inulin improves obesity-related metabolic disturbances, yet its clinical efficacy shows marked interindividual heterogeneity. The key microbial players, interspecies interactions, and downstream effector pathways governing differential responsiveness remain poorly defined. This study is aimed at identifying functional bacteria driving response h...",
+      "segment": 32,
+      "timestamp": 2764.5
+    }
+  ]
+}
