@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 08:22:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 08:42:34 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-09-25</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-25/podcast_2026-09-25.mp3</guid>
+      <pubDate>Fri, 25 Sep 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-25/podcast_2026-09-25.mp3" length="16682948" type="audio/mpeg" />
+      <description>Researchers reveal that the gut microbiota of the stinkbug Riptortus pedestris—and related species—is assembled not by simple colonization but through a process of disassembly and reassembly of ingested microbes. | The study titled “Gut microbiome is associated with stereotypic behavior of the giant panda (Ailuropoda melanoleuca)” reports a link between the intestinal microbial community and repetitive, stereotypic actions observed in some captive individuals of this endangered bear species. | However, the available notes and extracted snippet do not disclose the methodological details that would allow us to evaluate the strength or specificity of this association.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Researchers reveal that the gut microbiota of the stinkbug Riptortus pedestris—and related species—is assembled not by simple colonization but through a process of disassembly and reassembly of ingested microbes. | The study titled “Gut microbiome is associated with stereotypic behavior of the giant panda (Ailuropoda melanoleuca)” reports a link between the intestinal microbial community and repetitive, stereotypic actions observed in some captive individuals of this endangered bear species. | However, the available notes and extracted snippet do not disclose the methodological details that would allow us to evaluate the strength or specificity of this association.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-09-22</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-22/podcast_2026-09-22.mp3</guid>
       <pubDate>Tue, 22 Sep 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-22/podcast_2026-09-22.mp3" length="21186020" type="audio/mpeg" />
-      <description>Lichen sclerosus is a chronic inflammatory and fibrotic skin condition whose exact cause remains unknown, though it has long been viewed primarily as an autoimmune disorder. | Gut microbes shape colorectal cancer outcomes by tuning the IL‑6/STAT3 axis, a review in International immunopharmacology concludes. | Ethyl caffeate, a natural phenolic compound, reduces non‑alcoholic fatty liver disease in preclinical models by dampening JNK signaling, restoring IRS‑1 and AKT activity, and reshaping the gut microbiota toward a healthier profile.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-22/podcast_2026-09-22.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Lichen sclerosus is a chronic inflammatory and fibrotic skin condition whose exact cause remains unknown, though it has long been viewed primarily as an autoimmune disorder. | Gut microbes shape colorectal cancer outcomes by tuning the IL‑6/STAT3 axis, a review in International immunopharmacology concludes. | Ethyl caffeate, a natural phenolic compound, reduces non‑alcoholic fatty liver disease in preclinical models by dampening JNK signaling, restoring IRS‑1 and AKT activity, and reshaping the gut microbiota toward a healthier profile.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-30/podcast_2026-06-30.mp3</guid>
       <pubDate>Tue, 30 Jun 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-30/podcast_2026-06-30.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-06-27</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-27/podcast_2026-06-27.mp3</guid>
-      <pubDate>Sat, 27 Jun 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-27/podcast_2026-06-27.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
