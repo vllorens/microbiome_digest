@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 08:42:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 08:27:31 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-09-26</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-26/podcast_2026-09-26.mp3</guid>
+      <pubDate>Sat, 26 Sep 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-26/podcast_2026-09-26.mp3" length="15743780" type="audio/mpeg" />
+      <description>Ethanol exposure reshapes the gut microbiome in a spatially and taxon‑specific way, driving ecological adaptation rather than a global surge in microbial ethanol‑metabolizing pathways. | Long‑term exposure to realistic mixtures of liquid crystal monomers (LCMs) disrupts gut microbiota, and this dysbiosis correlates with synaptic deficits and cognitive impairment, according to a new mechanistic study that aligns the observations with an adverse outcome pathway (AOP) framework. | Gut microbiota can rescue vascular cognitive impairment by boosting glymphatic clearance through the indole‑3‑lactic acid (ILA)–aryl hydrocarbon receptor (AHR)–aquaporin‑4 (AQP4) pathway, according to a study in Pharmacological Research indexed by PubMed.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Ethanol exposure reshapes the gut microbiome in a spatially and taxon‑specific way, driving ecological adaptation rather than a global surge in microbial ethanol‑metabolizing pathways. | Long‑term exposure to realistic mixtures of liquid crystal monomers (LCMs) disrupts gut microbiota, and this dysbiosis correlates with synaptic deficits and cognitive impairment, according to a new mechanistic study that aligns the observations with an adverse outcome pathway (AOP) framework. | Gut microbiota can rescue vascular cognitive impairment by boosting glymphatic clearance through the indole‑3‑lactic acid (ILA)–aryl hydrocarbon receptor (AHR)–aquaporin‑4 (AQP4) pathway, according to a study in Pharmacological Research indexed by PubMed.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-09-25</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-25/podcast_2026-09-25.mp3</guid>
       <pubDate>Fri, 25 Sep 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-25/podcast_2026-09-25.mp3" length="16682948" type="audio/mpeg" />
-      <description>Researchers reveal that the gut microbiota of the stinkbug Riptortus pedestris—and related species—is assembled not by simple colonization but through a process of disassembly and reassembly of ingested microbes. | The study titled “Gut microbiome is associated with stereotypic behavior of the giant panda (Ailuropoda melanoleuca)” reports a link between the intestinal microbial community and repetitive, stereotypic actions observed in some captive individuals of this endangered bear species. | However, the available notes and extracted snippet do not disclose the methodological details that would allow us to evaluate the strength or specificity of this association.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-25/podcast_2026-09-25.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Researchers reveal that the gut microbiota of the stinkbug Riptortus pedestris—and related species—is assembled not by simple colonization but through a process of disassembly and reassembly of ingested microbes. | The study titled “Gut microbiome is associated with stereotypic behavior of the giant panda (Ailuropoda melanoleuca)” reports a link between the intestinal microbial community and repetitive, stereotypic actions observed in some captive individuals of this endangered bear species. | However, the available notes and extracted snippet do not disclose the methodological details that would allow us to evaluate the strength or specificity of this association.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-01/podcast_2026-07-01.mp3</guid>
       <pubDate>Wed, 01 Jul 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-01/podcast_2026-07-01.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-06-30</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-30/podcast_2026-06-30.mp3</guid>
-      <pubDate>Tue, 30 Jun 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-06-30/podcast_2026-06-30.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>

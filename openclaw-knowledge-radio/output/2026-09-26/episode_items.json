@@ -1,0 +1,240 @@
+{
+  "timestamps": [
+    0.0,
+    46.05,
+    91.48,
+    143.82,
+    188.24,
+    230.0,
+    279.82,
+    378.24,
+    423.23,
+    465.66,
+    588.06,
+    631.28,
+    676.51,
+    719.85,
+    767.78,
+    814.84,
+    861.78,
+    908.88,
+    1452.46,
+    1493.9,
+    1534.62,
+    1653.85,
+    1765.74,
+    1880.4,
+    1929.0,
+    1978.03
+  ],
+  "items": [
+    {
+      "title": "Ethanol exposure is associated with spatial and taxon-specific gut microbiota remodeling characterized by ecological adaptation rather than broad activation of microbial ethanol metabolism.",
+      "url": "https://doi.org/10.1080/19490976.2026.2734657",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Alcohol-associated diseases are linked to gut microbiota disruption, but how ethanol intake is associated with microbial functional remodeling remains unclear. Here, using male C57BL/6J mice, we integrated spatiotemporal quantification of ethanol and acetaldehyde across the gastrointestinal tract with 16S rRNA sequencing, metagenomics, metaproteomics, and...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Gut microbiota dysbiosis is associated with the synaptic deficits and cognitive impairment induced by LCM mixtures within a proposed mechanistic framework consistent with the AOP concept.",
+      "url": "https://doi.org/10.1016/j.envint.2026.110542",
+      "source": "PubMed — Environment international",
+      "one_liner": "Liquid crystal monomers (LCMs), as emerging environmental contaminants, have poorly understood cognitive effects under realistic mixture exposure scenarios. This study integrated ecological and human exposure data to characterize LCM mixtures and assessed their neurotoxicity using in vitro and in vivo models. We found that long-term exposure to LCM mixtur...",
+      "segment": 1,
+      "timestamp": 46.05
+    },
+    {
+      "title": "Gut microbiota rescues vascular cognitive impairment by improving glymphatic function via the ILA-AHR-AQP4 pathway.",
+      "url": "https://doi.org/10.1016/j.phrs.2026.109646",
+      "source": "PubMed — Pharmacological research",
+      "one_liner": "Microbial tryptophan metabolites regulate cognitive function, but their role in vascular cognitive impairment (VCI) induced by chronic cerebral hypoperfusion (CCH) remains poorly understood. In the CCH cohort, we observed gut microbiota dysbiosis and reduced levels of microbial tryptophan metabolites, including indole-3-lactic acid (ILA), in cognitively i...",
+      "segment": 2,
+      "timestamp": 91.48
+    },
+    {
+      "title": "Functional and Compositional Shifts in Lung and Gut Microbiota after One Year of Treatment with Highly Effective CFTR Modulators in Cystic Fibrosis.",
+      "url": "https://doi.org/10.1016/j.arbres.2026.08.007",
+      "source": "PubMed — Archivos de bronconeumologia",
+      "one_liner": "BACKGROUND: Highly effective CFTR modulator therapy with elexacaftor-tezacaftor-ivacaftor (ETI) has revolutionized clinical outcomes in cystic fibrosis (CF), yet its effects on gut and lung microbiota, especially at the functional level, are poorly understood. METHODS: In a 12-month prospective study, we enrolled 35 clinically stable CF patients initiatin...",
+      "segment": 3,
+      "timestamp": 143.82
+    },
+    {
+      "title": "Different gut microbiome dysbioses impact the evolutionary fate of hypervirulent",
+      "url": "https://doi.org/10.1002/imt2.70175",
+      "source": "PubMed — iMeta",
+      "one_liner": "The intestinal microbiota acts as a barrier against pathogen colonization, yet how specific ecological perturbations shape the evolutionary fate of invading pathogens remains unclear. Here, we show that the mode of gut perturbation and type of dysbiosis determine whether hypervirulent",
+      "segment": 4,
+      "timestamp": 188.24
+    },
+    {
+      "title": "Ketogenic diet as a systems-level immunometabolic sensitization strategy in cancer therapy: integrating metabolism, immune reprogramming, microbiome dynamics, and epigenetic regulation.",
+      "url": "https://doi.org/10.1007/s12032-026-03425-0",
+      "source": "PubMed — Medical oncology (Northwood, London, England)",
+      "one_liner": "The ketogenic diet (KD) is increasingly being recognized as more than a simple metabolic intervention in cancer therapy. Emerging evidence suggests that KD may function as a systems-level immunometabolic sensitization strategy capable of enhancing therapeutic responsiveness through interconnected biologic mechanisms. Modern cancer therapies, including che...",
+      "segment": 5,
+      "timestamp": 230.0
+    },
+    {
+      "title": "Gut microbiome shifts in chronic systolic heart failure are associated with disease severity and clinical improvement.",
+      "url": "https://doi.org/10.1038/s44161-026-00854-y",
+      "source": "PubMed — Nature cardiovascular research",
+      "one_liner": "The contribution of the gut microbiome to chronic heart failure (HF) remains poorly defined. We performed integrated microbiome and host multi-omic profiling of adults with chronic systolic HF due to nonischemic cardiomyopathy (n = 59) and healthy participants (n = 50), including longitudinal sampling in some cases. Here we show that patients with HF have...",
+      "segment": 6,
+      "timestamp": 279.82
+    },
+    {
+      "title": "Role of Gut Microbiome-derived Trimethylamine N-oxide and Short-chain Fatty Acids in Heart Failure Outcomes: A Narrative Review.",
+      "url": "https://doi.org/10.2174/011871529X494489260914114458",
+      "source": "PubMed — Cardiovascular & hematological disorders drug targets",
+      "one_liner": "INTRODUCTION: HF continues to be a serious medical problem all over the world, resulting in significant morbidity and mortality despite advancements in therapeutic strategies. Current research indicates the involvement of the gut-heart axis in HF. Gut microbiome metabolites, including TMAO and SCFAs, affect heart structure, function, and outcomes. METHODS...",
+      "segment": 7,
+      "timestamp": 378.24
+    },
+    {
+      "title": "Clinical severity score-guided metagenomic analysis identifying gut microbial taxonomic and functional markers for severe hepatitis E progression.",
+      "url": "https://doi.org/10.1128/msystems.00956-26",
+      "source": "PubMed — mSystems",
+      "one_liner": "Although gut microbiome alterations have been reported in hepatitis E (HE), the taxonomic and functional determinants of disease severity remain poorly defined. Here, we performed shotgun metagenomic sequencing of fecal samples from 125 individuals spanning acute non-icteric hepatitis (ANIH), acute icteric hepatitis (AIH), acute liver failure (ALF), and h...",
+      "segment": 8,
+      "timestamp": 423.23
+    },
+    {
+      "title": "Tumor microbial biodiversity and microsatellite instability in colorectal cancer.",
+      "url": "https://doi.org/10.1371/journal.pone.0359555",
+      "source": "PubMed — PloS one",
+      "one_liner": "BACKGROUND: Growing evidence links the gut microbiome to colorectal cancer (CRC) progression, with certain bacterial species enriched in specific molecular tumor subtypes. DNA mismatch repair deficiency in CRC, evidenced by the presence of microsatellite instability (MSI), has been consistently associated with a favorable prognosis, and may be related to ...",
+      "segment": 9,
+      "timestamp": 465.66
+    },
+    {
+      "title": "Trimethylamine N-oxide promotes lymphoid differentiation of hematopoietic stem and progenitor cells.",
+      "url": "https://doi.org/10.1016/j.molimm.2026.09.010",
+      "source": "PubMed — Molecular immunology",
+      "one_liner": "BACKGROUND: Persistent lymphopenia represents a clinically relevant adverse effect associated with radiotherapy, surgery and infection and is linked to unfavorable clinical outcomes. Trimethylamine N-oxide (TMAO), a gut microbiota-derived metabolite generated from dietary choline and L-carnitine, has emerged as a potential regulator of host physiology; ho...",
+      "segment": 10,
+      "timestamp": 588.06
+    },
+    {
+      "title": "Microbial community structure and antibiotic resistance genes in Dinaric karst groundwater under contrasting hydrological conditions.",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.143725",
+      "source": "PubMed — Journal of hazardous materials",
+      "one_liner": "Karst aquifers are vulnerable drinking water resources, yet microbiome-resistome studies remain scarce. We investigated microbial community composition and antibiotic resistance gene (ARG) profiles in five karst groundwater sources along an anthropogenic gradient in coastal Croatia under contrasting hydrological conditions. 16S rRNA amplicon sequencing sh...",
+      "segment": 11,
+      "timestamp": 631.28
+    },
+    {
+      "title": "Gut Dysbiosis Promotes Myocardial Hypertrophy via GBP2b/GBP1 in Chronic Colitis.",
+      "url": "https://doi.org/10.1161/CIRCRESAHA.126.329058",
+      "source": "PubMed — Circulation research",
+      "one_liner": "BACKGROUND: Patients with inflammatory bowel disease are at increased risk of cardiovascular disease, yet the mechanisms linking chronic intestinal inflammation to cardiac dysfunction remain poorly understood. Inflammatory bowel disease is characterized by profound gut microbiota dysbiosis, which we hypothesize drives systemic immune dysregulation and con...",
+      "segment": 12,
+      "timestamp": 676.51
+    },
+    {
+      "title": "Intestinal mucus promotes microbial degradation of bamboo fibre in an in vitro giant panda gut fermentation system.",
+      "url": "https://doi.org/10.1093/jambio/lxag242",
+      "source": "PubMed — Journal of applied microbiology",
+      "one_liner": "BACKGROUND: In some hindgut-fermenting animals, the intestine secretes mucus that provides physical lubrication and protection under high-fiber dietary conditions, yet the role of this mucus in plant-fiber degradation by the gut microbiota remains unclear. The unique \"mucus expulsion\" of giant pandas offers an ideal model to investigate the physiological ...",
+      "segment": 13,
+      "timestamp": 719.85
+    },
+    {
+      "title": "Expanding bile acid diversity",
+      "url": "https://doi.org/10.1039/d6np00058d",
+      "source": "PubMed — Natural product reports",
+      "one_liner": "Covering: 2019 to April 2026Bile acids, originally identified as digestive emulsifiers, are now recognized as signaling molecules at the nexus of metabolism and immunity. Recent advances in metabolomics have revealed unexpected chemical diversity of BAs, derived from previously unrecognized conjugation pathways involving both the gut microbiota and the ho...",
+      "segment": 14,
+      "timestamp": 767.78
+    },
+    {
+      "title": "Toll-like Receptor 2 Recognition of Microbiota Lipoproteins and Lipids in Immunity and Therapy.",
+      "url": "https://doi.org/10.1021/acschembio.6c00498",
+      "source": "PubMed — ACS chemical biology",
+      "one_liner": "Toll-like receptor 2 (TLR2) recognizes a remarkably diverse range of microbial molecules and plays central roles in host defense, immune homeostasis, and cancer immunotherapy. Although bacterial lipoproteins and lipopeptides are canonical TLR2 agonists, recent studies have identified additional microbiota-derived ligands, including lipids, proteins, and p...",
+      "segment": 15,
+      "timestamp": 814.84
+    },
+    {
+      "title": "Novel options for the management of",
+      "url": "https://doi.org/10.1080/14787210.2026.2739273",
+      "source": "PubMed — Expert review of anti-infective therapy",
+      "one_liner": "AREAS COVERED: This perspective article summarizes emerging approaches that may shape the future management of CDI, including novel microbiome-sparing antimicrobials, fecal microbiota transplantation (FMT), live biotherapeutic products, EXPERT OPINION: Future CDI management is expected to evolve toward precision medicine focused on microbiome preservation...",
+      "segment": 16,
+      "timestamp": 861.78
+    },
+    {
+      "title": "Small Intestinal Bacterial Overgrowth in the Pediatric Population: A Review of Pathophysiology, Diagnosis, and Management.",
+      "url": "https://doi.org/10.1007/s11894-026-01059-w",
+      "source": "PubMed — Current gastroenterology reports",
+      "one_liner": "PURPOSE OF REVIEW: Small intestinal bacterial overgrowth (SIBO) remains a significant diagnostic and therapeutic challenge in pediatric gastroenterology. This review summarizes the epidemiology, pathophysiology, diagnosis, and management of SIBO in children, with emphasis on recent advances in microbiome science, evolving diagnostic paradigms, and pediatr...",
+      "segment": 17,
+      "timestamp": 908.88
+    },
+    {
+      "title": "A novel human",
+      "url": "https://doi.org/10.1128/msystems.00528-26",
+      "source": "PubMed — mSystems",
+      "one_liner": "UNLABELLED: Colorectal cancer is among the deadliest malignancies globally. The modern therapies do not lead to ideal outcomes due mostly to drug resistance and recurrence. Previously, we treated cancer patients by ameliorating the gut microbiome and achieved curative effects. We hypothesize that anticancer bacteria might be ubiquitous in the gut but supp...",
+      "segment": 18,
+      "timestamp": 1452.46
+    },
+    {
+      "title": "A probiotic",
+      "url": "https://doi.org/10.1080/19490976.2026.2736902",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Dietary flavonoids often require microbial metabolism to generate bioactive metabolites that influence host physiology. Hesperidin, a citrus flavanone glycoside, exhibits limited intestinal absorption and depends on gut microbial biotransformation to yield its active aglycone, hesperetin. Hesperetin activates CDGSH iron-sulfur domain 2 (CISD2), a pro-long...",
+      "segment": 19,
+      "timestamp": 1493.9
+    },
+    {
+      "title": "Fermented protein foods as modulators of the gut-muscle axis: mechanisms, evidence, and future directions.",
+      "url": "https://doi.org/10.1038/s42003-026-10941-2",
+      "source": "PubMed — Communications biology",
+      "one_liner": "Skeletal muscle has a profound influence on metabolic health, functional capacity and resilience across the lifespan. Beyond dietary protein and physical activity, the gut microbiome may have the capacity to impact skeletal muscle mass and function through the bidirectional network termed the gut-muscle axis (GMA). Fermented protein foods (FPFs) are prote...",
+      "segment": 20,
+      "timestamp": 1534.62
+    },
+    {
+      "title": "Multi-modality profiling identifies Neisseria flavescens as a central geroprotective oral commensal in humans.",
+      "url": "https://doi.org/10.1038/s43587-026-01220-0",
+      "source": "PubMed — Nature aging",
+      "one_liner": "Aging is accompanied by progressive physiological decline, yet the microbiome determinants that modulate aging remain unclear. Here, we identify Neisseria flavescens (Nf) as an oral commensal associated with decelerated aging in humans. Using AURORA, a generative multi-modality framework, we developed multi-modality aging clocks, performed in silico scree...",
+      "segment": 21,
+      "timestamp": 1653.85
+    },
+    {
+      "title": "A Novel GH26 β-Mannanase from Bacillus subtilis HM7 Producing Manno-Oligosaccharides with Strain-Specific Prebiotic Activity.",
+      "url": "https://doi.org/10.1007/s12010-026-05934-0",
+      "source": "PubMed — Applied biochemistry and biotechnology",
+      "one_liner": "Mannan-oligosaccharide (MOS) produced from the hydrolysis of mannan by β-mannanase, demonstrate several beneficial properties, such as prebiotic and modulation of tight junction activity. In this study, two novel GH26 β-mannanases, MAN26HM7/A and MAN26HM7/B, from Bacillus subtilis HM7 were cloned and expressed in Escherichia coli BL21 (DE3). The optimal p...",
+      "segment": 22,
+      "timestamp": 1765.74
+    },
+    {
+      "title": "Urbanization impacts the environmental microbial community and its antibiotic phenotypic resistance potential by reshaping the diversity and network complexity.",
+      "url": "https://doi.org/10.1016/j.envres.2026.125675",
+      "source": "PubMed — Environmental research",
+      "one_liner": "Urbanization imposes severe anthropogenic pressures on ecosystems, yet its impacts on the structural cohesion of environmental microbiomes and the co-occurrence of antimicrobial resistance (AMR) remain poorly understood. Here, we combined metabarcoding (16S/ITS2) with in vitro AMR screening of cultivable isolates across aquatic and terrestrial ecosystems ...",
+      "segment": 23,
+      "timestamp": 1880.4
+    },
+    {
+      "title": "Synthesis of Microbial-Derived Octadecanoids.",
+      "url": "https://doi.org/10.1002/lipd.70067",
+      "source": "PubMed — Lipids",
+      "one_liner": "Gut bacteria can convert dietary fatty acids into oxygenated metabolites called oxylipins, which can exert potent lipid mediator functions. The oxylipins derived from C-18 fatty acids are termed octadecanoids and associate with multiple disorders including allergy and metabolic dysregulation. This study presents the synthesis of 17 octadecanoids possessin...",
+      "segment": 24,
+      "timestamp": 1929.0
+    },
+    {
+      "title": "Fast structural search for classification of gut bacterial mucin O-glycan degrading enzymes",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014034",
+      "source": "PLOS Computational Biology",
+      "one_liner": "by Mert Erden, Tyler Schult, Karin Yanagi, Jugal Kishore Sahoo, David L. Kaplan, Lenore J. Cowen, Kyongbum Lee The Enzyme Commission (EC) numbering scheme provides a hierarchical way to classify enzymes according to their catalytic functions. While recent protein language model (PLM) based approaches like CLEAN and ProteInter have improved sequenc...",
+      "segment": 25,
+      "timestamp": 1978.03
+    }
+  ]
+}
