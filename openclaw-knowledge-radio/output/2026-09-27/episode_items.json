@@ -1,0 +1,132 @@
+{
+  "timestamps": [
+    0.0,
+    96.62,
+    226.98,
+    270.76,
+    318.1,
+    361.8,
+    473.45,
+    517.63,
+    563.15,
+    675.66,
+    1190.34,
+    1321.44,
+    1373.16,
+    1420.84
+  ],
+  "items": [
+    {
+      "title": "A Tissue-Engineered In Vitro Intestinal Wall Model for Assessing the Immunomodulatory Activity of the Human Gut Microbiota.",
+      "url": "https://doi.org/10.1007/s10517-026-06740-8",
+      "source": "PubMed — Bulletin of experimental biology and medicine",
+      "one_liner": "The development of in vitro models for screening the immunological activity of commensal bacteria in the human microbiota is a promising and highly relevant field of tissue engineering and experimental microbiology. This article describes a technology for fabricating a standardized, accessible, and easy-to-implement tissue-engineered in vitro model of the...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Immunochemotherapy response and its association with gut microbiota and immune profiles in advanced gastric cancer.",
+      "url": "https://doi.org/10.1007/s12094-026-04551-x",
+      "source": "PubMed — Clinical & translational oncology : official publication of the Federation of Spanish Oncology Societies and of the National Cancer Institute of Mexico",
+      "one_liner": "OBJECTIVE: To evaluate efficacy/safety/survival of PD‑1 inhibitor plus chemotherapy in advanced gastric cancer, and analyze early changes in immune cells and gut bacteria (Lactobacillus, E. coli, Bifidobacterium, Enterococcus) and their association with response. METHODS: Prospective cohort (n = 100). Responders (CR/PR/SD, n = 74) vs non‑responders (PD, n...",
+      "segment": 1,
+      "timestamp": 96.62
+    },
+    {
+      "title": "Protopine-induced neurotoxicity in female mice is associated with blood-brain barrier disruption, gut barrier impairment, cholinergic signaling alterations and gut microbiota dysbiosis.",
+      "url": "https://doi.org/10.1016/j.neuro.2026.103581",
+      "source": "PubMed — Neurotoxicology",
+      "one_liner": "Protopine is a major isoquinoline alkaloid of Macleaya cordata (Willd.) R. Br. and a constituent of botanical preparations used in veterinary and human medicine. Its occurrence in phytogenic feed additives makes characterization of its potential neurotoxicity important. Female ICR mice received protopine orally at 31.3 or 62.6mg/kg/day for seven days. The...",
+      "segment": 2,
+      "timestamp": 226.98
+    },
+    {
+      "title": "Developmental Origins of Health and Disease: The role of Clostridioides difficile Colonization of Gut Microbiota During Infancy.",
+      "url": "https://doi.org/10.1016/j.arcmed.2026.103526",
+      "source": "PubMed — Archives of medical research",
+      "one_liner": "The DOHaD theory was originally proposed to explain the link between fetal development and risk for non-communicable disease - NCD. With advancements in human microbiome research, this theory has been extended to consider postnatal development of the infant gut microbiome and how this contributes to NCD trajectories. C. difficile transiently colonizes the...",
+      "segment": 3,
+      "timestamp": 270.76
+    },
+    {
+      "title": "Antibiotic-induced gut microbiota perturbation is associated with impaired fitness and reduced starvation tolerance in the invasive pest Hyphantria cunea.",
+      "url": "https://doi.org/10.1016/j.jinsphys.2026.105071",
+      "source": "PubMed — Journal of insect physiology",
+      "one_liner": "Hyphantria cunea is a destructive invasive pest that poses severe threats to forest ecosystems and agroforestry economies globally, yet research on the functional roles of its gut microbiota remains limited. In this study, fourth-instar larvae were treated with a five-antibiotic cocktail incorporated into artificial diets to perturb gut bacterial communit...",
+      "segment": 4,
+      "timestamp": 318.1
+    },
+    {
+      "title": "Difficult relationships between humans and bacteria: associations between multiple sclerosis and the human microbiome.",
+      "url": "https://doi.org/10.1007/s10482-026-02429-0",
+      "source": "PubMed — Antonie van Leeuwenhoek",
+      "one_liner": "Multiple sclerosis (MS) is a chronic immune-mediated disease of the central nervous system, the pathogenesis of which involves complex interactions between genetic predisposition, environmental factors, and dysregulation of immune responses. This review critically synthesizes available evidence from studies demonstrating significant alterations in the com...",
+      "segment": 5,
+      "timestamp": 361.8
+    },
+    {
+      "title": "Biliary Microbiota and Bile Acid Remodeling in Common Bile Duct Stone Patients: A Pilot Multi-Omics Analysis of ERCP-Acquired Human Bile.",
+      "url": "https://doi.org/10.1111/jgh.70776",
+      "source": "PubMed — Journal of gastroenterology and hepatology",
+      "one_liner": "BACKGROUND: Gallstone disease is increasingly recognized as involving host-microbe-metabolite interactions. Although biliary microbial communities have been detected in biliary obstruction, their relationship with bile acid remodeling in common bile duct (CBD) stone disease remains unclear. METHODS: ERCP-acquired bile samples from 25 patients, including 1...",
+      "segment": 6,
+      "timestamp": 473.45
+    },
+    {
+      "title": "Plasma indole-3-propionic acid is a gut-derived metabolite and is associated with type 2 diabetes and cardiometabolic outcomes: Evidence from a human antibiotic intervention.",
+      "url": "https://doi.org/10.1080/19490976.2026.2736321",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "The gut microbiota influences host metabolism through diverse metabolites, many of which have been linked to glucose homeostasis and type 2 diabetes (T2D). Understanding microbial contributions to metabolite biosynthesis is essential for developing dietary and microbiota-targeted T2D prevention and treatment strategies. We performed targeted plasma metabo...",
+      "segment": 7,
+      "timestamp": 517.63
+    },
+    {
+      "title": "Sunflower oil-loaded lycopene protects intestinal barrier integrity following traumatic brain injury.",
+      "url": "https://doi.org/10.1007/s10735-026-10980-3",
+      "source": "PubMed — Journal of molecular histology",
+      "one_liner": "Traumatic brain injury (TBI) is a major cause of morbidity, mortality, and long-term neurological impairment. Growing evidence suggests that the gut-brain axis plays a crucial role in TBI pathophysiology, with gut microbiota dysbiosis potentially inducing inflammation and aggravating brain injury. Lycopene (Lyc), a potent antioxidant derived from tomatoes...",
+      "segment": 8,
+      "timestamp": 563.15
+    },
+    {
+      "title": "Humanizing Zophobas morio larvae microbiota for rapid screening of emerging decolonization strategies against multidrug-resistant bacteria.",
+      "url": "https://doi.org/10.1007/s10096-026-05674-3",
+      "source": "PubMed — European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology",
+      "one_liner": "PURPOSE: Designing efficient strategies against the gut colonization due to multidrug-resistant (MDR) bacteria is an important task. However, scalable and reliable in vivo models that possess a human-like gut microbiota are not yet available. Here, we tested whether Zophobas morio larvae (ZmL) could be used as a humanized microbiota model. METHODS: A pool...",
+      "segment": 9,
+      "timestamp": 675.66
+    },
+    {
+      "title": "Effectiveness of Lactobacillus-supplemented eradication therapy for Helicobacter pylori: a systematic review and meta-analysis of randomized controlled trials.",
+      "url": "https://doi.org/10.1007/s00228-026-04186-5",
+      "source": "PubMed — European journal of clinical pharmacology",
+      "one_liner": "PURPOSE: Helicobacter pylori eradication therapies supplemented with Lactobacillus spp. may improve eradication rates and reduce adverse events by modulating gut microbiota and immune responses. This meta-analysis aimed to evaluate the efficacy and safety of Lactobacillus-supplemented Helicobacter pylori eradication therapy. METHODS: We systematically sea...",
+      "segment": 10,
+      "timestamp": 1190.34
+    },
+    {
+      "title": "Genetically Predicted Gut Microbial Taxa and Inflammatory Proteins Associated With Atrial Fibrillation: A Bidirectional Mendelian Randomization and Colocalization Study.",
+      "url": "https://doi.org/10.1002/joa3.70454",
+      "source": "PubMed — Journal of arrhythmia",
+      "one_liner": "BACKGROUND: Observational studies have linked the gut microbiota and inflammatory proteins to atrial fibrillation (AF), but confounding, reverse causation, and instrument validity remain concerns. METHODS: We evaluated 473 microbial traits and 91 inflammatory proteins in relation to AF using two GWAS datasets. Sensitivity analyses included instruments sel...",
+      "segment": 11,
+      "timestamp": 1321.44
+    },
+    {
+      "title": "Oral microbiota dysbiosis in Sjögren's disease occurs independent of hyposalivation.",
+      "url": "https://doi.org/10.1093/rheumatology/keag538",
+      "source": "PubMed — Rheumatology (Oxford, England)",
+      "one_liner": "OBJECTIVES: The objective of this study was to compare the oral microbiota of patients with SjD and controls, and to correlate these findings with clinical variables such as hyposalivation, dental and periodontal status, and the occurrence of oral candidiasis. METHODS: Participants diagnosed with SjD (SjD group) and age- and sex-matched controls without S...",
+      "segment": 12,
+      "timestamp": 1373.16
+    },
+    {
+      "title": "The Eukaryotic Host-Microbe-Phage-Nutrition Interplay Determines the Bacterial Effectors of Supplemental Lysine's Health Benefits: An Experimental Cellular Senescence Model of Digestive Conditions in Older Adults.",
+      "url": "https://doi.org/10.1016/j.mad.2026.112260",
+      "source": "PubMed — Mechanisms of ageing and development",
+      "one_liner": "Recently, the consumption of various forms of the nutritive amino acid lysine (e.g., nutraceuticals and dietary supplements) has increased, particularly among the elderly, as it cannot be synthesized by the human body and plays a crucial role in several cellular physiological processes, including intestinal calcium and iron absorption, proteinogenesis, an...",
+      "segment": 13,
+      "timestamp": 1420.84
+    }
+  ]
+}
