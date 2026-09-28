@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Sep 2026 09:00:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 09:22:16 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-09-28</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-28/podcast_2026-09-28.mp3</guid>
+      <pubDate>Mon, 28 Sep 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-28/podcast_2026-09-28.mp3" length="9851876" type="audio/mpeg" />
+      <description>Chinese bayberry leaf proanthocyanidins improve glucose and lipid metabolism by reshaping the gut microbiota and strengthening the intestinal barrier, according to a new study in npj Biofilms and Microbiomes. | Exploratory integrative analysis of infant gut microbiome and metabolome suggests diet‑ and microbiome‑derived metabolites associated with childhood asthma. | According to the paper, participants were drawn from the INSPIRE birth cohort, with samples collected during early infancy.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Chinese bayberry leaf proanthocyanidins improve glucose and lipid metabolism by reshaping the gut microbiota and strengthening the intestinal barrier, according to a new study in npj Biofilms and Microbiomes. | Exploratory integrative analysis of infant gut microbiome and metabolome suggests diet‑ and microbiome‑derived metabolites associated with childhood asthma. | According to the paper, participants were drawn from the INSPIRE birth cohort, with samples collected during early infancy.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-09-27</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-27/podcast_2026-09-27.mp3</guid>
       <pubDate>Sun, 27 Sep 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-27/podcast_2026-09-27.mp3" length="10772444" type="audio/mpeg" />
-      <description>The paper introduces a tissue‑engineered in vitro intestinal wall model designed to screen the immunomodulatory activity of commensal bacteria from the human gut microbiota. | However, the available text does not provide details on the specific cellular components used to recreate the intestinal wall—such as which epithelial, mesenchymal, or immune cell lines were incorporated—or on the biomaterial scaffold(s) that underlie the construct. | The study set out to see whether adding a PD‑1 inhibitor to standard chemotherapy could improve outcomes for patients with advanced gastric cancer, and whether early shifts in the immune system and specific gut bacteria might predict who benefits.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-27/podcast_2026-09-27.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>The paper introduces a tissue‑engineered in vitro intestinal wall model designed to screen the immunomodulatory activity of commensal bacteria from the human gut microbiota. | However, the available text does not provide details on the specific cellular components used to recreate the intestinal wall—such as which epithelial, mesenchymal, or immune cell lines were incorporated—or on the biomaterial scaffold(s) that underlie the construct. | The study set out to see whether adding a PD‑1 inhibitor to standard chemotherapy could improve outcomes for patients with advanced gastric cancer, and whether early shifts in the immune system and specific gut bacteria might predict who benefits.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-03/podcast_2026-07-03.mp3</guid>
       <pubDate>Fri, 03 Jul 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-03/podcast_2026-07-03.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-07-02</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-02/podcast_2026-07-02.mp3</guid>
-      <pubDate>Thu, 02 Jul 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-02/podcast_2026-07-02.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>

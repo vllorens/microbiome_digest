@@ -1,0 +1,105 @@
+{
+  "timestamps": [
+    0.0,
+    45.09,
+    176.68,
+    292.52,
+    855.8,
+    900.77,
+    950.23,
+    993.19,
+    1100.49,
+    1213.62,
+    1255.42
+  ],
+  "items": [
+    {
+      "title": "Chinese bayberry leaves proanthocyanidins regulate glucose and lipid metabolism associated with the modulation of the gut microbiota-barrier axis",
+      "url": "https://www.nature.com/articles/s41522-026-01165-7",
+      "source": "npj Biofilms and Microbiomes",
+      "one_liner": "npj Biofilms and Microbiomes, Published online: 28 September 2026; doi:10.1038/s41522-026-01165-7 Chinese bayberry leaves proanthocyanidins regulate glucose and lipid metabolism associated with the modulation of the gut microbiota-barrier axis",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Exploratory integrative analysis of infant gut microbiome and metabolome suggests diet- and microbiome-derived metabolites associated with childhood asthma.",
+      "url": "https://doi.org/10.1007/s11306-026-02540-3",
+      "source": "PubMed — Metabolomics : Official journal of the Metabolomic Society",
+      "one_liner": "BACKGROUND: Early-life gut microbiome composition has been linked to childhood asthma risk, but the metabolic pathways underlying this association remain unclear. OBJECTIVE: To integrate infant gut microbiome and metabolome data to identify pathways associated with asthma risk. METHODS: Participants were from the INSPIRE birth cohort with early infancy 16...",
+      "segment": 1,
+      "timestamp": 45.09
+    },
+    {
+      "title": "Mesenchymal stem cell therapy and gut microbiota modulation in preclinical disease models: a systematic review with implications for hypertension.",
+      "url": "https://doi.org/10.1007/s11033-026-12782-y",
+      "source": "PubMed — Molecular biology reports",
+      "one_liner": "Mesenchymal stem/stromal cells (MSCs) have regenerative and immunomodulatory properties and may influence gut microbial responses. This systematic review synthesised preclinical evidence on MSC-associated gut-microbiota modulation and considered its implications for hypertension. PubMed, Scopus, Ovid MEDLINE, EBSCOhost Academic Search Elite and Web of Sci...",
+      "segment": 2,
+      "timestamp": 176.68
+    },
+    {
+      "title": "Reuterin alleviates Enterohemorrhagic Escherichia coli O157:H7-induced infectious diarrhea in mice through modulation of the gut microbiota.",
+      "url": "https://doi.org/10.1007/s11274-026-05281-6",
+      "source": "PubMed — World journal of microbiology & biotechnology",
+      "one_liner": "Enterohemorrhagic Escherichia coli O157:H7 (EHEC O157:H7) is a globally significant foodborne pathogen. Infection disrupts the gut microbiota and exacerbates host immune dysfunction. Reuterin, a broad-spectrum antimicrobial metabolite produced by Limosilactobacillus reuteri during glycerol fermentation, exhibits potent antibacterial activity in vitro; how...",
+      "segment": 3,
+      "timestamp": 292.52
+    },
+    {
+      "title": "Supramolecular Zinc-Polyphenol Coordination Assemblies Mitigate Colonic Inflammation by Regulating Mucosal Barrier and Microbiome.",
+      "url": "https://doi.org/10.1002/advs.77647",
+      "source": "PubMed — Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "one_liner": "To overcome the poor bioavailability and environmental instability of physical polyphenol co-assemblies while maximizing their preventive efficacy, the authors engineered carrier-free, metal-phenolic coordination nanoparticles (ZnCA NPs) utilizing divalent zinc (Zn",
+      "segment": 4,
+      "timestamp": 855.8
+    },
+    {
+      "title": "Targeted Restoration of the Microbial Tryptophan Oxidative Pathway Ameliorates Autism-Like Behavioral and Synaptic Deficits.",
+      "url": "https://doi.org/10.1002/advs.202522265",
+      "source": "PubMed — Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "one_liner": "Autism Spectrum Disorder (ASD) is associated with gut microbiota dysbiosis, yet the contribution of specific microbial metabolic pathways remains unclear. Reanalysis of a public ASD cohort revealed reduced functional potential in microbial tryptophan oxidative metabolism. We therefore designed targeted microbial tryptophan oxidative pathway (MTOP) interve...",
+      "segment": 5,
+      "timestamp": 900.77
+    },
+    {
+      "title": "A Gut-Brain Axis Underlying Succinate-Associated Compulsive-Like Behavior.",
+      "url": "https://doi.org/10.1002/advs.77836",
+      "source": "PubMed — Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "one_liner": "Emerging evidence indicates that gut microbiota influences host physiology and behavior through the microbiota-gut-brain axis, potentially contributing to the pathogenesis of obsessive-compulsive disorder (OCD). Our preliminary research demonstrated that mice colonized with fecal microbiota from OCD patients developed compulsive-like behaviors, associated...",
+      "segment": 6,
+      "timestamp": 950.23
+    },
+    {
+      "title": "Dynamic Changes in Airway Microbiota and Immune Homeostasis in Patients With COPD and the Implications for Nursing Management.",
+      "url": "https://doi.org/10.15326/jcopdf.2026.0799",
+      "source": "PubMed — Chronic obstructive pulmonary diseases (Miami, Fla.)",
+      "one_liner": "OBJECTIVE: The objectives of this study were to investigate changes in airway microbiota and immune markers across chronic obstructive pulmonary disease (COPD) stages and their associations with clinical phenotypes and nursing factors, providing a basis for precision nursing. METHODS: A total of 284 stable COPD patients (Global initiative for chronic Obst...",
+      "segment": 7,
+      "timestamp": 993.19
+    },
+    {
+      "title": "Whole Genome Sequencing Reveals Antibiotic Resistance Heterogeneity and Metabolic Signatures of Cutibacterium acnes in Atopic Dermatitis.",
+      "url": "https://doi.org/10.1007/s00284-026-05167-8",
+      "source": "PubMed — Current microbiology",
+      "one_liner": "Cutibacterium acnes (C. acnes), the most abundant microbe of the skin microbiota, has been reported playing a protective role in atopic dermatitis (AD), in contrast to its proinflammatory role in acne. While antibiotic resistance in C. acnes has been extensively studied in acne, little is known about its characteristics in AD. Here, we performed an integr...",
+      "segment": 8,
+      "timestamp": 1100.49
+    },
+    {
+      "title": "Crossroads of well-being: oral health, neurology, neuronutrition and healthy aging.",
+      "url": "https://doi.org/10.1515/med-2026-1515",
+      "source": "PubMed — Open medicine (Warsaw, Poland)",
+      "one_liner": "Oral health is increasingly recognized as a critical component of systemic and neurological resilience during aging. In particular, the oral microbiome may represent a modifiable interface linking periodontal inflammation, neuroimmune activation, and the risk of neurodegenerative disorders.Emerging evidence increasingly supports a link between oral microb...",
+      "segment": 9,
+      "timestamp": 1213.62
+    },
+    {
+      "title": "Engineered Probiotics with Pb-Binding Enhanced Curli Nanofibers for Oral Lead Elimination.",
+      "url": "https://doi.org/10.1021/acsami.6c13433",
+      "source": "PubMed — ACS applied materials & interfaces",
+      "one_liner": "Lead poisoning remains a persistent global health challenge. Current small-molecule chelation therapies for lead poisoning cause systemic side effects due to non-specific metal depletion. Here, we propose an \"affinity-selectivity-safety\" strategy using a living biointerface in which the probiotic is programmed to overexpress customized curli nanofibers. T...",
+      "segment": 10,
+      "timestamp": 1255.42
+    }
+  ]
+}
