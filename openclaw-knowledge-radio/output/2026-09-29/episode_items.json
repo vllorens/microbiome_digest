@@ -1,0 +1,168 @@
+{
+  "timestamps": [
+    0.0,
+    39.93,
+    84.06,
+    129.13,
+    226.16,
+    277.04,
+    321.89,
+    367.05,
+    467.63,
+    517.36,
+    567.49,
+    610.83,
+    660.41,
+    706.29,
+    747.62,
+    804.11,
+    843.03,
+    976.35
+  ],
+  "items": [
+    {
+      "title": "Personalized whole-body modeling links gut microbiota to metabolic perturbations in Alzheimer's disease.",
+      "url": "https://doi.org/10.1080/19490976.2026.2732659",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "The human gut microbiome has been linked to metabolic disturbances in Alzheimer's disease (AD). However, the mechanisms by which gut microbes might influence metabolic dysfunction in AD remain poorly understood. Previously, gut microbiome-personalized whole-body models of human metabolism have been applied to predict how altered gut microbiome composition...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Integrative holo-omic data analysis predicts interactions across the host-microbiome axis.",
+      "url": "https://doi.org/10.1128/spectrum.00263-26",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "Understanding the interplay between host organisms and their microbiomes is central to the development of sustainable food systems. However, high dimensionality and spurious associations remain major obstacles to extracting meaningful biological insight from multi-omic host-associated microbiome data; a challenge further exacerbated when \"holo-omic\" analy...",
+      "segment": 1,
+      "timestamp": 39.93
+    },
+    {
+      "title": "Combined chlorogenic acid and baicalin supplementation alleviates PRRSV-induced disease by modulating immune responses and gut microbiota in weaned piglets.",
+      "url": "https://doi.org/10.1128/spectrum.01602-26",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "UNLABELLED: Porcine reproductive and respiratory syndrome continues to pose a major challenge to the global swine industry, leading to substantial economic losses, and complicating disease management. This study evaluated whether dietary supplementation with chlorogenic acid and baicalin could alleviate clinical disease, modulate inflammatory and antivira...",
+      "segment": 2,
+      "timestamp": 84.06
+    },
+    {
+      "title": "Aflatoxin-associated hepatocarcinogenesis in a changing climate: the gut microbiome as a missing link in the One Health framework.",
+      "url": "https://doi.org/10.1007/s00210-026-05921-6",
+      "source": "PubMed — Naunyn-Schmiedeberg's archives of pharmacology",
+      "one_liner": "Global anthropogenic climate change is restructuring the thermohygric parameters that govern Aspergillus flavus and Aspergillus parasiticus ecology, expanding the geographic range and contamination intensity of aflatoxin in staple food crops worldwide. Aflatoxin B1, a Group 1 IARC carcinogen and the most potent naturally occurring hepatocarcinogen, underg...",
+      "segment": 3,
+      "timestamp": 129.13
+    },
+    {
+      "title": "Observation-control mismatch in host-microbiome systems: When does microbiome compression preserve intervention choice?",
+      "url": "https://doi.org/10.1016/j.biosystems.2026.105966",
+      "source": "PubMed — Bio Systems",
+      "one_liner": "The intestinal microbiome is a high-dimensional ecological system, but neither host physiology nor clinical measurement has access to all of that detail. Functional redundancy, ecological filtering and niche construction explain why taxonomically different communities can converge on similar functions or host phenotypes, yet they do not answer a separate ...",
+      "segment": 4,
+      "timestamp": 226.16
+    },
+    {
+      "title": "Geographic Variation and Core Signatures of the Root Canal Microbiome: A Cross-Country Comparative Study.",
+      "url": "https://doi.org/10.1111/iej.70277",
+      "source": "PubMed — International endodontic journal",
+      "one_liner": "AIM: Root canal infections harbour complex microbial communities that may vary across geographic populations. This study aimed to compare the root canal microbiome across Spain, Sweden, and the USA, identifying key microbial taxa, compositional and functional differences, and cohort-associated microbial signatures. METHODS: 16S rRNA gene sequencing datase...",
+      "segment": 5,
+      "timestamp": 277.04
+    },
+    {
+      "title": "Methods to Address Compositional Data Challenges in Clinical Studies for the Safety Assessment of Human Microbiome Perturbations.",
+      "url": "https://doi.org/10.1016/j.jfp.2026.100933",
+      "source": "PubMed — Journal of food protection",
+      "one_liner": "Advances in sequencing technologies have enabled increasingly detailed characterisation of the human microbiome in clinical studies, but interpretation of microbiome modulation which has relevance to health and disease characterisation or safety assessments remains methodologically challenging. Taxonomic profiles generated by amplicon or shotgun sequencin...",
+      "segment": 6,
+      "timestamp": 321.89
+    },
+    {
+      "title": "Bibliometric analysis of research trends and hotspots on the microbial mediation effects.",
+      "url": "https://doi.org/10.1007/s10482-026-02431-6",
+      "source": "PubMed — Antonie van Leeuwenhoek",
+      "one_liner": "The microbiome is increasingly recognized as a potential mediator linking environmental exposures and host-related factors to health outcomes. However, comprehensive bibliometric assessments of microbial mediation effects remain scarce. This study analyzed 3506 eligible articles published from 2016 to 2025, retrieved from the Web of Science Core Collectio...",
+      "segment": 7,
+      "timestamp": 367.05
+    },
+    {
+      "title": "Microbial Signals in Gliomas: Mechanisms, Clinical Implications, and Future Perspectives.",
+      "url": "https://doi.org/10.1016/j.hoc.2026.08.002",
+      "source": "PubMed — Hematology/oncology clinics of North America",
+      "one_liner": "Emerging evidence suggests that the gut microbiome contributes to glioma biology through immune regulation, microbial metabolites, and modulation of the tumor microenvironment. This review summarizes current evidence linking the microbiome-gut-brain axis to glioma development, progression, and treatment response, highlighting findings from human studies, ...",
+      "segment": 8,
+      "timestamp": 467.63
+    },
+    {
+      "title": "Altered tryptophan metabolism and AhR-associated epithelial barrier dysfunction in diet-induced obese mice with DSS-induced colitis.",
+      "url": "https://doi.org/10.1016/j.intimp.2026.117468",
+      "source": "PubMed — International immunopharmacology",
+      "one_liner": "Obesity may modify intestinal inflammation through altered microbial metabolism and epithelial barrier regulation. We combined acute and chronic dextran sulffate sodium (DSS) colitis model in high-fat diet (HFD)-induced obese mice with fecal microbiota sequencing, fecal and colonic metabolomic profiling, pharmacological intervention and Caco-2 barrier ass...",
+      "segment": 9,
+      "timestamp": 517.36
+    },
+    {
+      "title": "Procyanidins and Bifidobacterium infantis alleviate anxiety and depression-like behavior in alcohol use disorder withdrawal mice via the gut-immune-brain axis.",
+      "url": "https://doi.org/10.1016/j.bbi.2026.107035",
+      "source": "PubMed — Brain, behavior, and immunity",
+      "one_liner": "BACKGROUND: Alcohol use disorder (AUD) is frequently comorbid with anxiety and depression, conditions closely tied to gut microbiota dysbiosis, systemic inflammation, and immune imbalance-particularly between pro-inflammatory Th17 cells and regulatory T (Treg) cells. These peripheral immune perturbations can propagate neuroinflammation and disrupt central...",
+      "segment": 10,
+      "timestamp": 567.49
+    },
+    {
+      "title": "Comparative Effects of Microbiota-Modifying Interventions for Gastrointestinal Disorders in Adults with Colorectal Cancer: A Systematic Review and Network Meta-Analysis.",
+      "url": "https://doi.org/10.1016/j.soncn.2026.152396",
+      "source": "PubMed — Seminars in oncology nursing",
+      "one_liner": "OBJECTIVES: Chemotherapy for colorectal cancer (CRC) frequently causes gastrointestinal (GI) toxicities, which may affect treatment adherence and quality of life. These toxicities have been partially linked to chemotherapy-induced alterations in the gut microbiota. This study aimed to compare the effects of microbiota-modifying interventions on chemothera...",
+      "segment": 11,
+      "timestamp": 610.83
+    },
+    {
+      "title": "Microbiota and nutrigenomics: beneficial allies or hidden threats.",
+      "url": "https://doi.org/10.1039/d5fo04705f",
+      "source": "PubMed — Food & function",
+      "one_liner": "Nutrigenomics explores how nutrients interact with the genome to influence metabolic and physiological functions through microbial and molecular mechanisms. Nutrients and bioactive food compounds act as biochemical modulators that regulate gene expression and immune responses, sustaining physiological stability. On the other hand, the gut microbiota creat...",
+      "segment": 12,
+      "timestamp": 660.41
+    },
+    {
+      "title": "Synbiotic supplementation may attenuate osteoporosis following spinal cord injury in a rat model.",
+      "url": "https://doi.org/10.1080/10790268.2026.2672829",
+      "source": "PubMed — The journal of spinal cord medicine",
+      "one_liner": "CONTEXT: Spinal cord injury (SCI) often leads to severe bone loss and a higher risk of osteoporosis. Current treatments have not fully addressed bone deterioration, which remains a major clinical issue. New research suggests that the gut microbiota may influence bone health, and probiotics might help improve bone status. This study aimed to assess the eff...",
+      "segment": 13,
+      "timestamp": 706.29
+    },
+    {
+      "title": "Functional inorganic nanomaterials for gastrointestinal disease management: Recent developments and future perspectives.",
+      "url": "https://doi.org/10.1177/09592989261489483",
+      "source": "PubMed — Bio-medical materials and engineering",
+      "one_liner": "BackgroundGastrointestinal (GI) diseases such as inflammatory bowel disease, colorectal cancer, gastric disorders, and infections are a major health burden worldwide, and their pathophysiology is complex, involving dynamic pH gradients, mucus barriers, microbiota interactions, and oxidative stress.ObjectiveThis review discusses recent developments in the ...",
+      "segment": 14,
+      "timestamp": 747.62
+    },
+    {
+      "title": "Restoration of lactose metabolism in Lacticaseibacillus rhamnosus GG for dairy fermentation applications.",
+      "url": "https://doi.org/10.3168/jds.2026-29059",
+      "source": "PubMed — Journal of dairy science",
+      "one_liner": "Lacticaseibacillus rhamnosus GG (LGG) is a widely used probiotic but has limited applications in dairy fermentation because of its poor lactose utilization. Here, we generated a lactose-positive LGG derivative using the LGG endogenous CRISPR-Cas system achieving a marker-free, scarless 20-bp deletion to disrupt the t1 transcriptional terminator upstream o...",
+      "segment": 15,
+      "timestamp": 804.11
+    },
+    {
+      "title": "The effect of pectin supplementation on geriatric individuals with frailty: a randomised placebo-controlled dietary intervention study.",
+      "url": "https://doi.org/10.1007/s11357-026-02562-8",
+      "source": "PubMed — GeroScience",
+      "one_liner": "Frailty is associated with impaired physical function, psychological decline, and alterations in the gut microbiome, yet nutritional strategies targeting these interconnected pathways remain limited. Low-methoxy (LM) pectin, a fermentable dietary fibre derived from plant cell walls, has demonstrated immunomodulatory and microbiome-modifying effects in pre...",
+      "segment": 16,
+      "timestamp": 843.03
+    },
+    {
+      "title": "Opposing functions of gut immunomodulatory metabolites on CAR-T therapy.",
+      "url": "https://doi.org/10.1016/j.cell.2026.09.004",
+      "source": "PubMed — Cell",
+      "one_liner": "Chimeric antigen receptor (CAR)-T cell therapy has transformed hematological cancer treatment, yet nearly half of patients still relapse or progress. Increasing evidence implicates the gut microbiome and antibiotic exposure as key modulators of clinical outcomes. In a cohort of 129 patients across three German centers, shotgun metagenomics and targeted ma...",
+      "segment": 17,
+      "timestamp": 976.35
+    }
+  ]
+}
