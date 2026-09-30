@@ -1,0 +1,285 @@
+{
+  "timestamps": [
+    0.0,
+    43.7,
+    82.65,
+    124.19,
+    529.86,
+    571.68,
+    619.39,
+    665.3,
+    706.67,
+    758.05,
+    879.25,
+    926.6,
+    1033.15,
+    1066.6,
+    1105.72,
+    1155.28,
+    1201.11,
+    1240.78,
+    1296.19,
+    1405.46,
+    1457.2,
+    1506.16,
+    1547.94,
+    1588.32,
+    1713.07,
+    2222.23,
+    2342.54,
+    2465.65,
+    2505.78,
+    2555.36,
+    2606.16
+  ],
+  "items": [
+    {
+      "title": "Gut microbiota primes stroke severity via the AHR in intestinal dendritic cells.",
+      "url": "https://doi.org/10.1016/j.cell.2026.09.013",
+      "source": "PubMed — Cell",
+      "one_liner": "The gut microbiota modulates systemic immunity and neurological diseases, yet the underlying mechanisms remain unclear. Here, we identify the enrichment of indole-producing Escherichia coli being associated with worse outcomes in mice and patients with ischemic stroke. Microbial indole triggers an aryl hydrocarbon receptor (AHR)-dependent response in dend...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Integrated microbiome and metabolome analysis insights into microbial roles in poplar wetwood formation and control.",
+      "url": "https://doi.org/10.1002/ps.71329",
+      "source": "PubMed — Pest management science",
+      "one_liner": "BACKGROUND: The globally distributed poplar wetwood disease causes huge economic losses. This study aims to elucidate the microbial communities and metabolite changes contribute to the formation of wetwood. RESULTS: Comparative analysis reveals pathogens are enriched in wetwood. With the increase in tree age and disease index, the growth of microorganisms...",
+      "segment": 1,
+      "timestamp": 43.7
+    },
+    {
+      "title": "The role of vulvar, vaginal, and gut microbiota in the pathogenesis and clinical course of vulvar lichen sclerosus: a narrative review.",
+      "url": "https://doi.org/10.5603/gpl.110586",
+      "source": "PubMed — Ginekologia polska",
+      "one_liner": "Vulvar lichen sclerosus (VLS) is a chronic disease of unclear aetiology, leading to progressive atrophic changes in the skin and mucous membranes of the anogenital region. The condition is associated with an increased risk of developing vulvar squamous cell carcinoma. Increasing evidence suggests that dysbiosis of the vulvar, vaginal and gut microbiota pl...",
+      "segment": 2,
+      "timestamp": 82.65
+    },
+    {
+      "title": "Computational approaches to predicting xenobiotic metabolism by the human gut microbiota.",
+      "url": "https://doi.org/10.1080/17425255.2026.2738611",
+      "source": "PubMed — Expert opinion on drug metabolism & toxicology",
+      "one_liner": "INTRODUCTION: The human gut microbiota significantly influences drug pharmacokinetics and pharmacodynamics, driving interindividual variability in efficacy and toxicity. As experimental characterization of microbiome-mediated metabolism remains resource-intensive, computational prediction has emerged as an auxiliary strategy for comprehensive ADMET profil...",
+      "segment": 3,
+      "timestamp": 124.19
+    },
+    {
+      "title": "Screening of known gut microbiome-derived metabolites in anti-tumor immunity of colorectal cancer.",
+      "url": "https://doi.org/10.1136/jitc-2026-015554",
+      "source": "PubMed — Journal for immunotherapy of cancer",
+      "one_liner": "BACKGROUND: Most colorectal cancers (CRCs) patients with microsatellite stability (MSS) have minimal benefit from immune checkpoint inhibitor monotherapy, and even after PD-1/PD-L1 blockade, T cell function remains inadequately restored, highlighting the importance of PD-1 downstream signaling events. SHP-2 is a critical effector of PD-1 downstream signal...",
+      "segment": 4,
+      "timestamp": 529.86
+    },
+    {
+      "title": "Gut Microbiota-Derived Short-Chain Fatty Acids Driven by N-Carbamylglutamate Alleviates Premature Ovarian Failure Through Suppressing Ferroptosis.",
+      "url": "https://doi.org/10.1096/fj.202504547RRR",
+      "source": "PubMed — FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "one_liner": "Premature ovarian failure (POF) is characterized by abnormal ovulatory and ovarian endocrine functions in women before the age of 40, and is a leading cause of female infertility. Currently, effective drug treatments for this condition remain lacking in clinical practice. N-Carbamylglutamate (NCG) is a bioactive substance with anti-inflammatory and antiox...",
+      "segment": 5,
+      "timestamp": 571.68
+    },
+    {
+      "title": "The role of gut microbiota-immune axis in swallowing dysfunction and nursing interventions.",
+      "url": "https://doi.org/10.1556/030.2026.02927",
+      "source": "PubMed — Acta microbiologica et immunologica Hungarica",
+      "one_liner": "Dysphagia constitutes a growing global health burden, particularly among geriatric and post-stroke populations. Although traditionally managed through biomechanical interventions, emerging evidence underscores the microbiota-immune axis as a critical modulator of systemic resilience and clinical outcomes. This review delineates how dysphagia drives system...",
+      "segment": 6,
+      "timestamp": 619.39
+    },
+    {
+      "title": "Microbiome signatures linked to cancer and treatment adverse events in a real-world cohort.",
+      "url": "https://doi.org/10.1016/j.cell.2026.09.009",
+      "source": "PubMed — Cell",
+      "one_liner": "The gut microbiome has emerged as a key contributor to cancer biology. Prior studies have focused on individual cancers and often overlook comorbidities, obscuring whether reported associations are specific to a cancer type. Here, we present findings from a real-world mixed-cancer cohort (Mayo Clinic Cancer Microbiome), comprising 1,364 cancer patients an...",
+      "segment": 7,
+      "timestamp": 665.3
+    },
+    {
+      "title": "Microbiome symbiosis, host-pathogen dynamics, and the search for new therapeutics: highlights from the Theobald Smith Society Spring 2026 Symposium.",
+      "url": "https://doi.org/10.1128/msphere.00366-26",
+      "source": "PubMed — mSphere",
+      "one_liner": "The annual Theobald Smith Society (TSS) spring meeting was convened at Rutgers University in New Brunswick, New Jersey, on 8 May 2026. TSS is the New Jersey branch of ASM and holds two annual meetings, in the fall and spring. These meetings bring together microbiologists, trainees at all levels, and professionals from both academia and industry to share t...",
+      "segment": 8,
+      "timestamp": 706.67
+    },
+    {
+      "title": "Impact of a Mediterranean diet and physical activity intervention on the gut microbiome and faecal metabolites: findings from the MedEx-UK randomised controlled trial.",
+      "url": "https://doi.org/10.1017/S0007114526108551",
+      "source": "PubMed — The British journal of nutrition",
+      "one_liner": "Diet and physical activity (PA) are potential modulators of the gut microbiome, although research findings are inconsistent, and few studies have explored their combined effects. This study used data from ninety-three participants (forty-seven with pre- and post-intervention samples) from the MedEx-UK randomised controlled trial to investigate the impact ...",
+      "segment": 9,
+      "timestamp": 758.05
+    },
+    {
+      "title": "Molecular crosstalk of probiotics in gut health: A chemical perspective on metabolite-mediated pathways.",
+      "url": "https://doi.org/10.1016/j.foodchem.2026.150253",
+      "source": "PubMed — Food chemistry",
+      "one_liner": "Intestinal diseases, encompassing conditions like inflammatory bowel disease, irritable bowel syndrome, and colorectal cancer, represent a significant global health burden. Their pathogenesis is intricately linked to gut microbiota dysbiosis, which disrupts intestinal barrier integrity and immune homeostasis. Probiotics, as live beneficial microorganisms,...",
+      "segment": 10,
+      "timestamp": 879.25
+    },
+    {
+      "title": "Spatially resolved single cell atlas deciphers SAA1 inflammatory epithelial cells.",
+      "url": "https://doi.org/10.1038/s41368-026-00464-1",
+      "source": "PubMed — International journal of oral science",
+      "one_liner": "Disruption of epithelial integrity is a pivotal event in inflammation, disease pathogenesis, and tissue homeostasis. To investigate these processes in chronic inflammatory disease, we performed spatial transcriptomics integrated with single-cell RNA sequencing (scRNA-seq) on human gingival tissue, coupled with metagenomic analysis of matched subgingival p...",
+      "segment": 11,
+      "timestamp": 926.6
+    },
+    {
+      "title": "Intestinal Alkaline Phosphatase Interaction Gut Model.",
+      "url": "https://doi.org/10.1007/s11538-026-01727-y",
+      "source": "PubMed — Bulletin of mathematical biology",
+      "one_liner": "High fat Western diet (WD) is known to alter the composition of gut microbiota causing the release of lipopolysaccharide (LPS) (Cani et al. 2007). LPS is a TLR4 ligand, produced by Gram-negative bacteria, and is a potent inducer of various inflammatory cytokines. Inflammation in the gut can promote leaky gut syndrome which results in the translocation of ...",
+      "segment": 12,
+      "timestamp": 1033.15
+    },
+    {
+      "title": "Deciphering underground decarboxylase activity towards N",
+      "url": "https://doi.org/10.1016/j.foodchem.2026.150234",
+      "source": "PubMed — Food chemistry",
+      "one_liner": "Thermal food processing generates diverse compounds interacting with the gut microbiota. Despite their abundance, the microbial turnover of diet-borne N",
+      "segment": 13,
+      "timestamp": 1066.6
+    },
+    {
+      "title": "WIPButyrate produced by the Lycium ruthenicum polysaccharide alleviated sleep deprivation-induced chronic fatigue syndrome in mice through promoting microglial autophagy.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119565",
+      "source": "PubMed — Food research international (Ottawa, Ont.)",
+      "one_liner": "This study explored whether Lycium ruthenicum polysaccharide (LRP) influences gut microbiota-derived short-chain fatty acids (SCFAs) and neuroinflammatory responses in a sleep deprivation-induced CFS-like mouse model. Oral LRP was associated with improved fatigue-related behavioral performance, reduced neuronal injury, and better cognitive and motor outco...",
+      "segment": 14,
+      "timestamp": 1105.72
+    },
+    {
+      "title": "Anti-inflammatory and barrier-protective effects of metabolites from Lactobacillus co-fermentation with linoleic acid and human fecal microbiota.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119607",
+      "source": "PubMed — Food research international (Ottawa, Ont.)",
+      "one_liner": "This study investigated the protective effects of metabolites generated from the co-fermentation of Lactobacillus, linoleic acid (LA) and human fecal microbiota on gut microbiota composition, intestinal inflammation and barrier function. While probiotic-derived conjugated linoleic acid (CLA) production has been reported, the functional effects of CLA-enri...",
+      "segment": 15,
+      "timestamp": 1155.28
+    },
+    {
+      "title": "Inflammatory Cytokines as Mediators of the Association Between Obesity and Chronic Apical Periodontitis.",
+      "url": "https://doi.org/10.1016/j.joen.2026.09.011",
+      "source": "PubMed — Journal of endodontics",
+      "one_liner": "OBJECTIVE: To assess genetic associations thatsupporta plausible causal interpretation of the obesity-chronic apical periodontitis (CAP) relationship, and to screen mediators including inflammatory cytokines, immune cell profiles and gut microbiota. METHODS: Two-sample Mendelian randomization (MR) based on public obesity GWAS and FinnGen CAP data; two-ste...",
+      "segment": 16,
+      "timestamp": 1201.11
+    },
+    {
+      "title": "Systemically delivered",
+      "url": "https://doi.org/10.1128/spectrum.02512-26",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "UNLABELLED: The gut microbiome can contribute to anti-tumor immunity and cancer therapy responses, but translating live microbe-based interventions remains challenging due to safety, controllability, and delivery constraints. Bacterial extracellular vesicles (BEVs) are an attractive cell-free alternative, as they package bacterial cargo into a nanoscale f...",
+      "segment": 17,
+      "timestamp": 1240.78
+    },
+    {
+      "title": "Alginate-Grape Pomace Flour Microcapsules for Enhanced Protection and Delivery of Lacticaseibacillus rhamnosus GG.",
+      "url": "https://doi.org/10.1007/s12602-026-11228-y",
+      "source": "PubMed — Probiotics and antimicrobial proteins",
+      "one_liner": "The incorporation of plant-derived fibers as co-encapsulating agents has emerged as a strategy to improve probiotic stability and functionality. This study evaluated grape pomace flour (GF) as a co-encapsulant in sodium alginate (SA) based microcapsules containing Lacticaseibacillus rhamnosus GG, focusing on structural properties, thermal resistance, anti...",
+      "segment": 18,
+      "timestamp": 1296.19
+    },
+    {
+      "title": "Gut Microbial Topology and Metabolic Signatures Associated With Colorectal Neoplasia.",
+      "url": "https://doi.org/10.1002/advs.77991",
+      "source": "PubMed — Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "one_liner": "Alterations of gut microbial communities impact health. However, the structure and function of community-level topologies related to colorectal neoplasia (CRN) remain unclear. We analyzed 3807 newly sequenced stool metagenomes from participants (2725 healthy controls, 759 non-advanced adenomas, 297 advanced adenomas, and 26 colorectal cancers) in a multic...",
+      "segment": 19,
+      "timestamp": 1405.46
+    },
+    {
+      "title": "Impact of Tunisian Fermented Zgougou and Related Lactobacilli on Caco-2 Cell Barrier Integrity: Upregulation of Key Tight Junction Proteins.",
+      "url": "https://doi.org/10.1002/fsn3.72387",
+      "source": "PubMed — Food science & nutrition",
+      "one_liner": "The intestinal barrier is a critical regulator of gut health, often compromised by dysbiosis and inflammation. Given the rising interest in fermented plant-based foods and probiotics as adjuvants in maintaining gut health, this study explored the biological activity of zgougou juice, comparing spontaneous fermentation (J) with driven fermentation using tw...",
+      "segment": 20,
+      "timestamp": 1457.2
+    },
+    {
+      "title": "Gut microbial butyrate in pain mechanisms and precision interventions",
+      "url": "https://www.nature.com/articles/s41522-026-01171-9",
+      "source": "npj Biofilms and Microbiomes",
+      "one_liner": "npj Biofilms and Microbiomes, Published online: 30 September 2026; doi:10.1038/s41522-026-01171-9 Gut microbial butyrate in pain mechanisms and precision interventions",
+      "segment": 21,
+      "timestamp": 1506.16
+    },
+    {
+      "title": "Do higher-order moments improve inference of population dynamics?",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.09.28.754680",
+      "source": "bioRxiv — ecology",
+      "one_liner": "Fitting mathematical models of population dynamics to microbial time-series data allows us to estimate the ecological processes and interactions taking place in the microbiome. Repeated experiments of microbial systems yield replicates which slightly differ from each other. Some of this variability arises due to the fact that births and deaths occur at ra...",
+      "segment": 22,
+      "timestamp": 1547.94
+    },
+    {
+      "title": "Bifidobacteria: biogeography, host adaptation and ecological functions.",
+      "url": "https://doi.org/10.1038/s41579-026-01367-y",
+      "source": "PubMed — Nature reviews. Microbiology",
+      "one_liner": "Bifidobacteria are widely recognized important symbionts of the human gut microbiome, shaping host physiology from birth to adulthood to old age. Their evolutionary success is derived from metabolic versatility, ecological adaptation and intimate host interactions. Equipped with an expansive glycan-degrading repertoire, stress-response systems and special...",
+      "segment": 23,
+      "timestamp": 1588.32
+    },
+    {
+      "title": "Glucansucrases as versatile biocatalysts: structural insights, synthesis of emerging prebiotic oligosaccharides, and their functional roles in food matrices.",
+      "url": "https://doi.org/10.1007/s10482-026-02432-5",
+      "source": "PubMed — Antonie van Leeuwenhoek",
+      "one_liner": "Glucansucrases (GSs), primarily members of the Glycoside Hydrolase family 70 (GH70), have emerged as transformative biocatalysts for the sustainable synthesis of high-value α-glucans and tailored oligosaccharides directly from sucrose. This review systematically explores the structural insights and catalytic mechanisms of these enzymes, emphasizing the mo...",
+      "segment": 24,
+      "timestamp": 1713.07
+    },
+    {
+      "title": "Immunomodulatory Function of Soluble Dietary Fiber: Toward Application for Prevention and Treatment of Food Allergies.",
+      "url": "https://doi.org/10.1007/s11882-026-01292-3",
+      "source": "PubMed — Current allergy and asthma reports",
+      "one_liner": "PURPOSE OF REVIEW: Gastrointestinal dysbiosis is implicated in the disruption of immune homeostasis and the pathogenesis of food allergies. Consequently, dietary fibers have gained attention as key molecules modulating microbial balance and immunity. This review aims to explore the immunomodulatory functions of dietary fibers commonly found in the human d...",
+      "segment": 25,
+      "timestamp": 2222.23
+    },
+    {
+      "title": "Predicted shifts in microbial functional potential across the late glacial to holocene transition: a 16S rRNA-based inference from southeastern Arabian Sea sediments.",
+      "url": "https://doi.org/10.1007/s10482-026-02433-4",
+      "source": "PubMed — Antonie van Leeuwenhoek",
+      "one_liner": "Marine sediments preserve valuable records of ancient microbial communities. In this exploratory study, direct environmental amplicon sequencing reconstruction is often constrained by DNA degradation. In this exploratory study, we applied predictive functional profiling (PICRUSt2) to 16S rRNA gene amplicon data from five discrete sediment horizons spannin...",
+      "segment": 26,
+      "timestamp": 2342.54
+    },
+    {
+      "title": "Multi-omic profiling and pathways related to changes in liver histology after Roux-en-Y gastric bypass: a longitudinal study.",
+      "url": "https://doi.org/10.1016/j.ebiom.2026.106498",
+      "source": "PubMed — EBioMedicine",
+      "one_liner": "BACKGROUND: Roux-en-Y gastric bypass (RYGB) improves metabolic dysfunction-associated steatotic liver disease (MASLD). However, the impact of RYGB on hepatic transcriptome, faecal microbiome and serum/faecal metabolome remain understudied. Our objective was to investigate the change in these omics and their relationships with changes in liver histology. M...",
+      "segment": 27,
+      "timestamp": 2465.65
+    },
+    {
+      "title": "Chitosan-induced delay in quality deterioration of sturgeon fillets: insights from untargeted metabolomics and microbial diversity profiling under refrigeration.",
+      "url": "https://doi.org/10.1016/j.foodchem.2026.150210",
+      "source": "PubMed — Food chemistry",
+      "one_liner": "The preservative mechanism of chitosan coating on refrigerated sturgeon fillets was investigated using untargeted metabolomics and microbial diversity profiling over a 16-day period. Chitosan treatment significantly preserved endogenous antioxidant defenses (SOD: 63.46 U/mg protein) and delayed chemical deterioration, maintaining total volatile basic nitr...",
+      "segment": 28,
+      "timestamp": 2505.78
+    },
+    {
+      "title": "Metagenomic-metabolomic integration elucidates stage-specific dynamics of microbial communities and metabolites driving pork spoilage in commercial supply chains.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119678",
+      "source": "PubMed — Food research international (Ottawa, Ont.)",
+      "one_liner": "Microbial-metabolic axis drives meat quality deterioration and shelf-life changes along commercial supply chains. This study tracked pork quality and freshness from postmortem processing to retail sale by integrating untargeted metabolomic and metagenomic analyses. Over the first 1700 min postmortem, pork showed a decline in pH and increases in L*, a* and...",
+      "segment": 29,
+      "timestamp": 2555.36
+    },
+    {
+      "title": "Strollur: an R package for working with amplicon sequence data in R.",
+      "url": "https://doi.org/10.1128/mra.00839-26",
+      "source": "PubMed — Microbiology resource announcements",
+      "one_liner": "Microbiologists are increasingly relying on R to analyze and visualize amplicon sequence data from microbiome studies. We present strollur, which is an open-source package that facilitates the import, export, and handling of amplicon sequence data within the R programming language.",
+      "segment": 30,
+      "timestamp": 2606.16
+    }
+  ]
+}
