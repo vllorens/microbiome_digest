@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 09:29:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 09:31:22 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-10-02</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-02/podcast_2026-10-02.mp3</guid>
+      <pubDate>Fri, 02 Oct 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-02/podcast_2026-10-02.mp3" length="21006188" type="audio/mpeg" />
+      <description>Researchers compared the plasma bile acid‑gut microbiota axis in irritable bowel syndrome with diarrhea (IBS‑D) and constipation (IBS‑C) to explain their divergent symptoms. | The study reports that a wild rice locus enables microbiome re‑domestication for enhanced nitrogen‑use efficiency, as indicated by the paper’s title in Nature Microbiology. | Research published in Aging Cell via PubMed reveals that in community‑dwelling older adults, shifts in gut microbiota composition are closely linked to altered immune profiles, with certain bacterial taxa correlating with reduced inflammatory markers and enhanced antiviral readiness.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Researchers compared the plasma bile acid‑gut microbiota axis in irritable bowel syndrome with diarrhea (IBS‑D) and constipation (IBS‑C) to explain their divergent symptoms. | The study reports that a wild rice locus enables microbiome re‑domestication for enhanced nitrogen‑use efficiency, as indicated by the paper’s title in Nature Microbiology. | Research published in Aging Cell via PubMed reveals that in community‑dwelling older adults, shifts in gut microbiota composition are closely linked to altered immune profiles, with certain bacterial taxa correlating with reduced inflammatory markers and enhanced antiviral readiness.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-09-30</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-30/podcast_2026-09-30.mp3</guid>
       <pubDate>Wed, 30 Sep 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-30/podcast_2026-09-30.mp3" length="19914092" type="audio/mpeg" />
-      <description>Researchers report that a gut microbiome enriched with indole‑producing Escherichia coli predicts poorer outcomes after ischemic stroke in both mice and human patients. | Researchers combined microbiome and metabolome profiling to pinpoint drivers of poplar wetwood, finding that pathogenic microbes proliferate in diseased wood and their abundance rises with tree age and disease severity, while specific metabolites shift in tandem. | Emerging research links alterations in the vulvar, vaginal and gut microbiomes to the development and progression of vulvar lichen sclerosus, a chronic inflammatory skin disorder that raises the risk of squamous cell carcinoma.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-09-30/podcast_2026-09-30.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Researchers report that a gut microbiome enriched with indole‑producing Escherichia coli predicts poorer outcomes after ischemic stroke in both mice and human patients. | Researchers combined microbiome and metabolome profiling to pinpoint drivers of poplar wetwood, finding that pathogenic microbes proliferate in diseased wood and their abundance rises with tree age and disease severity, while specific metabolites shift in tandem. | Emerging research links alterations in the vulvar, vaginal and gut microbiomes to the development and progression of vulvar lichen sclerosus, a chronic inflammatory skin disorder that raises the risk of squamous cell carcinoma.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-06/podcast_2026-07-06.mp3</guid>
       <pubDate>Mon, 06 Jul 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-06/podcast_2026-07-06.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-07-05</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-05/podcast_2026-07-05.mp3</guid>
-      <pubDate>Sun, 05 Jul 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-05/podcast_2026-07-05.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
