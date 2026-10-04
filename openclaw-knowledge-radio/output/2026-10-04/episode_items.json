@@ -1,0 +1,364 @@
+{
+  "timestamps": [
+    0.0,
+    32.95,
+    160.26,
+    203.22,
+    338.91,
+    390.0,
+    519.48,
+    558.6,
+    610.41,
+    652.19,
+    700.52,
+    748.88,
+    797.3,
+    839.2,
+    885.4,
+    933.64,
+    970.76,
+    1009.06,
+    1055.11,
+    1093.51,
+    1139.63,
+    1256.44,
+    1305.18,
+    1356.17,
+    1397.14,
+    1444.58,
+    1494.02,
+    1542.92,
+    1587.44,
+    1636.8,
+    1681.66,
+    1724.59,
+    1766.97,
+    1819.91,
+    1864.62,
+    1903.59,
+    1949.69,
+    1991.64
+  ],
+  "items": [
+    {
+      "title": "Transplantation of Elderly Human Gut Microbiota Into Pigs Reprograms Intestinal Barrier Function, Plasma Metabolome, and Gut Mucosal Transcriptomic Landscape.",
+      "url": "https://doi.org/10.1111/acel.70725",
+      "source": "PubMed — Aging cell",
+      "one_liner": "The gut microbiota plays a pivotal role in maintaining intestinal homeostasis and regulating host metabolism, yet its composition and function undergo substantial alterations with aging. However, the relationship between age-associated microbial changes and host intestinal physiology remains not fully elucidated. Here, we employed Bama miniature pigs, a m...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Next-generation probiotics and microbiome-based therapeutics highlighting Akkermansia muciniphila and Amuc_1100.",
+      "url": "https://doi.org/10.1007/s11274-026-05300-6",
+      "source": "PubMed — World journal of microbiology & biotechnology",
+      "one_liner": "The gut microbiota is pivotal in regulating host metabolism, immune signaling, and the integrity of the mucosal barrier, thus serving as a critical factor in various metabolic, inflammatory, and gastrointestinal disorders. Traditional probiotics, primarily comprising Lacticaseibacillus and Bifidobacterium species, have been utilized to enhance gut health;...",
+      "segment": 1,
+      "timestamp": 32.95
+    },
+    {
+      "title": "Clinical Landscape of Microbiome Modulators in Gynecological Tumor Treatment: From Pre-Clinical to Clinical Trials.",
+      "url": "https://doi.org/10.1016/j.bj.2026.101043",
+      "source": "PubMed — Biomedical journal",
+      "one_liner": "Intestinal microbiota dysbiosis is linked to gynecological tumors (endometrial, ovarian, cervical cancers), and microbiome modulators show therapeutic potential by regulating gut microbiota. This Perspective analyzes the field from pre-clinical to clinical stages. Pre-clinically, a Web of Science bibliometric analysis (2010-2025, 114 articles, 86 reviews)...",
+      "segment": 2,
+      "timestamp": 160.26
+    },
+    {
+      "title": "Salivary microbiome responses to chlorhexidine and Coriandrum sativum essential oil mouthwashes in patients with periodontitis in a randomized 2-week clinical trial.",
+      "url": "https://doi.org/10.1007/s00784-026-07198-8",
+      "source": "PubMed — Clinical oral investigations",
+      "one_liner": "OBJECTIVES: To compare the short-term salivary microbiome effects of a Coriandrum sativum essential oil (CSEO) mouthwash, chlorhexidine (CHX) as a benchmark comparator, and water in patients with periodontitis. MATERIALS AND METHODS: In this randomized three-arm trial, participants with periodontitis rinsed twice daily for 14 days with water, CSEO, or 0.1...",
+      "segment": 3,
+      "timestamp": 203.22
+    },
+    {
+      "title": "Evaluating Vaginal Microbiome Effects on Antiretroviral Exposure in the Female Genital Tract Using Pharmacometric and Machine Learning Approaches.",
+      "url": "https://doi.org/10.1002/cpt.70499",
+      "source": "PubMed — Clinical pharmacology and therapeutics",
+      "one_liner": "Antiretroviral pre-exposure prophylaxis (PrEP) is less effective in women than expected, partly because drug exposure within the female genital tract is variable and may be influenced by the vaginal microbiome. We developed an integrated pharmacometrics and machine learning framework to evaluate associations between vaginal microbiome composition and cerv...",
+      "segment": 4,
+      "timestamp": 338.91
+    },
+    {
+      "title": "Synergy between Enterobacteriaceae and diet mediates competition between dominant Bacteroidales in the human gut.",
+      "url": "https://doi.org/10.1038/s41564-026-02500-6",
+      "source": "PubMed — Nature microbiology",
+      "one_liner": "Healthy human gut microbiota is dominated by Bacteroidaceae in industrialized populations and by Prevotellaceae in those with traditional lifestyles, but diet alone is insufficient to explain this dominance of different Bacteroidota. Here we screened 94 dietary components in synthetic gut communities and find that these two bacterial families compete for ...",
+      "segment": 5,
+      "timestamp": 390.0
+    },
+    {
+      "title": "Identification and characterization of a high-affinity antigen-binding fragment against intestinal bacteria from non-immunized rabbit single B cells using Ecobody technology.",
+      "url": "https://doi.org/10.1016/j.jbiosc.2026.09.001",
+      "source": "PubMed — Journal of bioscience and bioengineering",
+      "one_liner": "Antibodies play essential roles in mediating interactions between the host and microbiota. Despite their importance, the specificity and functional properties of naturally occurring antibodies reactive to gut microbiota remain poorly characterized, particularly at the monoclonal level. Here, we employed Ecobody technology, a single-B-cell-based antibody s...",
+      "segment": 6,
+      "timestamp": 519.48
+    },
+    {
+      "title": "Metabolic and endocrine modulation of the gut-adipose tissue axis via pro-, pre-, and postbiotics in overweight dogs: A systematic review.",
+      "url": "https://doi.org/10.1016/j.domaniend.2026.107044",
+      "source": "PubMed — Domestic animal endocrinology",
+      "one_liner": "Canine obesity is a complex metabolic disorder driven by luminal dysbiosis, impaired gut barrier function, and metaflammation. Following PRISMA 2020 guidelines, this systematic review evaluated the efficacy of pro-, pre-, and postbiotics in modulating the gut-adipose tissue axis in overweight dogs (BCS ≥ 6/9) or diet-induced obesity models. Searches acros...",
+      "segment": 7,
+      "timestamp": 558.6
+    },
+    {
+      "title": "Propionate promotes CD8",
+      "url": "https://doi.org/10.1136/jitc-2026-015279",
+      "source": "PubMed — Journal for immunotherapy of cancer",
+      "one_liner": "BACKGROUND: Short-chain fatty acids (SCFAs) produced by the gut microbiota are increasingly recognized as regulators of host immunity, yet the role of individual SCFAs in shaping the tumor immune microenvironment in colorectal cancer (CRC) remains poorly defined. This study aims to investigate the role of propionate in antitumor immunity and immunotherapy...",
+      "segment": 8,
+      "timestamp": 610.41
+    },
+    {
+      "title": "Human Protein Biomarkers Outperform Bacterial Proteins in Colorectal Cancer Detection.",
+      "url": "https://doi.org/10.1002/ijc.70760",
+      "source": "PubMed — International journal of cancer",
+      "one_liner": "Colorectal cancer (CRC) generally develops from precancerous adenomatous lesions, including advanced adenomas (AA), through a sequence of carcinogenic molecular alterations. The composition of the gut microbiota and the fecal proteome is known to differ between individuals with AA and CRC compared to controls, providing opportunities for biomarker discove...",
+      "segment": 9,
+      "timestamp": 652.19
+    },
+    {
+      "title": "Traditional Chinese medicine-derived natural products and formulations as pharmacological modulators of ageing-related pathways: mechanisms and therapeutic potential.",
+      "url": "https://doi.org/10.1093/jpp/rgag114",
+      "source": "PubMed — The Journal of pharmacy and pharmacology",
+      "one_liner": "OBJECTIVES: Population ageing drives the need for interventions that extend healthspan. Ageing involves interconnected processes, including oxidative stress, mitochondrial dysfunction, chronic inflammation, metabolic dysregulation, impaired autophagy, genomic instability, proteostasis loss, stem cell exhaustion and gut microbiota dysbiosis. This review su...",
+      "segment": 10,
+      "timestamp": 700.52
+    },
+    {
+      "title": "Microglial State Reprogramming Across the Gut-Brain-Immune Axis: Limitations and Therapeutic Prospects of Traditional Chinese Medicine.",
+      "url": "https://doi.org/10.1002/dneu.70060",
+      "source": "PubMed — Developmental neurobiology",
+      "one_liner": "Bidirectional communication among the gut microbiota, immune system, and central nervous system shapes microglial maturation and responsiveness. This review evaluates microglia as context-dependent neuroimmune integrators rather than fixed M1/M2 populations. It organizes the literature into three linked layers: gut-derived signals and barrier physiology, ...",
+      "segment": 11,
+      "timestamp": 748.88
+    },
+    {
+      "title": "Metabolization of Flavan-3-ol Oligomers by Eggerthella lenta, a Human Gut Bacterium.",
+      "url": "https://doi.org/10.1002/mnfr.70615",
+      "source": "PubMed — Molecular nutrition & food research",
+      "one_liner": "Flavan-3-ols are among the most widely consumed flavonoids and have been implicated in the prevention of cardiometabolic diseases. Increasing evidence indicates that phenolic metabolites produced by the gut microbiota from flavan-3-ols contribute significantly to these effects. While some bacterial species can metabolize flavan-3-ol monomers, no isolates ...",
+      "segment": 12,
+      "timestamp": 797.3
+    },
+    {
+      "title": "Exploring the Impact of Urolithins A and B on Muscle Health: A Transcriptomic Analysis in Human Myotubes.",
+      "url": "https://doi.org/10.1002/jcsm.70385",
+      "source": "PubMed — Journal of cachexia, sarcopenia and muscle",
+      "one_liner": "BACKGROUND: Urolithin A (UA) and urolithin B (UB) are gut microbiota-derived metabolites of ellagitannins reported to influence mitochondrial function, inflammation and muscle metabolism. Their comparative transcriptomic effects in human skeletal muscle cells remain undefined. We characterized UA- and UB-induced molecular responses in primary human myotub...",
+      "segment": 13,
+      "timestamp": 839.2
+    },
+    {
+      "title": "Exploring Cervical Cancer-Associated Vaginal and Cervical Microbiota via 16S rRNA Sequencing.",
+      "url": "https://doi.org/10.1002/mbo3.70412",
+      "source": "PubMed — MicrobiologyOpen",
+      "one_liner": "Although the etiology of cervical cancer has been partially established, its pathogenesis remains a key research focus. Specific studies on the genital tract microbiota of cervical cancer patients in Southern China are still scarce. To address this research gap, the present study collected genital tract microbial samples from 16 cervical cancer patients a...",
+      "segment": 14,
+      "timestamp": 885.4
+    },
+    {
+      "title": "Perseus: lineage-aware refinement of Kraken2 taxonomic classification for long read metagenomes.",
+      "url": "https://doi.org/10.1093/bioinformatics/btag687",
+      "source": "PubMed — Bioinformatics (Oxford, England)",
+      "one_liner": "MOTIVATION: Long-read metagenomic sequencing improves assembly contiguity and enables genome-resolved analysis of complex microbial communities, but accurate taxonomic classification of long reads and assembled contigs remains challenging. Highly scalable k-mer-based classifiers such as Kraken2 frequently over-assign fine-rank taxonomic labels when applie...",
+      "segment": 15,
+      "timestamp": 933.64
+    },
+    {
+      "title": "Iron, Biofilm, and Colorectal Cancer: Mechanistic Insights Into Enterococcus faecalis Pathogenesis.",
+      "url": "https://doi.org/10.1111/apm.70268",
+      "source": "PubMed — APMIS : acta pathologica, microbiologica, et immunologica Scandinavica",
+      "one_liner": "Enterococcus faecalis is a commensal of the human gastrointestinal microbiota that has emerged as a successful opportunistic pathogen associated with persistent infections, antimicrobial resistance, and biofilm formation. Increasing evidence indicates that iron availability functions as a master environmental signal coordinating E. faecalis pathogenic tra...",
+      "segment": 16,
+      "timestamp": -1
+    },
+    {
+      "title": "Obesity and Age Elevate Tissue-Resident Microbiota Akkermansia muciniphila to Induce Oxidative Stress and Promote Breast Cancer Risk.",
+      "url": "https://doi.org/10.1158/0008-5472.CAN-25-2087",
+      "source": "PubMed — Cancer research",
+      "one_liner": "UNLABELLED: Obesity is a modifiable risk factor for postmenopausal breast cancer. As obesity-gut microbiome interactions are well known, obesity might also affect tissue-resident microbiome populations as a mechanism promoting breast cancer. Using noncancerous breast tissue samples, we demonstrated that obesity and aging interact to shift the tissue-resid...",
+      "segment": 17,
+      "timestamp": 970.76
+    },
+    {
+      "title": "Lacticaseibacillus rhamnosus GG enhances gefitinib efficacy and reduces treatment-related toxicity via propionyl-L-carnitine regulation.",
+      "url": "https://doi.org/10.1016/j.celrep.2026.118068",
+      "source": "PubMed — Cell reports",
+      "one_liner": "Gefitinib improves outcomes in patients with EGFR-mutant non-small cell lung cancer; however, treatment-related gastrointestinal and hepatic toxicity can limit its long-term use. Here, we investigate whether probiotic strains can improve gefitinib efficacy while reducing treatment-associated toxicity. Among the tested strains, Lacticaseibacillus rhamnosus...",
+      "segment": 18,
+      "timestamp": 1009.06
+    },
+    {
+      "title": "Consolidation Therapy of Probiotics With Rifaximin Prevent Relapse in Rifaximin-Responsive Diarrhea-Predominant Irritable Bowel Syndrome: A Multicenter Randomized Clinical Trial.",
+      "url": "https://doi.org/10.1111/jgh.70672",
+      "source": "PubMed — Journal of gastroenterology and hepatology",
+      "one_liner": "BACKGROUND AND AIM: Although rifaximin treatment achieves high remission rates in diarrhea-predominant irritable bowel syndrome (IBS-D), current therapeutic approaches remain ineffective in preventing disease recurrence. This study aimed to evaluate the relapse rates with Rifaximin after consolidation course with live Bacillus subtilis and Enterococcus fa...",
+      "segment": 19,
+      "timestamp": 1055.11
+    },
+    {
+      "title": "Gut bacteria and their metabolites may influence our decisions, intelligence, cognition, and consciousness.",
+      "url": "https://doi.org/10.1080/19490976.2026.2740906",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "The human gut hosts approximately 38 trillion bacteria, representing 400 to 500 species. Gut bacteria are in constant communication with the central nervous system (CNS) via the enteric nervous system (ENS), the peripheral nervous system (PNS), the autonomic nervous system (ANS), the immune system, the enteroendocrine system (EES), and the vagus nerve (VN...",
+      "segment": 20,
+      "timestamp": 1093.51
+    },
+    {
+      "title": "Gut dysbiosis, blood pressure regulation, and cardiometabolic risk in polyendocrine metabolic ovarian syndrome (PMOS).",
+      "url": "https://doi.org/10.1007/s11154-026-10085-y",
+      "source": "PubMed — Reviews in endocrine & metabolic disorders",
+      "one_liner": "Polyendocrine metabolic ovarian syndrome (PMOS), formerly known as polycystic ovary syndrome (PCOS), is a common endocrine-metabolic disorder associated with increased hypertension and cardiometabolic risk. Gut dysbiosis is also frequently reported in affected women, raising the question of whether microbiome-linked pathways contribute to blood pressure e...",
+      "segment": 21,
+      "timestamp": 1139.63
+    },
+    {
+      "title": "Microbial community composition on polytetrafluoroethylene tape retrieved from implant screw channels: A cross-sectional high-throughput 16S rRNA sequencing study.",
+      "url": "https://doi.org/10.1016/j.meegid.2026.106037",
+      "source": "PubMed — Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases",
+      "one_liner": "OBJECTIVES: To identify the types of microorganisms colonizing the surface of polytetrafluoroethylene (PTFE) tape used for sealing the central screw channel in implant prostheses and to evaluate their association with the duration of prosthetic functional loading. METHODS: A cross-sectional study design was adopted. Forty patients who had received single-...",
+      "segment": 22,
+      "timestamp": 1256.44
+    },
+    {
+      "title": "Oxygen-associated differentiation of TBBPA-transforming activated sludge consortia and characterization of a cultivable Klebsiella degrader.",
+      "url": "https://doi.org/10.1016/j.envres.2026.125834",
+      "source": "PubMed — Environmental research",
+      "one_liner": "Tetrabromobisphenol A (TBBPA), a widely used brominated flame retardant, poses increasing environmental and health concerns, yet how oxygen availability is associated with the assembly and degradation potential of TBBPA-transforming microbiomes remains poorly resolved. Here, ten enrichment consortia (six aerobic and four anaerobic) were established from a...",
+      "segment": 23,
+      "timestamp": 1305.18
+    },
+    {
+      "title": "Host and environmental factors associated with upper respiratory tract mycobiota in healthy individuals: a cross-sectional observational study.",
+      "url": "https://doi.org/10.1016/j.lanmic.2026.101517",
+      "source": "PubMed — The Lancet. Microbe",
+      "one_liner": "BACKGROUND: Although the bacterial microbiome in the respiratory tract is well-characterised, the fungal microbiome or mycobiome remains underexplored. We aimed to characterise the upper respiratory tract mycobiome within the general population, assess its variation across niches and in relation to host and environmental factors, and evaluate its role as ...",
+      "segment": 24,
+      "timestamp": 1356.17
+    },
+    {
+      "title": "Cellar age reshapes Huangshui micro-ecosystem and metabolism to drive flavor formation in strong-aroma baijiu.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119740",
+      "source": "PubMed — Food research international (Ottawa, Ont.)",
+      "one_liner": "Huangshui, a slurry-like liquid exuded during strong-aroma Baijiu fermentation, serves as the core medium for material exchange between pit mud and fermented grains. However, how its micro-ecosystem evolves with cellar age and drives flavor formation remains unclear. Using Huangshui as a dynamic window, this study integrated metagenomics, metabolomics, an...",
+      "segment": 25,
+      "timestamp": 1397.14
+    },
+    {
+      "title": "Investigating gut homeostasis in stray animals across different air pollution zones.",
+      "url": "https://doi.org/10.1016/j.envres.2026.125462",
+      "source": "PubMed — Environmental research",
+      "one_liner": "Areas previously meeting air quality targets may face increased pressure to reevaluate due to stricter criteria. The gut homeostasis of stray animals may serve as a sensitive indicator of air pollution levels, yet previous research has primarily focused on model organisms. This cross-sectional study employed 16S rRNA sequencing and non-targeted metabolomi...",
+      "segment": 26,
+      "timestamp": 1444.58
+    },
+    {
+      "title": "An inulin from Asparagus cochinchinensis relieves slow transit constipation associated with Akkermansia muciniphila enrichment, kynurenic acid restoration, and NLRP3 attenuation.",
+      "url": "https://doi.org/10.1016/j.carbpol.2026.125644",
+      "source": "PubMed — Carbohydrate polymers",
+      "one_liner": "Slow transit constipation (STC) involves impaired colonic motility, and effective therapies remain limited. Inulin-type fructans (ITFs) are prebiotic polysaccharides linked to intestinal function, but mixtures with broad chain-length distributions hinder structure-function interpretation. In this study, we adopted a degree of polymerization (DP)-anchored ...",
+      "segment": 27,
+      "timestamp": 1494.02
+    },
+    {
+      "title": "Ecological mechanisms and functional stability of lactic acid Bacteria in synthetic microbial communities: Competition, cross-feeding, and homeostasis maintenance.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119779",
+      "source": "PubMed — Food research international (Ottawa, Ont.)",
+      "one_liner": "Synthetic microbial communities (SynComs) play a pivotal role in advancing precision fermentation and microbiome engineering. Within these multispecies systems, lactic acid bacteria (LAB) function as ecological and metabolic cornerstones. However, the mechanisms underlying LAB-mediated community stability remain insufficiently understood. This review synt...",
+      "segment": 28,
+      "timestamp": 1542.92
+    },
+    {
+      "title": "Food-derived dietary alkaloids: structure-biofunctionality relationships in modulating gut microbial biofilms for downregulation of colorectal carcinogenesis.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119629",
+      "source": "PubMed — Food research international (Ottawa, Ont.)",
+      "one_liner": "Colorectal cancer (CRC) is the second most common cancer across the globe, accounting for 10% cancer-related deaths annually. CRC has been recognized as a consequence of microbial (such as F. nucleatum, E. coli (pks",
+      "segment": 29,
+      "timestamp": 1587.44
+    },
+    {
+      "title": "Metagenomic insights into biogeochemical functional potential and resistome dynamics of PM",
+      "url": "https://doi.org/10.1016/j.envres.2026.125444",
+      "source": "PubMed — Environmental research",
+      "one_liner": "Atmospheric particulate matter harbors diverse microorganisms, yet their functional potential in biogeochemical cycling and the associated risks of resistome remain poorly understood. Here, we performed metagenomic sequencing on PM",
+      "segment": 30,
+      "timestamp": 1636.8
+    },
+    {
+      "title": "Integrating ecological networks and metagenomics to decipher core microbial drivers of organic acid metabolism during heaped fermentation of sauce-flavor Baijiu.",
+      "url": "https://doi.org/10.1016/j.foodres.2026.119702",
+      "source": "PubMed — Food research international (Ottawa, Ont.)",
+      "one_liner": "Organic acids play crucial roles in both flavor quality and microbial succession of sauce-flavor Baijiu; however, the core microbial drivers responsible for their metabolism remain poorly understood. This study systematically investigated the microbial drivers of organic acid metabolism across six sequential rounds (R1-R6) of heaped fermentation. A total ...",
+      "segment": 31,
+      "timestamp": 1681.66
+    },
+    {
+      "title": "Co-delivery of vitamin D and probiotics and their synergistic improvement of intestinal functions in simulated microgravity rats via zein/sodium caseinate-based microcapsules.",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2026.153575",
+      "source": "PubMed — International journal of biological macromolecules",
+      "one_liner": "Long-term microgravity disrupts astronauts' intestinal homeostasis, causing gut dysbiosis, barrier injury and immune imbalance among other issues. Vitamin D (VD) and probiotics may provide synergistic protection, but their synchronous and stable gastrointestinal delivery remains a key challenge. In this study, zein and sodium caseinate (NaCas) were used a...",
+      "segment": 32,
+      "timestamp": 1724.59
+    },
+    {
+      "title": "Live probiotic encapsulation: process engineering, wall materials, and the translation gap to human gastrointestinal survival.",
+      "url": "https://doi.org/10.1080/1040841X.2026.2729426",
+      "source": "PubMed — Critical reviews in microbiology",
+      "one_liner": "Probiotic viability from manufacture to colonic delivery is compromised by thermal processing, oxidative storage conditions, and sequential gastrointestinal (GIT) stresses, with cumulative losses exceeding 8 log",
+      "segment": 33,
+      "timestamp": 1766.97
+    },
+    {
+      "title": "A Post-NGP Mitsuokella jalaludinii as a Therapeutic Candidate for Gout.",
+      "url": "https://doi.org/10.1002/mbo3.70410",
+      "source": "PubMed — MicrobiologyOpen",
+      "one_liner": "Gout is a common inflammatory disease closely associated with hyperuricemia, and its global prevalence is increasing, highlighting the need for safer and more effective therapeutic strategies. Recently, microbiome-based therapeutics have emerged as promising alternatives, and the development of functionally validated NGP and their advanced forms, post-NGP...",
+      "segment": 34,
+      "timestamp": 1819.91
+    },
+    {
+      "title": "Winter Caching of Artemisia frigida Is Associated With Host Physiological and Gut Microbial Variation in Brandt's Voles.",
+      "url": "https://doi.org/10.1111/mec.70576",
+      "source": "PubMed — Molecular ecology",
+      "one_liner": "Seasonal variation in food resources represents a major ecological challenge for wild herbivores, yet how naturally selected dietary resources become associated with host and microbial responses remains poorly understood. During winter, Brandt's voles (Lasiopodomys brandtii) cache large amounts of Artemisia frigida, suggesting that this plant may have eco...",
+      "segment": 35,
+      "timestamp": 1864.62
+    },
+    {
+      "title": "Personalized Nutrition for Hypertension: Current Evidence and Future Directions.",
+      "url": "https://doi.org/10.1161/CIRCGEN.125.005566",
+      "source": "PubMed — Circulation. Genomic and precision medicine",
+      "one_liner": "Hypertension is a leading risk factor for cardiovascular disease, with lifestyle interventions, particularly diet, playing a pivotal role in its management. Recent advancements in personalized nutrition that tailor dietary recommendations based on an individual's unique biology (eg, genetics, microbiome) and lifestyle factors can potentially improve blood...",
+      "segment": 36,
+      "timestamp": 1903.59
+    },
+    {
+      "title": "Metabolomic signatures of probiotic secretomes reveal strain-specific biofunctional potential: insights from",
+      "url": "https://doi.org/10.1039/d5fo05684e",
+      "source": "PubMed — Food & function",
+      "one_liner": "Probiotic secretomes are cell-free byproducts of bacterial growth, which contain bioactive metabolites. These metabolites have antioxidant and anti-inflammatory effects and mediate the host-microbe and microbe-microbe interactions. However, the metabolomic profiles of probiotic secretomes are strain-specific and have not been fully investigated. Untargete...",
+      "segment": 37,
+      "timestamp": 1949.69
+    },
+    {
+      "title": "Exploratory Metataxonomic Characterization of Bacterial Communities in Street-Vended Raw Milk from Ankara, Türkiye, Using 16S rRNA Gene Amplicon Sequencing.",
+      "url": "https://doi.org/10.1177/15353141261471731",
+      "source": "PubMed — Foodborne pathogens and disease",
+      "one_liner": "Street-vended raw milk may harbor diverse bacterial communities influenced by environmental exposure, handling practices, and storage conditions. This exploratory pilot study aimed to characterize the bacterial community composition of raw milk obtained from three independent street vendors in Ankara, Türkiye, using 16S rRNA gene amplicon sequencing-based...",
+      "segment": 38,
+      "timestamp": -1
+    },
+    {
+      "title": "Evaluation of Probiotic Properties and Antimicrobial Substances Produced by Five Lactic Acid Bacteria Against Foodborne and Spoilage Pathogens.",
+      "url": "https://doi.org/10.1002/mbo3.70052",
+      "source": "PubMed — MicrobiologyOpen",
+      "one_liner": "The rise of multidrug-resistant (MDR) pathogens presents a major challenge to food safety, particularly in preservation approaches. Lactic acid bacteria (LAB) gain probiotic recognition by effectively controlling MDR pathogens using antimicrobial substances (AMSs) and bacteriocin-like inhibitory substances (BLISs). The study evaluated the probiotic proper...",
+      "segment": 39,
+      "timestamp": 1991.64
+    }
+  ]
+}

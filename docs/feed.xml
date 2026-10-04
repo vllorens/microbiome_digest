@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 08:58:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 09:24:43 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-10-04</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-04/podcast_2026-10-04.mp3</guid>
+      <pubDate>Sun, 04 Oct 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-04/podcast_2026-10-04.mp3" length="15236204" type="audio/mpeg" />
+      <description>Transplanting gut microbiota from elderly humans into Bama miniature pigs reshapes the animals’ intestinal barrier, plasma metabolome, and gut mucosal gene expression, showing that age‑linked microbial shifts can directly reprogram host physiology. | The article in the World Journal of Microbiology &amp; Biotechnology positions Akkermansia muciniphila and its outer‑membrane protein Amuc_1100 as leading examples of next‑generation probiotics and microbiome‑based therapeutics. | Akkermansia muciniphila is highlighted because it naturally resides in the mucus layer, where it degrades mucin and produces metabolites that influence barrier function and immune tone.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Transplanting gut microbiota from elderly humans into Bama miniature pigs reshapes the animals’ intestinal barrier, plasma metabolome, and gut mucosal gene expression, showing that age‑linked microbial shifts can directly reprogram host physiology. | The article in the World Journal of Microbiology &amp; Biotechnology positions Akkermansia muciniphila and its outer‑membrane protein Amuc_1100 as leading examples of next‑generation probiotics and microbiome‑based therapeutics. | Akkermansia muciniphila is highlighted because it naturally resides in the mucus layer, where it degrades mucin and produces metabolites that influence barrier function and immune tone.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-10-03</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-03/podcast_2026-10-03.mp3</guid>
       <pubDate>Sat, 03 Oct 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-03/podcast_2026-10-03.mp3" length="15866300" type="audio/mpeg" />
-      <description>Although the gut microbiome is recognized as crucial for human health, its combined effects with microbial metabolites on acute myocardial infarction (AMI) remain poorly understood. | Management of protected areas shapes the gut microbes and antibiotic resistance genes of Tibetan macaques, according to a metagenomic study published in Ecotoxicology and Environmental Safety via PubMed. | Chinese yam polysaccharide (CYP) markedly reduces severity of dextran sulfate sodium‑induced ulcerative colitis in mice, according to a study in the International Journal of Biological Macromolecules accessed via PubMed.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-03/podcast_2026-10-03.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Although the gut microbiome is recognized as crucial for human health, its combined effects with microbial metabolites on acute myocardial infarction (AMI) remain poorly understood. | Management of protected areas shapes the gut microbes and antibiotic resistance genes of Tibetan macaques, according to a metagenomic study published in Ecotoxicology and Environmental Safety via PubMed. | Chinese yam polysaccharide (CYP) markedly reduces severity of dextran sulfate sodium‑induced ulcerative colitis in mice, according to a study in the International Journal of Biological Macromolecules accessed via PubMed.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-09/podcast_2026-07-09.mp3</guid>
       <pubDate>Thu, 09 Jul 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-09/podcast_2026-07-09.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-07-08</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-08/podcast_2026-07-08.mp3</guid>
-      <pubDate>Wed, 08 Jul 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-08/podcast_2026-07-08.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
