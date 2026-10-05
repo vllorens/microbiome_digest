@@ -1,0 +1,96 @@
+{
+  "timestamps": [
+    0.0,
+    113.35,
+    221.87,
+    271.02,
+    318.58,
+    363.58,
+    405.12,
+    449.71,
+    489.04,
+    533.94
+  ],
+  "items": [
+    {
+      "title": "Microbiome signatures and mechanistic pathways in pediatric obesity: from early-life risk to precision interventions.",
+      "url": "https://doi.org/10.1007/s12519-026-01094-7",
+      "source": "PubMed — World journal of pediatrics : WJP",
+      "one_liner": "BACKGROUND: The gut microbiota is increasingly recognized as a modulator of metabolic health in children, influencing nutrient absorption, immune tone, epithelial barrier function, and energy homeostasis. This review summarizes current evidence on microbial signatures and mechanistic pathways associated with pediatric obesity and evaluates microbiota-targ...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Extracts of okra mucilage protect intestinal homeostasis through gut microbiota and immune responses.",
+      "url": "https://doi.org/10.1007/s11418-026-02083-w",
+      "source": "PubMed — Journal of natural medicines",
+      "one_liner": "Okra pods (Abelmoschus esculentus (L.) Moench) are known as a vegetable, the mucilage of which possesses many bioactivities. Okra mucilage (OM) is a carbohydrate-rich natural extract containing polysaccharides and other bioactive components. However, its efficacy under different types of intestinal stress and its comparison with standard therapeutic agent...",
+      "segment": 1,
+      "timestamp": 113.35
+    },
+    {
+      "title": "Forsythiae Fructus polysaccharides mitigate DSS colitis by modulating gut microbiota-derived palmitic acid and PI3K/AKT pathway.",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2026.154733",
+      "source": "PubMed — International journal of biological macromolecules",
+      "one_liner": "Inflammatory bowel disease (IBD) is a chronic inflammatory disorder with limited therapeutic options, and the contribution of microbiota-associated metabolites to disease progression remains incompletely understood. Here, we demonstrate that Forsythia polysaccharides (FPs) exert protective effects against dextran sulfate sodium (DSS)-induced colitis throu...",
+      "segment": 2,
+      "timestamp": 221.87
+    },
+    {
+      "title": "Age-related shifts in the salivary microbiome linked to cariogenic changes: A cross-sectional study.",
+      "url": "https://doi.org/10.1016/j.jdent.2026.107091",
+      "source": "PubMed — Journal of dentistry",
+      "one_liner": "INTRODUCTION: Although the prevalence of dental caries in older individuals is increasing, there are limited reports on the dental health of this population. In this cross-sectional study, we compared caries risk assessed using saliva and microbiome components between older and younger individuals. METHODS: Between February 2022 and September 2025, 229 yo...",
+      "segment": 3,
+      "timestamp": 271.02
+    },
+    {
+      "title": "Nanomaterial-based modulation of inflammatory and cytokine networks for precision therapy in inflammatory bowel disease.",
+      "url": "https://doi.org/10.1016/j.ijpharm.2026.127287",
+      "source": "PubMed — International journal of pharmaceutics",
+      "one_liner": "Inflammatory bowel disease (IBD), including Crohn' s disease and ulcerative colitis, is characterized by chronic intestinal inflammation driven by complex interactions among immune cells, intestinal epithelial cells, and the gut microbiota. Although biologic therapies targeting TNF-α, IL-12/23, and IL-23 have substantially improved clinical outcomes, hete...",
+      "segment": 4,
+      "timestamp": 318.58
+    },
+    {
+      "title": "Indigenous microbiota shapes divergent wine flavors across grape varieties within a single vineyard.",
+      "url": "https://doi.org/10.1016/j.ijfoodmicro.2026.111884",
+      "source": "PubMed — International journal of food microbiology",
+      "one_liner": "The spontaneous fermentation of grape must, driven by indigenous microbial consortia, is a key process underpinning wine typicity and regional character. While large-scale biogeography shapes vineyard microbiomes, the relative influence of host grape variety versus annual vintage conditions on the fermenting ecosystem and its metabolic output remains poor...",
+      "segment": 5,
+      "timestamp": 363.58
+    },
+    {
+      "title": "Characterizing the microbiota of traditional wooden tools and their impact on the hygiene and quality of TAP Vastedda Palermitana cheese.",
+      "url": "https://doi.org/10.1016/j.ijfoodmicro.2026.111889",
+      "source": "PubMed — International journal of food microbiology",
+      "one_liner": "This study examined the microbiota of traditional wooden tools (tina, cannara, vaciliatuma, and rotula) and their role in hygiene and quality of TAP Vastedda Palermitana cheese. Culture-dependent analyses showed that all wooden utensils harbored structured lactic acid bacteria (LAB) biofilms, with the vat showing significantly higher loads of mesophilic L...",
+      "segment": 6,
+      "timestamp": 405.12
+    },
+    {
+      "title": "Cheeseomics of Grana Padano PDO cheese: Microbial diversity and flavour profiles compared to non-PDO cheeses.",
+      "url": "https://doi.org/10.1016/j.ijfoodmicro.2026.111881",
+      "source": "PubMed — International journal of food microbiology",
+      "one_liner": "Protected Designation of Origin (PDO) schemes define technological constraints that may shape cheese microbiota and, consequently, volatilome and sensory quality. Here, a \"cheesomics\" approach to compare Grana Padano PDO (n = 13) with hard cooked cheeses of the same type and ripening time (9 months) produced outside the PDO framework (non-PDO; n = 15). Sh...",
+      "segment": 7,
+      "timestamp": 449.71
+    },
+    {
+      "title": "Polysaccharide-functionalized metal-polyphenol network-coated porous microspheres for improving the treatment of probiotics in ulcerative colitis.",
+      "url": "https://doi.org/10.1016/j.ijpharm.2026.127359",
+      "source": "PubMed — International journal of pharmaceutics",
+      "one_liner": "Probiotic therapy offers a new approach to the treatment of ulcerative colitis (UC), but oral drug delivery still faces challenges such as low gastrointestinal survival rates, insufficient intestinal retention, and poor inflammatory targeting. In this study, a layer-by-layer encapsulation probiotic delivery system (HGM-L.re PM) was developed. Lactobacillu...",
+      "segment": 8,
+      "timestamp": 489.04
+    },
+    {
+      "title": "Integration of microbial diversity and metabolite profiles reveals the effects of Staphylococcus xylosus and Staphylococcus carnosus on flavor formation in a fermented meat product model system.",
+      "url": "https://doi.org/10.1016/j.ijfoodmicro.2026.111909",
+      "source": "PubMed — International journal of food microbiology",
+      "one_liner": "This study aims to systematically elucidate the mechanisms by which Staphylococcus xylosus (S. xylosus) and Staphylococcus carnosus (S. carnosus) contribute to flavor formation in fermented meat products. By establishing a fermented meat model system, this study compared the effects of control, single inoculation, and mixed inoculation on physicochemical ...",
+      "segment": 9,
+      "timestamp": 533.94
+    }
+  ]
+}
