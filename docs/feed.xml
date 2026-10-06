@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 09:59:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 09:51:17 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-10-06</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-06/podcast_2026-10-06.mp3</guid>
+      <pubDate>Tue, 06 Oct 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-06/podcast_2026-10-06.mp3" length="13346732" type="audio/mpeg" />
+      <description>Leviathan offers a fast, memory‑efficient solution for integrated taxonomic and functional profiling of (pan)genome‑resolved metagenomes and metatranscriptomes. | Multi‑omics analysis of 332 Holstein calves shows that gut microbiota and its metabolites drive post‑weaning oxidative stress, especially through altered amino‑acid synthesis and metabolism. | LGTM introduces a Gaussian process‑modulated neural topic model designed specifically for longitudinal microbiome data, tackling the field’s persistent challenges of high dimensionality, compositionality, irregular sampling and time‑varying covariates.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Leviathan offers a fast, memory‑efficient solution for integrated taxonomic and functional profiling of (pan)genome‑resolved metagenomes and metatranscriptomes. | Multi‑omics analysis of 332 Holstein calves shows that gut microbiota and its metabolites drive post‑weaning oxidative stress, especially through altered amino‑acid synthesis and metabolism. | LGTM introduces a Gaussian process‑modulated neural topic model designed specifically for longitudinal microbiome data, tackling the field’s persistent challenges of high dimensionality, compositionality, irregular sampling and time‑varying covariates.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-10-05</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-05/podcast_2026-10-05.mp3</guid>
       <pubDate>Mon, 05 Oct 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-05/podcast_2026-10-05.mp3" length="4330508" type="audio/mpeg" />
-      <description>The review titled *Microbiome signatures and mechanistic pathways in pediatric obesity: from early-life risk to precision interventions* appears in the World Journal of Pediatrics (WJP) and sets out to map how gut microbial communities influence metabolic health in children. | What the notes do not reveal—because they are limited to that background excerpt—are the specific microbial signatures the authors identified, such as particular bacterial taxa, functional gene enrichments, or metabolic metabolites that consistently correlate with obesity across studies. | In short, while the source makes clear that the article aims to synthesize current evidence on microbiome‑obesity connections in children and to point toward precision‑based strategies, the extractable information does not supply the concrete findings, comparative analyses, or intervention outcomes that would let us assess novelty or clinical relevance.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-05/podcast_2026-10-05.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>The review titled *Microbiome signatures and mechanistic pathways in pediatric obesity: from early-life risk to precision interventions* appears in the World Journal of Pediatrics (WJP) and sets out to map how gut microbial communities influence metabolic health in children. | What the notes do not reveal—because they are limited to that background excerpt—are the specific microbial signatures the authors identified, such as particular bacterial taxa, functional gene enrichments, or metabolic metabolites that consistently correlate with obesity across studies. | In short, while the source makes clear that the article aims to synthesize current evidence on microbiome‑obesity connections in children and to point toward precision‑based strategies, the extractable information does not supply the concrete findings, comparative analyses, or intervention outcomes that would let us assess novelty or clinical relevance.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-14/podcast_2026-07-14.mp3</guid>
       <pubDate>Tue, 14 Jul 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-14/podcast_2026-07-14.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-07-11</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-11/podcast_2026-07-11.mp3</guid>
-      <pubDate>Sat, 11 Jul 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-11/podcast_2026-07-11.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>

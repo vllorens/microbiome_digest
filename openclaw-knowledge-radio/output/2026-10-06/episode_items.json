@@ -1,0 +1,275 @@
+{
+  "timestamps": [
+    0.0,
+    47.4,
+    103.5,
+    154.6,
+    293.7,
+    339.27,
+    382.85,
+    439.99,
+    484.5,
+    526.62,
+    574.52,
+    620.16,
+    661.78,
+    792.88,
+    837.71,
+    877.74,
+    1012.3,
+    1061.48,
+    1189.51,
+    1330.94,
+    1375.58,
+    1422.88,
+    1465.21,
+    1512.75,
+    1551.77,
+    1596.04,
+    1639.55,
+    1681.96,
+    1729.3
+  ],
+  "items": [
+    {
+      "title": "Leviathan: fast, memory-efficient, and scalable taxonomic and pathway profiling for (pan)genome-resolved metagenomics and metatranscriptomics.",
+      "url": "https://doi.org/10.1128/msystems.00970-26",
+      "source": "PubMed — mSystems",
+      "one_liner": "Functional profiling of meta-omics is essential for understanding microbial communities, yet support for custom genome-resolved reference databases is limited. We introduce Leviathan for integrated taxonomic and functional profiling at both genome and pangenome resolution. Leviathan combines Sylph for ultrafast alignment-free taxonomic profiling with Salm...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Multi-omics profiling reveals the role of gut microbiota and associated metabolites in postweaning oxidative stress in Holstein dairy calves, particularly in relation to amino acid synthesis and metabolism.",
+      "url": "https://doi.org/10.3168/jds.2026-29112",
+      "source": "PubMed — Journal of dairy science",
+      "one_liner": "To investigate the relationship between post-weaning oxidative stress (OS) and gut microbiota in dairy calves, 332 Holstein calves were enrolled and weaned uniformly at 64 d of age. Based on plasma oxidative stress index (OSI) measured at 3 d post-weaning (67 d of age), 10 calves with the highest OSI (post-Hos) and 10 with the lowest OSI (post-Los) were s...",
+      "segment": 1,
+      "timestamp": 47.4
+    },
+    {
+      "title": "LGTM: Gaussian process modulated neural topic modeling for longitudinal microbiome.",
+      "url": "https://doi.org/10.1080/19490976.2026.2741488",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Longitudinal microbiome data are key to understanding the dynamics of microbial communities and their relationships with the host and environment. However, analysis of such data is challenging due to high dimensionality, compositionality, irregular sampling and temporal dependencies on external covariates. Existing analytical approaches typically address ...",
+      "segment": 2,
+      "timestamp": 103.5
+    },
+    {
+      "title": "Dual action of baicalin against renal fibrosis in hyperuricemic nephropathy: targeting PANX1-P2Y6 signaling and gut microbiota dysbiosis.",
+      "url": "https://doi.org/10.1007/s10735-026-10973-2",
+      "source": "PubMed — Journal of molecular histology",
+      "one_liner": "Hyperuricemic nephropathy (HN) is accompanied by persistent hyperuricemia, progressive renal injury, and fibrosis, but effective treatment for the fibrotic component remains limited. Baicalin (BA), a flavonoid isolated from Scutellaria baicalensis Georgi, has been reported to have anti-inflammatory and antioxidant effects, although its role in HN-associat...",
+      "segment": 3,
+      "timestamp": 154.6
+    },
+    {
+      "title": "Gut microbiota-expressed sulfotransferase sulfonates 25-hydroxyvitamin D3 and promotes depression.",
+      "url": "https://doi.org/10.1016/j.bbi.2026.107043",
+      "source": "PubMed — Brain, behavior, and immunity",
+      "one_liner": "Vitamin D deficiency (VDD) has been associated with depressive symptoms, but the underlying cause of this deficiency remains unclear. Here, we isolated and cultured Escherichia coli (E. coli) from the feces of depressive patients with VDD and found that this bacterium could metabolize 25-hydroxyvitamin D3 (25[OH]D3) in vitro. In vivo, oral gavage of E. co...",
+      "segment": 4,
+      "timestamp": 293.7
+    },
+    {
+      "title": "Gut microbiota and metabolic characteristics in PWHIV with metabolic dysfunction-associated steatotic liver disease (MASLD).",
+      "url": "https://doi.org/10.1080/21505594.2026.2739091",
+      "source": "PubMed — Virulence",
+      "one_liner": "The global prevalence of Metabolic dysfunction-associated steatotic liver disease (MASLD) among persons with HIV (PWHIV) is estimated at 34%. This study examined the influence of gut microbial and metabolic alterations in PWHIV with MASLD. We conducted 16S rRNA sequencing on 60 fecal samples (24 from HIV group and 36 from HIV-MASLD group) to assess microb...",
+      "segment": 5,
+      "timestamp": 339.27
+    },
+    {
+      "title": "The Critical Role of Molecular Weight in Digestion Stability and Gut Microbiota-Dependent Fermentation of Dendrobium officinale Polysaccharides.",
+      "url": "https://doi.org/10.1021/acs.jafc.6c10562",
+      "source": "PubMed — Journal of agricultural and food chemistry",
+      "one_liner": "This study systematically investigated the impact of molecular weight (Mw) on the gastrointestinal fate and gut microbiota modulation of Dendrobium officinale polysaccharides (DOP). A series of DOPs with different Mw (509-110 kDa) was obtained via ultrasonic degradation. During simulated digestion, all DOPs exhibited partial depolymerization, evidenced by...",
+      "segment": 6,
+      "timestamp": 382.85
+    },
+    {
+      "title": "Gut microbiota-mediated dietary lignans metabolism drives accumulation of",
+      "url": "https://doi.org/10.1039/d6fo01787h",
+      "source": "PubMed — Food & function",
+      "one_liner": "For triple-negative breast cancer (TNBC), which lacks specific therapeutic targets, paclitaxel (PTX) chemotherapy remains the first-line clinical treatment. However, the widespread issue of treatment resistance severely limits its effectiveness, making it urgent to explore safer and more effective chemosensitization strategies. Dietary lignans (DL), bioac...",
+      "segment": 7,
+      "timestamp": 439.99
+    },
+    {
+      "title": "Effects of γ-aminobutyric acid-rich fermented rice bran on hepatic histology, gut microbiota, and fecal metabolites in a rat model of high-fat diet-induced NAFLD-like hepatic injury.",
+      "url": "https://doi.org/10.1039/d6fo02614a",
+      "source": "PubMed — Food & function",
+      "one_liner": "γ-Aminobutyric acid (GABA)-rich fermented rice bran (GFRB) is a multi-component fermented food matrix with potential metabolic benefits, but its effects on high-fat diet (HFD)-induced liver injury and associated gut microbial and metabolic changes remain unclear. In this study, we characterized the metabolite profile of GFRB and evaluated its effects in r...",
+      "segment": 8,
+      "timestamp": 484.5
+    },
+    {
+      "title": "Curcumin in inflammatory bowel disease: highlighting gut microbiota-metabolite-host interactions.",
+      "url": "https://doi.org/10.1039/d6fo03442j",
+      "source": "PubMed — Food & function",
+      "one_liner": "Inflammatory bowel disease (IBD) is driven by a complex interplay among epithelial barrier breakdown, immune dysregulation, microbial dysbiosis, and redox imbalance. Curcumin, a major curcuminoid from turmeric (",
+      "segment": 9,
+      "timestamp": 526.62
+    },
+    {
+      "title": "Vanillin alleviates circadian disruption-induced cognitive impairment: involvement of gut microbiota alterations and tryptophan metabolism.",
+      "url": "https://doi.org/10.1039/d6fo03659g",
+      "source": "PubMed — Food & function",
+      "one_liner": "Circadian disruption (CD) is an important risk factor for cognitive impairment and neurodegenerative diseases, potentially through disturbances in tryptophan (TRP) metabolism. This study investigated the protective effects of orally administered vanillin in a mouse model of CD. CD impaired spatial learning and recognition memory, whereas vanillin improved...",
+      "segment": 10,
+      "timestamp": 574.52
+    },
+    {
+      "title": "Sciadonic acid ameliorates cognitive impairment in APP/PS1 mice with concomitant modulation of gut microbiota and brain metabolism.",
+      "url": "https://doi.org/10.1039/d6fo01986b",
+      "source": "PubMed — Food & function",
+      "one_liner": "Sciadonic acid (SCA) is a fatty acid derived from",
+      "segment": 11,
+      "timestamp": 620.16
+    },
+    {
+      "title": "Pharmacomicrobiomics-driven targeted drug delivery for precision microbiome modulation.",
+      "url": "https://doi.org/10.1007/s40199-026-00666-2",
+      "source": "PubMed — Daru : journal of Faculty of Pharmacy, Tehran University of Medical Sciences",
+      "one_liner": "BACKGROUND: The human microbiome can actively influence how drugs are handled and processed in our body. More knowledge of host-microbiome-drug interactions has shifted drug delivery from current approaches to precision therapeutics. OBJECTIVES: The review is to evaluate various targeted strategies and mechanisms of drug delivery systems (DDS) driven by p...",
+      "segment": 12,
+      "timestamp": 661.78
+    },
+    {
+      "title": "Assessing diet-microbiome associations with linear models: variability across human studies.",
+      "url": "https://doi.org/10.1080/19490976.2026.2740905",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Understanding and identifying relationships between dietary intake and the gastrointestinal microbiome can provide critical information for optimization of human health. However, methodological approaches largely differ and can impact research findings. Here we outline differences in reported diet-microbiome associations from a range of studies utilizing ...",
+      "segment": 13,
+      "timestamp": 792.88
+    },
+    {
+      "title": "Comparison of oral and gut microbiome highlights the role of oral bacteria in systemic inflammation in HIV.",
+      "url": "https://doi.org/10.1128/msphere.00384-26",
+      "source": "PubMed — mSphere",
+      "one_liner": "UNLABELLED: Chronic HIV-1 infection is associated with increased inflammation-related comorbidities, despite effective viral suppression with antiretroviral therapy. While the role of the gut microbiome in inflammation is well studied, the contribution of the oral microbiome remains less clear. This study investigates the relationship between the oral and...",
+      "segment": 14,
+      "timestamp": 837.71
+    },
+    {
+      "title": "Oral microbiome signatures of ageing and cognitive function across distinct geographical cohorts.",
+      "url": "https://doi.org/10.1371/journal.pone.0359559",
+      "source": "PubMed — PloS one",
+      "one_liner": "Declining cognitive function in older adults may be linked to reduced nitric oxide (NO) bioavailability, which is supported by oral nitrate-reducing bacteria. Oral microbiome community structure varies geographically, complicating understanding of microbiome-cognition relationships across populations. This study aimed to identify consistent associations b...",
+      "segment": 15,
+      "timestamp": 877.74
+    },
+    {
+      "title": "Investigating the presence of microbiota-based phenotypes in Irritable Bowel Syndrome.",
+      "url": "https://doi.org/10.1088/1752-7163/aeb043",
+      "source": "PubMed — Journal of breath research",
+      "one_liner": "Irritable Bowel Syndrome (IBS) is heterogenous disorder of gut-brain interaction, with a key role for the dysregulated host-gut microbiota interplay. IBS subtyping is based only on symptoms of bowel habits, reflecting limited insight into underlying biological mechanisms. \rAims: This study aimed to define microbiota-based IBS phenotypes and to compare...",
+      "segment": 16,
+      "timestamp": 1012.3
+    },
+    {
+      "title": "Chestnut-quebracho tannins shape the fecal metabolome of weaned pigs through microbiota-dependent urolithin production.",
+      "url": "https://doi.org/10.1186/s40104-026-01503-x",
+      "source": "PubMed — Journal of animal science and biotechnology",
+      "one_liner": "BACKGROUND: Chestnut and quebracho tannins may support gut health in weaned piglets, but their efficacy likely depends on farm environment and microbial capacity to convert tannins into bioactive metabolites. This study evaluated the effects of a blend of chestnut-derived hydrolysable tannins and quebracho-derived condensed tannins on growth performance, ...",
+      "segment": 17,
+      "timestamp": 1061.48
+    },
+    {
+      "title": "The impact of the estrous cycle on the vaginal microbiota of dairy cows.",
+      "url": "https://doi.org/10.1371/journal.pone.0359551",
+      "source": "PubMed — PloS one",
+      "one_liner": "The present study investigated the vaginal microbiota of dairy cows throughout the estrous cycle and early gestation, under natural physiological conditions and without hormonal manipulation. Vaginal swabs were collected at estrus (D0), metestrus (D3), diestrus (D15), and Day 19 post-insemination (representing proestrus for non-pregnant cows or early gest...",
+      "segment": 18,
+      "timestamp": 1189.51
+    },
+    {
+      "title": "Black rice wine attenuates cognitive decline",
+      "url": "https://doi.org/10.1039/d6fo02522f",
+      "source": "PubMed — Food & function",
+      "one_liner": "Gut microbiota dysbiosis contributes to cognitive decline and is modifiable through dietary interventions. Black rice wine (BRW), a traditional Chinese fermented alcoholic beverage enriched with phenolics and containing ethanol, raises the question of whether its complex matrix confers neuroprotection. To address this, we investigated the effect of BRW on...",
+      "segment": 19,
+      "timestamp": 1330.94
+    },
+    {
+      "title": "Luteolin as a major anti-fatigue compound in coix seed seedling flavonoids: oxidative stress alleviation and intestinal microbiota modulation.",
+      "url": "https://doi.org/10.1039/d6fo01842d",
+      "source": "PubMed — Food & function",
+      "one_liner": "Our previous studies have identified an active coix seed seedling extract (CSSE) with anti-fatigue potential, yet its anti-fatigue material basis remains to be fully elucidated. Here, a secondary-purified flavonoid of CSSE (PPCSSE) was prepared and characterized. The major anti-fatigue compound of PPCSSE was identified by liquid chromatography-tandem mass...",
+      "segment": 20,
+      "timestamp": 1375.58
+    },
+    {
+      "title": "Microbiota-host genetic interactions modulate MASLD risk in",
+      "url": "https://doi.org/10.1136/gutjnl-2026-338178",
+      "source": "PubMed — Gut",
+      "one_liner": "BACKGROUND: The factors that determine when genetic susceptibility to metabolic dysfunction-associated steatotic liver disease (MASLD) progresses to clinically significant liver injury remain incompletely understood. OBJECTIVE: We investigated whether disruption of the intestinal host-microbiota interface acts as a contextual modifier that amplifies DESIG...",
+      "segment": 21,
+      "timestamp": 1422.88
+    },
+    {
+      "title": "Microbial community assembly along a groundwater-hypersaline lake continuum in the Badain Jaran Desert.",
+      "url": "https://doi.org/10.1093/femsec/fiag113",
+      "source": "PubMed — FEMS microbiology ecology",
+      "one_liner": "Microbial communities along groundwater-hypersaline lake continua encounter steep physicochemical gradients over short distances, yet how hydrological connectivity and geochemical gradients jointly shape community assembly remains poorly understood. Here, we combined hydrogeochemical profiling, 16S rRNA gene amplicon sequencing, indicator species analysis...",
+      "segment": 22,
+      "timestamp": 1465.21
+    },
+    {
+      "title": "Within-host evolution and transmission of a human gut symbiont across ecological scales.",
+      "url": "https://doi.org/10.1016/j.chom.2026.09.002",
+      "source": "PubMed — Cell host & microbe",
+      "one_liner": "Gut bacteria rapidly evolve in vivo, but their long-term success requires dispersal across hosts. Here, we quantify this interplay by tracking ∼70,000 genomically barcoded lineages of the commensal Bacteroides thetaiotaomicron (Bt) among co-housed mice. Adaptive mutations rapidly spread between hosts, overcoming colonization resistance imposed by resident...",
+      "segment": 23,
+      "timestamp": 1512.75
+    },
+    {
+      "title": "Microbial community dynamics in a traditional Swiss mountain cheese over 142 years of cheesemaking.",
+      "url": "https://doi.org/10.1016/j.cub.2026.08.023",
+      "source": "PubMed — Current biology : CB",
+      "one_liner": "The history of cheesemaking is deeply intertwined with the evolution of microbial communities, from spontaneous fermentation to modern, standardized practices. The rapid technological changes of the last century likely induced profound alterations in cheese microbial communities, yet this remains largely underexplored. Using shotgun metagenomics and 16S r...",
+      "segment": 24,
+      "timestamp": 1551.77
+    },
+    {
+      "title": "Flavonoid-associated microbial defense and Cellvibrio sp. C74 pretreatment collectively enhance straw degradation by Stropharia rugosoannulata.",
+      "url": "https://doi.org/10.1016/j.biortech.2026.136013",
+      "source": "PubMed — Bioresource technology",
+      "one_liner": "Stropharia rugosoannulata efficiently utilizes straw in natural habitats, yet how it simultaneously defends against competing environmental microorganisms and degrades lignocellulose remains unclear. Here, transcriptomic, metabolomic, and microbiome analyses were integrated with flavonoid antibacterial assays and bacterial pretreatment experiments to char...",
+      "segment": 25,
+      "timestamp": 1596.04
+    },
+    {
+      "title": "Efficacy of",
+      "url": "https://doi.org/10.1039/d5fo03175c",
+      "source": "PubMed — Food & function",
+      "one_liner": "Current therapies for functional constipation (FC) often exhibit limited long-term efficacy. Probiotics, particularly",
+      "segment": 26,
+      "timestamp": 1639.55
+    },
+    {
+      "title": "Enterotype-based stratification identifies clinically distinct microbial subtypes in inflammatory bowel disease.",
+      "url": "https://doi.org/10.1093/ibd/izag176",
+      "source": "PubMed — Inflammatory bowel diseases",
+      "one_liner": "BACKGROUND: Inflammatory bowel diseases (IBDs) are heterogeneous disorders in which gut microbial dysbiosis may influence disease activity and clinical outcomes. However, it remains unclear whether microbiome-based stratification identifies clinically relevant IBD subtypes. METHODS: We profiled the gut microbiome of a cohort comprising patients with IBD (...",
+      "segment": 27,
+      "timestamp": 1681.96
+    },
+    {
+      "title": "Efficacy and safety of probiotic supplementation in psoriatic arthritis - a randomized controlled trial.",
+      "url": "https://doi.org/10.1093/rheumatology/keag547",
+      "source": "PubMed — Rheumatology (Oxford, England)",
+      "one_liner": "OBJECTIVES: To evaluate the clinical efficacy and safety of a multispecies probiotic in patients with psoriatic arthritis (PsA) in moderate disease activity. METHODS: In this single-centre, randomized, double-blind, placebo-controlled trial (RCT), 66 PsA patients with moderate disease activity (Psoriatic Arthritis Disease Activity Score [PASDAS] >3.2 to <...",
+      "segment": 28,
+      "timestamp": -1
+    },
+    {
+      "title": "Sodium cyclamate aggravates DSS-induced colitis in mice with associated microbial, metabolic, and epithelial alterations.",
+      "url": "https://doi.org/10.1039/d6fo02315k",
+      "source": "PubMed — Food & function",
+      "one_liner": "Sodium cyclamate is widely used as a non-nutritive sweetener, but its effects during intestinal inflammation remain poorly defined. We investigated whether chronic cyclamate exposure aggravated dextran sulfate sodium (DSS)-induced colitis in mice using disease phenotyping, 16S rRNA gene sequencing, targeted short-chain fatty acid and bile acid measurement...",
+      "segment": 29,
+      "timestamp": 1729.3
+    }
+  ]
+}
