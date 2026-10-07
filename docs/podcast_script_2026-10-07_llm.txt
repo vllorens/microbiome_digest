@@ -1,0 +1,196 @@
+Diet‑microbiome interactions can boost cancer immunotherapy in obese patients. Desharnais et al. report in Cell Metabolism (indexed via PubMed) that obesity‑linked dietary changes reshape the gut microbiome, which in turn strengthens anti‑tumor immunity and accounts for the surprisingly strong response to immune checkpoint blockade seen in obesity. By pinpointing specific diet‑driven microbial shifts, the work shows that targeted nutritional interventions could prime the host for better immunotherapy outcomes. The findings suggest a practical avenue—modifying diet to remodel microbiota—to enhance checkpoint inhibitor efficacy in obese cancer patients.
+
+[[TRANSITION]]
+
+Researchers show that the way gut microbes interact with each other shapes how the microbial community changes in ulcerative colitis, using a spouse‑pair cohort to control for shared household factors. By mapping omnidirectional interaction networks, they found that these networks modulate the phenotypic plasticity of gut microbiota, influencing the disease‑associated shift in microbial composition. The study, published in Advanced Science via PubMed, highlights that microbial community responses to UC are not driven by individual taxa alone but by the collective interaction patterns among them.
+
+[[TRANSITION]]
+
+Associations of the gut microbiota with diet and mild cognitive impairment in elderly individuals: a cross‑sectional study.  
+Source: Singapore Medical Journal, PubMed entry DOI 10.4103/singaporemedj.SMJ-2026-039.
+
+The paper opens by noting that, while diet and gut microbes each influence brain health, the mechanistic bridge between them in older adults remains unclear. To probe this gap, the authors designed a cross‑sectional investigation that compared two groups: 48 participants diagnosed with mild cognitive impairment (MCI) and 43 age‑matched healthy controls. The methods note that participant demographics were collected, though the specific variables—age range, sex distribution, education level, or comorbidities—are not detailed in the extracted notes. Likewise, the text does not specify how diet was assessed (food frequency questionnaire, 24‑hour recall, etc.) or which dietary components were of interest.  
+
+Regarding the microbiota, the notes do not reveal the sampling site (stool versus mucosal), the sequencing platform (16S rRNA gene shotgun metagenomics), or the taxonomic resolution achieved. Consequently, the available text provides no details on the analytical pipeline used to link microbial composition to dietary patterns or cognitive status, nor does it disclose any statistical models (e.g., regression, multivariate analysis) that were applied.  
+
+Because the results section is absent from the supplied notes, we cannot state which bacterial taxa were enriched or depleted in the MCI group, whether any diet‑microbe interactions reached significance, or how effect sizes compared to prior work. The study’s contribution, as framed in the introduction, lies in attempting to clarify whether gut microbiota mediates the relationship between diet and mild cognitive impairment in an elderly Singaporean cohort, but the actual findings remain unspecified in the material provided.  
+
+In summary, while the design—48 MCI cases versus 43 controls—is clear, the essential outcomes that would answer the central question are not present in the notes, leaving the association between gut microbes, diet, and cognitive status unresolved based on the available information.
+
+[[TRANSITION]]
+
+Ulcerative colitis is driven by intestinal oxidative stress, an imbalanced gut microbiota and disrupted selenium metabolism, and the study titled “Pediococcus acidilactici ZQ‑19 Ameliorates Ulcerative Colitis via Remodeling Gut Microbiota and Glutathione Redox Homeostasis” investigates whether a specific lactic‑acid bacterium can counteract these pathways. The researchers began by isolating 449 lactic‑acid bacteria strains from yak yogurt collected on the Qinghai‑Tibet Plateau, a source noted for its unique microbial diversity. From this collection they selected Pediococcus acidilactici strain ZQ‑19 for further testing, based on the hypothesis that it might restore microbial balance and redox equilibrium in the diseased intestine.  
+
+The available text does not provide details on the experimental model used (e.g., mouse colitis model or human samples), the dosage or administration regimen of ZQ‑19, the duration of treatment, or the specific assays employed to measure gut microbiota composition, glutathione levels, or selenium‑related metabolites. Likewise, the notes do not reveal which comparative controls were included, what statistical significance thresholds were applied, or any quantitative outcomes such as changes in disease activity scores, cytokine profiles, or histological scores.  
+
+Because the pipeline excerpt ends after “After H,” we cannot describe the subsequent steps—whether the strain was evaluated for antimicrobial protein production, selenium‑binding capacity, or direct antioxidant activity. Consequently, while the title asserts that ZQ‑19 ameliorates ulcerative colitis through microbiota remodeling and glutathione redox homeostasis, the supporting evidence, methodological specifics, and result magnitudes remain unspecified in the supplied material. To fully assess the novelty and potential translational relevance of this probiotic approach, one would need to consult the complete article for the full experimental design, data analysis, and discussion of mechanisms.
+
+[[TRANSITION]]
+
+A recent review in International immunopharmacology (PubMed) highlights the gut microbiota–intestinal γδT cell axis as a bidirectional communication network that shapes mucosal immunity. The authors note that γδT cells make up roughly 10‑18 % of intraepithelial lymphocytes, underscoring their prominent role in the intestinal immune compartment. By summarizing how microbial signals modulate γδT‑cell subsets and how these lymphocytes, in turn, influence microbial communities, the paper outlines mechanistic links that affect barrier integrity, inflammation, and infection resistance. It also discusses emerging therapeutic strategies—such as probiotics, prebiotics, and targeted γδT‑cell modulators—that could harness this axis for treating inflammatory bowel disease, infections, and cancer.
+
+[[TRANSITION]]
+
+Multi‑omics profiling of piglets infected with swine acute diarrhea syndrome coronavirus (SADS‑CoV) shows that shifts in the gut microbiome are tightly linked to alterations in host proteins, metabolites and short‑chain fatty acids, which together correlate with viral pathogenicity and the ensuing immune response. Using proteomics, metabolomics, SCFA quantification and 16S rRNA sequencing of intestinal samples, researchers identified specific bacterial taxa, protein expression patterns and metabolite levels that associate with disease severity, including diarrhea, vomiting and lethality. The findings highlight the intestinal flora as a key modulator of SADS‑CoV infection outcomes. Source: PubMed — Virologica Sinica
+
+[[TRANSITION]]
+
+In a secondary analysis of a randomized trial, post‑menopausal women with mild hypercholesterolemia who consumed diets enriched in stearic (18:0) or oleic (18:1) acid showed distinct shifts in gut microbial taxa and bile‑acid pools compared with a palmitic‑acid (16:0)‑rich diet, changes that correlated with lower LDL‑cholesterol levels. The stearic and oleic regimens increased beneficial short‑chain‑fatty‑acid producers and reduced secondary bile acids linked to cholesterol absorption, whereas palmitic acid did not produce these metabolic signatures. These findings suggest that the neutral cholesterol effect of stearic acid may be mediated through microbiome‑driven bile‑acid remodeling. Source: PubMed — The American Journal of Clinical Nutrition
+
+[[TRANSITION]]
+
+The study finds that burning mouth syndrome patients who also have gastroesophageal reflux disease show distinct salivary microbiome profiles compared to those with burning mouth syndrome alone, highlighting a microbial link in the oral‑gastrointestinal axis. By sequencing saliva samples from both groups, the researchers identified shifts in bacterial diversity and specific taxa that correlate with GERD comorbidity. These results suggest that reflux‑related changes in the oral environment may contribute to the pathophysiology of burning mouth syndrome. Source: PubMed — Oral diseases.
+
+[[TRANSITION]]
+
+Tanshinone IIA, a compound derived from Salvia miltiorrhiza, reverses cognitive deficits caused by sleep deprivation by modulating the gut microbiota and suppressing the TLR4/NF‑κB inflammatory pathway, according to a study published in The American Journal of Chinese Medicine indexed on PubMed. The researchers report that sleep‑deprived animals treated with Tanshinone IIA showed restored performance in memory tests alongside shifts in bacterial communities linked to reduced neuroinflammation. These findings suggest that the herb’s neuroprotective effects are mediated through gut‑brain signaling, highlighting a potential therapeutic avenue for sleep‑loss‑related cognitive impairment.
+
+[[TRANSITION]]
+
+An exploratory study examined whether installing ultraviolet (UV) filtration units in home heating, ventilation, and air‑conditioning systems meaningfully shifts the indoor environmental microbiome and could thereby influence childhood asthma outcomes. Published in Allergy and Asthma Proceedings via PubMed, the research notes that while UV air cleaners have been shown to alter microbial communities, it remains uncertain whether the resulting changes are sufficient to affect asthma severity or prevalence in children. The authors call for further investigation to determine if targeted UV interventions can produce clinically relevant microbiome modifications that translate into measurable asthma benefits.
+
+[[TRANSITION]]
+
+The review article “Gut microbiome‑enteric virus interactions: mechanisms, clinical implications, and translational directions” frames the gut microbiome as a modulator of four key host factors that shape the outcome of enteric viral infections: epithelial barrier integrity, the availability of microbial metabolites, the tone of mucosal immunity, and the responsiveness to vaccines. According to the source, these microbiome‑driven processes are directly relevant to viruses that replicate in the intestinal mucosa, notably norovirus and rotavirus—which cause acute gastroenteritis—and poliovirus, which replicates in the gut before potential systemic spread.
+
+The article notes that alterations in barrier integrity can affect viral entry and spread across the epithelium, while shifts in metabolite pools—such as short‑chain fatty acids or bile acids—may influence viral replication cycles or host cell susceptibility. Changes in mucosal immune tone, including the balance of innate and adaptive responses, are described as another avenue through which the microbiome could either restrict or facilitate viral infection. Finally, the review highlights that microbiome composition can modulate vaccine efficacy, a point that is particularly pertinent for oral vaccines targeting enteric pathogens.
+
+However, the available text does not provide details on the specific microbial taxa or functional pathways implicated, nor does it present experimental data, clinical trial results, or mechanistic models that substantiate these connections. It also does not quantify how strong these microbiome effects are relative to other host or viral factors. Consequently, while the review outlines a conceptual framework linking microbiome features to norovirus, rotavirus, and poliovirus infection outcomes, the precise mechanisms, clinical evidence, and translational strategies discussed in the full article remain unspecified in the provided notes. Further consultation of the full text would be required to elucidate those aspects.
+
+[[TRANSITION]]
+
+The biliary microbiome in symptomatic cholelithiasis: a prospective comparison across distinct bacterial niches.  
+Source: BMC Microbiology, PubMed entry dated 2026‑10‑07.
+
+Cholelithiasis is a common condition in Western populations, often leading to surgical or endoscopic treatment. Despite its frequency, the makeup and functional role of the bacterial community residing in the biliary tract remain largely undefined. This gap motivated the investigators to design a prospective study that directly compares the biliary microbiome with two readily accessible microbial reservoirs—saliva and feces—within the same cohort of patients presenting with symptomatic gallstones.
+
+The study’s core innovation lies in its side‑by‑side sampling of three distinct niches from individuals with cholelithiasis, allowing researchers to assess whether the biliary community resembles oral or gut microbiota, or harbors a unique signature. By positioning the biliary niche alongside saliva and feces, the work aims to clarify potential routes of bacterial seeding—whether via retrograde flow from the duodenum, hematogenous spread, or oral‑biliary translocation—and to explore any links between microbial composition and stone formation or symptoms.
+
+Unfortunately, the available excerpt does not disclose the methodological details that would let us evaluate how these comparisons were made. Information on sample size, timing of specimen collection relative to intervention, DNA extraction protocols, sequencing platform (e.g., 16S rRNA gene amplicon shotgun metagenomics), bioinformatic pipelines, diversity metrics, or statistical tests for differential abundance is absent. Likewise, the excerpt provides no results: we do not know which taxa were enriched or depleted in bile versus saliva or feces, whether any community‑level differences reached significance, or how the findings correlate with stone composition, inflammation markers, or clinical outcomes.
+
+In short, while the study’s rationale—characterizing and contrasting the biliary microbiome with saliva and feces in cholelithiasis patients—is clear and addresses an important knowledge gap, the specific procedures, analytical approaches, and outcomes remain unspecified in the provided material. To understand what the investigators actually discovered, one would need to consult the full article.
+
+[[TRANSITION]]
+
+This study characterizes the oral microbiome in atopic dermatitis (AD) patients receiving either dupilumab or upadacitinib. The authors note that while dysbiosis of the skin‑gut axis has been well documented in AD, the contribution of oral microbial imbalance to disease progression and to the effects of these biologic and JAK‑inhibitor therapies remains poorly understood. By focusing on the oral cavity, the work seeks to fill a specific knowledge gap: whether systemic immunomodulation alters oral microbial communities and whether any such shifts correlate with clinical response.
+
+The available text does not provide details on the study design, such as the number of participants, inclusion criteria, or whether samples were collected longitudinally (e.g., baseline versus post‑treatment). It also omits information on the molecular methods used to profile the microbiome—whether 16S rRNA gene sequencing, shotgun metagenomics, or another approach—and on the bioinformatic pipelines for taxonomic assignment or diversity analysis. Consequently, we cannot state which bacterial taxa were found to differ between AD patients and healthy controls, how dupilumab versus upadacitinib specifically influenced those taxa, or whether any observed changes were linked to clinical scores such as EASI or pruritus VAS.
+
+Without reported results, we cannot assess the statistical significance of any reported differences, nor can we comment on effect sizes, confounding factors (e.g., oral hygiene, antibiotics), or validation steps. The objectives suggest the investigators hypothesized that oral dysbiosis may contribute to AD and that modulating the immune system might normalize the oral microbiota, but the actual findings remain unspecified in the provided excerpt.
+
+In summary, as reported in *Clinical Oral Investigations*, the paper sets out to characterize the oral microbiome in AD patients treated with dupilumab or upadacitinib, highlighting an underexplored facet of the microbiome‑immune axis. However, the available excerpt does not disclose the methodological specifics, cohort characteristics, or key outcomes needed to evaluate the novelty or impact of the work. Further details would be required to determine how this study advances our understanding of oral‑skin connections in AD and whether microbiome‑targeted strategies could complement existing therapies.
+
+[[TRANSITION]]
+
+A new hyaluronic‑acid‑bilirubin nanocarrier delivers methylprednisolone directly to the inflamed gut, simultaneously strengthening the intestinal barrier, dampening aberrant immune responses, and reshaping the gut microbiome in colitis models. By encapsulating the corticosteroid, the system reduces systemic exposure while enhancing local anti‑inflammatory effects, breaking the vicious cycle of barrier loss, microbial dysbiosis, and immune overactivation seen in inflammatory bowel disease. The approach shows synergistic modulation of barrier integrity, immunity, and microbiota, offering a potential strategy to improve efficacy and safety of steroid therapy. Source: PubMed — Journal of Controlled Release
+
+[[TRANSITION]]
+
+Localized co‑inoculation of Bacillus subtilis and Trichoderma afroharzianum reshapes the sorghum root microbiome and boosts plant performance, according to a study in Microbiological Research (PubMed). Researchers found that applying the two microbes together, rather than alone, altered bacterial and fungal community composition in the rhizosphere, leading to enhanced shoot biomass, root length and nutrient uptake. The combined treatment outperformed single‑strain inoculations, indicating a synergistic effect that could be harnessed for sustainable sorghum production. The work highlights how targeted bacterial‑fungal consortia can be used to engineer beneficial rhizosphere microbiomes.
+
+[[TRANSITION]]
+
+Glyphosate’s safety for mammals has been assumed because its target enzyme, EPSPS of the shikimate pathway, does not exist in animal cells. A critical review in the Journal of Applied Toxicology (PubMed) argues this view is incomplete, noting that many gut commensal bacteria retain a functional shikimate pathway and thus can be directly inhibited by glyphosate‑based herbicides. The authors summarize evidence showing altered microbial composition, reduced aromatic amino acid synthesis, and downstream effects on host immunity and metabolism after exposure. They conclude that risk assessments must consider indirect microbiome-mediated toxicity when evaluating glyphosate’s mammalian safety.
+
+[[TRANSITION]]
+
+Researchers characterized how low, moderate and high dietary zinc oxide influences the gut microbiome and resistome of weaned piglets. Using 16S rRNA sequencing and metagenomic analysis, they found that increasing ZnO doses reshaped bacterial community composition and altered the abundance of antimicrobial resistance genes, with the highest concentration producing the most pronounced shifts. These changes may affect nutrient uptake and environmental resistance spread, highlighting a trade‑off between diarrhoea prevention and microbiome health. The work underscores the need to evaluate micronutrient alternatives that limit collateral impacts on microbial ecosystems. Source: PubMed — Microbiology Spectrum.
+
+[[TRANSITION]]
+
+Researchers have unveiled a scalable single‑microbe RNA‑sequencing workflow that resolves functional heterogeneity within sediment microbiomes at unprecedented resolution. By adapting the method for muddy, environmentally complex samples, they achieved high‑throughput single‑cell transcriptomics across natural gradients, revealing distinct transcriptional states among individual microbes that were previously hidden in bulk analyses. This advance, reported in PubMed‑indexed Small Methods, provides a powerful tool for linking microbial identity to activity in the sediments that drive global biogeochemical cycles. The approach opens new avenues for studying microbial responses to environmental change.
+
+[[TRANSITION]]
+
+Neonatal overfeeding in mice sets off a lifelong reprogramming of the gut mucosa and microbiota that predisposes animals to accelerated age‑related muscle loss and metabolic disease, according to a study reported in Nature’s Microbiome section. The researchers found that excess nutrition during the suckling period alters intestinal barrier function and microbial composition, effects that persist into adulthood and correlate with reduced skeletal‑muscle mass and impaired glucose homeostasis. These results highlight early‑life nutrition as a critical window for shaping long‑term host‑microbe interactions and susceptibility to sarcopenia and metabolic disorders.
+
+[[TRANSITION]]
+
+Researchers used a network‑guided approach to design antagonistic microbial communities that suppress Fusarium stalk rot in maize. By mapping how the pathogen reshapes maize‑associated interaction networks, they identified keystone taxa whose loss correlates with disease severity and then assembled synthetic consortia that restore those inhibitory links. In greenhouse trials, the engineered microbiota markedly reduced stalk lesion length and improved plant vigor compared with untreated controls. The work shows that leveraging pathogen‑induced network rewiring can yield precise biocontrol strategies, moving beyond broad‑spectrum inoculants to targeted microbiome engineering. Source: PubMed — The ISME journal.
+
+[[TRANSITION]]
+
+Recent narrative review highlights that the rise in Blastocystis and Dientamoeba fragilis detections, driven by sensitive syndromic multiplex PCR panels, often leads to unwarranted antimicrobial therapy despite unclear pathogenicity. Positivity rates of 15‑25 % on gastrointestinal panels frequently trigger treatment, yet clinical trials and cohort studies show inconsistent links to symptoms, and faecal microbiota transplantation data remain limited. The authors argue that current evidence does not support routine eradication and call for standardized criteria to distinguish colonization from disease, urging clinicians to weigh risks before prescribing antibiotics for these common intestinal protists. Source: PubMed – Clinical Microbiology and Infection.
+
+[[TRANSITION]]
+
+A multi‑strain probiotic mixture eased Alzheimer‑like symptoms in rats whose disease was triggered by oral aluminum chloride, showing that targeting the gut‑brain axis can curb cognitive loss, amyloid buildup and neuroinflammation. The probiotics lowered activation of the NF‑κB/NLRP3 inflammasome pathway in the brain, linking microbial shifts to reduced inflammatory signaling. These results, reported in Physiology & Behavior via PubMed, suggest that modulating gut microbiota may offer a viable strategy to dampen the inflammatory cascade that drives Alzheimer’s pathology for future therapeutic development.
+
+[[TRANSITION]]
+
+
+
+[[TRANSITION]]
+
+The paper asks whether a consortium of endophytic bacteria sourced from the Zingiberaceae family — the plant group that includes ginger and turmeric itself — can improve the growth, yield, and curcuminoid production of Curcuma longa L., the turmeric plant. Published in the World Journal of Microbiology & Biotechnology, the study begins by noting that endophytic bacteria are integral members of the plant microbiome and are known to enhance growth, facilitate nutrient uptake, and bolster resistance to both biotic and abiotic stresses. From this premise, the authors isolated 29 endophytic bacterial strains from Zingiberaceae hosts, intending to test them as a combined inoculum on turmeric.
+
+The available excerpt does not reveal which bacterial species or genera make up those 29 isolates, nor does it describe how the consortium was formulated or applied — whether as a seed coating, soil drench, or foliar spray. It also omits details about the experimental design: the number of turmeric plants per treatment, growth‑stage timing, greenhouse versus field conditions, or the specific agronomic and biochemical parameters measured beyond the broad categories of growth, yield, and curcuminoid biosynthesis. Consequently, the text does not provide any quantitative results — such as percent increases in biomass, rhizome weight, or curcuminoid concentrations — nor does it indicate whether the consortium outperformed control treatments or single‑strain inoculants.
+
+What can be inferred from the title and the introductory notes is that the researchers hypothesized a synergistic benefit from using bacteria naturally associated with a botanically related family, potentially leveraging shared signaling pathways or metabolite exchange to boost turmeric’s medicinally valuable curcuminoids. The study’s relevance lies in the pursuit of more sustainable cultivation methods for a high‑value medicinal crop, reducing reliance on synthetic fertilizers or pesticides by harnessing beneficial microbes. However, without further information from the full article, the actual efficacy of the Zingiberaceae‑derived endophytic consortium remains unspecified in the provided material.
+
+[[TRANSITION]]
+
+Bacillus velezensis AKH‑1, isolated from goat milk, markedly alleviates Staphylococcus aureus‑induced diarrhea in mice, according to a study in Microbial Pathogenesis (PubMed). Treated animals showed lower fecal scores, reduced intestinal inflammation and liver injury markers, and a reshaped gut microbiome with increased beneficial Lactobacillus and decreased pathogenic Enterobacteriaceae. The probiotic also restored tight‑junction protein expression and modulated cytokine profiles, suggesting its protective effect stems from both microbial rebalancing and enhanced barrier function. These findings highlight AKH‑1 as a promising non‑antibiotic strategy against S. aureus‑related gastrointestinal disease.
+
+[[TRANSITION]]
+
+A novel Limosilactobacillus fermentum strain, DX2034, isolated from the feces of a healthy Korean infant, shows promise as a probiotic with anti‑adipogenic properties linked to TLR2 signaling. Researchers performed phenotypic and genomic characterization of the strain and assessed its ability to inhibit adipogenesis in vitro, finding that DX2034 modulates host pathways through TLR2 to reduce fat‑cell formation. The study highlights DX2034 as a candidate for metabolic health interventions, adding to the growing evidence that specific Lactobacillus strains can influence host metabolism beyond gut health. Source: PubMed — Letters in applied microbiology
+
+[[TRANSITION]]
+
+Researchers used multi‑omics profiling
+
+[[TRANSITION]]
+
+Researchers studying the widely used animal infection model found that bacterial populations are far from genetically uniform, revealing substantial heterogeneity that can influence disease outcomes. By sequencing isolates from infected hosts, the team identified multiple subpopulations with distinct virulence and metabolic profiles, challenging the common assumption of clonal uniformity in microbiology experiments. This work, published in Microbiology Spectrum via PubMed, underscores the need to account for population diversity when interpreting host‑microbe interaction data and designing therapeutic strategies. The findings suggest that overlooking such variation may lead to misleading conclusions about pathogenicity and drug efficacy.
+
+[[TRANSITION]]
+
+Researchers reporting in Gut (BMJ) examined the gut microbiome across the spectrum of colorectal neoplasia, from normal mucosa to adenomatous polyps, serrated lesions, sessile serrated lesions and cancer. Using 16S rRNA sequencing and functional profiling, they identified distinct taxonomic and metabolic signatures that shift progressively with lesion severity. Certain bacteria, including members of the Fusobacterium and Bacteroides genera, were enriched in advanced neoplasia, while protective taxa such as Faecalibacterium prausnitzii declined. These findings suggest that microbiome alterations begin early in carcinogenesis and could serve as non‑invasive biomarkers for early detection.
+
+[[TRANSITION]]
+
+The gut microbiota shapes immunity, metabolism and inflammation, and its altered composition is now linked to ovarian, endometrial and cervical cancer development and progression, according to a review in Gut (BMJ). Researchers found distinct microbial signatures in patients with these reproductive‑tract malignancies, suggesting that dysbiosis may modulate tumor‑promoting pathways or affect treatment response. While causality remains under investigation, the data highlight the gut‑reproductive tract axis as a potential target for microbiome‑based diagnostics or adjunct therapies. The authors call for longitudinal studies and mechanistic work to translate these associations into clinical strategies that could improve prevention or treatment outcomes.
+
+[[TRANSITION]]
+
+Roseburia inulinivorans was found to boost muscle strength in a new Gut (BMJ) study, marking the first direct link between this gut bacterium and improved muscular function. Researchers set out to test whether specific microbial species correlate with strength and to uncover the pathways involved. Their analysis showed that higher abundance of Roseburia inulinivorans corresponded with greater grip and leg‑press performance, and they identified microbial metabolites that may influence muscle protein synthesis. The findings open a microbiome‑focused avenue for preventing or treating muscle‑wasting conditions.
+
+[[TRANSITION]]
+
+A Swedish population‑based case‑control study published in Gut (BMJ) shows that, beyond antibiotics, several non‑antibiotic drugs with microbiome‑modulating activity are linked to new Clostridioides difficile infections. By linking nationwide prescription records to CDI diagnoses, the researchers quantified how these medications alter gut flora and raise infection risk. The work highlights overlooked pharmacological contributors to CDI and suggests that medication review could be a preventive strategy. The findings extend prior antibiotic‑centric models, offering clinicians a broader view of drug‑related susceptibility to this serious gastrointestinal infection. Source: Gut (BMJ).
+
+
+References:
+[1] Diet-microbiome interactions enhance cancer immunotherapy in obesity. — PubMed — Cell metabolism — https://doi.org/10.1016/j.cmet.2026.08.021
+[2] Omnidirectional Interaction Networks Modulating Phenotypic Plasticity in the Gut Microbiota Towards Ulcerative Colitis. — PubMed — Advanced science (Weinheim, Baden-Wurttemberg, Germany) — https://doi.org/10.1002/advs.78043
+[3] Associations of the gut microbiota with diet and mild cognitive impairment in elderly individuals: a cross-sectional study. — PubMed — Singapore medical journal — https://doi.org/10.4103/singaporemedj.SMJ-2026-039
+[4] Pediococcus acidilactici ZQ-19 Ameliorates Ulcerative Colitis via Remodeling Gut Microbiota and Glutathione Redox Homeostasis. — PubMed — Probiotics and antimicrobial proteins — https://doi.org/10.1007/s12602-026-11187-4
+[5] Gut microbiota - γδT cells axis: mechanisms of immunoregulation and therapeutic opportunities. — PubMed — International immunopharmacology — https://doi.org/10.1016/j.intimp.2026.117509
+[6] Multiomics reveals alterations in the gut microbiome, host proteins, and host metabolites correlating with SADS-CoV pathogenicity and the immune response in piglets. — PubMed — Virologica Sinica — https://doi.org/10.1016/j.virs.2026.10.001
+[7] Differential effects of stearic, palmitic and oleic acid enriched diets on gut microbiome, bile acid and cholesterol metabolism in mildly hypercholesterolemic post-menopausal females: A secondary analysis of a randomized controlled trial. — PubMed — The American journal of clinical nutrition — https://doi.org/10.1016/j.ajcnut.2026.101561
+[8] Salivary Microbiome Profiles in Burning Mouth Syndrome With Gastroesophageal Reflux Disease Comorbidity: A Comparative Analysis. — PubMed — Oral diseases — https://doi.org/10.1111/odi.70526
+[9] Tanshinone IIA Ameliorates Sleep Deprivation-Induced Cognitive Impairment: Involvement of Gut Microbiota and the TLR4/NF-κB Signaling Pathway. — PubMed — The American journal of Chinese medicine — https://doi.org/10.1142/S0192415X26500801
+[10] Ultraviolet irradiation and the home microbiome in childhood asthma: An exploratory environmental analysis. — PubMed — Allergy and asthma proceedings — https://doi.org/10.2500/aap.2026.47.260079
+[11] Gut microbiome-enteric virus interactions: mechanisms, clinical implications, and translational directions. — PubMed — Journal of gastroenterology — https://doi.org/10.1007/s00535-026-02524-z
+[12] The biliary microbiome in symptomatic cholelithiasis: a prospective comparison across distinct bacterial niches. — PubMed — BMC microbiology — https://doi.org/10.1186/s12866-026-05756-4
+[13] Characterization of oral microbiome in atopic dermatitis patients treated with dupilumab or upadacitinib. — PubMed — Clinical oral investigations — https://doi.org/10.1007/s00784-026-07174-2
+[14] Barrier-reinforcing hyaluronic acid-bilirubin nanodelivery of methylprednisolone for synergistic modulation of the intestinal barrier, immune system, and gut microbiome in colitis. — PubMed — Journal of controlled release : official journal of the Controlled Release Society — https://doi.org/10.1016/j.jconrel.2026.115439
+[15] Localized co-inoculation of compatible Bacillus subtilis and Trichoderma afroharzianum is associated with shifts in the root microbiome and improves plant performance in sorghum. — PubMed — Microbiological research — https://doi.org/10.1016/j.micres.2026.128751
+[16] Effects of Glyphosate and Glyphosate-Based Herbicides on the Mammalian Gut Microbiome: A Critical Review. — PubMed — Journal of applied toxicology : JAT — https://doi.org/10.1002/jat.70475
+[17] Characterization of the gut microbiome and resistome of piglets supplemented with low, moderate, and high concentrations of zinc oxide. — PubMed — Microbiology spectrum — https://doi.org/10.1128/spectrum.00059-26
+[18] Single-Microbe Transcriptomics Reveal Functional Heterogeneity in Sediment Microbiomes. — PubMed — Small methods — https://doi.org/10.1002/smtd.71082
+[19] Neonatal overfeeding accelerates age-related sarcopenia and metabolic disorders through lifelong gut mucosa and microbiota programming in mice — Nature - Microbiome Topic — https://www.nature.com/articles/s41467-026-78216-2
+[20] Network-guided synthesis of antagonistic microbiota for suppressing maize stalk rot disease. — PubMed — The ISME journal — https://doi.org/10.1093/ismejo/wrag243
+[21] Clinical significance of Dientamoeba fragilis and Blastocystis: Lessons from clinical trials, cohort studies, and faecal microbiota transplantation - a narrative review. — PubMed — Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases — https://doi.org/10.1016/j.cmi.2026.09.031
+[22] Probiotics Attenuate AlCl₃-Induced Alzheimer's Disease via Gut-Brain Axis Modulation and Suppression of NF-κB/NLRP3 Neuroinflammation. — PubMed — Physiology & behavior — https://doi.org/10.1016/j.physbeh.2026.115532
+[23] Enrofloxacin treatment alters cecal microbiota and metabolites and selects for fluoroquinolone-resistant — PubMed — Microbiology spectrum — https://doi.org/10.1128/spectrum.01587-26
+[24] Effects of an endophytic bacterial consortium derived from Zingiberaceae on growth, yield, and curcuminoid biosynthesis in Curcuma longa L. — PubMed — World journal of microbiology & biotechnology — https://doi.org/10.1007/s11274-026-05292-3
+[25] Effects of Bacillus velezensis AKH-1 in a murine model of Staphylococcus aureus-induced diarrhea are associated with changes in gut microbial composition and intestinal and hepatic markers. — PubMed — Microbial pathogenesis — https://doi.org/10.1016/j.micpath.2026.108859
+[26] Genomic and functional characterization of Limosilactobacillus fermentum DX2034 identifies a probiotic candidate with TLR2-associated anti-adipogenic activity. — PubMed — Letters in applied microbiology — https://doi.org/10.1093/lambio/ovag080
+[27] Multi-omics insights into growth impairment mechanisms in children with persistent diarrhea. — PubMed — Microbiology spectrum — https://doi.org/10.1128/spectrum.03905-25
+[28] Population heterogeneity in — PubMed — Microbiology spectrum — https://doi.org/10.1128/spectrum.01128-26
+[29] Gut microbiome signatures in colorectal neoplasia: a cross-sectional study across neoplasia stages and subtypes — Gut (BMJ) — http://gut.bmj.com/cgi/content/short/75/11/2118?rss=1
+[30] Modulating the gut-reproductive tract axis: microbial influence on gynaecological cancer pathogenesis and treatment — Gut (BMJ) — http://gut.bmj.com/cgi/content/short/75/11/2278?rss=1
+[31] Roseburia inulinivorans increases muscle strength — Gut (BMJ) — http://gut.bmj.com/cgi/content/short/75/11/2130?rss=1
+[32] Commonly prescribed drugs as risk factors for Clostridioides difficile infections: a Swedish population-based case-control study — Gut (BMJ) — http://gut.bmj.com/cgi/content/short/75/11/2215?rss=1

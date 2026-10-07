@@ -1,0 +1,293 @@
+{
+  "timestamps": [
+    0.0,
+    40.41,
+    78.26,
+    222.54,
+    349.95,
+    401.84,
+    452.57,
+    501.79,
+    540.3,
+    582.76,
+    625.47,
+    749.38,
+    897.77,
+    1042.29,
+    1089.04,
+    1132.19,
+    1176.37,
+    1224.12,
+    1268.9,
+    1309.75,
+    1356.33,
+    1406.29,
+    1445.82,
+    1575.92,
+    1622.78,
+    1668.4,
+    1674.04,
+    1720.36,
+    1766.77,
+    1814.28,
+    1852.54
+  ],
+  "items": [
+    {
+      "title": "Diet-microbiome interactions enhance cancer immunotherapy in obesity.",
+      "url": "https://doi.org/10.1016/j.cmet.2026.08.021",
+      "source": "PubMed — Cell metabolism",
+      "one_liner": "In a recent issue of Nature, Desharnais and colleagues show that diet-dependent remodeling of the gut microbiome promotes anti-tumor immunity and may explain the enhanced efficacy of immune checkpoint blockade observed in obesity. Their study identifies dietary intervention as a promising strategy to optimize the host for cancer immunotherapy.",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Omnidirectional Interaction Networks Modulating Phenotypic Plasticity in the Gut Microbiota Towards Ulcerative Colitis.",
+      "url": "https://doi.org/10.1002/advs.78043",
+      "source": "PubMed — Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "one_liner": "Changes to gut microbiomes are linked to inflammatory bowel disease, but little is known about how microbial change is modulated in complex gut microbiota systems. Here, we address this issue by revealing the influence of microbial interactions on gut microbiota response to ulcerative colitis (UC) using a spouse-pair cohort design composed of an UC patien...",
+      "segment": 1,
+      "timestamp": 40.41
+    },
+    {
+      "title": "Associations of the gut microbiota with diet and mild cognitive impairment in elderly individuals: a cross-sectional study.",
+      "url": "https://doi.org/10.4103/singaporemedj.SMJ-2026-039",
+      "source": "PubMed — Singapore medical journal",
+      "one_liner": "INTRODUCTION: The role of gut microbiota in linking diet to cognitive function in the elderly remains unclear. This study investigated whether the gut microbiota is associated with dietary modulation of mild cognitive impairment (MCI). METHODS: A total of 48 patients with MCI and 43 healthy controls were included in the study. Participant demographics, al...",
+      "segment": 2,
+      "timestamp": 78.26
+    },
+    {
+      "title": "Pediococcus acidilactici ZQ-19 Ameliorates Ulcerative Colitis via Remodeling Gut Microbiota and Glutathione Redox Homeostasis.",
+      "url": "https://doi.org/10.1007/s12602-026-11187-4",
+      "source": "PubMed — Probiotics and antimicrobial proteins",
+      "one_liner": "Ulcerative colitis (UC) is closely linked to intestinal oxidative stress, gut dysbiosis and selenium metabolism disorders. In this study, 449 lactic acid bacteria strains were isolated from yak yogurt on the Qinghai-Tibet Plateau. After H",
+      "segment": 3,
+      "timestamp": 222.54
+    },
+    {
+      "title": "Gut microbiota - γδT cells axis: mechanisms of immunoregulation and therapeutic opportunities.",
+      "url": "https://doi.org/10.1016/j.intimp.2026.117509",
+      "source": "PubMed — International immunopharmacology",
+      "one_liner": "γδT cell subsets serve key roles within mucosal immunity. In the intestine, γδT cells account for approximately 10-18% of intraepithelial lymphocytes (IELs), highlighting their substantial representation in the mucosal immune compartment. This review covers the gut microbiota-intestinal γδT cell axis as a bidirectional communication network between tissue...",
+      "segment": 4,
+      "timestamp": 349.95
+    },
+    {
+      "title": "Multiomics reveals alterations in the gut microbiome, host proteins, and host metabolites correlating with SADS-CoV pathogenicity and the immune response in piglets.",
+      "url": "https://doi.org/10.1016/j.virs.2026.10.001",
+      "source": "PubMed — Virologica Sinica",
+      "one_liner": "Swine acute diarrhea syndrome coronavirus (SADS-CoV) infection causes severe acute diarrhea, vomiting, and lethality in piglets. To explore the molecular mechanisms by which intestinal flora regulate viral infection, we conducted multi-omics analysis [proteomics, metabolomics, short-chain fatty acids (SCFA) quantification] and 16S rRNA sequencing on intes...",
+      "segment": 5,
+      "timestamp": 401.84
+    },
+    {
+      "title": "Differential effects of stearic, palmitic and oleic acid enriched diets on gut microbiome, bile acid and cholesterol metabolism in mildly hypercholesterolemic post-menopausal females: A secondary analysis of a randomized controlled trial.",
+      "url": "https://doi.org/10.1016/j.ajcnut.2026.101561",
+      "source": "PubMed — The American journal of clinical nutrition",
+      "one_liner": "BACKGROUND: Stearic acid (18:0), a saturated fatty acid (SFA), does not raise plasma LDL cholesterol concentrations compared with palmitic acid (16:0), and has similar effects to oleic acid (18:1), but underlying mechanisms remain unclear. OBJECTIVES: To determine if the hypocholesterolemic effects of dietary 18:0 and 18:1 relative to 16:0 are mediated by...",
+      "segment": 6,
+      "timestamp": 452.57
+    },
+    {
+      "title": "Salivary Microbiome Profiles in Burning Mouth Syndrome With Gastroesophageal Reflux Disease Comorbidity: A Comparative Analysis.",
+      "url": "https://doi.org/10.1111/odi.70526",
+      "source": "PubMed — Oral diseases",
+      "one_liner": "OBJECTIVES: Gastroesophageal reflux disease (GERD) has been recognized as a common comorbidity of burning mouth syndrome (BMS), suggesting potential interactions within the oral-gastrointestinal axis. This study aimed to test whether GERD comorbidity is associated with salivary microbiome profiles among patients with BMS. MATERIALS AND METHODS: Saliva sam...",
+      "segment": 7,
+      "timestamp": 501.79
+    },
+    {
+      "title": "Tanshinone IIA Ameliorates Sleep Deprivation-Induced Cognitive Impairment: Involvement of Gut Microbiota and the TLR4/NF-κB Signaling Pathway.",
+      "url": "https://doi.org/10.1142/S0192415X26500801",
+      "source": "PubMed — The American journal of Chinese medicine",
+      "one_liner": "Previous studies have indicated that",
+      "segment": 8,
+      "timestamp": 540.3
+    },
+    {
+      "title": "Ultraviolet irradiation and the home microbiome in childhood asthma: An exploratory environmental analysis.",
+      "url": "https://doi.org/10.2500/aap.2026.47.260079",
+      "source": "PubMed — Allergy and asthma proceedings",
+      "one_liner": "BACKGROUND: Ultraviolet (UV) filtration units installed into central heating, ventilation, and air conditioning systemshave been shown to modify indoor environmental microbiomes (EM), but it remains unclear whether central UV air filtrationsystems as a targeted intervention alters the EM sufficiently to modify asthma outcomes. OBJECTIVE: The objective was...",
+      "segment": 9,
+      "timestamp": 582.76
+    },
+    {
+      "title": "Gut microbiome-enteric virus interactions: mechanisms, clinical implications, and translational directions.",
+      "url": "https://doi.org/10.1007/s00535-026-02524-z",
+      "source": "PubMed — Journal of gastroenterology",
+      "one_liner": "The gut microbiome influences epithelial barrier integrity, metabolite availability, mucosal immune tone, and vaccine responsiveness, all of which are relevant to enterically transmitted viral infection. Norovirus and rotavirus primarily replicate in the intestinal mucosa and cause acute gastroenteritis, whereas poliovirus replicates in the gut and may di...",
+      "segment": 10,
+      "timestamp": 625.47
+    },
+    {
+      "title": "The biliary microbiome in symptomatic cholelithiasis: a prospective comparison across distinct bacterial niches.",
+      "url": "https://doi.org/10.1186/s12866-026-05756-4",
+      "source": "PubMed — BMC microbiology",
+      "one_liner": "BACKGROUND: Cholelithiasis is highly prevalent in the Western world and frequently requires surgical or endoscopic intervention. However, the composition and role of the biliary microbiome remain poorly understood. This study aimed to characterize and compare bacterial communities of the biliary niche with saliva and faeces in patients with cholelithiasis...",
+      "segment": 11,
+      "timestamp": 749.38
+    },
+    {
+      "title": "Characterization of oral microbiome in atopic dermatitis patients treated with dupilumab or upadacitinib.",
+      "url": "https://doi.org/10.1007/s00784-026-07174-2",
+      "source": "PubMed — Clinical oral investigations",
+      "one_liner": "OBJECTIVES: Dysbiosis, an imbalanced state of microbial communities in the human body, may contribute to autoimmune diseases such as atopic dermatitis (AD). While the role of affected skin-gut microbiome axis in AD is well established, still little is known about the relationship between oral microflora-based dysbiosis and AD progression and treatment. MA...",
+      "segment": 12,
+      "timestamp": 897.77
+    },
+    {
+      "title": "Barrier-reinforcing hyaluronic acid-bilirubin nanodelivery of methylprednisolone for synergistic modulation of the intestinal barrier, immune system, and gut microbiome in colitis.",
+      "url": "https://doi.org/10.1016/j.jconrel.2026.115439",
+      "source": "PubMed — Journal of controlled release : official journal of the Controlled Release Society",
+      "one_liner": "Inflammatory bowel disease (IBD) is characterized by a self-reinforcing cycle of intestinal barrier dysfunction, gut microbiome dysbiosis, and aberrant mucosal immune responses. Methylprednisolone (MPS) is a potent immunosuppressant used for IBD and may beneficially modulate the gut microbiome, but its systemic adverse effects and potential impairment of ...",
+      "segment": 13,
+      "timestamp": 1042.29
+    },
+    {
+      "title": "Localized co-inoculation of compatible Bacillus subtilis and Trichoderma afroharzianum is associated with shifts in the root microbiome and improves plant performance in sorghum.",
+      "url": "https://doi.org/10.1016/j.micres.2026.128751",
+      "source": "PubMed — Microbiological research",
+      "one_liner": "Although bacterial-fungal consortia have been investigated for plant growth promotion, their effects on sorghum performance and associated root microbial taxa remain less characterized. Here, we investigated how individual and combined inoculation with Bacillus subtilis and Trichoderma afroharzianum influenced sorghum performance and root microbiome assem...",
+      "segment": 14,
+      "timestamp": 1089.04
+    },
+    {
+      "title": "Effects of Glyphosate and Glyphosate-Based Herbicides on the Mammalian Gut Microbiome: A Critical Review.",
+      "url": "https://doi.org/10.1002/jat.70475",
+      "source": "PubMed — Journal of applied toxicology : JAT",
+      "one_liner": "Glyphosate has long been considered to pose negligible direct risk to mammals on the grounds that its molecular target, 5-enolpyruvylshikimate-3-phosphate synthase (EPSPS), of the shikimate pathway, is absent from animal cells. This rationale is inaccurate as a complete toxicological argument, because the shikimate pathway is present in some commensal bac...",
+      "segment": 15,
+      "timestamp": 1132.19
+    },
+    {
+      "title": "Characterization of the gut microbiome and resistome of piglets supplemented with low, moderate, and high concentrations of zinc oxide.",
+      "url": "https://doi.org/10.1128/spectrum.00059-26",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "UNLABELLED: The livestock sector is standing out for its substantial use of antimicrobials but is also investing in the development of mitigation strategies. Supranutritional concentrations of zinc (Zn) are served to piglets to prevent post-weaning diarrhea. This practice is detrimental to the piglet's assimilation of nutrients and can impact the environm...",
+      "segment": 16,
+      "timestamp": 1176.37
+    },
+    {
+      "title": "Single-Microbe Transcriptomics Reveal Functional Heterogeneity in Sediment Microbiomes.",
+      "url": "https://doi.org/10.1002/smtd.71082",
+      "source": "PubMed — Small methods",
+      "one_liner": "Sediment microbiomes drive global biogeochemical cycling, but their functional heterogeneity and transcriptional activity are hardly resolved at single-cell resolution. We optimized a scalable single-microbe RNA sequencing workflow for environmental muddy sediment samples, achieving high-throughput single cell sequencing across environmental gradients. Th...",
+      "segment": 17,
+      "timestamp": 1224.12
+    },
+    {
+      "title": "Neonatal overfeeding accelerates age-related sarcopenia and metabolic disorders through lifelong gut mucosa and microbiota programming in mice",
+      "url": "https://www.nature.com/articles/s41467-026-78216-2",
+      "source": "Nature - Microbiome Topic",
+      "one_liner": "",
+      "segment": 18,
+      "timestamp": 1268.9
+    },
+    {
+      "title": "Network-guided synthesis of antagonistic microbiota for suppressing maize stalk rot disease.",
+      "url": "https://doi.org/10.1093/ismejo/wrag243",
+      "source": "PubMed — The ISME journal",
+      "one_liner": "Plant-associated microbiomes play a crucial role in sustaining host health and fitness, but how pathogen invasion reshapes microbial interaction networks and how to leverage this for developing effective biocontrol strategies remain poorly understood. This study investigated the maize microbiome under Fusarium stalk rot stress by integrating large-scale a...",
+      "segment": 19,
+      "timestamp": 1309.75
+    },
+    {
+      "title": "Clinical significance of Dientamoeba fragilis and Blastocystis: Lessons from clinical trials, cohort studies, and faecal microbiota transplantation - a narrative review.",
+      "url": "https://doi.org/10.1016/j.cmi.2026.09.031",
+      "source": "PubMed — Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases",
+      "one_liner": "BACKGROUND: The adoption of highly sensitive syndromic multiplex PCR panels led to an increase in Blastocystis and Dientamoeba fragilis detection, two of the most commonly identified intestinal protists worldwide. With positivity rates of 15-25% on syndromic gastrointestinal panels, a positive result frequently triggers antimicrobial treatment despite unc...",
+      "segment": 20,
+      "timestamp": 1356.33
+    },
+    {
+      "title": "Probiotics Attenuate AlCl₃-Induced Alzheimer's Disease via Gut-Brain Axis Modulation and Suppression of NF-κB/NLRP3 Neuroinflammation.",
+      "url": "https://doi.org/10.1016/j.physbeh.2026.115532",
+      "source": "PubMed — Physiology & behavior",
+      "one_liner": "Disruptions along the brain-gut-microbiota axis significantly contribute to Alzheimer's disease (AD) pathogenesis. This study evaluated the therapeutic potential of a multi-strain probiotic mixture in mitigating cognitive decline, neuroinflammation, and amyloid pathology in an AD rat model. In the present study, after induction of AD in rats by oral admin...",
+      "segment": 21,
+      "timestamp": 1406.29
+    },
+    {
+      "title": "Enrofloxacin treatment alters cecal microbiota and metabolites and selects for fluoroquinolone-resistant",
+      "url": "https://doi.org/10.1128/spectrum.01587-26",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "",
+      "segment": 22,
+      "timestamp": -1
+    },
+    {
+      "title": "Effects of an endophytic bacterial consortium derived from Zingiberaceae on growth, yield, and curcuminoid biosynthesis in Curcuma longa L.",
+      "url": "https://doi.org/10.1007/s11274-026-05292-3",
+      "source": "PubMed — World journal of microbiology & biotechnology",
+      "one_liner": "Endophytic bacteria, integral to the plant microbiome, possess considerable potential for improving the cultivation and sustainability of medicinal plants. These bacteria are essential for various plant functions, including growth enhancement, nutrient uptake, and resistance to biotic and abiotic stressors. This study recovered 29 endophytic bacterial iso...",
+      "segment": 23,
+      "timestamp": 1445.82
+    },
+    {
+      "title": "Effects of Bacillus velezensis AKH-1 in a murine model of Staphylococcus aureus-induced diarrhea are associated with changes in gut microbial composition and intestinal and hepatic markers.",
+      "url": "https://doi.org/10.1016/j.micpath.2026.108859",
+      "source": "PubMed — Microbial pathogenesis",
+      "one_liner": "Staphylococcus aureus is an important bacterial pathogen that readily acquires antimicrobial resistance and can cause diarrhea and extraintestinal injury in animals. Probiotic candidates warrant investigation as potential non-antibiotic interventions. This study characterized goat-derived Bacillus velezensis AKH-1 and evaluated its effects in a murine S. ...",
+      "segment": 24,
+      "timestamp": 1575.92
+    },
+    {
+      "title": "Genomic and functional characterization of Limosilactobacillus fermentum DX2034 identifies a probiotic candidate with TLR2-associated anti-adipogenic activity.",
+      "url": "https://doi.org/10.1093/lambio/ovag080",
+      "source": "PubMed — Letters in applied microbiology",
+      "one_liner": "Limosilactobacillus fermentum is a promising probiotic species with reported benefits for gastrointestinal health and host metabolism. In this study, a novel L. fermentum strain, DX2034, isolated from the feces of a healthy Korean infant, was characterized through phenotypic and genomic analyses, and its anti-adipogenic activity was evaluated in different...",
+      "segment": 25,
+      "timestamp": 1622.78
+    },
+    {
+      "title": "Multi-omics insights into growth impairment mechanisms in children with persistent diarrhea.",
+      "url": "https://doi.org/10.1128/spectrum.03905-25",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "UNLABELLED: This study aimed to elucidate the key mechanisms underlying short stature with pediatric persistent diarrhea in children (PDC) and to propose an integrated model linking the butyrate-producing gut microbial niche, short-chain fatty acids (SCFAs), Th17/Treg balance, the growth hormone-insulin-like growth factor 1 (GH-IGF-1) axis, and growth reg...",
+      "segment": 26,
+      "timestamp": 1668.4
+    },
+    {
+      "title": "Population heterogeneity in",
+      "url": "https://doi.org/10.1128/spectrum.01128-26",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "UNLABELLED: Experimental infection models are widely used to investigate host-microbe interactions, often under the assumption that bacterial populations are genetically uniform. Here, we examined population heterogeneity in the widely used IMPORTANCE: Animal infection models are widely used to study how bacterial pathogens cause disease and change during...",
+      "segment": 27,
+      "timestamp": 1674.04
+    },
+    {
+      "title": "Gut microbiome signatures in colorectal neoplasia: a cross-sectional study across neoplasia stages and subtypes",
+      "url": "http://gut.bmj.com/cgi/content/short/75/11/2118?rss=1",
+      "source": "Gut (BMJ)",
+      "one_liner": "Background While colorectal cancer (CRC) has been linked to the gut microbiome, it remains unclear whether specific microbial signatures are detectable in precursor lesions such as adenomatous polyps, serrated lesions or sessile serrated lesions. Objective To assess gut microbiome taxonomic and functional associations with colorectal neoplasia ...",
+      "segment": 28,
+      "timestamp": 1720.36
+    },
+    {
+      "title": "Modulating the gut-reproductive tract axis: microbial influence on gynaecological cancer pathogenesis and treatment",
+      "url": "http://gut.bmj.com/cgi/content/short/75/11/2278?rss=1",
+      "source": "Gut (BMJ)",
+      "one_liner": "The gut microbiota plays a crucial role in regulating host immunity, metabolism and inflammation, with accumulating evidence linking its composition and function to the development and progression of cancers in the reproductive tract. Patients with ovarian, endometrial and cervical cancers exhibit distinct alterations in their gut microbiota, character...",
+      "segment": 29,
+      "timestamp": 1766.77
+    },
+    {
+      "title": "Roseburia inulinivorans increases muscle strength",
+      "url": "http://gut.bmj.com/cgi/content/short/75/11/2130?rss=1",
+      "source": "Gut (BMJ)",
+      "one_liner": "Background Gut bacteria have been implicated in a wide range of health conditions, yet their potential role in preventing and treating muscle-wasting disorders remains largely unexplored. Objective We aimed to investigate whether specific gut microbial species are associated with muscle strength and to explore underlying mechanisms linking the ...",
+      "segment": 30,
+      "timestamp": 1814.28
+    },
+    {
+      "title": "Commonly prescribed drugs as risk factors for Clostridioides difficile infections: a Swedish population-based case-control study",
+      "url": "http://gut.bmj.com/cgi/content/short/75/11/2215?rss=1",
+      "source": "Gut (BMJ)",
+      "one_liner": "Background Clostridioides difficile infections (CDIs) are associated with antibiotic use, although the link with other drugs remains underexplored. Objectives To investigate the association between antibiotic and non-antibiotic drugs with microbiome-modulating activity on new occurrences of CDI. Design We conducted a Swedish po...",
+      "segment": 31,
+      "timestamp": 1852.54
+    }
+  ]
+}

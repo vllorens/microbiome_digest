@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 09:51:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 09:50:26 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-10-07</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-07/podcast_2026-10-07.mp3</guid>
+      <pubDate>Wed, 07 Oct 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-07/podcast_2026-10-07.mp3" length="14266148" type="audio/mpeg" />
+      <description>Diet‑microbiome interactions can boost cancer immunotherapy in obese patients. | Researchers show that the way gut microbes interact with each other shapes how the microbial community changes in ulcerative colitis, using a spouse‑pair cohort to control for shared household factors. | Associations of the gut microbiota with diet and mild cognitive impairment in elderly individuals: a cross‑sectional study.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Diet‑microbiome interactions can boost cancer immunotherapy in obese patients. | Researchers show that the way gut microbes interact with each other shapes how the microbial community changes in ulcerative colitis, using a spouse‑pair cohort to control for shared household factors. | Associations of the gut microbiota with diet and mild cognitive impairment in elderly individuals: a cross‑sectional study.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-10-06</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-06/podcast_2026-10-06.mp3</guid>
       <pubDate>Tue, 06 Oct 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-06/podcast_2026-10-06.mp3" length="13346732" type="audio/mpeg" />
-      <description>Leviathan offers a fast, memory‑efficient solution for integrated taxonomic and functional profiling of (pan)genome‑resolved metagenomes and metatranscriptomes. | Multi‑omics analysis of 332 Holstein calves shows that gut microbiota and its metabolites drive post‑weaning oxidative stress, especially through altered amino‑acid synthesis and metabolism. | LGTM introduces a Gaussian process‑modulated neural topic model designed specifically for longitudinal microbiome data, tackling the field’s persistent challenges of high dimensionality, compositionality, irregular sampling and time‑varying covariates.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-06/podcast_2026-10-06.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Leviathan offers a fast, memory‑efficient solution for integrated taxonomic and functional profiling of (pan)genome‑resolved metagenomes and metatranscriptomes. | Multi‑omics analysis of 332 Holstein calves shows that gut microbiota and its metabolites drive post‑weaning oxidative stress, especially through altered amino‑acid synthesis and metabolism. | LGTM introduces a Gaussian process‑modulated neural topic model designed specifically for longitudinal microbiome data, tackling the field’s persistent challenges of high dimensionality, compositionality, irregular sampling and time‑varying covariates.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-15/podcast_2026-07-15.mp3</guid>
       <pubDate>Wed, 15 Jul 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-15/podcast_2026-07-15.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-07-14</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-14/podcast_2026-07-14.mp3</guid>
-      <pubDate>Tue, 14 Jul 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-14/podcast_2026-07-14.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
