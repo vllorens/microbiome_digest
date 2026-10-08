@@ -1,0 +1,348 @@
+{
+  "timestamps": [
+    0.0,
+    38.18,
+    86.56,
+    137.58,
+    250.69,
+    294.58,
+    340.82,
+    396.76,
+    441.57,
+    486.56,
+    534.37,
+    573.24,
+    620.59,
+    668.85,
+    716.99,
+    768.71,
+    900.42,
+    1013.21,
+    1054.34,
+    1093.32,
+    1141.82,
+    1186.57,
+    1228.93,
+    1345.95,
+    1461.91,
+    1479.76,
+    1527.4,
+    1566.49,
+    1611.37,
+    1653.39,
+    1698.62,
+    1743.81,
+    1880.87,
+    2032.07,
+    2043.39,
+    2157.7,
+    2199.62,
+    2247.09
+  ],
+  "items": [
+    {
+      "title": "Synbiotic supplementation leads to gut microbiome communities with functional capacity linked to better brain white matter development in preterm infants.",
+      "url": "https://doi.org/10.1080/19490976.2026.2743949",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Preterm birth, a major cause of brain injury, is often linked to dysregulated gut microbiome development. This association underscores microbial metabolic function as a modifiable target to support neurodevelopment. In this secondary analysis of data derived from a randomized controlled trial (Trial Registration: ISRCTN96620855), we tested whether daily n...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Peripheral microbial metabolites as indicators of gut microbiome disruption: systematic review and meta-analysis.",
+      "url": "https://doi.org/10.1128/mbio.01927-26",
+      "source": "PubMed — mBio",
+      "one_liner": "Gut microbiome disruption is often characterized by the loss of obligately anaerobic bacteria, which may lead to altered production of microbial metabolites that can be detected peripherally. The application of widely used sequencing-based microbiome analyses to clinical settings is limited by cost, turnaround time, and challenges with patients with very ...",
+      "segment": 1,
+      "timestamp": 38.18
+    },
+    {
+      "title": "Gut microbiota-derived indole-3-propionic acid preserves dorsal hippocampal catecholamines to prevent post-stroke cognitive impairment.",
+      "url": "https://doi.org/10.1128/msystems.00907-26",
+      "source": "PubMed — mSystems",
+      "one_liner": "UNLABELLED: Gut dysbiosis has been increasingly implicated in post-stroke cognitive impairment (PSCI); however, the causal contribution and therapeutic potential of gut microbiota-derived metabolites remain unclear. This study aimed to identify key microbiota-derived metabolites involved in PSCI and elucidate their underlying mechanisms. We found that bot...",
+      "segment": 2,
+      "timestamp": 86.56
+    },
+    {
+      "title": "A joint mixture Tobit method with latent microbial abundance improves detection of microbiome-disease associations in zero-inflated data.",
+      "url": "https://doi.org/10.1371/journal.pcbi.1014844",
+      "source": "PubMed — PLoS computational biology",
+      "one_liner": "Zero inflation remains a major challenge in microbiome differential abundance analysis, often resulting in inflated type I error rates or reduced statistical power. Although numerous methods have been proposed to address excess zeros, many existing approaches do not explicitly distinguish between distinct zero-generating mechanisms, and censoring-based mo...",
+      "segment": 3,
+      "timestamp": 137.58
+    },
+    {
+      "title": "Gut microbiota-derived indole-3-propionic acid suppresses hepatic CYP2E1 expression in mice.",
+      "url": "https://doi.org/10.1016/j.jnutbio.2026.110516",
+      "source": "PubMed — The Journal of nutritional biochemistry",
+      "one_liner": "Hepatic cytochrome P450 2E1 (CYP2E1) is an important P450 enzyme involved in the metabolism of numerous xenobiotics. Notably, it contributes to the metabolic activation of many pro-carcinogenic and toxic compounds, thereby playing a critical role in human health and disease development. Previous studies suggest that gut microbiota modulate hepatic CYP2E1 ...",
+      "segment": 4,
+      "timestamp": 250.69
+    },
+    {
+      "title": "Biotransformation and metabolite formation of lavender (Lavandula officinalis) flower infusion by human gut microbiota.",
+      "url": "https://doi.org/10.1016/j.jep.2026.122457",
+      "source": "PubMed — Journal of ethnopharmacology",
+      "one_liner": "ETHNOPHARMACOLOGICAL RELEVANCE: Lavandula officinalis has been traditionally used for its calming, digestive, and antimicrobial properties. Historically, its flowers were employed in baths, perfumes, medicinal preparations, and as a mild laxative. Today, lavender infusions are widely consumed in beverages and functional foods for their aroma and potential...",
+      "segment": 5,
+      "timestamp": 294.58
+    },
+    {
+      "title": "Glycosylation in colorectal cancer: From tumor-intrinsic signaling to the host-microbiome glyco-interface.",
+      "url": "https://doi.org/10.1016/j.bbcan.2026.189735",
+      "source": "PubMed — Biochimica et biophysica acta. Reviews on cancer",
+      "one_liner": "Aberrant glycosylation is increasingly recognized as a key regulatory layer in colorectal cancer (CRC), extending beyond tumor-cell-intrinsic signaling to shape the tumor microenvironment and host-microbiome interactions. In the immune compartment, glycosylation modulates the stability and activity of classical checkpoints, including PD-L1, while tumor-as...",
+      "segment": 6,
+      "timestamp": 340.82
+    },
+    {
+      "title": "10-gingerol potentiates paclitaxel efficacy in triple-negative breast cancer by remodeling gut microbiota and suppressing PI3K/AKT/mTOR signaling pathway.",
+      "url": "https://doi.org/10.1016/j.taap.2026.118071",
+      "source": "PubMed — Toxicology and applied pharmacology",
+      "one_liner": "Triple-negative breast cancer (TNBC) remains a clinical challenge due to its aggressive nature and chemoresistance, particularly to first-line agents such as paclitaxel (PTX). 10-Gingerol (10-G), the main pungent constituent of ginger, has been shown to possess anti-tumor and chemosensitizing properties. However, the mechanisms by which it potentiates PTX...",
+      "segment": 7,
+      "timestamp": 396.76
+    },
+    {
+      "title": "Rifaximin ameliorates memory impairment and Alzheimer's pathological changes in APP/PS1 mice associated with changes in the gut microbiome-bile acids-serum metabolites networks.",
+      "url": "https://doi.org/10.1111/bph.70643",
+      "source": "PubMed — British journal of pharmacology",
+      "one_liner": "BACKGROUND AND PURPOSE: Modifying the brain-gut-microbiota axis has emerged as a promising therapeutic strategy against Alzheimer's disease (AD). Whether rifaximin, a non-absorbed and non-systemic antibiotic, can be applied to the treatment of AD remains unexplored. In this study, we investigated the effects of rifaximin using a APP/PS1 double-transgenic ...",
+      "segment": 8,
+      "timestamp": 441.57
+    },
+    {
+      "title": "Profiling Gut Microbiome and Metabolites Aids Diagnosis and Prediction of Progression in Mild Cognitive Impairment.",
+      "url": "https://doi.org/10.1002/mco2.71045",
+      "source": "PubMed — MedComm",
+      "one_liner": "Accumulating evidence suggests a link between the gut microbiota and metabolome and mild cognitive impairment (MCI); however, it remains largely unknown whether these parameters can aid MCI diagnosis and predict disease progression. We comprehensively characterized gut microbiota and metabolomic profiles in fecal samples from 35 individuals, including 16 ...",
+      "segment": 9,
+      "timestamp": 486.56
+    },
+    {
+      "title": "Longitudinal Shifts in Gut Microbiota After Cholecystectomy: A Point of No Return in Losing Lactobacillus Spp.",
+      "url": "https://doi.org/10.1152/ajpgi.90057.2026",
+      "source": "PubMed — American journal of physiology. Gastrointestinal and liver physiology",
+      "one_liner": "Cholecystectomy alters bile acid dynamics and may influence gut microbiota composition. However, longitudinal data with preoperative baseline assessment remain limited, and existing evidence is largely based on cross-sectional studies with inconsistent findings. In this prospective cohort study, we aimed to characterize longitudinal changes in gut microbi...",
+      "segment": 10,
+      "timestamp": 534.37
+    },
+    {
+      "title": "Gut microbiota alterations associated with dietary inflammation and sarcopenia in humans and aged mice: insights from integrated metabolomic analysis.",
+      "url": "https://doi.org/10.1039/d6fo03587f",
+      "source": "PubMed — Food & function",
+      "one_liner": "",
+      "segment": 11,
+      "timestamp": 573.24
+    },
+    {
+      "title": "Synbiotic supplementation leads to gut microbiome communities with functional capacity linked to better brain white matter development in preterm infants",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/19490976.2026.2743949?af=R",
+      "source": "Gut Microbes",
+      "one_liner": "Volume 18, Issue 1, December 2026 .",
+      "segment": 12,
+      "timestamp": 620.59
+    },
+    {
+      "title": "Lower 24-hour urinary 6-sulfatoxymelatonin and exploratory bile-acid and microbiome associations in adults with dyslipidemia: a prospectively enrolled cross-sectional study.",
+      "url": "https://doi.org/10.1080/07853890.2026.2743367",
+      "source": "PubMed — Annals of medicine",
+      "one_liner": "BACKGROUND: We tested the primary hypothesis that lower continuous 24-hour urinary 6-sulfatoxymelatonin (6-SMT) is associated with an adverse lipid and inflammatory profile in adults with dyslipidemia. Associations with FGF19, bile-acid composition, and gut microbiome features were secondary and exploratory. METHODS: This prospectively enrolled, single-ce...",
+      "segment": 13,
+      "timestamp": 668.85
+    },
+    {
+      "title": "Integrated nanopore profiling of fungal and bacterial endophytes reveals microbiome reorganization in",
+      "url": "https://doi.org/10.1080/15226514.2026.2740721",
+      "source": "PubMed — International journal of phytoremediation",
+      "one_liner": "Endophytes play a crucial role in plant adaptation to environmental stress; however, their coordinated responses to heavy metal contamination remain insufficiently understood, particularly in medicinal plants. This study investigated the influence of metal-contaminated soils on the composition and structuring of endophytic communities associated with This...",
+      "segment": 14,
+      "timestamp": 716.99
+    },
+    {
+      "title": "Co-supplementation of zinc and probiotic on oxidative stress markers and sleep quality index in irritable bowel syndrome patients: a double-blind randomized controlled trial.",
+      "url": "https://doi.org/10.1007/s00394-026-04130-4",
+      "source": "PubMed — European journal of nutrition",
+      "one_liner": "BACKGROUND: Irritable bowel syndrome (IBS) is a functional gastrointestinal (GI) disorder that is related to impaired gut microbiota (GM) composition and sleep disorders. Zinc and probiotics play key roles in gut barrier integrity maintenance and microbiota modulation. Therefore, the current study investigated the effect of zinc and probiotic co-supplemen...",
+      "segment": 15,
+      "timestamp": 768.71
+    },
+    {
+      "title": "Fecal Microbiota Transplantation Beyond",
+      "url": "https://doi.org/10.3346/jkms.2026.41.e335",
+      "source": "PubMed — Journal of Korean medical science",
+      "one_liner": "Fecal microbiota transplantation (FMT) has emerged as a transformative therapeutic approach to restore gut microbial homeostasis. The most established indication is recurrent",
+      "segment": 16,
+      "timestamp": 900.42
+    },
+    {
+      "title": "Prediction of age using shotgun metagenomic sequencing and random forest algorithm based on cadaveric colon.",
+      "url": "https://doi.org/10.1016/j.forsciint.2026.113154",
+      "source": "PubMed — Forensic science international",
+      "one_liner": "Age estimation is important for the identification of unknown cadavers in forensic practice. Previous studies have shown that gut microbiota is associated with host age, but most evidence has been derived from fecal samples of living individuals. In this study, shotgun metagenomic sequencing was performed on mid-colon tissue samples from 76 cadavers to ex...",
+      "segment": 17,
+      "timestamp": 1013.21
+    },
+    {
+      "title": "Source tracking and transmission of antibiotic resistance genes mediated by core microbiota in black soldier fly larvae bioconversion of doxycycline-contaminated hen manure.",
+      "url": "https://doi.org/10.1111/1744-7917.70366",
+      "source": "PubMed — Insect science",
+      "one_liner": "Black soldier fly larvae (BSFL) bioconversion of doxycycline-contaminated hen manure raises concerns about antibiotic resistance gene (ARG) transmission. Although core microbiota in gut may participate in ARG dynamics, the relative contributions of microbiota from manure and baseline larval gut to the BSFL gut resistome remain unclear. Using metagenomics,...",
+      "segment": 18,
+      "timestamp": 1054.34
+    },
+    {
+      "title": "Decoupling Community Complexity From Efficacy: A Meta-Analysis of Synthetic Microbial Communities for Plant Stress Resilience.",
+      "url": "https://doi.org/10.1111/pce.70965",
+      "source": "PubMed — Plant, cell & environment",
+      "one_liner": "Drought, salinity, pollution and nutrient deficiency substantially impair plant growth by disrupting water balance, ion homoeostasis, redox regulation and metabolism. Synthetic microbial communities (SynComs) represent a frontier in microbiome engineering, theoretically offering superior stability over single-strain inoculants through functional redundanc...",
+      "segment": 19,
+      "timestamp": 1093.32
+    },
+    {
+      "title": "Gut inflammation favors adverse food reactions by disrupting the microbial metabolism of food triggers.",
+      "url": "https://doi.org/10.1053/j.gastro.2026.07.042",
+      "source": "PubMed — Gastroenterology",
+      "one_liner": "METHODS: We sensitized mice to different foods (dairy and gluten) after intestinal inflammation (chemically- and hapten-induced models), then mice were re-exposed to the sensitizing foods through diet enrichment. To study whether inflamed microbiota facilitates adverse food reactions, we employed gnotobiotic models and bacterial supplementation experiment...",
+      "segment": 20,
+      "timestamp": 1141.82
+    },
+    {
+      "title": "Application of IgA-Seq in schizophrenia to identify key gut bacteria that promote abnormal behavior in mice.",
+      "url": "https://doi.org/10.1128/msystems.00786-26",
+      "source": "PubMed — mSystems",
+      "one_liner": "Schizophrenia (SCZ) has a complex etiology, and growing evidence implicates the microbiota-gut-brain axis. Because abundance-based profiling does not identify taxa closely engaged by mucosal immunity, we used immunoglobulin A (IgA)-based bacterial sorting to prioritize candidate SCZ-associated gut bacteria and evaluated cultured consortia in mouse models....",
+      "segment": 21,
+      "timestamp": 1186.57
+    },
+    {
+      "title": "Next-generation probiotic platforms for food nutrition: integrating functional foods with advanced delivery technologies.",
+      "url": "https://doi.org/10.1007/s12223-026-01602-2",
+      "source": "PubMed — Folia microbiologica",
+      "one_liner": "Functional microbial systems have emerged as promising components of next-generation food biotechnology due to their ability to improve gut microbiota balance, immune regulation, and metabolic health. However, conventional probiotic formulations often exhibit poor stability and limited gastrointestinal survivability during food processing and storage. Thi...",
+      "segment": 22,
+      "timestamp": 1228.93
+    },
+    {
+      "title": "A gut microbial odd-chain fatty acid alleviates atherosclerosis in mice.",
+      "url": "https://doi.org/10.1038/s41586-026-11142-x",
+      "source": "PubMed — Nature",
+      "one_liner": "The gut microbiota plays a pivotal part in human health, yet the molecular mechanisms that underlie its effects are largely unexplored. Bacteroides, a dominant genus in the human gut microbiota, is depleted in patients with atherosclerosis",
+      "segment": 23,
+      "timestamp": 1345.95
+    },
+    {
+      "title": "Microbiota-Brain Interactions in Dementia: Role of Diet in Neuroinflammation.",
+      "url": "https://doi.org/10.4235/agmr.26.0122",
+      "source": "PubMed — Annals of geriatric medicine and research",
+      "one_liner": "Aging is one of the risk factors for dementia, a group of neurocognitive disorders characterized by a progressive decline in cognitive function. Alzheimer's disease (AD) is the most prevalent, followed by vascular dementia (VaD). Other subtypes, such as frontotemporal dementia (FTD) and Lewy body disease (LBD), are less common but exhibit distinctive symp...",
+      "segment": 24,
+      "timestamp": 1461.91
+    },
+    {
+      "title": "Lactobacillus gasseri suppresses methionine-driven epigenetic programming of trained immunity-like priming to attenuate metabolic dysfunction.",
+      "url": "https://doi.org/10.1016/j.intimp.2026.117507",
+      "source": "PubMed — International immunopharmacology",
+      "one_liner": "Trained immunity-like epigenetic priming contributes to persistent metabolic inflammation in type 2 diabetes mellitus (T2DM), but the upstream metabolic and microbiota-dependent regulatory mechanisms remain unclear. Here, we performed an exploratory study to examine whether Lactobacillus gasseri (Lact. gasseri) attenuates metabolic dysfunction by suppress...",
+      "segment": 25,
+      "timestamp": 1479.76
+    },
+    {
+      "title": "Microbial Metabolic Messengers from Fermented Foods: Multi-Organ Regulation of Energy Homeostasis and Obesity.",
+      "url": "https://doi.org/10.1093/nutrit/nuag146",
+      "source": "PubMed — Nutrition reviews",
+      "one_liner": "Mechanistic evidence was systematically reviewed on how major metabolites produced during fermentation of foods modulate obesity through gut microbiota remodeling and multiorgan metabolic regulation, with emphasis on the gut-brain axis, immunometabolic pathways, and epigenetic mechanisms. Obesity remains a major global public health challenge, and convent...",
+      "segment": 26,
+      "timestamp": 1527.4
+    },
+    {
+      "title": "Intratumoral Microbiota in Fueling Cancer and Steering Treatment Response.",
+      "url": "https://doi.org/10.1002/mco2.71052",
+      "source": "PubMed — MedComm",
+      "one_liner": "Microorganisms within tumors, also known as intratumoral microbiota, actively shape the tumor microenvironment (TME), influencing cancer progression and treatment response. Research has therefore expanded beyond the gut microbiota to intratumoral bacterial and fungal communities. Advances in low-biomass sequencing, contamination control, and spatial profi...",
+      "segment": 27,
+      "timestamp": 1566.49
+    },
+    {
+      "title": "Modulating the gut-reproductive tract axis: microbial influence on gynaecological cancer pathogenesis and treatment.",
+      "url": "https://doi.org/10.1136/gutjnl-2025-337778",
+      "source": "PubMed — Gut",
+      "one_liner": "The gut microbiota plays a crucial role in regulating host immunity, metabolism and inflammation, with accumulating evidence linking its composition and function to the development and progression of cancers in the reproductive tract. Patients with ovarian, endometrial and cervical cancers exhibit distinct alterations in their gut microbiota, characterise...",
+      "segment": 28,
+      "timestamp": 1611.37
+    },
+    {
+      "title": "Microbiota-derived urolithins and cortical thickness in cognitively healthy older adults: a longitudinal MRI analysis of the WAHA trial.",
+      "url": "https://doi.org/10.1039/d6fo02116f",
+      "source": "PubMed — Food & function",
+      "one_liner": "Cortical thickness, assessed by magnetic resonance imaging (MRI), is a biomarker of age-related neurodegeneration. Walnut ellagitannins may influence brain structure",
+      "segment": 29,
+      "timestamp": 1653.39
+    },
+    {
+      "title": "Gastrointestinal-Responsive Jelly Fig-Alginate Microgels for Restoring Intestinal Barrier Homeostasis through Microbiota-Metabolite Remodeling.",
+      "url": "https://doi.org/10.1021/acsami.6c13475",
+      "source": "PubMed — ACS applied materials & interfaces",
+      "one_liner": "Oral biomaterials capable of protecting natural bioactives during gastrointestinal transit while restoring intestinal barrier function offer a promising strategy for inflammatory bowel disease intervention. Here, we developed edible Jelly Fig (Ficus awkeotsang Makino, JF) pectin-alginate composite microgels (Mgel) through Ca2+-mediated ionic crosslinking ...",
+      "segment": 30,
+      "timestamp": 1698.62
+    },
+    {
+      "title": "The Gut-Insulin Axis in Polycystic Ovary Syndrome: A Narrative Review of Gut Dysbiosis, Inflammation, and Emerging Therapeutic Strategies.",
+      "url": "https://doi.org/10.1007/s43032-026-02220-6",
+      "source": "PubMed — Reproductive sciences (Thousand Oaks, Calif.)",
+      "one_liner": "Polycystic ovary syndrome (PCOS) is a complicated, endocrine-endemic disorder with a prevalence rate of 8-13% in reproductive-age women in the world, which manifests through insulin resistance, hyperandrogenism, and reproductive dysfunction. Despite its high global prevalence, existing therapeutic interventions focus predominantly on symptom management ra...",
+      "segment": 31,
+      "timestamp": 1743.81
+    },
+    {
+      "title": "Nonlocal interactions through hydrodynamics drive biofilm development and microbial competition in porous media",
+      "url": "https://www.nature.com/articles/s41522-026-01123-3",
+      "source": "npj Biofilms and Microbiomes",
+      "one_liner": "npj Biofilms and Microbiomes, Published online: 08 October 2026; doi:10.1038/s41522-026-01123-3 Nonlocal interactions through hydrodynamics drive biofilm development and microbial competition in porous media",
+      "segment": 32,
+      "timestamp": 1880.87
+    },
+    {
+      "title": "Gut microbial metabolism of peanuts generates immunoregulatory metabolites",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/19490976.2026.2743944?af=R",
+      "source": "Gut Microbes",
+      "one_liner": "Volume 18, Issue 1, December 2026 .",
+      "segment": 33,
+      "timestamp": 2032.07
+    },
+    {
+      "title": "Prehistoric global migration of vanishing gut microbes with humans.",
+      "url": "https://doi.org/10.1038/s41586-026-11106-1",
+      "source": "PubMed — Nature",
+      "one_liner": "The gut microbiome is crucial for health and is affected strongly by lifestyle",
+      "segment": 34,
+      "timestamp": 2043.39
+    },
+    {
+      "title": "From boron symbiotaxis to symbiogenic nutrients: extending the concept of ecological essentiality.",
+      "url": "https://doi.org/10.1016/j.jtemb.2026.127974",
+      "source": "PubMed — Journal of trace elements in medicine and biology : organ of the Society for Minerals and Trace Elements (GMS)",
+      "one_liner": "Nutritional science has traditionally interpreted the biological functions of nutrients according to their metabolic roles within the host organism. Microbiome-oriented concepts, including prebiotics, probiotics, synbiotics, and postbiotics, have substantially expanded this perspective by recognizing the biological importance of microbial communities. How...",
+      "segment": 35,
+      "timestamp": 2157.7
+    },
+    {
+      "title": "Engineering anaerobic fungal-bacterial consortia for direct conversion of lignocellulosic biomass into medium-chain fatty acids.",
+      "url": "https://doi.org/10.1016/j.tibtech.2026.09.013",
+      "source": "PubMed — Trends in biotechnology",
+      "one_liner": "Lignocellulosic biomass is a renewable feedstock for sustainable fuels and chemicals, yet industrial conversion remains constrained by carbohydrate solubilization. Inspired by herbivore rumen microbiomes, we engineered an anaerobic fungal-bacterial consortium thatconverts native lignocellulose into medium-chain fatty acids (MCFAs) without pretreatment. Sy...",
+      "segment": 36,
+      "timestamp": 2199.62
+    },
+    {
+      "title": "A joint mixture Tobit method with latent microbial abundance improves detection of microbiome–disease associations in zero-inflated data",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014844",
+      "source": "PLOS Computational Biology",
+      "one_liner": "by Junrong Deng, Dong Chen, Siyuan Shen, Yuyang Zhou, Hanyu Cui, Yu Qiu, Qiming Li, Yue-Qing Hu Zero inflation remains a major challenge in microbiome differential abundance analysis, often resulting in inflated type I error rates or reduced statistical power. Although numerous methods have been proposed to address excess zeros, many existing appr...",
+      "segment": 37,
+      "timestamp": 2247.09
+    }
+  ]
+}
