@@ -1,0 +1,320 @@
+{
+  "timestamps": [
+    0.0,
+    42.57,
+    89.18,
+    133.31,
+    244.93,
+    342.94,
+    448.7,
+    493.84,
+    538.79,
+    582.92,
+    626.43,
+    679.11,
+    721.3,
+    767.3,
+    811.94,
+    866.15,
+    909.49,
+    954.53,
+    1006.78,
+    1048.63,
+    1161.14,
+    1274.65,
+    1314.39,
+    1354.85,
+    1399.37,
+    1447.48,
+    1499.25,
+    1542.49,
+    1614.27,
+    1673.16,
+    1800.41,
+    1841.28,
+    1882.77,
+    1927.36
+  ],
+  "items": [
+    {
+      "title": "The human gut microbiome primes fever after vaccination.",
+      "url": "https://doi.org/10.1126/science.aea7733",
+      "source": "PubMed — Science (New York, N.Y.)",
+      "one_liner": "Fever is a common adverse reaction to vaccination, contributing to vaccine hesitancy and reduced uptake. To understand variation in fever risk, we longitudinally profiled fecal microbiota, oral temperature, and serological markers in 171 healthy adults receiving Severe acute respiratory syndrome coronavirus 2 mRNA vaccines. Fever risk correlated with low-...",
+      "segment": 0,
+      "timestamp": -1
+    },
+    {
+      "title": "Dietary aqueous extract of Astragalus sinicus alleviates obesity by reshaping gut microbiota and metabolism.",
+      "url": "https://doi.org/10.1002/jsfa.71149",
+      "source": "PubMed — Journal of the science of food and agriculture",
+      "one_liner": "BACKGROUND: Obesity induced by long-term high-fat diet (HFD) consumption is closely associated with metabolic disorders and gut microbiota dysbiosis. Although plant-derived extracts show anti-obesity potential, microbiota-dependent mechanisms and causal relevance remain incompletely understood. Astragalus sinicus L. is a traditional medicinal and dietary ...",
+      "segment": 1,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Distinction of meal quality and interaction with the gut microbiota by breath volatilome analysis in humans",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/19490976.2026.2740921?af=R",
+      "source": "Gut Microbes",
+      "one_liner": "Volume 18, Issue 1, December 2026 .",
+      "segment": 2,
+      "timestamp": 42.57
+    },
+    {
+      "title": "Distinction of meal quality and interaction with the gut microbiota by breath volatilome analysis in humans.",
+      "url": "https://doi.org/10.1080/19490976.2026.2740921",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Diet strongly influences the composition and metabolic activity of the gut microbiota, which in turn impacts host physiology and health. The metabolites produced by gut microbes include volatile compounds detectable in exhaled breath, which offers a window to investigate microbial-host interactions. The aim of this study was to explore the influence of ba...",
+      "segment": 3,
+      "timestamp": 89.18
+    },
+    {
+      "title": "Subjective and objective sleep quality during late pregnancy and the association with maternal gut microbiota in Chinese pregnant women.",
+      "url": "https://doi.org/10.1007/s11325-026-03829-2",
+      "source": "PubMed — Sleep & breathing = Schlaf & Atmung",
+      "one_liner": "BACKGROUND: The incidence of sleep disorders is relatively high among women in late pregnancy. Several studies have indicated that the gut microbiota play a significant role in circadian rhythms and sleep health. The purpose of this study was to explore the association of gut microbiota and sleep quality in pregnant women. METHODS: There were 75 pregnant ...",
+      "segment": 4,
+      "timestamp": 133.31
+    },
+    {
+      "title": "Tegoprazan regulates gut microbiota structure in Helicobacter pylori-induced ulcerative colitis mice.",
+      "url": "https://doi.org/10.1007/s12223-026-01603-1",
+      "source": "PubMed — Folia microbiologica",
+      "one_liner": "Helicobacter pylori (H. pylori) infection promotes pathogenesis of ulcerative colitis (UC). Tegoprazan, as the firs-line therapy for H. pylori eradication, alleviates inflammatory bowel disease. This study aimed to investigate the effects of Tegoprazan on UC. Helicobacter pylori (H. pylori) infection was performed to establish a mouse UC model. Histologic...",
+      "segment": 5,
+      "timestamp": 244.93
+    },
+    {
+      "title": "Tumor microenvironment and gut microbiome in immunotherapy resistance in gastric cancer: clinical questions, biological mechanisms, and evidence-based therapeutic perspectives.",
+      "url": "https://doi.org/10.1007/s12032-026-03434-z",
+      "source": "PubMed — Medical oncology (Northwood, London, England)",
+      "one_liner": "Immune checkpoint inhibitors (ICIs) have improved systemic therapy for advanced gastric and gastroesophageal junction cancer, yet primary and acquired resistance remain common and are incompletely explained by established tumor biomarkers. This narrative review evaluates the connected roles of the tumor microenvironment (TME), host immunity, and the gut m...",
+      "segment": 6,
+      "timestamp": 342.94
+    },
+    {
+      "title": "Gut Microbiota and nutrition as Emerging Modulators of Immune Checkpoint Inhibitor Therapy: Current Evidence, Challenges, and Future Perspectives.",
+      "url": "https://doi.org/10.1016/j.clnesp.2026.105168",
+      "source": "PubMed — Clinical nutrition ESPEN",
+      "one_liner": "Immune checkpoint inhibitors (ICIs), a major class of cancer immunotherapies, have transformed the treatment of advanced cancers, yet durable benefit remains limited by primary or acquired resistance and immune-related adverse events (irAEs). Increasing evidence implicates the gut microbiome and nutritional state as modifiable host factors that may shape ...",
+      "segment": 7,
+      "timestamp": 448.7
+    },
+    {
+      "title": "Gut Microbiota-Mediated Biotransformation of Coumarins.",
+      "url": "https://doi.org/10.1080/00498254.2026.2747088",
+      "source": "PubMed — Xenobiotica; the fate of foreign compounds in biological systems",
+      "one_liner": "",
+      "segment": 8,
+      "timestamp": 493.84
+    },
+    {
+      "title": "Dietary Flavonoid Hyperoside Ameliorates High-Fat Diet-Induced Type 2 Diabetes Mellitus by Enhancing Brown Adipose Tissue Thermogenesis, White Adipose Tissue Browning, and Gut Microbiota Remodeling.",
+      "url": "https://doi.org/10.1002/ptr.70478",
+      "source": "PubMed — Phytotherapy research : PTR",
+      "one_liner": "Hyperoside, a natural dietary flavonoid widely found in a variety of fruits, vegetables, and medicinal plants, exhibits hypoglycemic as well as hepatorenal protective activities. However, its effects on type 2 diabetes mellitus (T2DM) and the underlying mechanisms remain poorly understood. In this study, T2DM mice were established after 8 weeks of high-fa...",
+      "segment": 9,
+      "timestamp": 538.79
+    },
+    {
+      "title": "Lung microbiome community state types are associated with ventilator-associated pneumonia risk: a secondary analysis of the MicroNAV cohort.",
+      "url": "https://doi.org/10.1128/spectrum.01263-26",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "UNLABELLED: In the publicly available MicroNAV cohort, baseline diversity analyses did not distinguish patients who developed ventilator-associated pneumonia (VAP) from non-VAP patients, leaving it unresolved whether community-state structure contains risk information. In an independent secondary analysis, we reprocessed raw 16S rRNA gene sequencing data ...",
+      "segment": 10,
+      "timestamp": 582.92
+    },
+    {
+      "title": "A validation framework for translating ethnomicrobiology into microbiome-enabled desert restoration",
+      "url": "https://www.nature.com/articles/s41522-026-01178-2",
+      "source": "npj Biofilms and Microbiomes",
+      "one_liner": "npj Biofilms and Microbiomes, Published online: 09 October 2026; doi:10.1038/s41522-026-01178-2 A validation framework for translating ethnomicrobiology into microbiome-enabled desert restoration",
+      "segment": 11,
+      "timestamp": 626.43
+    },
+    {
+      "title": "Microbial communities on station and train surfaces in Chennai Metro: insights into urban transit microbiome.",
+      "url": "https://doi.org/10.1128/msphere.00433-26",
+      "source": "PubMed — mSphere",
+      "one_liner": "UNLABELLED: Urban public transport systems, particularly metro networks, serve as key hubs for microbial transmission, yet the urban microbiome in densely populated regions like India remains poorly characterized. Understanding these environments is crucial for public health, especially in light of the COVID-19 pandemic and growing concerns about antimicr...",
+      "segment": 12,
+      "timestamp": 679.11
+    },
+    {
+      "title": "Genetic risk for dystonia reprograms host-microbiome interactions and gut-brain communication.",
+      "url": "https://doi.org/10.1016/j.expneurol.2026.116054",
+      "source": "PubMed — Experimental neurology",
+      "one_liner": "Dystonia is a neurological movement disorder characterized by involuntary, sustained, or intermittent muscle contractions that result in twisting movements, repetitive motor patterns, or abnormal postures. While genetic mutations such as TOR1A",
+      "segment": 13,
+      "timestamp": 721.3
+    },
+    {
+      "title": "Deep-sea siliceous sponges harbor distinct and functionally diverse microbiomes.",
+      "url": "https://doi.org/10.1128/aem.01747-26",
+      "source": "PubMed — Applied and environmental microbiology",
+      "one_liner": "Sponges, phylum Porifera, are long-lived and basal-branching metazoans that play important roles in ocean biogeochemistry and host diverse microbial communities. Siliceous sponges form a major clade of the Porifera; however, their microbiome is not well characterized, particularly in the deep ocean. Here, we used shotgun metagenomics to investigate the co...",
+      "segment": 14,
+      "timestamp": 767.3
+    },
+    {
+      "title": "Towards Personalised Therapeutics for Epidermal Differentiation Disorders: Integrating Host Genetics, Immuno-Endotypes and the Skin Microbiome.",
+      "url": "https://doi.org/10.1093/bjd/ljag447",
+      "source": "PubMed — The British journal of dermatology",
+      "one_liner": "Epidermal differentiation disorders (EDDs), are a rare, heterogeneous grouping of monogenic disorders. EDDs, comprising the previously termed congenital ichthyosis, are characterised by epidermal barrier dysfunction, cutaneous inflammation, and associated morbidity. Immunomodulatory therapies, particularly repurposed biologics, are an emerging approach fo...",
+      "segment": 15,
+      "timestamp": 811.94
+    },
+    {
+      "title": "The Wheat Seed Microbiome as a Model for Understanding the Transmission of Beneficial Plant-Associated Bacteria.",
+      "url": "https://doi.org/10.1093/jxb/erag499",
+      "source": "PubMed — Journal of experimental botany",
+      "one_liner": "Beneficial plant-microbe interactions are fundamental to plant nutrition, growth, stress tolerance and disease resistance. However, because microorganisms are not encoded by the plant genome, the mechanisms by which microbial associations persist across generations remain unresolved. In this review, we examine the emerging evidence that seeds function not...",
+      "segment": 16,
+      "timestamp": 866.15
+    },
+    {
+      "title": "Microbiota-mediated naringenin release limits postoperative acute gastrointestinal injury by suppressing ferroptosis.",
+      "url": "https://doi.org/10.1016/j.xcrm.2026.103101",
+      "source": "PubMed — Cell reports. Medicine",
+      "one_liner": "Acute gastrointestinal injury (AGI) remains a major complication after cardiopulmonary bypass, yet its microbiome-related determinants are unclear. We identify microbiota-mediated naringenin (NAR) release as a candidate modulator of AGI susceptibility. Patients who subsequently develop AGI have lower preoperative fecal NAR levels and β-glucuronidase (GUS)...",
+      "segment": 17,
+      "timestamp": 909.49
+    },
+    {
+      "title": "gutMDisorder v3.0: an updated database for dysbiosis of the gut and oral microbiota in phenotypes and interventions.",
+      "url": "https://doi.org/10.1093/nar/gkag985",
+      "source": "PubMed — Nucleic acids research",
+      "one_liner": "Microbiota plays an essential role in host health, and dysbiosis of microbial communities has been widely associated with diverse phenotypes and intervention responses. With the rapid development of microbiome research, microbiome studies are no longer restricted to gut-derived samples, and the oral microbiota has emerged as another important microbial ha...",
+      "segment": 18,
+      "timestamp": 954.53
+    },
+    {
+      "title": "Gut microbial metabolism of peanuts generates immunoregulatory metabolites.",
+      "url": "https://doi.org/10.1080/19490976.2026.2743944",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Early life introduction of potentially allergenic foods such as peanuts is important for the prevention of food allergy. We hypothesized that peanut consumption may indirectly influence the immune system via effects on gut microbiota composition and metabolism.",
+      "segment": 19,
+      "timestamp": 1006.78
+    },
+    {
+      "title": "Microbial profiles in pediatric complicated appendicitis: a systematic review and meta-analysis.",
+      "url": "https://doi.org/10.1007/s10096-026-05662-7",
+      "source": "PubMed — European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology",
+      "one_liner": "PURPOSE: Appendicitis, characterized by inflammation of the vermiform appendix, remains the leading cause of acute abdomen worldwide. Emerging evidence suggests that alterations in the intestinal microbiota may play a role in its pathogenesis. This study aimed to analyze the prevalence and microbiological profile of bacteria identified in pediatric patien...",
+      "segment": 20,
+      "timestamp": 1048.63
+    },
+    {
+      "title": "Oncobiome relation with HPV and Gynecological cancer.",
+      "url": "https://doi.org/10.1007/s11033-026-12856-x",
+      "source": "PubMed — Molecular biology reports",
+      "one_liner": "By now, it is well understood that the human body is inhabited by millions of tiny organisms that are alive and found in different parts of our body that called microbiota. Over the past decades, these tiny microorganisms have worked together like a smart network that links to human health, and any alterations or dysbiosis in this network lead to differen...",
+      "segment": 21,
+      "timestamp": 1161.14
+    },
+    {
+      "title": "Immune effects of faecal microbiota transplantation in amyotrophic lateral sclerosis: a pilot multicentre, randomised, masked, sham-controlled, proof-of concept trial.",
+      "url": "https://doi.org/10.1016/j.ebiom.2026.106509",
+      "source": "PubMed — EBioMedicine",
+      "one_liner": "BACKGROUND: The gut microbiota modulates peripheral immunity, which is altered in amyotrophic lateral sclerosis (ALS). Faecal microbiota transplantation (FMT) may exert immunological effects, but its impact in ALS remains unclear. METHODS: FETR-ALS was a multicentre, randomised, masked, sham-controlled proof-of-concept trial conducted at four Italian ALS ...",
+      "segment": 22,
+      "timestamp": 1274.65
+    },
+    {
+      "title": "Synthetic microbial community converts corn stover hydrolysate into high-purity L-lactic acid in the presence of fermentation inhibitors.",
+      "url": "https://doi.org/10.1016/j.jbiotec.2026.10.005",
+      "source": "PubMed — Journal of biotechnology",
+      "one_liner": "Lignocellulosic hydrolysates contain inhibitors that hinder lactic acid (LA) production. This study evaluated a synthetic microbial community (SMC) of five lactic acid bacteria for fermenting undetoxified corn stover hydrolysate. Metatranscriptome analysis revealed links between fermentation performance and inhibitor effects. Although LA yield decreased b...",
+      "segment": 23,
+      "timestamp": 1314.39
+    },
+    {
+      "title": "Before the immunological Big Bang.",
+      "url": "https://doi.org/10.1126/science.ael7318",
+      "source": "PubMed — Science (New York, N.Y.)",
+      "one_liner": "The nature of the gut microbiome before vaccination influences later inflammatory reactions and fever.",
+      "segment": 24,
+      "timestamp": 1354.85
+    },
+    {
+      "title": "Modulating the Gut-Ovarian Axis: Mechanistic Rationale and the Limits of Current Evidence for Probiotics in Female Reproductive Aging.",
+      "url": "https://doi.org/10.1002/fsn3.72454",
+      "source": "PubMed — Food science & nutrition",
+      "one_liner": "Female reproductive aging is characterized by progressive follicular depletion, deterioration of oocyte quality, and endocrine decline, with oxidative stress, mitochondrial dysfunction, immune-inflammatory remodeling, and granulosa-cell loss contributing to ovarian functional deterioration. This critical narrative review, supported by a structured literat...",
+      "segment": 25,
+      "timestamp": 1399.37
+    },
+    {
+      "title": "Sonogenetic Control of Engineered Probiotics for the Treatment of MASH by Modulating the Gut-Liver Axis.",
+      "url": "https://doi.org/10.1002/advs.78100",
+      "source": "PubMed — Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "one_liner": "Metabolic dysfunction-associated steatohepatitis (MASH) currently lacks effective targeted therapeutics, while interleukin-22 (IL-22) as a potential treatment approach faces challenges in the clinical translation due to off-target risks associated with systemic delivery. To address this limitation, we developed an intelligent oral biologics platform cente...",
+      "segment": 26,
+      "timestamp": 1447.48
+    },
+    {
+      "title": "Trigonelline Alleviates Neuroinflammation in AAV-SynA53T Parkinson's Disease Model Mice: Involvement of PI3K/AKT-NF-κB Signaling and Gut Microbial-Metabolic Remodeling.",
+      "url": "https://doi.org/10.1002/fsn3.72451",
+      "source": "PubMed — Food science & nutrition",
+      "one_liner": "Trigonelline (TG), a major alkaloid in fenugreek seed and coffee, has anti-inflammatory and antioxidant activities. We investigated whether TG ameliorates Parkinson's disease (PD)-related synucleinopathy and whether these effects are associated with inflammatory signaling and gut microbial-metabolic alterations. Two-sample Mendelian randomization (MR) was...",
+      "segment": 27,
+      "timestamp": 1499.25
+    },
+    {
+      "title": "Faecalibacterium prausnitzii: Mechanistic Insights and Therapeutic Potential in Host-Microbe Crosstalk.",
+      "url": "https://doi.org/10.1007/s12602-026-11236-y",
+      "source": "PubMed — Probiotics and antimicrobial proteins",
+      "one_liner": "Faecalibacterium prausnitzii (Fp), a potential candidate for a next-generation, is widely distributed in the feces and intestinal tract of mammals. Accumulating evidence indicates that Fp and its metabolites exert anti-inflammatory, immunomodulatory, and maintain intestinal barrier integrity. In this review, we summarize the biological characteristics of ...",
+      "segment": 28,
+      "timestamp": 1542.49
+    },
+    {
+      "title": "The gut-pancreas axis: microbial dysbiosis as a pathogenic driver of diabetes and pancreatic cancer.",
+      "url": "https://doi.org/10.1007/s12032-026-03421-4",
+      "source": "PubMed — Medical oncology (Northwood, London, England)",
+      "one_liner": "The gut microbiome dysbiosis is a potential contributing mediator for the gut and pancreas link. The gut microbiome contributes to the development of both diabetes and pancreatic cancer. There are approximately two distinct ways through which the gut microbiome leads to cell damage and then systemic inflammatory responses. The gut microbiome generates a u...",
+      "segment": 29,
+      "timestamp": 1614.27
+    },
+    {
+      "title": "Commonly prescribed drugs as risk factors for",
+      "url": "https://doi.org/10.1136/gutjnl-2025-337629",
+      "source": "PubMed — Gut",
+      "one_liner": "OBJECTIVES: To investigate the association between antibiotic and non-antibiotic drugs with microbiome-modulating activity on new occurrences of CDI. DESIGN: We conducted a Swedish population-based case-control study from 2006 to 2019 including 42 921 cases matched with 355 159 population controls on age and sex, obtained from multiple linked Swedish regi...",
+      "segment": 30,
+      "timestamp": 1673.16
+    },
+    {
+      "title": "Synbiotic to Attenuate Resorption of the Skeleton (STARS): Design and participant recruitment of a randomized, double-blind, placebo-controlled trial to test the efficacy of SBD111 medical food in older women.",
+      "url": "https://doi.org/10.1016/j.cct.2026.108501",
+      "source": "PubMed — Contemporary clinical trials",
+      "one_liner": "Osteoporosis and related fractures pose a costly public health challenge. Primary prevention of bone loss is largely limited to non-pharmacologic options without consistent guidelines. Prior studies have demonstrated that modification of the gut microbiome can influence bone homeostasis. The Synbiotic To Attenuate Resorption of the Skeleton (STARS) trial ...",
+      "segment": 31,
+      "timestamp": 1800.41
+    },
+    {
+      "title": "Deciphering the heterogeneity of prodromal α-synucleinopathy: linking brain biotyping and gut dysbiosis in isolated REM sleep behaviour disorder.",
+      "url": "https://doi.org/10.1016/j.ebiom.2026.106503",
+      "source": "PubMed — EBioMedicine",
+      "one_liner": "BACKGROUND: Isolated/idiopathic REM sleep behaviour disorder (iRBD) is a specific prodrome of α-synucleinopathies. We previously identified two distinct clinical-neuroimaging biotypes in iRBD: Biotype 1, marked by widespread cortical-subcortical-cerebellar atrophy with motor and cognitive deficits, and Biotype 2, with preserved brain structure and neuroco...",
+      "segment": 32,
+      "timestamp": 1841.28
+    },
+    {
+      "title": "An eco-evolutionary consumer-resource theory of host-microbe symbioses.",
+      "url": "https://doi.org/10.1093/jeb/voag100",
+      "source": "PubMed — Journal of evolutionary biology",
+      "one_liner": "Symbiotic associations between microorganisms and hosts are universal, diverse, and dynamic. Yet, our ability to represent this complexity mathematically remains limited. We propose extending consumer-resource theory to incorporate evolutionary processes to advance our understanding of symbioses, from pairwise interactions to complex host-microbe assembla...",
+      "segment": 33,
+      "timestamp": 1882.77
+    },
+    {
+      "title": "gutMDisorder v3.0: an updated database for dysbiosis of the gut and oral microbiota in phenotypes and interventions",
+      "url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag985/8892720?rss=1",
+      "source": "Nucleic Acids Research (advance access)",
+      "one_liner": "Abstract Microbiota plays an essential role in host health, and dysbiosis of microbial communities has been widely associated with diverse phenotypes and intervention responses. With the rapid development of microbiome research, microbiome studies are no longer restricted to gut-derived samples, an...",
+      "segment": 34,
+      "timestamp": 1927.36
+    }
+  ]
+}

@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 10:02:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 10:04:54 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-10-09</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-09/podcast_2026-10-09.mp3</guid>
+      <pubDate>Fri, 09 Oct 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-09/podcast_2026-10-09.mp3" length="14830796" type="audio/mpeg" />
+      <description>A dietary aqueous extract of Astragalus sinicus L. | Researchers show that breath volatilome profiling can separate the effects of meal quality on gut microbiota activity in humans. | Researchers used breath volatilome analysis to link meal quality with gut‑microbial activity in humans, showing that exhaled volatile compounds can reflect dietary‑driven shifts in the microbiota.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>A dietary aqueous extract of Astragalus sinicus L. | Researchers show that breath volatilome profiling can separate the effects of meal quality on gut microbiota activity in humans. | Researchers used breath volatilome analysis to link meal quality with gut‑microbial activity in humans, showing that exhaled volatile compounds can reflect dietary‑driven shifts in the microbiota.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-10-08</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-08/podcast_2026-10-08.mp3</guid>
       <pubDate>Thu, 08 Oct 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-08/podcast_2026-10-08.mp3" length="17974412" type="audio/mpeg" />
-      <description>Synbiotic supplementation reshapes the gut microbiome of preterm infants in a way that supports better brain white matter development, according to a secondary analysis of a randomized controlled trial published in Gut microbes via PubMed. | Peripheral microbial metabolites can signal gut microbiome disruption, according to a systematic review and meta‑analysis published in mBio via PubMed. | Gut microbiota‑derived indole‑3‑propionic acid (IPA) protects against post‑stroke cognitive decline by sustaining catecholamine levels in the dorsal hippocampus, according to a new mSystems study indexed in PubMed.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-08/podcast_2026-10-08.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Synbiotic supplementation reshapes the gut microbiome of preterm infants in a way that supports better brain white matter development, according to a secondary analysis of a randomized controlled trial published in Gut microbes via PubMed. | Peripheral microbial metabolites can signal gut microbiome disruption, according to a systematic review and meta‑analysis published in mBio via PubMed. | Gut microbiota‑derived indole‑3‑propionic acid (IPA) protects against post‑stroke cognitive decline by sustaining catecholamine levels in the dorsal hippocampus, according to a new mSystems study indexed in PubMed.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-18/podcast_2026-07-18.mp3</guid>
       <pubDate>Sat, 18 Jul 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-18/podcast_2026-07-18.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-07-17</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-17/podcast_2026-07-17.mp3</guid>
-      <pubDate>Fri, 17 Jul 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-17/podcast_2026-07-17.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
