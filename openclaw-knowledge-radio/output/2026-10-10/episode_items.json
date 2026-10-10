@@ -1,0 +1,193 @@
+{
+  "timestamps": [
+    0.0,
+    109.29,
+    153.86,
+    197.0,
+    240.73,
+    383.31,
+    427.58,
+    528.88,
+    584.2,
+    628.0,
+    672.66,
+    715.97,
+    764.86,
+    805.53,
+    848.49,
+    895.38,
+    938.07,
+    983.38,
+    1032.1
+  ],
+  "items": [
+    {
+      "title": "Gut Microbiota and Its Metabolites in the Prognosis of Coronary Heart Disease: A Systematic Review and Mechanistic Insights.",
+      "url": "https://doi.org/10.1007/s10557-026-07972-6",
+      "source": "PubMed — Cardiovascular drugs and therapy",
+      "one_liner": "PURPOSE: Emerging evidence links gut microbiota dysbiosis and its metabolites to atherosclerosis. This systematic review aims to synthesize prospective evidence on the association of gut microbiota and its metabolites with prognosis in coronary heart disease (CHD) patients. METHODS: A systematic search of PubMed, Embase, Web of Science, and the Cochrane L...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "A teleost mannose receptor with dual carbohydrate recognition domains bridges innate immunity and gut microbiota homeostasis in largemouth bass.",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2026.154806",
+      "source": "PubMed — International journal of biological macromolecules",
+      "one_liner": "Mannose receptors (MRs) are crucial pattern recognition receptors in innate immunity, yet their functional roles in teleost fish, particularly regarding systemic defense and gut microbiota regulation, remain poorly understood. In this study, we identified and characterized MsMR, a novel dual-carbohydrate recognition domain (CRD) MR from largemouth bass (M...",
+      "segment": 1,
+      "timestamp": 109.29
+    },
+    {
+      "title": "Gut microbiota-derived tryptophan metabolite attenuates calcium oxalate nephropathy by suppressing renal tubular cell apoptosis through the AhR-SOCS3-STAT1 axis.",
+      "url": "https://doi.org/10.1002/path.70135",
+      "source": "PubMed — The Journal of pathology",
+      "one_liner": "Calcium oxalate (CaOx) nephropathy is a highly prevalent urological disease worldwide. Gut microbiota dysbiosis and host metabolic dysregulation are recognized as pivotal drivers in disease pathogenesis, yet the underlying mechanisms remain incompletely understood. In this study, by integrating metagenomics and metabolomics, we identified dysregulation of...",
+      "segment": 2,
+      "timestamp": 153.86
+    },
+    {
+      "title": "Evaluation of gut microbiota composition in elite controllers and antiretroviral-treated people with HIV after aspirin versus atorvastatin administration.",
+      "url": "https://doi.org/10.1093/infdis/jiag508",
+      "source": "PubMed — The Journal of infectious diseases",
+      "one_liner": "Gut dysbiosis is associated with chronic immune activation in people with HIV (PWH), but is not well-characterized in elite controllers (ECs) or PWH receiving aspirin or statins. We analyzed gut microbiota among 22 virally-suppressed PWH and 12 ECs before and 9-months after randomization to aspirin or atorvastatin. There were no differences in microbiota ...",
+      "segment": 3,
+      "timestamp": 197.0
+    },
+    {
+      "title": "Oral microbiome alterations in individuals with type 1 diabetes: a systematic review.",
+      "url": "https://doi.org/10.1007/s00784-026-07205-y",
+      "source": "PubMed — Clinical oral investigations",
+      "one_liner": "OBJECTIVES: To systematically evaluate associations between glycemic control and oral microbial findings in individuals with type 1 diabetes mellitus (T1DM), distinguishing targeted detection of selected taxa from comprehensive oral microbiome profiling. MATERIALS AND METHODS: A systematic search of PubMed, Embase, and Scopus was conducted from database i...",
+      "segment": 4,
+      "timestamp": 240.73
+    },
+    {
+      "title": "Characterization of the Middle Ear Microbiome in Meniere's Disease by 16S rRNA Gene Sequencing Compared to Chronic Suppurative Otitis Media.",
+      "url": "https://doi.org/10.1002/wjo2.70169",
+      "source": "PubMed — World journal of otorhinolaryngology - head and neck surgery",
+      "one_liner": "OBJECTIVE: To investigate the middle ear microbiome in Meniere's disease (MD) patients. METHODS: Middle ear smears from 10 MD patients (ME group) and 10 chronic suppurative otitis patients (OE group) were collected during surgery and processed via 16S rRNA gene sequencing. RESULTS: The ME group demonstrated significant differences in alpha diversity (Shan...",
+      "segment": 5,
+      "timestamp": 383.31
+    },
+    {
+      "title": "Lactiplantibacillus Plantarum CKDB008 and Lacticaseibacillus Rhamnosus LDTM7511 Attenuate Visceral Hypersensitivity and Suppress Serum IgE in an Acetic Acid-Induced IBS-Like Rat Model.",
+      "url": "https://doi.org/10.1007/s12602-026-11238-w",
+      "source": "PubMed — Probiotics and antimicrobial proteins",
+      "one_liner": "Irritable bowel syndrome (IBS) is a disorder of gut-brain interaction characterized by visceral hypersensitivity, impaired intestinal barrier, immune activation, and gut microbiota dysbiosis, for which standardized treatment remains limited. In this study, we evaluated Lactiplantibacillus plantarum CKDB008 (LP) and Lacticaseibacillus rhamnosus LDTM7511 (=...",
+      "segment": 6,
+      "timestamp": 427.58
+    },
+    {
+      "title": "A microbiota-driven CCL25-CCR9 axis reprograms intestinal ILC2s in the distal small intestine to promote metabolic dysfunction in obesity.",
+      "url": "https://doi.org/10.1016/j.jcmgh.2026.101919",
+      "source": "PubMed — Cellular and molecular gastroenterology and hepatology",
+      "one_liner": "BACKGROUND & AIMS: Metabolically unhealthy obesity is characterized by chronic inflammation and metabolic dysfunction; however, how intestinal immune organization shapes systemic metabolic outcomes remains unclear. We investigated whether region-specific intestinal immune remodeling contributes to obesity-associated metabolic dysfunction. METHODS: Human s...",
+      "segment": 7,
+      "timestamp": 528.88
+    },
+    {
+      "title": "Integrated-omics endotyping of patients with chronic rhinosinusitis with nasal polyps and their response to glucocorticoid therapy.",
+      "url": "https://doi.org/10.1016/j.jaci.2026.07.029",
+      "source": "PubMed — The Journal of allergy and clinical immunology",
+      "one_liner": "BACKGROUND: Integrated omics approaches provide deeper insights into disease heterogeneity, but combined host immune and nasal microbiota profiles in chronic rhinosinusitis with nasal polyps (CRSwNP) remain poorly characterized. OBJECTIVE: This study aimed to identify biologically distinct CRSwNP endotypes by integrating transcriptomic and microbiota data...",
+      "segment": 8,
+      "timestamp": 584.2
+    },
+    {
+      "title": "From microbial tryptophan metabolism to crystal injury: an IPA-AhR checkpoint in calcium oxalate nephropathy.",
+      "url": "https://doi.org/10.1002/path.70134",
+      "source": "PubMed — The Journal of pathology",
+      "one_liner": "Calcium oxalate nephrolithiasis is commonly viewed as a consequence of urinary supersaturation, although crystal retention and renal injury are also influenced by gut microbiota dysbiosis and local tissue environment. In a recent study by Li et al, published in The Journal of Pathology, the authors integrated human metagenomic and metabolomic analyses wit...",
+      "segment": 9,
+      "timestamp": 628.0
+    },
+    {
+      "title": "Core microbial populations drive longitudinal development of the hindgut bacterial microbiota in Jersey calve.",
+      "url": "https://doi.org/10.1128/spectrum.01878-26",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "The early-life gut microbiome represents a critical window during which microbial succession may exert lasting effects on host metabolism and productivity. While gut microbiome-host phenotypic associations have been extensively studied in Holstein calves, such relationships are rarely reported in alternative breeds, including Jersey calves. We hypothesize...",
+      "segment": 10,
+      "timestamp": 672.66
+    },
+    {
+      "title": "Morganella morganii-derived histamine impairs intestinal barrier function via HRH4 and aggravates colitis.",
+      "url": "https://doi.org/10.1093/ibd/izag201",
+      "source": "PubMed — Inflammatory bowel diseases",
+      "one_liner": "BACKGROUND: Pro-inflammatory dietary patterns are associated with an increased risk of Crohn's disease (CD) and shifts in the gut microbiota. Our previous multi-omics analysis had identified the enrichment of Morganella morganii (M. morganii) in both patients with CD and individuals consuming pro-inflammatory diets. In this study, we aimed to investigate ...",
+      "segment": 11,
+      "timestamp": 715.97
+    },
+    {
+      "title": "Fusobacterium nucleatum mediated crosstalk drives cisplatin resistance in head and neck cancer.",
+      "url": "https://doi.org/10.1159/ocl/aebag021",
+      "source": "PubMed — Oncology",
+      "one_liner": "Cisplatin remains a cornerstone of head and neck cancer (HNC) treatment, yet resistance frequently undermines therapeutic efficacy. Emerging evidence implicates Fusobacterium nucleatum, enriched in the tumour microbiome, in promoting chemoresistance via molecular and microenvironmental mechanisms. This review synthesises evidence from PubMed, Scopus, and ...",
+      "segment": 12,
+      "timestamp": -1
+    },
+    {
+      "title": "Breastfeeding and maternal microbial reservoirs are associated with infant gut phageome development during the first year of life.",
+      "url": "https://doi.org/10.1016/j.xcrm.2026.103107",
+      "source": "PubMed — Cell reports. Medicine",
+      "one_liner": "The early-life assembly of the gut microbiome is a critical determinant of long-term health, yet the role of bacteriophages in this process remains poorly understood. Here we longitudinally profile the gut phageome of 34 mother-infant dyads during the first year of life with metagenomics and a phage-centered computational workflow. Phage diversity increas...",
+      "segment": 13,
+      "timestamp": 764.86
+    },
+    {
+      "title": "Effects of probiotics on joint homeostasis and osteoarthritis: Development of microbe-gut-cartilage axis-on-a-chip.",
+      "url": "https://doi.org/10.1126/sciadv.aeg8557",
+      "source": "PubMed — Science advances",
+      "one_liner": "Although emerging evidence implicates gut microbiome-cartilage cross-talk in the pathogenesis of osteoarthritis (OA), the most common joint disease, studying this microbe-gut-joint axis remains challenging due to limitations of animal models and conventional in vitro systems. Here, we report a microbe-gut-cartilage axis-on-a-chip (MGCAoC) that recreates t...",
+      "segment": 14,
+      "timestamp": 805.53
+    },
+    {
+      "title": "Characteristics of metagenome and metabolomics of biliary flora in biliary acute pancreatitis for severity prediction.",
+      "url": "https://doi.org/10.1016/j.gassur.2026.102625",
+      "source": "PubMed — Journal of gastrointestinal surgery : official journal of the Society for Surgery of the Alimentary Tract",
+      "one_liner": "OBJECTIVE: To investigate the characteristics of the metagenome and metabolomics of biliary flora in patients with acute biliary pancreatitis and its predictive value for the severity of the disease. METHODS: This study included 80 ABP patients (Jan 2022 - Dec 2024) and 30 healthy controls. ABP patients were divided into mild (n = 50) and moderate-severe ...",
+      "segment": 15,
+      "timestamp": 848.49
+    },
+    {
+      "title": "Heat-inactivated probiotic-fermented tamarind pulp alleviates constipation by modulating gut tryptophan catabolism and the AhR NLRP3 axis.",
+      "url": "https://doi.org/10.1016/j.jare.2026.10.014",
+      "source": "PubMed — Journal of advanced research",
+      "one_liner": "INTRODUCTION: Constipation is a common gastrointestinal disorder with gut dysbiosis, and existing laxatives often have limitations, necessitating the development of safer and more effective nutritional interventions. OBJECTIVE: This study aimed to investigate the alleviating effects and potential mechanisms of probiotic-fermented tamarind pulp (FTP) on lo...",
+      "segment": 16,
+      "timestamp": -1
+    },
+    {
+      "title": "Obstetric Pharmacomicrobiomics.",
+      "url": "https://doi.org/10.1002/cpt.70520",
+      "source": "PubMed — Clinical pharmacology and therapeutics",
+      "one_liner": "Pregnancy is characterized by physiologic, metabolic, immunologic, and microbial adaptation. Medication use during pregnancy is common. Yet, therapeutic response often remains unpredictable because obstetric pharmacology has historically focused on pharmacokinetic changes while paying little attention to host-microbiome-drug interactions. Pharmacomicrobio...",
+      "segment": 17,
+      "timestamp": 895.38
+    },
+    {
+      "title": "Successful Engraftment Without Relief: Closing the Chapter on Fecal Microbiota Transplantation in IBS?",
+      "url": "https://www.gastrojournal.org/article/S0016-5085(26)07345-2/fulltext?rss=yes",
+      "source": "Gastroenterology",
+      "one_liner": "",
+      "segment": 18,
+      "timestamp": 938.07
+    },
+    {
+      "title": "Letter: Beyond the Last Sachet—Unanswered Questions in a Probiotic Trial for Bile Acid Malabsorption. Authors' Reply",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/apt.70935?af=R",
+      "source": "Alimentary Pharmacology & Therapeutics",
+      "one_liner": "Alimentary Pharmacology &Therapeutics, Volume 64, Issue 9, Page 1343-1344, November 2026.",
+      "segment": 19,
+      "timestamp": 983.38
+    },
+    {
+      "title": "Letter: Beyond the Last Sachet—Unanswered Questions in a Probiotic Trial for Bile Acid Malabsorption",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/apt.70922?af=R",
+      "source": "Alimentary Pharmacology & Therapeutics",
+      "one_liner": "Alimentary Pharmacology &Therapeutics, Volume 64, Issue 9, Page 1341-1342, November 2026.",
+      "segment": 20,
+      "timestamp": 1032.1
+    }
+  ]
+}

@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Oct 2026 10:04:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 09:25:19 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-10-10</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-10/podcast_2026-10-10.mp3</guid>
+      <pubDate>Sat, 10 Oct 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-10/podcast_2026-10-10.mp3" length="8187044" type="audio/mpeg" />
+      <description>This systematic review, published in Cardiovascular Drugs and Therapy, sets out to synthesize prospective evidence on how gut microbiota and its metabolites relate to the prognosis of patients with coronary heart disease. | A newly described mannose receptor in largemouth bass, MsMR, carries two carbohydrate‑recognition domains and links innate immune sensing to gut‑microbiota balance. | A gut microbiota‑derived tryptophan metabolite can markedly lessen calcium oxalate nephropathy by blocking apoptosis in renal tubular cells through the AhR‑SOCS3‑STAT1 pathway, according to a new study in The Journal of Pathology (PubMed).</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>This systematic review, published in Cardiovascular Drugs and Therapy, sets out to synthesize prospective evidence on how gut microbiota and its metabolites relate to the prognosis of patients with coronary heart disease. | A newly described mannose receptor in largemouth bass, MsMR, carries two carbohydrate‑recognition domains and links innate immune sensing to gut‑microbiota balance. | A gut microbiota‑derived tryptophan metabolite can markedly lessen calcium oxalate nephropathy by blocking apoptosis in renal tubular cells through the AhR‑SOCS3‑STAT1 pathway, according to a new study in The Journal of Pathology (PubMed).</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-10-09</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-09/podcast_2026-10-09.mp3</guid>
       <pubDate>Fri, 09 Oct 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-09/podcast_2026-10-09.mp3" length="14830796" type="audio/mpeg" />
-      <description>A dietary aqueous extract of Astragalus sinicus L. | Researchers show that breath volatilome profiling can separate the effects of meal quality on gut microbiota activity in humans. | Researchers used breath volatilome analysis to link meal quality with gut‑microbial activity in humans, showing that exhaled volatile compounds can reflect dietary‑driven shifts in the microbiota.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-09/podcast_2026-10-09.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>A dietary aqueous extract of Astragalus sinicus L. | Researchers show that breath volatilome profiling can separate the effects of meal quality on gut microbiota activity in humans. | Researchers used breath volatilome analysis to link meal quality with gut‑microbial activity in humans, showing that exhaled volatile compounds can reflect dietary‑driven shifts in the microbiota.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-19/podcast_2026-07-19.mp3</guid>
       <pubDate>Sun, 19 Jul 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-19/podcast_2026-07-19.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-07-18</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-18/podcast_2026-07-18.mp3</guid>
-      <pubDate>Sat, 18 Jul 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-18/podcast_2026-07-18.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
