@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Oct 2026 09:25:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 09:39:23 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-10-11</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-11/podcast_2026-10-11.mp3</guid>
+      <pubDate>Sun, 11 Oct 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-11/podcast_2026-10-11.mp3" length="5676260" type="audio/mpeg" />
+      <description>D‑psicose, a rare sugar, reduced liver fat buildup and inflammation in mice with diet‑ and streptozotocin‑induced type 2 diabetes, according to a study in Food Science &amp; Nutrition. | Inhaled β‑myrcene, a compound found in lavender, eased insomnia in mice by acting on the 5‑HT1A receptor and PKA pathway while also reshaping the gut microbiota, according to a study reported in PubMed’s Nutritional Neuroscience journal. | This review article examines the gut microbiota‑epilepsy axis, focusing on bibliometric trends, mechanistic insights, and microbiota‑targeted therapeutic opportunities.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>D‑psicose, a rare sugar, reduced liver fat buildup and inflammation in mice with diet‑ and streptozotocin‑induced type 2 diabetes, according to a study in Food Science &amp; Nutrition. | Inhaled β‑myrcene, a compound found in lavender, eased insomnia in mice by acting on the 5‑HT1A receptor and PKA pathway while also reshaping the gut microbiota, according to a study reported in PubMed’s Nutritional Neuroscience journal. | This review article examines the gut microbiota‑epilepsy axis, focusing on bibliometric trends, mechanistic insights, and microbiota‑targeted therapeutic opportunities.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-10-10</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-10/podcast_2026-10-10.mp3</guid>
       <pubDate>Sat, 10 Oct 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-10/podcast_2026-10-10.mp3" length="8187044" type="audio/mpeg" />
-      <description>This systematic review, published in Cardiovascular Drugs and Therapy, sets out to synthesize prospective evidence on how gut microbiota and its metabolites relate to the prognosis of patients with coronary heart disease. | A newly described mannose receptor in largemouth bass, MsMR, carries two carbohydrate‑recognition domains and links innate immune sensing to gut‑microbiota balance. | A gut microbiota‑derived tryptophan metabolite can markedly lessen calcium oxalate nephropathy by blocking apoptosis in renal tubular cells through the AhR‑SOCS3‑STAT1 pathway, according to a new study in The Journal of Pathology (PubMed).</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-10/podcast_2026-10-10.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>This systematic review, published in Cardiovascular Drugs and Therapy, sets out to synthesize prospective evidence on how gut microbiota and its metabolites relate to the prognosis of patients with coronary heart disease. | A newly described mannose receptor in largemouth bass, MsMR, carries two carbohydrate‑recognition domains and links innate immune sensing to gut‑microbiota balance. | A gut microbiota‑derived tryptophan metabolite can markedly lessen calcium oxalate nephropathy by blocking apoptosis in renal tubular cells through the AhR‑SOCS3‑STAT1 pathway, according to a new study in The Journal of Pathology (PubMed).</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-20/podcast_2026-07-20.mp3</guid>
       <pubDate>Mon, 20 Jul 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-20/podcast_2026-07-20.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-07-19</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-19/podcast_2026-07-19.mp3</guid>
-      <pubDate>Sun, 19 Jul 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-19/podcast_2026-07-19.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>

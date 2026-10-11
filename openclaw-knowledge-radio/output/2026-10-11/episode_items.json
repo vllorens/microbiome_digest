@@ -1,0 +1,114 @@
+{
+  "timestamps": [
+    0.0,
+    45.09,
+    86.22,
+    207.59,
+    252.97,
+    302.09,
+    354.02,
+    468.86,
+    581.08,
+    628.28,
+    663.46,
+    709.4
+  ],
+  "items": [
+    {
+      "title": "D-Psicose Attenuates Hepatic Steatosis and Inflammatory Injury in HFD/STZ-Induced T2DM Mice and Is Associated With Alterations in Gut Microbiota, Tryptophan Metabolism, and Hepatic AhR-Related Signaling.",
+      "url": "https://doi.org/10.1002/fsn3.72455",
+      "source": "PubMed — Food science & nutrition",
+      "one_liner": "D-psicose (DPS) is a rare sugar with reported metabolic benefits, but its effects on diabetes-associated liver abnormalities and related gut-liver changes remain insufficiently defined. Here, DPS was evaluated in mice with Type 2 diabetes mellitus induced by a high-fat diet and streptozotocin. Low- and high-dose DPS interventions were assessed through ser...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Inhaled β-myrcene alleviates insomnia in mice by modulating 5-HT1A/PKA signaling and the gut microbiota.",
+      "url": "https://doi.org/10.1080/1028415X.2026.2727956",
+      "source": "PubMed — Nutritional neuroscience",
+      "one_liner": "BACKGROUND AND OBJECTIVES: Insomnia is a major public health issue that impairs daily functions and quality of life. Sleep-onset difficulty, a common complaint among patients, is accompanied by reduced central serotonin (5-HT) function. β-myrcene from lavender has sedative-hypnotic effects via serotonergic pathways, but most previous studies used intraper...",
+      "segment": 1,
+      "timestamp": 45.09
+    },
+    {
+      "title": "The Gut Microbiota-Epilepsy Axis: Bibliometric Trends, Mechanistic Insights, and Microbiota-Targeted Next-Generation Therapeutic Opportunities.",
+      "url": "https://doi.org/10.1007/s12035-026-06227-7",
+      "source": "PubMed — Molecular neurobiology",
+      "one_liner": "Epilepsy is a complex neurological disorder with diverse underlying causes. Growing evidence suggests that gut dysbiosis may promote epileptogenesis by disrupting short-chain fatty acids, tryptophan-kynurenine metabolism, immune signaling, and neuronal excitability. In this review, we combine findings from human and animal studies to explain how gut dysbi...",
+      "segment": 2,
+      "timestamp": 86.22
+    },
+    {
+      "title": "Qi-Fu-Yin Attenuates Frailty by Regulating Gut Microbiota and Neuroendocrine Hormones in 5xFamilial Alzheimer's Disease Transgenic Mice.",
+      "url": "https://doi.org/10.3791/73003",
+      "source": "PubMed — Journal of visualized experiments : JoVE",
+      "one_liner": "Frailty is a common and debilitating feature of Alzheimer's disease (AD), yet effective therapeutic strategies targeting both cognitive decline and physical frailty remain limited. Qi-Fu-Yin (QFY), a traditional Chinese herbal formulation, has been used to treat aging-related disorders, but its effects on frailty in AD and the underlying mechanisms are un...",
+      "segment": 3,
+      "timestamp": 207.59
+    },
+    {
+      "title": "Paired Exploratory Metagenomic Analysis of Gut Microbiota Before and After Ceftizoxime Treatment in College Students with Acute Enteritis.",
+      "url": "https://doi.org/10.3791/71529",
+      "source": "PubMed — Journal of visualized experiments : JoVE",
+      "one_liner": "This study explored the short-term changes in gut microbiota concurrent with ceftizoxime sodium therapy and clinical recovery in college students with acute enteritis. A retrospective, self-controlled before-and-after design was adopted, enrolling 10 college students (5 males, 5 females; aged 18-24 years) with acute enteritis admitted to Southwest Univers...",
+      "segment": 4,
+      "timestamp": 252.97
+    },
+    {
+      "title": "Oxford Nanopore Long-Read Sequencing of Bat Guano and Urine for Microbiome Characterization and Pathogen Detection.",
+      "url": "https://doi.org/10.3791/70544",
+      "source": "PubMed — Journal of visualized experiments : JoVE",
+      "one_liner": "Deoxyribonucleic acid (DNA) sequencing has made possible the study of genetic sequences for taxonomic assignment, mutational analyses, and novel organism discovery. Long-read sequencing methods offer advantages over short-read methods because they can sequence entire DNA molecules without requiring fragmentation. This protocol describes a workflow for mic...",
+      "segment": 5,
+      "timestamp": 302.09
+    },
+    {
+      "title": "Microbial cues and T cell immunity: deciphering their interactions in chronic liver disease.",
+      "url": "https://doi.org/10.1038/s12276-026-01831-y",
+      "source": "PubMed — Experimental & molecular medicine",
+      "one_liner": "Chronic liver disease (CLD) poses a major global health challenge, as its progression to cirrhosis and hepatocellular carcinoma significantly contributes to worldwide morbidity and mortality. Mounting evidence has identified the gut microbiota as a critical modulator of CLD progression, primarily via the gut-liver axis. The liver is continuously exposed t...",
+      "segment": 6,
+      "timestamp": 354.02
+    },
+    {
+      "title": "Toward regionally equitable precision medicine: microbiota‑associated mechanisms and emerging personalized strategies in multiple sclerosis.",
+      "url": "https://doi.org/10.1186/s12967-026-08830-7",
+      "source": "PubMed — Journal of translational medicine",
+      "one_liner": "Multiple sclerosis (MS) is a chronic immune-mediated disorder of the central nervous system in which dysregulated immune signalling and barrier dysfunction play central pathogenic roles. Increasing evidence implicates the gut microbiota as a key modulator of host immune homeostasis; however, current understanding is largely derived from Western cohorts an...",
+      "segment": 7,
+      "timestamp": 468.86
+    },
+    {
+      "title": "A Proposed Oral-Liver-Pancreas Axis in Type 2 Diabetes: Linking Oral Dysbiosis, Hepatic Insulin Resistance, and Pancreatic Beta-Cell Stress.",
+      "url": "https://doi.org/10.3791/74583",
+      "source": "PubMed — Journal of visualized experiments : JoVE",
+      "one_liner": "Type 2 diabetes mellitus develops through the interaction of metabolic, inflammatory, and microbial processes that extend beyond the pancreas. Although the gut microbiota has received substantial attention, the oral microbiota may offer an additional, modifiable source of microbial and inflammatory signals. Periodontitis repeatedly exposes the circulation...",
+      "segment": 8,
+      "timestamp": 581.08
+    },
+    {
+      "title": "Characteristics of Microbiota in Different Segments of the Digestive Tract of Orange-Collared Keelback (",
+      "url": "https://doi.org/10.1002/ece3.74508",
+      "source": "PubMed — Ecology and evolution",
+      "one_liner": "The gastrointestinal tract of animals plays an essential role in digestion and nutrient absorption. The diversity of gut microbiota is critical for maintaining the physiological functions of animals. However, current research has focused primarily on mammals; research on the gut microbiota of reptiles, particularly snakes, remains limited. This study util...",
+      "segment": 9,
+      "timestamp": 628.28
+    },
+    {
+      "title": "Multi-omics reveals a host-microbe metabolic synergy underlying brown planthopper biotype divergence.",
+      "url": "https://doi.org/10.1016/j.jare.2026.10.005",
+      "source": "PubMed — Journal of advanced research",
+      "one_liner": "INTRODUCTION: The brown planthopper (BPH) is a highly destructive pest in rice production. The widespread cultivation of resistant rice varieties drives BPH populations to evolve new biotypes, posing a continuous challenge to crop protection. Understanding the adaptation mechanisms of these biotypes is therefore critical. OBJECTIVES: This study aimed to i...",
+      "segment": 10,
+      "timestamp": 663.46
+    },
+    {
+      "title": "Oxygen exposure and diffusion are key formulation barriers in the microencapsulation of extremely oxygen-sensitive next-generation probiotics.",
+      "url": "https://doi.org/10.1016/j.jconrel.2026.115208",
+      "source": "PubMed — Journal of controlled release : official journal of the Controlled Release Society",
+      "one_liner": "Extremely oxygen-sensitive (EOS) next-generation probiotics are increasingly recognised as promising microbial biotherapeutics; however, their strict intolerance to oxygen poses major challenges for formulation and long-term stability as oral therapies. Many established bioencapsulation approaches, including prilling-based microencapsulation, were develop...",
+      "segment": 11,
+      "timestamp": 709.4
+    }
+  ]
+}
