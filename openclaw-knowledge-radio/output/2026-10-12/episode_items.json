@@ -1,0 +1,114 @@
+{
+  "timestamps": [
+    0.0,
+    44.3,
+    88.85,
+    131.15,
+    252.35,
+    406.4,
+    455.86,
+    506.44,
+    628.77,
+    675.95,
+    717.85,
+    837.8
+  ],
+  "items": [
+    {
+      "title": "The effect of solid-state fermentation on the bioaccessibility and in vitro gut microbiota modulation of soybean isoflavones.",
+      "url": "https://doi.org/10.1002/jsfa.71155",
+      "source": "PubMed — Journal of the science of food and agriculture",
+      "one_liner": "BACKGROUND: Soybean isoflavones mainly exist as isoflavone glycosides with poor bioaccessibility, which limits their functional application. Bioprocessing is commonly used as an effective strategy to enhance the nutritional quality of plant-based foods. However, previous studies have largely focused on the physicochemical changes of isoflavones during fer...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Vagal sensing of altered gut microbiota links to externalizing behaviors",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/19490976.2026.2743919?af=R",
+      "source": "Gut Microbes",
+      "one_liner": "Volume 18, Issue 1, December 2026 .",
+      "segment": 1,
+      "timestamp": 44.3
+    },
+    {
+      "title": "Vagal sensing of altered gut microbiota links to externalizing behaviors.",
+      "url": "https://doi.org/10.1080/19490976.2026.2743919",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Interoceptive brain responses triggered by intestinal microbiota influence mood-related behaviors such as anxiety and depression. Although genetic mutations can alter the gut microbiome, how alterations in the gut microbiome associated with host genetic variations relate to behavioral outcomes is not fully understood. We investigated how Sirtuin 3 (",
+      "segment": 2,
+      "timestamp": 88.85
+    },
+    {
+      "title": "The constitutive androstane receptor protects against metabolic dysfunction-associated steatotic liver disease through sex specific interactions with the gut microbiota",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.08.757558",
+      "source": "bioRxiv — physiology",
+      "one_liner": "Background: The gut-liver axis is involved in Metabolic dysfunction-Associated Steatotic Liver Disease (MASLD), but the host molecular actors involved in such dialogue have not yet been fully characterized. Objective: We investigated the sex-dependent role of the Constitutive Androstane Receptor (CAR) as a hepatic sensor of microbial signals in MASLD path...",
+      "segment": 3,
+      "timestamp": 131.15
+    },
+    {
+      "title": "Effects of dietary barley malt extract on growth performance, immune parameters, intestinal fermentation and gut microbiota in nursery piglets.",
+      "url": "https://doi.org/10.1007/s11250-026-05388-w",
+      "source": "PubMed — Tropical animal health and production",
+      "one_liner": "This study evaluated the effects of graded dietary barley malt extract (BME) supplementation on growth performance, fecal consistency, immune parameters, antioxidant status, short-chain fatty acid (SCFA) concentrations, and gut microbiota composition in nursery piglets. A total of 144 weaned piglets (24 days of age; 7.02 ± 1.08 kg) were allocated to four ...",
+      "segment": 4,
+      "timestamp": 252.35
+    },
+    {
+      "title": "Integrated Quantitative and Relative Microbiome Profiling Reveals a Bacterial Group Associated With Primary Apical Periodontitis Severity and Sharing a Predicted Virulence-Associated Functional Signature.",
+      "url": "https://doi.org/10.1111/iej.70289",
+      "source": "PubMed — International endodontic journal",
+      "one_liner": "AIM: To overcome the confounding effects of taxonomic heterogeneity in primary apical periodontitis (AP), this study aimed to characterize the quantitative and compositional profiles of the root canal microbiota associated with severe clinical features (percussion tenderness, large periapical lesions, and sinus tracts) using integrated relative (RMP) and ...",
+      "segment": 5,
+      "timestamp": 406.4
+    },
+    {
+      "title": "Structural Variants in the Human Genome Associated With Gut Microbiome and Blood Metabolic Traits With Potential Causal Links.",
+      "url": "https://doi.org/10.1002/advs.78201",
+      "source": "PubMed — Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "one_liner": "Research on genetic variants affecting the gut microbiome and blood metabolites has mainly focused on single nucleotide variants (SNPs), leaving structural variants (SVs) largely unexplored. Here, we analyzed high-coverage (∼42×) whole-genome sequencing data from 2002 individuals and constructed a catalog of 138 859 high-confidence SVs, including 44.3% va...",
+      "segment": 6,
+      "timestamp": 455.86
+    },
+    {
+      "title": "Artificial intelligence in human microbiome research: from data integration to explainable translation.",
+      "url": "https://doi.org/10.1007/s00203-026-05209-6",
+      "source": "PubMed — Archives of microbiology",
+      "one_liner": "The human microbiome is integral to health, metabolism, immunity, and physical protection, with dysbiosis linked to metabolic disorders, autoimmune conditions, and cancer. High-throughput sequencing has generated massive datasets, but analyzing these complex, multidimensional data poses significant challenges. Artificial intelligence (AI), including machi...",
+      "segment": 7,
+      "timestamp": 506.44
+    },
+    {
+      "title": "Sputum and oral microbiota profiles are associated with long COVID severity and phenotype post-hospitalisation: a UK multicentre, prospective cohort study.",
+      "url": "https://doi.org/10.1183/13993003.01162-2026",
+      "source": "PubMed — The European respiratory journal",
+      "one_liner": "BACKGROUND: Acute COVID-19 alters the airway microbiota. Whether these changes persist post-COVID-19 and contribute to long COVID is unknown. We aimed to describe the microbiota by long COVID severity and subtype, and identify links with inflammation. METHODS: Adults were prospectively recruited to the longitudinal UK Post-hospitalisation COVID-19 study (...",
+      "segment": 8,
+      "timestamp": 628.77
+    },
+    {
+      "title": "Anti-Browning and Prebiotic Effects of White Tea Extract on Fresh-Cut Lotus Root.",
+      "url": "https://doi.org/10.1002/fsn3.72464",
+      "source": "PubMed — Food science & nutrition",
+      "one_liner": "The enzymatic browning of fresh-cut lotus root, mediated by polyphenol oxidase (PPO), severely limits its shelf life and commercial value. This study investigated the molecular mechanism of lotus root browning and evaluated the prebiotic potential of lotus root treated with white tea (WT) extract. In the browning pattern of fresh-cut lotus root slices,",
+      "segment": 9,
+      "timestamp": 675.95
+    },
+    {
+      "title": "A Novel Cationic Antimicrobial Peptide Scymidgutin",
+      "url": "https://doi.org/10.1007/s12602-026-11247-9",
+      "source": "PubMed — Probiotics and antimicrobial proteins",
+      "one_liner": "Marine-derived antimicrobial peptides possess both antibacterial and immunomodulatory activities, offering potential advantages for treating complex inflammatory conditions. Meanwhile, the management of inflammatory bowel disease is complicated by the interplay of microbial dysbiosis and bacterial-driven inflammation, which conventional single-target ther...",
+      "segment": 10,
+      "timestamp": 717.85
+    },
+    {
+      "title": "[The gut-muscle axis and the role of Roseburia inulinivorans in age-related muscle loss: a narrative review].",
+      "url": "https://doi.org/10.1556/650.2026.33641",
+      "source": "PubMed — Orvosi hetilap",
+      "one_liner": "Age-related muscle loss (sarcopenia) represents one of the most significant health burdens in a globally ageing population. The relationship between the gut microbiome and skeletal muscle, referred to as the gut-muscle axis, is the subject of increasing research, yet the identification of specific responsible microbial species and mechanisms has remained ...",
+      "segment": 11,
+      "timestamp": 837.8
+    }
+  ]
+}

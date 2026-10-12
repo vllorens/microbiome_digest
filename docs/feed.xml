@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Oct 2026 09:39:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 10:17:40 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-10-12</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-12/podcast_2026-10-12.mp3</guid>
+      <pubDate>Mon, 12 Oct 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-12/podcast_2026-10-12.mp3" length="6485588" type="audio/mpeg" />
+      <description>Solid‑state fermentation markedly raises the bioaccessibility of soybean isoflavones and reshapes their interaction with the gut microbiota, according to a new study in the Journal of the Science of Food and Agriculture (PubMed). | Researchers report that changes in gut microbiota are sensed by the vagus nerve and that this gut‑brain signaling is associated with increased externalizing behaviors such as impulsivity and aggression. | Vagal sensing of altered gut microbiota drives externalizing behaviors, according to a new study in Gut microbes (PubMed).</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Solid‑state fermentation markedly raises the bioaccessibility of soybean isoflavones and reshapes their interaction with the gut microbiota, according to a new study in the Journal of the Science of Food and Agriculture (PubMed). | Researchers report that changes in gut microbiota are sensed by the vagus nerve and that this gut‑brain signaling is associated with increased externalizing behaviors such as impulsivity and aggression. | Vagal sensing of altered gut microbiota drives externalizing behaviors, according to a new study in Gut microbes (PubMed).</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-10-11</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-11/podcast_2026-10-11.mp3</guid>
       <pubDate>Sun, 11 Oct 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-11/podcast_2026-10-11.mp3" length="5676260" type="audio/mpeg" />
-      <description>D‑psicose, a rare sugar, reduced liver fat buildup and inflammation in mice with diet‑ and streptozotocin‑induced type 2 diabetes, according to a study in Food Science &amp; Nutrition. | Inhaled β‑myrcene, a compound found in lavender, eased insomnia in mice by acting on the 5‑HT1A receptor and PKA pathway while also reshaping the gut microbiota, according to a study reported in PubMed’s Nutritional Neuroscience journal. | This review article examines the gut microbiota‑epilepsy axis, focusing on bibliometric trends, mechanistic insights, and microbiota‑targeted therapeutic opportunities.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-11/podcast_2026-10-11.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>D‑psicose, a rare sugar, reduced liver fat buildup and inflammation in mice with diet‑ and streptozotocin‑induced type 2 diabetes, according to a study in Food Science &amp; Nutrition. | Inhaled β‑myrcene, a compound found in lavender, eased insomnia in mice by acting on the 5‑HT1A receptor and PKA pathway while also reshaping the gut microbiota, according to a study reported in PubMed’s Nutritional Neuroscience journal. | This review article examines the gut microbiota‑epilepsy axis, focusing on bibliometric trends, mechanistic insights, and microbiota‑targeted therapeutic opportunities.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-21/podcast_2026-07-21.mp3</guid>
       <pubDate>Tue, 21 Jul 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-21/podcast_2026-07-21.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-07-20</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-20/podcast_2026-07-20.mp3</guid>
-      <pubDate>Mon, 20 Jul 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-20/podcast_2026-07-20.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
