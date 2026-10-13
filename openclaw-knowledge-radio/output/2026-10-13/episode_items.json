@@ -1,0 +1,141 @@
+{
+  "timestamps": [
+    0.0,
+    115.44,
+    203.87,
+    329.71,
+    374.59,
+    420.7,
+    464.86,
+    509.22,
+    637.15,
+    686.45,
+    811.25,
+    861.96,
+    906.4,
+    959.86,
+    1009.15
+  ],
+  "items": [
+    {
+      "title": "Gut microbiota shaping fatty liver disease progression.",
+      "url": "https://doi.org/10.26508/lsa.202603756",
+      "source": "PubMed — Life science alliance",
+      "one_liner": "The gut-liver axis is an important regulator of homeostasis, and its dysregulation has been implicated in the pathogenesis of metabolic dysfunction-associated steatotic liver disease (MASLD). In this review, we summarize current knowledge on both compositional alterations of the gut microbiome in MASLD and the functional consequences of these changes. We ...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Dietary modulation of the gut microbiota in type 2 diabetes and obesity: mechanisms, interventions, and clinical perspectives.",
+      "url": "https://doi.org/10.1007/s00592-026-02805-2",
+      "source": "PubMed — Acta diabetologica",
+      "one_liner": "Obesity and type 2 diabetes mellitus (T2DM) are associated with heterogeneous changes in gut microbial composition and function, while mechanistic studies support plausible links among diet, microbial metabolism, intestinal barrier function, immune signaling, and host metabolism. This narrative review integrates diet-microbiome mechanisms, dietary-assessm...",
+      "segment": 1,
+      "timestamp": 115.44
+    },
+    {
+      "title": "Gut microbiota dysbiosis in patients with sepsis: a meta-analysis of microbial diversity and taxonomic abundance.",
+      "url": "https://doi.org/10.1007/s15010-026-03013-4",
+      "source": "PubMed — Infection",
+      "one_liner": "BACKGROUND: Gut microbiota alterations are frequently reported in sepsis, but their magnitude, consistency, and clinical specificity remain uncertain. We evaluated microbial diversity and taxonomic abundance in patients with sepsis, distinguishing healthy/reference controls from nonseptic clinical comparators. METHODS: PubMed, Embase, Cochrane Library, an...",
+      "segment": 2,
+      "timestamp": 203.87
+    },
+    {
+      "title": "Associations between fermented dairy food intake during pregnancy and gestational weight gain, macrosomia, and gut microbiota.",
+      "url": "https://doi.org/10.1016/j.clnesp.2026.105194",
+      "source": "PubMed — Clinical nutrition ESPEN",
+      "one_liner": "BACKGROUND AND AIMS: Fermented dairy food (FDF) operationalized in this study as cheese and yogurt, contains beneficial microbes and bioactive metabolites that may support maternal and offspring health, yet FDF intake and its association with maternal-offspring health outcomes is understudied in the US population. We evaluated the associations between FDF...",
+      "segment": 3,
+      "timestamp": 329.71
+    },
+    {
+      "title": "Environmental radionuclide contamination is associated with the diet and gut microbiota of wild passerines Parus major and Ficedula hypoleuca.",
+      "url": "https://doi.org/10.1016/j.envpol.2026.129325",
+      "source": "PubMed — Environmental pollution (Barking, Essex : 1987)",
+      "one_liner": "Organisms that occupy environments contaminated by radionuclides such as the area surrounding the former nuclear power plant at Chornobyl, Ukraine, face putative detrimental effects. How radioactive pollution affects organisms, especially in their early life, is not well studied in the wild. Our study focused on two interconnected factors that might be im...",
+      "segment": 4,
+      "timestamp": 374.59
+    },
+    {
+      "title": "Nanoformulated Curcumin Ameliorates Ulcerative Colitis via Gut Microbiota Modulation and Barrier Function Restoration.",
+      "url": "https://doi.org/10.1142/S0192415X26500837",
+      "source": "PubMed — The American journal of Chinese medicine",
+      "one_liner": "The gut microbiota is increasingly recognized as a key mediator of the anticolitis effects of curcumin (CUR). However, the clinical translation of this promising activity is severely hampered by CUR's low solubility and poor bioavailability. Although nanoencapsulation represents a promising strategy to address these limitations, the preventive effect of n...",
+      "segment": 5,
+      "timestamp": 420.7
+    },
+    {
+      "title": "Sex- and Time-Resolved Physiological and Gut Ecosystem Responses to a Food-Grade Microbiome-Targeted Intervention in Collegiate Endurance Athletes.",
+      "url": "https://doi.org/10.1002/advs.77664",
+      "source": "PubMed — Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "one_liner": "Endurance athletes experience sustained physiological demands during high-volume training, yet evidence for microbiome-targeted interventions in real-world settings remains limited. We conducted a two-stage, randomized, double-blind, placebo-controlled trial in 150 athletes allocated 2:1 to combined probiotics-yeast extract (CPYE) or placebo for 6 weeks; ...",
+      "segment": 6,
+      "timestamp": 464.86
+    },
+    {
+      "title": "Toxic Metals and Metalloids Exposure and the Gut-Cardiometabolic Axis: A Narrative Review of Microbiome Dysbiosis, Gut Barrier Dysfunction, and Metabolic Inflammation.",
+      "url": "https://doi.org/10.1007/s12012-026-10211-x",
+      "source": "PubMed — Cardiovascular toxicology",
+      "one_liner": "Toxic elements and metalloids exposure is an important environmental contributor to cardiometabolic disease, yet the gut-mediated mechanisms linking toxic elements to systemic metabolic and vascular injury remain incompletely understood. Lead, cadmium, arsenic, and mercury can enter the gastrointestinal tract through contaminated food, water, dust, smokin...",
+      "segment": 7,
+      "timestamp": 509.22
+    },
+    {
+      "title": "The Microbiome-Gut-Lung axis in Respiratory Diseases: From Biological Mechanisms to Clinical Translation.",
+      "url": "https://doi.org/10.1002/resp.70329",
+      "source": "PubMed — Respirology (Carlton, Vic.)",
+      "one_liner": "Respiratory diseases exhibit substantial heterogeneity in clinical phenotypes and underlying pathobiology that cannot be fully captured by conventional lung-centred frameworks. Accumulating evidence implicates a role for the microbiome-gut-lung axis in respiratory disease pathogenesis. Within this bidirectional axis, gut-derived microbial metabolites and ...",
+      "segment": 8,
+      "timestamp": 637.15
+    },
+    {
+      "title": "Lacticaseibacillus paracasei SX52-B Isolated from Centenarians' feces: Genomic Analysis and Hypoglycemic Activity Evaluation.",
+      "url": "https://doi.org/10.1007/s12602-026-11230-4",
+      "source": "PubMed — Probiotics and antimicrobial proteins",
+      "one_liner": "Probiotics have been reported to effectively modulate human glucose metabolism. Here, we aim to isolate and identify Lacticaseibacillus paracasei SX52-B (L. paracasei SX52-B) from the intestines of centenarians, investigate its hypoglycemic properties, and explore the potential molecular mechanisms through integration of genomic analysis. To evaluate the ...",
+      "segment": 9,
+      "timestamp": 686.45
+    },
+    {
+      "title": "Metagenomic and systematic analyses reveal the association between hemoglobin levels and metabolic disorders: an open cohort study of Tibetan adults in Qinghai Plateau.",
+      "url": "https://doi.org/10.1016/j.diabres.2026.113608",
+      "source": "PubMed — Diabetes research and clinical practice",
+      "one_liner": "AIM: Hemoglobin (Hb) varies with altitude, but evidence linking Hb levels to metabolic diseases in high-altitude populations remains limited. We examined associations between Hb and seven metabolic diseases in high-altitude adults and potential mediation by gut microbiota. METHODS: We analyzed an observational cohort of 1,646 Tibetan adults from the Qingh...",
+      "segment": 10,
+      "timestamp": 811.25
+    },
+    {
+      "title": "Differential effects of prenatal depression and anxiety on infant sleep: dual-pathway mechanisms involving the hypothalamic-pituitary-adrenal axis and the gut-brain axis.",
+      "url": "https://doi.org/10.1093/sleep/zsag171",
+      "source": "PubMed — Sleep",
+      "one_liner": "STUDY OBJECTIVES: Prenatal psychological distress is associated with adverse offspring outcomes, including infant sleep disturbances (ISD) and altered gut microbiota, yet the mediating roles of the neonatal gut microbiome and tryptophan metabolism remain underexplored. MATERIALS AND METHODS: This prospective birth cohort study enrolled 2288 mother-infant ...",
+      "segment": 11,
+      "timestamp": 861.96
+    },
+    {
+      "title": "Oral and Fecal Microbial Dysbiosis as Non-Invasive Diagnostic Biomarkers for Gastrointestinal Cancers: A Systematic Review and Meta-Analysis of Diagnostic Accuracy.",
+      "url": "https://doi.org/10.1002/ijc.70779",
+      "source": "PubMed — International journal of cancer",
+      "one_liner": "Gastrointestinal (GI) cancers, including esophageal (EC), gastric (GC), and colorectal cancer (CRC), impose a substantial global burden, with early detection remaining crucial for improving patient outcomes. The oral and gut microbiota are increasingly implicated in cancer development and hold promise as sources of non-invasive biomarkers. However, curren...",
+      "segment": 12,
+      "timestamp": 906.4
+    },
+    {
+      "title": "A global atlas of the gut virome reveals subtype-specific and functional alterations in irritable bowel syndrome.",
+      "url": "https://doi.org/10.1128/msystems.00901-26",
+      "source": "PubMed — mSystems",
+      "one_liner": "The gut virome is a critical component of the microbiome-gut-brain axis; however, its role in irritable bowel syndrome (IBS) remains poorly understood due to limited sample sizes and geographic bias. We aimed to construct a comprehensive global atlas of the IBS gut virome to elucidate its composition, functional potential, and clinical relevance across di...",
+      "segment": 13,
+      "timestamp": 959.86
+    },
+    {
+      "title": "LC-MS/MS quantification of trimethylamine N-oxide in plasma and volumetric absorptive microsamples: analytical validation and feasibility in pediatric kidney transplant recipients.",
+      "url": "https://doi.org/10.1016/j.cca.2026.122894",
+      "source": "PubMed — Clinica chimica acta; international journal of clinical chemistry",
+      "one_liner": "Trimethylamine N-oxide (TMAO) is a gut microbiome-related metabolite that may be associated with kidney injury and cardiovascular risk. Measuring TMAO in children after kidney transplantation may support investigation of the gut-kidney-cardiovascular axis; however, repeated venous sampling is often impractical in pediatric longitudinal studies. This study...",
+      "segment": 14,
+      "timestamp": 1009.15
+    }
+  ]
+}
