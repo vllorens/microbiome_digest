@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 10:14:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 08:30:35 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-10-15</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-15/podcast_2026-10-15.mp3</guid>
+      <pubDate>Thu, 15 Oct 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-15/podcast_2026-10-15.mp3" length="17839988" type="audio/mpeg" />
+      <description>Researchers reviewing the brain‑gut‑microbiome axis report that disrupted bidirectional signaling among the central nervous system, enteric nervous system, immune pathways, and intestinal microbiota underlies both irritable bowel syndrome and depression. | Beta‑hydroxybutyrate (BHB) markedly eases intestinal acute graft‑versus‑host disease by remodeling the gut microbiota‑bile acid axis and blocking the TLR4‑NF‑κB pathway that drives pathogenic Th1 and Th17 T‑cell responses. | Fermenting Sargassum soluble dietary fiber with Bifidobacterium longum boosts its ability to curb oxidative stress and rebalance gut microbes, protecting mice from inflammatory bowel disease.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Researchers reviewing the brain‑gut‑microbiome axis report that disrupted bidirectional signaling among the central nervous system, enteric nervous system, immune pathways, and intestinal microbiota underlies both irritable bowel syndrome and depression. | Beta‑hydroxybutyrate (BHB) markedly eases intestinal acute graft‑versus‑host disease by remodeling the gut microbiota‑bile acid axis and blocking the TLR4‑NF‑κB pathway that drives pathogenic Th1 and Th17 T‑cell responses. | Fermenting Sargassum soluble dietary fiber with Bifidobacterium longum boosts its ability to curb oxidative stress and rebalance gut microbes, protecting mice from inflammatory bowel disease.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-10-13</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-13/podcast_2026-10-13.mp3</guid>
       <pubDate>Tue, 13 Oct 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-13/podcast_2026-10-13.mp3" length="7770644" type="audio/mpeg" />
-      <description>The review published in Life Science Alliance examines how the gut microbiota influences the progression of metabolic dysfunction‑associated steatotic liver disease, MASLD. | Because the provided excerpt does not list specific bacterial taxa, diversity metrics, or microbial metabolites, the available text does not provide details on which organisms are consistently enriched or depleted in MASLD, nor does it specify which pathways—such as short‑chain fatty acid production, bile‑acid transformation, or endotoxin generation—are highlighted as mechanistically important. | What is clear from the notes is that the review aims to integrate existing literature to clarify how changes in gut microbial composition translate into functional alterations that drive fatty liver inflammation, fibrosis, and disease progression.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-13/podcast_2026-10-13.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>The review published in Life Science Alliance examines how the gut microbiota influences the progression of metabolic dysfunction‑associated steatotic liver disease, MASLD. | Because the provided excerpt does not list specific bacterial taxa, diversity metrics, or microbial metabolites, the available text does not provide details on which organisms are consistently enriched or depleted in MASLD, nor does it specify which pathways—such as short‑chain fatty acid production, bile‑acid transformation, or endotoxin generation—are highlighted as mechanistically important. | What is clear from the notes is that the review aims to integrate existing literature to clarify how changes in gut microbial composition translate into functional alterations that drive fatty liver inflammation, fibrosis, and disease progression.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-23/podcast_2026-07-23.mp3</guid>
       <pubDate>Thu, 23 Jul 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-23/podcast_2026-07-23.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-07-22</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-22/podcast_2026-07-22.mp3</guid>
-      <pubDate>Wed, 22 Jul 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-22/podcast_2026-07-22.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>

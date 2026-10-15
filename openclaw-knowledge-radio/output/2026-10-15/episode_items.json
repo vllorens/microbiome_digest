@@ -1,0 +1,364 @@
+{
+  "timestamps": [
+    0.0,
+    42.9,
+    93.21,
+    133.53,
+    180.33,
+    229.88,
+    361.6,
+    481.98,
+    538.07,
+    581.27,
+    629.91,
+    675.82,
+    722.96,
+    764.5,
+    817.73,
+    868.71,
+    919.45,
+    970.02,
+    1011.88,
+    1058.6,
+    1115.33,
+    1164.91,
+    1324.81,
+    1368.66,
+    1417.12,
+    1460.06,
+    1503.29,
+    1632.51,
+    1673.75,
+    1683.04,
+    1738.64,
+    1892.86,
+    2048.21,
+    2197.93,
+    2259.23,
+    2306.74,
+    2355.7,
+    2403.08
+  ],
+  "items": [
+    {
+      "title": "The Brain-Gut-Microbiome Axis: Exploring the Link Between Depression and Irritable Bowel Syndrome.",
+      "url": "https://doi.org/10.1146/annurev-physiol-040225-111420",
+      "source": "PubMed — Annual review of physiology",
+      "one_liner": "The brain-gut-microbiome system is an integrated communication network linking the central nervous system, enteric nervous system, immune pathways, and intestinal microbiota. Increasing evidence indicates that dysregulation of this bidirectional signaling system contributes to both gastrointestinal and psychiatric disorders. Irritable bowel syndrome (IBS)...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "β-Hydroxybutyrate alleviates intestinal aGVHD via remodeling gut microbiota-bile acid axis and inhibiting TLR4-NF-κB-driven Th1/Th17 differentiation.",
+      "url": "https://doi.org/10.1016/j.lfs.2026.124737",
+      "source": "PubMed — Life sciences",
+      "one_liner": "The intestine is a major target organ in acute graft-versus-host disease (aGVHD), and its microbial homeostasis critically influences disease pathogenesis and progression. Emerging evidence indicates that beta-hydroxybutyrate (BHB) can remodel the gut microbiota and dampen pro-inflammatory immune activity. To investigate the therapeutic potential of BHB i...",
+      "segment": 1,
+      "timestamp": 42.9
+    },
+    {
+      "title": "Sargassum soluble dietary fiber alleviates oxidative stress and gut microbiota dysbiosis to prevent inflammatory bowel disease in C57BL/6 mice.",
+      "url": "https://doi.org/10.1002/jsfa.71167",
+      "source": "PubMed — Journal of the science of food and agriculture",
+      "one_liner": "BACKGROUND: Fermentation may enhance the bioactivity of Sargassum soluble dietary fiber (SDF). This study investigates the preventive effects of Bifidobacterium longum fermented Sargassum SDF (BL-SDF) against oxidative stress and inflammatory bowel disease (IBD). RESULTS: In vitro, the BL-SDF significantly reduced nitric oxide (NO) production by 16.98-23....",
+      "segment": 2,
+      "timestamp": 93.21
+    },
+    {
+      "title": "The relationship between gut microbiota-friendly diet and the prevalence and severity of asthma in children.",
+      "url": "https://doi.org/10.1002/jpn3.70605",
+      "source": "PubMed — Journal of pediatric gastroenterology and nutrition",
+      "one_liner": "OBJECTIVES: Dietary factors may impact asthma indirectly by modulating the composition and activity of the gut microbiota. This study aimed to explore the potential relationship between gut microbiota-friendly diet and both the prevalence and severity of asthma in children. METHODS: We selected a total of 2256 children from the 2021-2023 National Health a...",
+      "segment": 3,
+      "timestamp": 133.53
+    },
+    {
+      "title": "Supplementation with a Limosilactobacillus fermentum K73 synbiotic modulates gut microbiota function and behavior in gnotobiotic mice transplanted with microbiota from children diagnosed with autism spectrum disorder",
+      "url": "https://www.biorxiv.org/content/10.64898/2025.12.16.694732",
+      "source": "bioRxiv — microbiology",
+      "one_liner": "Gut dysbiosis has been implicated in numerous pathological conditions, including neurodevelopmental and neurodegenerative disorders. Recently, dietary interventions targeted at restoring microbial balance have therefore gained attention as potential therapeutic strategies. We recently demonstrated that an encapsulated synbiotic containing high-oleic palm ...",
+      "segment": 4,
+      "timestamp": 180.33
+    },
+    {
+      "title": "Dietary Pichia Guilliermondii Improves Intestinal Digestive Capacity and Barrier Integrity in Weaned Piglets Associated with Gut Microbiota-Related Glutathione Metabolism.",
+      "url": "https://doi.org/10.1007/s12602-026-11253-x",
+      "source": "PubMed — Probiotics and antimicrobial proteins",
+      "one_liner": "Yeast-derived feed additives are increasingly used to support intestinal health after weaning, but dose-response evidence and mechanistic information for inactivated Pichia guilliermondii product (PG) in pigs remain limited. A total of 360 piglets (initial body weight, 6.30 ± 0.06 kg) received diets containing 0, 800, 1600, 2400, or 3200 mg/kg inactivated...",
+      "segment": 5,
+      "timestamp": -1
+    },
+    {
+      "title": "Mediterranean diet, gut microbiota, and intestinal barrier integrity: implications for digestive and systemic health.",
+      "url": "https://doi.org/10.1007/s10482-026-02436-1",
+      "source": "PubMed — Antonie van Leeuwenhoek",
+      "one_liner": "The Mediterranean diet has gained increasing attention for its effects on gut microbiota, microbial metabolism, intestinal barrier function, and related clinical outcomes. This narrative review critically synthesizes evidence from 51 publications identified through structured searches of PubMed/MEDLINE and Google Scholar, including human intervention stud...",
+      "segment": 6,
+      "timestamp": 229.88
+    },
+    {
+      "title": "Synergistic effect of gastric microbiome and host genetic factor predispose to gastric cancer.",
+      "url": "https://doi.org/10.1186/s12967-026-09009-w",
+      "source": "PubMed — Journal of translational medicine",
+      "one_liner": "OBJECTIVE: Complex interaction between host genetic and environmental factors has a role in Helicobacter pylori (H. pylori)-related gastric tumorigenesis, while involvement of non-Helicobacter pylori gastric microbiome may be also relevant to this process. We aimed to evaluate whether combining the non-Helicobacter pylori gastric microbiome signatures and...",
+      "segment": 7,
+      "timestamp": 361.6
+    },
+    {
+      "title": "Parsing the relationships among gut microbiome, neurotransmitter metabolome, glymphatic function, and cognition across healthy elderly, mild cognitive impairment, and probable Alzheimer's disease.",
+      "url": "https://doi.org/10.1016/j.bbi.2026.107067",
+      "source": "PubMed — Brain, behavior, and immunity",
+      "one_liner": "BACKGROUND: Evidence has suggested brain glymphatic dysfunction and gut microbial metabolic disturbance in Alzheimer's disease (AD), yet the relationships among gut microbiota, neurotransmitter metabolites, glymphatic function, and cognition across clinically defined groups of healthy elderly, mild cognitive impairment (MCI), and probable AD remain unclea...",
+      "segment": 8,
+      "timestamp": 481.98
+    },
+    {
+      "title": "Structure-activity relationship and underlying mechanisms of natural polysaccharides in ameliorating hyperuricemia via targeting gut microbiota.",
+      "url": "https://doi.org/10.1016/j.carbpol.2026.125732",
+      "source": "PubMed — Carbohydrate polymers",
+      "one_liner": "Hyperuricemia (HUA), a common metabolic disorder, is associated with multiple diseases and imposes an increasing burden on public health. Current pharmacological therapies are often limited by single-target effects and potential adverse reactions. Recent evidence suggests that the intestine contributes to urate homeostasis, with the gut microbiota and int...",
+      "segment": 9,
+      "timestamp": 538.07
+    },
+    {
+      "title": "The gut-kidney axis revisited: Integrating gut microbiota, autophagy and metabolomics in chronic kidney disease.",
+      "url": "https://doi.org/10.1016/j.intimp.2026.117238",
+      "source": "PubMed — International immunopharmacology",
+      "one_liner": "Chronic kidney disease (CKD) is increasingly recognised as a systemic disorder driven by interconnected disturbances in gut microbial balance, metabolic regulation and renal cellular stress responses rather than by isolated renal dysfunction alone. Current therapies mainly slow disease progression but do not fully address the molecular networks responsibl...",
+      "segment": 10,
+      "timestamp": 581.27
+    },
+    {
+      "title": "Multikingdom Gut Microbiome and Immune Aging: A Host-Microbial Signaling Perspective.",
+      "url": "https://doi.org/10.1016/j.arr.2026.103414",
+      "source": "PubMed — Ageing research reviews",
+      "one_liner": "Immune aging comprises heterogeneous changes in hematopoietic output, immune-cell function, inflammatory regulation, and tissue-specific immune states. In parallel, the gut microbiome undergoes ecological and functional remodeling across the bacteriome, mycobiome, virome, and archaeome, but these changes do not define a single \"aged microbiome\" and vary w...",
+      "segment": 11,
+      "timestamp": 629.91
+    },
+    {
+      "title": "Antioxidant-producing extremophile regulates gut microbiota of black soldier fly larvae to inhibit conjugative transfer mediated by plasmids in municipal sludge.",
+      "url": "https://doi.org/10.1016/j.watres.2026.127133",
+      "source": "PubMed — Water research",
+      "one_liner": "Oxidative stress induced by heavy metals and antibiotics in municipal sludge inhibits the gut development of black soldier fly larvae (BSFL), compromising pollutant-processing capacity of their gut microbiota. Herein, Deinococcus radiodurans was colonized into the BSFL gut and established an antioxidant cascade regulatory system in concert with the gut mi...",
+      "segment": 12,
+      "timestamp": 675.82
+    },
+    {
+      "title": "Schisandrin B attenuates doxorubicin-induced acute cardiac injury through regulation of metabolites and gut microbiota.",
+      "url": "https://doi.org/10.1016/j.ejphar.2026.179246",
+      "source": "PubMed — European journal of pharmacology",
+      "one_liner": "Schisandrin B (Sch B), a major bioactive lignan from the medicinal herb Schisandra chinensis, possesses anti-inflammatory and antioxidant properties. However, the mechanism by which it attenuates anthracycline (ANT)-induced acute cardiac injury remains elusive, particularly regarding systemic metabolite dynamics and gut microbiota modulation. Here, we int...",
+      "segment": 13,
+      "timestamp": 722.96
+    },
+    {
+      "title": "Mesona chinensis Benth polyphenols ameliorate type 2 diabetes mellitus in mice through coordinated regulation of gut microbiota, metabolic profiles, and host metabolic-inflammatory responses.",
+      "url": "https://doi.org/10.1016/j.bioorg.2026.110467",
+      "source": "PubMed — Bioorganic chemistry",
+      "one_liner": "BACKGROUND: Mesona chinensis Benth polyphenols (MCP) have demonstrated potential anti-diabetic activity. However, the underlying mechanisms involved in their metabolic regulation remain incompletely understood. OBJECTIVE: This study aimed to investigate the anti-diabetic effects of MCP in HFD/STZ-induced type 2 diabetes mellitus (T2DM) mice through an int...",
+      "segment": 14,
+      "timestamp": 764.5
+    },
+    {
+      "title": "Black tea polysaccharides: purification, structural characterization, fermentation characteristics, and interaction with gut microbiota.",
+      "url": "https://doi.org/10.1016/j.foodchem.2026.150781",
+      "source": "PubMed — Food chemistry",
+      "one_liner": "Although black tea polysaccharides have numerous health benefits, limited studies have investigated the structural and fermentation characteristics. Herein, the structural characteristics and interaction with the gut microbiota of a black tea polysaccharide (BTPS3) fraction were systematically evaluated. Results showed that BTPS3 was an acidic heteropolys...",
+      "segment": 15,
+      "timestamp": 817.73
+    },
+    {
+      "title": "Inverse probability weighting-based mediation analysis for microbiome data.",
+      "url": "https://doi.org/10.1093/bioinformatics/btag750",
+      "source": "PubMed — Bioinformatics (Oxford, England)",
+      "one_liner": "MOTIVATION: Mediation analysis is an important tool for elucidating causal mechanisms in biomedical research and has recently gained increasing attention in microbiome studies. Motivated by a microbiome study of acute myeloid leukemia (AML) patients, we investigate whether the effect of induction chemotherapy intensity on infection status is mediated thro...",
+      "segment": 16,
+      "timestamp": 868.71
+    },
+    {
+      "title": "Gut microbiota-considered pharmacotherapeutic management of hepatocellular carcinoma.",
+      "url": "https://doi.org/10.1080/14656566.2026.2749646",
+      "source": "PubMed — Expert opinion on pharmacotherapy",
+      "one_liner": "INTRODUCTION: Treatment efficacy for hepatocellular carcinoma (HCC) remains limited. Increasing evidence indicates that gut microbiota may influence treatment response, toxicity and clinical outcomes. AREAS COVERED: Our review synthesizes recent literature from PubMed and Wiley Online Library regarding gut microbiota, microbial metabolites, HCC and immuno...",
+      "segment": 17,
+      "timestamp": 919.45
+    },
+    {
+      "title": "Akkermansia muciniphila HHAKKα Prevents High-Fat Diet-Induced Obesity in Mice via Gut Microbiota Modulation and Regulation of Hepatic Lipid Metabolism.",
+      "url": "https://doi.org/10.1096/fj.202603191RR",
+      "source": "PubMed — FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+      "one_liner": "Obesity and its associated metabolic disorders pose significant global health challenges. This study investigated the anti-obesity effects of Akkermansia muciniphila HHAKKα in high-fat diet (HFD)-induced obese mice. C57BL/6J mice were administered HHAKKα orally for 8 weeks while maintained on HFD. Results demonstrated that HHAKKα significantly inhibited w...",
+      "segment": 18,
+      "timestamp": 970.02
+    },
+    {
+      "title": "From blunt to precision: Engineering microbiome therapeutics against cancer.",
+      "url": "https://doi.org/10.1016/j.chom.2026.08.008",
+      "source": "PubMed — Cell host & microbe",
+      "one_liner": "Two recent papers in Cell Host & Microbe move microbiome therapeutics beyond selecting \"beneficial\" strains. By turning bacterial surfaces into oral vaccine couriers and resident microbial metabolism into a controllable reactor, they show how location, control, and measurable output can transform the gut into a precision platform for cancer immunotherapy.",
+      "segment": 19,
+      "timestamp": 1011.88
+    },
+    {
+      "title": "Microbiome-mediated resilience and cross-generational consequences in male Drosophila exposed to combined environmental stressors.",
+      "url": "https://doi.org/10.1098/rspb.2026.1300",
+      "source": "PubMed — Proceedings. Biological sciences",
+      "one_liner": "Climate change exposes organisms to multiple, interacting stressors, yet their joint effects on reproduction and inheritance remain poorly understood. This study investigated the interactive effects of acute heat stress and sublethal imidacloprid exposure on the reproductive success of male Drosophila melanogaster and the subsequent fitness of their offsp...",
+      "segment": 20,
+      "timestamp": -1
+    },
+    {
+      "title": "Environmental gradients shape the hydrocarbon-degrading microbiome in two mid-Atlantic bays.",
+      "url": "https://doi.org/10.1128/msystems.00866-26",
+      "source": "PubMed — mSystems",
+      "one_liner": "UNLABELLED: Hydrocarbons are recalcitrant organic matter that is released into the environment via natural and anthropogenic activities. We hypothesized that abiotic and biotic factors, including salinity, temperature, seasonality, microbial interactions, and functional redundancy, influence the abundance and activity of potential hydrocarbon degraders in...",
+      "segment": 21,
+      "timestamp": 1058.6
+    },
+    {
+      "title": "Variovorax paradoxus alleviates bicarbonate-induced Fe limitation in cotton by altering the root-associated microbiome",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.08.19.745819",
+      "source": "bioRxiv — plant biology",
+      "one_liner": "Alkaline and calcareous soils can induce iron (Fe) limitation in plants, yet the responses of root-associated microbial communities to beneficial rhizobacteria under these conditions remain poorly understood in cotton. Here, we investigated the effects of Variovorax paradoxus on plant performance, Fe nutrition, and root-associated microbiome dynamics in c...",
+      "segment": 22,
+      "timestamp": 1115.33
+    },
+    {
+      "title": "Levothyroxine dose requirements, oral bioavailability and gut microbiome enterotype dynamics during the early post-bariatric period: a single-centre, prospective, cohort study.",
+      "url": "https://doi.org/10.1186/s12902-026-02599-y",
+      "source": "PubMed — BMC endocrine disorders",
+      "one_liner": "BACKGROUND: Bariatric surgery induces profound metabolic changes; however, its impact on levothyroxine (LT4) requirements, hormone pharmacokinetics, and gut microbiome composition remains incompletely understood. The current study is aimed to evaluate longitudinal changes in metabolic parameters, LT4 dose requirements, free thyroxin (FT4) absorption (AUC₀...",
+      "segment": 23,
+      "timestamp": 1164.91
+    },
+    {
+      "title": "Food, Dietary Supplement, and Gut Microbiome Interactions in Oral Anticancer Therapy: Mechanisms, Clinical Consequences, and Management.",
+      "url": "https://doi.org/10.1097/MJT.0000000000002240",
+      "source": "PubMed — American journal of therapeutics",
+      "one_liner": "BACKGROUND: The shift toward oral targeted therapies and immune checkpoint inhibitors (ICIs) in oncology has introduced pharmacokinetic variability driven by food-drug interactions (FDIs), which can cause therapeutic failure or increased toxicity. AREAS OF UNCERTAINTY: FDI effects depend on drug composition and food-intake timing. Evidence for traditional...",
+      "segment": 24,
+      "timestamp": 1324.81
+    },
+    {
+      "title": "Waste oil substrates reshape the black soldier fly larval gut microbiome and biomass composition during bioconversion.",
+      "url": "https://doi.org/10.1128/aem.01082-26",
+      "source": "PubMed — Applied and environmental microbiology",
+      "one_liner": "UNLABELLED: Black soldier fly larvae (BSFL) are generalist decomposers with promise for converting agricultural and food-processing by-products into value-added bioproducts, but BSFL performance on lipid-rich waste oil streams and the role of the gut microbiome in this process remain unclear. Here, we evaluated BSFL bioconversion of a standard chicken fee...",
+      "segment": 25,
+      "timestamp": 1368.66
+    },
+    {
+      "title": "Gut microbiome and metabolite signatures in critical limb threatening ischemia.",
+      "url": "https://doi.org/10.1024/0301-1526/a001312",
+      "source": "PubMed — VASA. Zeitschrift fur Gefasskrankheiten",
+      "one_liner": "",
+      "segment": 26,
+      "timestamp": 1417.12
+    },
+    {
+      "title": "Does Mother Provide? Re-Examination of Maternal and Embryonic Microbiomes of",
+      "url": "https://doi.org/10.1002/ece3.74504",
+      "source": "PubMed — Ecology and evolution",
+      "one_liner": "",
+      "segment": 27,
+      "timestamp": 1460.06
+    },
+    {
+      "title": "Multi-omics reveals that dietary Piper sarmentosum Roxb. extract improves goat meat quality via the microbiota-muscle amino acid metabolic axis.",
+      "url": "https://doi.org/10.1186/s40104-026-01509-5",
+      "source": "PubMed — Journal of animal science and biotechnology",
+      "one_liner": "BACKGROUND: Improving meat quality through nutritional regulation is an important approach in ruminant production. Growing evidence suggests that rumen microbiota influences host metabolism via microbial metabolites, thereby affecting meat quality. However, whether Piper sarmentosum Roxb. extract (PSE), a medicinal and edible plant-derived extract, improv...",
+      "segment": 28,
+      "timestamp": 1503.29
+    },
+    {
+      "title": "A microbial signal rewires the adipose-ovary dialogue.",
+      "url": "https://doi.org/10.1016/j.chom.2026.09.005",
+      "source": "PubMed — Cell host & microbe",
+      "one_liner": "In this issue of Cell Host & Microbe, Chen et al. show that a gut microbial metabolite reprograms adipose ceramide metabolism to influence ovarian function. By placing adipose tissue between microbial and reproductive signaling, the study reveals how inter-organ communication couples the metabolic and ovarian dimensions of polycystic ovary syndrome.",
+      "segment": 29,
+      "timestamp": 1632.51
+    },
+    {
+      "title": "Mutant KRAS favors a microbe that signals back.",
+      "url": "https://doi.org/10.1016/j.chom.2026.09.007",
+      "source": "PubMed — Cell host & microbe",
+      "one_liner": "Tumor genetics and the microbiome both shape colorectal cancer, but their reciprocal interplay remains poorly defined. In this issue of Cell Host & Microbe, Jiao et al. show that mutant KRAS favors Bacteroides acidifaciens, which signals back through a SusF-ARHGEF2 axis to reinforce RAS-MAPK signaling.",
+      "segment": 30,
+      "timestamp": 1673.75
+    },
+    {
+      "title": "Functional Heterogeneity of the Autism Spectrum Disorder-Associated Gut Microbial Ecosystem Revealed by Fecal Lipopolysaccharides and Bacterial Proteomic Profiling.",
+      "url": "https://doi.org/10.1002/cbic.70557",
+      "source": "PubMed — Chembiochem : a European journal of chemical biology",
+      "one_liner": "The etiology of pediatric autism spectrum disorder (ASD) has been increasingly linked to alterations in the gut-brain axis, highlighting the intricate bidirectional communication between gut microbiota and central nervous system. The molecular mechanisms of this communication are poorly understood. Here we investigated whether ASD-associated gut microbiot...",
+      "segment": 31,
+      "timestamp": 1683.04
+    },
+    {
+      "title": "Alistipes-derived monomethyl branched-chain fatty acid iso-15:0 suppresses hepatocellular carcinoma progression by inhibiting Gβγ/PI3K/AKT signaling.",
+      "url": "https://doi.org/10.1186/s43556-026-00622-1",
+      "source": "PubMed — Molecular biomedicine",
+      "one_liner": "The role of gut microbiota and their metabolites in the progression of hepatocellular carcinoma (HCC) has garnered increasing attention. Although Alistipes, a genus frequently reported as a beneficial bacterium, has been associated with antitumor effects and enhanced efficacy of cancer therapies, its specific functions and underlying mechanisms in HCC rem...",
+      "segment": 32,
+      "timestamp": 1738.64
+    },
+    {
+      "title": "Adult-sourced fecal microbiota transplantation ameliorates early-life antibiotic-induced intestinal immune stress in juvenile mice associated with the modulation of the TLR4/MyD88 signaling pathway.",
+      "url": "https://doi.org/10.1371/journal.pone.0359634",
+      "source": "PubMed — PloS one",
+      "one_liner": "Early-life antibiotic (ABX) exposure profoundly disrupts gut microbiota assembly, triggering long-lasting intestinal immune stress. While fecal microbiota transplantation (FMT) is a promising intervention, its immunological and ecological mechanisms in the juvenile gut remain underexplored. In this study, juvenile mice were subjected to a broad-spectrum A...",
+      "segment": 33,
+      "timestamp": 1892.86
+    },
+    {
+      "title": "Characterization of a novel Iflavirus from the locust Calliptamus italicus in Xinjiang, China.",
+      "url": "https://doi.org/10.1007/s11262-026-02286-z",
+      "source": "PubMed — Virus genes",
+      "one_liner": "Insect-specific viruses represent a promising yet underexplored resource for the biological control of locust pests. In this study, we performed metatranscriptomic sequencing of three dominant locust species-Calliptamus italicus, Calliptamus barbarus, and Oedaleus decorus decorus-collected from field populations in Xinjiang, China. Bioinformatic analysis ...",
+      "segment": 34,
+      "timestamp": 2048.21
+    },
+    {
+      "title": "High-frequency rTMS attenuates cerebral ischemia/reperfusion injury and modulates mTOR-related signaling and brain-gut-immune phenotypes in MCAO/R rats.",
+      "url": "https://doi.org/10.1016/j.brainresbull.2026.112168",
+      "source": "PubMed — Brain research bulletin",
+      "one_liner": "BACKGROUND: High-frequency repetitive transcranial magnetic stimulation (rTMS) may promote neurological recovery after ischemic stroke, but its protective effects after MCAO/R and associations with neurotrophic factors, mTOR-related autophagy markers, systemic inflammation, and gut microbiota phenotypes remain unclear. METHODS: Cerebral ischemia/reperfusi...",
+      "segment": 35,
+      "timestamp": 2197.93
+    },
+    {
+      "title": "Enhancement of growth, intestinal microbiota, and innate immune protection against Vibrio alginolyticus in white shrimp (Penaeus vannamei) following dietary administration with Bacillus safensis NPUST1.",
+      "url": "https://doi.org/10.1016/j.dci.2026.105747",
+      "source": "PubMed — Developmental and comparative immunology",
+      "one_liner": "Spore-forming Bacillus probiotics have attracted increasing interest as antibiotic-free functional feed additives in shrimp aquaculture. However, evidence for the probiotic potential of Bacillus safensis remains limited. This study evaluated the effects of dietary B. safensis NPUST1 on growth performance, innate immunity, intestinal microbiota, and resist...",
+      "segment": 36,
+      "timestamp": 2259.23
+    },
+    {
+      "title": "Microbiota modulation in colorectal cancer: A scoping review of its potential role in toxicity mitigation and treatment response.",
+      "url": "https://doi.org/10.1016/j.ctarc.2026.101486",
+      "source": "PubMed — Cancer treatment and research communications",
+      "one_liner": "INTRODUCTION: Colorectal cancer (CRC) treatment remains limited by gastrointestinal toxicity, heterogeneous therapeutic responses, and treatment resistance. The gut microbiota has emerged as a modifiable factor implicated in these outcomes, particularly chemotherapy-induced toxicity. Probiotics, prebiotics, and synbiotics have been investigated as adjunct...",
+      "segment": 37,
+      "timestamp": 2306.74
+    },
+    {
+      "title": "Fecal microbiota transplantation for the treatment of neurogenic rosacea: protocol of a randomized, blinded, placebo-controlled explorer study.",
+      "url": "https://doi.org/10.1080/07853890.2026.2735091",
+      "source": "PubMed — Annals of medicine",
+      "one_liner": "INTRODUCTION: Neurogenic rosacea is a distinct phenotype of rosacea characterized by persistent facial erythema, flushing, burning, and stinging, and it often responds poorly to conventional therapies. Increasing evidence suggests that gut microbiota dysbiosis may be involved in the pathogenesis of NR. Fecal microbiota transplantation may provide a novel ...",
+      "segment": 38,
+      "timestamp": 2355.7
+    },
+    {
+      "title": "Bridging two kingdoms: binding interactions between enteric viruses and intestinal bacteria.",
+      "url": "https://doi.org/10.1128/iai.00291-26",
+      "source": "PubMed — Infection and immunity",
+      "one_liner": "Enteric viruses are major causes of gastrointestinal disease worldwide and are primarily transmitted through the fecal-oral route. Upon entering the gastrointestinal tract, these viruses encounter the dense and diverse population of intestinal microbiota, leading to frequent interactions with commensal bacteria. Over the past decade, numerous studies have...",
+      "segment": 39,
+      "timestamp": 2403.08
+    }
+  ]
+}
