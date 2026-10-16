@@ -8,7 +8,7 @@
     <atom:link href="https://vllorens.github.io/microbiome_digest/feed.xml" rel="self" type="application/rss+xml" />
     <description>Daily automated digest of microbiome research</description>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 08:30:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 08:23:50 GMT</lastBuildDate>
     <itunes:author>Veronica Llorens</itunes:author>
     <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
     <itunes:owner>
@@ -19,13 +19,24 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
+      <title>Daily Podcast 2026-10-16</title>
+      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-16/podcast_2026-10-16.mp3</guid>
+      <pubDate>Fri, 16 Oct 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-16/podcast_2026-10-16.mp3" length="16637276" type="audio/mpeg" />
+      <description>Research on the spillover risk of antibiotic resistance genes from the gut microbiome of wild animals highlights the golden snub‑nosed monkey as a case study. | Gypenosides, bioactive saponins from a traditional plant, alleviate polycystic ovary syndrome in a letrozole‑induced rat model by reshaping the gut microbiota and ovarian transcriptome. | The study links gut microbiota dysbiosis to chronic constipation and tests fecal microbiota transplantation as a way to restore microbial balance and metabolic function.</description>
+      <itunes:author>Veronica Llorens</itunes:author>
+      <itunes:summary>Research on the spillover risk of antibiotic resistance genes from the gut microbiome of wild animals highlights the golden snub‑nosed monkey as a case study. | Gypenosides, bioactive saponins from a traditional plant, alleviate polycystic ovary syndrome in a letrozole‑induced rat model by reshaping the gut microbiota and ovarian transcriptome. | The study links gut microbiota dysbiosis to chronic constipation and tests fecal microbiota transplantation as a way to restore microbial balance and metabolic function.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
+    </item>
+    <item>
       <title>Daily Podcast 2026-10-15</title>
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-15/podcast_2026-10-15.mp3</guid>
       <pubDate>Thu, 15 Oct 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-15/podcast_2026-10-15.mp3" length="17839988" type="audio/mpeg" />
-      <description>Researchers reviewing the brain‑gut‑microbiome axis report that disrupted bidirectional signaling among the central nervous system, enteric nervous system, immune pathways, and intestinal microbiota underlies both irritable bowel syndrome and depression. | Beta‑hydroxybutyrate (BHB) markedly eases intestinal acute graft‑versus‑host disease by remodeling the gut microbiota‑bile acid axis and blocking the TLR4‑NF‑κB pathway that drives pathogenic Th1 and Th17 T‑cell responses. | Fermenting Sargassum soluble dietary fiber with Bifidobacterium longum boosts its ability to curb oxidative stress and rebalance gut microbes, protecting mice from inflammatory bowel disease.</description>
+      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-10-15/podcast_2026-10-15.mp3" length="0" type="audio/mpeg" />
+      <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Researchers reviewing the brain‑gut‑microbiome axis report that disrupted bidirectional signaling among the central nervous system, enteric nervous system, immune pathways, and intestinal microbiota underlies both irritable bowel syndrome and depression. | Beta‑hydroxybutyrate (BHB) markedly eases intestinal acute graft‑versus‑host disease by remodeling the gut microbiota‑bile acid axis and blocking the TLR4‑NF‑κB pathway that drives pathogenic Th1 and Th17 T‑cell responses. | Fermenting Sargassum soluble dietary fiber with Bifidobacterium longum boosts its ability to curb oxidative stress and rebalance gut microbes, protecting mice from inflammatory bowel disease.</itunes:summary>
+      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
     </item>
@@ -661,17 +672,6 @@
       <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-24/podcast_2026-07-24.mp3</guid>
       <pubDate>Fri, 24 Jul 2026 08:00:00 GMT</pubDate>
       <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-24/podcast_2026-07-24.mp3" length="0" type="audio/mpeg" />
-      <description>Daily automated digest of microbiome research</description>
-      <itunes:author>Veronica Llorens</itunes:author>
-      <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://vllorens.github.io/microbiome_digest/cover.png" />
-    </item>
-    <item>
-      <title>Daily Podcast 2026-07-23</title>
-      <guid isPermaLink="false">https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-23/podcast_2026-07-23.mp3</guid>
-      <pubDate>Thu, 23 Jul 2026 08:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/vllorens/microbiome_digest/releases/download/episode-2026-07-23/podcast_2026-07-23.mp3" length="0" type="audio/mpeg" />
       <description>Daily automated digest of microbiome research</description>
       <itunes:author>Veronica Llorens</itunes:author>
       <itunes:summary>Daily automated digest of microbiome research</itunes:summary>
