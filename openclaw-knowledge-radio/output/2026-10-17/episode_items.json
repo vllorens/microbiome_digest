@@ -1,0 +1,249 @@
+{
+  "timestamps": [
+    0.0,
+    41.46,
+    98.43,
+    229.19,
+    344.93,
+    388.88,
+    431.58,
+    483.18,
+    525.01,
+    691.33,
+    872.47,
+    917.96,
+    959.32,
+    1090.48,
+    1133.71,
+    1180.69,
+    1347.75,
+    1393.06,
+    1434.38,
+    1473.56,
+    1522.81,
+    1571.99,
+    1631.61,
+    1751.46,
+    1796.78,
+    1845.22,
+    1886.03
+  ],
+  "items": [
+    {
+      "title": "Effects of three doses of tea polyphenols on lipid metabolism, intestinal barrier function, and gut microbiota in overweight mice.",
+      "url": "https://doi.org/10.1002/jsfa.71137",
+      "source": "PubMed — Journal of the science of food and agriculture",
+      "one_liner": "BACKGROUND: Overweight induced by a high-fat diet (HFD) is closely associated with dyslipidemia, oxidative stress, intestinal barrier dysfunction, and gut microbiota imbalance. Tea polyphenols have shown metabolic benefits; however, comparative information regarding their biological effects across different intervention doses remains limited. This study e...",
+      "segment": 0,
+      "timestamp": 0.0
+    },
+    {
+      "title": "Schizophrenia-associated gut microbiota are linked to reduced colonic PRODH expression and behavioral changes in mice.",
+      "url": "https://doi.org/10.1080/19490976.2026.2748081",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Schizophrenia (SCZ) is a chronic neuropsychiatric disorder whose biological basis remains incompletely understood. Growing evidence implicates the gut-brain axis in SCZ, but the host pathways through which disease-associated microbiota may influence behavior remain unclear. Here, we examined whether the gut microbiota from patients with SCZ is associated ...",
+      "segment": 1,
+      "timestamp": 41.46
+    },
+    {
+      "title": "Curcumin alleviates metabolic dysfunction-associated steatotic liver disease via gut microbiota-dependent epigenetic alterations.",
+      "url": "https://doi.org/10.1186/s43556-026-00606-1",
+      "source": "PubMed — Molecular biomedicine",
+      "one_liner": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is increasingly prevalent, yet effective therapies remain limited. Curcumin (Cur), a polyphenol with well-documented metabolic benefits, shows therapeutic promise in MASLD, but its efficacy and underlying mechanisms remain incompletely understood. A meta-analysis of seven clinical studies in...",
+      "segment": 2,
+      "timestamp": 98.43
+    },
+    {
+      "title": "Gut microbiota in patients receiving dialysis: Mechanisms, complications and the road to personalized microbiome‑based care (Review).",
+      "url": "https://doi.org/10.3892/mmr.2026.14044",
+      "source": "PubMed — Molecular medicine reports",
+      "one_liner": "Gut dysbiosis is increasingly recognized as a potential contributor to poor outcomes in patients receiving dialysis, yet its mechanistic complexity and therapeutic implications remain incompletely understood in clinical practice. The uremic environment, dietary restrictions, polypharmacy and dialysis modality‑specific factors collectively reshape the gut ...",
+      "segment": 3,
+      "timestamp": 229.19
+    },
+    {
+      "title": "Effects of locust bean gum on cholesterol gallstones and the gut microbiota in lithogenic diet-fed C57BL/6J mice.",
+      "url": "https://doi.org/10.1039/d6fo03327j",
+      "source": "PubMed — Food & function",
+      "one_liner": "Locust bean gum (LBG) is widely used as a thickener, stabilizer, emulsifier, and gelling agent in the food industry. In this study, a lithogenic diet-induced mouse model of cholesterol gallstones was employed to examine the effects of dietary supplementation with 2% and 5% LBG. Compared to the 5% dose, the 2% dose demonstrated superior efficacy. Gut micro...",
+      "segment": 4,
+      "timestamp": 344.93
+    },
+    {
+      "title": "Multi-site characterization of reproductive tract and gut microbiota in unexplained recurrent pregnancy loss: a case control study.",
+      "url": "https://doi.org/10.1530/RAF-26-0095",
+      "source": "PubMed — Reproduction & fertility",
+      "one_liner": "This cross-sectional case-control study aimed to characterize microbial communities across multiple anatomical sites in women with unexplained recurrent pregnancy loss compared with healthy controls. Forty women aged 18-40 years, including 20 with unexplained recurrent pregnancy loss and 20 healthy controls, were enrolled at Samson Assuta University Hospi...",
+      "segment": 5,
+      "timestamp": 388.88
+    },
+    {
+      "title": "Vaginal microbiome composition and medically assisted reproduction outcomes: a systematic review and network meta-analysis of 2289 women across three WHO regions.",
+      "url": "https://doi.org/10.1093/humupd/dmag033",
+      "source": "PubMed — Human reproduction update",
+      "one_liner": "BACKGROUND: The vaginal microbiome may influence the success of medically assisted reproduction (MAR), including IVF with or without ICSI, and IUI. However, findings across studies remain inconsistent, and previous meta-analyses have largely relied on binary microbiome classifications or pairwise comparisons. The relative associations between individual v...",
+      "segment": 6,
+      "timestamp": 431.58
+    },
+    {
+      "title": "A high-resolution spatial model of the primate gut microbiome defines niche-specific functions and host-adapted microbial metabolism.",
+      "url": "https://doi.org/10.1080/19490976.2026.2748153",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "The spatial organization of the gastrointestinal microbiome is shaped by strong physicochemical gradients along the gut, yet many region-associated microbial niches remain poorly resolved in humans. Here, we used the rhesus macaque (",
+      "segment": 7,
+      "timestamp": 483.18
+    },
+    {
+      "title": "Culturomics and amplicon-based insights into the endophytic microbiome of Kalmegh (Andrographis paniculata (Burm.f.) Nees) and its implications in plant growth promotion.",
+      "url": "https://doi.org/10.1007/s11274-026-05344-8",
+      "source": "PubMed — World journal of microbiology & biotechnology",
+      "one_liner": "Leaf and stem endophytic microorganisms play an important role in plant physiology and secondary metabolite biosynthesis of plants, particularly in medicinal plants. Kalmegh (Andrographis paniculata (Burm.f.) Nees) is an important medicinal plant with liver-protective, anti-inflammatory, ovicidal, larvicidal, and anti-urolithatic properties. The medicinal...",
+      "segment": 8,
+      "timestamp": 525.01
+    },
+    {
+      "title": "Engineering the gut microbiome with metal-resistant bacteria could protect Artemia nauplii from cadmium toxicity.",
+      "url": "https://doi.org/10.1007/s10534-026-00897-5",
+      "source": "PubMed — Biometals : an international journal on the role of metal ions in biology, biochemistry, and medicine",
+      "one_liner": "Metal pollution and emerging contaminants, such as metal nanoparticles, are increasingly found in estuarine and coastal environments. These pollutants pose significant risks to aquatic life and human health and may affect food security. This study evaluates host-associated microbiome engineering as a biological method to reduce cadmium toxicity in an aqua...",
+      "segment": 9,
+      "timestamp": 691.33
+    },
+    {
+      "title": "Microbiome Targeted Therapies for Primary Sclerosing Cholangitis.",
+      "url": "https://doi.org/10.1055/a-2983-7443",
+      "source": "PubMed — Seminars in liver disease",
+      "one_liner": "Primary sclerosing cholangitis is a rare, progressive cholestatic liver disease of the intrahepatic and extrahepatic bile ducts with poor prognosis. The only life-extending treatment for PSC is liver transplantation, with up to 25% of post-transplant patients developing recurrent disease, highlighting an extrahepatic influence on disease. The gut-liver ax...",
+      "segment": 10,
+      "timestamp": 872.47
+    },
+    {
+      "title": "The effects of novel oral preclinical PolC inhibitor antibiotic candidates on the gut microbiome in a murine thigh infection model.",
+      "url": "https://doi.org/10.1128/spectrum.01143-26",
+      "source": "PubMed — Microbiology spectrum",
+      "one_liner": "UNLABELLED: Antibiotics can negatively affect gut microbiome composition and function. However, preclinical evaluations of antibiotic effects on the microbiome are rarely undertaken. The purpose of this study was to characterize pharmacokinetics and metagenomic profiles of PolC inhibitor compounds compared to linezolid in a neutropenic murine thigh infect...",
+      "segment": 11,
+      "timestamp": 917.96
+    },
+    {
+      "title": "The Trajectory of Gastrointestinal Symptom Experience Following Fecal Microbiota Transplant for Recurrent Clostridioides Difficile Infection.",
+      "url": "https://doi.org/10.1097/MCG.0000000000002424",
+      "source": "PubMed — Journal of clinical gastroenterology",
+      "one_liner": "INTRODUCTION: Recurrent Clostridioides difficile infection (rCDI) increases the risk of persistent gastrointestinal symptoms after treatment. Although fecal microbiota transplantation (FMT) effectively prevents CDI recurrence after antibiotics, the trajectory of gastrointestinal symptom severity remains poorly characterized. METHODS: We tracked gastrointe...",
+      "segment": 12,
+      "timestamp": 959.32
+    },
+    {
+      "title": "A helminth-microbiota metabolic relay promotes disease tolerance.",
+      "url": "https://doi.org/10.1080/19490976.2026.2748132",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Persistent infection by helminths requires limiting inflammatory damage despite incomplete pathogen clearance, yet how helminths mobilize resident microbiota to establish this state remains unclear. Here we identify a cross-kingdom metabolic relay through which",
+      "segment": 13,
+      "timestamp": 1090.48
+    },
+    {
+      "title": "High-fat diet-derived metabolite uridine diphosphate (UDP) impairs epithelial regeneration by P2Y",
+      "url": "https://doi.org/10.1080/19490976.2026.2748160",
+      "source": "PubMed — Gut microbes",
+      "one_liner": "Obesity is associated with a chronic low-grade inflammation affecting metabolic changes and organ dysfunction. Impairment of the intestinal epithelial barrier (IEB) and alterations in gut microbiota are considered to contribute to this phenotype by largely undefined mechanisms. Here, we used a diet-induced obesity model in rats to investigate the early in...",
+      "segment": 14,
+      "timestamp": 1133.71
+    },
+    {
+      "title": "Indole-3-propionic acid nano-prodrugs sustain increased lymphoid exposure and alleviate experimental autoimmune arthritis",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.13.759006",
+      "source": "bioRxiv — bioengineering",
+      "one_liner": "Chronic inflammatory diseases, including rheumatoid arthritis (RA), currently require sustained control of inflammation. Although long-acting therapies can reduce dosing frequency, those that rely on systemic immunosuppression may still compromise protective immunity. Microbiota-derived metabolites offer a complementary starting point for immune modulatio...",
+      "segment": 15,
+      "timestamp": 1180.69
+    },
+    {
+      "title": "Fecal Microbiota Transfer for Recurrent Clostridioides difficile Infection: A Retrospective Single-Center Analysis.",
+      "url": "https://doi.org/10.1055/a-2954-8029",
+      "source": "PubMed — Zeitschrift fur Gastroenterologie",
+      "one_liner": "BACKGROUND: Clostridioides difficile infection (CDI) is the leading cause of healthcare-associated infectious diarrhea. Despite high initial response rates to antibiotic therapy, recurrence occurs in approximately 20% of patients. Fecal microbiota transplantation (FMT) has emerged as an effective treatment option for multiple recurrences, demonstrating hi...",
+      "segment": 16,
+      "timestamp": 1347.75
+    },
+    {
+      "title": "Immunosenescence in colorectal cancer: Interplay of microbiota, inflammaging, and metabolic reprogramming.",
+      "url": "https://doi.org/10.1016/j.cytogfr.2026.101536",
+      "source": "PubMed — Cytokine & growth factor reviews",
+      "one_liner": "Colorectal cancer (CRC) represents a major cause of cancer-associated morbidity and mortality worldwide, with significantly higher incidence and lethality in elderly individuals. Growing evidence implicates immunosenescence, the age-dependent functional decline of the immune system, as a key contributor to CRC initiation, progression, and therapeutic resi...",
+      "segment": 17,
+      "timestamp": 1393.06
+    },
+    {
+      "title": "Subverting colonization resistance:",
+      "url": "https://doi.org/10.1080/21505594.2026.2745323",
+      "source": "PubMed — Virulence",
+      "one_liner": "The intestinal tract is a key immune organ and microecological system, where colonization resistance (CR) mediated by gut microbiota prevents pathogen invasion.",
+      "segment": 18,
+      "timestamp": 1434.38
+    },
+    {
+      "title": "Targeting the microbiota-gut-brain axis in Alzheimer's and Parkinson´s disease: recent therapeutic approaches.",
+      "url": "https://doi.org/10.1080/14728222.2026.2748747",
+      "source": "PubMed — Expert opinion on therapeutic targets",
+      "one_liner": "INTRODUCTION: Alzheimer's disease (AD) and Parkinson's disease (PD) are the most common neurodegenerative disorders with limited disease-modifying treatment options. Evidence suggests that the microbiota-gut-brain axis (MGBA) plays a role in these diseases by facilitating communication between the gut and the central nervous system. Associations have been...",
+      "segment": 19,
+      "timestamp": 1473.56
+    },
+    {
+      "title": "The Role of Probiotics in Primary and Secondary Prevention of Vulvovaginitis during Pregnancy and Preterm Labor: A Systematic Review.",
+      "url": "https://doi.org/10.1159/mpp/adpag013",
+      "source": "PubMed — Medical principles and practice : international journal of the Kuwait University, Health Science Centre",
+      "one_liner": "OBJECTIVES: To evaluate the effectiveness and safety of oral probiotic supplementation for the primary prevention of vulvovaginal infections and preterm birth in pregnant women. METHODS: A systematic review (PROSPERO 1129806) of randomized, placebo-controlled studies evaluating oral probiotics in pregnant women was conducted using PubMed, Virtual Health L...",
+      "segment": 20,
+      "timestamp": 1522.81
+    },
+    {
+      "title": "MIMEco: multi-objective metabolic modeling to predict and explain pairwise interactions.",
+      "url": "https://doi.org/10.1128/msystems.01195-26",
+      "source": "PubMed — mSystems",
+      "one_liner": "UNLABELLED: Genome-scale metabolic models provide a mechanistic framework for quantitatively exploring an organism's physiology and its interactions with the environment. However, their use in microbial community modeling has been limited since it usually relies on community-wide objective functions or the integration of community abundance data. Neverthe...",
+      "segment": 21,
+      "timestamp": 1571.99
+    },
+    {
+      "title": "Cyanobacteria in sustainable agriculture: from bioactive metabolites toward mechanistically validated biostimulants.",
+      "url": "https://doi.org/10.1007/s00203-026-05265-y",
+      "source": "PubMed — Archives of microbiology",
+      "one_liner": "Cyanobacteria are emerging as multifunctional components of sustainable agroecosystems, with the potential to influence nutrient cycling, soil structure, plant-associated microbiomes, and crop responses to environmental stress. This review integrates current knowledge of the molecular and physiological mechanisms underlying these effects, emphasizing nitr...",
+      "segment": 22,
+      "timestamp": 1631.61
+    },
+    {
+      "title": "Gut mycobiome in the spectrum of Metabolic-dysfunction Associated Steatotic Liver Disease (MASLD): from MASH to hepatocellular carcinoma.",
+      "url": "https://doi.org/10.1016/j.clinsp.2026.101200",
+      "source": "PubMed — Clinics (Sao Paulo, Brazil)",
+      "one_liner": "UNLABELLED: Gut Microbiome (GM) dysbiosis is associated with the development and progression of Metabolic-dysfunction Associated Steatotic Liver Disease (MASLD) and steatohepatitis (MASH). Human GM contains bacteria, fungi, archaea, and viruses. Gut mycobiome (GMyco) is still poorly studied in patients with MASLD. Herein we investigated GMyco composition ...",
+      "segment": 23,
+      "timestamp": 1751.46
+    },
+    {
+      "title": "Circulating free bacterial DNA as a novel biomarker for monitoring therapy response in patients with advanced pancreatic cancer.",
+      "url": "https://doi.org/10.1016/j.ejca.2026.117040",
+      "source": "PubMed — European journal of cancer (Oxford, England : 1990)",
+      "one_liner": "BACKGROUND: Monitoring therapy response in pancreatic cancer (PDAC) remains challenging. The microbiome affects therapy efficacy, but its role in response prediction is unclear. We assessed whether changes in circulating free bacterial DNA (cfbDNA) levels predict outcome of advanced PDAC (aPDAC) patients treated with systemic chemotherapy. PATIENTS AND ME...",
+      "segment": 24,
+      "timestamp": 1796.78
+    },
+    {
+      "title": "Host-virus dynamics in anaerobic digesters facing abiotic inhibition.",
+      "url": "https://doi.org/10.1016/j.watres.2026.126521",
+      "source": "PubMed — Water research",
+      "one_liner": "Viruses play a major role in controlling the structure and dynamics of microbial communities in anaerobic digesters, ecosystems sensitive to disturbances that inhibit methane production. Here, we studied the interplay between abiotic disturbances, microbiome and virome composition, and process performance, to assess whether provirus induction can be trigg...",
+      "segment": 25,
+      "timestamp": 1845.22
+    },
+    {
+      "title": "Biomarkers of subclinical cholestasis predict cancer immunotherapy outcomes.",
+      "url": "https://doi.org/10.1080/2162402X.2026.2748140",
+      "source": "PubMed — Oncoimmunology",
+      "one_liner": "In a recent paper published in Cancer Cell, we identified subclinical cholestasis as an accessible imprint of gut dysbiosis predicting resistance to immune checkpoint blockade. Our work connects",
+      "segment": 26,
+      "timestamp": 1886.03
+    }
+  ]
+}
